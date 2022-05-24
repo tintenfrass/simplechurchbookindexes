@@ -330,7 +330,7 @@ Johannes Rost?
 Caspar Weber
 Matthæus Gansauge
 Fridrericus Frymberg?
-Gregor Hanke?
+Gregor Hacke
 Urban Kaghan?
 Georg Lörigker
 ----------------
@@ -631,6 +631,10 @@ Michael Donat
 Philipp Schüttig
 Georg Rotzsch
 Martin Keller
+----------------
+----------------
+----------------
+----------------
 ----------------
 Georg Donath
 Johannes Hühne?

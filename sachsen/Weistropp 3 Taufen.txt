@@ -1940,7 +1940,7 @@ Barbara Hans Schröter
 1618
 Ambrosius Tiburti Hempel
 Georg Jacob Wuslich
-Maria Georg Henker
+Maria Georg Hacke
 Dorothea Jacob Peuchel
 Maria Jacob Claus
 Georg Matthes Schicke
@@ -1987,7 +1987,7 @@ Anna Hans Baudisch
 Maria Paul Berger
 Margaretha Martin Martin Philip
 Maria Donat Burchard
-Margaretha Georg Henker
+Margaretha Georg Hacke
 --------
 Margaretha Caspar Udolph
 Martin Georg Löbner
@@ -2059,7 +2059,7 @@ Margaretha Georg Hoyer?
 Maria Nickel Meyer
 Maria Georg Rüßel
 Barbara Abraham Mühlbach
-Georg Georg Henker
+Georg Georg Hacke
 Dorothea Martin Grosch
 Ambrosius Georg Schedrich
 Margaretha Matthes Schlicke
@@ -2110,8 +2110,20 @@ Maria Martin Petzsch
 --------
 --------
 --------
+Christine-Maria Christian Erkersberg
+Michael Jacob Wustlig
+Georg Peter Weber
+Johannes Christine Kleber
 --------
+Johannes Philip Patz
+Margaretha Jacob Ranft
+Michael Michael Philip
+Michael Andreas Schütter
+Gerog Gerog Hempel
+Christine David Fickler
+Barbara Georg Hacke
 --------
+Maria Nickel Philip
 --------
 --------
 1623
