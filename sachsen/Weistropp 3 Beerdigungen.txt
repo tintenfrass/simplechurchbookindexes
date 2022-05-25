@@ -1100,8 +1100,8 @@ Barbara Ambrosius Hillig
 Georg Kneuffel
 Euphemia - Hewe?
 Catharina Asmus Schrempel
- Georg Schröter
-Barbara  Burckhardt
+- Georg Schröter
+Barbara - Burckhardt
 .
 Georg Freundt
 - Hans Richter
@@ -1760,7 +1760,7 @@ Peter Preisker
 .
 Catharina Donat Lange
 Catharina Hans Merten
-Martin  Ulman
+Martin Ulman
 .
 ----------------
 .
