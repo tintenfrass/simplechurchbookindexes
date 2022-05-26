@@ -3,7 +3,7 @@ Beerdigungen 1638-1705
 
 Das ist ein einfacher Index der Beerdigungen der verheirateten Erwachsenen.
 
-Die meisten Vornamen über Shortcuts erstellt.
+Die meisten Vornamen wurden über Shortcuts erstellt.
 Dabei wurden ähnliche Namen bzw. verschiedene Schreibweisen auf den gleichen Shortcut gelegt.
 
 Bsp:
@@ -1574,7 +1574,7 @@ Martin Merbitz
 ----------------
 ----------------
 ----------------
-1705
+1705 [Teil 1]
 Jacob Peuchel
 Christine Nickel-Adam Stuncker?
 Rosina Martin Schütze

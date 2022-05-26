@@ -3,7 +3,7 @@ Beerdigungen 1554-1636
 
 Das ist ein einfacher Index der Beerdigungen der verheirateten Erwachsenen.
 
-Die meisten Vornamen über Shortcuts erstellt.
+Die meisten Vornamen wurden über Shortcuts erstellt.
 Dabei wurden ähnliche Namen bzw. verschiedene Schreibweisen auf den gleichen Shortcut gelegt.
 
 Bsp:
@@ -520,7 +520,7 @@ Martin Nauman
 .
 .
 Valentin Lörigke
-- Peter Mehlich
+Peter Mehlich
 .
 Peter Bortisch?
 - Urban John
@@ -1098,7 +1098,7 @@ Barbara - Burckhardt
 Maria Georg Schedrich
 Barbara Ambrosius Hillig
 Georg Kneuffel
-Euphemia - Hewe?
+Euphemia - Heuer?
 Catharina Asmus Schrempel
 - Georg Schröter
 Barbara - Burckhardt
@@ -1962,6 +1962,7 @@ Barbara Stephan Leuteritz
 Margaretha Andreas Jahn
 Anna Jacob Ganßauge
 .
+----------------
 Johann Schröter
 Margaretha Martin Nauman
 Martin Ganßauge

@@ -477,7 +477,7 @@ Peter Händel
 Peter Adam
 Martin Ranft
 Martin Herman
-Blasius Hatter?
+Blasius Hauer?
 Georg Schederich?
 Simon Bruchlitz
 ----------------
@@ -550,8 +550,8 @@ Hans Kählschmdiedt
 ----------------
 1606
 Martin Herter?
-Michael Hempel?
-Martin Watz
+Michael Hempel
+Martin Patz
 Bartholomeus Weber
 Valentin Schüttich
 Martin Leuderitz
@@ -562,7 +562,7 @@ Hans Weber
 1607
 Antonius Nörner?
 Benedikt Jahn
-Jacob Wurstlich?
+Jacob Wustlich
 Gregor Fickler
 Peter Clauß
 Michaël Donath
@@ -572,16 +572,16 @@ Elias Ditze
 ----------------
 1608
 Thomas Adam
-Jacob Kruntzel?
+Jacob Kuntze
 Martin Lange
 Martin Donath
-Valentin Wurslich
+Valentin Wuslich
 Martin Adam
 ----------------
 Simon Funcke
 Mertten Perger?
-Georg Kemyzer?
-J. Cresten von Günther?
+Georg Kempze?
+Christian? Güntherode?
 Mertten Fehrman
 Jacob Bartel
 ----------------
@@ -590,7 +590,7 @@ Georg Mehlich
 Georg Irmich?
 Georg Gansauge
 Martin Fickler
-? Günterode?
+Gotesehelus? Günterode?
 Johannes Burchhardt
 Thomas Preysiger?
 Peter Ulman
@@ -601,7 +601,7 @@ Georg Hempel
 ----------------
 1610
 Stephan Giesman
-Michael Patzer
+Michael Patz
 Caspar Udolph
 Valentin Wuslich
 Ambrosius Werner
@@ -742,10 +742,10 @@ Benedikt Fickler
 Michael Tzschunke?
 Georg Schüttich
 Benno Wolff
-Martin Schüter?
+Martin Schuster
 ----------------
 Georg Hertzschuch
-Barthel Kraußye?
+Barthel Kraußpe
 Christoph Baudisch?
 Michaël Lehman
 Peter Perker?
@@ -828,8 +828,8 @@ Andreas Faust
 Martin Hoyer
 Philipp Burchhardt
 Martin Kleber
-Michaël Herdscheider?
-Martin Greser?
+Michaël Leckscheide
+Martin Grosche
 Simon Junghanß
 Georg Kleber
 ----------------
@@ -852,11 +852,11 @@ Georg Wolff
 1625
 Thomas Frank?
 Johannes Burchhardt
-Georg Krusye?
+Georg Krauspe
 ----------------
 Caspar Baltzsch
 Stephan Götze
-Nicol Döfner
+Nicol Döhner
 Antonius Gansauge
 Georg Philipp
 Michaël Jäniche
@@ -871,18 +871,18 @@ Martin Fehrman
 Michaël Clauß
 Peter Simon
 Caspar John
-Johannes Didwig
+Johannes Didrich
 Georg Fehrman
 Georg Nietzsch
 Jacob Hilligk
 ----------------
 Michaël Burchhardt
 Barthel Rabe
-Christian Rimknecht
+Christian Reinknecht
 Donat Kleber
-Erasmus Diderig?
+Erasmus Didrich
 Johanes Rotzsch
-Peter Patzscher?
+Peter Petzsch
 Balthasar Sperhark?
 Hans Klotzsch
 ----------------
