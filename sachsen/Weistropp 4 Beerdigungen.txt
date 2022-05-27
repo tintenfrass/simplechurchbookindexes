@@ -5,7 +5,6 @@ Das ist ein einfacher Index der Beerdigungen der verheirateten Erwachsenen.
 
 Die meisten Vornamen wurden über Shortcuts erstellt.
 Dabei wurden ähnliche Namen bzw. verschiedene Schreibweisen auf den gleichen Shortcut gelegt.
-
 Bsp:
 Gregor/Greger => Georg
 
