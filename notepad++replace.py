@@ -1,0 +1,100 @@
+search_text = {
+'qq':'.\r\n',
+'yy':'----------------\r\n',
+'a1':'Andreas ',
+'a2':'August ',
+'a3':'Adam ',
+'a4':'Abraham ',
+'a5':'Anna ',
+'a6':'Amalie ',
+'b1':'Barthel ',
+'b2':'Blasius ',
+'b3':'Brosius ',
+'b4':'Benedikt ',
+'b5':'Barbara ',
+'b6':'Bertha ',
+'c1':'Christian ',
+'c2':'Christoph ',
+'c3':'Caspar ',
+'c4':'Clemens ',
+'c5':'Christina ',
+'c6':'Catharina ',
+'d1':'Daniel ',
+'d2':'Donat ',
+'d3':'Dominic ',
+'d4':'David ',
+'d5':'Dorothea ',
+'e1':'Ernst ',
+'e2':'Emil ',
+'e3':'Elias ',
+'e5':'Elisabeth ',
+'e6':'Eva ',
+'f1':'Franz ',
+'f2':'Friedrich ',
+'f5':'Friederike ',
+'g1':'Georg ',
+'g2':'Gregor ',
+'g3':'Gottfried ',
+'g5':'Gertrud ',
+'h2':'Heinrich ',
+'h3':'Hans ',
+'h5':'Hanna ',
+'i5':'Ida ',
+'j1':'Johann ',
+'j2':'Jacob ',
+'j3':'Jeremias ',
+'j5':'Johanna ',
+'j6':'Justina ',
+'l1':'Lorenz ',
+'l2':'Lucas ',
+'m1':'Martin ',
+'m2':'Michael ',
+'m3':'Mattheus ',
+'m4':'Max ',
+'m5':'Maria ',
+'m6':'Martha ',
+'m7':'Margaretha ',
+'m8':'Magdalena ',
+'n1':'Nickel ',
+'o1':'Otto ',
+'p1':'Peter ',
+'p2':'Paul ',
+'p3':'Philip ',
+'p5':'Pauline ',
+'r1':'Richard ',
+'r2':'Robert ',
+'r5':'Rosina ',
+'r6':'Regina ',
+'s1':'Samuel ',
+'s2':'Simon ',
+'s3':'Stephan ',
+'s5':'Sophia ',
+'s6':'Selma ',
+'t1':'Thomas ',
+'t2':'Tobias ',
+'t3':'Traugott ',
+'u1':'Urban ',
+'u5':'Ursula ',
+'v1':'Valentin ',
+'w1':'Wilhelm ',
+'w2':'Wenzel ',
+'w5':'Wilhelmina ',
+'w6':'Walpa ',
+}
+
+def callback_sci_CHARADDED(args):
+    for search in search_text:
+        if chr(args['ch']) == search[-1]:
+            cp = editor.getCurrentPos()
+            search_text_length = len(search)
+            start_of_search_text_pos = cp - search_text_length
+            if editor.getTextRange(start_of_search_text_pos, cp) == search:
+                editor.beginUndoAction()
+                editor.deleteRange(start_of_search_text_pos, search_text_length)
+                editor.insertText(start_of_search_text_pos, search_text[search])
+                editor.endUndoAction()
+                end_of_search_text_pos = start_of_search_text_pos + len(search_text[search])
+                editor.setCurrentPos(end_of_search_text_pos)
+                editor.setSelection(end_of_search_text_pos, end_of_search_text_pos)
+                editor.chooseCaretX()
+editor.callback(callback_sci_CHARADDED, [SCINTILLANOTIFICATION.CHARADDED])

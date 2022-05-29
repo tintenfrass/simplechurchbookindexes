@@ -1,0 +1,293 @@
+ '.text.plain':
+   '----------------':
+     'prefix': 'q'
+     'body': '----------------\r\n'
+   '.':
+     'prefix': '1'
+     'body': '.\r\n'
+   '|':
+     'prefix': '+'
+     'body': ' | '
+
+   '_Andreas':
+     'prefix': 'a0'
+     'body': '_Andreas '
+   '_Antonius':
+     'prefix': 'a1'
+     'body': '_Antonius '
+   '_Adam':
+     'prefix': 'a2'
+     'body': '_Adam '
+   '_Ambrosius':
+     'prefix': 'a3'
+     'body': '_Ambrosius '
+   '_Asmus':
+     'prefix': 'a4'
+     'body': '_Asmus '
+   '_Anna':
+     'prefix': 'a5'
+     'body': '_Anna '
+
+   '_Barthel':
+     'prefix': 'b0'
+     'body': '_Barthel '
+   '_Balthasar':
+     'prefix': 'b1'
+     'body': '_Barthel '
+   '_Blasius':
+     'prefix': 'b2'
+     'body': '_Blasius '
+   '_Brosius':
+     'prefix': 'b3'
+     'body': '_Brosius '
+   '_Benedig':
+     'prefix': 'b4'
+     'body': '_Benedig '
+   '_Barbara':
+     'prefix': 'b5'
+     'body': '_Barbara '
+   '_Burckhard':
+     'prefix': 'b9'
+     'body': '_Burckhard '
+
+   '_Christian':
+     'prefix': 'c0'
+     'body': '_Christian '
+   '_Christoph':
+     'prefix': 'c2'
+     'body': '_Christoph '
+   '_Caspar':
+     'prefix': 'c3'
+     'body': '_Caspar '
+   '_Clemens':
+     'prefix': 'c4'
+     'body': '_Clemens '
+   '_Christine':
+     'prefix': 'c5'
+     'body': '_Christine '
+   '_Catharina':
+     'prefix': 'c6'
+     'body': '_Catharina '
+
+   '_Donat':
+     'prefix': 'd0'
+     'body': '_Donat '
+   '_Daniel':
+     'prefix': 'd1'
+     'body': '_Daniel '
+   '_David':
+     'prefix': 'd2'
+     'body': '_David '
+   '_Dominic':
+     'prefix': 'd3'
+     'body': '_Dominic '
+   '_Dorothea':
+     'prefix': 'd5'
+     'body': '_Dorothea '
+
+   '_Elias':
+     'prefix': 'e0'
+     'body': '_Elias '
+   '_Ernst':
+     'prefix': 'e1'
+     'body': '_Ernst '
+   '_Emil':
+     'prefix': 'e2'
+     'body': '_Emil '
+   '_Egidius':
+     'prefix': 'e3'
+     'body': '_Egidius '
+   '_Erasmus':
+     'prefix': 'e4'
+     'body': '_Erasmus '
+   '_Elisabeth':
+     'prefix': 'e5'
+     'body': '_Elisabeth '
+   '_Eva':
+     'prefix': 'e6'
+     'body': '_Eva '
+
+   '_Franz':
+     'prefix': 'f1'
+     'body': '_Franz '
+   '_Friedrich':
+     'prefix': 'f2'
+     'body': '_Friedrich '
+
+   '_Georg':
+     'prefix': 'g0'
+     'body': '_Georg '
+   '_Gregor':
+     'prefix': 'g1'
+     'body': '_Gregor '
+   '_Gottfried':
+     'prefix': 'g2'
+     'body': '_Gottfried '
+   '_Gottlieb':
+     'prefix': 'g3'
+     'body': '_Gottlieb '
+   '_Gottlob':
+     'prefix': 'g4'
+     'body': '_Gottlob '
+   '_Gertrud':
+     'prefix': 'g5'
+     'body': '_Gertrud '
+
+   '_Hans':
+     'prefix': 'h0'
+     'body': '_Hans '
+   '_Heinrich':
+     'prefix': 'h1'
+     'body': '_Heinrich '
+   '_Hironimus':
+     'prefix': 'h2'
+     'body': '_Hironimus '
+   '_Hanna':
+     'prefix': 'h5'
+     'body': '_Hanna '
+
+   '_Johann':
+     'prefix': 'j0'
+     'body': '_Johann '
+   '_Jorge':
+     'prefix': 'j1'
+     'body': '_Jorge '
+   '_Jacob':
+     'prefix': 'j2'
+     'body': '_Jacob '
+   '_Jeremias':
+     'prefix': 'j3'
+     'body': '_Jeremias '
+   '_Jonas':
+     'prefix': 'j4'
+     'body': '_Jonas '
+   '_Johanna':
+     'prefix': 'j5'
+     'body': '_Johanna '
+   '_Justina':
+     'prefix': 'j6'
+     'body': '_Justina '
+
+   '_Kilian':
+     'prefix': 'k0'
+     'body': '_Kilian '
+
+   '_Lorenz':
+     'prefix': 'l0'
+     'body': '_Lorenz '
+   '_Laux':
+     'prefix': 'l1'
+     'body': '_Laux '
+   '_Lucas':
+     'prefix': 'l2'
+     'body': '_Lucas '
+
+   '_Martin':
+     'prefix': 'm0'
+     'body': '_Martin '
+   '_Mats':
+     'prefix': 'm1'
+     'body': '_Mats '
+   '_Michael':
+     'prefix': 'm2'
+     'body': '_Michael '
+   '_Mattheus':
+     'prefix': 'm3'
+     'body': '_Mattheus '
+   '_Melchior':
+     'prefix': 'm4'
+     'body': '_Melchior '
+   '_Maria':
+     'prefix': 'm5'
+     'body': '_Maria '
+   '_Martha':
+     'prefix': 'm6'
+     'body': '_Martha '
+   '_Margaretha':
+     'prefix': 'm7'
+     'body': '_Margaretha '
+   '_Magdalena':
+     'prefix': 'm8'
+     'body': '_Magdalena '
+
+   '_Nicol':
+     'prefix': 'n0'
+     'body': '_Nicol '
+
+   '_Otto':
+     'prefix': 'o0'
+     'body': '_Otto '
+
+   '_Peter':
+     'prefix': 'p0'
+     'body': '_Peter '
+   '_Paul':
+     'prefix': 'p2'
+     'body': '_Paul '
+   '_Philip':
+     'prefix': 'p3'
+     'body': '_Philip '
+   '_Pauline':
+     'prefix': 'p5'
+     'body': '_Pauline '
+
+   '_Richard':
+     'prefix': 'r1'
+     'body': '_Richard '
+   '_Robert':
+     'prefix': 'r2'
+     'body': '_Robert '
+   '_Rosina':
+     'prefix': 'r5'
+     'body': '_Rosina '
+   '_Regina':
+     'prefix': 'r6'
+     'body': '_Regina '
+
+   '_Simon':
+     'prefix': 's0'
+     'body': '_Simon '
+   '_Samuel':
+     'prefix': 's2'
+     'body': '_Samuel '
+   '_Stephan':
+     'prefix': 's3'
+     'body': '_Stephan '
+   '_Sophia':
+     'prefix': 's5'
+     'body': '_Sophia '
+
+   '_Thomas':
+     'prefix': 't0'
+     'body': '_Thomas '
+   '_Tobias':
+     'prefix': 't2'
+     'body': '_Tobias '
+
+   '_Urban':
+     'prefix': 'u0'
+     'body': '_Urban '
+   '_Ursula':
+     'prefix': 'u5'
+     'body': '_Ursula '
+
+   '_Valentin':
+     'prefix': 'v0'
+     'body': '_Valentin '
+   '_Veit':
+     'prefix': 'v1'
+     'body': '_Veit '
+
+   '_Wenzel':
+     'prefix': 'w0'
+     'body': '_Wenzel '
+   '_Wilhelm':
+     'prefix': 'w2'
+     'body': '_Wilhelm '
+   '_Walpurg':
+     'prefix': 'w5'
+     'body': '_Walpurg '
+
+   '_Zacharias':
+     'prefix': 'z1'
+     'body': '_Zacharias '

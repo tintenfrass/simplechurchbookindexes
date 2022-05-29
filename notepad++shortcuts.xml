@@ -1,0 +1,669 @@
+<NotepadPlus>
+    <InternalCommands>
+        <Shortcut id="42013" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42034" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="41011" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44042" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="41008" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42026" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43053" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44031" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="43011" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="44030" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42067" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="41004" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="41003" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <Shortcut id="42069" Ctrl="no" Alt="no" Shift="no" Key="0" />
+    </InternalCommands>
+    <Macros>
+        <Macro name="Trim Trailing Space and Save" Ctrl="no" Alt="no" Shift="no" Key="0">
+            <Action type="2" message="0" wParam="42024" lParam="0" sParam="" />
+            <Action type="2" message="0" wParam="41006" lParam="0" sParam="" />
+        </Macro>
+        <Macro name="Christoph" Ctrl="yes" Alt="yes" Shift="yes" Key="67">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="C" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="h" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="s" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="p" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="h" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="August" Ctrl="no" Alt="yes" Shift="no" Key="65">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="A" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="u" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="g" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="u" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="s" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Auguste" Ctrl="yes" Alt="yes" Shift="no" Key="65">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="A" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="u" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="g" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="u" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="s" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Christian" Ctrl="no" Alt="yes" Shift="no" Key="67">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="C" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="h" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="s" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Eva" Ctrl="yes" Alt="yes" Shift="no" Key="69">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="E" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="v" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Emilie" Ctrl="no" Alt="yes" Shift="yes" Key="69">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="E" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="m" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Friedrich" Ctrl="no" Alt="yes" Shift="no" Key="70">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="F" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="d" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="c" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="h" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Hanna" Ctrl="yes" Alt="yes" Shift="no" Key="72">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="H" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Hans" Ctrl="yes" Alt="yes" Shift="yes" Key="72">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="H" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="s" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Ida" Ctrl="yes" Alt="yes" Shift="no" Key="73">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="I" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="d" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Johann" Ctrl="no" Alt="yes" Shift="no" Key="74">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="J" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="h" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Johanne" Ctrl="yes" Alt="yes" Shift="no" Key="74">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="J" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="h" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Maria" Ctrl="yes" Alt="yes" Shift="no" Key="77">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="M" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Martha" Ctrl="no" Alt="yes" Shift="yes" Key="77">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="M" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="h" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Paul" Ctrl="no" Alt="yes" Shift="no" Key="80">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="P" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="u" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Rosina" Ctrl="yes" Alt="yes" Shift="no" Key="82">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="R" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="s" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Sophie" Ctrl="yes" Alt="yes" Shift="no" Key="83">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="S" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="p" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="h" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Wilhelm" Ctrl="no" Alt="yes" Shift="no" Key="87">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="W" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="h" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="m" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Wilhelmine" Ctrl="yes" Alt="yes" Shift="no" Key="87">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="W" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="h" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="m" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Georg" Ctrl="no" Alt="yes" Shift="no" Key="71">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="G" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="g" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Gottfried" Ctrl="no" Alt="yes" Shift="no" Key="112">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="G" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="f" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="d" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Gottlieb" Ctrl="no" Alt="yes" Shift="no" Key="113">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="G" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="b" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Gottlob" Ctrl="no" Alt="yes" Shift="no" Key="114">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="G" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="b" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Gotthelf" Ctrl="no" Alt="yes" Shift="no" Key="115">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="G" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="h" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="f" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Hermann" Ctrl="no" Alt="yes" Shift="no" Key="72">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="H" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="m" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Amalie" Ctrl="no" Alt="yes" Shift="yes" Key="65">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="A" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="m" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Anna" Ctrl="no" Alt="yes" Shift="no" Key="116">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="A" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Bertha" Ctrl="yes" Alt="yes" Shift="no" Key="66">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="B" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="h" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Franz" Ctrl="yes" Alt="yes" Shift="yes" Key="70">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="F" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="z" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Pauline" Ctrl="yes" Alt="yes" Shift="no" Key="80">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="P" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="u" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Ernst" Ctrl="no" Alt="yes" Shift="no" Key="69">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="E" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="s" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Emil" Ctrl="yes" Alt="yes" Shift="yes" Key="69">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="E" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="m" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Regina" Ctrl="no" Alt="yes" Shift="yes" Key="82">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="R" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="g" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Richard" Ctrl="no" Alt="yes" Shift="no" Key="82">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="R" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="c" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="h" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="d" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Otto" Ctrl="no" Alt="yes" Shift="no" Key="79">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="O" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Gustav" Ctrl="yes" Alt="yes" Shift="yes" Key="71">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="G" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="u" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="s" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="v" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Andreas" Ctrl="yes" Alt="yes" Shift="yes" Key="65">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="A" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="d" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="s" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Selma" Ctrl="no" Alt="yes" Shift="yes" Key="83">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="S" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="m" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Emma" Ctrl="no" Alt="yes" Shift="no" Key="117">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="E" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="m" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="m" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Robert" Ctrl="yes" Alt="yes" Shift="yes" Key="82">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="R" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="b" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Martin" Ctrl="no" Alt="yes" Shift="no" Key="77">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="M" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Michael" Ctrl="yes" Alt="yes" Shift="yes" Key="77">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="M" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="c" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="h" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Gertrud" Ctrl="yes" Alt="yes" Shift="no" Key="71">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="G" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="u" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="d" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Thomas" Ctrl="no" Alt="yes" Shift="no" Key="84">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="T" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="h" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="m" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="s" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Dorothea" Ctrl="yes" Alt="yes" Shift="no" Key="68">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="D" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="h" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Friederike" Ctrl="yes" Alt="yes" Shift="no" Key="70">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="F" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="d" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="k" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Samuel" Ctrl="no" Alt="yes" Shift="no" Key="83">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="S" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="m" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="u" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Traugott" Ctrl="yes" Alt="yes" Shift="yes" Key="84">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="T" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="u" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="g" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Christine" Ctrl="no" Alt="yes" Shift="yes" Key="67">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="C" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="h" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="s" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Urban" Ctrl="no" Alt="yes" Shift="no" Key="85">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="U" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="b" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Wenzel" Ctrl="yes" Alt="yes" Shift="yes" Key="87">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="W" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="z" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Blasius" Ctrl="no" Alt="yes" Shift="no" Key="66">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="B" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="s" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="u" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="s" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Donat" Ctrl="no" Alt="yes" Shift="no" Key="68">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="D" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Barthel" Ctrl="yes" Alt="yes" Shift="yes" Key="66">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="B" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="h" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Nickel" Ctrl="no" Alt="yes" Shift="no" Key="78">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="N" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="c" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="k" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Lorenz" Ctrl="no" Alt="yes" Shift="no" Key="76">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="L" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="z" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Simon" Ctrl="yes" Alt="yes" Shift="yes" Key="83">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="S" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="m" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Peter" Ctrl="yes" Alt="yes" Shift="yes" Key="80">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="P" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Jacob" Ctrl="yes" Alt="yes" Shift="yes" Key="74">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="J" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="c" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="o" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="b" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="NewLine" Ctrl="no" Alt="yes" Shift="no" Key="189">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="-" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="-" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="-" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="-" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="-" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="-" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="-" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="-" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="&#x000D;" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="&#x000A;" />
+        </Macro>
+        <Macro name="Walpurg" Ctrl="no" Alt="yes" Shift="yes" Key="87">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="W" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="p" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="u" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="g" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Katharina" Ctrl="yes" Alt="yes" Shift="no" Key="75">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="K" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="h" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Valentin" Ctrl="no" Alt="yes" Shift="no" Key="86">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="V" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Barbara" Ctrl="no" Alt="yes" Shift="yes" Key="66">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="B" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="b" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Ursula" Ctrl="yes" Alt="yes" Shift="no" Key="85">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="U" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="s" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="u" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="l" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Margaretha" Ctrl="no" Alt="yes" Shift="no" Key="118">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="M" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="g" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="e" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="h" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+        <Macro name="Catharina" Ctrl="yes" Alt="yes" Shift="no" Key="67">
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="C" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="t" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="h" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="r" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="i" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="n" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam="a" />
+            <Action type="1" message="2170" wParam="0" lParam="0" sParam=" " />
+        </Macro>
+    </Macros>
+    <UserDefinedCommands>
+        <Command name="Get PHP help" Ctrl="no" Alt="no" Shift="no" Key="0">https://www.php.net/$(CURRENT_WORD)</Command>
+        <Command name="Wikipedia Search" Ctrl="no" Alt="no" Shift="no" Key="0">https://en.wikipedia.org/wiki/Special:Search?search=$(CURRENT_WORD)</Command>
+        <Command name="Open file in another instance" Ctrl="no" Alt="no" Shift="no" Key="0">$(NPP_FULL_FILE_PATH) $(CURRENT_WORD) -nosession -multiInst</Command>
+    </UserDefinedCommands>
+    <PluginCommands>
+        <PluginCommand moduleName="ComparePlugin.dll" internalID="1" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <PluginCommand moduleName="ComparePlugin.dll" internalID="7" Ctrl="no" Alt="no" Shift="no" Key="0" />
+        <PluginCommand moduleName="ComparePlugin.dll" internalID="5" Ctrl="no" Alt="no" Shift="no" Key="0" />
+    </PluginCommands>
+    <ScintillaKeys />
+</NotepadPlus>
