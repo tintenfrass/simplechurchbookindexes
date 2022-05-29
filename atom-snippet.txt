@@ -33,7 +33,7 @@
      'body': '_Barthel '
    '_Balthasar':
      'prefix': 'b1'
-     'body': '_Barthel '
+     'body': '_Balthasar '
    '_Blasius':
      'prefix': 'b2'
      'body': '_Blasius '
