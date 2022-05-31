@@ -34,7 +34,7 @@ z.B. legt man sich den Namen Georg auf alt+G, Gottfried auf auf alt+str+G und Go
 Das ist ganz ok aber geht besser.
 Einige der Index-Listen wurden auf diese Weise erstellt.
 
-#### 4. Text-To-Speach?
+#### 4. Speach-To-Text?
 Zu langsam und zu anstrengend, dazu sehr hohe Fehlerquote, für viele Nachnamen unbrauchbar, nicht zu empfehlen.
 
 #### 5. ...
