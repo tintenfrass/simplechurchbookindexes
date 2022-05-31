@@ -27,6 +27,9 @@
    '_Anna':
      'prefix': 'a5'
      'body': '_Anna '
+   '_Hans-Adam':
+     'prefix': 'ha2'
+     'body': '_Hans-Adam '
 
    '_Barthel':
      'prefix': 'b0'
@@ -68,6 +71,21 @@
    '_Catharina':
      'prefix': 'c6'
      'body': '_Catharina '
+   '_Georg-Christian':
+     'prefix': 'gc0'
+     'body': 'Georg-Christian '
+   '_Hans-Christoph':
+     'prefix': 'hc2'
+     'body': '_Hans-Christoph '
+   '_Hans-Caspar':
+     'prefix': 'hc3'
+     'body': '_Hans-Caspar '
+   '_Johann-Christian':
+     'prefix': 'jc0'
+     'body': '_Johann-Christian '
+   '_Johann-Christoph':
+     'prefix': 'jc2'
+     'body': '_Johann-Christoph '
 
    '_Donat':
      'prefix': 'd0'
@@ -113,6 +131,9 @@
    '_Friedrich':
      'prefix': 'f2'
      'body': '_Friedrich '
+   '_Johann-Friedrich':
+     'prefix': 'jf2'
+     'body': '_Johann-Friedrich '
 
    '_Georg':
      'prefix': 'g0'
@@ -132,19 +153,40 @@
    '_Gertrud':
      'prefix': 'g5'
      'body': '_Gertrud '
+   '_Hans-Georg':
+     'prefix': 'hg0'
+     'body': '_Hans-Georg '
+   '_Hans-Gottfried':
+     'prefix': 'hg2'
+     'body': '_Hans-Gottfried '
+   '_Johann-Georg':
+     'prefix': 'jg0'
+     'body': '_Johann-Georg '
+   '_Johann-Gottfried':
+     'prefix': 'jg2'
+     'body': '_Johann-Gottfried '
+   '_Johann-_Gottlieb':
+     'prefix': 'jg3'
+     'body': '_Johann-_Gottlieb '
+   '_Johann-_Gottlob':
+     'prefix': 'jg4'
+     'body': '_Johann-_Gottlob '
 
    '_Hans':
      'prefix': 'h0'
      'body': '_Hans '
-   '_Heinrich':
-     'prefix': 'h1'
-     'body': '_Heinrich '
    '_Hironimus':
-     'prefix': 'h2'
+     'prefix': 'h1'
      'body': '_Hironimus '
+   '_Heinrich':
+     'prefix': 'h2'
+     'body': '_Heinrich '
    '_Hanna':
      'prefix': 'h5'
      'body': '_Hanna '
+   '_Hans-Heinrich':
+     'prefix': 'hh2'
+     'body': '_Hans-Heinrich '
 
    '_Johann':
      'prefix': 'j0'
@@ -209,6 +251,12 @@
    '_Magdalena':
      'prefix': 'm8'
      'body': '_Magdalena '
+   '_Johann-Martin':
+     'prefix': 'jm0'
+     'body': '_Johann-Martin '
+   '_Johann-Michael':
+     'prefix': 'jm2'
+     'body': '_Johann-Michael '
 
    '_Nicol':
      'prefix': 'n0'
@@ -217,6 +265,9 @@
    '_Otto':
      'prefix': 'o0'
      'body': '_Otto '
+   '_Oswald':
+     'prefix': 'o1'
+     'body': '_Oswald '
 
    '_Peter':
      'prefix': 'p0'
@@ -247,12 +298,18 @@
    '_Simon':
      'prefix': 's0'
      'body': '_Simon '
+   '_Salomon':
+     'prefix': 's1'
+     'body': '_Salomon '
    '_Samuel':
      'prefix': 's2'
      'body': '_Samuel '
    '_Stephan':
      'prefix': 's3'
      'body': '_Stephan '
+   '_Sebastian':
+     'prefix': 's4'
+     'body': '_Sebastian '
    '_Sophia':
      'prefix': 's5'
      'body': '_Sophia '
