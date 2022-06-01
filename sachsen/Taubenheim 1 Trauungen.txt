@@ -1,20 +1,22 @@
 Taubenheim (Buch 1)
-Trauungen 1573-1686
+Trauungen 1573-1687
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Er enthällt einige Fehler, denn einige Nachnamen in diesem Buch sind schwer order gar nicht lesbar.
 
-Die meisten Vornamen wurden über Shortcuts erstellt, 
+Die meisten Vornamen wurden über Shortcuts erstellt,
 dabei wurden ähnliche Namen bzw. verschiedene Schreibweisen auf den gleichen Shortcut gelegt.
 
 
 Hinweis:
-Im Kirchenbuch Taubenheim gibt es vorne die Getrauten und ganz am Ende die Getrauten und Proclamierten, wo oft mehr Informationen sind z.B. öfters die Väter dabei stehen.
-Diese Index beinhaltet nur die Getrauten aus dem vorderen Bereich des Buches.
+Im Kirchenbuch Taubenheim gibt es vorne die Getrauten und ganz am Ende die Getrauten und Augebotenen.
+Beide Teile überschneiden sich teilweise. Im hinteren Bereich sind aber häufig mehr Informationen z.B. stehen da öfters die Väter mit dabei.
+
+Diese Index beinhaltet beide Teile.
 
 
-Erstellt in ca. 6 Stunden
-Mai 2022
+Erstellt in ca. 12 Stunden
+Mai/Juni 2022
 tintenfrass@gmx.de
 
 
@@ -295,7 +297,7 @@ Hans Erler
 Hans Kume
 Gregor Kleberg
 Jacob Wartig
-Gottlob Bart?
+Georg Bart?
 Elias Rüdiger
 Lorenz Bachman
 Paul Ranft
@@ -304,7 +306,7 @@ Peter Schneider?
 Gregor Gast?
 Paul Bernhard
 Lucas Bart?
-Nicol Stark
+Nicol Starck
 1593
 Gregor Pfeiffer
 Andreas Praßer
@@ -378,21 +380,21 @@ Heinrich Biele
 Simon Starck
 Jacob Herman
 1600
-Martin Schligke
+Martin Sehligke
 Gregor Pfeiffer
 Caspar Giera
-Gottlob Wittich
+Georg Wittich
 Mattheus Praß
 ----------------
 Michael Wittich
 Martin Richter
-Martin Geubelt?
-Mattheus Mabus?
-Gottlob Burckhard
-Gottlob Wittich
+Martin Grubler
+Mattheus Mebus
+Georg Burckhard
+Georg Wittich
 Peter Wittich
 1601
-Peter Kolbell
+Peter Kolbig
 Laux Mahner
 Blasius Braune
 Brosius Tierigk
@@ -412,7 +414,7 @@ Barthel Clauß
 Blasius Mahner
 1603
 Brosius Starcke
-Gottlob Starcke
+Georg Starcke
 Valentin Mönch
 Hans Hehne
 Hans Clauß
@@ -420,7 +422,7 @@ Barthel Clauß
 1604
 David Merke
 Michael Bittner
-Elias Herke?
+Elias Hencker
 Hans Kobitzsch
 Georg Auerbach
 ----------------
@@ -464,14 +466,14 @@ Georg Hartzbecker
 ----------------
 Paul Hammer
 1609
-Caspar Bura?
+Caspar Biera
 Stephan Sparman
 Michael Schmidt
 Peter Vogt
 Jacob Starck
 Peter Zschoche
 Hans Kirsten
-k2 Richter
+Jacob Richter
 Peter Starck
 Hans Dorn
 Gregor Starck
@@ -479,7 +481,7 @@ Antonius Wittich
 ----------------
 1610
 Michael Zschunek
-Peter Wahl?
+Peter Wahl
 Paul Lindener
 Martin Stefan
 Jacob Dietrich
@@ -493,7 +495,7 @@ Mats Mege
 Michael Steltzer
 Hans Fritzsch
 Martin Thamm
-Thomas Cruß?
+Thomas Crause
 ----------------
 Jacob Lindener
 Hans Döring
@@ -504,7 +506,7 @@ Martin Köhler
 Georg Starck
 Jacob Dietrich
 Georg Albrecht
-Nicol Schneid?
+Nicol Schmid
 Donat Hellnigk?
 Mats Tierigk
 1613
@@ -556,9 +558,9 @@ Peter Wittich
 Georg Praß
 Urban Herman
 Martin Erler
-Gregor Kiestein
+Gregor Kierten
 Hans Kippe
-Jacob Mieze?
+Jacob Giere?
 Thomas Rosenberger
 Barthel Burckhard
 1618
@@ -575,7 +577,7 @@ Hans Ditterich
 Jacob Kuhl
 Nicol Kiestein
 Urban Tzschocha
-Nicol Nahl?
+Nicol Nahl
 Martin Becke
 Hans Böhme
 Jacob Hecht
@@ -584,15 +586,15 @@ Barthel Litzner
 Antonius Rentzsch
 David Mercker
 Gregor Starcke
-Peter Wilßiff?
+Peter Wilsdorf
 1620
 Peter Röntzsch
-Martin Tzscha?
+Martin Tzscha
 ----------------
 Martin Ditterich
-Peter Borne?
+Peter Borme?
 Nicol Herman
-Peter Tzschucka
+Peter Tzschuncka
 Michael Hermsdorf
 1621
 Donat Ditterich
@@ -604,7 +606,7 @@ Andreas Lungwitz
 Erasmus Starcke
 Andreas Grüttel
 Paul Wittich
-Jacob Spazige?
+Jacob Sparigen
 Georg Wittich
 Jacob Ehrlich
 Andreas Küntz?
@@ -612,10 +614,10 @@ Christoph Tzschocha
 1623
 Christoph Wagner
 Paul Steude
-Martin Balrich?
+Martin Gabrich?
 Georg Ebert
 Hans Graße
-Benedig Stüderdich
+Benedig Stützerich
 Paul Hermsdorf
 ----------------
 Andreas Stetzner
@@ -627,7 +629,7 @@ Barthel Keule
 Ambrosius Helwig
 Georg Mahn
 Melchior Meltzner
-Martin Grauße?
+Martin Krauße
 Christoph Köhler
 Peter Starcke
 1625
@@ -643,9 +645,9 @@ Elias Starcke
 Hans Clauß
 Hans Winckler
 Andreas Böhme
-Peter Tamme
+Peter Damme
 Jeremias Thielich
-Peter Haux?
+Peter Laux
 Christoph Ilgen
 Mattheus Kobitzsch
 Thomas Tzschörner
@@ -665,7 +667,7 @@ Mattheus Ulman?
 Barthel Hoffman
 Hans Sorigk
 Jacob Ehrlich
-Nicol Schudeler
+Nicol Schpindeler
 Elias Beßler
 Georg Wittich
 Thomas Sparigen
@@ -1147,3 +1149,1498 @@ Peter Peger
 1686
 Gregor Winckler
 Peter Jost
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+1598
+Martin Köhler
+Balthasar Han
+Martin Hame
+Tobias Petermann
+Georg Felgner
+Philip Jost
+Brosius Mahner
+1599
+Donat Köhler
+Peter Tiele
+Friedrich Gießman
+Gregor Pfunner
+Heinrich Bihle
+Georg? Starcke
+Jacob Hermann
+Hans Clauß
+Georg Beseler
+Lucas Bart
+Martin Seligk
+----------------
+1600
+Gregor Preiffer
+Thomas Starcke
+Caspar Giera
+Martin Praßer
+Georg Wittich
+Michael Wittich
+Martin Richter
+Peter Wittich
+Georg Burckhard
+Martin Geubler
+Michael Mebus
+Georg Wittich
+Jacob Jost
+Peter Kölbig
+1601
+Laux Mahner
+Georg Fleck
+Simon Kirsten
+Hans Wittich
+Benedig Rost
+Gregor Wittich
+Jacob Hermsdorf
+Peter Ranft
+Blasius Braune
+----------------
+Brosius Tierig
+Mats Wittich
+Thomas Kolbig
+Hans Hoier
+Paul Schmidgen
+Jacob Hoffman
+1602
+Jacob Thamm
+Hans Mahner
+Georg Winckler
+Peter Schmidgen
+Hans Zschoche
+Hans Starcke
+Thomas Ranft
+Gall Mönch
+Mats Tiele
+Michael Stelzer
+Balthasar Clauß
+Blasius Mahner
+Georg Thamm
+----------------
+Brosius Starck
+1603
+Georg Starck
+Valentin Mönch
+Jacob Peuchel
+Hans Hene
+Hans Clauß
+Balthasar Crause
+1604
+Michael Büttner
+David Mencker
+Elias Hencker
+Hans Kobitzsch
+Georg Auerbach
+Martin Lommitzsch
+Georg Stange
+1605
+Mats Tiel
+Martin Schligk
+Hans Nauman
+----------------
+Thomas Pfützner
+Georg Lebner
+Martin Stange
+Martin Stelzer
+Jacob Auerbach
+1606
+Martin Neidhardt
+Georg Kobitzsch
+Peter Thamm
+Melchior Krebs
+Hans Graubzig
+Georg Praß
+Barthel Hencker
+Peter Mühlberg
+Jacob Schönberg
+Georg Kirsten
+Laux Preuser
+----------------
+Urban Starck
+Jacob Wittich
+1607
+Brosius Herzog?
+Peter Donat
+Nicol Kirsten
+Balthasar Kirsten
+Gregor Schlegel
+Antonius Kirsten
+Melchior Harzbecker
+Georg Clauß
+Hans Otto
+Jacob Lindener
+Michael Houer?
+1608
+Martin Peußlich?
+Paul Hammer
+----------------
+Thomas Sparman
+Peter Starck
+Valentin Clauß
+Gregor Stange
+Thomas Clauß
+Georg Keul
+Simon Starck
+Jacob Sparman
+Martin Büttner
+Georg Harzbecker
+Brosius Crellman
+Michael Mege
+Georg Simon
+Georg Zschitzschman
+1609
+Stephan Sparman
+----------------
+Caspar Giera
+Michael Ranft
+Michael Schmid
+Jacob Starck
+Peter Vogd
+Peter Zschoche
+Hans Kirsten
+Jacob Richter
+Peter Stange
+Peter Starcke
+Hans Dorn
+Antonius Wittig
+Gregor Starcke
+Peter Wahl
+Michael Zschuncke
+----------------
+1610
+Paul Lindener
+Jacob Dietrich
+Martin Stefan
+Peter Wittich
+Michael Starck
+Michael Funck
+Nicol Teichman
+Martin Kost
+Simon Rentzsch
+Peter Rentzsch
+Mats Pfitzner
+Andreas Starck
+Martin Becker
+1611
+Michael Stelzer
+Mats Mege
+----------------
+Thomas Crause
+Martin Thamm
+Hans Fritzsche
+Melchior Weber
+Jacob Lindener
+Hans Tierg
+1612
+Martin Köhler
+Jacob Starck
+Peter Schmidgen
+Martin Donat
+Georg Starck
+Georg Albrecht
+Jacob Dietrich
+----------------
+Nicol Schmidt
+Hans Döring
+Peter Adam
+Donat Hellnigk
+Mats Tierig
+Hans Steude
+Martin Erler
+1613
+Georg Schmidgen
+Georg Tiele
+Paul Erlich
+Hans Fritzsche
+Thomas Teichman
+Andreas Albrecht
+Valentin Dietrich
+----------------
+Hans Iltzsche
+Michael Clauß
+Martin Tierigk
+Mats Zschoche
+Hans Kleber
+Hans Hoier
+Hans Claus
+1614
+Mattheus Rentzsch
+Hans Fickler
+Jacob Burckhard
+Hans Starcke
+Mats Schmid
+Jacob Schwegergin
+Caspar Ranft
+----------------
+Asmus Starck
+Georg Erlich
+Jacob Hermsdorf
+Stephan Sparmann
+Jacob Hecht
+Urban Fickler
+Michael Keil
+Martin Rentzsch
+Michael Ranft
+Asmus Kölbel
+1615
+Michael Stelzer
+Martin Zimmerman
+Antonius Leckschede
+Lorenz Thomas
+----------------
+Barthel Funcke
+Hans Richter
+Donat Claus
+Donat Bohl
+Jacob Nietzsche
+Jacob Burckhard
+Brosius Stelzer
+Georg Dietrich
+1616
+Michael Stelzer
+Stephan Claus
+Georg Behme
+Georg Dietrich
+Gregor Winckler
+Mats Ficke
+Jacob Praße
+Martin Pincker
+----------------
+Georg Jahn
+Peter Spargen
+Michael Gast
+Peter Wittich
+1617
+Urban Herman
+Georg Pra
+Martin Erler
+Thomas Rosenberger
+Gregor Kirsten
+Jacob Giere?
+Balthasar Burckhard
+Hans Kipper
+Veit Kipper
+1618
+Mattheus Fischer
+Lorenz Fritzsche
+Fabian Schönberg
+Paul Starcke
+Martin Merkcer
+Peter Mohorn
+Michael Horn
+----------------
+Peter Tamme
+Hans Dietrich
+Georg Gießman
+Jacob Kuhl
+Martin Meiner
+Paul Winckler
+Nicol Kirstein
+Urban Tzschocha
+Caspar Hönnichen
+Nicol Nahl
+Martin Becke
+Hans Starcke
+Jacob Hecht
+Hans Böhme
+Barthel Lutzner
+Peter Lindener
+Georg Ranft
+1619
+Antonius Rentzsch
+Andreas Dietrich
+David Mercker
+Johann Wittich
+Andreas Kobitzsch
+Philip Stelzner
+Gregor Starcke
+Peter Wilschdorf
+1620
+Peter Röntz
+Martin Tzschocha
+Martin Dietrich
+----------------
+Peter Borme
+Jacob Burckhard
+Gregor Praße
+Michael Crause
+Nicol Herman
+Peter Tzschunke
+Michael Hermsdorf
+1621
+Peter Pincker
+Hans Müller
+Donat Dietrich
+Peter Keule
+Hans Grolmeß
+Hans Pincker
+Jacob Tzschunicke
+Paul Lindener
+Jacob Richter
+Ambrosius Steltzer
+Andreas Lungwitz
+1622
+Gregor Könicker
+Nicol Philip
+Erasmus Starcke
+Andreas Beuthel
+Peter Tzschocha
+Jacob Spazigen
+Georg Wittichen
+Jacob Ehrlich
+Andreas Röntzsch
+Nicol Herman
+Christoph Tzschoche
+1623
+Christoph Wagner
+Paul Steude
+Martin Gabrich
+Georg Ebert
+Hans Große
+Benedig Rüzerich
+----------------
+Paul Hermsdorf
+Martin Schneider
+Andreas Stelzer
+Heinrich Leckschede
+Peter Starcke
+Barthel Keule
+Gregor Gast
+1624
+Georg Mahn
+Ambrosius Helwig
+Hans Erlich
+Gregor Hönicker
+Georg Lösener
+Peter Starcke
+Martin Krause
+Paul Kippe
+Christoph Köhler
+Jacob Gießman
+Paul Schmidt
+Thomas Donat
+1625
+Georg Schmidt
+Michael Damme
+Stephan Herman
+Hans Jost
+Barthel Pincker
+Martin Gießman
+Georg Starcke
+Martin John
+Jacob Stelzner
+Hans Stefan
+Valentin Pietzsch
+Michael Megen
+Peter Götze
+Elias Starcke
+Gregor Herman
+Michael Stelzer
+1626
+Daniel Gosen?
+Peter Ranft
+Georg Damme
+----------------
+Georg Rabe
+Thomas Schmid
+Mats Praße
+Hans Winckler
+Peter Damme
+Andreas Böhme
+Jeremias Thierlich
+Peter Laux
+Andreas Ludwig
+Christoph Ilgen
+Mattheus Kobitzsch
+Georg Münch
+Jacob Herman
+Thomas Tzschörner
+Hans Damme
+Gregor Krause
+1627
+Jacob Weberm
+Michael Schröter
+Philip Richter
+Hans Leckschede
+Martin Schnee
+Hans Hermsdorf
+Jacob Pfeiffer
+Antonius Damme
+Martin Heyer
+Caspar Simon
+1628
+Georg Wittichen
+Michael Tzschunke
+Mattheus Wachsman
+Antonius Stelzner
+Hans Kiesling
+Georg Seifert
+Hans Fritzsche
+Martin Hecht
+Barthel Hoffman
+Hans Serigk?
+Jacob Erlich
+Donat Kiestein
+----------------
+Nicol Schindeler
+Georg Geßeler
+Thomas Spazigen
+Georg Wittichen
+Hans Mahn
+Benedig Rüdiger
+1629
+Mats Praße
+Peter Wittichen
+Nicol Nahl
+Nicol Krause
+Georg Häuptman
+Michael Richter
+Donat Gießman
+Peter Lommitzsch
+Jacob Damme
+Christoph Megen
+Donat Wend
+Martin Dorn
+1630
+Martin Schneider
+Thomas Burckhard
+Andreas Praße
+Andreas Mahner
+Jacob Kippe
+Wenzel Burckhard
+Ambrosius Ehrlich
+Peter Steude?
+Peter Pinckert
+1631
+Martin Döring
+Georg Bruchloß
+Martin Stange
+Hans Döring
+Hans Grumpach
+Gregor Schwägrichen
+Thomas Gosen
+----------------
+Andreas Leckschede
+Caspar Megen
+Martin Kierstein
+Georg Richter
+Ambrosius Döring
+Nicol Kirsten
+1632
+Georg Starcke
+Michael Rölicker
+Hans Tzschoche
+Jacob Häuptman
+Jacob Marx
+Martin Schwägrigen
+Hans Hecht
+1633
+Hans Maner
+Georg Fritzsch
+Georg Dietrich
+Gregor Starck
+Mats Clauß
+Jacob Herman
+Georg Praß
+Peter Tiel
+Hans Weber
+Christoph 	Starck
+Hans Fichtner
+Hans-Jacob Armknecht
+Clemens Schimpert
+Peter Kihn
+Balthasar Schiffel
+Georg Voit
+Peter Weber
+Jacob Schröter
+Georg Groß
+Valentin Clauß
+Hans Hecht
+Peter Wittich
+----------------
+Martin Herman
+1634
+Peter Pincker
+Mattheus Heinrich
+Georg Kobitzsch
+Clemens Tiele
+Georg Winckler
+Martin Weber
+Georg Klebe
+Mattheus Klotz
+Simon Wahner
+Hans Stelzer
+Hans Döring
+Marcus Prasse
+Georg Starcke
+Michael Zschoche
+Thomas Fichtner
+Brosius Stelzer
+Martin Kirsten
+Valentin Starcke
+Gregor Webisch
+Burckhard Hoffman
+Peter Nauman
+Hans Auerbach
+Hans Nauman
+Mattheus Tamme
+Georg Winckler
+Peter Oberwiz
+----------------
+Friedrich Gaßner
+1635
+Martin Sparichen
+Peter Haman
+Hans Starcke
+Stephan Mahner
+Brosius Henicker
+David Zeidler
+Hans Buch?
+David Zeidler
+Jacob Buch?
+Caspar Knebel?
+Andreas Schulze
+Jacob Richter
+Georg Große
+Martin Sehligke
+Adam Bruchholz
+Christoph Meiser
+1636
+Thomas Große
+Hans Starcke
+Caspar Ehre?
+Thomas Grell
+Thomas Donat
+Gregor Fehrman
+Hans Grubler
+Gregor Gast
+Hans Fritzsche
+Martin Kregit?
+Hans Tamme
+----------------
+Michael Huhn
+Michael Groll?
+Christian Funcke
+Martin Stelzer
+Andreas Mahner
+Brosius Rost
+Caspar Becker
+Christoph Richter
+Michael Ham?
+1637
+Martin Clauß
+Hans Dietrich
+Hans Beger
+Martin Rössel
+Martin Adam
+1638
+Martin Große
+Jacob Bückner
+Hans Erlich
+Jacob Schmidt
+Hans Döring
+Hans Starcke
+Jacob Starcke
+Daniel Wagner
+Christoph Wagner
+Nicol Herman
+Martin Stange
+Hans Zimmerman
+Donat Praßer
+Thomas Tiele
+----------------
+Georg Huhn
+Paul Adam
+Martin Lummitz
+Brosius Döring
+Michael Müller
+Martin Potzscher
+Asmus Selicke
+1639
+Martin Hanichen
+Georg Töpfer
+Georg Schönberg
+Michael Stolzer
+Blasius Kirsten
+Michael Grellne
+Johann Metz?
+1640
+Georg Starcke
+Peter Bürckner
+Antonius Tamme
+Jacob Fritzsche
+Blasius Weber
+Michael Schmidt
+Martin Beger
+Nicol Nagel
+Georg Adam
+Andreas Stelzer
+Michael Helbig
+1641
+Hans Seuerlich
+Thomas Staude
+Philip Beyer
+Hans Mehner
+----------------
+Georg Dietrich
+Georg Beger
+Georg Heuer
+Georg Große
+Martin König
+Michael Rast?
+Jacob Melzer
+Peter Beuchel
+1642
+Hans Starcke
+Martin Donat
+Martin Richter
+Simon Kisten
+Hans Leunnizsch
+Thomas Preuser
+Peter Richter
+Georg Wittich
+1643
+Caspar Meger?
+Clemens Döring
+Thomas Richter
+Caspar Gebel
+Paul Hermsdorf
+Michael Starcke
+Donat Horn
+Martin Hencker
+1644
+Paul Wittich
+Martin Rüdrich?
+Georg Fritzsche
+Johann Teppel?
+Martin Schicka
+Stephan Clauß
+Hans Gast
+Hans Starcke
+1645
+Georg Kirsten
+----------------
+Hans Pinckert
+Job Hayn
+Georg Praße
+Urban Praße
+Martin Andrea
+Barthel Fischer
+Martin Barthel
+Georg Grummert
+1646
+Melchior Harzbecker
+Simon Stolzer
+Jacob Eckelman
+Martin Rost
+Georg Beßler
+Christoph Stelzer
+Gregor Kirsten
+Hans Adam
+Johann Donat
+1647
+Peter Grübler
+Philip Wachs
+Georg ?
+Michael Schramme
+Martin Beseler?
+Peter Burckhard
+1648
+Martin Wachs
+Mattheus Hencker
+Mattheus Kobitz
+Martin Heinrich
+Paul Magda?
+Martin Starcke
+Jacob Heboltz
+Michael Weber
+Michael Hostman?
+Johann Kirsten
+Georg Thiele
+Tobias Baumgarten
+Georg Pfeiffer
+Valentin Clauß
+----------------
+Simon Wittich
+Peter Elicken?
+Martin Bruchlitz
+Thomas Kiederich?
+1649
+Gregor Winckler
+Peter Adam
+Hans Erlich
+Caspar Döring
+Hans Vogd
+Barthel Kul?
+Martin Zimmerman
+Andreas Starcke
+Ambrosius Starcke
+1650
+Hans Kippa
+Andreas Gießmann
+Michael Hoffman
+Hans Kost
+Peter Uhlman
+Martin Bruchlitz
+Martin Jahn
+Georg Marx
+Martin Kobitzsch
+Hans Clauß
+1651
+Michael Schantze
+Michael Schreiber
+Michael Nauckdrich?
+Georg Häuptman
+Georg Hahn
+Jacob Kirsten
+Nicol Kirsten
+Caspar Futbel?
+Martin Adam
+Martin Buder
+----------------
+Peter Rentzsch
+Johann Neidhardt
+Gregor Adam
+Martin Starcke
+Peter Zimmerman
+1652
+Hans Döring
+Barthel Maune
+Georg Kimer
+Peter Herman
+Martin Grellman
+Georg Schubart
+Jacob Stelzer
+Hans Brummer?
+Mattheus Hölbacht
+Gregor Fritzsch?
+Gregor Sparichen
+1653
+Peter Nagel
+Martin Starcke
+Martin Auerbach
+Jacob Wittich
+Jacob Tzschuncke
+Mattheus Huhn?
+Jacob Pret?
+Hans Gelhart
+Hans Beuchel
+Georg Kuntze
+Hans Hencker?
+Michael Megen
+Martin Winckler
+Andreas Stelzner
+1654
+Philip Steltzner
+Mattheus Rosenberger
+Johann Herman
+Johann Nietzsche
+Georg Winckler
+Peter Begen
+Hans Kobitzsch
+Mattheus? Beuchel
+Valentin Horn
+Martin Nagel
+----------------
+Jacob Winckler
+Hans Preuser
+Christoph Ilgen
+Hans Junghans
+Stephan Spariche
+1655
+Johann Bisler?
+Georg Praße
+Martin Heuer
+Antonius Kirsten
+Georg Saurig
+Georg Burckhard
+Paul Kolbe
+Georg Leuderitz
+Tobias Luze
+Mattheus Tamme
+1656
+Michael Tamme
+Martin Kießling
+Jacob Lommitzsch
+Martin Krause
+Georg Starcke
+Michael Donat
+Martin Neukirch
+1657
+Georg Dietrich
+Johann Rosenberger
+Gregor Pinker
+Peter Döring
+Martin Heuer
+Martin Burckhard
+Jacob Adam
+Mattheus Starcke
+Georg Marx
+Nicol Herman
+Andreas Mäye
+Daniel Vogel
+Paul Seeman
+Christoph Rose?
+----------------
+Thomas Harzbecker
+Gregor Clauß
+1658
+Martin Bruchholz
+Peter Wittich
+Martin Ilgen
+Elias Fröhner
+Martin Kobitzsch
+Michael Schreiber
+Michael Hoffman?
+Hans Dierig
+Hans Weser
+Thomas Seyfert
+Michael Ranft
+Hans Wittig
+Michael Geißler?
+Mattheus Ape?
+Peter Fischer
+1659
+Peter Rudolff
+Nicol Herman
+Georg Ehrlich
+Peter Stephan
+Georg Sehmert
+Martin Bestbe?
+Stephan Clauß
+Christian Eckart?
+Christoph Wertgen?
+Georg Warren?
+1660
+Martin Steltzer
+Georg Ehrlich
+Georg Dietrich
+Nicol Krause
+Hans Schletzig
+Martin Romber
+----------------
+Georg Seurig
+Erasmus Starcke
+Hans Böhme
+Hans Ziegenbalck
+Thomas Langwitzen
+Martin Fehrman
+Georg Weschker?
+Georg Heikler?
+1661
+Georg Winckler
+Martin Weber
+Andreas Gießmann
+Peter Birckner
+Gregor Steude
+Johann Kießling
+Hans Schröter
+Andreas Starcke
+Jacob Herman
+1662
+Michael Patzig
+ Martin? Winckler
+ Martin Chemnitz
+ ----------------
+ Georg Neukirch?
+ Hans Tzschoche
+ 1663
+ Georg Burckhard
+ Christoph Wegen?
+ Jacob Tzschuncke
+ Georg Schlegel
+ Hans Böhm
+ Michael Rudolff
+ Martin Spargen
+ 1664
+ Hans Döring
+ Martin Heyer
+ Jacob Erlich
+ Hans Böhm
+ Martin Zeuner
+ Michael Kießling
+ 1665
+ Georg Jeßner
+Peter Beuchel
+Stephan Clauß
+----------------
+Christoph Frebiger
+Hans Schrempel
+Christoph Hörner
+Martin Borsdorf
+1666
+Hans Giere
+Jacob Wittig
+Christoph Planckenstein
+Martin Schulze
+Mats Mülbrig
+Thomas Döring
+Jacob Kippe
+Jacob Burckhard
+Erasmus Starcke
+Christoph Högner?
+Thomas Burckhard
+Hans Winckler
+Valentin Brasleck?
+----------------
+1667
+Jacob Schröter
+Andreas Starcke
+Andreas Weber
+Valentin Starcke
+Christoph Preusker
+Georg Winckler
+Mats Lommitzsch
+Hans Huhn
+Georg Starcke
+1668
+Georg Helmuth
+Caspar Heme
+Michael Böhm
+Tobias Große
+Hans Thimmig
+Stephan Burckhard
+Martin Weber
+Georg Pegen
+Martin Hermsdorf
+Georg Nagel
+Jacob Preuser
+Franz Seuerling
+Michael Kießling
+Hans Lommitzsch
+Georg Chemnitz
+----------------
+1669
+Martin Schultze
+Thomas Jeisig?
+Gregor Hencker
+Hans Müller
+Hans Stelzer
+1670
+Paul Adam
+Thomas Wustlich
+Hans Adam
+Hans Braun
+Erasmus Starcke
+Georg Starcke
+Brosius Weber
+Thomas Donat
+1671
+Georg Wittich
+Caspar Becker
+Hans Döring
+Simon Stelzer
+Christoph Wagner
+Georg Gabriel
+Hans Weber
+Michael Kroll
+----------------
+Georg Kirsten
+Philip Weber
+Jacob Rotitz?
+Hans Helbe?
+Martin Voigt
+Jacob Krause
+Peter Lommitzsch
+1672
+Michael Pazig
+Friedrich Kost
+Georg Kießling
+Balthasar Ranft
+1673
+Peter Letzner
+Georg Semerling?
+Michael Weber
+Mats Huhn
+Hans Clauß
+Paul Tamme
+1674
+Georg Kroll
+Martin Tzschoche
+----------------
+Brosius Stelzer
+Georg Jöllner
+Caspar Sparman
+Mats Bortzsch
+Thomas Lutze
+Georg Richter
+1675
+Martin Zimmerman
+Georg Beigner?
+Martin Megen
+Georg Beßler
+Hans Starcke
+Hans Wittig
+Hans Stelzer
+Christoph Merten
+Mats Clauß
+Martin Lommitzsch
+Jacob Neukirch
+1676
+Peter Wittich
+Andreas Böhme
+----------------
+Hans Schlicke
+Thomas Helmuth
+Hans Ullrich
+Blasius Kirsten
+Paul Seeman
+Michael Tanicht
+Hans Teutzschman
+Peter Uhlman
+Martin Selicke
+Georg Culert?
+Jacob Ranft
+1677
+Hans Wöbuß
+Hans Hencker
+Jacob Döring
+Michael Metzner
+Hans Tamme
+Franz Fickler
+----------------
+Hans Kobitzsch
+Hans Spieß
+Michael Große
+Peter Radis?
+Martin Crellmann
+Martin Helwig
+Jacob Crellman
+Hans Starcke
+1678
+Martin Begen
+Christoph Ziegenbalck
+Hans Pfeiffer
+Martin Wülstdorf
+Hans Hermsdorf
+Adam Fischer
+Caspar Spegerman?
+Jacob Preuser
+Christian Schneider
+----------------
+Martin Fritzsche
+Georg Khebert?
+Michael Pincker?
+Georg Herman
+1679
+Johann Wagner
+Martin Fritzsche
+Michael Meber?
+Martin Böhme
+Peter Rentzsch
+Samuel Wolf
+Georg Beßler
+Gottfried Wagner
+Gregor Schlegel
+Gregor Pfeiffer
+Hans Rauhe?
+Georg Bruchholz
+Heinrich Ranft
+Jacob Crellman
+----------------
+Andreas Udolff
+Georg Starcke
+Peter Bruchholz
+Thomas Lange
+Martin Lommitzsch
+Hans Starcke
+1680
+Georg Schlitze?
+Jacob Winckler
+Michael Weber
+Jacob Keile?
+Hans Pegen
+Thomas Starcke
+Georg Schröter
+Georg Pertizsch?
+Andreas Damme
+Christian Seuerling
+Hans Cuntze
+Franz Fickler
+Caspar Knebel
+Daniel Gast
+----------------
+1681
+Martin Kost
+Elias Philip
+Hans Hoyer
+Michael Horn
+Hans Schubart
+Martin Schultze
+Valentin Ranft
+Martin Schuman
+Melchior Crellman
+Gregor Pfeiffer
+Andreas Grebler?
+Georg Döring?
+Gregor Hiilig
+Peter Giera
+Hans Kippe
+Georg Schubart
+Hans Starcke
+Georg Hoyer
+Jacob Hoffman
+Georg Schuman
+----------------
+1682
+Jacob Fritzsche
+Nicol Porsdorf
+Valentin Mehlig
+Andreas Hensel
+Peter Tzschunke
+Georg Döring
+Hans Tzschoche
+Peter Leonart
+Wolf Pencher?
+Martin Ranft
+Asmus Herman
+1683
+Georg Seuerlich
+Michael Ranft
+Martin Ilgen
+Paul Braune
+Peter Gast
+----------------
+Hans Krumbiegel
+Hans Irmig
+Stephan Knebel
+Christoph Hanigke
+Philip Stelzer
+Michael Horn
+1684
+Michael Schlempert
+Martin Nagel
+Martin Hoyer
+Franz Mobeist?
+Erasmus Wagner
+Christian Schmid
+Georg Pegen
+Andreas Stelzer
+Georg Schubart
+Georg Kimper?
+----------------
+Mats Clemens
+Hans Kirsten
+Jacob Schröter
+Gregor Stende
+1685
+Andreas Gießman
+Hans Kegler
+Hans Gaister?
+Hans Wagner?
+Martin Lommzsch
+Mats Kebiz
+Adam Remchald?
+Georg Winckler
+Peter Pegen
+1686
+Michael Barthschneider
+----------------
+Gregor Winckler
+Georg Starcke
+Gottfried Nagel
+Peter Jost
+Simon Kisten
+Hans Heyde
+Stephan Heinrich
+Peter Schlegel
+Georg Döring
+Jacob Crellman
+Georg  Geppsch?
+Georg Burckhard
+Martin Adam
+Peter Weber
+Michael Hencker
+Hans Fehrman
+Michael Hermsdorf
+1687
+Martin Winckler
+Hans Mercker
+----------------
+Martin Ranft
+Michael Wittig
+Hans Kiesling
+Peter Kest?
+Christian Wagner
+Jacob Fischer
+Martin Häuptman
+Jacob Lommtzsch?
