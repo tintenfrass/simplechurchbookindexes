@@ -47,7 +47,7 @@ Hans Specht
 1563
 Peter Helling
 ----------------
-Amonus? Greuman?
+Amonus? Gruntman?
 1564
 Jorge Müller
 Michael Fischer
@@ -68,7 +68,7 @@ Simon Kühel
 Donat Schmid
 Michael Edlich
 Simon Hamer
-Michael Pröel
+Michael Prönel
 1567
 Jacob Schuman
 Mattheus Gört
@@ -76,42 +76,42 @@ Balthasar Große
 1568
 Hans Bauch
 Michael Müller
-Michael Pechschneider?
+Michael Pechschneider
 Lorenz Behmen
 1569
 Peter Schuman
-Martin Frenchke?
+Martin Francke?
 ----------------
 Barthel Hennige
-Bernhart Fenlang?
+Bernhart Irmbrig
 1570
-Michael Bemerl?
+Michael Betzel?
 Georg Mentze
 1571
 Gregor Boeme?
 Peter Lorentz
 1572
 Michael Creutziger
-Andreas Bartchinke?
+Andreas Bartschneider
 Gregor? Schuman
 Johann Bodemuth
 Jacob Rautenstrauch
 1573
-Gregor Ihengen?
+Gregor Jhengen?
 Peter Götze
-Martin Hauch?
+Martin Heud
 ----------------
 Thomas Strohbach
 Asmus Kommer
-Barthel Glack?
+Barthel Glackner?
 1574
-Barthel Neut?
+Barthel Hunt?
 Hans Waldter?
 Martin? Hoffman
 Martin Hartman
 1575
-Peter Haust?
-Jacob Hauptvogel?
+Peter Heubt?
+Jacob Hauptvogel
 Peter Weise
 ----------------
 ----------------
@@ -127,7 +127,7 @@ Georg Scharfff
 Jacob Rautenstrauch
 1577
 Mattheus Wutzschel
-Martin Franick?
+Martin Franck?
 Johann Wunschman
 Johann Bodemuth
 1578
@@ -137,13 +137,13 @@ Michael Arnold
 David Zimmerman
 ----------------
 Peter Jenichen
-Johann Hotze?
+Johann Lotze?
 Barthel Schneider
 1579
 Martin Bursbrich
 Lorenz Lorman
 Christoph Bodemuth
-Melchior Lottz?
+Melchior Lotz?
 Thomas Hendel
 Peter Fischer
 Martin Kommer?
@@ -153,7 +153,7 @@ Peter Meuer
 1581
 Christoph Lottze
 Michael Vogel
-Christoph Pfleshorn?
+Christoph Pfleshorn
 Mattheus Rautenstrauch
 Michael Rüdiger
 1582
@@ -168,13 +168,14 @@ Georg Richter
 1584
 Andreas Patzig
 Jacob Rautenstrauch
-Urban Kremer?
+Urban Kramer
 Mattheus Schirmer
 1585
 Gregor Pfirsner
 Kilian Wendt
 Jacob Müller
 1586
+Matheus Grellman
 Clemens Schirmer
 Donat Gromtman?
 Martin Vogel
@@ -223,7 +224,7 @@ Jacob Schuman
 1593
 Georg Trenckner
 Hans Lotze
-David Gutkese?
+David Gutkese
 Georg Pfirsner
 Barthel Heubt
 Paul Bernhart
@@ -251,7 +252,8 @@ Peter Kommer
 Valentin Hauswald
 1598
 Christoph Schuman
-Christoph ?Andreas Götze
+Christoph ?
+Andreas Götze
 Martin Meltzer
 1599
 Georg Bodemuth
@@ -268,7 +270,7 @@ Balthasar Schuman
 Barthel Körner
 Hans Schuman
 1602
-Hans Weker?
+Hans Weser?
 Donat Haudel
 Balthasar Berger
 Christoph Hauswald
@@ -307,7 +309,7 @@ Donat Löbener
 Georg Behem
 Hans Borm
 Christoph Lehman
-Hironimus ?
+Hironimus Hauptvogel
 Lorenz Götze
 ----------------
 1608
@@ -359,7 +361,7 @@ Lucas Götze
 Caspar Reichel
 1614
 Martin Braun
-Martin Zhirmer?
+Martin Schirmer?
 Michael Frisch
 Hans Müller
 1615
@@ -376,7 +378,7 @@ Melchior Hoffman
 Michael Strohbach
 Martin Schuman
 1617
-Jacob Pflethart?
+Jacob Pfleshorn?
 1618
 Balthasar Hauptvogel
 Martin Vogel
@@ -411,7 +413,7 @@ Georg Schirmer
 David Schirmer
 Johann Schuman
 Hans Strohbach
-Christoph -
+Christoph Meuer
 Martin Schuman
 1624
 Andreas Lorentz
@@ -558,7 +560,7 @@ Georg Richter
 Paul Pfeiffer
 Martin Trenckner
 Jacob Pfleßer
-Martin Rülker?
+Martin Rülcker
 Balthasar Schuman
 Georg Winckler
 1638
@@ -728,7 +730,7 @@ Michael Sömer?
 Caspar Richter
 1661
 Georg Hauptvogel
-Jacob Retschich?
+Jacob Reschich?
 Salomon Kuntzelman
 Hans Kirchner
 1662
@@ -940,7 +942,7 @@ Michael Meltzer
 Georg Rülcker
 Hans-Heinrich Sproß
 Georg Floß
-Hans-Gottfried Jülsenfanck?
+Hans-Gottfried Hülsenfunck
 Balthasar Reichel
 Martin Nauman
 1691
@@ -1029,7 +1031,7 @@ Johann-Theodor Händler
 Christian Specht
 Georg-Christian Winckler
 Georg Reiche
-Andreas-Reinhold Kruck?
+Andreas-Reinhold Kruck
 1707
 Christoph Ufer
 ----------------
@@ -1062,7 +1064,7 @@ Johann-Georg Götze
 Christian Pinckert
 Georg Specht
 Georg Wentzel
-Christoph-Heinrich Busch?
+Christoph-Heinrich Busch
 Christian Peger
 1712
 Andreas Schröter
@@ -1126,7 +1128,7 @@ Christian Fritzsche
 1724
 Gottlieb Findler
 Gottfried Hamann
-Gottfried Stülpner?
+Gottfried Stülpner
 Christian Strohbach
 Michael Pretzsch
 Georg Richter
