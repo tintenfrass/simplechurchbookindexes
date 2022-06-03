@@ -23,7 +23,7 @@ tintenfrass@gmx.de
 
 
 1654
-Georg Schrimer
+Georg Schirmer
 Peter Patzig
 Georg Hecke
 1655
@@ -167,7 +167,6 @@ Jacob Walther
 Brosius Jhen
 Peter Pietzsch
 Jacob Müller
-Mats Ebert
 ----------------
 Georg Pietzsch
 Georg Berner
@@ -219,7 +218,8 @@ Georg Andrige
 1630
 Martin Ebert
 Peter Berner
-Georg Müllerp Patzig
+Georg Müller
+Peter Patzig
 Hans Hermsdorf
 Erasmus Sehlige
 Hans Hauptvogel
@@ -254,7 +254,7 @@ Daniel Kuntze
 Mats Heckel
 Martin Kohlsdorf
 1633
-Bastian Leuteritz
+Georg Leuteritz
 Martin Hennig
 Georg Müller
 Georg Erlich
@@ -325,7 +325,7 @@ Martin Kuntze
 Georg Hillig
 1637
 Paul Müller
-Abraham Schnider
+Abraham Schneider
 Michael Kohlsdorf
 Hans Limpach
 Barthel Diener
@@ -365,7 +365,7 @@ Hans Specht
 Paul Hencker
 Mats Günther
 Michael Hencker
-Hans Günther
+Hans Sander
 Georg Richter
 Michael Grahl
 1641
@@ -457,6 +457,7 @@ Jacob Patzig
 Thomas Ditrich
 Georg Rülcker
 Peter Leuteritz
+1651
 Peter Andrige
 Peter Barth
 Georg Koch
