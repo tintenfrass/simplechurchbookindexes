@@ -47,54 +47,54 @@ Jacob Schröter
 Georg Döhner
 Hans Schlettig
 Peter Starcke
- 1661
- Georg Metschker
- Peter Starcke
- Peter Wittig
- Hans-Ernst Vetter
- Hans Rost
- Lorenz Hoyer
- ----------------
- 1662
- Martin Funcke
- Martin Winckler
- Michael Pfitzner
- Georg Hoyer
- 1663
- Martin Hencker
- Martin Starcke
- Stephan Pincker
- Hans Löbner
- Hans Wittig
- 1664
- Peter Kuck
- Georg Schönberg
- Georg Hencker
- Georg Philipp
- Martin Zäuner
- Peter Schellenberg
- 1665
- Stephan Clauß
- Thomas Krause
- 1666
- Thomas Döring
- ----------------
- Hans Pezelt
- Hans Antoni
- 1667
- Andreas Udloff
- Martin Zäuner
- Jacob Götze
- Jacob Fichtner
- Georg Große
- Georg Starcke
- 1668
- Christian Renisch
- Martin Gast
- Andreas Leckschede
- Peter Götze
- 1669
-  Martin Keyser
+1661
+Georg Metschker
+Peter Starcke
+Peter Wittig
+Hans-Ernst Vetter
+Hans Rost
+Lorenz Hoyer
+----------------
+1662
+Martin Funcke
+Martin Winckler
+Michael Pfitzner
+Georg Hoyer
+1663
+Martin Hencker
+Martin Starcke
+Stephan Pincker
+Hans Löbner
+Hans Wittig
+1664
+Peter Kuck
+Georg Schönberg
+Georg Hencker
+Georg Philipp
+Martin Zäuner
+Peter Schellenberg
+1665
+Stephan Clauß
+Thomas Krause
+1666
+Thomas Döring
+----------------
+Hans Pezelt
+Hans Antoni
+1667
+Andreas Udloff
+Martin Zäuner
+Jacob Götze
+Jacob Fichtner
+Georg Große
+Georg Starcke
+1668
+Christian Renisch
+Martin Gast
+Andreas Leckschede
+Peter Götze
+1669
+Martin Keyser
 1670
 Hans Adam
 Caspar Meitzner
