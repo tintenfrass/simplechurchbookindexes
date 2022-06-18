@@ -22,12 +22,12 @@ Pisch/Pitsch/Pietzsch => Pitzsch
 ...
 
 
-Hinweis: Eine Abschrift der Beerdigungen 1577-1606 befindet sich auf asl UGC auf Archion.
+Hinweis:
+Eine Abschrift der Beerdigungen 1577-1606 befindet sich als UGC auf Archion.
 
 
 April 2021
 tintenfrass@gmx.de
-
 
 
 
@@ -122,7 +122,7 @@ Walfa Andreas Fickler
 .
 .
 1608
-Christoph Richter Burkhard Fehrmann
+Christoph Richter
 Franz Freund
 .
 .

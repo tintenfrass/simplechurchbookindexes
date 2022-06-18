@@ -7,12 +7,6 @@ ca. 90% aller Vornamen und 70% aller Nachnamen über Shortcuts erstellt. Dabei w
 ähnliche Namen bzw. verschiedene Schreibweisen auf den gleichen Shortcut gelegt. Dadurch 
 enthält diese Liste aber auch Ungenauigkeiten und Fehltranskription, die man beachten muss.
 
-
-Erstellt in ca. 10 Stunden
-April 2021
-tintenfrass@gmx.de
-
-
 Bsp:
 Andres => Andreas
 Gregor => Georg
@@ -35,6 +29,11 @@ Haman <=> Hahmann
 Händel <=> Hendel
 Seyfried <=> Seifert
 ...
+
+
+Erstellt in ca. 10 Stunden
+April 2021
+tintenfrass@gmx.de
 
 
 
