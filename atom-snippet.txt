@@ -24,6 +24,9 @@
    '_Asmus':
      'prefix': 'a4'
      'body': '_Asmus '
+   '_Abraham':
+     'prefix': 'a9'
+     'body': '_Abraham '
    '_Anna':
      'prefix': 'a5'
      'body': '_Anna '
@@ -137,6 +140,9 @@
    '_Friedrich':
      'prefix': 'f2'
      'body': '_Friedrich '
+   '_Fabian':
+     'prefix': 'f3'
+     'body': '_Fabian '
    '_Johann-Friedrich':
      'prefix': 'jf2'
      'body': '_Johann-Friedrich '
@@ -250,6 +256,9 @@
    '_Lucas':
      'prefix': 'l2'
      'body': '_Lucas '
+   '_Leonhard':
+     'prefix': 'l3'
+     'body': '_Leonhard '
 
    '_Martin':
      'prefix': 'm0'
@@ -287,6 +296,9 @@
    '_Georg-Michael':
      'prefix': 'gm2'
      'body': '_Georg-Michael '
+   '_Hans-Michael':
+     'prefix': 'hm2'
+     'body': '_Hans-Michael '
 
    '_Nicol':
      'prefix': 'n0'
@@ -340,6 +352,9 @@
    '_Sebastian':
      'prefix': 's4'
      'body': '_Sebastian '
+   '_Siegmund':
+     'prefix': 's9'
+     'body': '_Siegmund '
    '_Sophia':
      'prefix': 's5'
      'body': '_Sophia '
@@ -368,6 +383,9 @@
    '_Wenzel':
      'prefix': 'w0'
      'body': '_Wenzel '
+   '_Wolf':
+     'prefix': 'w1'
+     'body': '_Wolf '
    '_Wilhelm':
      'prefix': 'w2'
      'body': '_Wilhelm '
@@ -401,7 +419,7 @@
      'prefix': 'bo'
      'body': 'Bormann\r\n'
    'Borßdorf':
-     'prefix': 'borß'
+     'prefix': 'bd'
      'body': 'Borßdorf\r\n'
    'Burckhart':
      'prefix': 'bur'
@@ -427,6 +445,9 @@
    'Döring':
      'prefix': 'dö'
      'body': 'Döring\r\n'
+   'Eulitz':
+     'prefix': 'eul'
+     'body': 'Eulitz\r\n'
    'Faust':
      'prefix': 'fau'
      'body': 'Faust\r\n'
@@ -436,6 +457,9 @@
    'Fichtner':
      'prefix': 'fich'
      'body': 'Fichtner\r\n'
+   'Fickler':
+     'prefix': 'fick'
+     'body': 'Fickler\r\n'
    'Fischer':
      'prefix': 'fisch'
      'body': 'Fischer\r\n'
@@ -446,7 +470,7 @@
      'prefix': 'fuh'
      'body': 'Fuhrmann\r\n'
    'Funcke':
-     'prefix': 'fu'
+     'prefix': 'fun'
      'body': 'Funcke\r\n'
    'Ganßauge':
      'prefix': 'gan'
@@ -466,6 +490,9 @@
    'Günther':
      'prefix': 'gü'
      'body': 'Günther\r\n'
+   'Hatzbecker':
+     'prefix': 'hb'
+     'body': 'Hatzbecker\r\n'
    'Hauswald':
      'prefix': 'haus'
      'body': 'Hauswald\r\n'
@@ -512,7 +539,7 @@
      'prefix': 'jos'
      'body': 'Jost\r\n'
    'Junghans':
-     'prefix': 'jung'
+     'prefix': 'jh'
      'body': 'Junghans\r\n'
    'Kirchner':
      'prefix': 'kirch'
@@ -542,7 +569,7 @@
      'prefix': 'lan'
      'body': 'Lange\r\n'
    'Leckschede':
-     'prefix': 'leck'
+     'prefix': 'ls'
      'body': 'Leckschede\r\n'
    'Lehmann':
      'prefix': 'leh'
@@ -587,7 +614,7 @@
      'prefix': 'pf'
      'body': 'Pfeiffer\r\n'
    'Philipp':
-     'prefix': 'ph'
+     'prefix': 'phi'
      'body': 'Philipp\r\n'
    'Pietzsch':
      'prefix': 'pi'
@@ -607,6 +634,9 @@
    'Ritter':
      'prefix': 'rit'
      'body': 'Ritter\r\n'
+   'Rosenberger':
+     'prefix': 'rb'
+     'body': 'Rosenberger\r\n'
    'Rosenkranz':
      'prefix': 'rk'
      'body': 'Rosenkranz\r\n'
@@ -637,6 +667,9 @@
    'Schumann':
      'prefix': 'sum'
      'body': 'Schumann\r\n'
+   'Schuster':
+     'prefix': 'sus'
+     'body': 'Schuster\r\n'
    'Schüttig':
      'prefix': 'sü'
      'body': 'Schüttig\r\n'
@@ -661,12 +694,27 @@
    'Tränckner':
      'prefix': 'tr'
      'body': 'Tränckner\r\n'
+   'Tzschoche':
+     'prefix': 'tzsch'
+     'body': 'Tzschoche\r\n'
    'Udolff':
      'prefix': 'ud'
      'body': 'Udolff\r\n'
    'Uhlman':
      'prefix': 'uh'
      'body': 'Uhlman\r\n'
+   'Vogel':
+     'prefix': 'voge'
+     'body': 'Vogel\r\n'
+   'Voigt':
+     'prefix': 'voig'
+     'body': 'Voigt\r\n'
+   'Walther':
+     'prefix': 'walt'
+     'body': 'Walther\r\n'
+   'Wagner':
+     'prefix': 'wag'
+     'body': 'Wagner\r\n'
    'Weber':
      'prefix': 'web'
      'body': 'Weber\r\n'
@@ -689,6 +737,66 @@
      'prefix': 'zim'
      'body': 'Zimmermann\r\n'
 
+   '1600':
+     'prefix': '0'
+     'body': '1600\r\n'
+   '1601':
+     'prefix': '1'
+     'body': '1601\r\n'
+   '1602':
+     'prefix': '2'
+     'body': '1601\r\n'
+   '1603':
+     'prefix': '3'
+     'body': '1603\r\n'
+   '1604':
+     'prefix': '4'
+     'body': '1604\r\n'
+   '1605':
+     'prefix': '5'
+     'body': '1605\r\n'
+   '1606':
+     'prefix': '6'
+     'body': '1606\r\n'
+   '1607':
+     'prefix': '7'
+     'body': '1607\r\n'
+   '1608':
+     'prefix': '8'
+     'body': '1608\r\n'
+   '1609':
+     'prefix': '9'
+     'body': '1609\r\n'
+   '1610':
+     'prefix': '10'
+     'body': '1610\r\n'
+   '1611':
+     'prefix': '11'
+     'body': '1611\r\n'
+   '1612':
+     'prefix': '12'
+     'body': '1612\r\n'
+   '1613':
+     'prefix': '13'
+     'body': '1613\r\n'
+   '1614':
+     'prefix': '14'
+     'body': '1614\r\n'
+   '1615':
+     'prefix': '15'
+     'body': '1615\r\n'
+   '1616':
+     'prefix': '16'
+     'body': '1616\r\n'
+   '1617':
+     'prefix': '17'
+     'body': '1617\r\n'
+   '1618':
+     'prefix': '18'
+     'body': '1618\r\n'
+   '1619':
+     'prefix': '19'
+     'body': '1619\r\n'
    '1620':
      'prefix': '20'
      'body': '1620\r\n'
@@ -956,3 +1064,135 @@
    '1708':
      'prefix': '708'
      'body': '1708\r\n'
+   '1709':
+     'prefix': '709'
+     'body': '1709\r\n'
+   '1710':
+     'prefix': '710'
+     'body': '1710\r\n'
+   '1711':
+     'prefix': '711'
+     'body': '1711\r\n'
+   '1712':
+     'prefix': '712'
+     'body': '1712\r\n'
+   '1713':
+     'prefix': '713'
+     'body': '1713\r\n'
+   '1714':
+     'prefix': '714'
+     'body': '1714\r\n'
+   '1715':
+     'prefix': '715'
+     'body': '1715\r\n'
+   '1716':
+     'prefix': '716'
+     'body': '1716\r\n'
+   '1717':
+     'prefix': '717'
+     'body': '1717r\n'
+   '1718':
+     'prefix': '718'
+     'body': '1718\r\n'
+   '1719':
+     'prefix': '719'
+     'body': '1719\r\n'
+   '1720':
+     'prefix': '720'
+     'body': '1720\r\n'
+   '1721':
+     'prefix': '721'
+     'body': '1721\r\n'
+   '1722':
+     'prefix': '722'
+     'body': '1722\r\n'
+   '1723':
+     'prefix': '723'
+     'body': '1723\r\n'
+   '1724':
+     'prefix': '724'
+     'body': '1724\r\n'
+   '1725':
+     'prefix': '725'
+     'body': '1725\r\n'
+   '1726':
+     'prefix': '726'
+     'body': '1726\r\n'
+   '1727':
+     'prefix': '727'
+     'body': '1727\r\n'
+   '1728':
+     'prefix': '728'
+     'body': '1728\r\n'
+   '1729':
+     'prefix': '729'
+     'body': '1729\r\n'
+   '1730':
+     'prefix': '730'
+     'body': '1730\r\n'
+   '1731':
+     'prefix': '731'
+     'body': '1731\r\n'
+   '1732':
+     'prefix': '732'
+     'body': '1732\r\n'
+   '1733':
+     'prefix': '733'
+     'body': '1733\r\n'
+   '1734':
+     'prefix': '734'
+     'body': '1734\r\n'
+   '1735':
+     'prefix': '735'
+     'body': '1735\r\n'
+   '1736':
+     'prefix': '736'
+     'body': '1736\r\n'
+   '1737':
+     'prefix': '737'
+     'body': '1737\r\n'
+   '1738':
+     'prefix': '738'
+     'body': '1738\r\n'
+   '1739':
+     'prefix': '739'
+     'body': '1739\r\n'
+   '1740':
+     'prefix': '740'
+     'body': '1740\r\n'
+   '1741':
+     'prefix': '741'
+     'body': '1741\r\n'
+   '1742':
+     'prefix': '742'
+     'body': '1742\r\n'
+   '1743':
+     'prefix': '743'
+     'body': '1743\r\n'
+   '1744':
+     'prefix': '744'
+     'body': '1744\r\n'
+   '1745':
+     'prefix': '745'
+     'body': '1745\r\n'
+   '1746':
+     'prefix': '746'
+     'body': '1746\r\n'
+   '1747':
+     'prefix': '747'
+     'body': '1747\r\n'
+   '1748':
+     'prefix': '748'
+     'body': '1748\r\n'
+   '1749':
+     'prefix': '749'
+     'body': '1749\r\n'
+   '1750':
+     'prefix': '750'
+     'body': '1750\r\n'
+   '1751':
+     'prefix': '751'
+     'body': '1751\r\n'
+   '1752':
+     'prefix': '752'
+     'body': '1752\r\n'
