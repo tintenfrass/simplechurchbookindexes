@@ -215,6 +215,10 @@
      'prefix': 'c2h2'
      'body': '_Christoph-Heinrich '
 
+   '_Israel':
+     'prefix': 'i0'
+     'body': '_Israel '
+
    '_Johann':
      'prefix': 'j0'
      'body': '_Johann '
@@ -389,6 +393,9 @@
    '_Wilhelm':
      'prefix': 'w2'
      'body': '_Wilhelm '
+   '_Wolfgang':
+     'prefix': 'w3'
+     'body': '_Wolfgang '
    '_Walpurg':
      'prefix': 'w5'
      'body': '_Walpurg '
@@ -741,11 +748,11 @@
      'prefix': '0'
      'body': '1600\r\n'
    '1601':
-     'prefix': '1'
+     'prefix': '01'
      'body': '1601\r\n'
    '1602':
      'prefix': '2'
-     'body': '1601\r\n'
+     'body': '1602\r\n'
    '1603':
      'prefix': '3'
      'body': '1603\r\n'
