@@ -185,7 +185,7 @@ Margaretha Valentin Heinberge
 Martin Georg Götze
 Martin Antonius Rudolf
 Martin Martin Birckner
-Barbara Balthasar Birckner
+Barbara Balthasar Burckhard
 Barbara Georg Schlicke
 Elisabeth Benedig Dürig
 ----------------
@@ -323,7 +323,7 @@ Margaretha Valentin Rost
 ----------------
 Samuel Erhard Schultze
 Balthasar Balthasar Burckhart
-Peter Laux Wustlich
+Peter Laux Wiesener
 Martin Martin Winckler
 Johann Hans Götze
 Antonius Antonius Rudolf
@@ -386,7 +386,7 @@ Dorothea Martin Leuteritz
 ----------------
 1576
 Valentin Jacob Rudolf
-Jacob Balthasar Birckner?
+Jacob Balthasar Burckhard
 Peter Peter Götze
 Margaretha Valentin Birckner
 Anna Georg Rudolf
@@ -706,7 +706,7 @@ Jacob Jacob Merker
 Michael Jacob Birckner
 ----------------
 Peter Caspar Götze
-Catharina 	Blasius Grumbach
+Catharina Blasius Grumbach
 Jacob Peter Götze
 Michael Martin Winckler
 Ursula Hans Schubart
