@@ -3,7 +3,8 @@ Taufen 1554-1636
 
 Das ist ein einfacher Index aller Taufen.
 
-Die meisten Vornamen wurden über Shortcuts erstellt. Dabei wurden ähnliche Namen bzw. verschiedene Schreibweisen auf den gleichen Shortcut gelegt. Dadurch enthält diese Liste aber auch Ungenauigkeiten und Fehltranskription, die man beachten muss.
+Die meisten Vornamen wurden über Shortcuts erstellt. Dabei wurden ähnliche Namen bzw. verschiedene Schreibweisen auf den gleichen Shortcut gelegt.
+Dadurch enthält diese Liste aber auch Ungenauigkeiten und Fehltranskription, die man beachten muss.
 
 Bsp:
 Anders => Andreas
@@ -21,6 +22,7 @@ x	Durchgestrichen
 .	tot
 ?	unsicher
 -------- neue Seite
+
 
 Erstellt in ca. 16 Stunden
 Mai 2022

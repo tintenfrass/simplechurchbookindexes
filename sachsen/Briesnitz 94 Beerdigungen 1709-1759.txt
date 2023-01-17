@@ -11,7 +11,8 @@ x 					durchgestrichen
 ---------------- 	neue Seite
 
 Die meisten Vornamen und einige Nachnamen wurde über Shortcuts erstellt.
-Dabei wurden ähnliche Namen bzw. verschiedene Schreibweisen auf den gleichen Shortcut gelegt. Dadurch enthält diese Liste aber auch Ungenauigkeiten und Fehltranskription, die man beachten muss.
+Dabei wurden ähnliche Namen bzw. verschiedene Schreibweisen auf den gleichen Shortcut gelegt.
+Dadurch enthält diese Liste aber auch Ungenauigkeiten und Fehltranskription, die man beachten muss.
 
 Bsp:
 Gregor/Greger => Georg
