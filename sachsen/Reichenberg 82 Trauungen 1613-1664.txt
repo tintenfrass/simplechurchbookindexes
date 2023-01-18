@@ -5,7 +5,7 @@ Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 Hinweis:
-Die im Jahr 1649 fehlenden Einträge wurde aus dem Register übernommen (Buch 95)
+Die im Jahr 1649 fehlenden Einträge wurden aus dem Register übernommen (Buch 95)
 
 
 Erstellt in ca. 6 Stunden
@@ -55,14 +55,14 @@ Hans Mehlich
 Hans Reger
 Georg Vetter
 Christoph Pirsche
-Martin Drobisch
+Martin Drowisch
 Christoph Thronig
 Mats Haußzelt
 Christoph Bernhart
 Donat Findeisen
 Andreas Uterne?
 Barthel Thieme
-Klaus Drobisch
+Klaus Drowisch
 Peter Jacob
 ----------------
 1615
@@ -219,7 +219,7 @@ Paul Hennersdorf
 Martin Schmiedichen
 1621
 Christoph Schmiedichen
-Georg Drobisch
+Georg Drowisch
 ----------------
 Donat Pirsche
 Martin Hempel
@@ -255,7 +255,7 @@ Hans Rießgen
 Blasius Freund
 ----------------
 Martin Jacob
-Peter Drobisch
+Peter Drowisch
 Andreas Thieme
 Hans Grahl
 Martin Berger
@@ -339,7 +339,7 @@ Paul Vetter
 Johann Knaud
 Hans Fichler
 Hans Zaschel?
-Georg? Drobisch
+Georg? Drowisch
 Peter Riemer
 Martin Seidel
 Hans Zaschel
@@ -374,7 +374,7 @@ Nicol Näcker
 Jonas Richter
 Martin Peterman
 Benedig Zocher
-Christoph Drobisch
+Christoph Drowisch
 Hans Köppsch
 Martin Peterman
 Caspar Vetter
@@ -454,7 +454,7 @@ Peter Ganßauge
 Nicol Vetter
 ----------------
 Martin Büchner
-Mats Drobisch
+Mats Drowisch
 Barthel Pehle
 Michael Riemer
 Balthasar Thalheim
@@ -536,7 +536,7 @@ Georg Grafe
 Hans Maul
 ----------------
 Christoph Zugner?
-Mats Drobisch
+Mats Drowisch
 Nicol Jacob
 Hans Zimmermann
 Andreas Werner
@@ -589,7 +589,7 @@ Martin Pohle
 ----------------
 Christoph Schmidgen
 Caspar Hoffmann
-Hans Drobisch
+Hans Drowisch
 Hans Grafe
 Peter Proschman
 Valentin Schmidgen
@@ -622,7 +622,7 @@ Hans Ziegner
 Peter Leschig
 ----------------
 Hans Gantsch?
-? Drobisch
+? Drowisch
 Peter Schulig?
 Christoph Kreyser
 Hans Zimmermann
@@ -649,7 +649,7 @@ Andreas Komlich
 Simon Meister?
 Michael Zuggert?
 ? ?
-Georg Drobisch
+Georg Drowisch
 Nicol Freund
 Christoph Behnisch
 Georg S?
@@ -719,7 +719,7 @@ Martin Klingner
 ----------------
 x
 Hans Zscheile
-Martin Drobisch
+Martin Drowisch
 Georg Elig
 Hans Reichel
 Hans Paulig
@@ -742,7 +742,7 @@ Hans Schmidgen
 Martin Pirner
 Hans Richter
 Georg Schönert
-Michael Drobisch
+Michael Drowisch
 Martin Winckler
 Hans Blieman?
 ----------------
@@ -765,7 +765,7 @@ Georg Rarisch
 Hans Eling
 Hans-Adam Schnabel
 Michael Zimmermann
-Michael Drobisch
+Michael Drowisch
 Hans Vetter
 Georg Kuntzsche
 ----------------
@@ -777,7 +777,7 @@ Georg Möckel
 Martin Mehlich
 Mattheus Pische
 Clemens Helm?
-Hans Drobisch
+Hans Drowisch
 Martin Kreyse
 Peter Lehrknecht
 ----------------
@@ -843,7 +843,7 @@ Hans Mirisch
 Hans Vetter
 Georg Möbert
 Georg Schufner
-Nicol Drobisch
+Nicol Drowisch
 Michael Jacob
 ----------------
 Martin Lorentz
@@ -894,7 +894,7 @@ Andreas Möckel
 Martin Mehlich
 Asmus Thalheim
 ----------------
-Caspar Drobisch
+Caspar Drowisch
 Gall Reger
 1647
 Christoph Schultze
@@ -965,7 +965,7 @@ Georg Zscheile
 Stephan Jacob
 Nicol Vetter
 Caspar Berger?
-Georg Drobisch
+Georg Drowisch
 Caspar Blanckenstein
 Caspar Vetter
 Martin Komlich
@@ -982,7 +982,7 @@ Hans Betzolt
 1651
 Martin Züchner
 Mattheus Pehlich
-Christoph Drobisch
+Christoph Drowisch
 Martin Seidel
 Georg Gautzsch
 ----------------
@@ -1004,7 +1004,7 @@ Georg Kretzschmer
 Georg Hamann
 Martin Bergman
 Hans Porrich
-Hans Drobisch
+Hans Drowisch
 Hans Opitz
 ----------------
 Lorenz Iltzsche
@@ -1028,7 +1028,7 @@ Benedig Schultze
 Christoph Jacob
 ----------------
 1653
-Michael Drobisch
+Michael Drowisch
 Jacob Bergman
 Christoph Blanckenstein
 Gregor Schärffig
@@ -1066,7 +1066,7 @@ Georg Hennersdorf
 Georg Jentzsch
 Andreas Mann
 Hans Hauckelt
-Georg Drobisch
+Georg Drowisch
 Antonius Schmidgen
 Martin Gude
 Peter Rarisch
@@ -1092,8 +1092,8 @@ Georg Möckel
 ----------------
 1658
 Martin Rotzsche
-Paul Drobisch
-Martin Drobisch
+Paul Drowisch
+Martin Drowisch
 Hans Billig
 Christoph Schmidgen
 Martin Pohle
