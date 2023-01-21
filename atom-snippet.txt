@@ -12,27 +12,33 @@
    '_Andreas':
      'prefix': 'a0'
      'body': '_Andreas '
-   '_Antonius':
+   '_Anton':
      'prefix': 'a1'
-     'body': '_Antonius '
+     'body': '_Anton '
    '_Adam':
      'prefix': 'a2'
      'body': '_Adam '
    '_Ambrosius':
      'prefix': 'a3'
      'body': '_Ambrosius '
-   '_Asmus':
+   '_August':
      'prefix': 'a4'
-     'body': '_Asmus '
+     'body': '_August '
    '_Abraham':
      'prefix': 'a9'
      'body': '_Abraham '
    '_Anna':
      'prefix': 'a5'
      'body': '_Anna '
+   '_Hans-Andreas':
+     'prefix': 'ha0'
+     'body': '_Hans-Andreas '
    '_Hans-Adam':
      'prefix': 'ha2'
      'body': '_Hans-Adam '
+   '_Johann-Andreas':
+     'prefix': 'ja0'
+     'body': '_Johann-Andreas '
    '_Johann-Adam':
      'prefix': 'ja2'
      'body': '_Johann-Adam '
@@ -111,6 +117,18 @@
    '_Dorothea':
      'prefix': 'd5'
      'body': '_Dorothea '
+   '_Hans-Daniel':
+     'prefix': 'hd1'
+     'body': '_Hans-Daniel '
+   '_Johann-Daniel':
+     'prefix': 'jd1'
+     'body': '_Johann-Daniel '
+   '_Hans-David':
+     'prefix': 'hd2'
+     'body': '_Hans-David '
+   '_Johann-David':
+     'prefix': 'jd2'
+     'body': '_Johann-David '
 
    '_Elias':
      'prefix': 'e0'
@@ -146,6 +164,9 @@
    '_Johann-Friedrich':
      'prefix': 'jf2'
      'body': '_Johann-Friedrich '
+   '_Hans-Friedrich':
+     'prefix': 'hf2'
+     'body': '_Hans-Friedrich '
    '_Christian-Friedrich':
      'prefix': 'cf2'
      'body': '_Christian-Friedrich '
@@ -168,6 +189,9 @@
    '_Gertrud':
      'prefix': 'g5'
      'body': '_Gertrud '
+   '_Gabriel':
+     'prefix': 'g9'
+     'body': '_Gabriel '
    '_Hans-Georg':
      'prefix': 'hg0'
      'body': '_Hans-Georg '
@@ -199,6 +223,9 @@
    '_Heinrich':
      'prefix': 'h2'
      'body': '_Heinrich '
+   '_Herman':
+     'prefix': 'h3'
+     'body': '_Herman '
    '_Hanna':
      'prefix': 'h5'
      'body': '_Hanna '
@@ -253,7 +280,15 @@
    '_Kilian':
      'prefix': 'k0'
      'body': '_Kilian '
-
+   '_Karol':
+     'prefix': 'k1'
+     'body': '_Karol '
+   '_Karl':
+     'prefix': 'k2'
+     'body': '_Karl '
+   '_Konrad':
+     'prefix': 'k3'
+     'body': '_Konrad '
    '_Lorenz':
      'prefix': 'l0'
      'body': '_Lorenz '
@@ -266,6 +301,9 @@
    '_Leonhard':
      'prefix': 'l3'
      'body': '_Leonhard '
+   '_Lazarus':
+     'prefix': 'l4'
+     'body': '_Lazarus '
 
    '_Martin':
      'prefix': 'm0'
@@ -294,6 +332,9 @@
    '_Magdalena':
      'prefix': 'm8'
      'body': '_Magdalena '
+   '_Marcus':
+     'prefix': 'm9'
+     'body': '_Marcus '
    '_Johann-Martin':
      'prefix': 'jm0'
      'body': '_Johann-Martin '
@@ -476,6 +517,9 @@
    'Fehrmann':
      'prefix': 'feh'
      'body': 'Fehrmann\r\n'
+   'Fleischer':
+     'prefix': 'flei'
+     'body': 'Fleischer\r\n'
    'Fichtner':
      'prefix': 'fich'
      'body': 'Fichtner\r\n'
@@ -488,6 +532,9 @@
    'Fischer':
      'prefix': 'fisch'
      'body': 'Fischer\r\n'
+   'Franke':
+     'prefix': 'fran'
+     'body': 'Franke\r\n'
    'Frietzsche':
      'prefix': 'fri'
      'body': 'Frietzsche\r\n'
@@ -500,6 +547,9 @@
    'Ganßauge':
      'prefix': 'gan'
      'body': 'Ganßauge\r\n'
+   'Gebauer':
+     'prefix': 'geba'
+     'body': 'Gebauer\r\n'
    'Gießmann':
      'prefix': 'gie'
      'body': 'Gießmann\r\n'
@@ -515,6 +565,9 @@
    'Günther':
      'prefix': 'gue'
      'body': 'Günther\r\n'
+   'Hanitzsch':
+     'prefix': 'hani'
+     'body': 'Hanitzsch\r\n'
    'Hatzbecker':
      'prefix': 'hb'
      'body': 'Hatzbecker\r\n'
@@ -563,6 +616,9 @@
    'Irmer':
      'prefix': 'irm'
      'body': 'Irmer\r\n'
+   'Jacob':
+     'prefix': 'jac'
+     'body': 'Jacob\r\n'
    'Jänichen':
      'prefix': 'jae'
      'body': 'Jänichen\r\n'
@@ -653,6 +709,9 @@
    'Pfeiffer':
      'prefix': 'pfe'
      'body': 'Pfeiffer\r\n'
+   'Pfitzner':
+     'prefix': 'pfitz'
+     'body': 'Pfitzner\r\n'
    'Philipp':
      'prefix': 'phi'
      'body': 'Philipp\r\n'
@@ -671,6 +730,9 @@
    'Richter':
      'prefix': 'rich'
      'body': 'Richter\r\n'
+   'Riemer':
+     'prefix': 'riem'
+     'body': 'Riemer\r\n'
    'Ritter':
      'prefix': 'rit'
      'body': 'Ritter\r\n'
@@ -695,15 +757,21 @@
    'Schneider':
      'prefix': 'sne'
      'body': 'Schneider\r\n'
+   'Scholtz':
+     'prefix': 'sol'
+     'body': 'Scholtz\r\n'
    'Schönberg':
      'prefix': 'soen'
      'body': 'Schönberg\r\n'
    'Schröter':
      'prefix': 'sr'
      'body': 'Schröter\r\n'
-   'Schubart':
+   'Schubert':
      'prefix': 'sub'
-     'body': 'Schubart\r\n'
+     'body': 'Schubert\r\n'
+   'Schultz':
+     'prefix': 'sul'
+     'body': 'Schultz\r\n'
    'Schumann':
      'prefix': 'sum'
      'body': 'Schumann\r\n'
@@ -773,6 +841,9 @@
    'Weise':
      'prefix': 'wei'
      'body': 'Weise\r\n'
+   'Werner':
+     'prefix': 'wer'
+     'body': 'Werner\r\n'
    'Winckler':
      'prefix': 'win'
      'body': 'Winckler\r\n'
@@ -785,6 +856,9 @@
    'Wustlich':
      'prefix': 'wus'
      'body': 'Wustlich\r\n'
+   'Zabel':
+     'prefix': 'zab'
+     'body': 'Zabel\r\n'
    'Ziegenbalck':
      'prefix': 'zb'
      'body': 'Ziegenbalck\r\n'
