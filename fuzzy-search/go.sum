@@ -1,0 +1,6 @@
+github.com/antzucaro/matchr v0.0.0-20210222213004-b04723ef80f0 h1:R/qAiUxFT3mNgQaNqJe0IVznjKRNm23ohAIh9lgtlzc=
+github.com/antzucaro/matchr v0.0.0-20210222213004-b04723ef80f0/go.mod h1:v3ZDlfVAL1OrkKHbGSFFK60k0/7hruHPDq2XMs9Gu6U=
+github.com/gen2brain/iup-go/iup v0.0.0-20220711082159-908abac71c9e h1:Nd3d8eS7aW7MlNKCxl7nJtNj3y1hnANvKOoY+SkenFE=
+github.com/gen2brain/iup-go/iup v0.0.0-20220711082159-908abac71c9e/go.mod h1:2weR8HxPYyoPmAjcG2khdicw8WFwrCze3pVbYjNUlGc=
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
