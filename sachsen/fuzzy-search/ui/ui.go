@@ -19,7 +19,7 @@ func BuildAndRun() {
 	minLabel := iup.Label("").SetHandle("min").SetAttribute("TITLE", config.Config.Year["min"])
 	maxSlider := iup.Val("HORIZONTAL").SetAttribute("SIZE", "200x15").SetAttribute("TITLE", "max").SetAttribute("MIN", config.YearMin).SetAttribute("MAX", config.YearMax).SetAttribute("VALUE", config.Config.Year["max"])
 	maxLabel := iup.Label("").SetHandle("max").SetAttribute("TITLE", config.Config.Year["max"])
-	instantSearch := iup.Toggle("Suchen beim Tippen").SetAttribute("VALUE", getOnOffInstantSearch("instantSearch")).SetAttribute("key", "instantSearch")
+	//instantSearch := iup.Toggle("Suchen beim Tippen").SetAttribute("VALUE", getOnOffInstantSearch("instantSearch")).SetAttribute("key", "instantSearch")
 
 	//Buttons
 	exitButton := iup.Button("Exit").SetAttribute("SIZE", "50x15")
@@ -38,10 +38,11 @@ func BuildAndRun() {
 		iup.Label("Max:").SetAttribute("SIZE", "30x15"),
 		maxSlider,
 		maxLabel,
-		instantSearch.SetAttribute("SIZE", "x15"),
+		//instantSearch.SetAttribute("SIZE", "x15"),
 	).SetAttribute("NUMDIV", 3)
 	//Map
 	boxes = map[string]iup.Ihandle{
+		"Dörschnitz":  iup.Toggle(utf82ui("Dörschnitz")),
 		"Großdobritz": iup.Toggle(utf82ui("Großdobritz")),
 
 		"Lommatzsch": iup.Toggle("Lommatzsch"),
@@ -64,10 +65,9 @@ func BuildAndRun() {
 		"Wilschdorf":            iup.Toggle("Wilschdorf"),
 
 		"Ziegenhain": iup.Toggle("Ziegenhain"),
-		"Brockwitz":  iup.Toggle("Brockwitz"),
-		"Coswig":     iup.Toggle("Coswig"),
 		"Klotzsche":  iup.Toggle("Klotzsche"),
 
+		"Raußlitz":       iup.Toggle(utf82ui("Raußlitz")),
 		"Krögis":         iup.Toggle(utf82ui("Krögis")),
 		"Naustadt":       iup.Toggle("Naustadt"),
 		"Constappel":     iup.Toggle("Constappel"),
@@ -75,15 +75,18 @@ func BuildAndRun() {
 
 		"Miltitz": iup.Toggle("Miltitz"),
 
-		"Heynitz":    iup.Toggle("Heynitz"),
-		"Taubenheim": iup.Toggle("Taubenheim"),
-		"Röhrsdorf":  iup.Toggle(utf82ui("Röhrsdorf")),
-		"Weistropp":  iup.Toggle("Weistropp"),
-		"Kaditz":     iup.Toggle("Kaditz"),
+		"Wendischbora": iup.Toggle("Wendischbora"),
+		"Heynitz":      iup.Toggle("Heynitz"),
+		"Taubenheim":   iup.Toggle("Taubenheim"),
+		"Röhrsdorf":    iup.Toggle(utf82ui("Röhrsdorf")),
+		"Weistropp":    iup.Toggle("Weistropp"),
+		"Kaditz":       iup.Toggle("Kaditz"),
 
+		"Rothschönberg":            iup.Toggle(utf82ui("Rothschönberg")),
 		"Burkhardswalde":           iup.Toggle("Burkhardswalde"),
 		"Dresden Dreikönigskirche": iup.Toggle(utf82ui("Dresden Dreikönigskirche")),
 
+		"Deutschenbora":         iup.Toggle("Deutschenbora"),
 		"Tanneberg":             iup.Toggle("Tanneberg"),
 		"Limbach":               iup.Toggle("Limbach"),
 		"Wilsdruff":             iup.Toggle("Wilsdruff"),
@@ -113,17 +116,17 @@ func BuildAndRun() {
 	}
 
 	for key, box := range boxes {
-		box.SetAttribute("VALUE", getOnOffChurches(key)).SetAttribute("key", key)
-		box.SetAttribute("TITLE", utf82ui(key)+search.GetMinMax(key))
-
 		_, ex := config.Config.Churches[key]
 		if !ex {
-			config.Config.Churches[key] = false
+			config.Config.Churches[key] = true
 		}
+
+		box.SetAttribute("VALUE", getOnOffChurches(key)).SetAttribute("key", key)
+		box.SetAttribute("TITLE", utf82ui(key)+search.GetMinMax(key))
 	}
 
 	grid := iup.GridBox(
-		iup.Space().SetAttributes("SIZE=70x15"),
+		boxes["Dörschnitz"].SetAttributes("SIZE=70x15"),
 		iup.Space().SetAttributes("SIZE=70x0"),
 		iup.Space().SetAttributes("SIZE=90x0"),
 		iup.Space().SetAttributes("SIZE=95x0"),
@@ -166,12 +169,12 @@ func BuildAndRun() {
 		boxes["Ziegenhain"],
 		iup.Space(),
 		iup.Space(),
-		boxes["Brockwitz"],
-		boxes["Coswig"],
+		iup.Space(),
+		iup.Space(),
 		iup.Space(),
 		iup.Space(),
 
-		iup.Space().SetAttributes("SIZE=0x15"),
+		boxes["Raußlitz"],
 		boxes["Krögis"],
 		iup.Space(),
 		boxes["Naustadt"],
@@ -187,7 +190,7 @@ func BuildAndRun() {
 		iup.Space(),
 		iup.Space(),
 
-		iup.Space().SetAttributes("SIZE=0x15"),
+		boxes["Wendischbora"],
 		boxes["Heynitz"],
 		boxes["Taubenheim"],
 		boxes["Röhrsdorf"],
@@ -195,7 +198,7 @@ func BuildAndRun() {
 		boxes["Kaditz"],
 		iup.Space(),
 
-		iup.Space().SetAttributes("SIZE=0x15"),
+		boxes["Rothschönberg"],
 		boxes["Burkhardswalde"],
 		iup.Space(),
 		iup.Space(),
@@ -203,7 +206,7 @@ func BuildAndRun() {
 		iup.Space(),
 		boxes["Dresden Dreikönigskirche"],
 
-		iup.Space().SetAttributes("SIZE=0x15"),
+		boxes["Deutschenbora"],
 		boxes["Tanneberg"],
 		boxes["Limbach"],
 		boxes["Wilsdruff"],
@@ -288,7 +291,7 @@ func BuildAndRun() {
 	}
 	iup.SetCallback(minSlider, "VALUECHANGED_CB", iup.ValueChangedFunc(valueChanged))
 	iup.SetCallback(maxSlider, "VALUECHANGED_CB", iup.ValueChangedFunc(valueChanged))
-	iup.SetCallback(instantSearch, "ACTION", iup.ActionFunc(toogleInstantSearch))
+	//iup.SetCallback(instantSearch, "ACTION", iup.ActionFunc(toogleInstantSearch))
 
 	//Run
 	iup.Map(dlg)
