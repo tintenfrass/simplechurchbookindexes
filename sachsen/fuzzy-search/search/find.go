@@ -23,7 +23,7 @@ func FindMarriage(search string) (output string) {
 		}
 		for _, entry := range sourceMarriages.data {
 			//Prüfen, ob wir in dieser Zeit suchen wollen
-			if entry.year < config.Config.Year["min"] || entry.year > config.Config.Year["max"] {
+			if entry.year != 0 && (entry.year < config.Config.Year["min"] || entry.year > config.Config.Year["max"]) {
 				continue
 			}
 			distance := 0

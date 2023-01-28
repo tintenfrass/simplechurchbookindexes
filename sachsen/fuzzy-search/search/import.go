@@ -98,7 +98,7 @@ func ImportFromLocal() bool {
 //Importiert eine Datei
 func importMarriage(lines []string, fileName string) int {
 	fileMarriages := []marriageEntry{}
-	year := 0
+	year := -1
 	minYear := 0
 	maxYear := 0
 	source := ""
@@ -108,11 +108,8 @@ func importMarriage(lines []string, fileName string) int {
 			parts := strings.Split(line, "(")
 			source = strings.TrimSpace(parts[0])
 		}
-		if len(line) == 0 {
-			continue
-		}
 
-		if line[0:1] == "x" {
+		if len(line) == 0 || line[0:1] == "x" || strings.HasPrefix(line, "...") {
 			continue
 		}
 
@@ -124,17 +121,22 @@ func importMarriage(lines []string, fileName string) int {
 
 		content := strings.Split(strings.TrimSpace(line), " ")
 		//Jahreszahl?
-		if len(content) < 2 || strings.Contains(content[1], "Teil") {
+		if len(content) == 1 || len(content) > 2 && strings.Contains(content[1], "Teil") {
 			//4-Stellig?
 			if len(content[0]) >= 4 {
-				number, err := strconv.Atoi(content[0][:4])
-				if err == nil {
+				if content[0][:4] == "0000" {
+					year = 0
+				} else {
+					number, err := strconv.Atoi(content[0][:4])
+					if err != nil || number == 0 {
+						continue
+					}
 					year = number
 				}
 			}
 			continue
 		}
-		if year == 0 {
+		if year < 0 {
 			continue
 		}
 

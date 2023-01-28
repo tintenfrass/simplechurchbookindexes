@@ -94,6 +94,7 @@ func BuildAndRun() {
 		"Briesnitz":             iup.Toggle("Briesnitz"),
 		"Dresden Sophienkirche": iup.Toggle("Dresden Sophienkirche"),
 
+		"Hirschfeld":          iup.Toggle("Hirschfeld"),
 		"Neukirchen":          iup.Toggle("Neukirchen"),
 		"Blankenstein":        iup.Toggle("Blankenstein"),
 		"Grumbach":            iup.Toggle("Grumbach"),
@@ -214,7 +215,7 @@ func BuildAndRun() {
 		boxes["Briesnitz"],
 		boxes["Dresden Sophienkirche"],
 
-		iup.Space().SetAttributes("SIZE=0x15"),
+		boxes["Hirschfeld"],
 		boxes["Neukirchen"],
 		boxes["Blankenstein"],
 		boxes["Grumbach"],
