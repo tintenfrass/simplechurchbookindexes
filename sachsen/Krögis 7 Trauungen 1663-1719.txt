@@ -1,5 +1,5 @@
 Krögis (Buch 7)
-Trauungen 1663-1699
+Trauungen 1663-1719
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
@@ -7,8 +7,9 @@ Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 2 Stunde
 Juni 2022
+Januar 2023
 tintenfrass@gmx.de
 
 
@@ -373,3 +374,214 @@ Hans Antony
 ----------------
 Hans Guck
 Hans Hahn
+1700
+Peter Zschietzsche
+Michael Meh
+Hans Clauß
+Michael Schneider
+Michael Pachman
+Hans Mühlberg
+Andreas Grübler
+----------------
+1701
+Georg Wend
+Paul Seemann
+Andreas Möbius
+Gottfried Hayna
+Georg Schwägergen
+Martin Lommatzsch
+Hans Funcke
+Martin Hahmann
+Peter Wackwitz
+Hans Schoppe
+Thomas Wäber
+Hans-Georg Gerogi
+Georg Grosche
+1702
+Martin Franke
+Georg Fastnacht
+Christoph Geißler
+Jacob Tamm
+Georg Haubold
+----------------
+Martin Funcke
+Hans Matthes
+Michael Frietzsche
+Martin Hencker
+Hans Fehrmann
+Georg Hermann
+Hans Lützner
+Andreas Starcke
+1703
+Peter Starcke
+Peter Lehmann
+Christian Kiesling
+Peter Köhler
+Michael Thiele
+----------------
+Hans-Jacob Reichard
+Georg Huhn
+Peter Stubenrauch
+1704
+Samuel Steuer
+Georg Räder
+Balthasar Schumann
+Georg Zschoche
+Michael Tamm
+Martin Borckert
+Gregor Zschoche
+Hans Döring
+Michael Roitzsch
+Martin Hänsel
+----------------
+1705
+Zacharias Lutze
+Wolfgang Wackwitz
+Thomas Wäber
+Thomas Schubert
+Christoph-Carl Wille
+Michael Rost
+Hans Zschoche
+Georg Starcke
+Theodor Schnecke
+Georg Grübler
+Michael Kuntze
+Christoph König
+Georg Hellmuth
+----------------
+Martin Bögen
+Peter Naumann
+Martin Schönert
+1706
+Peter Schlimpert
+Hans Erler
+Johann-Christoph Perschmann
+Martin Naumann
+Martin Clauß
+1707
+Peter Köhler
+Michael Kolbe
+Martin Voigt
+----------------
+Michael Förster
+1708
+Benoo Fichtner
+Michael Ditrich
+Mattheus Hartzbecker
+Hans Rudolf
+Andreas Starcke
+Christian Preuser
+----------------
+1710
+Hans Wachs
+Donat Schöne
+Martin Rädler
+Nicol Spieß
+Christian Möbius
+Thomas Guck
+Peter Zschoche
+----------------
+Hans Peutschmann
+Andreas Hänsel
+Martin Teichmann
+Samuel Jähnichen
+Georg Jud?
+1711
+Johann Hummatzsch
+Andreas Seiler
+Johann Schuster
+Martin Fichtner
+Georg Kohl
+----------------
+Martin Große
+1712
+Johann Ranft
+Michael Ditrich
+Johann-Barhtel Knecker
+Georg Klingner
+Hans Grübler
+Martin Kretzsch
+Georg Mehner
+Georg Eulitz
+----------------
+1713
+Michael Kühne
+Martin Fichtner
+Johann Gürner
+Peter Roßberg
+Michael Gebhard
+Martin Roßberg
+Stephan Lehmann
+1714
+Johann Begen
+Johann Hanitzsch
+----------------
+Andreas Möbius
+Christian Schädler
+Georg Lützner
+Jacob Pegen
+Peter Gebhard
+Johann Ganßauge
+Michael Spieß
+Johann Rudolf
+1715
+Samuel Haberstroh
+Georg Prase
+Peter Köhler
+Andreas Grübler
+Johann Burckhart
+Martin Starcke
+Michael Leuschner
+Georg Gorck
+1716
+Paul Rentzsch
+Peter Schmidt
+Peter Clauß
+Georg Schubert
+Georg Starcke
+Hans Poppe
+----------------
+Johann Grellmann
+1717
+Christian Schoppe
+Johann-Gottfried Hoffmann
+Martin Voigt
+Andreas Lehmann
+Peter Riedrich
+Martin Schnee
+Peter Fichtner
+Peter Otte
+Andreas Pietzsch
+----------------
+Simon Ranft
+Michael-Martin Frietzsche
+1718
+Abraham Martini
+Thomas Müller
+Johann-Adolph Hausus?
+Christoph Kummer
+Peter Hanitzsch
+Martin Hansch?
+Michael Günther
+----------------
+Georg Kühne
+Peter Marcker
+Andreas Lindichen
+Johann Conrad
+Johann Große
+Johann Knoll
+Michael Frietzsche
+Peter Fichtner
+Georg Zimmermann
+----------------
+1719
+Christian Petzsch
+Johann Starcke
+Peter Funcke
+Andreas Fischer
+Georg Wachs
+Johann Kühn
+Gottfried Lerck?
+Jacob Voigt
+Johann Crelman
+----------------
