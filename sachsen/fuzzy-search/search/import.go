@@ -13,11 +13,13 @@ import (
 	"strings"
 )
 
-const src = "https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/sachsen/"
-
-var github []struct {
+type githubFile struct {
 	Name string `json:"name"`
+	Url  string `json:"download_url"`
+	Size int    `json:"size"`
 }
+
+var github []githubFile
 
 func ImportFromGit() {
 	//Von der Github-Api die Liste der Dateien holen
@@ -36,13 +38,13 @@ func ImportFromGit() {
 	}
 
 	//Die Namen aller Dateien mit Trauungen raussuchen
-	remoteFiles := []string{}
+	remoteFiles := []githubFile{}
 	for _, file := range github {
 		//Wir wollen nur Trauungen
 		if !strings.Contains(file.Name, "Trauungen") {
 			continue
 		}
-		remoteFiles = append(remoteFiles, src+file.Name)
+		remoteFiles = append(remoteFiles, file)
 	}
 
 	count := 0
@@ -50,14 +52,16 @@ func ImportFromGit() {
 		data.marriages = make(map[string]churchEntry)
 	}
 	for _, remoteFile := range remoteFiles {
-		//Prüfen, ob Datei lokal schon existiert
-		_, err := os.Stat("sachsen/" + path.Base(remoteFile))
+		//Prüfen, ob Datei lokal schon existiert und size übereinstimmt
+		fileInfo, err := os.Stat("sachsen/" + path.Base(remoteFile.Name))
 		if !errors.Is(err, os.ErrNotExist) {
-			count += ImportFromLocal("sachsen/" + path.Base(remoteFile))
-			continue
+			if fileInfo.Size() == int64(remoteFile.Size) {
+				count += ImportFromLocal("sachsen/" + path.Base(remoteFile.Name))
+				continue
+			}
 		}
 
-		resp, err := http.Get(remoteFile)
+		resp, err := http.Get(remoteFile.Url)
 		if err != nil {
 			fmt.Println(err)
 		}
@@ -67,16 +71,16 @@ func ImportFromGit() {
 			fmt.Println(err)
 		}
 
-		subcount := importMarriage(strings.Split(string(content), "\n"), path.Base(remoteFile))
+		subcount := importMarriage(strings.Split(string(content), "\n"), path.Base(remoteFile.Name))
 		count += subcount
-		fmt.Println(fmt.Sprintf("online geladen \"%s\" mit %d Einträgen", path.Base(remoteFile), subcount))
+		fmt.Println(fmt.Sprintf("online geladen \"%s\" mit %d Einträgen", path.Base(remoteFile.Name), subcount))
 
 		//Datei local abspeichern
 		if config.Config.OnlineOnly {
 			continue
 		}
 		os.Mkdir("sachsen", os.ModePerm)
-		localFile, err := os.Create("sachsen/" + path.Base(remoteFile))
+		localFile, err := os.Create("sachsen/" + path.Base(remoteFile.Name))
 		if err != nil {
 			fmt.Println(err)
 			continue
