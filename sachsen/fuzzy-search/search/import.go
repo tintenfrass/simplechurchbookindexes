@@ -2,9 +2,12 @@ package search
 
 import (
 	"encoding/json"
+	"errors"
 	"fmt"
+	"indexfuzzysearch/config"
 	"io/ioutil"
 	"net/http"
+	"os"
 	"path"
 	"strconv"
 	"strings"
@@ -47,6 +50,13 @@ func ImportFromGit() {
 		data.marriages = make(map[string]churchEntry)
 	}
 	for _, remoteFile := range remoteFiles {
+		//Prüfen, ob Datei lokal schon existiert
+		_, err := os.Stat("sachsen/" + path.Base(remoteFile))
+		if !errors.Is(err, os.ErrNotExist) {
+			count += ImportFromLocal("sachsen/" + path.Base(remoteFile))
+			continue
+		}
+
 		resp, err := http.Get(remoteFile)
 		if err != nil {
 			fmt.Println(err)
@@ -59,40 +69,33 @@ func ImportFromGit() {
 
 		subcount := importMarriage(strings.Split(string(content), "\n"), path.Base(remoteFile))
 		count += subcount
-		fmt.Println(fmt.Sprintf("geladen \"%s\" mit %d Einträgen", path.Base(remoteFile), subcount))
+		fmt.Println(fmt.Sprintf("online geladen \"%s\" mit %d Einträgen", path.Base(remoteFile), subcount))
 
+		//Datei local abspeichern
+		if config.Config.OnlineOnly {
+			continue
+		}
+		os.Mkdir("sachsen", os.ModePerm)
+		localFile, err := os.Create("sachsen/" + path.Base(remoteFile))
+		if err != nil {
+			fmt.Println(err)
+			continue
+		}
+		defer localFile.Close()
+		localFile.WriteString(string(content))
+		localFile.Sync()
 	}
-	fmt.Println(fmt.Sprintf("%d Trauungen aus %d Online-Quellen geladen", count, len(data.marriages)))
+	fmt.Println(fmt.Sprintf("%d Trauungen aus %d Quellen geladen", count, len(data.marriages)))
 }
 
-// @deprecated
-func ImportFromLocal() bool {
-	//Heiraten einlesen
-	marriagePath := "trauungen/"
-
-	marriageFiles, err := ioutil.ReadDir(marriagePath)
+func ImportFromLocal(fileName string) (count int) {
+	fileData, err := ioutil.ReadFile(fileName)
 	if err != nil {
 		fmt.Println(err)
 	}
-	count := 0
-	if data.marriages == nil {
-		data.marriages = make(map[string]churchEntry)
-	}
-	for _, file := range marriageFiles {
-		//Wir wollen nur Trauungen
-		if !strings.Contains(file.Name(), "Trauungen") {
-			fmt.Println("skip: ", file.Name())
-			continue
-		}
-		fileData, err := ioutil.ReadFile(marriagePath + file.Name())
-		if err != nil {
-			fmt.Println(err)
-		}
-		count += importMarriage(strings.Split(string(fileData), "\r\n"), file.Name())
-	}
-	fmt.Println(fmt.Sprintf("%d Trauungen aus %d Quellen geladen", count, len(data.marriages)))
-
-	return count > 0
+	count = importMarriage(strings.Split(strings.Replace(string(fileData), "\r", "", -1), "\n"), fileName)
+	fmt.Println(fmt.Sprintf("lokal geladen \"%s\" mit %d Einträgen", path.Base(fileName), count))
+	return
 }
 
 //Importiert eine Datei

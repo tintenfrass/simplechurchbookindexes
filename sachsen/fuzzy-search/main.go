@@ -11,7 +11,7 @@ import (
 func main() {
 	fmt.Println("Index Fuzzy Search v1.0", runtime.GOARCH)
 
-	search.ImportFromGit()
 	config.Load()
+	search.ImportFromGit()
 	ui.BuildAndRun()
 }

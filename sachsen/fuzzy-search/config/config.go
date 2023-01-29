@@ -10,6 +10,7 @@ type JsonConfig struct {
 	Year          map[string]int  `json:"zeitraum"`
 	Churches      map[string]bool `json:"kirchen"`
 	InstantSearch bool            `json:"sofortsuche"`
+	OnlineOnly    bool            `json:"nuronline"`
 }
 
 const YearMin = 1550
