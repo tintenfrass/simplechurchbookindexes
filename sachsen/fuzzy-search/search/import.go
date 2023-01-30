@@ -21,6 +21,52 @@ type githubFile struct {
 
 var github []githubFile
 
+func Update() {
+	//neuste Version holen
+	resp, err := http.Get("https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/sachsen/fuzzy-search/version.txt")
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+	defer resp.Body.Close()
+
+	content, err := ioutil.ReadAll(resp.Body)
+	if err != nil {
+		fmt.Println(err)
+		return
+	}
+
+	version := string(content)
+	//Prüfen, ob neuste Version local vorhanden ist
+	fileName := "indexfuzzysearch_" + version + ".exe"
+	_, err = os.Stat(fileName)
+	if errors.Is(err, os.ErrNotExist) {
+		//Download
+		resp, err = http.Get("https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/sachsen/fuzzy-search/" + fileName)
+		if err != nil {
+			fmt.Println(err)
+			return
+		}
+		defer resp.Body.Close()
+
+		content, err = ioutil.ReadAll(resp.Body)
+		if err != nil {
+			fmt.Println(err)
+			return
+		}
+		if len(content) > 1000 {
+			localFile, err := os.Create(fileName)
+			if err != nil {
+				fmt.Println(err)
+				return
+			}
+			defer localFile.Close()
+			localFile.WriteString(string(content))
+			localFile.Sync()
+		}
+	}
+}
+
 func ImportFromGit() {
 	//Von der Github-Api die Liste der Dateien holen
 	list, err := http.Get("https://api.github.com/repos/tintenfrass/simplechurchbookindexes/contents/sachsen")
