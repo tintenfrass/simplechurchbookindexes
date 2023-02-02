@@ -1,5 +1,5 @@
 ## Fuzzy Search
-Ein kleines Tool, um die Index-Files von "https://github.com/tintenfrass/simplechurchbookindexes/sachsen"
+Ein kleines Tool, um die Index-Files von https://github.com/tintenfrass/simplechurchbookindexes/tree/main/sachsen
 einfach durchsuchen zu können. Dabei wird eine Ähnlichkeitssuche verwendet und die Ergebnisse nach Treffergenauigkeit sortiert.
 
 ### Installation
