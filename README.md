@@ -17,7 +17,7 @@ Die vollen Einträge der Kirchenbücher können im sächsischen Landeskirchliche
 
 Welche Art von Shortcuts man benutzt hängt sehr vom Programm ab, mit dem man schreibt und welche Möglichkeiten es bietet.
 
-#### 1. Im Atom-Editor hat sich einfaches Snippet bewährt (atom-snippet.txt)
+#### 1. Im Atom-Editor hat sich ein einfaches Snippet bewährt (atom-snippet.txt)
 g+tab wird zu Georg, g2+tab zu Gottfried, g3+tab zu Gottlieb usw.
 Für die Nachnamen nutzt man die Autovervollständigung, so dass man jeden Nachnamen pro Datei nur einmal schreiben muss.
 Damit die Vornamen nicht in der Autovervollständigung für Nachnamen auftauchen, werden diese durch das Snipped mit einem Unterstrich erstellt.
