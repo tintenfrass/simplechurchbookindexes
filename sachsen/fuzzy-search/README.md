@@ -7,9 +7,10 @@ Es reicht die Datei indexfuzzysearch_1.0.exe herunterzuladen und zu starten. (Dr
 oder Direktlink:
 https://github.com/tintenfrass/simplechurchbookindexes/raw/main/sachsen/fuzzy-search/indexfuzzysearch_1.0.exe
 
+Das Programm sollte am besten in einen eigenen Ordner gelegt werden, es legt darin selber noch weitere Dateien an.
+
 Das Programm läuft unter Windows.
-(der Quellcode ist aber offen und es kann theoretisch auch für andere Betriebssysteme compiliert werden, bisher nicht getestet.)
-Es ist wahrscheinlich, dass beim ersten Start der Windows-Defender bzw. der Virenscanner anschlägt.
+Es ist sehr wahrscheinlich, dass beim ersten Start der Windows-Defender bzw. der Virenscanner anschlägt, da muss man sagen, dass das Programm erlaubt werden soll.
 
 Das Programm benötigt eine Internetverbindung.
 Beim ersten Start erstellt das Programm einen Ordner "sachsen" und es werden die txt-Dateien mit den Daten aus dem Internet heruntergeladen und dort abgelegt, das kann einige Sekunden dauern.
@@ -19,6 +20,7 @@ Sind neue Daten oder Updates verfügbar, so werden diese automatisch runtergelad
 
 ### Benutzung
 Das Programm ist eigentlich selbsterklärend, Suchoptionen einstellen und Name des gesuchten Bräutigams eingeben.
+Danach erscheint rechts eine große Liste mit Ergebnissen, wobei die besten Treffer oben stehen und nach unten immer schlechter werden.
 
 Wenn man was gefunden hat, dann benötigt man Archion oder Zugang zum Landeskirchlichen Archiv, um sich die vollen Einträge anzusehen.
 Bei Kirchenbüchern die nicht sauber chronologisch geführt wurden, ist es oft hilfreich nochmal in die zugehörige txt-Datei zu schauen (die im Ordner "sachsen" liegt) um die genaue Position des Eintrags im Kirchenbuch zu finden.
