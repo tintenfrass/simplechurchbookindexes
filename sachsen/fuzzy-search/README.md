@@ -28,3 +28,6 @@ Die Suchergebnisse sind nur so gut, wie die zugrunde liegenden Daten. Das sind T
 Die meisten Namen sind normalisiert und entsprechen nicht immer genau der Schreibweise im Buch.
 Dazu kommen Fehler und Ungenauigkeiten, gerade dann wenn das Kirchenbuch nur schwer lesbar ist, dann ist an vielen Stellen ein '?' eingefügt.
 Da die Suche über Ähnlichkeit funktioniert, sollte sie in den meisten Fällen trotzdem die richtigen Einträge finden.
+
+### Screenshot
+![Screenshot](example.jpg)
