@@ -7,6 +7,8 @@ import (
 	"github.com/gen2brain/iup-go/iup"
 )
 
+const Version = "v1.1"
+
 var boxes map[string]iup.Ihandle
 
 func BuildAndRun() {
@@ -130,7 +132,7 @@ func BuildAndRun() {
 		boxes["Dörschnitz"].SetAttributes("SIZE=70x15"),
 		iup.Space().SetAttributes("SIZE=70x0"),
 		iup.Space().SetAttributes("SIZE=90x0"),
-		iup.Space().SetAttributes("SIZE=95x0"),
+		iup.Space().SetAttributes("SIZE=97x0"),
 		boxes["Großdobritz"],
 		iup.Space().SetAttributes("SIZE=70x0"),
 		iup.Space().SetAttributes("SIZE=150x0"),
@@ -143,7 +145,7 @@ func BuildAndRun() {
 		iup.Space(),
 		iup.Space(),
 
-		iup.Space(),
+		iup.Space().SetAttributes("SIZE=0x15"),
 		iup.Space(),
 		iup.Space(),
 		iup.Space(),
@@ -268,8 +270,10 @@ func BuildAndRun() {
 		iup.Vbox(
 			configFrame,
 			mapFrame,
-			searchField,
-			searchButton,
+			iup.Hbox(
+				searchField,
+				searchButton,
+			),
 			infotext,
 			exitButton,
 		).SetAttributes("MARGIN=10x10, GAP=8"),
@@ -278,8 +282,8 @@ func BuildAndRun() {
 		),
 	)
 
-	dlg := iup.Dialog(content).SetAttributes(`TITLE="Fuzzy Search"`)
-	dlg.SetHandle("dlg").SetAttributes("SIZE=1080x470")
+	dlg := iup.Dialog(content).SetAttributes(`TITLE="Fuzzy Search ` + Version + `"`)
+	dlg.SetHandle("dlg").SetAttributes("SIZE=1080x480")
 
 	//Callbacks
 	iup.SetCallback(exitButton, "ACTION", iup.ActionFunc(exit))

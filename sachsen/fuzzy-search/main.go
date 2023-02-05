@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	fmt.Println(fmt.Sprintf("Index Fuzzy Search v1.0 (%s)", runtime.GOARCH))
+	fmt.Println(fmt.Sprintf("Index Fuzzy Search %s (%s)", ui.Version, runtime.GOARCH))
 
 	config.Load()
 	search.Update()
