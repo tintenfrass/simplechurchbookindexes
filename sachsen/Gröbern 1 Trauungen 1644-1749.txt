@@ -1,5 +1,5 @@
 Gröbern (Buch 1)
-Trauungen 1644-1699
+Trauungen 1644-1749
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
@@ -8,8 +8,9 @@ vorderer Teil: Gröbern
 hinterer Teil: Jessen
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 2 Stunden
 Januar 2023
+Februar 2023
 tintenfrass@gmx.de
 
 
@@ -217,6 +218,175 @@ Johann-Christian Schwartzbach
 ----------------
 1699
 ----------------
+1700
+Caspar Kröger
+Samuel Fischer
+Martin Leuteritz
+1701
+1702
+Johann-Michael Schost
+Johann Seurich
+1703
+Martin Marx
+Michael Pahrmann
+1704
+Simon Mahn
+Andreas König
+Johann Tützsch
+1705
+Martin Droschitz
+Johann Fischer
+----------------
+Hans Peseler
+1706
+Peter Scheublich
+Hans Crolich
+1707
+Michael Marx
+1708
+Michael Schramme
+1709
+Martin Kiesling
+Christian Kluncker
+1710
+Georg Niese
+Hans Zocher
+Hans Lehmann
+Gottfried Müller
+----------------
+1711
+Christian Wehser
+1712
+Mattheus Schade
+Johann Pahrmann
+Peter Müller
+1713
+Thomas Thamme
+Adam Hoffmann
+Martin Strauch
+1714
+Andreas Zocher
+Gottfried Richter
+1715
+Georg Mebus
+Martin Röber
+Hans Seiffert
+----------------
+1716
+Sebastian Hermann
+Christian Hahmann
+Martin Fuhrmann
+1717
+Georg Seiffert
+Balthasar Zweiniger
+1718
+1719
+Michael Paulig
+1720
+Martin Rollpusch
+Christian Hottewteh?
+Georg Heyn?
+1721
+Martin Schröter
+Michael Menert
+----------------
+Georg Reiße
+1722
+Johann Zocher
+Martin Pahrmann
+Christian Schröter
+1723
+Michael Haupt
+Paul Tamme
+1724
+Christian Rühle
+Martin Frietzsche
+Abraham Ulbrich
+1725
+Urban Schumann
+----------------
+Johann-Christoph Baumann
+Christian Schlechte
+1726
+Martin Wustlich
+Christian-Friedrich Herold
+Georg Ehrig
+Hans Burckhart
+1727
+Hans-Georg Meischel
+Martin Sammer
+1728
+Stephan Hase
+Hans Bürger
+----------------
+Hans-Georg Kluncker
+1729
+Georg Grille
+Hans Zocher
+Christian Schlechte
+1730
+Georg Händler
+Georg Gäbisch
+Michael Schlechte
+1731
+Martin Bömerich
+Gottlob Richter
+1732
+Martin Leuteritz
+Michael Weber
+Christian Niese
+Georg Möser
+Michael Arelt
+----------------
+1733
+Heinrich George
+Andreas Zocher
+Hans Tagesel
+1734
+Martin Fichtner
+1735
+Christian Marx
+Christian Hase
+1736
+1737
+Adam Zocher
+1738
+Hans Schlechte
+Georg Reiche
+Andreas Pörl
+1739
+Michael Zocher
+Samuel Fehrmann
+Adam Kluncker
+----------------
+Hans-Georg Porschdorf
+1740
+Johann-Ernst Heinze
+Martin Zitschmann
+1741
+Michael Schlechte
+1742
+1743
+Michael Schlechte
+Martin Grafe
+1744
+1745
+Martin Fichtner
+1746
+Johann-Gotthelf Stengel
+Elias Herold
+1747
+Friedrich-Hermann Walther
+1748
+Christian-Gottlieb Gehr?
+----------------
+Christian Berwald
+Samuel Richter
+Martin Möser
+1749
+Christian Drobisch
+Martin Kahlschmidt
+----------------
 ...
 ----------------
 1644
@@ -342,3 +512,120 @@ Johann Weser
 Andreas Schumann
 1699
 Georg Otto
+1700
+Hans Heiner
+Jacob Trobisch
+Johann Hencker
+1701
+1702
+Georg Wehser
+Johann Wehser
+----------------
+1703
+1704
+Andreas Schneider
+1705
+Hans Fischer
+1706
+Andreas Hänsel
+Donat Schultz
+1707
+Peter Busch
+1708
+Johann-Georg Parthauer
+Michael Gierth
+1709
+Michael Sparmann
+Christian Mebus
+1710
+Michael Hahmann
+Johann-Georg Parthauer
+Georg Bachmann
+----------------
+1711
+Adam Müller
+1712
+Michael Schneider
+1713
+Johann Voigt
+1714
+1715
+Johann Schmidt
+1716
+Peter Junghans
+Michael Thamme
+1717
+Hans Kluncker
+Martin Pahrmann
+1718
+Hans Hermann
+Michael Niese
+----------------
+Peter Hertlich?
+1720
+Martin Marx
+1721
+Martin Zocher
+1722
+Martin Pahrmann
+Hans Krille
+1734
+Christian Hermann
+1725
+Hans Ulbrich
+1726
+Christian Hermann
+Christian Probst
+Martin Leuteritz
+----------------
+1727
+Hans-Georg Kretzschmer
+Michael Thamme
+1728
+Christian Probst
+1729
+Hans Zocher
+1730
+Adam Voigt
+Martin Fuhrmann
+Christian Voigt
+Christian Findeisen
+1731
+Hans Drüntzsch
+Martin Vetter
+1732
+Johann-Christoph Eiselt
+Christian Drobisch
+----------------
+1733
+1734
+Gottfried Großmann
+1735
+1736
+1737
+1738
+Michael Gerhard
+1739
+Christian Hermann
+Hans Bürckner
+Christoph Rühle
+1740
+Christoph Ruland
+1741
+1742
+1743
+Martin Leopold
+1745
+Hans-Georg Türde?
+1746
+Christian Drentzsch
+Martin Lehmann
+1747
+x
+1748
+Adam Müller
+1749
+Paul Reiße
+----------------
+Hans-Georg Stelzner
+Hans-Georg Richter

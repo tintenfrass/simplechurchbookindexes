@@ -1,13 +1,13 @@
 Niederau (Buch 2)
-Trauungen 1626-1699
+Trauungen 1626-1749
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
-
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 2 Stunden
 Januar 2023
+Februar 2023
 tintenfrass@gmx.de
 
 
@@ -419,3 +419,324 @@ Urban Ilschner
 1699
 Hans Söhnitz?
 Gottfried Obenauß
+1700
+Michael Möser
+Hans Golde
+----------------
+Michael Marx
+1701
+Michael Möser
+Hans Metzner
+Christian Kuntze
+Benno Fichtner
+Martin Vetter
+Michael Fuhrmann
+Martin Eichler
+Egidius Rühle
+Michael Leuteritz
+Hans Drache
+Jacob Peschel
+Michael Golde
+1702
+Michael Peschel
+Andreas Zschoche
+----------------
+Michael Hoffmann
+Michael Laux
+Michael Marx
+1703
+Hans Clauß
+Georg Drache
+Michael Schwenold
+Hans Rühle
+Hans Möser
+Hans Taschenberg
+1704
+Martin Niese
+Simon Mohn
+Michael Gärtner
+1705
+Peter Arldt
+Michael Dürigen
+Hans Möser
+----------------
+1706
+Michael Hecht
+Hans Marx
+Hans Möser
+Hans Starcke
+Martin Peschel
+1707
+Peter Mayer
+Peter Schlechte
+Martin Rollpusch
+Andreas Weber
+Egidius Rühle
+Martin Schlechte
+Peter Seydler
+Martin Meyge?
+1708
+Georg Auge?
+Martin Pahrmann
+Martin Übigau
+----------------
+Andreas Rühle
+Martin Nietzsche
+1709
+Jacob Richter
+Georg? Petzer?
+Michael Scheunpflug?
+Georg Meltzer
+Michael Seiffert
+1710
+Urban Rühle
+1711
+Martin Taschenberg
+Hans Hermann
+Georg Seile?
+Martin Meger
+Peter Daschenberger
+Christian Endner?
+Martin Marx
+Michael Schartich
+1712
+Martin Mönhein?
+----------------
+Martin Grünberg
+Georg Marx
+Martin Nietzsche
+Martin Richter
+Michael Otto
+1713
+Martin Meyer
+Hans Golde
+1714
+Andreas Schumann
+Martin Zscheile
+Martin Rühle
+Gottfried Meltzer
+Andreas Birnstengel
+Johann Hammermüller
+1715
+Christian Kuntze
+----------------
+Martin Rüdiger
+Martin Schönert
+1716
+Martin Möser
+Martin Eckard
+Martin Probst
+1717
+Martin Müller
+Martin Krille
+Martin Schumann
+Martin Fuchs
+Martin Marx
+1718
+Martin Rühle
+Hans Sönig
+Jacob Barmann
+1719
+Johann-Friedrich Schmidt
+Martin Richter
+Hans Ruthe
+1720
+Martin Jungnickel
+----------------
+Georg Haußgen
+Michael Schramm?
+Michael Riehle
+1721
+Gottfried Obenaus
+Georg Simon
+Christoph Hoyer
+Hans Richter
+1722
+Hans Wendisch
+Martin Schramm
+Johann-Gottfried Hayn
+Martin Marx
+1723
+Martin Leuteritz
+1724
+Andreas Schumann
+Martin Nietzsche
+1725
+Hans Grille
+Christoph Haintze
+Hans Kuntze
+Christoph Tickel?
+1726
+Martin Grundel?
+----------------
+Peter Dürchne?
+Martin Hausgen
+Martin Schramme
+Johann Fichtner
+Hans Kuntze
+Christian Kockisch?
+1727
+Georg Zabel
+Adam Zimmermann
+Michael Zscheile
+Martin Pietzsch
+1728
+Andreas Richter
+Georg Strauch
+Hans Melzer
+Christian Lange
+Johann Rothe
+Johann-Friedrich Hellwig
+Johann Ditrich
+1729
+Martin Züchner
+----------------
+Martin Wendisch
+Christian Lehmann
+Hans Krille
+Samuel Pietzsch
+Johann Züchner
+1730
+Michael Starcke
+Andreas Zabel
+Johann Dürchgen
+Adam Marx
+Martin Zitschmann
+Johann Milde?
+1731
+Martin Findeisen
+Martin Marx
+Michael Bärwald
+Martin Schramme
+Martin Marx
+Christian Kuntze
+Martin Schumann
+Michael Philipp
+Johann Rothe
+----------------
+Martin Vetter
+Martin Gründel
+1732
+Hans Riehle
+Jacob Adam
+Christian Schlechte
+Hans Gründel
+Adam Riehle
+Martin Zichner
+1733
+Johann Schlechte
+Christian Drache
+1734
+Johann-Gottfried Bäbisch
+Johann Born
+Johann Möser
+Hans Mayer
+Martin Fichtner
+Adam Dutsch
+Martin Riehle
+1735
+Christian Mohn
+Stephan Hase
+Martin Gründel
+Simon Seiffert
+----------------
+Michael Hauptmann
+1736
+Christian Niese
+Georg Bahrmann
+Johann-Mattheus Nehr?
+Michael Mohn
+Martin Rollpusch
+Christian Laux
+Georg Schlechte
+Martin Richter
+1737
+Michael Münch
+Martin Kuntze
+1738
+Martin Schramme
+Gottfried Guthe
+Johann-Georg Riemer
+Hans Rarisch
+----------------
+1739
+Christian Kluncker
+Georg Stobe?
+Christian Schlechte
+Georg Busch
+Christian Vetter
+Michael Dürchgen
+1740
+Christian Marx
+Georg Mohn
+Georg Haupt
+Michael Schlechte
+1741
+Samuel Mayer
+Martin Marx
+Johann Görner
+Christian Gude
+Samuel Fichtner
+----------------
+1742
+Martin Richter
+Johann Peschel
+Martin Drache
+Georg Krille
+Johann-Paul Kirsten
+Samuel Starcke
+Gall Mohn
+Samuel Handel
+1743
+Andreas Schlechte
+Michael Gude
+Martin Maye
+Gottfried Funcke
+Martin Krille
+Marcus Dierigeb
+1744
+Martin Schlechte
+----------------
+Christian Rodisch
+Michael Möser
+Elias Leuteritz
+Johann Meyer
+Friedrich-Gottlob Heyne
+1745
+Carl-Heinrich Heyne
+Samuel Handel
+Christian Scheidemantel
+Christian-August Hanemann
+Johann-Georg Hirschnitz
+Christian Zscheyle
+1746
+Simon Seiffert
+Martin Hermann
+Johann-Michael Genßel
+Georg Dürchgen
+----------------
+Martin Kuntze
+1747
+Georg Schönert
+Christian Hermann
+Johann Starcke
+Christian Pahrmann
+Georg Delsich?
+Martin Schultz
+Johann Schramme
+1748
+Georg Rotsche
+Johann-Paul Kirsten
+Adam Grundert
+Peter Meyer
+Johann-Michael Otte
+Johann Wendisch
+Gottfried Rollbusch
+Johann-Gottlieb Körnich
+----------------
+1749
+Hans Gude
+Johann Riehle
+Samuel Pietzsch
+Johann-Friedrich Schmidt
+Martin Zscheile

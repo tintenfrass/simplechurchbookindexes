@@ -1,12 +1,13 @@
 Großdobritz (Buch 1)
-Trauungen 1638-1699
+Trauungen 1638-1749
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0.5 Stunden
+Erstellt in 1 Stunde
 Januar 2023
+Februar 2023
 tintenfrass@gmx.de
 
 
@@ -224,3 +225,204 @@ Andreas Rothe
 1699
 Georg Hoppe
 Christian Schlechte
+1700
+Hans Hencker
+Andreas Fuhrmann
+Martin Zocher
+1701
+Martin Hauptmann
+Johann Schlechte
+Christoph Hummel?
+1702
+Martin Gebauer
+Hans Clauß
+Michael Niese
+1703
+Martin Pahrmann
+Andreas Wehser
+Georg Drache
+1704
+Michael Thiele
+----------------
+1705
+Georg Wehser
+Martin Gebhard
+Christian Niese
+1706
+Georg Grafe
+Hans Tagsel
+Hans Reiche
+1707
+Martin Förster
+Hans Hennersdorf
+Hans Gritze
+----------------
+1708
+Georg Niese
+Georg Lange
+Andreas Niese
+Andreas Tagesel
+Gottfried Heilmann
+1709
+Michael Schade
+Hans Hase
+1710
+Martin Niese
+----------------
+Hans-Georg Beyer
+Martin Zocher
+1711
+Johann-Michael Hestel
+Johann-Christian Höhme
+Johann Weser
+1712
+Hans Thürigen
+1713
+Heinrich Paschau
+Andreas Wachs
+----------------
+Georg Pahrmann
+1714
+Andreas Zocher
+Georg Pehrisch
+Martin Grafe
+Georg Gritze
+Michael Fischer
+----------------
+1715
+Christian Trepte
+Johann Hoffmann
+1716
+Christoph Rothe
+Andreas Grille
+1717
+Peter Frantze
+1717
+Hans Kluncker
+Michael Niese
+Andreas Rühle
+----------------
+1719
+Hans Beulig
+Hans Müller
+1721
+Hans Brettschneider
+1722
+Martin Hermann
+Hans Zocher
+Paul Fabisch
+Christian Thiele
+1724
+Georg Zocher
+Georg Ginth?
+----------------
+Christian Müller
+Andreas Rühle
+1725
+Johann Strähle
+Christian Fuhrmann
+Hans Hermann
+1726
+Christian Voigt
+Michael Rühle
+1727
+Paul Zitzschmann
+Georg Ziller
+----------------
+Andreas Thiele
+Hans Gummlich
+Hans Schade
+Hans Gebauer
+Christian Rühle
+1728
+Stephan HAse
+Hans Bürger
+Martin Peger
+----------------
+1729
+Johann-Mattheus Stringer
+Christoph Naumann
+1730
+Gottfried Rühle
+Johann-Georg Schreiber
+Martin Hoyer
+Christian Hihlmann
+Hans Erschler
+1732
+Andreas Weser
+Christian Zange
+1733
+Andreas Tagesel
+----------------
+Martin Fuhrmann
+1734
+Christian Ziller
+1735
+Johann-Bejamin Schreiber
+Martin Gritze
+Paul Krille
+Christian Reiche
+1736
+Michael Hembolt
+Christoph Seiler
+----------------
+Hans Klinger
+Jacob Tagsel
+Johann-Gottfried Hildebrand
+Georg Geppert
+1737
+Christian Thiele
+Christian Große
+1738
+Christian Hennig
+----------------
+Johann-Georg Horsch
+Christian Schultz
+Hans Trobisch
+Hans Hase
+Adam Pfitzner
+1739
+Hans Tärnitz?
+1740
+Andreas Rothe
+Christoph Hennersdorf
+Christian Born
+----------------
+Friedrich Hänscher
+Hans Hentzel
+1741
+Hans Hase
+Martin Große
+Andreas Tagesel
+1742
+Hans Klinger
+? Perwalt
+1743
+Hans Rühle
+Hans Richter
+Christian-Friedrich Ditrich
+Hans Förster
+Hans Beßer
+----------------
+Michael Große
+1744
+Johann-Gottlieb Schreiber
+Christian Krille
+Christian Möbuß
+1745
+Andreas Niese
+1746
+Johann-Gotthelf Luntze?
+Andreas Niese
+1747
+Martin Hase
+Christian Pahrmann
+Christian Niese
+Michael Grütze
+1748
+Hans Rothe
+----------------
+Michael Grütze
+1749
+Martin Zocher
+Christian Hermann
