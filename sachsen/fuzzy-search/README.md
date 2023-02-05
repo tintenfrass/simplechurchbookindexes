@@ -3,9 +3,9 @@ Ein kleines Tool, um die Trauungen von https://github.com/tintenfrass/simplechur
 einfach durchsuchen zu können. Dabei wird eine Ähnlichkeitssuche verwendet und die Ergebnisse nach Treffergenauigkeit sortiert.
 
 ### Installation
-Es reicht die Datei indexfuzzysearch_1.0.exe herunterzuladen und zu starten. (Draufklicken und dann erscheint rechts ein Button "Download")
+Es reicht die Datei indexfuzzysearch_1.1.exe herunterzuladen und zu starten. (Draufklicken und dann erscheint rechts ein Button "Download")
 oder Direktlink:
-https://github.com/tintenfrass/simplechurchbookindexes/raw/main/sachsen/fuzzy-search/indexfuzzysearch_1.0.exe
+https://github.com/tintenfrass/simplechurchbookindexes/raw/main/sachsen/fuzzy-search/indexfuzzysearch_1.1.exe
 
 Das Programm sollte am besten in einen eigenen Ordner gelegt werden, es legt darin selber noch weitere Dateien an.
 
