@@ -1,12 +1,13 @@
 Raußlitz (Buch 2)
-Trauungen 1675-1699
+Trauungen 1675-1719
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Januar 2023
+Februar 2023
 tintenfrass@gmx.de
 
 
@@ -230,3 +231,197 @@ Martin Naumann
 Michael Wilsdorf
 Jacob Martini
 Peter Egliß
+1700
+Daniel Hegewald
+Peter Rost
+Jeremias Leonhard
+Georg Han
+1701
+Erasmus Kolbe
+Peter Schwägrigen
+Simon Hennig
+Martin Pincker
+Peter Ehrlich
+Christian Wackwitz
+Martin Haubolt
+1702
+Johann-Georg Planck
+Michael Lippert
+Elias Donat
+Tobias Bauman
+Jacob Böhme
+Peter Stäude
+Johann Gentzsch
+1703
+Johann Rost
+Martin Tzschoche
+Christoph Kahle
+Andreas Begen
+Jacob Mercker
+Christoph Patzig
+Andreas Klinger
+Johann Döring
+Johann Röber
+----------------
+1704
+Peter Lommatzsch
+Martin Paul
+Heinrich Kerbach?
+Gottfried Mercker
+Sebastian Stäude
+Martin Gißen
+Johann Rülcke?
+Andreas Mercker
+1705
+Martin Preißiger
+Johann Röber
+Martin Sparigen
+Christian Schmidt
+Andreas Müller
+Michael Mühlberg
+Martin Dämmig
+1706
+Paul Beuckert
+Christian Haubolt
+Jacob Merckel
+Johann-Ernst Götze
+Christian Kirsten
+Georg Tzscherper
+Heinrich-Siegmund Opitz
+Georg Schneider
+1707
+Michael Gentzsch
+Jacob Hähner
+Michael Lucig?
+Georg Wagner
+Christian Funcke
+Georg Hänsel
+Martin Richter
+1708
+Peter Erig?
+Erasmus Starcke
+Andreas Schneider
+Johann Krumbiegel
+Peter Lutze
+Johann-Caspar Haynicke
+1709
+Christoph Patzig
+Peter Fichtner
+----------------
+Martin Keilhauer
+Gregor Kirsten
+Martin Krell
+Erasmus Klebiß
+Georg Gentzsch
+Martin Herbst
+Christoph Böhme
+1710
+Martin Heydenreich
+Johann Ganßauge
+Martin Fleischhauer
+Michael Bäuchel
+Fabian Opitz
+Peter Kohl
+Jacob Mercker
+Michael Schütze
+Christian Beger
+Christian Rost
+Johann-Gottfried Schmidt
+1711
+Johann Cemnitz?
+Georg Hanicke
+Peter Gentzsch
+Paul Winckler
+Mattheus Lommatzsch
+Thomas Keilhau
+Johann Öhlphlegel
+Jacob Richter
+Peter Lommatzsch
+1712
+Caspar Kurth
+Michael Beßeler
+----------------
+Georg Luca?
+Christian Grelle
+1713
+Abraham Mühlberg
+Christoph Redlich
+Martin Lehmann
+Christoph Plisch?
+Johann Ranft
+Mattheus Kluncker
+1714
+Georg Bormann
+David Richter
+Johann Görne
+Hans-Siegmund Ende
+Johann Schreiber
+Georg Naumann
+Peter Ziegenfuß
+Michael Hoffmann
+----------------
+1715
+Peter Klinger
+Martin Röber
+Jacob Schönberg
+Andreas Köthen?
+Georg Knöffel
+1716
+Johann Hauptmann
+Gottfried Grahl
+Johann-Samuel Grübler
+Christian Wüstling
+Johann Poitzsch
+Heinrich Hering
+Christoph Borsdorf
+1717
+Georg Schröter
+Johann-Georg Münchmeyer
+Peter Rehder
+Donat Naumann
+Georg Plisch
+Ehrenfried Münchmeyer
+Christian Schubert
+Martin Stange
+Christian Wustlich
+Johann Beuchel
+Peter Böhler?
+Georg Wahl
+Hans Schmidt
+Michael Heyde
+----------------
+1718
+Christian Müller
+Johann Henning
+Christian Starcke
+Christian Tzschegin
+Peter Lorenz
+Christian Richter
+Peter Pincker
+Johann Starcke
+Christoph Geißler
+Peter Märcker
+Johann-Georg Stange
+Daniel Jericher?
+Martin Naumann
+Michael Ditrich
+Michael Schultz
+Georg Poetzsch
+Martin Barth
+1719
+Martin Eulitz
+Blasius Götze
+Andreas Fischer
+Christian Backofen
+Andreas Zeuner
+Martin Kertzsch?
+Johann Günther
+----------------
+Georg Schröter
+Georg Keilhau
+Georg Grellmann
+Georg Schwägerchen
+Abraham Götze
+Christian Wagwitz
+Johann Taubich
+Georg Bormann
