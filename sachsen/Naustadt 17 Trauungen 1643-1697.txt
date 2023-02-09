@@ -1,8 +1,7 @@
 Naustadt (Buch 17)
-Trauungen 1643-1699
+Trauungen 1643-1697
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
-
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 Hinsweis:
@@ -21,9 +20,6 @@ Gregor Adam
 Valentin Adolf
 1665
 Gregor Albrecht
-1699
-Andreas Albrecht
-Georg Arlt
 ----------------
 ----------------
 1645
@@ -86,9 +82,6 @@ Friedrich Böhm
 Valentin Bruchel
 1697
 Hans Böhm
-1699
-Paul Burckhart
-Christian Bassler
 ----------------
 ----------------
 ----------------
@@ -342,8 +335,6 @@ Georg Herfert
 Paul Hahn
 1697
 Martin Hillig
-1699
-Christoph Hänsel
 ----------------
 ----------------
 ----------------
@@ -440,8 +431,6 @@ Nicol Krause
 Martin Klotzsche
 Hans KLunker
 Michael Küffeler
-1698
-Hans Kirchbach
 ----------------
 ----------------
 ----------------
@@ -468,7 +457,6 @@ Georg Lieber
 Michael Ludwig
 1664
 Georg-Andreas Leckschede
-
 1665
 Moritz Ludwig
 1670
@@ -494,9 +482,6 @@ Jacob Lommatzsch
 Gottfried Luder
 1696
 Christoph Lobe
-1699
-Gottfried Luder
-Martin Ludwig
 ----------------
 ----------------
 ----------------
@@ -545,8 +530,6 @@ Andreas Mülberg
 Andreas Möbus
 1697
 Martin Meißner
-1699
-Christian Melzer
 ----------------
 ----------------
 ----------------
@@ -576,8 +559,6 @@ Jacob Naumann
 ----------------
 ----------------
 ----------------
-1698
-Johann Örtel
 ----------------
 1644
 Michael Petzsch
@@ -602,10 +583,6 @@ Georg Petzsch
 1694
 Johann Plahner
 Gregor Paul
-1698
-Hans Pinker
-1699
-Christoph Philipp
 ----------------
 ----------------
 ----------------
@@ -694,8 +671,6 @@ Jacob Richter
 Christian Rabe
 1696
 Hans Röhrer
-1698
-Abraham Röhrer
 ----------------
 ----------------
 ----------------
@@ -784,8 +759,6 @@ Peter Schulze
 Michael Schumann
 ----------------
 Georg Schönberg
-1699
-Peter Schirtig
 ----------------
 ----------------
 ----------------
@@ -821,10 +794,6 @@ Donat Stolze
 Michael Starcke
 1694
 Georg Starcke
-1698
-Elias Stoll
-1699
-Johann-Gottlob Sternberger
 ----------------
 ----------------
 ----------------
@@ -944,8 +913,6 @@ Georg Wustlich
 Nicol Wentzel
 1697
 Friedrich Weber
-1699
-Michael Weber
 ----------------
 ----------------
 ----------------
