@@ -1,14 +1,14 @@
 Neukirchen (Buch 1)
-Trauungen 1631-1699
+Trauungen 1631-1749
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
-
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
-Erstellt in ca. 2 Stunden
+Erstellt in ca. 3 Stunden
 Juni 2022
+Februar 2023
 tintenfrass@gmx.de
 
 
@@ -170,7 +170,6 @@ Ambrosius Just
 Georg Schubart
 Paul Große
 1664
-
 Heinrich Fischer
 Paul Rost
 Jacob Schmidt
@@ -383,3 +382,208 @@ Michael Rost
 Andreas Kretzschmer
 ----------------
 Michael Riedel
+1700
+Hans Lorenz
+Georg Tamm
+Tobias Mülbrich
+1701
+Johann Mülbrich
+Christoph Leithel
+1702
+Johann Richter
+Burckhard Hoffmann
+Georg Rost
+Gabriel Kunzsch?
+Georg Kohl?
+David Rothe
+Georg Schubert
+1703
+Georg Leckschede
+1704
+Johann Hanichen
+Andreas Hennicke
+----------------
+Johann Beuchelt?
+Martin Pincker?
+1705
+Johann Paul
+Michael Hermann
+Johann John
+Andreas Kost
+Martin Erler
+Andreas Schneider
+1706
+Johann Grimmer
+Georg Dietze
+Johann Ganßauge
+Jacob John
+Christian Härtel
+1707
+Georg Hermann
+Christian Dachsel
+1708
+Johann Hoffmann
+Christian Hensel
+Melchior Stange
+Johann-David Jänichen
+----------------
+Jacob Döring
+Caspar Böhme
+Georg Kühn
+Johann Frietzsche
+Johann-Georg Weber
+1709
+Martin John
+Gabriel Rost
+Michael Eckelman
+Jacob Ditrich
+Jacob Kühn
+1710
+Christoph Schultz
+Mattheus Wackwitz
+Peter Gabriel
+Martin Jänichen
+Peter Steell?
+Michael Brückner
+Georg Rummberg?
+Martin Helmann
+1711
+Georg Gabriel
+Johann-Gottfried Geißer?
+----------------
+? ?
+Adam-Heinrich Scheell
+Martin John
+Christoph Patzig
+Johann-Georg Emmerling?
+Christian? Gabriel
+? Wechsel?
+1712
+Michael Krause
+Heinrich Hoffmann
+Johann-Adam Kalbe
+Peter John
+Christian Ulbricht
+1713
+Michael Gabriel
+1714
+Peter Weber
+Samuel Kühn
+Michael Krause?
+Nicolai Kayser
+Martin Küchenmeister
+1715
+Christian Leckschede
+Gottlieb Dachsel?
+Georg Wilhelm
+----------------
+? Graf?
+1717
+Johann-Georg Böhme
+Johann Rost
+Gregor Hanicke
+Gottfried Bertich?
+Gottlieb Köhler
+Tobias Bauer
+Burckhard Müllberg
+Johann Rost
+1718
+Johann-Georg Dürsche
+Michael Meltzer?
+Johann-Georg Mülberger?
+Michael Haubold
+Abraham Haupt?
+Michael Just
+Johann-Christoph ?
+----------------
+1719
+Peter Tzscheltph?
+Michael Lommtz
+Donat Hauptmann
+Johann Müllberg
+Johann Preußer?
+Andreas Apsch?
+1720
+Johann Wachsmuth
+Michael Mebert?
+Michael Mülberg
+Georg Ditrich?
+Georg Borsdorf
+1721
+Donat Weser
+Mattheus Wünsch
+Jeremias Schmidt
+1722
+Johann Schumann
+Johann-Caspar Jahn
+----------------
+Gottfried Haupt
+Johann Hänel
+Samuel John
+Christian Jeman?
+1723
+Georg Martin
+Christian Drosde
+Gottfried Schubert
+Johann John
+Balthasar Lommtz
+Johann-Michael Lehmann
+Gottfried Philipp
+Johann-Jonas? Braunsdorf?
+Georg Gabriel
+Christian Leckschede
+Gottfried Müllberg
+Hans John
+----------------
+? ?
+Jacob Rost?
+1724
+Georg? Kost
+Johann Kühn
+Johann-Georg Berger
+Johann-Albert? Curahsier?
+Thomas Jahn
+Christian Bachmann
+? Mülberg?
+Michael Müller
+Johann-Georg Hencker
+Balthasar Lommtz
+Samuel Mehner?
+Johann-Georg Gayer?
+Samuel Pajen?
+1725
+Friedrich Bartel?
+----------------
+Gottfried ?
+Gottfried Dachsel
+Johann Lamm
+Simon Rost
+1726
+Gottfried Kühn
+Johann Helfter?
+Georg-Gottfried Rülcker?
+Georg Geibert?
+Georg Lommtz
+Abraham Grötscher?
+Georg Pajne?
+----------------
+1727
+Johann-Michael Laste?
+Georg ?
+Gottfried Gebisch?
+Johann-Adolph Grelmeyster?
+Michael Schneh?
+Georg ?
+Johann Borsdorf
+1728
+Johann Petsch
+Michael Kern?
+Michael? Hencker
+Michael? Rüdiger?
+Christian Tamme?
+Georg Dürsel
+Michael Schubert
+----------------
+? ?
+Peter Whalt?
+Gottfried Gietsch?
