@@ -1,12 +1,12 @@
 Dresden Sophienkirche (Buch 479)
-Trauungen 1660-1699
+Trauungen 1660-1710
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 Zusätzlich ist das Kirchenbuch nur schwer lesbar und viele Namen unklar.
 
 
-Erstellt in ca. 2 Stunden
+Erstellt in ca. 2,5 Stunden
 Januar 2023
 tintenfrass@gmx.de
 
@@ -433,3 +433,88 @@ Johann-Christoph Leonhart
 Georg-Haubold Seiffertitz
 Johann-Haubold Grunwod
 Ernst-Gotthard-Adolph Wahrensdorf
+1700
+Carl Küster
+Caspar-Heinrich Benckendorf
+----------------
+Johann-Bernhard Heinechen
+? ?
+Adolph-Friedrich Bölau
+Johann-Christian Caspari
+Hans-Georg-Haubold Schleinitz
+1701
+Hans-Adam Seiffert
+Carl-Hildebrand Dießkau
+1702
+Wilhelm-Heinrich Görz
+Johann-Georg Birckholz
+Gottlob-Rudolph Heynitz
+Carl-Ludwig Graf
+Friedrich-Wilhelm Marschal
+----------------
+1703
+Moritz-Friedrich Milckau
+Christoph-Heinrich Miltitz
+Adolph-Gottlob Pertzig
+Christoph-Ernst Gersdorf
+Nicol Krug
+Beret? Wegner
+Ernst-Salomon Dietze
+Ernst-Ferdinand Knoch
+1704
+Johann-Gottfried Peckbusch?
+Caspar Seydlig?
+Dionysig Baum
+Hans-Herold Schlainig
+Johann-Friedrich Stammen
+Gottfried Jung
+Johann-Michael Becker
+Burker? Wrangel
+1705
+Johann-Bernhard Baßer
+Nicol Jerre?
+----------------
+Christian-Heinrich Dreuer
+Franz-Christoph Creunehafen?
+Michael Mehnitz
+Friedrich Golde
+1706
+Christian Frietzsche
+Rupert Brown
+Johann-Christoph Günther
+Friedrich-Albrecht? Wolfersdorf
+Georg-Siegmund Marge?
+Ludwig-Brand? Irnstadt?
+David Höser
+1707
+Benno-Siegmund Gersdorf
+Johann-Heinrich Ristig?
+Ferdinand Ulig
+Christian Rabe
+1708
+x
+----------------
+Christian Kühn
+Samuel Heiselt?
+Johann-Christoph Heinsius
+Johann-Jacob Janzen
+Bernhard Zech
+Christian-Gottlob Lüttitz
+Christian-Ludwig Oppermann
+Hans-Wilhelm Kößnitz
+1709
+Johann-Adoph Wenbeck
+Adolph-Wilhelm Schönberg
+Johann-Adolph Ruaer?
+Gottlob-Heronymus Leipzig
+Philip-Fridrich Müller
+1710
+Caspar-Christoph Nototz
+Levin Lindemann
+Johann Gebauer
+Johann-Friedrich Erichsohn
+Christian ?
+----------------
+Egidius-Heinrich Deßau
+? ?
+Jacob Arnold
