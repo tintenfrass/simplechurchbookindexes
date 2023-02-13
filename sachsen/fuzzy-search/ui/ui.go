@@ -7,7 +7,7 @@ import (
 	"github.com/gen2brain/iup-go/iup"
 )
 
-const Version = "v1.1"
+const Version = "v1.2"
 
 var boxes map[string]iup.Ihandle
 
@@ -167,7 +167,7 @@ func BuildAndRun() {
 		boxes["Meißen Johanneskirche"],
 		iup.Space(),
 		boxes["Reichenberg"],
-		boxes["Klotzsche"],
+		boxes["Wilschdorf"],
 
 		boxes["Ziegenhain"],
 		iup.Space(),
@@ -175,7 +175,7 @@ func BuildAndRun() {
 		iup.Space(),
 		iup.Space(),
 		iup.Space(),
-		iup.Space(),
+		boxes["Klotzsche"],
 
 		boxes["Raußlitz"],
 		boxes["Krögis"],
