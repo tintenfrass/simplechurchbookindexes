@@ -7,7 +7,7 @@ import (
 	"github.com/gen2brain/iup-go/iup"
 )
 
-const Version = "v1.2"
+const Version = "v1.3"
 
 var boxes map[string]iup.Ihandle
 

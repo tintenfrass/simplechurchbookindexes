@@ -4,13 +4,24 @@ import (
 	"fmt"
 	"indexfuzzysearch/config"
 	"math"
+	"path"
 	"strings"
 
 	"github.com/antzucaro/matchr"
 )
 
 func FindMarriage(search string) (output string) {
+	//Alle bis auf das letzte Leerzeichen ersetzen, damit Vornamen zusammengehangen werden
+	for {
+		if strings.Count(search, " ") < 2 {
+			break
+		}
+		search = strings.Replace(search, " ", "-", 1)
+	}
+
+	//Nachname abspalten
 	searchParts := strings.Split(search, " ")
+
 	results := make(map[int][]marriageEntry)
 	for source, sourceMarriages := range data.marriages {
 		//Prüfen, ob wir in dieser Quelle suchen wollen
@@ -64,7 +75,7 @@ func FindMarriage(search string) (output string) {
 			break
 		}
 		for _, match := range results[i] {
-			output += fmt.Sprintf("%d %s \t%s \t(Abweichung: ~%d)\r\n", match.year, replaceSpecial(match.groom+" "+match.groomFN), match.source, i)
+			output += fmt.Sprintf("%d %s \t%s \t(Abweichung: ~%d)\r\n", match.year, replaceSpecial(match.groom+" "+match.groomFN), path.Base(match.source), i)
 			count++
 		}
 	}

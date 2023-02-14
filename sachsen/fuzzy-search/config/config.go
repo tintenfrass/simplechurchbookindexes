@@ -31,7 +31,7 @@ func Load() {
 	if Config.Year == nil {
 		Config.Year = map[string]int{"min": YearMin, "max": YearMax}
 	}
-	if Config.Year["min"] < YearMax {
+	if Config.Year["min"] < YearMin {
 		Config.Year["min"] = YearMin
 	}
 	if Config.Year["max"] > YearMax {
