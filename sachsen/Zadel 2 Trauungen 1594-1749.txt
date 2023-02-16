@@ -1,5 +1,5 @@
 Zadel (Buch 2)
-Trauungen 1594-1699
+Trauungen 1594-1749
 
 Das ist ein Index der Trauungen.
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
@@ -7,8 +7,9 @@ Zusätzlich sind nicht alle Namen klar lesbar.
 Es gibt ein Register zum Kirchenbuch, welches hier aber nicht verwendet wurde.
 
 
-Erstellt in ca. 3 Stunden
+Erstellt in ca. 4,5 Stunden
 Januar 2023
+Februar 2023
 tintenfrass@gmx.de
 
 
@@ -765,3 +766,439 @@ Hans Hensel
 Martin Funcke
 Hans Knetel?
 Peter Rühl
+1700
+Martin Weißig
+Hans Rothsten
+Hans-Christian Richter
+Abraham Zscherner
+Georg Klucke
+Michael Zucher
+Gall? Rühle
+1701
+Martin Naumann
+Hans Krappe?
+Hans Rühle
+Hans Wiedner
+Michael Leuteritz
+Martin Lehmann
+1702
+Hans Hermann
+Hans Rürckner
+Toffel Werner
+Hans Hennig
+Hans Berger
+Hans Happel?
+Andreas Zucher
+----------------
+1703
+Martin Schitel?
+Christian Üschner
+Hans Dallbusch?
+Philip Röl?
+Gottfried Funcke
+Martin Arnold
+Hans Peßnitz?
+Christian Mülzer?
+Hans Gräfe
+Georg Grimmer
+Michael Hermann
+1704
+Hans Große
+Gottfried Grißner?
+Georg Wittig
+Jonas Kligler?
+Hans Kleine
+Hans Rühle
+Georg Blanckstein
+1705
+Martin Selig
+Christian Büttner
+Gottfried Glauch
+1706
+Martin Funcke
+Adam Dirichen
+Hans Jungnickel
+Hans Funcke
+Gottfried Funcke
+Georg Trosch
+Hans Zucher
+Martin Böhm
+Martin Schwenck
+----------------
+1707
+Andreas Papzsch?
+Andreas Keil
+Hans Keil
+Georg Kretzschmer
+Toffel Henzsche?
+1708
+Michael Schumann
+Hans Spade
+Martin Schlechte
+Georg Frietzsche
+Martin Gehlhaan
+Martin PEger
+1709
+Peter Büttner
+Hans? Speck?
+1710
+Michael Naundorf
+Peter Hermann
+Ernst Ditrich
+Hans Huhn
+Georg Kluncker
+----------------
+1711
+Christian Riemer
+Martin Niese
+Georg Weißpaar
+Michael Ander?
+Jacob Schroter
+Georg Rühle
+1712
+Peter Bebert
+Urban Kuntze
+Hans Kluncker
+Hans-Christian Öltnitzer
+Hans Beßler
+----------------
+Christian Richter
+Georg Piesch
+Christian Flegel
+1713
+Johann Beger
+1714
+Martin Fincke
+Adam Müller
+Hans Öhmige
+1715
+Peter Leuteritz
+Hans Medner
+Thomas Koch
+Hans Sachse
+Martin Poppe
+----------------
+Mattheus Lehmann
+Johann Girth
+1716
+Peter Schultz
+Christoph Richter
+Thomas Keil
+Hans Voigt
+Andreas Frietzsche
+1717
+Christian Rühle
+Peter Frietzsche
+Martin Müller
+Hans Lehmann
+Hans Weber
+Martin? Fincke
+----------------
+1718
+Georg Seuerlich
+Gottfried Fincke
+Hans Kluncker
+Paul Brauser?
+Hans-Georg Schultz
+Jacob Ganßauge
+1719
+Michael Saurig
+Georg Troisch
+Hans-Martin Schalbach
+Paul Hoaste?
+Martin Zscherper
+----------------
+Hans Sparmann
+Johann-Georg Schumann
+Johann Herfurth
+Adam Henicke
+Hans Ditrich
+Christian Döring
+Gottfried Gere
+Hans-Adam Beßler
+Hans Lange?
+1720
+Johann-Christoph Kießling
+Christoph Francke
+Hans Heuer
+Thomas Fincke
+----------------
+Christian Huhn
+Hans Rühle
+Elias Clauß
+1721
+Johann-Friedrich Böhm
+Hans Müller
+Gottfried Osanig?
+Hans Kluncker
+Johann-Heinrich Here?
+Georg Koch
+1722
+Johann-Georg Geißler
+Johann Zocher
+Hans Rautenstrauch
+Hans Lehmann
+Martin Klebs
+Paul Schumann
+Johann-Christoph Kieslig
+Hans Grimmer
+Hans Werner
+----------------
+1723
+Peter Schneider
+Hans Grumbiegel
+Gottfried Biedermann
+Andreas Fincke
+Andreas-Caspar Fischer
+Christian Gretll?
+Christian König
+Georg Frietzsche
+Georg Leuteritz
+Mattheus Erhmann
+? Dirichen
+1724
+Georg Heunbold
+Hans Kluncker
+----------------
+Gottfried Euchler
+Hans Putzsch
+Georg Giesch?
+Gottfried Tronicke
+Peter Kluncker
+Martin Umlauft
+Michael Zschoche
+1725
+Johann Müller
+Martin Kluncker
+Martin Zocher
+Martin Fischer
+Christian Berger
+Gottfried Junghans
+----------------
+Gottfried Lamb
+Georg Zocher
+Georg Kirsten
+Christian Kebisch
+1726
+Georg Richter
+Christian Heine
+Abraham Hensel
+Christian Seelig
+Christian Möltzer
+1727
+Ambrosius Reiche
+Georg Kluncker
+Hans Mönch
+Hans Müller
+Johann-Andreas Lehmann
+Michael Jona
+Gottfried Adam
+----------------
+1728
+Georg Eichß?
+Michael Hermann
+Johann-Gottfried Hederich
+Hans Beger
+Christian Wachtel
+Martin Zocher
+Stephan Rönicke
+1729
+Marcus Naundorf
+Hans Lange
+Hans Pusch
+Hans Krille
+Adam Voigt
+Hans Kirsten
+Johann Reiße
+Hans Ditrich
+Christian Hempel
+Christian Schneider
+1730
+Hans Robn
+Martin Dierisch
+----------------
+Peter Heine
+Martin Lindner
+Martin Damme?
+Andreas Mittig
+Adam-Heinrich Beger
+Christian Lehmann
+Christian Porscht
+1736
+Christian Zocher
+Hans Müller
+Christian Lange
+Adam Kluncker
+Martin Sparmann
+Christoph Hase
+Hans Gurne
+Hans Steiner
+Gottfried Seelig
+Adam Conrad?
+Gottlob Deitrich?
+Hans? Hoyer
+Michael Fincke
+Daniel Leißner
+----------------
+Hans Richter
+1737
+Martin Zocher
+Hans Fincke
+Martin Sältzer
+Michael Liebezeit
+Martin Rosenberger
+Hans Ulbrecht
+Hans-Georg Andrack
+Martin Saurig
+Johann-Georg Antrag
+Hans Ulbrecht
+1738
+Daniel Paul
+Martin Seelig
+----------------
+Peter Rotzsch
+Johann-Adam Lehmann
+Johann Schwencke
+Hans Weißhaar
+Andreas Schrodt
+Hans-Georg Hoyer
+Georg Hermann
+Christian Heinrich
+1739
+Christian-Gittfried Polnisch
+Georg Mönch
+----------------
+Andreas Schlubeich
+Johann-Jacob Richter
+Johann-Georg Rilmer
+Christian Hermann
+Gottfried Rühle
+Adam Sernitz
+David-Gottfried Lischer
+Hans Birckner
+1740
+Johann-Adam Röder
+Hans-Rudolf Pforte
+Gottfried Diergle
+----------------
+Georg Schreiber
+Georg Eltzschig
+Georg Spieß
+Martin Kupper
+Johann-Georg Riemer
+1741
+Andreas Graf
+Johann-Friedrich Poppe
+Georg Röder
+Andreas Hennig
+----------------
+Johann-Gottfried Flade
+Andreas Umlauft
+1742
+Gottfried Zocher
+Adam Hermann
+Christian Huhn
+Johann-Christoph Legler
+Friedrich Schlechte
+Carl-Christoph Francke
+Johann-Adam Händler
+----------------
+Hans Thamm
+Hans Münch
+Christoph Just
+1743
+Andreas Scheiblich
+Johann-Georg Mammitzsch
+Adam Rühle
+Christian Poppe
+Gottfried Rentzsch
+Hans Richter
+Johann-Christoph Weutrich
+Martin Fincke
+----------------
+Hans Grille
+1744
+Christoph Hohnstein
+Stephan Beger
+Martin Francke
+Andreas Pruff
+Johann-Gottfried Rühle
+1745
+Christian Micke
+Christian Rühle
+Paul Conrad
+Martin Hohnstein
+----------------
+Johann-Adam Fincke
+Georg Butzsch
+Johann-Christoph Mags
+Johann-Adam Fincke
+Adam Gießmann
+Hans Reuße
+Johann-Gottfried Richter
+Hans Rühle
+Johann-Georg Schultz
+Martin Fichtner
+Georg Pietzsch
+----------------
+1746
+? Seulig
+? Frietzsche
+? Brückmann
+? Dietze?
+Johann Oben
+? Meltzer
+? Weißhaar
+? Berger
+? Selig
+Georg Weißhaar
+----------------
+Hans Lehmann
+? Sickert
+Georg Frietzsche
+1747
+Johann Ockert
+Christ? Huhn
+Hans-Christian Böttiger
+Hans Fincke
+? Beger
+? Schüzze?
+? Drechsler
+----------------
+Johann-Georg Hänsel
+? Rühle
+? Lehmann
+1748
+? Schlechte
+? ppert?
+? ?
+? Heintze
+? Schlechte
+? ?
+? Antrag
+----------------
+? Oeltze?
+? ?
+? Riemer
+? Rühle
+? Münch
+? Niese
+? Niese
+Johann-Georg Roitzsch
+? Haaßmann
+? Hübler?
+----------------
+1749
+Johann-Georg? Irmer
+? Geißler
+? Berhardt
+? Münch
+? Klincker
+? Hermann
+? Zigmark?
+? Wustlig?
+Martin Rüdiger
+Johann-Georg Funcke
+----------------
+Gottfried Naundorf
+? Koch
