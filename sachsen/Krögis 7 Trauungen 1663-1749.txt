@@ -1,5 +1,5 @@
 Krögis (Buch 7)
-Trauungen 1663-1719
+Trauungen 1663-1749
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
@@ -7,9 +7,10 @@ Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
-Erstellt in ca. 2 Stunde
+Erstellt in ca. 3 Stunde
 Juni 2022
 Januar 2023
+Februar 2023
 tintenfrass@gmx.de
 
 
@@ -585,3 +586,302 @@ Gottfried Lerck?
 Jacob Voigt
 Johann Crelman
 ----------------
+1720
+Michael Zscherper
+Peter Preuser
+Christian Schlicke
+Andreas Eckelmann
+Adam Schönert
+Peter Wilsdorf
+Valentin Ranft
+Gregor Naumann
+Georg Heuer
+----------------
+1721
+Johann-Jacob Starcke
+Andreas Neidthard
+Johann-Gottfried Schubert
+Andreas Eulitz
+Johann Donat
+Michael Clauß
+Georg Nacke
+Michael Gäseler
+----------------
+1722
+Johann Richter
+Donat Mehler
+Paul Zschuncke
+Johann Paul
+Martin Burckhart
+Johann-Georg Hermann
+Jacob Starcke
+Christian Streubel
+Johann Rosperg?
+Andreas Dietze
+----------------
+1723
+Peter Naumann
+Samuel Pincker
+Samuel Arnold
+Martin Eulitz
+Andreas Gübner
+1724
+Georg Weritz
+Christoph Funcke
+Johann Kohl
+Christian Hanisch
+Georg Rudolf
+Martin Mietzsch
+----------------
+Peter Meltzer
+Georg Hännig
+Martin Müller
+Andreas Kohl
+Martin Lehmann
+Johann Thüemer
+Michael Neydhard
+Daniel Schüttig
+Peter Rost
+----------------
+1725
+Peter Pincker
+Johann-Georg Jungnickel
+Martin Anthon
+Johann Frietzsche
+Johann Heynitz
+Martin Rentzsch
+Gregor Meritz
+1726
+Christian Müller
+Andreas Große
+Martin Starcke
+----------------
+Johann Ditrich
+Georg Fischer
+1727
+Georg Wachs
+Peter Gebhard
+Johann-Christoph Herold
+Peter Ehmchen
+Johann Küchenmeister
+Andreas Gäpel
+Martin Pögen
+Peter Kretzschmer
+Johann Rost
+----------------
+Bernhard Kolbe
+1728
+Georg Krauspe
+Christoph Keller
+Peter Voigt
+Michael Richter
+Peter Wackwitz
+Gottfried Gercks
+Thomas Clauß
+Michael Müller
+Georg Wachs
+Johann Friedrich
+Martin Fichtner
+----------------
+Johann Lindischen
+Samuel Müller
+Peter Nagel
+1729
+Andreas Fichtner
+Donat Pincker
+Johann Räyer?
+Martin Hahmann
+Peter Gapsch
+Donat Hellmuth
+Christian Görne
+----------------
+1730
+Johann-Gottfried Diesener
+Peter Lommatzsch
+Johann Roßberg
+1731
+Peter Uhlman
+Christian Ficke
+Johann Haupsch
+Johann Bauch
+Samuel Laus?
+Paul Arnold
+Jacob Lutze
+1732
+Georg Zschoche
+Michael Rost
+Georg Hauptmann
+Michael Rost
+Christian Petzsch
+1733
+Andreas Marx
+Christian-Friedrich Görne
+Martin Hörnig
+Christian Schale
+Gottfried Schreiter
+Johann-Christoph Gretschneider
+----------------
+Christian Petzsch
+Johann-Michael Mackwitz
+Johann Schmidt
+Gottfried Burckhart
+Ambrosius Gapsch
+1734
+Johann Poizsch
+Michael Frietzsche
+Johann Schnee
+Johann Marx
+Andreas Rost
+----------------
+Peter Riedrich
+Christian Pögen
+Gottfried Rost
+Johann Lützner
+Gottfried Hanicke
+1735
+Conrad Fichtner
+Michael Starcke
+Johann Voigt
+Michael Schönert
+Andreas Stange
+----------------
+Johann Gentzsch
+Johann Köhler
+Christian Jeske?
+Georg Petzsch
+Gottlob Köhler
+Martin Köhler
+Martin Müller
+1736
+Georg Leuschner
+Georg Ziechner
+----------------
+Johann Bretschneider
+Johann-Wolf Sehmann
+Andreas Müller
+Peter Mackwitz
+Georg Mehner
+1737
+Peter Hahman
+Gottlieb Erler
+Andreas Mühlberg
+Martin Aekisch
+----------------
+1738
+Michael Günther
+Johann Zschoche
+Johann Kolbe
+Gottfried Hahmann
+Georg Praße
+1739
+Christian Funcke
+Gottfried Thiele
+Samuel Starcke
+Gottlieb Günther
+----------------
+Johann-Gottfried Huhn
+Michael Spieß
+Adam Leckscheide
+Johann Guck
+Martin Steltzner
+Johann Cruchel?
+1740
+Christian Born
+Andreas Grübler
+Peter Müller
+----------------
+Michael Becker
+Gottfried Petzsch
+Georg Clauß
+Christian Weise
+Johann Fehrmann
+1741
+Gottlob Schlegel
+Michael Lommatzsch
+Johann-Christoph Jähnichen
+Michael Schlicke
+Johann-Michael Rillich?
+----------------
+Georg Hentzschel
+Georg Görne
+1742
+Johann-Siegmund Sachse
+Martin Kepsch
+Johann-Georg Ditrich
+Johann Taggesell
+Johann Lützner
+Johann-Gottlob Dorst
+----------------
+Johann-Christoph Rudolf
+1743
+Gottlieb Voigt
+Andreas Richter
+Johann-Georg Wesig?
+Georg Seiffert
+Wolf Mackwitz
+Peter Hartzbecker
+Johann Köhler
+----------------
+1744
+Balthasar Frosch
+Gottfried Preußer
+Jacob Lantzsch
+Gottfried Starcke
+Johann Lehmann
+Gottfried Börner
+Michael Lincke
+Gottlob Kippel?
+Johann Helßig
+----------------
+Johann-David Schatz
+Georg Grübler
+1745
+Johann Stock
+Gottfried Hornitz
+Gottfried Geißler
+Michael Büttner
+Gottlieb-Salomon Schreber
+----------------
+Johann-Georg Schubert
+Johann-Georg Schuster
+Gabriel Günther
+Peter Junghans
+Gottfried Patzich
+Johann Schönert
+Peter Eihnichen?
+----------------
+1746
+Johann-Georg Lützner
+Johann-Gottlob Probsthahn
+Michael Starcke
+Christoph Schlegel
+Johann Heyme
+Christoph Gebhard
+Mattheus Judä
+Johann-Georg Humpsch
+Johann-Gottlob Zschoche
+----------------
+Gottfried Lützner
+1747
+Christoph Breyting?
+Johann-Georg Adam
+Gottfried Wilsdorf
+Peter Mackwitz
+Gottlieb Teichen
+----------------
+Michael Berger
+Christian-Heinrich Richter
+Gottlieb Meber
+Johann-Georg Roßberg
+1748
+Johann-Gottlob Groh?
+Johann-Martin Schuster
+Johann-Gottlob Schumann
+Johann Zschäpner
+----------------
+Gottlieb Mackwitz
+1749
+Johann-Christian Haupt
+Johann Roßberg
+Gottfried Rüderich
+Gottlieb Hartzbecker
