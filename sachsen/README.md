@@ -6,6 +6,10 @@ Zusätzlich sind nicht immer alle Namen klar lesbar, heißt der Index enthält e
 Die Fehlerquoto hängt sehr start davon ab, wann der Index erstellt wurde und wie gut das Kirchenbuch lesbar ist.
 Fehlerkorrekturen werden gerne entgegen genommen.
 
+Ein Programm zum Durchsuchen des Index befindet sich im Ordner "fuzzy-search"
+
+(https://github.com/tintenfrass/simplechurchbookindexes/tree/main/sachsen/fuzzy-search)
+
 
 ### Wie man möglichst schnell einen einfachen Index erstellt
 
