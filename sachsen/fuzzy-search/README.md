@@ -7,9 +7,9 @@ Es reicht die Datei indexfuzzysearch_1.3.exe herunterzuladen und zu starten. (Dr
 oder Direktlink:
 https://github.com/tintenfrass/simplechurchbookindexes/raw/main/sachsen/fuzzy-search/indexfuzzysearch_1.3.exe
 
-Das Programm sollte am besten in einen eigenen Ordner gelegt werden, es legt darin selber noch weitere Dateien an.
+Das Programm soll in einen eigenen Ordner gelegt werden, es legt darin dann selber noch weitere Dateien an.
 
-Das Programm läuft unter Windows.
+Das Programm läuft unter Windows. (funktioniert leider nicht auf jedem Rechner)
 Es ist sehr wahrscheinlich, dass beim ersten Start der Windows-Defender bzw. der Virenscanner anschlägt, da muss man sagen, dass das Programm erlaubt werden soll.
 
 Das Programm benötigt eine Internetverbindung.
@@ -26,7 +26,8 @@ Wenn man was gefunden hat, dann benötigt man Archion oder Zugang zum Landeskirc
 Bei Kirchenbüchern die nicht sauber chronologisch geführt wurden, ist es oft hilfreich nochmal in die zugehörige txt-Datei zu schauen (die im Ordner "sachsen" liegt) um die genaue Position des Eintrags im Kirchenbuch zu finden.
 
 ### Daten
-Die Suchergebnisse sind nur so gut, wie die zugrunde liegenden Daten. Das sind Trauungen im Gebeiet Dresden-Meissen bis zum Jahr 1700, teilweise auch noch etwas weiter.
+Das Programm läd nur die Trauunge-Dateien, alle andere Dateien (Taufen, Beerdigungen, Ensegnungen können hiermit nicht durchsucht werden)
+Die Suchergebnisse sind nur so gut, wie die zugrunde liegenden Daten.
 Die meisten Namen sind normalisiert und entsprechen nicht immer genau der Schreibweise im Buch.
 Dazu kommen Fehler und Ungenauigkeiten, gerade dann wenn das Kirchenbuch nur schwer lesbar ist, dann ist an vielen Stellen ein '?' eingefügt.
 Da die Suche über Ähnlichkeit funktioniert, sollte sie in den meisten Fällen trotzdem die richtigen Einträge finden.
