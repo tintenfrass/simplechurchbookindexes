@@ -3,7 +3,7 @@ besteht im Prinzip aus einer Menge von Textdateien worin die Bräutigamme nach J
 
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Kirchenbuch.
 Zusätzlich sind nicht immer alle Namen klar lesbar, heißt der Index enthält eine unbekannte Anzahl von Fehlern.
-Die Fehlerquoto hängt sehr start davon ab, wann der Index erstellt wurde und wie gut das Kirchenbuch lesbar ist.
+Die Fehlerquote hängt sehr stark davon ab, wann der Index erstellt wurde und wie gut das Kirchenbuch lesbar ist.
 Fehlerkorrekturen werden gerne entgegen genommen.
 
 Ein Programm zum Durchsuchen des Index befindet sich im Ordner "fuzzy-search"
