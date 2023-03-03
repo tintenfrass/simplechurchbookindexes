@@ -18,6 +18,10 @@ Wenn die Daten dann aber einmal daliegen, startet das Programm sehr schnell.
 
 Sind neue Daten oder Updates verfügbar, so werden diese automatisch runtergeladen/aktualisiert.
 
+### Skalierung
+Die Anzeige des Programm skaliert mit der Windows-Skalierungs-Einstellung, das führt leider dazu, dass es mit einer Skalierung von mehr 100% nicht wirklich nutzbar ist. Es sollte eine Skalierung von 100% genutzt werden.
+![Skalierung](scale.jpg)
+
 ### Benutzung
 Das Programm ist eigentlich selbsterklärend, Suchoptionen einstellen und Name des gesuchten Bräutigams eingeben.
 Danach erscheint rechts eine große Liste mit Ergebnissen, wobei die besten Treffer oben stehen und nach unten immer schlechter werden.
