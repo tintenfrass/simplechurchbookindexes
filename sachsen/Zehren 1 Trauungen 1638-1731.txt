@@ -1,5 +1,5 @@
 Zehren (Buch 1)
-Trauungen 1638-1699
+Trauungen 1638-1731
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
@@ -7,8 +7,9 @@ Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
-Erstellt in ca. 2 Stunden.
+Erstellt in ca. 3 Stunden.
 Juni 2022
+März 2023
 tintenfrass@gmx.de
 
 
@@ -565,7 +566,7 @@ Martin Schidler
 Georg Pitzsch
 Hans Jancke?
 1698
-Georg Reichart?
+Georg Reinhard?
 Hans Schmidt
 Christoph Hacke
 Hans Schmidt?
@@ -584,3 +585,403 @@ Urban Heller
 ----------------
 Peter Danez?
 Martin Kretzschmer?
+1700
+? ?
+Salomon Trager
+Friedrich Hanla?
+Christian Lehmann?
+Georg Müller
+Michael Reigten?
+1701
+Martin ?
+Georg ?
+Barthel Rothe
+Caspar Philipp
+Hans Rosenberg
+Martin Kretzschmer?
+Martin Penller?
+Hans Rost
+Andreas Parbet?
+Mattheus Damm
+Mattheus Kluncker
+Christoph Hoffmann
+1702
+Valentin Moritz?
+Hans ?
+Peter Frietzsche
+Andreas Zschoche
+Hans Hänsel
+Peter Reinhard
+Georg Köhler
+Hans Böhme
+----------------
+1703
+Samuel Berg
+Martin Voigt
+Peter Richter
+Stephan Keichmad?
+Hans Moritz
+Martin Neider
+Peter Schlechte
+Stephan Rolle
+Andreas Vogel
+Peter Naumann
+Friedrich Sorman?
+Stephan Beger
+Christian Guck
+Christoph Kieseling?
+1704
+Peter Maune
+Hans Starcke
+Christian Günther
+Hans Schultz
+Jacob Ritter
+Donat Heyme
+Martin? Zscharing
+Michael Steude
+Peter Moritz
+1705
+Hans Klitzner?
+Johann-Christian Gerstner
+Hans Jenicke?
+Christian Gerstäck?
+Hans Naume?
+----------------
+Israel Röster?
+Christian Raster?
+Abraham Tzschepner
+Georg Liebscher
+Martin Bruckwitz
+Peter Reiche
+Martin Starcke
+Michael Vogel
+Martin Zscherner
+Hans Küstner?
+Hans Klauß?
+----------------
+1706
+Jacob Peger
+Peter Reinhard
+Hans Kohl
+Johann Engelbert
+Michael Emmerling
+Christian Pegen
+Jonas-Gottfried? Meyer
+Michael Häsel
+Adam Schmiedel?
+1707
+Hans Schindler
+Peter Lamtsch?
+----------------
+Hans Müller
+Martin Rolle
+Hans Schneider
+Martin Schlechte
+----------------
+? ?
+1708
+Hans Bottich
+Hans-Michael? Morich?
+Hans Volch?
+Andreas Münch
+Hans Mohorn
+Hans-Georg Schumann
+Adam Kiedling?
+Georg Schweger?
+Hans Röder
+----------------
+1709
+Christian Albrecht
+Clemens Jäger
+Hans Schultz
+Michael Schiffel
+Georg Röder
+Georg Haferland
+Peter Pfitzner
+Hans Voigt
+Martin Zschoche
+Jacob Richter
+Hans Grübler
+Mattheus Schultz
+Hans Ruderich
+Johann-Andreas Klemm
+Michael Geißler
+Hans Frantze
+Peter Fichtner
+Georg Irmler
+----------------
+1710
+Michael Richter
+Jacob Zschoche
+Hans Kriertzsch?
+Hans Alterman
+Hans Zscherger
+Martin Spahrmann
+Michael Philipp
+Georg Hecht
+Peter Wachs
+Abraham Kießling
+Adam Hennig
+Christian Rüße?
+Johann Moritz
+Martin Geißler
+1711
+Peter Leckscheedte
+David Liebert
+----------------
+Hans Krause
+Gottfried Züchner
+Christian Jahn
+Jacob Seydel
+Johann-Samuel Zieger
+Hans-Christoph Jahn
+Hans-Martin Hahn
+Abraham Haferfeld
+Hans Schweigler
+Hans Goede
+Hans Riße
+Andreas Pincker
+1712
+Asmus Ringler
+Georg Mirisch
+Hans Kirchner
+Georg Zschäpner
+Georg-Ludwig Metzger
+----------------
+Georg Schlicke
+Martin Lantzich
+Christian Schultz
+Andreas Schindler
+Hans Geißler
+1713
+Georg Pietzsch
+Hans Bär
+Hans Roßberg
+Mattheus Gärpner?
+Hans Gürne
+Jacob Miebel?
+Michael Geißel?
+1714
+Martin Hehmens
+Johann-Gottfried Schubert
+Hans Heyde
+Peter Schulte
+----------------
+Jacob Schlegel
+Christian Klatzsch
+Michael Münch
+Martin Mayer
+1715
+Christian Klinger
+Gottfried Kleemann
+Christian Scharnack
+Samuel Marx
+Andreas Puff?
+Martin Planckenstein
+Peter Thamme
+Andreas Kretzschmer
+Peter Reinhard
+Andreas Funcke
+Johann Schmidt
+Peter Altner
+Martin Seiffert
+Andreas Gühne
+Martin Koch
+----------------
+1716
+Hans Züchner
+Hans Kirchner
+Thomas Barth
+Adam Hartmann
+Johann Hönicke
+Hans Zieger
+Hans Thieme
+Georg Moritz
+Hans Hanitzsch
+Jacob Guhr
+Hans Reyse?
+Martin Rüdrich
+Martin Kießling
+Georg Winckler
+----------------
+1717
+Friedrich Hahn
+Michael Bachmann
+Michael Wilsdorf
+Hans-Christoph Gerstäcker
+Adam Pincker
+Peter Dolch
+Mattheus Pincker
+Andreas Hoffmann
+Georg Müller
+Lucas Uhlmann
+Peter Henrich
+Georg Poppe
+Stephan Lehmann
+1718
+Christian Zencker
+Hans Müller
+----------------
+Hans Trobisch
+Christian Zencker
+Hans Müller
+Michael Voigt
+Jacob Barthel
+Peter Schuster
+Hans Stieffler
+1719
+Hans Kretzsch
+Daniel Fuchs
+Johann Wüstner?
+Christoph Kießling
+Barthel Zieger?
+Stephan Schlegel
+Martin Gieße
+1720
+Andreas Kaeßler?
+Hans Kabisch
+----------------
+Michael Müller
+Martin Rudolf
+Hans-Adam Brackne?
+Georg-Ernst Müller
+Hans Röhcke?
+Hans Mühlstädt
+Peter Hantzschmann
+Hans Zscheprich?
+1721
+Johann Klingner
+Donat Pincker
+Christian Becker
+Peter Hoyer
+Hans-Adam Hermann
+Hans Schultz
+Johann-Gottfried Scheltz
+----------------
+Georg Bayer
+Johann-Georg Hahn
+Martin Weidner
+Peter Richter
+Michael Klingner
+1722
+Martin Scheuer?
+Hans Roßberg
+Gottfried Voigt
+x
+Johann Pietzsch
+Peter Voigt
+Hans Wittig
+Georg Erler
+----------------
+Hans Puff
+Thomas Mehner
+Michael Wilsdorf
+Hans Altermann
+Georg Schmidt
+1723
+Martin Thamme
+Michael Dorn
+Michael Rollpusch
+Fabian Mühlberg
+----------------
+Martin Zschernich
+Hans Kirsten
+Martin Sorge
+Jacob Heinrich
+Heinrich Keuthaue?
+Peter Krobb?
+Martin Teichmann
+Martin Schantze
+1724
+Jacob Schlechte
+Peter Zschernich
+Hans Reinhard
+Georg Wolf
+Hans Schumann
+Hans Schmidt
+----------------
+Christian Schlegel
+Peter Zieger
+Hans Gelhaar
+Georg Rostig
+Georg Koch?
+Martin Pincker
+Andreas Kobisch
+Georg Kiesig
+Hans-Christoph Thamme
+Asmus Peinler?
+Hans Zschitzschmann
+1725
+Hans Hahnefeld
+Georg Müller
+Martin Görne
+Martin Schnell
+Martin Niese
+----------------
+Martin Rüdrich
+Georg Heintze
+Michael Händler
+Hans Schubert
+Martin Winckler
+Peter Naumann
+Georg Grübler
+Adam Reißig
+1726
+Georg Zencker
+Martin Hermann
+Andreas Reiche?
+1727
+Peter Jeschke
+Hans Grübler
+----------------
+Georg Zschockelt
+Georg Mirisch
+Hans Gießmann
+Hans Kolsdorf
+Hans Eulig
+Georg Ziger
+Georg Pusch
+1728
+Hans Wilsdorf
+Georg Funcke
+Peter Köhler
+Peter Staude
+Peter Hartzbach
+Martin Roßberg
+Hans Zschoche
+Hans Funcke
+Martin Clihmann?
+August Felchner
+----------------
+1729
+Christian Altermann
+Stephan Jahn
+Johann-Christoph Geiyler?
+Georg Fischer
+Martin Zscherpel
+Gottfried Lange
+Wolf Ehrel?
+Peter Roßberg
+Christian Beuchig?
+Christian Grünling?
+Peter Müller
+Johann-Gottfried Meisner?
+1730
+Christoph Heyffestnner?
+Martin Schuster
+Georg Köhler
+Martin Hermann
+Peter Zieger
+----------------
+Christian Thimer?
+Christoph Schumann
+Michael Pittich?
+1731
+Peter Peger
+Christian Schlegel
+Gottfried Zschoche
+Martin Moritz
+Hans Richter
+Christian Beger
+Gottfried Lange
+Reinhold Kauer
