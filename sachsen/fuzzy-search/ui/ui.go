@@ -7,7 +7,7 @@ import (
 	"github.com/gen2brain/iup-go/iup"
 )
 
-const Version = "v1.3"
+const Version = "v1.4"
 
 var boxes map[string]iup.Ihandle
 
@@ -31,7 +31,7 @@ func BuildAndRun() {
 
 	//Search and Find
 	searchField := iup.Text().SetAttribute("SIZE", "150x").SetHandle("searchField")
-	results := iup.MultiLine().SetAttribute("SIZE", "400x440").SetAttribute("READONLY", "YES").SetHandle("output")
+	results := iup.MultiLine().SetAttribute("SIZE", "310x350").SetAttribute("READONLY", "YES").SetHandle("output")
 
 	configs := iup.GridBox(
 		iup.Label("Min:").SetAttribute("SIZE", "30x15"),
@@ -77,43 +77,45 @@ func BuildAndRun() {
 
 		"Miltitz": iup.Toggle("Miltitz"),
 
-		"Wendischbora": iup.Toggle("Wendischbora"),
-		"Heynitz":      iup.Toggle("Heynitz"),
-		"Taubenheim":   iup.Toggle("Taubenheim"),
-		"Röhrsdorf":    iup.Toggle(utf82ui("Röhrsdorf")),
-		"Weistropp":    iup.Toggle("Weistropp"),
-		"Kaditz":       iup.Toggle("Kaditz"),
-
-		"Rothschönberg":            iup.Toggle(utf82ui("Rothschönberg")),
-		"Burkhardswalde":           iup.Toggle("Burkhardswalde"),
+		"Wendischbora":             iup.Toggle("Wendischbora"),
+		"Heynitz":                  iup.Toggle("Heynitz"),
+		"Taubenheim":               iup.Toggle("Taubenheim"),
+		"Röhrsdorf":                iup.Toggle(utf82ui("Röhrsdorf")),
+		"Weistropp":                iup.Toggle("Weistropp"),
+		"Kaditz":                   iup.Toggle("Kaditz"),
 		"Dresden Dreikönigskirche": iup.Toggle(utf82ui("Dresden Dreikönigskirche")),
 
-		"Deutschenbora":         iup.Toggle("Deutschenbora"),
-		"Tanneberg":             iup.Toggle("Tanneberg"),
-		"Limbach":               iup.Toggle("Limbach"),
-		"Wilsdruff":             iup.Toggle("Wilsdruff"),
-		"Unkersdorf":            iup.Toggle("Unkersdorf"),
-		"Briesnitz":             iup.Toggle("Briesnitz"),
+		"Rothschönberg":         iup.Toggle(utf82ui("Rothschönberg")),
+		"Burkhardswalde":        iup.Toggle("Burkhardswalde"),
 		"Dresden Sophienkirche": iup.Toggle("Dresden Sophienkirche"),
 
-		"Hirschfeld":          iup.Toggle("Hirschfeld"),
-		"Neukirchen":          iup.Toggle("Neukirchen"),
-		"Blankenstein":        iup.Toggle("Blankenstein"),
-		"Grumbach":            iup.Toggle("Grumbach"),
-		"Kesselsdorf":         iup.Toggle("Kesselsdorf"),
+		"Deutschenbora":        iup.Toggle("Deutschenbora"),
+		"Tanneberg":            iup.Toggle("Tanneberg"),
+		"Limbach":              iup.Toggle("Limbach"),
+		"Wilsdruff":            iup.Toggle("Wilsdruff"),
+		"Unkersdorf":           iup.Toggle("Unkersdorf"),
+		"Briesnitz":            iup.Toggle("Briesnitz"),
+		"Dresden Frauenkirche": iup.Toggle("Dresden Frauenkirche"),
+
+		"Hirschfeld":             iup.Toggle("Hirschfeld"),
+		"Neukirchen":             iup.Toggle("Neukirchen"),
+		"Blankenstein":           iup.Toggle("Blankenstein"),
+		"Grumbach":               iup.Toggle("Grumbach"),
+		"Kesselsdorf":            iup.Toggle("Kesselsdorf"),
+		"Dresden Friedrichstadt": iup.Toggle("Dresden Friedrichstadt"),
+
+		"Mohorn":              iup.Toggle("Mohorn"),
+		"Herzogswalde":        iup.Toggle("Herzogswalde"),
+		"Pesterwitz":          iup.Toggle("Pesterwitz"),
 		"Dresden Annenkirche": iup.Toggle("Dresden Annenkirche"),
 
-		"Mohorn":                              iup.Toggle("Mohorn"),
-		"Herzogswalde":                        iup.Toggle("Herzogswalde"),
-		"Pesterwitz":                          iup.Toggle("Pesterwitz"),
+		"Fördergersdorf":                      iup.Toggle(utf82ui("Fördergersdorf")),
+		"Tharandt":                            iup.Toggle("Tharandt"),
+		"Döhlen":                              iup.Toggle(utf82ui("Döhlen")),
 		"Dresden Böhmische Exulantengemeinde": iup.Toggle("Dresden Böhmische Exulantengemeinde"),
 
-		"Fördergersdorf": iup.Toggle(utf82ui("Fördergersdorf")),
-		"Tharandt":       iup.Toggle("Tharandt"),
-		"Döhlen":         iup.Toggle(utf82ui("Döhlen")),
-		"Plauen":         iup.Toggle("Plauen"),
-
 		"Somsdorf": iup.Toggle("Somsdorf"),
+		"Plauen":   iup.Toggle("Plauen"),
 
 		"Andere": iup.Toggle("Andere"),
 	}
@@ -199,7 +201,7 @@ func BuildAndRun() {
 		boxes["Röhrsdorf"],
 		boxes["Weistropp"],
 		boxes["Kaditz"],
-		iup.Space(),
+		boxes["Dresden Dreikönigskirche"],
 
 		boxes["Rothschönberg"],
 		boxes["Burkhardswalde"],
@@ -207,7 +209,7 @@ func BuildAndRun() {
 		iup.Space(),
 		iup.Space(),
 		iup.Space(),
-		boxes["Dresden Dreikönigskirche"],
+		boxes["Dresden Sophienkirche"],
 
 		boxes["Deutschenbora"],
 		boxes["Tanneberg"],
@@ -215,7 +217,7 @@ func BuildAndRun() {
 		boxes["Wilsdruff"],
 		boxes["Unkersdorf"],
 		boxes["Briesnitz"],
-		boxes["Dresden Sophienkirche"],
+		boxes["Dresden Frauenkirche"],
 
 		boxes["Hirschfeld"],
 		boxes["Neukirchen"],
@@ -223,7 +225,7 @@ func BuildAndRun() {
 		boxes["Grumbach"],
 		boxes["Kesselsdorf"],
 		iup.Space(),
-		boxes["Dresden Annenkirche"],
+		boxes["Dresden Friedrichstadt"],
 
 		iup.Space().SetAttributes("SIZE=0x15"),
 		iup.Space(),
@@ -231,7 +233,7 @@ func BuildAndRun() {
 		boxes["Herzogswalde"],
 		iup.Space(),
 		boxes["Pesterwitz"],
-		boxes["Dresden Böhmische Exulantengemeinde"],
+		boxes["Dresden Annenkirche"],
 
 		iup.Space().SetAttributes("SIZE=0x15"),
 		iup.Space(),
@@ -239,7 +241,7 @@ func BuildAndRun() {
 		boxes["Fördergersdorf"],
 		boxes["Tharandt"],
 		boxes["Döhlen"],
-		boxes["Plauen"],
+		boxes["Dresden Böhmische Exulantengemeinde"],
 
 		boxes["Andere"].SetAttributes("SIZE=90x15"),
 		iup.Space(),
@@ -247,23 +249,21 @@ func BuildAndRun() {
 		iup.Space(),
 		boxes["Somsdorf"],
 		iup.Space(),
-		iup.Space(),
+		boxes["Plauen"],
 
 		selectAllButton,
 		selectNoneButton,
 	).SetAttribute("NUMDIV", 7)
 
-	configFrame := iup.Frame(configs).SetAttribute("TITLE", "Einstellungen").SetAttributes("SIZE=500x70")
+	configFrame := iup.Frame(configs).SetAttribute("TITLE", "Einstellungen").SetAttributes("SIZE=500x50")
 	mapFrame := iup.Frame(grid).SetAttribute("TITLE", "Kirchengemeinden")
 
 	//Infotext
-	infotext := iup.Label("").SetAttribute("TITLE", utf82ui("Bsp:\n"+
+	infotext := iup.Label("").SetAttribute("TITLE", utf82ui("Bsp. für die Suche:\n"+
 		"Max Mustermann  ->  Suche nach Vor- und Nachnamen\r\n"+
 		"Max ?  ->  Suche nach Personen mit Vornamen Max\r\n"+
 		"? Mustermann  ->  Suche nach Personen mit Nachnamen Mustermann\r\n"+
-		"Max  ->  Suche unabhängig von Vor- oder Nachname\r\n"+
-		"\r\n"+
-		"Es wird Groß- und kleinschreibung unterschieden.\r\n",
+		"Max  ->  Suche unabhängig von Vor- oder Nachname\r\n",
 	))
 
 	content := iup.Hbox(
@@ -273,17 +273,18 @@ func BuildAndRun() {
 			iup.Hbox(
 				searchField,
 				searchButton,
+				iup.Label(utf82ui("          Es wird Groß- und kleinschreibung unterschieden!")).SetAttributes("SIZE=350x15"),
+				exitButton,
 			),
 			infotext,
-			exitButton,
-		).SetAttributes("MARGIN=10x10, GAP=8"),
+		).SetAttributes("MARGIN=5x5, GAP=4"),
 		iup.Vbox(
 			results,
 		),
 	)
 
 	dlg := iup.Dialog(content).SetAttributes(`TITLE="Fuzzy Search ` + Version + `"`)
-	dlg.SetHandle("dlg").SetAttributes("SIZE=1080x480")
+	dlg.SetHandle("dlg").SetAttributes("SIZE=950x405")
 
 	//Callbacks
 	iup.SetCallback(exitButton, "ACTION", iup.ActionFunc(exit))
