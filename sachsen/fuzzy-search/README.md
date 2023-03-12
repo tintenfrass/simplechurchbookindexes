@@ -27,7 +27,8 @@ Die Anzeige des Programm skaliert mit der Windows-Skalierungs-Einstellung, das f
 Das Programm ist eigentlich selbsterklärend, Suchoptionen einstellen und Name des gesuchten Bräutigams eingeben.
 Danach erscheint rechts eine große Liste mit Ergebnissen, wobei die besten Treffer oben stehen und nach unten immer schlechter werden.
 
-Wenn man was gefunden hat, dann benötigt man Archion oder Zugang zum Landeskirchlichen Archiv, um sich die vollen Einträge anzusehen.
+Wenn man was gefunden hat, dann benötigt man Archion oder Zugang zum Landeskirchlichen Archiv, um sich die vollen Einträge anzusehen. (evangelisch)
+Die katholischen Kirchenbücher sind kostenlos auf Matricula einsehbar.
 Bei Kirchenbüchern die nicht sauber chronologisch geführt wurden, ist es oft hilfreich nochmal in die zugehörige txt-Datei zu schauen (die im Ordner "sachsen" liegt) um die genaue Position des Eintrags im Kirchenbuch zu finden.
 
 ### Daten
