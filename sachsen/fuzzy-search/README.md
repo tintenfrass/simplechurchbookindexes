@@ -19,9 +19,9 @@ Wenn die Daten dann aber einmal daliegen, startet das Programm sehr schnell.
 Sind neue Daten oder Updates verfügbar, so werden diese automatisch runtergeladen/aktualisiert.
 
 Alternativ kann auch das zip-File:
-https://github.com/tintenfrass/simplechurchbookindexes/raw/main/sachsen/fuzzy-search.zip
+https://github.com/tintenfrass/simplechurchbookindexes/raw/main/sachsen/fuzzy-search/fuzzy-search.zip
 oder der Installer:
-https://github.com/tintenfrass/simplechurchbookindexes/raw/main/sachsen/fuzzy-search.msi
+https://github.com/tintenfrass/simplechurchbookindexes/raw/main/sachsen/fuzzy-search/fuzzy-search.msi
 verwendet werden.
 
 
