@@ -18,6 +18,13 @@ Wenn die Daten dann aber einmal daliegen, startet das Programm sehr schnell.
 
 Sind neue Daten oder Updates verfügbar, so werden diese automatisch runtergeladen/aktualisiert.
 
+Alternativ kann auch das zip-File:
+https://github.com/tintenfrass/simplechurchbookindexes/raw/main/sachsen/fuzzy-search.zip
+oder der Installer:
+https://github.com/tintenfrass/simplechurchbookindexes/raw/main/sachsen/fuzzy-search.msi
+verwendet werden.
+
+
 ### Skalierung
 Die Anzeige des Programm skaliert mit der Windows-Skalierungs-Einstellung, das führt leider dazu, dass es mit einer Skalierung von mehr 100% nicht wirklich gut nutzbar ist. (betrifft vor allem Laptops) Es sollte eine Skalierung von 100% genutzt werden.
 
