@@ -34,12 +34,12 @@ Die Anzeige des Programm skaliert mit der Windows-Skalierungs-Einstellung, das f
 Das Programm ist eigentlich selbsterklärend, Suchoptionen einstellen und Name des gesuchten Bräutigams eingeben.
 Danach erscheint rechts eine große Liste mit Ergebnissen, wobei die besten Treffer oben stehen und nach unten immer schlechter werden.
 
-Wenn man was gefunden hat, dann benötigt man Archion oder Zugang zum Landeskirchlichen Archiv, um sich die vollen Einträge anzusehen. (evangelisch)
+Wenn man was gefunden hat, dann benötigt man Archion oder Zugang zum Landeskirchlichen Archiv, um sich die vollen Einträge anzusehen (evangelisch). 
 Die katholischen Kirchenbücher sind kostenlos auf Matricula einsehbar.
 Bei Kirchenbüchern die nicht sauber chronologisch geführt wurden, ist es oft hilfreich nochmal in die zugehörige txt-Datei zu schauen (die im Ordner "sachsen" liegt) um die genaue Position des Eintrags im Kirchenbuch zu finden.
 
 ### Daten
-Das Programm läd nur die Trauunge-Dateien, alle andere Dateien (Taufen, Beerdigungen, Ensegnungen können hiermit nicht durchsucht werden)
+Das Programm läd nur die Trauungs-Dateien, alle andere Dateien (Taufen, Beerdigungen, Ensegnungen können hiermit nicht durchsucht werden)
 Die Suchergebnisse sind nur so gut, wie die zugrunde liegenden Daten.
 Die meisten Namen sind normalisiert und entsprechen nicht immer genau der Schreibweise im Buch.
 Dazu kommen Fehler und Ungenauigkeiten, gerade dann wenn das Kirchenbuch nur schwer lesbar ist, dann ist an vielen Stellen ein '?' eingefügt.
