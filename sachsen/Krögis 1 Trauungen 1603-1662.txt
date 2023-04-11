@@ -448,7 +448,7 @@ Peter Ludwig
 Jacob Wiegant
 Christoph-Siegmund Wehla
 Abraham Kotzsch
-Adam Kauder
+Adam Neider
 Johann Naumann
 Michael Ernischer
 Peter Heede
