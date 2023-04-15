@@ -1,4 +1,8 @@
-## Fuzzy Search
+## Online-Version
+Das Programm wird durch die Online-Suche ersetzt
+https://tintenfrass.github.io/simplechurchbookindexes/
+
+## Fuzzy Search (nicht mehr aktuell)
 Ein kleines Tool, um die Trauungen von https://github.com/tintenfrass/simplechurchbookindexes/tree/main/sachsen
 einfach durchsuchen zu können. Dabei wird eine Ähnlichkeitssuche verwendet und die Ergebnisse nach Treffergenauigkeit sortiert.
 

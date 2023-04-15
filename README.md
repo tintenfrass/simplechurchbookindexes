@@ -15,12 +15,13 @@ Alle Daten befinden sich im Ordner "sachsen"
 
 https://github.com/tintenfrass/simplechurchbookindexes/tree/main/sachsen
 
-### Programm zum Durchsuchen des Index
-Im Unterordner "sachsen/fuzzy-search" (https://github.com/tintenfrass/simplechurchbookindexes/tree/main/sachsen/fuzzy-search)
-befindet sich ein Programm, womit man den gesammten Index sehr schnell durchsuchen kann.
-Das Programm läuft leider nicht auf jedem Rechner.
+### Online Durchsuchen des Index
+https://tintenfrass.github.io/simplechurchbookindexes/
 
-Eine webbasierte Suche für diese Daten existiert bisher nicht.
+### Programm zum Durchsuchen des Index (nicht mehr aktuell)
+https://github.com/tintenfrass/simplechurchbookindexes/tree/main/sachsen/fuzzy-search
+Es wird empfehlen die Online-Suche zu benutzen, das Programm wird nicht mehr weiterentwickelt!
+
 
 ### Kontakt
 Fragen, Korrekturen, Mithilfe zum Projekt gerne an
