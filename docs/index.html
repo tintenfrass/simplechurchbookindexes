@@ -5,9 +5,9 @@
 <meta name="author" content>
 <meta name="description" content="FuzzySearch Online">
 <meta name="keywords" content>
-<meta content="#2d2c2c" name="theme-color">
+<meta name="theme-color" content="#2d2c2c">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover">
-<meta property="og:url" content="http://127.0.0.1:55600/">
+<meta property="og:url" content="http://127.0.0.1:57414/">
 <meta property="og:title" content>
 <meta property="og:description" content="FuzzySearch Online">
 <meta property="og:type" content="website">
@@ -18,59 +18,216 @@
 <link rel="icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
 <link rel="apple-touch-icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
 <link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
-<link type="text/css" rel="stylesheet" href="/simplechurchbookindexes/app.css">
-<script src="/simplechurchbookindexes/wasm_exec.js" defer="true"></script>
+<link rel="stylesheet" href="/simplechurchbookindexes/app.css" type="text/css">
+<script defer="true" src="/simplechurchbookindexes/wasm_exec.js"></script>
 <script defer="true" src="/simplechurchbookindexes/app.js"></script>
 </head>
 <body>
 <div>
 <aside id="app-wasm-loader" class="goapp-app-info">
-<img id="app-wasm-loader-icon" class="goapp-logo goapp-spin" src="https://storage.googleapis.com/murlok-github/icon-192.png">
+<img class="goapp-logo goapp-spin" src="https://storage.googleapis.com/murlok-github/icon-192.png" id="app-wasm-loader-icon">
 <p id="app-wasm-loader-label" class="goapp-label">
 0%
 </p>
 </aside>
 <div id="app-pre-render">
-<div>
+<div style="font-family:verdana,sans-serif;font-size:8pt;">
 <table>
 <tr>
 <div>
 <h2>
-Fuzzy Search
+Trau-Index Dresden-Meißen
 </h2>
-work in progress
-<br>
-<br>
 <label>
-Min
+Jahr Min 
 </label>
-<input type="range" min="1550" max="1800" value="0" style="width: 350px;">
+<input style="width: 350px;" type="range" min="1550" max="1800" value="0">
 <label>
 0
 </label>
 <br>
 <label>
-Max
+Jahr Max
 </label>
-<input type="range" min="1550" max="1800" value="0" style="width: 350px;">
+<input style="width: 350px;" type="range" min="1550" max="1800" value="0">
 <label>
 0
 </label>
 <br>
 <br>
 <br>
+<table>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+<button style="width: 70px;">
+Alles
+</button>
+</td>
+<td>
+<button style="width: 70px;">
+Nichts
+</button>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
 <p>
-<input type="text" placeholder="Vorname Nachname" autofocus="true" style="width: 150px;">
-</p>
+<input placeholder="Vorname Nachname" autofocus="true" style="width: 200px;" type="text">
+ 
 <button style="width: 100px;">
 Search
 </button>
+</p>
+Es wird Groß- und kleinschreibung unterschieden.
 <br>
 <br>
+Bsp: für die Suche:
+<br>
+Max Mustermann =&gt; Sucht nach Vor- und Nachnamen in dieser Kombination
+<br>
+Max ? =&gt; Sucht nach Voramen Max
+<br>
+? Mustermann =&gt; Sucht nach Nachname Mustermann
+<br>
+<br>
+Informationen zum Projekt: 
+<a href="https://github.com/tintenfrass/simplechurchbookindexes">
+https://github.com/tintenfrass/simplechurchbookindexes
+</a>
+<br>
+<br>
+<label style="font-size:8pt;">
+v1.0 (April 2023)
+</label>
+<br>
+<br>
+<label>
 
+</label>
 </div>
 <td>
-<textarea value readonly="true" warp="hard" cols="100" rows="50"></textarea>
+<textarea readonly="true" warp="hard" cols="120" rows="50" value></textarea>
 </td>
 </tr>
 </table>
