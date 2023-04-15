@@ -1,0 +1,22 @@
+{
+  "short_name": "FuzzySearch",
+  "name": "FuzzySearch",
+  "description": "FuzzySearch Online",
+  "icons": [
+    {
+      "src": "https://storage.googleapis.com/murlok-github/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://storage.googleapis.com/murlok-github/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "scope": "/simplechurchbookindexes/",
+  "start_url": "/simplechurchbookindexes/",
+  "background_color": "#2d2c2c",
+  "theme_color": "#2d2c2c",
+  "display": "standalone"
+}
