@@ -18,6 +18,9 @@ func FindMarriage(search string, min, max int, churches map[string]bool) (output
 		search = strings.Replace(search, " ", "-", 1)
 	}
 
+	//* oder ? als Platzhalter
+	search = strings.Replace(search, "*", "?", -1)
+
 	//Nachname abspalten
 	searchParts := strings.Split(search, " ")
 

@@ -5,9 +5,9 @@
 <meta name="author" content>
 <meta name="description" content="FuzzySearch Online">
 <meta name="keywords" content>
-<meta name="theme-color" content="#2d2c2c">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover">
-<meta property="og:url" content="http://127.0.0.1:57414/">
+<meta content="#2d2c2c" name="theme-color">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover" name="viewport">
+<meta property="og:url" content="http://127.0.0.1:58824/">
 <meta property="og:title" content>
 <meta property="og:description" content="FuzzySearch Online">
 <meta property="og:type" content="website">
@@ -17,8 +17,8 @@
 </title>
 <link rel="icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
 <link rel="apple-touch-icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
-<link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
-<link rel="stylesheet" href="/simplechurchbookindexes/app.css" type="text/css">
+<link href="/simplechurchbookindexes/manifest.webmanifest" rel="manifest">
+<link type="text/css" rel="stylesheet" href="/simplechurchbookindexes/app.css">
 <script defer="true" src="/simplechurchbookindexes/wasm_exec.js"></script>
 <script defer="true" src="/simplechurchbookindexes/app.js"></script>
 </head>
@@ -41,7 +41,7 @@ Trau-Index Dresden-Meißen
 <label>
 Jahr Min 
 </label>
-<input style="width: 350px;" type="range" min="1550" max="1800" value="0">
+<input max="1800" value="0" style="width: 350px;" type="range" min="1550">
 <label>
 0
 </label>
@@ -49,7 +49,7 @@ Jahr Min
 <label>
 Jahr Max
 </label>
-<input style="width: 350px;" type="range" min="1550" max="1800" value="0">
+<input type="range" min="1550" max="1800" value="0" style="width: 350px;">
 <label>
 0
 </label>
@@ -193,12 +193,16 @@ Nichts
 </tr>
 </table>
 <p>
-<input placeholder="Vorname Nachname" autofocus="true" style="width: 200px;" type="text">
+<input type="text" placeholder="Vorname Nachname" autofocus="true" style="width: 200px;">
  
 <button style="width: 100px;">
 Search
 </button>
 </p>
+Die Suche erfolgt über den Namen des Bräutigams.
+<br>
+Dabei wird eine Ähnlichkeitssuche benutzt und die Ergebnisse nach Treffergenauigkeit aufgelistet.
+<br>
 Es wird Groß- und kleinschreibung unterschieden.
 <br>
 <br>
@@ -206,9 +210,14 @@ Bsp: für die Suche:
 <br>
 Max Mustermann =&gt; Sucht nach Vor- und Nachnamen in dieser Kombination
 <br>
-Max ? =&gt; Sucht nach Voramen Max
+Man kann auch mit mehrere Vornamen suchen z.B: Max Moritz Mustermann
 <br>
-? Mustermann =&gt; Sucht nach Nachname Mustermann
+<br>
+* (oder ?) als Platzhalter:
+<br>
+Max * =&gt; Sucht nach Vornamen Max
+<br>
+* Mustermann =&gt; Sucht nach Nachname Mustermann
 <br>
 <br>
 Informationen zum Projekt: 
@@ -227,7 +236,7 @@ v1.0 (April 2023)
 </label>
 </div>
 <td>
-<textarea readonly="true" warp="hard" cols="120" rows="50" value></textarea>
+<textarea value readonly="true" warp="hard" cols="120" rows="50"></textarea>
 </td>
 </tr>
 </table>
