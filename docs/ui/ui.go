@@ -218,7 +218,7 @@ func (h *searchComp) Render() app.UI {
 					app.Br(),
 					app.Text("Dann hilft es in die erfassten Daten selber zu gucken, um die genaue Position im Kirchenbuch zu ermitteln."),
 					app.Br(),
-					app.A().Href("https://github.com/tintenfrass/tree/main/sachsen").Text("https://github.com/tintenfrass/tree/main/sachsen"),
+					app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes/tree/main/sachsen").Text("https://github.com/tintenfrass/simplechurchbookindexes/tree/main/sachsen"),
 					app.Br(),
 					app.Text("Manche Kirchenbücher sind nicht chronologisch bzw. die Daten im Buch verstreut."),
 					app.Br(),
