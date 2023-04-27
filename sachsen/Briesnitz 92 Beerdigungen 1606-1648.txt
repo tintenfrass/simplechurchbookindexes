@@ -43,9 +43,9 @@ Martha Brosius Dieze
 .
 .
 Peter Fickler
-Dorothea Jacob Reuhe
+Dorothea Jacob Reiche
 Peter Hans Palitzsch
-f Jacob Rauh
+f Jacob Reiche
 Hans Kretschmar
 f Hans Kretschmar
 .
@@ -248,10 +248,10 @@ Catharina Georg Maul
 .
 Catharina Valentin Herkel
 .
-Christoph Rauh
+Christoph Reiche
 .
 Michael Faust
-Anna Hans Rauh
+Anna Hans Reiche
 Jeronymus Graulman
 Martin Leuderitz
 Martha Christoph Winckler
@@ -677,7 +677,7 @@ Georg Georg Hehrman
 Dorothea Michael Tegel
 .
 .
-Catharina Rauh
+Catharina Reiche
 .
 Georg Pitzsch
 .
@@ -784,7 +784,7 @@ Georg Kretschmar
 Gertrud Hans Valtin
 .
 Anna Martin Winckler
-Ursula Christoph Reuhe
+Ursula Christoph Reiche
 .
 .
 Apollonia Hans Steinbrecher
@@ -1774,7 +1774,7 @@ Maria Georg Böhmer
 .
 .
 Anna Georg Ganßauge
-Martin Rauhe
+Martin Reiche
 .
 .
 Martha Georg Förster
@@ -1993,7 +1993,7 @@ Anna Nikel Knaut
 .
 .
 .
-Anna Nikel Rauh
+Anna Nikel Reiche
 .
 .
 .
@@ -2012,7 +2012,7 @@ Christine Peter Dieze
 Christine Hans Freund
 .
 .
-Anna Jacob Reuhe
+Anna Jacob Reiche
 .
 Peter Fiedeler
 .
@@ -2908,7 +2908,7 @@ Anna Georg Naumann
 Hans Müller
 Georg Bruno Dieze
 .
-Martha Martin Rauh
+Martha Martin Reiche
 .
 Anna Jacob Donat?
 .
@@ -2951,7 +2951,7 @@ Mathes Dittrich
 Paul Müller
 Anna Georg Beyer
 Caspar Fehrmann?
-Margaretha Martin Rauh
+Margaretha Martin Reiche
 Elisabeth Martin Geim?
 Georg Wustlich
 Maria Hans Gladwitz
@@ -3228,7 +3228,7 @@ Wenzel Hünich
 .
 .
 Martha Georg Fickler
-Catharina Rauh
+Catharina Reiche
 .
 Maria Michael Angerman
 .
