@@ -1,11 +1,12 @@
 Dresden Böhmische Exulantengemeinde (Buch 490 und 491)
-Trauungen 1686-1749
+Trauungen 1686-1766
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
 
 Januar 2023
 Februar 2023
+Mai 2023
 tintenfrass@gmx.de
 
 
@@ -306,3 +307,81 @@ Carl Heydelberg
 Martin Hajek
 Johann Barcal
 Johann Trsek
+1750
+x
+Franz Gregori
+Johann Prochazka
+Karl Schultz
+----------------
+Thomas Nowak
+Prokop Bradac
+Anton Kaliwoda
+1751
+Johann Wenzel Wozir
+Johann Mik
+Thomas Hausrl
+Joseph Plawec
+Martin Skwor
+Johann Henisch
+1752
+Michael Wenzel Pokorny
+----------------
+Johann Worlicek
+Gottlob Christ Kanek
+Jacob Woharka
+1753
+Johann Rybar
+Mattheus Tesarik
+1754
+Johann Wodicka
+Andreas Peschina
+1755
+Johann Gottlob Gawlicek
+Friedrich Mattheus Spatzier
+Mattheus Spiewacak
+----------------
+Thomas Tomek
+1756
+Wenzel Horak
+Johann Jandik
+Karl Friedrich Wagner
+1757
+Mattheus Heyscha
+Johann Kotouc
+1758
+Wenzel Becowsky
+Wenzel Arnold Bozarsky
+Wenzel Ohneohr
+1759
+----------------
+1760
+Paul Tucek
+Martin Sewerin Wacek
+1761
+Johann David Kanek
+Johann Christian Giert
+Gottfried Gräfe
+Ignatz Chwalkowsky
+Mattheus Spewacek
+1762
+Franz Nowodworsky
+----------------
+Johann Benjamin Kanek
+Mattheus Cerny
+1763
+Karl Nowotny
+Johann Adam Giftschütz
+Jacob Homola
+Joseph Benjamin Stastny
+----------------
+1764
+Johann Friedrich Jandik
+Wenzel Cerny
+Adam Holy
+1765
+Mattheus Sedlacek
+Paul Barcal
+1766
+Barthel Welischek
+----------------
+Johann Kotouc
