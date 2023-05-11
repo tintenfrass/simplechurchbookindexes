@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"goapptest/config"
 	"goapptest/search"
+	"strings"
 	"time"
 
 	"github.com/maxence-charriere/go-app/v9/pkg/app"
@@ -16,12 +17,14 @@ func (h *searchComp) OnMount(ctx app.Context) {
 	h.slideValueMin = config.YearMin
 	h.slideValueMax = config.YearMax
 
+	count := 0
 	h.checked = make(map[string]bool)
-	for key, _ := range search.Data.Marriages {
+	for key, val := range search.Data.Marriages {
 		h.checked[key] = true
+		count += len(val.Data)
 	}
 
-	h.debug = fmt.Sprintf("Ladezeit: %v", dur)
+	h.debug = fmt.Sprintf("%v Datensätze geladen in %s", count, dur.Round(time.Millisecond).String())
 }
 
 func (h *searchComp) Render() app.UI {
@@ -35,7 +38,7 @@ func (h *searchComp) Render() app.UI {
 		cb := app.Input().Type("checkbox").Checked(h.checked[k]).OnChange(changeValue).Attr("style", "float:left")
 		cbs[k] = app.Div().Body(
 			cb,
-			app.Label().Text(k).OnClick(changeValue),
+			app.Label().Text(strings.Replace(k, "Dresden", "DD", 1)).OnClick(changeValue),
 			app.Br(),
 			app.Label().Text(search.GetMinMax(k)).OnClick(changeValue),
 		)
@@ -110,6 +113,7 @@ func (h *searchComp) Render() app.UI {
 							app.Td().Body(cbs["Naustadt"]),
 							app.Td().Body(cbs["Constappel"]),
 							app.Td().Body(cbs["Kötzschenbroda"]),
+							app.Td().Body(cbs["Dresden Dreikönigskirche"]),
 						),
 						app.Tr().Body(
 							app.Td(),
@@ -127,7 +131,7 @@ func (h *searchComp) Render() app.UI {
 							app.Td().Body(cbs["Röhrsdorf"]),
 							app.Td().Body(cbs["Weistropp"]),
 							app.Td().Body(cbs["Kaditz"]),
-							app.Td().Body(cbs["Dresden Dreikönigskirche"]),
+							app.Td().Body(cbs["Dresden Sophienkirche"]),
 						),
 						app.Tr().Body(
 							app.Td().Body(cbs["Rothschönberg"]),
@@ -136,7 +140,7 @@ func (h *searchComp) Render() app.UI {
 							app.Td(),
 							app.Td(),
 							app.Td(),
-							app.Td().Body(cbs["Dresden Sophienkirche"]),
+							app.Td().Body(cbs["Dresden Kreuzkirche"]),
 						),
 						app.Tr().Body(
 							app.Td().Body(cbs["Deutschenbora"]),
@@ -188,9 +192,11 @@ func (h *searchComp) Render() app.UI {
 						app.Input().Type("text").Placeholder("Vorname Nachname").AutoFocus(true).OnChange(h.ValueTo(&h.searchValue)).Attr("style", "width: 200px"),
 						app.Text(" "),
 						app.Button().Text("Search").OnClick(h.onClick).Attr("style", "width: 100px"),
+						app.Text(" "),
+						app.Label().Text(h.debug),
 					),
 					app.H3().Body().Text("Hinweise:"),
-					app.Text("Die erfassten Daten enden in der Regel 1750"),
+					app.Text("Die erfassten Daten enden in der Regel ca. 1750"),
 					app.Br(),
 					app.Br(),
 					app.Text("Die Suche erfolgt über den Namen des Bräutigams."),
@@ -229,10 +235,7 @@ func (h *searchComp) Render() app.UI {
 					app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 					app.Br(),
 					app.Br(),
-					app.Label().Text("v1.0 (April 2023)").Attr("style", "font-size:8pt"),
-					app.Br(),
-					app.Br(),
-					app.Label().Text(h.debug),
+					app.Label().Text("v1.1 (Mai 2023)").Attr("style", "font-size:8pt"),
 				),
 				app.Td().Body(app.Textarea().Text(h.result).Attr("readonly", true).Attr("warp", "hard").Attr("cols", 120).Attr("rows", 50)),
 			),
@@ -243,7 +246,8 @@ func (h *searchComp) Render() app.UI {
 func (h *searchComp) onClick(ctx app.Context, e app.Event) {
 	start := time.Now()
 	h.result = search.FindMarriage(h.searchValue, h.slideValueMin, h.slideValueMax, h.checked)
-	h.debug = fmt.Sprintf("Suchzeit: %v", time.Since(start))
+	dur := time.Since(start)
+	h.debug = fmt.Sprintf("Suchzeit: %s", dur.Round(time.Millisecond).String())
 }
 
 func (h *searchComp) all(ctx app.Context, e app.Event) {
