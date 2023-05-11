@@ -27,6 +27,16 @@ func (h *searchComp) OnMount(ctx app.Context) {
 	h.debug = fmt.Sprintf("%v Datensätze geladen in %s", count, dur.Round(time.Millisecond).String())
 }
 
+func replace(input string) (output string) {
+	output = input
+	output = strings.Replace(output, "Dresden", "DD", 1)
+	output = strings.Replace(output, "Böhmische", "Böhm.", 1)
+	output = strings.Replace(output, "Exulantengemeinde", "Exulanten", 1)
+	output = strings.Replace(output, "Meißen", "MEI", 1)
+
+	return
+}
+
 func (h *searchComp) Render() app.UI {
 	//Checkboxes
 	cbs := map[string]app.HTMLDiv{}
@@ -38,7 +48,7 @@ func (h *searchComp) Render() app.UI {
 		cb := app.Input().Type("checkbox").Checked(h.checked[k]).OnChange(changeValue).Attr("style", "float:left")
 		cbs[k] = app.Div().Body(
 			cb,
-			app.Label().Text(strings.Replace(k, "Dresden", "DD", 1)).OnClick(changeValue),
+			app.Label().Text(replace(k)).OnClick(changeValue),
 			app.Br(),
 			app.Label().Text(search.GetMinMax(k)).OnClick(changeValue),
 		)
@@ -231,11 +241,11 @@ func (h *searchComp) Render() app.UI {
 					app.Text("Es gibt auch immer mal wieder Fehler in den Daten, falsch erfasste Namen oder manchmal ist das Jahr um 1 verrutscht, etc."),
 					app.Br(),
 					app.Br(),
-					app.H3().Body().Text("Mehr Informationen zum Projekt: "),
+					app.H3().Body().Text("Mehr Informationen zum Projekt:"),
 					app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 					app.Br(),
-					app.Br(),
-					app.Label().Text("v1.1 (Mai 2023)").Attr("style", "font-size:8pt"),
+					app.H3().Body().Text(" v1.1 (Mai 2023) latest updates:"),
+					app.Label().Text("Trauungen Dresden 1750-1766"),
 				),
 				app.Td().Body(app.Textarea().Text(h.result).Attr("readonly", true).Attr("warp", "hard").Attr("cols", 120).Attr("rows", 50)),
 			),
