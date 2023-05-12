@@ -1,5 +1,5 @@
 Klotzsche (Buch 17)
-Trauungen 1688-1749
+Trauungen 1688-1766
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
@@ -8,9 +8,10 @@ Hinweis:
 Die ersten 6 Trauungen befinden sich fälchlicherweise im Kirchenbuch von Wilschdorf (Buch 149)
 
 
-Erstellt in ca. 0,5 Stunde
+Erstellt in ca. 1 Stunde
 Januar 2023
 Februar 2023
+Mai 2023
 tintenfrass@gmx.de
 
 
@@ -287,3 +288,103 @@ Johann-Georg Kuntzsch
 1749
 Johann-Georg Naumann
 Gottlieb Andrich
+----------------
+1750
+Johann Georg Mehlich
+1751
+Johann Fasoldt
+Christoph Hoffmann
+1752
+Johann Gottfried Kluge
+Johann Georg Mentzel
+Johann Georg Wentzsche
+----------------
+Christoph Händler
+Johann Georg Pommrich
+1753
+Gottfried Reschke
+Johann Georg Just
+Johann Christian Schleitger
+----------------
+Samuel Golde
+1754
+Johann Hildebrand
+Johann Christoph Pählig
+Georg Pietzsch
+----------------
+1755
+Christoph Pommrich
+Johann Friedrich Pählig
+1756
+Johann Jäckel
+Johann Eisold
+Christian Preyer
+----------------
+Christian Döring
+Georg Naumann
+1757
+Martin Jacob
+Johann Pappritz
+Johann Georg Mentzel
+----------------
+Andreas Pommrich
+Johann Georg Becker
+1758
+Johann Eichhorn
+1759
+Gottlieb Hoffmann
+Johann Georg Schütze
+----------------
+Georg Kladitzsch
+Johann Adam Gottfried Eichhorn
+1760
+Georg Thomas
+Johann Georg Jahn
+Johann Christoph Kuntzsche
+----------------
+Johann Andreas Pahle
+Johann Georg Kuntzsche
+Gottlieb Pommrich
+Christoph Kuntzsche
+1761
+Christoph Kuntzsche
+Johann Gottlieb Philp
+----------------
+Christoph Fischer
+Johann Georg Kuntzsche
+Johann Georg Angermann
+Gottlob Lehmann
+Gottfried Winckler
+Johann Christian Kuntzsch
+Johann Georg Schäffer
+----------------
+Johann Gottfried Großmann
+1762
+Gottlieb Zieher
+Johann Georg Fischer
+----------------
+1763
+Christian Schleitzer
+Johann Georg Gommlich
+Georg Pietzsch
+Friedrich Andrich
+Christian Tröncke
+Johann Georg Hahmann
+----------------
+1764
+Gottfried Zöllner
+Gottfried Pommrich
+Gottlob Pommrich
+Christoph Gäbler
+----------------
+Georg Naumann
+1765
+Johann Christian Schleitzer
+Johann Christoph Nietzsche
+Christoph Fischer
+----------------
+Christoph Haichen
+1766
+Christian Schleitzer
+Johann Friedrich Pohle
+----------------

@@ -1,5 +1,5 @@
 Wilschdorf (Buch 149)
-Trauungen 1669-1749
+Trauungen 1669-1775
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
@@ -8,9 +8,10 @@ Hinweis:
 Die ersten 6 Trauungen von 1688-1691 stammen von einem Blatt ganz vorne im Kirchenbuch, welches die Trauungen von Klotzsche enthält und hier falsch eingebunden wurde.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunde
 Januar 2023
 Februar 2023
+Mai 2023
 tintenfrass@gmx.de
 
 
@@ -388,7 +389,137 @@ Leopold? Rohner
 Johann-Gottlieb Gommlich
 Daniel Hoffmann
 ----------------
-Jacob Eichendorf?
+Jacob Eichhoff?
 1749
 Johann-Georg Seydel
 Johann-Georg Pappritz
+----------------
+1750
+Johann Georg Kuntzsch
+Georg Frost
+Gottlieb Albrecht
+1751
+1752
+Martin Schmied
+Christian Pappritz
+Johann Christian Sontag
+----------------
+Samuel Gommlich
+1753
+Samuel Gommlich
+1754
+Christian Frietzsche
+Christian Conrad Voigtlein
+Peter Schlechter
+----------------
+1755
+Johann Georg Trobisch
+Christoph Freund
+Johann Adam Meinert
+1756
+Christian Leberecht Lehmann
+Johann Kurig
+Johann Christoph Süßemilch
+Christian Gottlieb Nöller
+----------------
+1757
+Gottfried Becker
+Johann Georg Gommlich
+Johann Georg Pappritz
+Christian Felßner
+Johann Pappritz
+Christoph Wagner
+Johann Gottfried Reichel
+----------------
+1758
+Johann Christoph Züchner
+Gottlob Werner
+Martin Wagner
+Johann Christian Tröger
+Johann Heinrich Pappritz
+Johann Christian Sontag
+Johann Georg Leuschner
+----------------
+Christoph Kuntzsch
+Christian Winckler
+Georg Pappritz
+1759
+Martin Leuschner
+Georg Gäbler
+----------------
+1760
+Johann Georg Vogel
+Johann Georg Trepte
+Johann Georg Naumann
+- Meißner
+1761
+Gottfried Mentzel
+----------------
+Christoph Wagner
+Ernst Ferdinand Trobisch
+1762
+Johann Georg Trepte
+Johann Gottfried Müller
+Samuel Mehlich
+Martin Günther
+Johann Georg Gommlich
+----------------
+Christian Winckler
+1763
+Johann Georg Leuschner
+Christian Fischer
+Valentin Vetter
+1764
+Johann Christian Trepte
+Christian Würgau
+----------------
+Georg Wilhelm Illing
+Johann Gottfried Müller
+1765
+Christian Dreßler
+Christian Abraham Manick
+----------------
+1766
+Johann Georg Nietzsche
+Johann Friedrich Zichner
+Johann Georg Seidel
+Johann Christian Mentzel
+1767
+Johann Heinrich Schnabel
+Johann Georg Tietze
+----------------
+Samuel Tietze
+Johann Georg Naumann
+1768
+Johann Georg Pappritz
+Johann Gottfried Adam
+Johann Georg Zumpe
+Johann Gottfried Adam
+----------------
+Johann Georg Marks
+1769
+Johann Georg Rarisch
+Christian Schmiedchen
+Johann Gottfried Sickert
+----------------
+Johann Gottfried Rüdiger
+Georg Süßemilch
+1770
+Johann Georg Klemann
+1771
+Johann Gottlob Treppte
+----------------
+1772
+Johann Georg Tietze
+1773
+Johann Georg Aehlich
+Johann Gottlob Gubisch
+1774
+Johann Gottlob Burger
+----------------
+Johann Gottfried Kind
+Samuel Schiefner
+Johann Georg Kuntzsch
+1775
+Christoph Türcke
+Johann Georg Pappritz
