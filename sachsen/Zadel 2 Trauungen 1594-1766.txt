@@ -1,5 +1,5 @@
 Zadel (Buch 2)
-Trauungen 1594-1749
+Trauungen 1594-1766
 
 Das ist ein Index der Trauungen.
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
@@ -7,9 +7,10 @@ Zusätzlich sind nicht alle Namen klar lesbar.
 Es gibt ein Register zum Kirchenbuch, welches hier aber nicht verwendet wurde.
 
 
-Erstellt in ca. 4,5 Stunden
+Erstellt in ca. 5 Stunden
 Januar 2023
 Februar 2023
+Mai 2023
 tintenfrass@gmx.de
 
 
@@ -1198,7 +1199,140 @@ Johann-Georg? Irmer
 ? Zigmark?
 ? Wustlig?
 Martin Rüdiger
-Johann-Georg Funcke
+Johann-Georg Fincke
 ----------------
 Gottfried Naundorf
-? Koch
+Johann Georg Koch
+1750
+? Gebhard
+? Große
+Johann Adam Müller
+Andreas Hermann
+Johann Christoph Münch
+Gottlieb Große
+Christian Schimmer
+1751
+Gottfried Naundorf
+----------------
+Johann Georg Geißler
+Gottfried Geißler
+Adam Fincke
+Peter Keil
+Georg Harter
+Christian Jencker
+1752
+Johann Paul Keßel
+Donat Fincke
+Stephan Baumann
+1753
+Johann Christoph Drescher
+Johann Georg Rühle
+----------------
+Johann Christoph Hoyer
+Hans Widemann
+Johann Georg Puff
+Michael Liebezeit
+Hans Kluncker
+1754
+Johann Gottfried Fincke
+Gottfried Lehmann
+Johann Georg Huhn
+Hans Schmidt
+1755
+Gottfried Reuße
+Hans Knoll
+Johann Adam Zocher
+----------------
+Christian Zocher
+Hans Erich
+Friedrich August Große
+Johann Adam Legler
+1756
+Johann Georg Tietze
+Christian Zencker
+Johann Georg Weißhar
+Johann Adam Zocher
+Gottfried Schumann
+Christoph Stephan
+1757
+Wilhelm Frietzsche
+----------------
+Johann Adam Sernitz
+Johann Kießlich
+1758
+Johann Christoph Golde
+August Görne
+Johann Gottfried Theqvart
+Johann Christian Kretzschmer
+Christian Ruderich
+Gottlieb Rothe
+Christoph Fechner
+Christian Hermann
+Marcus Diergen
+Johann Adam Frietzsche
+----------------
+Johann Adam Beulich
+1759
+Adam Krocke
+Christian Schiffler
+Johann Gottfried Leischner
+Christian Scheider
+Johann Christoph Beulich
+1760
+Martin Droschütz
+Georg Harter
+Gottlieb Schubert
+1761
+Gottfried Kretzschmer
+Johann Christian Hahnefeld
+----------------
+Martin Laue
+Johann Christian Zieger
+Johann Georg Lasche
+Christian Kluncker
+Johann Adam Hermann
+1762
+Johann Georg Zocher
+Johann Adam Lehmann
+Johann Georg Kluncker
+Johann Georg Schultz
+Johann Heintze
+Christian Lehmann
+----------------
+Christian Beger
+1763
+Johann Gottfried Fincke
+Johann Christoph Döring
+Johann Gottlieb Schurig
+Gottlieb Graf
+Gottfried Adolph Michaelis
+Johann August Saalbach
+Johann David Römisch
+Christian Haaße
+1764
+Donat Fichtner
+----------------
+Gottfried Fischer
+Gottlieb Hoepner
+Adam Robuß
+Johann Fincke
+Gottfried Merisch
+Johann Leuteritz
+Gottfried Stephan
+Johann Georg Soernitz
+1765
+Johann Gottfried Zocher
+Gottlob Thümich
+----------------
+Peter Riehle
+Johann Gottlieb Ephraim Rühle
+Christian Gottlieb Epner
+Johann Heinrich Saalbach
+Christian Fobsch
+Johann Gottlieb Fincke
+Adam Kluncker
+1766
+Johann Gottfried Riehle
+Hans Georg Schneider
+Christian Kohlmann
+----------------
