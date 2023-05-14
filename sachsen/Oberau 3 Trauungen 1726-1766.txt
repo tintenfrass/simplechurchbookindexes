@@ -1,12 +1,16 @@
 Oberau (Buch 3)
-Trauungen 1726-1749
+Trauungen 1726-1766
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
+
+Erstellt in ca. 1 Stunde
 Februar 2023
+Mai 2023
 tintenfrass@gmx.de
+
 
 
 1726
@@ -148,3 +152,98 @@ Martin Rüdiger
 Martin Zscheile
 ----------------
 Hans Seiffert
+1750
+Martin Richter
+Marcus Bärwald
+Johann Christian Schubert
+Johann Georg Rolle
+Georg Rüdiger
+----------------
+Johann Förster
+1751
+Marcus Grimmer
+Johann Georg Schlager
+Johann Georg Rolle
+Christian Gottlob Marbach
+1752
+Johann Röger
+----------------
+Gottlieb Bachmann
+Johann Friedrich Poleschky
+Friedrich Gottlob Stockmann
+Christian Rühle
+Michael Rühle
+1753
+Christian Böger
+----------------
+Christian Rostig
+Georg Rühle
+Gottfried Altmann
+Gottlob Kütner
+Christian Giertschel
+1754
+Christian Gottlob Bachmann
+David Haußmann
+1755
+Michael Starcke
+----------------
+Hans Haase
+Martin Köhler
+Gottlieb Hoger
+1756
+Johann Steltzner
+Christian Hermann
+Christian Sohr
+1757
+Christian Schramm
+Samuel Schneider
+1758
+Martin Mehnert
+Johann Born
+Christian Gottlieb Hofart
+Martin Wendisch
+----------------
+1759
+Johann Bärwald
+Michael Förster
+Johann Gottfried Thierigen
+Christian Born
+Christian Schramme
+Gottfried Estner?
+Samuel Grille
+1760
+Johann Gottlob Richter
+Gottfried Kost
+Johann Gottfried Gründel
+Michael Münch
+Christian Milde
+----------------
+1761
+Johann Georg Reiche
+Johann Michael Wilsdorf
+Johann Möser
+1762
+Hans Georg Bär
+1763
+Johann Georg Beulich
+Adam Hoyer
+Johann Georg Haufe
+Martin Bärwald
+----------------
+Christian Möser
+1764
+Christian Grille
+Johann Georg Stephan
+Samuel Opitz
+Johann Friedrich Ringel
+Johann Georg Marx
+Johann Georg Rühle
+----------------
+1765
+Johann Michael Meltzer
+Gottlob Süße
+Ernst Haubold Miltitz
+1766
+Adolph Andreas Geudner
+Thomas Mitschke
+----------------

@@ -1,13 +1,14 @@
 Niederau (Buch 2)
-Trauungen 1626-1749
+Trauungen 1626-1785
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 2 Stunden
+Erstellt in ca. 2,5 Stunden
 Januar 2023
 Februar 2023
+Mai 2023
 tintenfrass@gmx.de
 
 
@@ -306,24 +307,24 @@ Hans Drache
 Georg Holfeld?
 1680
 Egidius Riel
- Hans Braßer?
- Hans Ülschner
- Paul Marx
- Hans Große
- 1681
- Michael Möhnert
- Georg Marx
- Georg Mönch
- Peter Tzschörner
- Martin Ülschner
- Martin Mehnert
- 1682
- Hans Riel
- Andreas Rüdiger
- Martin Schumann
- 1683
- Hans Petzsch
- Paul Nauman
+Hans Braßer?
+Hans Ülschner
+Paul Marx
+Hans Große
+1681
+Michael Möhnert
+Georg Marx
+Georg Mönch
+Peter Tzschörner
+Martin Ülschner
+Martin Mehnert
+1682
+Hans Riel
+Andreas Rüdiger
+Martin Schumann
+1683
+Hans Petzsch
+Paul Nauman
 ----------------
 1684
 Martin Schneider
@@ -740,3 +741,211 @@ Johann Riehle
 Samuel Pietzsch
 Johann-Friedrich Schmidt
 Martin Zscheile
+1750
+Jacob Adam
+Christoph Räbisch
+Christian Rabisch
+Egidius Mößer
+Adam Fuchß
+Martin Gude
+1751
+Johann Georg Rothe
+Johann Naumann
+Johann Richter
+Johann Schramme
+----------------
+Gottfried August Schmidt
+Christian Marx
+Samuel Grille
+1752
+Johann Marx
+Adam Obenauß
+Johann Marx
+Johann Haufe
+Christian Gottfried Sachse
+Georg Kuntze
+Johann Adam Voigt
+1753
+Johann Samuel Münich
+Johann Benjamin Bog
+Johann Georg Creutze
+----------------
+Gottlob Küttner
+Martin Thalheim
+1754
+Johann Sehniß
+Christian Burckhart
+Samuel Kuntze
+Adam Marx
+1755
+Johann Gude
+Johann Mößer
+Johann Gottlieb Hoyer
+1756
+Johann Adam Kodisch
+Martin Haase
+1757
+Johann Adolph Schmidt
+Samuel Schneider
+Christian Schramme
+----------------
+1758
+Christian Gottlieb Hoffarth
+Johann Georg Kuntze
+Johann Hermann
+Johann Martin Hänsel
+1759
+Martin Grünberg
+Christian Bergmann
+Johann Benjamin Schreiber
+Christian Fichtner
+Christian Kuntze
+Christian Zscheile
+Samuel Grille
+1760
+Christian Marx
+Gottlob Lindner
+Gottlob Tchieme
+Christian Benjamin Mayla?
+Gottfried Mößer
+Gottfried Schultz
+----------------
+Johann Mayer
+Johann Milde
+Christian Bahrmann
+Christian Milde
+1761
+Johann Georg Eymert
+Johann Michael Wilsdorf
+Samuel Schneider
+Christian Kuntze
+Georg Schlechte
+Johann Naumann
+Samuel  Zscheyle
+Christian Mirisch
+Johann Schlechte
+Johann Gottfried Grille
+Samuel Kuntze
+1762
+Johann Hermann
+Johann Christian Hänßgen
+Christoph Kirsten
+----------------
+Johann Dürchen
+1763
+Martin Züchner
+Johann Adam Gründel
+Johann Christoph Schiffner
+Johann Seiffert
+Christian Rotsch
+Johann Schramme
+Martin Bahrmann
+Johann Adam Riehle
+1764
+Christian Grille
+Andreas Zabel
+Johann Georg Stephan
+Christian Mohn
+Johann Moßer
+1765
+Gottfried Schade
+Martin Marx
+----------------
+Gottfried Mößer
+Ernst Haubold Miltitz
+Gotthold Lebrecht Krebel
+Martin Marx
+Johann Peschel
+1766
+Johann Gottfried Glüntzel
+Johann Siegmund Schmidt
+1767
+Johann Michael Dürchen
+Johann Christian Riehle
+Friedrich Wilhelm Günther
+Johann Georg Rosburg
+Martin Mohn
+1768
+Christian Ruhland
+----------------
+Johann Grille
+Christian Behrisch
+Johann Georg Meißner
+Gottlob Lindner
+Christian Schumann
+Johann Gottfried Glüntzel
+1769
+Johann Leuteritz
+Christian Richter
+Johann Christoph Gruhl
+Johann Adam Marens
+----------------
+1770
+Johann Christian Sachse
+Georg Borsdorf
+Christian Schade
+Johann Drache
+Christian Thürigen
+1771
+Johann Adam Tutz
+1772
+Christian Schumann
+Johann Gottfried Sperling
+1773
+Johann Christian Drache
+Christian Rühle
+1774
+Johann Gottfried Taggeselle
+Martin Rühle
+Gottlob Hirscheitz
+1775
+Johann Gottlob Schumann
+1776
+Johann Gottfried Ditrich
+Johann Georg Schumann
+Johann Gottlieb Grimmer
+1777
+Hans Krüger
+----------------
+Johann Georg Schöne
+Johann Gottlob Vetter
+1778
+Christian Friedrich Marbach
+Gottfried Hermann
+Martin Bäßler
+Gottfried Rentsch
+x
+1779
+Christian Adam
+Samuel Vogel
+Johann Gottfried Schlechte
+Samuel Bonikau
+Johann Gottfried Grimmer
+Gottfried Hoyer
+1780
+Gottlob Laux
+Gottfried Naumann
+Christian Kürsten
+----------------
+1781
+Hans Bäßler
+Johann Gottfried Kokisch
+1782
+Gottlob Schumann
+Johann Christian Hoyer
+Johann Gottlieb Bottig
+1783
+Martin Richter
+Johann Georg Drache
+Christian Niese
+Christian Rühle
+Christoph Meyer
+Johann Gottfried Mirus
+1784
+Martin Drache
+Daniel Sohre
+Johann Georg Marx
+Johann Gottlieb Wolf
+Johann Gottfried Mohn
+1785
+Samuel Schramm
