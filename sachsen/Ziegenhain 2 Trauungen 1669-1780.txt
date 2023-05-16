@@ -1,5 +1,5 @@
 Ziegenhain (Buch 2)
-Trauungen 1669-1749
+Trauungen 1669-1780
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
@@ -7,9 +7,10 @@ Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
-Erstellt in ca. 1,5h
+Erstellt in ca. 2h
 Juni 2022
 Februar 2023
+Mai 2023
 tintenfrass@gmx.de
 
 
@@ -480,3 +481,187 @@ Gottlieb Keil
 Gottlieb Tzschoche
 Georg Jäger
 Johann-Georg Schreber
+1750
+Hans Hartz
+Johann Gottlieb Schreber
+Johann Georg Schütze
+----------------
+1751
+Martin Cleber
+Johann Georg Saupe
+Martin Barth
+1752
+Johann Rau?
+Christian Kretzschmer
+Martin Pincker
+Carl Gottlob Riedel
+Gottfried Steude
+Gottfried Kühne
+----------------
+Johann Georg Götze
+Hans Eulitz
+1753
+Johann Christian Lehmann
+Johann Peter Lehmann
+Johann Christian Schultz
+Johann Gottlieb Heynitz
+Gottlieb Münch
+Gottfried Burckhart
+1754
+Martin Schneider
+Georg Wachs
+Gottlieb Tännich
+Johann Christian Wachs
+----------------
+Johann Georg Gappisch
+Johann Eltern
+1755
+Gottfried Kleber
+Johann Christian Philipp
+Andreas Winckler
+Johann Christoph Kuntze
+Johann Gottlieb Metzelt
+1756
+Adam Eichler
+1757
+Johann Gottfried Beger
+Johann Gottfried Uhlmann
+Martin Opitz
+Gottfried Flegel
+1758
+Johann Georg Zschoche
+Johann Caspar Straube
+Johann Georg Schmidt
+----------------
+Peter Zabel
+1759
+Herman Oehmigen
+Christian Gottlob Kaiser
+1760
+Gottfried Schreiber
+Samuel Schumann
+Johann Christian Zieger
+Johann Georg Gühne
+Herman Oehmgen
+Christian Philipp
+1761
+Samuel Burckhart
+Georg Tutzsche
+August Paul
+Gottlieb Döring
+Johann Gottlob Hänselbart
+Johann Gottfried Beger
+Johann Christian Steude
+Gottlieb Gießmann
+----------------
+1762
+Johann Georg Burisch
+Andreas Roßberg
+Johann Georg Ziegenfuß
+Johann Georg Haubold
+Johann Zacharias Fleischhauer
+Johann Gottlieb Hoffmann
+Gottlieb Groll
+1763
+Johann Gotthelf Lorentz
+Christian Gottlob Wackwitz
+Johann Gottlob Hahn
+Johann Friedrich Steude
+Peter Steude
+1764
+Johann Gottfried Körnich
+Johann Gottlob Goltzsch
+----------------
+Michael Küntzsche
+Johann Gottfried Sorge
+Gottfried Richter
+Johann Gottlieb Wolf
+1765
+Johann Georg Gottfried? Lehnhardt
+Johann Gottlieb Schultz
+Johann Christian Fischer
+Johann Christian Steude
+1766
+Johann Georg Theopold
+Johann Gottlieb Steude
+Johann Friedrich Geißler
+Gottlieb Hebestreit
+1767
+----------------
+1768
+Johann Gottlob Steude
+Johann Georg Bayrich
+Johann Jacob Kahle
+Johann Andreas Lehmann
+1769
+Johann Golde
+Johann Michael Galle
+Carl Friedrich Ditrich
+Johann Gottlob Kurth
+Johann Gottlieb Nößig
+Johann Gottlieb Kirstein
+Gottlieb Naumann
+1770
+Johann Gottfried Schreiber
+Johann Michael Golde
+----------------
+Johann Gottlob Funcke
+1771
+Johann Christoph Hahmann
+Johann Gottlob Köhler
+Gottfried Rost
+Johann Georg Seiffert
+Johann Gottfried Kunerth
+1772
+Samuel Schütze
+Johann Gottlob Große
+Johann Michael Roßberg
+1773
+Johann Golde
+Christoph Friedrich Niederführer
+Johann Edmund Steude
+----------------
+Christian Gottfried Wackwitz
+1774
+Gottfried Gühne
+Johann Georg Findeisen
+Johann Georg Haide
+1775
+Johann Martin Ackisch
+Johann Adam Wolcke
+Johann Gottfried Thielemann
+Gottlob Wackwitz
+----------------
+1776
+Gottfried Balitz
+Johann Georg Hoffmann
+Johann Christian Lehmann
+Gottfried Ditrich
+Martin Solck
+Gottlieb Benedic
+Christian Zimmermann
+Johann Gottlieb Lommatzsch
+Johann Gottlob Börner
+----------------
+1777
+Johann Gottfried Frietzsche
+Johann Georg Donat
+Carl Christian Lommatzsch
+Johann Gottfried Jahn
+Gottfried Bräuer
+1778
+Johann Gottlob Ebert
+Johann Christian Steude
+1779
+Johann Gottfried Fischer
+Johann Christian Luge
+Johann Golde
+Johann Gottlieb Reinhart
+----------------
+Johann Leberecht Schohr
+Johann Gottfried Jorck
+Gottlob Schnee
+1780
+Johann Christian Blümig
+Johann Gottlieb Stab
+Johann Gottlieb Thielemann
