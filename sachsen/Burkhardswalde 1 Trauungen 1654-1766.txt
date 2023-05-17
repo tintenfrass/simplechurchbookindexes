@@ -1,5 +1,5 @@
 Burkhardswalde (Buch 1)
-Trauungen 1655-1749
+Trauungen 1655-1766
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
@@ -8,9 +8,10 @@ Hinweis:
 Im Kirchenbuch selber gibt es ein alphabetisches Register, welches für diesen Index aber nicht verwendet wurde.
 
 
-Erstellt in ca. 2 Stunden
+Erstellt in ca. 2,5 Stunden
 Juni 2022
 Februar 2023
+Mai 2023
 tintenfrass@gmx.de
 
 
@@ -654,3 +655,148 @@ Gottlieb Dimmel
 Johann-Friedrich Rum
 Christian Weißbach
 Gottfried Opitz
+1750
+Johann Gottfried Zschoche
+Christian Leckschede
+Johann Christian Frige
+----------------
+Johann Georg Zöschel?
+Johann Gottfried Burckhart
+Gottlieb Hede
+Gottfried Gebhardt
+Johann Schmidt
+Johann Michael Stange?
+1751
+Gottlob Keilhau
+Johann Gottfried Berger
+Johann Schlechte
+Gottlob Friedland ?
+Georg Schultz
+Christian Fichtner
+Christian Friedrich Pantzner?
+Johann Gottlob Rüche?
+Johann Michael Zscherper
+Gottfried Wachs
+1752
+Johann Christian Winckler
+Peter Winckler
+Johann Christian Schicketanz
+Johann Michael Adam
+1753
+Christian Schubert
+?
+----------------
+August Ditrich
+1754
+Gottlieb Giell?
+Gottfried Lippert
+Johann Gottlieb Wachs
+Jacob Wend
+?
+1755
+Johann Gottlieb Lippert
+Johann Gottlieb Zimmermann
+Gottfried Schanze
+Johann Christian Berg
+Johann Christian Schubert
+Johann Georg Starcke
+1756
+Gottlob Kühn
+Michael Gottlieb Glöckner
+Gottfried Becker
+1757
+Christian Kuntze
+Johann Gottfried Helbig
+Christian Meltzer
+1758
+Johann Schlechte
+Gottlieb Wittich
+Gottfried Grauße
+Johann Junghans
+Johann Gottfried Günther
+Donat Spressig?
+Gottfried Hoier
+----------------
+1759
+Johann Georg Schuberth
+Jacob Döring
+Johann Jacob Löwe
+Gotthelf Ditrich
+Johann Gottlieb Jänichen
+Gottfried Leuschner
+Gottlieb Dietze
+Johann Gottlob Barth
+Gottlob Dietze
+Daniel Reinhold
+Gottfried Grellmann
+1760
+?
+Johann Dittrich Wilhelm Schmidt?
+Martin Roßberg
+Johann Caspar Thieme
+Gottlieb Donat
+Christian Brendel
+Christoph Starcke?
+Johann Schmiedgen
+Georg Schmiedgen
+1761
+Johann Georg Leonhardt
+Johann Ditrich
+Johann Friedrich Rümler
+----------------
+Gottlieb Ranft
+Johann Gottlob Röder
+Johann Ernst Jacob Fercke
+Johann Gottfried Rabe
+Johann Georg Galle
+Gottfried Holm
+Gottfried Lippert
+1762
+Hans Michael Gebhardt
+Gottlieb Heede
+Gottfried Rost
+Johann Küchenmeister
+Gottfried Grellmann
+Johann Gottlob Lomtsch
+1763
+Johann Ermer
+Michael Philipp
+Johann Lauwe
+Gottfried Schuberth
+Johann Georg Starcke
+Georg Häbler
+Gottlob Börner?
+Samuel Flößner
+Johann Gottfried Schumann
+Johann Michael Schubert
+Peter Lomtisch
+Johann Georg Döring
+Johann Gottfried Leuschner
+1764
+Ephraim Rühle
+Johann Gottfried Begner?
+----------------
+Johann Georg Petermann
+Johann Gottfried Schneider
+Johann Gottfried Leonhardt
+Johann Christoph Küchenmeister
+Johann Gottlieb Döring
+Samuel Fischer
+Johann Gottfried Wiedemann
+Johann Georg Braune?
+Johann Gottlieb Stange
+1765
+Christoph Gottfried Große
+Benjamin Winckler
+Gottlob Lippert
+1766
+Johann Georg Löbner
+Johann Friedrich Rammler
+Johann Gottfried Steltzer
+Johann Michael Kippe
+Gottlieb Weber
+Christian August Clamor Bursche
+Johann Georg Geißler
+----------------
+Gottfried Schubert
+Johann Christian Hubler
