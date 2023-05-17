@@ -1,12 +1,13 @@
 Wendischbora (Buch 2)
-Trauungen 1707-1749
+Trauungen 1707-1766
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5h
+Erstellt in ca. 1h
 Februar 2023
+Mai 2023
 tintenfrass@gmx.de
 
 
@@ -191,3 +192,101 @@ Hans-Georg Klappach
 Daniel Vischer?
 Christian Wentzel
 Gottlob Geißler
+1750
+Hans Adam Schöne
+Johann Christoph Haupt
+Michael Benisch
+Hans Andreas Sterl
+Michael Spieß
+1751
+Johann Pötzsch
+Johann Wagner
+Gottlob Mühlberg
+1752
+Johann Friedrich Neunhöfer
+Johann Gottfried Hooche
+Peter Schultze
+----------------
+1753
+Christoph Erdmann Frümel
+Johann Christoph Zweyniger
+Johann Georg Krieger
+Johann Gottlob Stolpe
+Johann Christoph Leischner
+Johann Georg Vetter
+1754
+Johann Christoph Tzschetwitz
+Johann Gottlieb Hennig
+Johann Gottfried Flegel
+Johann Gottfried Siegmund Raackwitz
+1755
+Johann Gottlob Pötzsch
+1756
+Gottfried Lehmann
+1757
+Wolfgang Güldner
+Johann Gottlob Hemrich
+1758
+Johann Christian Imhoff
+Michael Leckscheide
+Heinrich Zwöckner
+Samuel Peickert
+Kilian Gottlieb Schmidt
+----------------
+1759
+Johann Michael Winckler
+Ernst Gottlob Schirmer
+Johann Gottlob Barth
+1760
+Johann Michael Horn
+Johann Georg Bäßler
+Johann Adam Wagner
+Gottfried Schreiber
+Johann Gotthelf Voigt
+1761
+Balthasar Schultz
+Johann Gottfried Jäler
+Johann Christoph Bentzsch
+Friedrich Batcke
+----------------
+Johann Heinrich Schubert
+Christoph Fabian
+Michael Seculi
+Caspar Materne
+Daniel Jurcka
+Franz Bauer
+Johann Peter Lunge
+Anton Proscheeck
+Johann Gottfried Kellert?
+Johann Gottlieb Haase
+----------------
+Johann Seidel
+1762
+Johann Conrad Lotus
+Hoberdus Ackß?
+Mattheus Wunschüdes
+Johann Rost
+Christian Große
+Sebastian Sax
+- Vogel
+Johann Georg Lommatzsch
+Gottfried Praußi
+Johann Paul Barth
+Johann Gottfried Streller
+Paul Günther
+Johann Georg Schubert
+----------------
+1763
+Johann Gottfried Barth
+Gottlob Marcus
+Johann Georg Paul
+1764
+1765
+Christian Borsdorf
+Johann Adam Curth
+Johann Gottlieb Stein
+Johann Gottlieb Haubold
+1766
+Johann Gottfried Begen
+Johann Christoph Curth
+----------------

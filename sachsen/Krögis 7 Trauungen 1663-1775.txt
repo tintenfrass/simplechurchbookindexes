@@ -1,5 +1,5 @@
 Krögis (Buch 7)
-Trauungen 1663-1749
+Trauungen 1663-1775
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
@@ -7,10 +7,11 @@ Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
-Erstellt in ca. 3 Stunde
+Erstellt in ca. 4 Stunde
 Juni 2022
 Januar 2023
 Februar 2023
+Mai 2023
 tintenfrass@gmx.de
 
 
@@ -885,3 +886,310 @@ Johann-Christian Haupt
 Johann Roßberg
 Gottfried Rüderich
 Gottlieb Hartzbecker
+----------------
+1750
+Gabriel Günther
+Christian Gottlieb Kirsch
+Johann Georg Schumann
+1751
+Johann Georg Räderich
+Andreas Zschoche
+Gottfried Hoffmann
+Gottlieb Schützel
+Peter Jäger
+----------------
+Johann Christoph Freudenstein
+Johann Georg Kuntze
+x
+Johann Christoph Grübler
+Christoph Petzsch
+Gottfried Kirsten
+Jacob Lützner
+Johann Kopsch
+----------------
+1752
+Johann Christoph Backofen
+Johann Georg Schneider
+Johann Christian Stieber
+Johann Christian Grötzsch
+Peter Pincker
+Christoph Hosang
+Johann Christoph Zschoche
+Johann Friedrich Lücke
+----------------
+Johann Michael Taschenberger
+Gotthelf Zschoche
+1753
+Johann Christoph Kirsten
+Johann Moritz
+Friedrich Adolph Lindner
+Johann Georg Götze
+----------------
+Christian Heynitz
+Johann Paul Heynitz
+Johann Georg Marx
+Johann Gottlieb Clauß
+Gottlieb Voigt
+Martin Sachse
+Christian Müller
+----------------
+1754
+Gottlieb Clauß
+Johann Gottfried Eiditz?
+Christoph Heyde
+Johann Gottfried Schuster
+Wolf Neydhard
+Georg Hahn
+Gottlieb Guck
+Johann Georg Lützner
+Johann Georg Lehmann
+Mattheus Eisener
+----------------
+1755
+Andreas Starcke
+Johann Gottfried Görne
+Johann Martin Horn
+Johann Georg Breyting
+Christoph Weber
+Johann Witzner?
+Gottfried Schantze
+Gottfried Greif
+Johann Georg Starcke
+----------------
+1756
+Gottfried Funcke
+Gottlob Gühne
+Johann Christoph Kaden
+Michael Winckler
+Johann Christian Schuster
+1757
+Johann Rost
+Gottlob Kühne
+Johann Georg Rost
+Hans Ziller
+Christian Funcke
+Johann Georg Voigt
+Gottlieb Dietze
+----------------
+1758
+Gottfried Burckhart
+Gottlieb Weber
+Johann Christoph Weigolt
+Gottfried Moritz
+Johann Georg Rüderig
+Gottlieb Lommatzsch
+Gottlob Heinrich Hermann
+Johann Friedrich Gregor Lehmann
+Martin Löwe
+Gottlob Spieß
+Johann Gottfried Steyer
+Johann Christian Görne
+Georg Hoffmann
+Gottfried Albrecht
+----------------
+Joseph Petsch
+Georg Pegen
+Johann Gottfried Schultz
+Johann Gottfried Müller
+Hans Röber
+Johann Georg Schneider
+Johann Gottlieb Kolbe
+Johann Georg Jahn
+1759
+Johann Gottlob Helmig
+Johann Gottlob Säurig
+Heinrich Gottlob Schumann
+Gottfried Zschoche
+Johann Gotthelf Süße
+Gottlieb Heyde
+Georg Küttner
+Christian Röder
+----------------
+1760
+Christian Wilsdorf
+Friedrich Beßel
+Joseph Wiedmann
+Michael Hawer
+Martin Lehmann
+Gottlieb Salisch
+Christian Kretzsch
+Mattheus Bialeck
+Francois Bart
+Johann Gottfried Kirsten
+Johann Gottlob Spieß
+Johann Christoph Grübler
+Johann Georg Grönert
+Gottlieb Nagel
+Peter Kohl
+1761
+Johann Georg Steude
+Sebastian Lieglmeyer
+Johann Adolph Heydemann
+Michael Hotto
+Saveila Krasna
+Johann Katha
+Michael Gallinat
+Wolfgang Klier
+Johann Blaneck
+Gottfried Junghans
+Gottlob Geißler
+Johann Krebo
+Michael Burchard
+Johann Gaebel
+Wilhelm Braun
+Gottlob Burckhart
+----------------
+Ernst Gottlieb Eckhold
+Gottfried Nagel
+1762
+Johann Gottfried Kirstein
+Gottfried Gorcks
+Johann Christoph Günther
+Johann Bühne
+Hans Wolf Lehmann
+Gottlob Clauß
+Gottlob Stumpf
+Johann Gottlob Clauß
+Johann Gottfried Grumfort
+Christoph Loßner
+Gottfried Müller
+Gottlieb Philipp
+Martin Röber
+1763
+Georg Starcke
+Johann Michael Schönert
+Johann Christian Kaden
+Christian Heinrich Loose
+Johann Schnee
+----------------
+Peter Leßner
+Gottlieb Hahnefeld
+Johann Kirstein
+Gottlob Funcke
+1764
+Christoph Weber
+Michael Wehnert
+Johann Michael Köhler
+Philip Sänger
+Ernst Heinrich Schergel
+Friedrich Schlechte
+Christian Naumann
+Johann Gottlieb Zschoche
+Christoph König
+Gottlieb Kirchbach
+Johann Georg Hoche
+Christlieb Bautzmann
+----------------
+1765
+Johann Gottlob Schubert
+Johann Georg Praße
+Johann Gottlob Hermann
+Johann Georg Schultz
+Johann Christian Meyer
+Johann Christian Horn
+Peter Steude
+1766
+Gottlob Praße
+Johann Gottlob Appel
+Johann Heinrich Kirbach
+Johann Christian Reiche
+Gottlieb Petsch
+Christian Holtze
+Johann Georg Albrecht
+Johann Georg Hartz
+----------------
+Johann Christoph Grübler
+August Andreas
+1767
+Johann Gottlob Mirisch
+Gottlob Egler
+Johann August Elsaßer
+Johann Christoph Wähner
+Johann Georg Curth
+Johann Benjamin Jäger
+Johann Christian Rost
+Johann Georg Haßbecher
+Johann Georg Richter
+1768
+Johann Christoph Heyde
+Christian Clauß
+Gottlieb Lohse
+Gottlieb Müller
+----------------
+Johann Georg Hahnefeld
+Johann Gotthelf Herrfarth
+Johann Gottlieb Bühne
+Johann Martin Starcke
+Johann Haymann
+Christoph Seyfert
+Samuel Fuchs
+Gottlieb Starcke
+Christian Gottlob Richter
+Gottlieb Roßberg
+Gottlieb Hänsel
+Johann Christoph Weber
+1769
+Gottlieb Gühne
+Johann Gottfried Grübler
+Christian Lohse
+Johann Gottlieb Fischer
+Christoph Knobloch
+1770
+Gottfried Roßberg
+Gotthelf Horne
+Johann Gottfried Hennig
+Johann Gottfried Pegen
+----------------
+Johann Paul Lehmann
+Johann Georg Oehmigen
+Gottfried Kirchner
+Johann Martin Hager
+Christian Richter
+1771
+Johann Gottlieb Vendt
+Gottfried Mehner
+Carl Gottlieb Starcke
+Johann Andreas Junghans
+Johann Gottfried Zschochej Schubert
+1772
+Gottlob Funcke
+Gottfried Sturm
+Johann August Porthien
+Gotthelf Rost
+Gottlieb Kelcker
+Johann Gottfried Eulitz
+----------------
+1773
+Christoph Heinrich Keßler
+Gottlieb Schnee
+Johann Gottfried Löwe
+Christoph Erfarth
+Johann Gottlieb Blatte
+Gottfried Schumann
+Gottfried Hahmann
+Johann Christian Ludwig
+1774
+Johann Christian Ebert
+Johann Oemichen
+Georg Döring
+Gottlob Funcke
+Johann Florian Babert
+Johann Gottlieb Mühlberg
+Johann Gottlieb Schlicke
+Gottlieb Hahnefeld
+Johann Gottfried Starcke
+Johann Gottlob Lantzsch
+Johann Gottlieb Oemichen
+Gottlieb Funcke
+Johann Gottlob Oehme
+----------------
+1775
+Johann Gottlob Henckler
+Gottfried Schultz
+Johann Gottlob Klemm
+Johann Martin Naumann
+Johann Christian Huhn
+Johann Gottfried Junghans
+Johann August Jehnert
+Johann Georg Schubert
+Johann Michael Paul

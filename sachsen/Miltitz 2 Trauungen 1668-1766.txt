@@ -1,13 +1,14 @@
 Miltitz (Buch 2)
-Trauungen 1668-1752
+Trauungen 1668-1766
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Juni 2022
+Mai 2023
 tintenfrass@gmx.de
 
 
@@ -297,14 +298,14 @@ Jacob Lommatzsch
 1732
 Georg Fichtner
 Peter Steltzer
-733
+1733
 Thomas Lutze
 1734
 Andreas Hoyer
 Peter Naumann
 Gottlieb Wackwitz
 Johann Hauptmann
-735
+1735
 Caspar Wolf
 ----------------
 Gottlob Köhler
@@ -407,3 +408,96 @@ Christian Winckler
 1752
 Daniel Schöne
 Johann-Georg Kühnschner
+----------------
+...
+----------------
+1753
+Hans Georg Ranft
+Michael Heinrich
+1754
+Gottlieb Arnhold
+Johann Heinrich Schnerr
+----------------
+1755
+Gottlob Leberecht Heynitz
+Johann Gottlieb Kohl
+Johann Gottlieb Schlimpert
+Christoph Weber
+Johann Georg Kleemann
+1756
+1757
+Johann Gottfried Haubold
+Gottlob Weber
+----------------
+1758
+Gottlieb Weber
+Johann August Löwe
+Caspar Benjamin Teichmann
+Johann Christian Wittich
+Christian Roßberg
+1759
+Johann Georg Fischer
+----------------
+1760
+Johann Christian Lützner
+Johann Gottlieb Schicketantz
+Johann Gottlob Spieß
+Johann Adam Zschoche
+Johann Schmiedgen
+Johann August Nagel
+Johann Christoph Bretschneider
+Gottlob Kühne
+Gottlob Löbe
+1761
+Johann Gottlieb Hänsel
+Justus Gottfried Löwe
+----------------
+Georg Haude
+Nicol Spwappil?
+Johann Leuchtmann
+Joseph Horack
+Johann Heinrich Wenzel
+Christian Donat
+Johann Christian Rudolph
+Peter Damme
+Christian Hollendorfer
+Johann Georg Kowaneck
+Christian Kleemann
+1762
+Johann Zuncke
+Mattheus Gärlich
+Christian Deetz
+Martin Radicke
+Carl Friedrich Stoll
+----------------
+Johann Herzog
+Gottfried Bergmann
+Johann Carl Nolde
+Johann Gottlob Köhler
+Christoph Raymund Thomann
+1763
+Johann Friedrich Carl Keshel
+Gottlieb Poitscher
+Johann Christoph Tartsch
+Christian Naumann
+Gottlieb Harfardt
+1764
+Gottfried Hermsdorf
+Johann Georg Ranft
+----------------
+Johann Gottlieb Krüger
+Gottlieb Philipp
+1765
+Hans Wackwitz
+Michael Böhme
+Gottlob Praße
+Gottlob Geißler
+1766
+Johann Georg Reger
+Gottlieb Weber
+Johann Gottfried Stende
+Johann Georg Mercker
+----------------
+Samuel Vetter
+Johann Gottlieb Appel
+Johann Keasch?
