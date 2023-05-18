@@ -56,7 +56,7 @@ Hier zwei kurze Mitschnitte in Echtzeitgeschwindigkeit für Kirchenbücher, die 
 
 https://www.youtube.com/watch?v=MGwKtrvWMSc<br>
 https://www.youtube.com/watch?v=aNe8E5PmBKo<br>
-(Aus Copyright Gründen wird im Video nur der Editor gezeigt, nicht das Kirchen buch selber, was im Fenster daneben offen ist.)
+(Aus Copyright Gründen wird im Video nur der Editor gezeigt, nicht das Kirchenbuch selber, was im Fenster daneben offen ist.)
 
 Für eine gute Effizienz sollte das Tippen der Namen so wenig Zeit wie möglich benötigen.
 
