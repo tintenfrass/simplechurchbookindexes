@@ -1,6 +1,7 @@
 ## Online-Version
-Das Programm wird durch die Online-Suche ersetzt
+Das Programm wird durch die Online-Suche ersetzt:<br>
 https://tintenfrass.github.io/simplechurchbookindexes/
+<br><br><br><br><br>
 
 ## Fuzzy Search (nicht mehr aktuell)
 Ein kleines Tool, um die Trauungen von https://github.com/tintenfrass/simplechurchbookindexes/tree/main/sachsen

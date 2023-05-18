@@ -18,8 +18,8 @@ https://github.com/tintenfrass/simplechurchbookindexes/tree/main/sachsen
 ### Online Durchsuchen des Index
 https://tintenfrass.github.io/simplechurchbookindexes/
 
-### Programm zum Durchsuchen des Index (nicht mehr aktuell)
-https://github.com/tintenfrass/simplechurchbookindexes/tree/main/sachsen/fuzzy-search
+### ~~Programm zum Durchsuchen des Index (nicht mehr aktuell)~~
+~~https://github.com/tintenfrass/simplechurchbookindexes/tree/main/sachsen/fuzzy-search~~<br>
 Es wird empfehlen die Online-Suche zu benutzen, das Programm wird nicht mehr weiterentwickelt!
 
 
