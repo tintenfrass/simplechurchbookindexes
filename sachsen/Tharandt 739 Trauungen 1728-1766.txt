@@ -1,13 +1,14 @@
 Tharandt (Buch 739)
-Trauungen 1728-1749
+Trauungen 1728-1766
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Februar 2023
+Mai 2023
 tintenfrass@gmx.de
 
 
@@ -206,3 +207,178 @@ Johann-Gottlob Kaulig
 1749
 Johann-Christian Kreher
 Johann-Christoph Kleber
+----------------
+----------------
+----------------
+1750
+Johann Christian Hoffmann
+Christoph Rößgen
+Johann Christoph Senff
+----------------
+----------------
+----------------
+1751
+Johann Christoph Frauenstein
+Johann Wachsmuth
+Johann Gottlieb Götze
+Gottfried Hahmann
+----------------
+----------------
+----------------
+----------------
+1752
+Johann Christian Rülker
+Christian Heinrich Francke
+Abraham Frauenstein
+Gottlieb Fleischmann
+----------------
+Johann Samuel Weigelt
+Johann Georg Päge
+Johann Christoph Funcke
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+1753
+Johann Christoph Paißker
+Johann Heinrich Reichel
+Johann Gottlieb Strohbach
+Johann Georg Lösche
+Johann Georg Seiffert
+Johann Gottlieb Wolf
+----------------
+----------------
+----------------
+----------------
+----------------
+1754
+Christian Pietzsch
+Johann Christoph Naumann
+Johann Friedrich Dreßler
+Johann Christian Hempel
+----------------
+Johann Michael Irmler
+Johann Christian Stößner
+Johann Christian Romberg
+----------------
+----------------
+----------------
+----------------
+1755
+Andreas Irmer
+Gottlieb Krüger
+Donat Bertholdt
+----------------
+----------------
+----------------
+----------------
+----------------
+1756
+Johann Georg Schumann
+Christoph Wiesner
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+1757
+Johann Michael Ditrich
+Daniel Hoffmann
+----------------
+----------------
+----------------
+----------------
+----------------
+1758
+Johann Gottfried Scheffler
+Johann Friedrich Zimmermann
+Friedrich August Frietzsche
+Georg Hermann
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+1759
+Christian Gottfried Röhren?
+Johann Christian Pretzsch
+Johann Gottlieb Richter
+Johann Michael Mänzer
+Johann Gottlieb Zschoche
+----------------
+----------------
+----------------
+----------------
+1760
+Johann Gottlieb Lotze
+Gottlob Juhr
+Christoph Reiche
+Carl August Christ
+Johann Georg Clauß
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+1761
+Friedrich Gottlieb Heyne
+Johann Gottfried Mänzer
+Johann Ernst Leuschnig
+----------------
+----------------
+----------------
+----------------
+----------------
+1762
+Johann Christoph Horn
+Johann Christoph Kleber
+Gottlieb Löwe
+Johann Friedrich Gottlob Wießner
+Johann Gabriel Haubold
+Salomon Ziegrnhals
+Johann Christian Schmidtgen
+Johann Gottlob Frauenstein
+Johann Christian Stülpner
+Christian Gotthelf Müller
+Mattheus Keppler
+----------------
+----------------
+----------------
+----------------
+1763
+Gottfried Götze
+Johann Gottlieb Otto
+Christian Starcke
+1764
+Johann Laue
+Johann Gottlieb Richter
+Johann Gottfried Mänzer
+Johann Michael Büttner
+Johann Christian Pegen
+----------------
+----------------
+----------------
+----------------
+----------------
+1765
+Johann Gottfried Franke
+Christian Rombrig
+Johann Christian Hoffmann
+Johann Christian Frauenstein
+Johann Gottfried Reichel
+Johann Christoph Götze
+Johann Gottfried Pietzsch
+Christoph Friedrich Walther
+----------------
+----------------
+1766
+Christian Peter Böhle
+Johann Traugott Menzer
+Johann Carl Vogel
+Johann Andreas Grosch

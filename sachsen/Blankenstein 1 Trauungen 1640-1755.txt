@@ -3,8 +3,7 @@ Trauungen 1640-1755
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
-Die meisten Vornamen wurden über Shortcuts erstellt, 
-dabei wurden ähnliche Namen bzw. verschiedene Schreibweisen auf den gleichen Shortcut gelegt.
+Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
 Erstellt in ca. 3 Stunden

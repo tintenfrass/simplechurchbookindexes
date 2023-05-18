@@ -1,5 +1,5 @@
 Naustadt (Buch 2)
-Trauungen 1698-1749
+Trauungen 1698-1772
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
@@ -8,8 +8,9 @@ Hinsweis:
 Das Kirchenbuch hat ein Register, dieser Index wurde aber nicht anhand des Registers erstellt.
 
 
-Erstellt in ca. 1,5 Stunden
+Erstellt in ca. 2 Stunden
 Februar 2023
+Mai 2023
 tintenfrass@gmx.de
 
 
@@ -174,7 +175,8 @@ Georg Naumann
 ----------------
 Heinrich Richter
 Michael Grellmann
-Georg Ranftg Winckler
+Georg Ranft
+Georg Winckler
 1713
 Michael Gast
 Jacob Günther
@@ -579,3 +581,283 @@ Gottfried-Heinrich Burckhart
 Gottfried Paul
 Gottfried Kost
 Samuel Grellmann
+1750
+Johann Michael Starcke
+Johann Caspar Grießbach
+Samuel Partzsch
+Ernst Gottfried Pfennig
+Johann Hentzschel
+Gottfried Faust
+----------------
+Elias Hänsel
+Johann Ephraim Hübner
+Gottlieb Marx
+Michael Starcke
+Johann Christian Funcke
+Jacob Frietzsche
+1751
+Johann Michael Lindner
+Johann Georg Paul
+Johann Christian Sincke
+Johann Samuel Flasche
+Johann Adam Börner
+Gotthelf Gottlob Hoffmann
+----------------
+Samuel Zocher
+Martin Poppe
+Gottlieb Faust
+Johann Andreas Berger
+1752
+Johann Georg Görtz
+Johann Christian Friedrich Simon
+Johann Heinrich Glauche
+Johann Siegmund Heinrich
+Georg Gotthold Born
+Johann Georg Scheffler
+Johann Christian Gaubig
+Gottfried Raffe
+----------------
+1753
+Gottlob Kost
+Gottlob Siegfried Kretzschmer
+Johann Michael Scheinpflug
+Johann Samuel Münnich
+Johann Martin Götze
+Johann Christian Tretsch
+Leberecht Preußer
+Nicol Weynert
+Johann Christian Gimpel
+Gottlieb Müller
+David Benjamin Weiße
+Samuel Köhler
+Johann Gottlob Görtz
+----------------
+Gottfried Stäude
+Johann Gottlieb Griebler
+Johann Benjamin Hottewitzsch
+Johann Georg Naumann
+1754
+Johann Christoph Leupold
+Christoph Ditrich
+Adam Thiemig
+Gotthelf Born
+Gottfried Appel
+Johann Friedrich Müller
+Johann Georg Müller
+Johann Christian Frietzsche
+Georg Schantze
+Johann Gottfried Philipp
+----------------
+1755
+Martin Hänßel
+Johann Krauße
+Christian Starcke
+Georg Gottlieb Büttner
+Johann Georg Grellmann
+Johann Gottlieb Frieß
+Johann Georg Busch
+Christian Steude
+1756
+Johann Ernst Carl Spiße
+Georg Schwencke
+Johann Ehrenfried Berger
+Johann Christian Heyne
+Johann Christian Wancke
+----------------
+Johann Samuel Bießlich
+Johann Nathan Born
+Gottlob August Wilcke
+Johann Christoph Bachmann
+Johann Adam Kützscher
+Johann Gottlob Gaubig
+1757
+Johann Christian Wittig
+Johann Michael Kühne
+Georg Schäfer
+Christian Jost
+Johann Christoph Schlieben
+1758
+Johann Michael Starcke
+Johann Gottfried Teichmann
+----------------
+Johann Gotthelf Valentin Ranft
+Johann Gottlob Thiele
+Johann Constantin Dedekind
+Johann Gottlieb Kappler
+Johann Gottlob Hoffmann
+Johann Christian Schlägel
+Carl Friedrich Tröger
+1759
+Johann Hentzschel
+Johann Christian Lommatzsch
+Johann Friedrich Willkomm
+Zacharias Bezold
+Johann Michael Eichelberger
+Gottlieb Ganßauge
+Johann Gottlieb Röder
+----------------
+Johann Christoph Bachmann
+Samuel Schumann
+Johann Christoph Kühne
+Johann Elias Hoffmann
+Carl Friedrich Strohbach
+Johann Michael Barthel
+Johann Gottlob Appelt
+Christian Fincke
+1760
+Johann Reitter
+Johann Georg Raffe
+Johann Georg Weber
+Heinrich Kihn
+Johann Gottfried Trobisch
+----------------
+Gottfried Büschel
+Johann Georg Belcker
+Samuel Friedrich Lohse
+Johann Michael Scheinpflug
+Christian Porsdorf
+Johann Christian Lommatzsch
+Johann Gottlieb Petermann
+Andreas Steltzer
+Johann Georg Teichmann
+Gottlieb Große
+Johann Georg Kirsten
+Johann Christoph Spahrmann
+1761
+Johann Christian Eberhardt
+Christian Friedrich Lange
+Johann Köhler
+Johann Adam Rothe
+Johann Heinrich Glauche
+----------------
+Johann Gottlieb Schumann
+Gottlob Burich
+Johann Michael Starcke
+Gottlieb Sehrmann
+Gottfried Richter
+Johann Michael Eichelberger
+Carl Gottlob Hahn
+Johann Christoph Rehfeld
+Johann Gottlieb Winckler
+Daniel Maune
+Gottlob Benjamin Hoffmann
+Johann Nathan Born
+Johann Gottfried Starcke
+Christoph Mehlig
+1762
+Johann Gottlieb Ranft
+August Stoite
+Johann Gottlieb Schumann
+Johann Georg Ilsche
+----------------
+Michael Tränkner
+Johann Michael Lehmann
+1763
+Christian Vogel
+Andreas Hentzschel
+Johann Georg Homitzsch
+Johann Gottlieb Bachmann
+Gottfried Ranft
+Gottfried Steude
+Christian Heinrich Berger
+Johann Samuel Ranf
+Johann Christian Pietzsch
+1764
+Johann Samuel Thiele
+Peter Hottewitzsch
+Johann Georg Petermann
+Johann Gottlob Bachmann
+August Friedrich Träger
+Georg Friedrich Camnitz
+Johann Gottlieb Mahner
+Johann Adam Pezold
+Johann Georg Findeisen
+Gottlieb Benjamin Hahn
+Johann Christoph Wittig
+Rudolph Friedrich Dedekind
+Johann Samuel Neubert
+----------------
+1765
+Johann Samuel Clauß
+Johann Gottfried Thiele
+Gottfried Fichtner
+Johann Georg Findeisen
+Johann Gottlieb Clauß
+Johann Christian Richter
+Rheinhold Neunkirch
+Gottlieb Ranft
+Johann Georg Seifert
+Johann Gottlob Hentschel
+Johann Gottlob Gießmann
+Gottlieb Just
+Christian Friedrich Kühne
+Johann Samuel Weber
+Johann Gotthelf Rehch
+Christoph Hermann
+1766
+Christian Gottlob Wagner
+Johann Leberecht Lohse
+Christian Ziegenbalck
+Johann Christoph Kiehmen?
+Johann Tzornack
+----------------
+1767
+Georg Gottlieb Züchtner
+Caspar Hoffmann
+Gottlieb Döring
+Johann Georg Schantz
+Johann Martin Thiele
+Johann Georg Lippert
+Johann Georg Berger
+Carl Gottlob Kuppe
+Carl Friedrich Kaßer
+Johann Samuel Radel
+Johann Gottlieb Jänichen
+Johann Gottlob Mahner
+Johann Samuel Bachmann
+Johann Gottlieb Schumann
+Jacob Petzold
+August Gottfried Buchwald
+Christian Graf
+1768
+Johann Heinrich Bayer
+Johann Michael Große
+Johann Samuel Grießbach
+Samuel Winckler
+----------------
+Johann Georg Jungnickel
+Christian Friedrich Leberecht Roitzsch
+Gotthold Benjamin Schmidt
+Johann Gottlieb Meißner
+1769
+Johann Carl Mahner
+Johann Gottlieb Lommatzsch
+Carl Gottfried Beckert
+Samuel Partzsch
+Johann Adam Steltzer
+Michael Donat
+Johann Christian Horig
+Johann Gottfried Friedrich
+1770
+Gottlob Neunkirch
+Johann Gottlob Braune
+Johann Gottlieb Jahne
+Carl Gottlob Hahn
+Johann Georg Kohl
+----------------
+Johann Georg Schoppe
+Christian Hentzschel
+Johann Georg Hartz
+Johann Gottlieb Kretzschmer
+1771
+Gottlob Buchert
+Johann Gottlieb Backofen
+Johann Gottlieb Fichtner
+Johann Gottlob Arnt
+Johann Gottlieb Wachs
+Johann Gottlieb Grießbach
+1772
+Johann Christoph Nake
+Johann Gottlieb Henicke
+Johann Gottlob Haase
+Johann Gottlieb Gommitsch

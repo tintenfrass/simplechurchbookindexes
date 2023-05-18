@@ -1,17 +1,14 @@
 Constappel (Buch 3)
-Trauungen 1644-1749
+Trauungen 1644-1766
 
-Das ist ein Index der Trauungen.
-
-Die meisten Vornamen wurden über Shortcuts erstellt,
-Dabei wurden ähnliche Namen bzw. verschiedene Schreibweisen auf den gleichen Shortcut gelegt.
-Bsp:
-Gregor/Greger => Georg
+Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
+Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 3 Stunden
+Erstellt in ca. 3,5 Stunden
 Mai 2022
 Februar 2023
+Mai 2023
 tintenfrass@gmx.de
 
 
@@ -536,3 +533,141 @@ Gottfried Hose
 Johann-Georg Just
 Johann-Siegmund Ditrich
 Samuel Meister
+1750
+Samuel Erdmann Uhse?
+Jacob Just
+Paul Huttig
+Christian Donat
+Christian Richter
+Johann Friedrich Röhr?
+Johann Gottlob Stelzner
+1751
+Samuel König
+Christoph Loßnitzer
+Gottlieb Keule
+Johann Georg Schmidt
+----------------
+Johann Georg Röhr
+1752
+Georg Friedrich Wagner
+Johann Christian Rothe
+Johann Christian Richter?
+Michael Müller
+Andreas Berger
+1753
+Andreas Berger
+Johann Christian Saftleben
+Christian Arlt
+Johann Samuel Schubert
+Gottfried Gebauer
+Gottlob Voigt
+Gottlob Voigt
+1754
+Christian Andrich
+Johann Christian Schöne
+1755
+Johann Georg Müller
+Johann Christian Schöne
+----------------
+Christian Andrich
+Andreas Käseberg
+Mattheus Schliche
+Johann Christoph Förster
+Andreas Käseberg
+Johann David Haman
+Andreas Weber
+Mattheus Schich
+Johann David Haman
+Martin Wollebe
+1756
+Johann Christoph Förster
+Johann Christoph Rothe
+Martin Wollebe
+Daniel Fuhrmann
+Johann Christoph Rothe
+Christian Dänert
+Christian Dänert
+Daniel Fuhrmann
+1757
+Gottfried Schaffrath
+Gottfried Schaffrath
+Johann Georg Weber
+----------------
+Friedrich August Woigdmüller?
+Johann Michael Karbe
+Johann? Körlitz
+Johann Michael Karbe
+Johann Georg Gaulig
+1758
+Hans Petrik?
+Johann Georg Paulig
+Johann Christian Weirauch
+Johann Christian Weirauch
+Gottfried Richter
+Christian Donat
+1759
+Christian Wilke
+Johann Ernst Tittel
+Johann Friedrich Schneider
+Christoph Friedrich Lehmann
+Carl Christoph Pfeiffer
+Hans Georg Arnold
+1760
+Christoph Litcke
+Daniel Bogusch
+Andreas Christanowski
+----------------
+Johann Georg Gierth
+Peter Großmann
+Ernst Weich
+Johann Gottlob Schier
+1761
+Gottfried Eiselt
+Martin Schultz
+Johann Gottfried May
+Hans Hohnstein
+Johann Gottfried Schmidt
+Samuel Bartsch
+Johann Gottlob Gebhard
+Christoph Balthasar
+Johann Gottfried Schmidt
+Martin Clauß
+Samuel Bartsch
+1762
+Christian Arnold
+Johann Michael Wancke
+Andreas Freitag
+Johann Konge?
+Caspar Gold
+Heinrich Dietsch
+Wenzel Naboratin
+Johann Georg Schebulack
+Christoph Johann Quappe
+----------------
+1763
+Johann Georg Brendel
+Christian Arnold
+Johann Gottlieb Zimmermann
+Johann Georg Schumann
+Johann Georg Arnold
+Johann Siegmund Naumann
+Johann Gottlob Hegmann
+1764
+Johann Gottlob Künert
+Johann Gottlieb Weifart
+Christian Beuchel
+Martin Schumann
+Gottfried Lorentz
+Johann Georg Born
+Christian Kreße?
+1765
+Johann Gotthelf Benjamin Fischer
+Christian Beuchel
+Hector Heinrich Graf
+1766
+Johann Gottlob Meinel
+Johann Georg Merkner
+Johann Georg Merkner
+Johann Gottlob Meine
+Johann Georg Sunpe?
+----------------

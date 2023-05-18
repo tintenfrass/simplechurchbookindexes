@@ -1,5 +1,5 @@
 Unkersdorf (Buch 2)
-Trauungen 1716-1749
+Trauungen 1716-1766
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 
@@ -8,6 +8,7 @@ Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
 Februar 2023
+Mai 2023
 tintenfrass@gmx.de
 
 
@@ -133,3 +134,57 @@ Christian Patzig
 Johann-Georg Sormann
 Johann-Georg Just
 Johann-Georg Donat
+1750
+1751
+Georg Kleber?
+----------------
+1752
+Johann Christian Schultz
+Johann Michael Schubert
+Georg Faust
+1753
+Georg Kuntze
+Christian Döring?
+Michael Schultz
+1754
+Christian Schultz
+1755
+Gottlob Klibert
+----------------
+Gottfried ?
+1756
+Abraham Gie?
+Johann Georg Pietzsch
+Christian Pietzsch
+Johann Georg Richter
+1757
+1758
+Christian Potzscher
+Johann Gottfried Beschel
+1759
+Christoph Winckler
+----------------
+1760
+Gottfried Wilt
+Johann Gottlob Oehme
+Georg Adam Göhr
+Johann Christoph Rühle
+Gottfried Gübler
+1761
+Johann Georg Lommatzsch
+Daniel Zschoche
+----------------
+Johann Christoph Frost
+1762
+Johann Adam Merbitz
+1763
+Johann Christian Clinkigt
+Johann Georg Kuntze?
+1765
+Johann Georg Schubert
+Georg Bauer?
+1766
+Johann Gottlieb Pietzsch
+----------------
+Johann Georg Thierbach
+Johann Martin Hater?

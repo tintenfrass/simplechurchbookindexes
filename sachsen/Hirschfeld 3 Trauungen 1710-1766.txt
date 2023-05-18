@@ -1,12 +1,13 @@
 Hirschfeld (Buch 3)
-Trauungen 1710-1749
+Trauungen 1710-1766
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Februar 2023
+Mai 2023
 tintenfrass@gmx.de
 
 
@@ -339,3 +340,131 @@ David Lutze
 Johann-Georg Küntzel
 Johann Schlüßer
 Christian Apelt
+1750
+Johann Christian Pege
+Johann Gottlieb Hanzschmann
+Johann Gottfried Burckhart
+----------------
+Johann Michael Wolf
+Johann Dindorf
+Johann Gottfried Donat
+1752
+Johann Gottlieb Lamm
+Johann Christian Starcke
+Gottlieb Klahr
+Johann Georg Dhümm
+Johann Gottlob Lorentz
+Johann Georg Hänßel
+1753
+Carl Friedrich Christoph
+Gottfried Beckert
+Immanuel Burckhart
+Hans Michael John
+Hans Michael Hantschmann
+Johann Heinrich Stein
+Hans Seiffert
+1754
+Christian Schröder
+1755
+Johann Gottfried Hoffmann
+Carl Gottfried Heße
+----------------
+Johann Christian Philipp
+Christian Hillig
+Hans Michael Krieger
+Gottfried Jahn
+Johann Georg Imhoff
+David Lutze
+Carl Gottlob Kischer?
+1756
+Gottlieb Kühn
+Johann Naumann
+Christian Schrood
+1757
+Johann Gottlieb Förster
+Gottlieb Mehnert
+Johann Christoph Diese
+Johann Christoph Marx
+Johann Michael Rülcker
+Gottlieb Knebel
+Gottlieb Seiffert
+1758
+Georg Schröder
+Johann Gottlob Borschdorf
+Christian Ernst Müller
+Johann Michael Dierse
+Johann Gottlieb Hoffmann
+----------------
+Johann Georg Immhoff
+Peter Rülcker
+Johann Michael John
+Johann Heinrich Böhme
+Gottlieb Beßler
+Christian Apel
+Gottlieb Junghans
+Johann Gottlieb Böhme
+1759
+Johann Georg Pincker
+Johann Dinndorf
+Johann Christian Fichtner
+Johann Gottfried Richter
+Johann Georg Kayser
+Gotthelf Fischer
+Johann Christian Paul Richter
+Johann Gottlob Schmieder
+Johann Michael Küntzel
+1760
+Ehrhradt Dierse
+Johann Gottlob Hencker
+Johann Michael Gottschalck
+Johann Christian Sachse
+Gottreich Wilhelm Gautsch
+----------------
+1761
+Johann Gottlob Leberecht Lutze
+Gottlieb Schubert
+Johann Spiegel
+Carl Friedrich Zeiger
+Johann Christian Appeld
+Johann Gottfried Müller
+Andreas Mehlmann
+1762
+Gottlieb Krieger
+Carl Gottlob Rabe
+Gottfried Dindorf
+Johann Gottfried Paul
+1763
+Johann Becker
+Johann Gottfried Wagner
+Johann Martin Haamann
+Johann Christoph Schäfer
+Johann Ernst Limbach
+Gottfried Böhme
+Johann Gottfried Böhme
+Johann Christian Paul
+Johann Gottfried Bellmann
+Gottlob Francke
+Johann Gottfried Hermann
+1764
+Gotthelf Kost
+Daniel John
+Johann Gottfried Dürse
+Johann Georg Mehnert
+Johann Georg Rülcker
+----------------
+Gottlieb Seiffert
+Adam Böhme
+1765
+Johann Gottlieb Claußnitzer
+Johann Friedrich Wolf
+Johann Friedrich Nebe
+Johann Gottlieb Strauß
+1766
+Gottfried Knebel
+Johann Gottfried Lommatzsch
+Christoph Conrad Fischer
+Johann Christian Kummer
+Samuel Döring
+Johann Christian Wentzel
+Johann David Leberecht Lutze
+Johann Gottfried Rülcker

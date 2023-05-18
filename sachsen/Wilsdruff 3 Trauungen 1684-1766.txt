@@ -1,14 +1,15 @@
 Wilsdruff (Buch 3)
-Trauungen 1684-1749
+Trauungen 1684-1766
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
-Erstellt in ca. 2h
+Erstellt in ca. 2,5h
 Juni 2022
 Februar 2023
+Mai 2023
 tintenfrass@gmx.de
 
 
@@ -796,4 +797,337 @@ Gottfried Lucius
 Johann-Christian Friedrich
 Johann-Christian Krause
 Mattheus Knauth
-Christoph Stölper
+Christoph Stölzer
+1750
+Heinrich Knöbel
+Gottlieb Frantze
+Georg Ditrich
+Martin Pietzsch
+----------------
+Martin Koßer
+Johann Georg Schwartze
+Johann Christoph Weißgerber
+Christian Gottfried Schier
+Christian Klein
+Georg Gottlob Modes
+Johann Michael Irmer
+1751
+Christian Peters
+Johann Georg Geißler
+Johann Peter Finckelt
+----------------
+Johann Christoph Müller
+Christian Fehrmann
+Gotthard Friedrich Oppelt
+Johann Gottfried Morgenstern
+Johann Gottlob Süße
+Johann Conrad Bott
+Christoph Heinrich Reiche
+Gottlieb Benjamin Feurig
+Georg Zaucke
+Andreas Wagner
+Johann Georg Hencker
+----------------
+1752
+Johann Christian Donat
+Johann Caspar Heimbusch
+Gottfried Bethmann
+Christian Salomon Leonhardt
+Friedrich Urban
+Martin Ulbricht
+Johann Christoph Funcke
+Gottlieb Köhler
+Georg Sauer
+Christoph Grafe
+Johann Andreas Kaldschmid
+Johann Daniel Rüßel
+----------------
+Johann Christian Hanitzsch
+Andreas Gahrmann
+Johann Christian Beyer
+Carl August Beger
+Gottlob Horn
+Christian Hertzog
+Zacharias Heintze
+Johann Christoph Ulbricht
+Mattheus Hecht
+1753
+Gottfried Geßner
+Gottlieb Stange
+Christian Fröde
+Paul Preißker
+----------------
+Christian Ernst Lehmann
+Johann Michael Günther
+Johann Georg Schimrig
+Johann Paul Junge
+Nicol Morgenstern
+Gotthelf Grafe
+Adolph Heinrich Busch
+Christian Gottlob Schier
+Gottlieb Müller
+Johann Gottlob Grahle
+Samuel Schumann
+Christoph Irmler
+Gottlieb Lucius
+Adolph Ferdinand Trepte
+1754
+Christian Erhardt
+----------------
+Christian Winckler
+Johann Georg Strohbach
+Andreas Kirbach
+Johann Paul Ermler
+Johann Friedrich Blech
+Johann Christoph Klemm
+Heinrich Georg Sanerhaußen
+Christoph Witzschel
+Johann Christian Oeser
+Gottfried Knauth
+Johann Georg Dindorf
+----------------
+1755
+Georg Heinrich Burckhart
+Tobias Pietzschmann
+Johann Benjamin Schwartze
+Paul Christian Rüßel
+Johann Christian Philipp
+Johann Christoph Funcke
+Christoph Funcke
+Johann Jacob Grahl
+Johann Gottfried Morgenstern
+Christoph Lucius
+Johann Georg Standfuß
+Johann Georg Schuster
+----------------
+1756
+Georg Hermann
+Johann Gottfried Müller
+Christian Kießlich
+Martin Friedrich Förster
+Johann Christian Döring
+Johann Andreas Weber
+Johann Christoph Schmidt
+Gottlieb Wagner
+Gottfried Knauth
+Johann Christian Martini
+Christoph Irmler
+----------------
+Gottlob Scheltzig
+1757
+Johann Wilhelm Knöffel
+Mattheus Rentzsch
+Gottfried Wilhelm Tanneberger
+Georg Schickler
+Johann Friedrich Koch
+Johann Gottfried Hoffmann
+Friedrich Gotthold Hempel
+Christian Gotthold Schmidt
+Johann Christian Oehme
+Christian Philipp
+----------------
+Johann Reichard Jungmeyer
+Johann Gottlieb Herfurth
+Johann Christian Hencker
+Johann Martin Boyer
+Johann Georg Fehrmann
+Johann Georg Stölzer
+1758
+Ferdinand Ferber
+Johann Gottlieb Kahle
+Christoph Lindner
+Christian Gottlieb Schneider
+Johann Christian Krause
+Christian Lehmann
+Christoph Brettner
+----------------
+Carl August Gehlhaar
+Johann Georg Klemm
+Gottlieb Krause
+Christian Friedrich Pilz
+Johann Gottfried Schwartze
+Johann Georg Irmler
+Daniel Friedrich Krippenstapel
+Johann Gottlieb Ihle
+Johann Gotthelf Selbig
+1759
+Victor Hoffmeyer
+Christian Gottfried Becher
+----------------
+Christian Köhler
+Christian Zschoche
+Nicol Haucke
+Ferdinand Ferber
+Christoph Heinrich Grosche
+Andreas Dietze
+Johann Christoph Hoffmann
+Christoph Heinrich Reiche
+Johann Schmohr
+Gotthelf Schmidthauß
+1760
+Johann Christian Preißcker
+Johann Georg Lübsch
+----------------
+Johann Caspar Brennert
+Heinrich Nicol Saurbier
+Johann Christoph Rumrig
+Johann Christian Mann
+Johann Gottlob Jäpelt
+Johann Christoph Qvinger
+Johann Gottfried Hoffmann
+David Keller
+Daniel Friedrich Krippenstapel
+Carl August Werner
+Christian Leuteritz
+----------------
+Joachim Andreas Griese
+Christian Gottlob Francke
+Johann Heinrich Sarder
+Christian Lange
+Gottlieb Naumann
+Johann Christoph Terpe?
+Johann Christoph Funcke
+Christoph Göltzer?
+Johann Christian Hanitzsch
+Johann Reichard Jungmeyer
+Johann Gottfried Dinndorf
+Gottlieb Johne
+----------------
+Johann Gottfried Schönberg
+1761
+Johann Georg Lehmann
+Christian Frietzsche
+Johann Gottlob Grahle
+Johann Michael Richter
+Christian Gottfried Becher
+Daniel Gottlieb Schubert
+Johann Michael Reif
+Johann Gottlob Kannegießer
+Johann Michael Morgenstern
+----------------
+Johann Gottfried Krause
+Carl Heinrich Griefer
+Gottfried Kießlich
+Mattheus Schlicke
+Christian Irmer
+Christian Begen
+Gottfried Hermann
+Johann Gottlob Zschuncke
+Gottfried Schönberg
+Christian Beckert
+Johann August Dachselt
+Albrecht Siegmund Trepte
+----------------
+Johann Georg Pietzsch
+Georg Mütterlein
+Christoph Lucius
+Johann Christian Funcke
+1762
+Johann Gottfried Thrändorf
+Johann Christoph Morgenstern
+Gottfried Spiegel
+Johann Christian Naumann
+Johann David Morgenstern
+Johann Georg Irmler
+Johann Georg Strohbach
+Adam Friedrich Grubisch
+----------------
+Johann Christian Krause
+Johann Wolzer
+Franz Rose
+Mattheus Urban
+Joseph Schwammerle
+Nicol Dunckeler
+Nicol Schmidt
+Christian Flegel
+Johann Gottfried Geißler
+----------------
+Johann August Rau
+Johann Christoph Sosdorf
+Heinrich Krüger
+Johann Christoph Gerhold
+Johann Michael Jacob
+Johann Christoph Geßner
+Johann Michael Strohbach
+Georg Christian Pietzsch
+Johann Schubert
+Johann Heinrich Morgenstern
+----------------
+Johann Georg Pietzsch
+1763
+Johann Christoph Döring
+Gottfried Stange
+Johann Christian Büttner
+Gottfried Samuel Gautsch
+Christoph Hanitzsch
+Johann Christoph Standfuß
+Johann Georg Ockert
+Johann Hahmann
+Johann Gottfried Frohne
+Johann Christoph Meschler
+Johann Georg Philipp
+----------------
+Johann Christian Pursch
+Johann Schubert
+Johann Christoph Kühle
+1764
+Georg Friedrich Lincke
+Johann Gotthelf Geißler
+Johann Leberecht Mühlberg
+Christoph Dietze
+Adolph Wilhelm Mäcke
+Andreas Döring
+Johann Jacob Hoyer
+----------------
+Israel Becker
+Christoph Becker
+Christoph Reiche
+Anton Ulrich Schönhuth
+Christian Gottlob Knöffel
+Johann Gottfried Hencker
+Michael Miecke
+Johann Georg Philipp
+Johann Georg Patzig
+Johann Christian Richter
+Hans Michael Ludwig Schönberg
+----------------
+1765
+Georg Gottfried Meßerschmidtz
+Johann Christian Weidner
+Gottlob Hermann
+Johann Christoph Richter
+Johann Gottlob Kahle
+Johann Christian Begen
+Johann Christoph Schneider
+Christian Friedrich Hennig
+Christian Geßner
+Renatus August Gerber
+Christoph Reiche
+Carl Christian Gruhl
+Johann Michael Chämnitz
+Jacob Hermann
+Johann Christoph Sparmann
+Johann Gottfried Zschuncke
+----------------
+Johann Siegmund Gehlhaar
+Gottfried Künzelmann
+Johann Christian Halle
+1766
+Gottlob Morgenstern
+Erhard Reiche
+Johann Michael Pfeiffer
+Christian Gottlieb Stolle
+Johann Christian Rabe
+Christian Lange
+Christian Bormann
+Johann Christoph Hanitzsch
+----------------
+David Gottlieb Moser
+Raphael Friedrich Pöschmann
+Johann Christoph Francke
+Johann Gottlob Müller
+Johann Gottlob Funcke
+Christoph Heinrich Preißker
+Johann Gottlieb Funcke
+Johann Christoph Harter
+----------------

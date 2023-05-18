@@ -1,14 +1,15 @@
 Tanneberg (Buch 1)
-Trauungen 1663-1749
+Trauungen 1663-1766
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 Zusätzlich sind nicht alle Namen klar lesbar.
 
 
-Erstellt in ca. 2 Stunden
+Erstellt in ca. 2,5 Stunden
 Juni 2022
 Februar 2023
+Mai 2023
 tintenfrass@gmx.de
 
 
@@ -467,3 +468,89 @@ Johann-Christian Bürckner
 ----------------
 Johann-Gottlieb Kühne
 Johann-Christoph Klieber
+1750
+Gottlieb Michael Kehr
+Gottlieb Grellmann
+Jacob Heyde
+Johann Friedrich Kühn
+1751
+Georg Lamm
+Christian Friedrich Bebisch
+Peter Lommatsch
+1752
+Johann Gottlieb Schönert
+1753
+Andreas Starcke
+Michael Schneider
+Gottlieb Schumann
+----------------
+1754
+Georg Kirsten
+Christian Krüger
+Gottlieb Arnold
+Johann Michael Schumann
+1755
+Johann Meutzner
+Gottfried Lutze
+1756
+Gottlieb Dachselt
+1757
+Christian David Gautsch
+Martin Talkenberger
+1758
+Johann Gottlieb Albert
+Johann Gottlieb Wezel
+Johann Michael John
+Johann Heinrich Strumpf?
+----------------
+Johann Gottfried Illgner
+Johann Michael Müller
+1759
+Johann Gottfried Märcker
+Carl Anton Jacobi
+Hans Schubert
+Johann Christian Schröter
+1760
+Johann Christian Schumann
+Gottfried Müller
+Johann Gottfried Wittich
+Georg Schmiedich
+1761
+Andreas Bochmann
+August Handler
+Christian Talkenberger
+Johann Heinrich Voigt
+Christian Kleemann
+Gottlieb Nagel
+----------------
+1762
+Gottlieb Hember?
+Georg Talkenberger
+Johann Gottfried Schremke?
+Gottlieb Hegon?
+Martin  Raneck?
+Johann Heinrich Strumpf?
+Johann Gottfried Stange
+Johann Simon
+Gottfried Grellmann
+Johann Schultz
+1763
+Traugott Rost
+Gregor Zschoche
+Johann Gottfried Schumann
+Peter Lommatsch
+1764
+Johann Georg Schumann
+----------------
+Christian Pietzsch
+Johann Christlieb Nau
+Johann Leopold Wende
+Johann Georg Schumann
+1765
+Georg Gottlieb Stoll
+August Ehregott Klöppel
+1766
+Johann Georg Löbner
+Christian Grube
+Johann Gottfried Mieth?
+Johann Gottfried Lommatsch

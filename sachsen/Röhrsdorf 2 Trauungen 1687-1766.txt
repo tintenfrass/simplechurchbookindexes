@@ -1,5 +1,5 @@
 Röhrsdorf (Buch 2)
-Trauungen 1687-1749
+Trauungen 1687-1766
 
 (Röhrsdorf bei Wilsdruff)
 
@@ -10,9 +10,10 @@ Hinweis:
 Im Kirchenbuch selber gibt es ein alphabetisches Register, welches für diesen Index aber nicht verwendet wurde.
 
 
-Erstellt in ca. 1h
+Erstellt in ca. 1,5h
 Juni 2022
 Februar 2023
+Mai 2023
 tintenfrass@gmx.de
 
 
@@ -420,3 +421,131 @@ Johann-Christoph Ramm
 David Vetter
 Caspar Philipp
 Peter Wagner
+1750
+Johann Lehmann
+Georg Pfeiffer
+Georg Lehmann
+Johann Stöltzer
+Johann Georg Lohrents
+1751
+Johann Hälßig
+Christian Maul
+Peter Steude
+Gottlieb Philipp
+Daniel Simon
+Johann Gottlob Kretzschmer
+Gottfried Naumann
+1752
+Gottfried Steude
+----------------
+Martin Thiele
+Johann Carl Heinrich
+Johann Gottlieb Wolf
+Georg Weber
+1753
+1754
+Samuel Lunckewitz
+Johann Gottlieb Lommatzsch
+Johann Christian Patzig
+Gottlieb Krauspe
+Georg Köhler
+Gottfried Philipp
+1755
+Johann Gottlieb Starcke
+Johann Mülbrig
+Johann Georg Philipp
+Martin Ranft
+Johann Georg Dietze
+Gottlob Heinrich
+Gottfried Philipp
+----------------
+1756
+Simon Ranft
+Elias Gottlob Stöltzer
+August Richter
+Johann Georg Stöltzer
+Johann Gottlob Schubert
+1757
+Michael Knoll
+Johann Christoph Jungnickel
+Johann Christian Ehlig
+Gottfried Philipp
+1758
+Daniel Pincker
+Daniel Burckhart
+Gottfried Gehrold
+Johann Georg Döring
+1759
+Georg Ludwig
+----------------
+Martin Faust
+Gottlieb Kippe
+Gottfried Leuschner
+Michael Winckler
+Johann Christian Mühlberg
+Johann Christoph Rothe
+1760
+Georg Scheffler
+Johann Christoph Endler
+Gottfried Lehmann
+Samuel Philipp
+1761
+Gottfried Hunger
+Gottlieb Weber
+Johann Georg Rost
+Johann Georg Türcke
+----------------
+Christian Lotze
+Martin Praße
+Johann Gottlieb Hantzsche
+Johann Paul Fehrmann
+Gottlieb Kirsten
+Samuel Philipp
+Johann Georg Georgius
+Georg Kehle
+Johann Martin Richter
+Michael Ranft
+Johann Christian Berner
+Peter Grötzsch
+Johann Christoph Berger
+Georg Gießmann
+----------------
+Gottlieb Köhler
+Gottlieb Vogel
+1762
+Martin Reimar
+Andreas Czigliny
+Christian Schultz
+Peter Malliar
+Gottlieb Schrödter
+Johann Christoph Biller
+Johann Christoph Frietzsche
+Christian Köhler
+Christian Fehrmann
+Johann Michael Beßler
+Johann Georg Säuberlich
+1763
+Gottlob Schumann
+----------------
+Johann Georg Wagner
+Christian Gottlob Neumann
+David Winckler
+1764
+Andreas Roatzsch
+Johann Christian Wagner
+Johann Christian Mohrhardt
+Christian Richter
+Friedrich David Theodor Bötticher
+Gottfried Gast
+Johann Gottfried Schlicke
+1765
+Christoph Thronicke
+----------------
+Johann Georg Hoffmann
+Johann Gottfried Drechsler
+Johann Gottfried Weber
+Johann Samuel Zeller
+1766
+Johann Michael Grellmann
+Johann Michael Kippe
+Johann Gottlieb Drache

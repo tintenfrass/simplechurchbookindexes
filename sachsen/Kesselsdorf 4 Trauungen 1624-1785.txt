@@ -1,5 +1,5 @@
 Kesselsdorf (Buch 4)
-Trauungen 1624-1749
+Trauungen 1624-1785
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
@@ -13,15 +13,16 @@ Im Buch Kesselsdorf 1 befinden sich ebenfalls Trauungen für in diesem Zeitraum,
 
 Hinweis 3:
 Die Reihenfolge der Einträge ist wie im Kirchenbuch und besteht aus 3 Teilen.
--1727 bis 1749
+-1727 bis 1754
 -1624 bis 1726
--1625 bis 1749 (in der Stille)
+-1625 bis 1785 (in der Stille)
 
 
 
-Erstellt in ca. 5 Stunden
+Erstellt in ca. 5,5 Stunden
 Juni 2022
 Februar 2023
+Mai 2023
 tintenfrass@gmx.de
 
 
@@ -470,6 +471,77 @@ Johann-Georg Schönert
 Johann-Gottfried Müller
 Johann-Christian Fiedler
 Johann-Georg Funcke
+1750
+Johann Georg Winckler
+Gottlieb Frantze
+Christian Pietzsch
+Johann Kühne
+Georg Pietzsch
+Johann Martin Jähnichen
+Hans Georg Kästner
+Christoph Rüdiger
+Georg Philipp
+Christian Pfeiffer
+Johann Georg Pietzsch
+Johann Georg Kühnel
+Georg Schultz
+Johann Christoph Seiffert
+----------------
+Gottlob Burckhart
+1751
+Georg Lomm
+Hans Georg Klinckicht
+Hans Adam Ranft
+Christian Schirmer
+Johann Christoph Weser
+Gottfried Pietzsch
+Johann Gottfried Strohbach
+Mattheus Schindler
+Johann Starcke
+Christian Pietzsch
+Georg Brock
+Christian Höhrmann
+Gottlob Kühn
+1752
+Johann Georg Köhler
+Christoph Weise
+August Gotthelf Fischer
+Friedrich Urban
+----------------
+Johann Georg Klöber
+Martin Ulbricht
+Gottlieb Köhler
+Gottfried Lozze
+Gottfried Schneider
+Christian Lehmann
+Johann Christian Köhler
+Johann Gottfried Staude
+Johann Georg Berthold
+Christian Hoffmann
+Christoph Lange
+1753
+Christian Krause
+Christian Krause
+Johann Georg Töpfer
+Johann Michael Donat
+Gottlob Bormann
+Gottfried Pietzsch
+Christian Fröde
+Hans Heidrich
+Georg Röder
+----------------
+Christian Graffe
+Georg Scheurer
+Gottlob Höhrmann
+Johann Heinrich Paulisch?
+Johann Christian Röhrster
+Johann Gottlob Richter
+Johann Gottfried Kaulfuß
+Gottlob Voigt
+Johann Christian Gladewitz
+1754
+Hans Nedes
+Michael Voigt
 ----------------
 ...
 ----------------
@@ -1891,3 +1963,99 @@ Georg-Michael Galle
 1749
 Hans-Georg Kuntze
 Gottfried Reißig
+1750
+Hans Gottfried Funcke
+Johann Michael Just
+1751
+Christian Hörnig
+Gottfried Hertzog
+1752
+Hans Georg Eybe
+Christian Küntzelman
+Gottfried Fehrmann
+1753
+Georg Pietzsch
+1754
+Johann Georg Scharschuch
+1755
+Johann Gottfried Haferstroh
+Johann Gottlieb Irmer
+1756
+Johann Michael Pfeiffer
+----------------
+1760
+Georg Joppe
+1761
+Johann Gottlob Glöckner
+Andreas Schäffer
+1764
+Christian Peschel
+Johann Gottfried Bernhard
+1765
+Elias Rothe
+1766
+Johann Georg Küntzel
+1767
+Johann g Leiper
+Carl Christoph Puttrich
+1769
+Hans Georg Sterz
+Johann Michael Naumann
+Gottfried Küntzelman
+1770
+Johann Georg Tschiedsmann
+Andreas Fischer
+Johann Christoph Iltsche
+----------------
+1771
+Johann Gottfried Hencker
+Gottfried Fehrmann
+1772
+Zacharias Leizgerner?
+Johann Georg Irmer
+Johann Gottlob Petermann
+1773
+Johann Pech
+1774
+Johann Gottlob Andreä
+Johann Christian Opitz
+Hans Georg Thomas Pohle
+Johann Gottfried Petermann
+Johann Pietzsch
+Johann Christian Wunderlich
+1775
+Gottlob Starcke
+Christian Friedrich Stülpner
+1776
+Johann Gottlob Naumann
+Gottlieb Nüßgen
+Johann Christian Krause
+----------------
+x
+1777
+Christian Philipp
+Gottlob Lommtzsch
+Johann Georg Meißner
+Johann Georg Weitmann
+1778
+Gottlob Zäncker
+1779
+Johann Gottfried Donat
+Johann Christian Pietzsch
+1781
+Johann Georg Seliger
+1782
+Gottfried Schumann
+Gotthelf Ditrich
+Johann Gottfried Nüßgen
+1783
+Carl Gottlob Barth
+1784
+Johann Gottlieb Pflugbeil
+1785
+Gottfried Kneiß
+Franz Schild
+----------------
+Johann Gottfried Frietzsche
+Johann Christian Schneider
+Johann Georg Eybing

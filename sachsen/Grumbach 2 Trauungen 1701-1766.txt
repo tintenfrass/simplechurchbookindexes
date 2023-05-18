@@ -1,12 +1,13 @@
 Grumbach (Buch 2)
-Trauungen 1701-1749
+Trauungen 1701-1766
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stunden
+Erstellt in ca. 2 Stunden
 Februar 2023
+Mai 2023
 tintenfrass@gmx.de
 
 
@@ -723,3 +724,261 @@ Johann-Gottlob Richter
 Christian Lucius
 Georg Kühn
 Christian Brendel
+1750
+Johann Georg Adolff
+Johann Kühn
+Johann Schneider
+Christian Friedrich Wustlich
+Johann Georg Patzig
+Caspar Schumann
+----------------
+Johann Georg Döring
+Johann Georg Kirstein
+Johann Georg Neukirch
+Christian Frietzsche
+1751
+Johann Paul Starcke
+Andreas Hänßel
+Johann Georg Fehrmann
+Johann Georg Andrä
+Johann Gottlieb Winckler
+----------------
+Gottfried Reiner
+Samuel Ditrich
+Johann Georg Große
+Gottfried Starcke
+Johann Georg Kühn
+Johann Michael Spahrmann
+Christian Kuntze
+Johann Gottlieb Geißler
+Michael Grellmann
+Johann Michael Opitz
+Georg Götze
+Christian Geißler
+----------------
+Johann Georg Götze
+Martin Günther
+Johann Gotthelf Schmidt
+Johann Georg Hencker
+Georg Brock
+Johann Starcke
+Johann Gottfried Patzig
+Christian Lehmann
+----------------
+1752
+Hans Pietzsch
+Johann Georg MEißner
+Johann Gottlieb Köhler
+Michael Günther
+Johann Georg Lange
+Johann Georg Hermann
+Johann Gottlieb Hoyer
+----------------
+1753
+Samuel Günther
+Johann Michael Donat
+Johann Georg Pinckert
+Georg Kuntze
+Johann Kießlich
+Christian Grahle
+Johann Georg Philipp
+Christoph Kleber
+Gotthelf Wolf
+Johann Christian Schumann
+Georg Mältzer
+Georg Irmer
+----------------
+1754
+Christian Winckler
+Christian Richter
+Johann Gottlob Oehme
+Johann Christian Brendel
+Gottlieb Krauffe?
+Johann Georg Ditrich
+Gottfried Knauth
+----------------
+1755
+Johann Georg Philipp
+Gottfried Lehmann
+Samuel Ranisch
+Johann Gottlob Frantze
+Johann Christian Wolf
+Gottfried Reiche
+Christian Knoche
+Samuel Rudolph Gerstäcker
+Johann Georg Lehmann
+----------------
+Gottfried Schubert
+Andreas Kleber
+Johann Gottfried Morgenstern
+Christian Paner?
+Christian Ritter
+1756
+Johann Brendel
+Johann Christian Fleischer
+Johann Michael Ulbrich
+Johann Gotthelf Born
+Christian Starcke
+Johann Gottlob Bieber
+----------------
+Gottlieb Wagner
+Christoph Lehmann
+1757
+Gottfried Schütze
+Johann Georg Starcke
+Christian Grellmann
+Johann Gottfried Andrä
+Johann Heinrich Grafe
+Johann Christoph Teichmann
+----------------
+Johann Georg Stöltzer
+Johann Georg Köhler
+1758
+August Eger
+Christian Hencker
+Johann Gottfried Fiecke?
+Johann Gottlob Voigt
+Johann Gottlob Blumej Gottlieb Reiter
+----------------
+Franz Xaver Knauschner
+Anton Häußler
+1759
+Christian Kuntze
+Johann Schramm
+Johann Gottfried Weißner
+Johann Gottlob Kühne
+Gottfried Starcke
+Christian Schrmann?
+----------------
+Johann Georg Fleischer
+Johann Georg Pietzsch
+Johann Kühne
+Johann Gottlieb Böhme
+Johann Gottfried Pfund
+Gottfried Gabriel
+Andreas Strohbach
+Gottfried Limbach
+----------------
+1760
+Johann Jacob Irmer
+August Schiffel
+Johann Kießlich
+Leopold Hannig
+Gottfried Retzsch
+Christian Leuteritz
+Johann Lange
+Gottlieb Naumann
+Gottlob Küntzelmann
+Christian Brendel
+Johann Gottlieb Bruchlitz
+----------------
+Christian Frietzsche
+Johann Georg Lehmann
+1761
+Johann Christoph Bernhard
+Georg Starcke
+Christian Frietzsche
+Christian Hencker
+Gottfried Ranft
+Johann Georg Ditrich
+----------------
+1761
+Johann Christian Günther
+Gottfried Kohlsdorf
+Georg Lehmann
+Christian Eckelt
+Johann Christian Irmer
+Johann Christian Naacke
+Christian Kuntze
+Christian Rentzsch
+Johann Georg Ganßauge
+Johann Georg Ritter
+Johann Georg Lehmann
+Christian Werner
+----------------
+Johann Christoph Heede
+Johann Christian Begen
+Johann Christian Geißler
+Johann Balthasar Irmer
+Gottfried Kießlich
+Johann Christian Wigert
+Christian Irmer
+Gottlob Patzig
+Johann Georg Böllnitz
+Johann Christoph Leuteritz
+Christian Spieß
+----------------
+Gottfried Hermann
+Johann Christian Ditrich
+Johann Christian Günther
+Gottfried Grahle
+Georg Gießmann
+Christoph Eidner
+Johann Georg Mühlberg
+1762
+Samuel Schiffel
+Georg Eyme
+----------------
+Franz Xaver Steger
+Joseph Brecheisen
+Adam Bellin
+Carl Jachem?
+Johann Daniel Beckmann
+Martin Biene?
+Christian Friedrich Krantz
+Peter Martin
+Joseph Wiepe
+Johann Christoph Mesler
+August Grellmann
+Johann Michael Brühe
+----------------
+1763
+Gottfried Birckner
+David Kphne
+Christian Kieslich
+Gottfried Kleber
+Johann Georg Tränckner
+Gottlob Kuhne
+Johann Börner
+Gottfried Schubert
+Christian Ditrich
+Johann Gottlieb Kohler
+Johann Gottfried Ditrich
+Johann Benjamin Hirschbach
+Johann Georg Ditrich
+----------------
+1764
+Johann Georg Richter
+Christian Irmer
+Johann Gottlob Heumann
+Johann Gottlob Ficke
+Gottlieb Kippe
+Gottlieb Krauspe
+Johann Georg Gebauer
+August Ditrich
+Gottfried Lehmann
+Gottfried Georg Köhler
+Georg Leinert
+----------------
+1765
+Erdmann Fleischer
+Johann Gottlieb Berger
+Johann Gottlieb Haugold
+Johann Christian Pietzsch
+Johann Georg Große
+Johann Gottlob Nacke
+1766
+Johann Michael Eulichen
+Johann Gottfried Irmer
+Johann Gottfried Ehrlich
+Johann Ephraim Wolf
+Johann Michael Schneider
+----------------
+Johann Christian Hermann
+Johann Gottfried Wachs
+Gottfried Pietzsch
+Gottlieb Lehmann
+Christian Küntzelmann
+Johann Gottlieb Wolf
+Johann Gottlieb NAcke
+Johann Gottfried Schiefner

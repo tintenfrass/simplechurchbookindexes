@@ -1,13 +1,14 @@
 Mohorn (Buch 3)
-Trauungen 1701-1749
+Trauungen 1701-1766
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Februar 2023
+Mai 2023
 tintenfrass@gmx.de
 
 
@@ -559,4 +560,223 @@ Christian Gießmann
 ----------------
 Johann-Michael Rädiger
 Johann-Georg Ditrich
-Christian Schitzel?
+Christian Schiffel?
+1750
+Andreas Rost
+Johann Georg Müller
+Christian Friedrich Wustlich
+Johann Michael Schlicke
+Gottfried Matthes
+Johann Christoph Köhler
+Johann Michael Thomas
+Thomas Bäcker?
+Gottlieb Müller
+Gottlieb Jost?
+1751
+Christian Bernhardt
+Christian Hertzog
+Christian Ditrich
+Martin Schubert
+Johann Georg Lange
+Johann Michael Bernhardt
+----------------
+Johann Gottfried Schubert
+1752
+Gottfried Steude
+Georg Mütterlein
+Johann Michael Gießmann
+Christoph Gliebert
+Johann Georg Frietzsche
+Johann Anton Walther
+Johann Gottfried Horn
+Gottlieb Hoffmann
+Samuel? Heinrich Fischer
+Johann Michael Schubert
+Johann Georg Funcke
+Georg Eudenig?
+Gottlieb Ganßauge
+Christian Schumann
+Johann Gottlieb Störl
+----------------
+1753
+Johann Gottfried Naumann
+Christian Gottfried Philipp
+Israel Müller
+Johann Georg Störl
+Johann Gottfried Kirchner
+Johann Gottfried Schigmann?
+Johann Christian Dörsel?
+Johann Georg Schönberg
+Gottfried Brendel
+Johann Friedrich Walther
+Christian Wilsche?
+Johann Georg Dörsel
+Christian Brendel
+Johann Georg Clilge?
+----------------
+1754
+Johann Michael Holmer?
+Johann Georg Hortmann
+Johann Michael Hornig
+Johann Georg Pölitz
+Johann Gottfried Schumann
+1755
+Johann Gottfried Ditrich
+Carl Christian Wustlich
+Gottlob Kliebert
+Johann Gottlieb Brendel
+Johann Georg Mahler?
+Johann Michael Ganßauge
+Johann Gottfried Störl
+Johann Michael Kühne
+Johann Gottfried Müller
+Gottlieb Dietze
+----------------
+1756
+Johann Georg Störl
+Johann Georg Maune
+Johann Georg Ditrich
+Johann Christian Thomas
+Johann Ernst Fleischer
+Christian Gottlieb Wolf
+Georg Wilhelm Renzsch
+Georg Dude
+Johann Christian Frietzsche
+Johann Christian Fincke?
+August Käsler?
+Johann Gottfried Ludwig
+1757
+Johann Georg Starckej Georg Robe
+Christoph Dürsel
+Gotthelf Wustlich
+----------------
+Johann Georg Preußer
+Johann Michael Görlt
+Carl Gottlieb Kirhar?
+Gottlieb Kurbel
+Christian Heinrich Ditrich
+Michael Maune
+Johann Gottfried Reich?
+1758
+Georg Stöltzer
+Martin Beerwald
+Benjamin Wolf
+Carl Gottlieb Woller
+Johann Georg Bachmann
+Gottlieb Wustlich
+Gottlieb Schubert
+Johann Gottfried Landmann
+Johann David Beyer
+Johann Schultz
+----------------
+Christian Friedrich Dreßler
+Johann Gottfried Illgner
+Christian Friedrich Große
+Johann Georg Störl
+1759
+Johann Michael Heafter?
+Friedrich Gottlieb Lohse
+Johann Georg Störl
+Johann Gottfried Borsch
+Johann Christoph Rüdiger
+Samuel Jackel
+Johann Gottfried Haucke?
+Johann Georg Irmer
+Christian Benjamin Luse?
+Israel Tiche?
+Gottlieb Hoier
+Paul Schaßig
+Jacob Baum
+----------------
+1760
+Christian Wustlich
+Johann Georg Rülicke
+Johann Gottfried Störl
+Johann Gottlieb Löwe
+Daniel Maune
+Adam Schumann
+Johann Christian Sachse
+Carl Gottlieb Funcke
+Johann Christian Keller
+Christian Bachmann
+Johann Gottlieb Haucke
+Johann Georg Günther
+Johann Gottlieb Bartsch
+1761
+Johann Gottlieb Beyer
+Johann Schultz
+Johann Christian Haucke
+Johann Friedrich Starcke
+Gottlob Schubert
+Johann Christian Dürsel
+----------------
+Johann Michael Kippler
+Christian Friedrich Beßler
+Gottlob Hortmann
+Gottlieb Kirschel?
+Gottlieb Schubert
+Johann Michael Parsch?
+Johann Gottlob Müller
+Georg Heyde
+Johann Christoph Leuteritz
+Carl Clauß
+Georg Warg?
+Christian Schlicke
+Christian Grellmann
+Johann Gottfried Keppler
+Johann Christoph Sachse?
+1762
+Christian Zschucke
+Johann Michael Frietzsche
+Gottlieb Naumann
+Johann Götze?
+----------------
+Johann Georg Frietzsche
+1763
+Johann Gottlieb Gaumnitz
+Christian Bachmann
+Johann Gottfried Schubert
+Johann Georg Ludwig
+Johann Christian Pietzsch?
+Johann Gottfried Schubert
+Johann Friedrich Woller?
+Christoph Schöne?
+Johann Gottlob Große
+Johann Georg Simon
+Georg Wilhelm Fiedler
+Johann Georg Heber
+Gregor Zschoche
+Thomas Rabe
+Johann Gottfried Schubert
+Johann Gottlieb Herfurth
+Johann Gottfried Borsch?
+----------------
+1764
+August Richter
+Gotthelf Kost
+Johann Gottlob Reich
+Gottlieb Kippe
+Johann Friedrich Hancke
+Johann Michael Thomor?
+Jacob Eichhorn
+Johann Georg Naumann
+Elias Schubert
+1765
+Johann Gottlieb Schönberg
+Christian Bernhard
+Gotthelf Böhme?
+Christian Heyde
+Johann Gottfried Störl
+Gottfried Küntzel
+Johann Michael Bernhardt
+Christoph Heinrich Krause
+Johann Michael Lehmann
+Johann Michael Heyde
+1766
+Johann Ernst Kieling
+----------------
+Gottfried Kurbel
+Johann Georg Rüdiger
+Johann Gottfried Landmann
+Christian Dürsel
+Johann Michael Schubert
