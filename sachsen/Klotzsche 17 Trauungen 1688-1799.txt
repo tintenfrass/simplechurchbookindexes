@@ -1,5 +1,5 @@
 Klotzsche (Buch 17)
-Trauungen 1688-1766
+Trauungen 1688-1799
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
@@ -8,7 +8,7 @@ Hinweis:
 Die ersten 6 Trauungen befinden sich fälchlicherweise im Kirchenbuch von Wilschdorf (Buch 149)
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Januar 2023
 Februar 2023
 Mai 2023
@@ -388,3 +388,129 @@ Christoph Haichen
 Christian Schleitzer
 Johann Friedrich Pohle
 ----------------
+1767
+Johann Friedrich Pohle
+1768
+Gottlieb Pohle
+----------------
+1769
+Gottfried Zöllner
+Christoph Ebert
+Friedrich Andrich
+Johann Georg Mentzel
+1770
+Johann Georg Peschel
+- Adam
+----------------
+Christoph Zichner
+Johann Georg Winckler
+1771
+Christian Pohle
+Peter Bergemann
+----------------
+1772
+Friedrich Kuntzsche
+Christian Hoffmann
+Georg Winckler
+1773
+Gottfried Großmann
+----------------
+Johann Christoph Naumann
+1774
+Friedrich Pählig
+1775
+1776
+Christoph Hoffmann
+Johann Georg Zschayle
+1777
+Gottfried Böhme
+Johann Elias Gäbler
+Johann Christoph Thalheim
+1778
+Johann Georg Kuntz
+Johann Georg Wentsche
+----------------
+1779
+Johann Christian Meynert
+Johann Georg Naumann
+1780
+Christoph Mentzel
+Johann Friedrich Kuntzsch
+Christian Schneider
+1781
+Christoph Großmann
+Christoph Görne?
+1782
+1783
+Johann Georg Körner
+Martin Schröder
+Johann Georg Pählig
+Gottlieb Bruchhold
+----------------
+Johann Georg Lormann
+1784
+Johann August Pamrich
+1785
+Christoph Haußmann
+Martin Schultz
+1786
+Johann Georg Schütze
+Johann Georg Pietzsch?
+Johann Georg Hamann
+Johann Christian Rüdiger?
+1787
+Johann Christian Pietzsch
+----------------
+Johann Georg Kuntzsch
+Johann Gottlieb Dreßler
+1788
+Johann Gottlob Schäfer
+Christoph Hoffmann
+1789
+Andreas Pamrich
+Johann Christoph Schütze
+1790
+Johann Georg Schrempel
+----------------
+Gottfried Haychen
+1791
+Johann Georg Kuntzsch
+Johann Simon Simmgen
+1792
+Johann Christian Bruhne
+Christian Schütze
+Christian Trobisch
+Johann Georg Rappen
+----------------
+1793
+Johann Georg Gomlich
+Christoph Becker
+Johann Gottlob Nietzsche
+Daniel Hauptmann
+Johann Gottlieb Hoffmann
+Johann Georg Naumann
+1794
+Samuel Menzel
+Johann Gottlob Pammrich
+----------------
+Johann Gottfried Meißner
+1795
+Johann Gottlob Trepte
+Johann Gottfried Schmidt
+Johann Georg Meßer
+1796
+Johann Gottfried Pommrich
+Johann Georg Kuntzsch
+Johann Georg Schreiber
+Johann Gottlob Zimmermann
+----------------
+1797
+Johann Christian Trepte
+1798
+Johann Georg Werner
+Johann Georg Zscheile
+Johann Georg Günther
+1799
+Johann Christian Naumann
+Johann Gottlob Naumann
+Johann Christian Dresler
