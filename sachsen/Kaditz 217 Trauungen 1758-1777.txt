@@ -1,12 +1,12 @@
 Kaditz (Buch 217)
-Trauungen 1758-1766
+Trauungen 1758-1777
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Mai 2023
 tintenfrass@gmx.de
 
@@ -231,3 +231,181 @@ Johann Christian Beuhne
 Mattheus Seebert
 Johann Gottlob Schultz
 ----------------
+1767
+Johann Gottlob Richter
+Johann Georg Horn
+Georg Andrich
+Johann Gottlob Vogel
+Johann Georg Vogel
+Johann Georg Reiche
+Johann Ludwig Triebel
+Georg Frantze
+Johann Georg Blumberger
+Christoph Siemanick
+Johann Gottlieb Müller
+Gottlob Lesch
+Johann Gottfried Barth
+Daniel Hübler
+----------------
+Christian Schnabel
+Johann Christian Hauckelt
+Michael Trache
+Johann Georg Gebhardt
+1768
+Johann Gottlob Dietze
+Christoph Engelmann
+Johann Gottlieb Frantze
+Johann Gottlob Grießbach
+Gottlob Klotzsche
+Carl Friedrich Taschenberger
+Johann Georg Schultz
+Johann Gottlieb Findeisen
+----------------
+Johann Georg Schurtz
+Johann Gottfried Grie
+Johann Friedrich Schmidt
+Martin Hertzschuch
+Johann Gottfried Schultz
+Christoph Schmidt
+Johann Christian Grießbach
+Christian Daniel Erhard
+Samuel Traugott Dominicus
+Samuel Gentzsch
+Johann Gottfried Findeisen
+Gottfried Heyne
+----------------
+Gottfried Börner
+Samuel Krause
+1769
+Johann Georg Schultz
+Johann Georg Adam
+Johann Georg Dietze
+Johann Gottfried Reiche
+Johann Christoph Damm
+Johann Leuteritz
+Christian Gottlieb Aehnelt
+Johann Gottlob Kummer
+Johann Christoph Kühne
+Johann Gottfried Klotzsche
+----------------
+Johann Georg Betzold
+1770
+Christian Adam
+Samuel Beeßler
+Johann Georg Elias Henschke
+Johann Christoph Krause
+Christoph Schöne
+Johann Christian Klotzsche
+Johann Gottlieb Mentzel
+Johann Adam Hempel
+Martin Beuhne
+Johann Gottlob Türcke
+----------------
+Gottfried Arnold
+Johann Gottlob Schmöhle
+1771
+Johann Georg Schumann
+Johann Christian Bartsch
+Johann Michel
+Johann Gottfried Funcke
+Georg Iltzsche
+Gottfried Vogel
+Johann Gottfried Trobisch
+Johann Gottlob Oehme
+----------------
+1772
+Johann Gottfried Vogel
+Johann Gottlieb Taschenberger
+Gottlob Mildner
+Georg Schumann
+1773
+Gottfried Vogel
+Carl Christoph Klotzsche
+Christian Heyne
+Georg Findeisen
+Christian Friedrich Bormann
+Gottfried Sättler
+Johann Gottlob Apt
+----------------
+Johann Vogel
+Johann Gottfried Adam
+Gottlob Boden
+Johann Georg Süßemilch
+Christian Börner
+Friedrich Gottlieb Beuchelt
+1774
+Johann Georg Mehlig
+Johann Michael Wünschmann
+Gottlieb Frantze
+Christian Findeisen
+Johann Christian Hülßig
+----------------
+Johann Gottfrölich Reichelt
+Johann Christian Mildner
+Andreas Taschenberger
+Johann Gottfried Lohse
+Johann Gottlob Garten
+Johann Gottlob Wend
+Johann Friedrich Winter
+Samuel Hertzschuch
+Gottlob Taschenberger
+David Froenchter
+Martin Adam
+----------------
+Johann Michael Fürste
+Christian Frantze
+Gottfried Dietze
+1775
+Johann Gottfried Winckler
+Georg Johne
+Johann Gottfried Hebelt
+Johann Gottfried Seebert
+Christian Sättler
+Johann Gottlieb Grießbach
+Carl Gottfried Schmidt
+Gottfried Patzig
+----------------
+Johann Georg Hertzschuch
+Gottlieb Mentzel
+Johann Georg Vogel
+Johann Christian Zscheile
+Johann Georg Taschenberger
+1776
+Johann Georg Iltzsche
+Johann Gottlob Frantze
+Johann Christian Bezold
+Johann Gottlieb Bormann
+Johann Georg Schultz
+----------------
+Johann Georg Götze
+Johann Georg Dollinger
+Johann Gottfried Grahl
+Johann Georg Rentsch
+Martin Schumann
+Gottlob Hebelt
+Johann Gottlieb Schultz
+1777
+Christian Gottlob Taschenberger
+Gottfried Findeisen
+Christian Frantze
+Johann Gottlob Beuhne
+Johann Gottlieb Barth
+----------------
+Johann Georg Lesch
+Johann Samuel Adam
+Gottfried Schumann
+Johann Gottfried Findeisen
+Martin Haußotter
+Johann Georg Boden
+Christian Benck
+Gottfried Thalheim
+Johann Gottfried Weinhold
+Johann Georg Tränckner
+Johann Gottfried Adam
+Christian Dietze
+Johann Christian Vogel
+----------------
+Gottlob Naumann
+Gottfried Hübner
+Johann Daniel Maune
+Christoph Heyne
