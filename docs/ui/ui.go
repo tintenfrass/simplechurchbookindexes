@@ -245,6 +245,8 @@ func (h *searchComp) Render() app.UI {
 					app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 					app.Br(),
 					app.H3().Body().Text(" v1.1 (Mai 2023) latest updates:"),
+					app.Label().Text("Trauungen rechte Elbseite 1767-1777"),
+					app.Br(),
 					app.Label().Text("Trauungen Dresden 1767-1777"),
 					app.Br(),
 					app.Label().Text("Trauungen linke Elbseite 1750-1766"),
