@@ -1,12 +1,12 @@
 Zehren (Buch 2)
-Trauungen 1732-1766
+Trauungen 1732-1777
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunde
 März 2023
 Mai 2023
 tintenfrass@gmx.de
@@ -480,3 +480,145 @@ Johann Christoph Müller
 Johann Gottfried Zschoche
 Johann Gottfried Binckert
 ----------------
+1767
+Gottfried Schröter
+Johann Martin Hüfler
+Johann Georg Weber
+Gottfried Rolle
+Andreas Junghans
+Johann Georg Dölitsch
+Gottfried Hentschel
+Johann Martin Dolch
+Johann Gottfried Carl Schwilzky
+Johann Gottfried Fichtner
+1768
+Johann Christoph Hunger
+Johann Georg Neider
+Christian Starcke
+----------------
+Johann Christian Zschoche
+Johann Gottlieb Dögel
+Johann Peter Zschitschmann
+Johann Christian Rühle
+Johann Gottlieb Bucher
+Johann Gottfried Fichtner
+Johann Gottfried Naumann
+Gottlieb Banitz
+Johann Christoph Damm
+Johann Gottlieb Schröder
+Johann Andreas Zschäbitz
+Gottlieb Zschoche
+1769
+Johann Georg Bötz
+Johann Gottlob Hilbert
+----------------
+Johann Gottlieb Schuster
+August Wilhelm Brunnemann
+Johann Gottfried Leichte
+Johann Gottfried Jüßling
+Johann Christoph Roßberg
+Johann Georg Hellmich
+1770
+Johann Gotthelf Mühlthau
+Ehrenfried Grösel
+Johann Samuel Götze
+Gottfried Jahn
+Peter Hather?
+Johann Adam Jahn
+Johann Georg Forberger
+----------------
+Martin Starcke
+Johann Christoph Knecht
+Johann Gottlob Thielemann
+Johann Gottlieb Oehmigen
+Johann Gottlieb Stüfler
+Christian Burckhart
+1771
+Gottfried Riße
+Johann Kleeberg
+Johann Gottlob Schreiber
+Johann Georg Riße
+Franz Paul Schiebel
+Johann Michael Koppe
+Johann Gottlob Schober
+----------------
+Johann August Götze
+Johann Gottfried Seyffert
+Johann Georg Mühlstädt
+Andreas Hermann
+Gottlob Bormann
+Johann Christian Geschke
+1772
+Johann Gottfried Heinrich
+Johann Gottfried Richter
+Johann Gottlieb Zschalich
+Johann Gottfried Rost
+August Heinrich Grieser
+Michael Günther
+Johann Gottlieb Moritz
+----------------
+Christian Friedrich Hebenstreid
+Gottlob Bernhardt
+1773
+Peter Schmidt
+Michael Emmrich
+Johann Gottlob Hennig
+Johann Georg Reinhardt
+Johann Georg Kirchner
+1774
+Johann Georg Hoffmann
+Gottlob Haase
+Benjamin Münch
+Johann Benjamin Thiemigen
+Johann Gottlieb Jäger
+Johann Georg Böhme
+----------------
+Johann Gottlob Schröder
+Johann Gottfried Junghans
+Johann Gottlieb Haferland
+Johann Gottlob Rostig
+Johann Gottlieb Heinrich
+Samuel Botsch
+1775
+Gottlieb Mühlstädt
+Gotthelf Schreiber
+Gottlieb Seubich
+Johann Weber
+Johann Gottlob Hartzbecker
+Johann Christian Saupe
+Johann Christian Hunger
+Christian Naumann
+----------------
+Johann Friedrich Lehmann
+Johann Christian Reinhardt
+Gottlieb Naack
+Johann Gottfried Damm
+Johann Gottlob Schönhals
+Carl Friedrich Rehn
+1776
+Gottfried Praßer
+Johann Daniel Geyer
+Johann Gottlieb Hilbert
+Johann Gottfried Pfeifer
+Johann Gottfried Hentschel
+Gottlieb Fichtner
+Johann Georg Voigt
+----------------
+Christoph Heinrich Zießler
+Johann Christoph Glauche
+Johann Gottlob Stügler
+1777
+Gottlieb Zieger
+Johann Gottlieb Gründlich
+Johann Christian Clauß
+Johann Gottlieb Rothe
+Johann Gottlob Emmrich
+Christian Lincke
+Johann Paul Kretzschmer
+Johann Gottlieb Beyer
+Johann Georg Zschaitzsch
+Christian Gottfried Lange
+----------------
+Gottlieb Winckler
+Martin Sturm
+Christian Gottlieb Klotzsche

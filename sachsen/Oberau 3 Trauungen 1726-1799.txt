@@ -1,12 +1,12 @@
 Oberau (Buch 3)
-Trauungen 1726-1766
+Trauungen 1726-1799
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Februar 2023
 Mai 2023
 tintenfrass@gmx.de
@@ -247,3 +247,200 @@ Ernst Haubold Miltitz
 Adolph Andreas Geudner
 Thomas Mitschke
 ----------------
+1767
+Samuel Rühle
+Johann Gottfried Otto
+Georg Wentsche
+1768
+Hans Georg Münch
+Martin Richter
+Johann Christoph Umlauft
+Johann Georg Antrag
+----------------
+1769
+Martin Mähnert
+Johann Adolph Samson
+Gottlob Ehrenfried Grünert
+Johann Georg Baarmann
+Gottfried Ruhland
+Johann Ephraim Gründel
+x
+----------------
+1770
+Christian Kuntze
+Johann Gottlieb Mahnert
+Johann Christian Sachse
+Johann Christian Bräuer
+Johann Gottlieb Spieler
+1771
+Johann Georg Dürichen
+Christian Förster
+Hans Schlechte
+Johann Christian Grille
+----------------
+1772
+Johann Christian Meltzer
+Samuel Opitz
+1773
+Thomas Mitschke
+Johann Georg Baarmann
+Gottfried Starcke
+1774
+Johann Georg Rentzsch
+Christian Röger
+Johann Gottlob Thieme
+----------------
+1775
+Johann Georg Haupt
+Johann Georg Vetter
+Johann Christian Hoyer
+Johann Gottlieb Leopold
+1776
+Christian Friedrich Großmann
+Carl Gottfried Staudach
+----------------
+Johann Adam Schade
+Johann Georg Kranke
+1777
+Johann Christian Fischer
+Christian Mäser
+Johann Gottfried Wendisch
+Johann Gottlob Vetter
+Johann Georg Meser
+----------------
+1778
+Christian Friedrich Marbach
+Ernst Gottlob Kern
+Gottlieb Leberecht Gensel
+Johann Gottfried Rühle
+Gottfried Thiele
+Christian Marx
+----------------
+1779
+Johann Georg Schlechte
+Johann Michael Haupt
+Johann Gottlieb Übigau
+Johann Georg Meyer
+----------------
+Christian Beerwald
+Michael Beuchelt
+1780
+Johann Samuel Gründel
+----------------
+Gottfried Stölzner
+Johann Michael Vetter
+1781
+Marcus Thiergen
+Christoph Säring
+----------------
+Wilhelm Ehrenfried Pause
+Johann Schramm
+Johann Gottlob Raußer
+Johann Michael Meltzer
+----------------
+1782
+Gottfried Marx
+Gregor Hanisch
+Mattheus Friedrich Gerdeßen
+Gottfried Melzer
+----------------
+1783
+Georg Hennio
+Johann Gotthelf Gründel
+1784
+Johann Christian Rühl
+Daniel Sohr
+----------------
+Johann Georg Fincke
+Johann Jacob Hempel
+Johann Georg Marx
+Gottfried Geyer
+----------------
+1785
+Johann Gottlieb Reuter
+Johann Gottlieb Haase
+Johann Friedrich Opitz
+Johann Carl Ludwig Bonniot
+----------------
+1786
+Samuel Rühl
+Kilian August Adler
+Johann Gottlob Lehbach
+Johann Gottfried Vetter
+----------------
+Johann Benedig August Fischer
+Johann Christian Vorwerck
+1787
+Gottlieb Leberecht Gründel
+Gottlob Hillich
+----------------
+Carl Gottlieb Pietzsch
+1788
+Johann Gottfried Grille
+Johann Gottfried Wendisch
+1789
+Johann Gottlieb Meynert
+----------------
+Johann Adam Schade
+Gottlob Gellert
+Johann Gottfried Rendler
+Gottfried Zobeld
+----------------
+Gottlob Haase
+1790
+Samuel Schneider
+1791
+Johann Georg Haupt
+Christoph Bergmann
+----------------
+Johann Gottfried Tradack
+Johann Georg Rühle
+Christoph Lehmann
+----------------
+1792
+Johann Gottfried Stelzner
+Johann Gottlieb Meynert
+Johann Gottlob Schlechte
+----------------
+Gottfried Eckhard
+1793
+Samuel Geimmer
+Johann Georg Franz
+----------------
+Johann Gottfried Niese
+1794
+Gottfried Rühle
+----------------
+Gottlieb Stephan
+Johann Christian Fischer
+Johann Gottfried Haase
+Johann Samuel Münch
+----------------
+Johann Christian Hoyer
+Johann Georg Fischer
+----------------
+Johann Gottlob Münch
+Johann Christian Mäser
+----------------
+1795
+Johann Gottfried Stelzner
+Johann Gottlob Marbach
+----------------
+1796
+Johann Christian Starcke
+1797
+Johann Gottlieb Meinert
+1798
+Johann Traugott Ebert
+Carl Heinrich Christoph Thalwitzer
+Johann Gottlob Hornemann
+----------------
+Johann Christoph Sering
+Johann Gottfried Thieme
+1799
+Johann Gottlieb Born
+Johann Gottfried Leuthold
+----------------
+Christoph Lehmann
+Gottfried Umlauft
+Johann Gottfried Beulich

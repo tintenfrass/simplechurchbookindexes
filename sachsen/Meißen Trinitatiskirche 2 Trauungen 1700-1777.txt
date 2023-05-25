@@ -1,12 +1,12 @@
 Meißen Trinitatiskirche (Buch 2)
-Trauungen 1700-1766
+Trauungen 1700-1777
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
-Erstellt in ca. 2 Stunden
+Erstellt in ca. 2,5 Stunden
 Februar 2023
 Mai 2023
 tintenfrass@gmx.de
@@ -635,3 +635,125 @@ Hans Georg Frese?
 Johann Gottlob Meltzer
 Johann Christian Sachse
 Hans Born
+1767
+Johann Christian Lippman
+Johann Gottlob Heintze
+----------------
+Johann Gottfried Rühle
+Johann Gottfried Hottewitzsch
+Gottfried Mäser
+1768
+Johann Gottfried Hermann
+Christian Kießling
+Johann Georg Clauß
+Johann Gottfried Schlicke
+Gottfried Klemm
+Christoph Dietze
+Gottlob Stammfuß
+1769
+Johann Gottfried Heintze
+Christian Birnstengel
+----------------
+Johann Gottlieb Weber
+Gottlieb Lange
+Peter Rasch
+Gottfried Seiler
+Johann Ernst Petersohn
+Christian Gottlieb Sorge
+Gottfried Müller
+Salomon Niese
+Johann Benjamin Förster
+Christian Klemme
+Johann Christian Dörschel
+----------------
+1770
+Gottfried Ludwig Köhler
+Johann Christian Zocher
+Johann Friedrich Dolch
+Gottlob Friedrich Bredtschneider
+Martin Hermann
+Hans Adam Fichtner
+Hans Georg Mäser
+Gottlieb Klemm
+Gottfried Zschoche
+Johann Gottfried Pappermann
+Adam Beulig
+----------------
+1771
+Gottlieb Fehrmann
+Gottfried Hillmann
+Johann Gottlieb Trentzsch
+Johann Gottlieb Rühle
+Gottlieb Wolf
+1772
+Johann Georg Fichtner
+Martin Lindner
+Johann Gottfried Bach
+David Haußmann
+1773
+Christian Petzsch
+Friedrich Wilhelm Müller
+----------------
+Johann Gottlieb Tinnfelder?
+Andreas Janitzsch?
+Johann Christian Mäser
+Johann Gottlieb Lehmann
+Johann Christoph Hänel
+Johann Gottlieb Voigt
+Johann Gottlieb Zocher
+Christian Friedrich Edlich
+Johann Gottlob Wilsdorf
+Gottlieb Wend
+1774
+Johann Georg Haase
+Johann Christian Winckler
+Johann Gottlieb Dürichen
+----------------
+Johann Daniel Wolf
+Gottlob Grafe
+Christoph Adam
+Andreas Hanitzsch
+Johann Christian Wancke
+Johann Paul Hottewitz
+Johann Born
+Johann Gottfried Naumann
+1775
+Samuel Arnold
+Johann Gottfried Heintze
+Gottlieb Hottewitzsch
+Johann Gottfried Neider
+Johann Gottlob Niese
+Martin Clauß
+----------------
+Samuel Schrödter
+Johann Gottlob Voigt
+Gottlieb Kluncker
+Carl Friedrich Schubert
+Johann Gottfried Legler
+Johann Christian Hottewitzsch
+Gottlieb Marcus
+Georg Wilhelm Arnstedt
+1776
+Johann Gottlob Grille
+Gottlieb Voigt
+----------------
+Johann Georg Hottewitzsch
+Johann Gottlob Haase
+Johann August Bredtschneider
+Johann Georg Klemme
+Johann Georg Weser
+Carl Gottlob Fincke
+Christian Kluncker
+Johann Christian Grimmer
+Johann Christian Borsdorf
+1777
+Johann Friedrich Haußmann
+Hans Georg Scheffler
+----------------
+Johann Georg Schmidt
+Johann Gottfried Kirsten
+Gottlieb Beulich
+Christian Benedig Schmidt
+Johann Christian Tennert
+Gottlieb Koch
+Johann Rothe

@@ -1,5 +1,5 @@
 Zadel (Buch 2)
-Trauungen 1594-1766
+Trauungen 1594-1773
 
 Das ist ein Index der Trauungen.
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
@@ -1336,3 +1336,55 @@ Johann Gottfried Riehle
 Hans Georg Schneider
 Christian Kohlmann
 ----------------
+1767
+David Friedrich Lange
+Christian Beger
+Hans Georg Burckhart
+Gottlob Bischof
+Johann Gottfried Riehle
+Johann Adam Keul
+1768
+David Beger
+Johann Gottlob Hanefeld
+Johann Christian Hänsgen
+Christian Voigt
+----------------
+Johann Gottlieb Röder
+Johann Georg Fritzsche
+Samuel Reinicke
+1769
+Johann Georg Scheiblich
+Gottlieb Schultz
+Georg Fehrmann
+Johann Christian Sturm
+----------------
+Johann Gottlieb Reger
+Johann Seltzer
+Johann Gottfried Richter
+1770
+Johann Gottlieb Pötzsch
+Friedrich Sommerfeld
+Martin Moritz
+Johann Christian Zickler
+Johann Christian Dolch
+----------------
+Gottlieb Schumann
+Johann Friedrich Seyffert
+Johann Georg Riele
+1771
+Johann Keil
+Johann Gottlieb Lehmann
+Johann Georg Münch
+Johann Friedrich Beyer
+----------------
+1772
+Georg Koch
+Johann Christian Wolf
+Christian Gottfried Gehrischer
+Christoph Oelschzig
+Johann Georg Gießmann
+1773
+Johann Adam Schlechte
+----------------
+Johann Christian Schober
+Gottfried Voigt
