@@ -1,12 +1,12 @@
 Raußlitz (Buch 2)
-Trauungen 1675-1766
+Trauungen 1675-1774
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
-Erstellt in ca. 4 Stunden
+Erstellt in ca. 4,5 Stunden
 Januar 2023
 Februar 2023
 Mai 2023
@@ -1324,4 +1324,131 @@ Johann Gottlieb Apel
 Gottfried Bormann
 Andreas Strelle
 Johann Christian Georgi
+----------------
+1767
+Johann Christian Schwägergen
+Gottlieb Döring
+Johann Gottfried Mühlberg
+Peter Franck
+Johann Gottfried Schmidt
+Michael Müller
+Johann Georg Voigt
+Christian Gottlob Wackwitz
+Johann Georg Rößler
+Gottlob Jentzsch
+x
+Johann Michael Nagel
+Johann Georg Günther
+----------------
+Johann Gottlob Eckelmann
+Johann Christoph Faust
+Johann Georg Bäurig
+Johann Georg Uhlmann
+1768
+Johann Gottfried August Weber
+Carl Gottfried Schurick?
+Johann Gottlob Steude
+Johann Christian Voigt
+Johann Carl Illige
+----------------
+Johann Gottlob Jencke
+Johann Christian Förster
+Johann Michael Otto
+Johann Georg Günther
+Johann Gottlieb Nacke
+1769
+Johann Gottfried Ihle
+Gottlob Grosch
+Johann Christoph Schober
+Johann Christian Jentzsch
+----------------
+Johann Gottlieb Koumberg?
+Gottlieb Hänsel
+Gottfried Köhler
+Johann Gottlob Müller
+Johann Gottfried Borßdorf
+Gottlieb Bormann
+Georg Greif
+Johann Gottlob Beuchel
+Johann Gottfried Wilsdorf
+Johann Gottlieb Lommatzsch
+Johann Gottlob Nagel
+1770
+Christian Kayser
+Gottlieb Günther
+----------------
+Carl Gottlieb Müller
+Johann Gottlieb Hermann
+Gottlieb Hanefeld
+Johann Christian Eulitz
+Johann Michael Altermann
+Johann Gottfried Herbst
+Gottfried Voigt
+Johann Gottfried Wustlich
+Johann Christoph Gottschald?
+Johann Gottlob Funcke
+Johann Michael Ficke
+----------------
+Johann Georg Kluncker
+Johann Gottlob Schneider
+Jacob Steltzer
+Carl Friedrich Zimmermann
+Gottfried Mietzsch
+1771
+Johann Adam Eberlein
+Johann Paul Jentzsch
+Gottlieb Hahn
+Johann Georg Greif
+Michael Beitz
+Johann Adam Sammler
+----------------
+Johann Christoph Beuchel
+Johann Georg Köhler
+Johann Gottfried Hörig
+Johann Georg Zscherner
+Johann Georg Uhlmann
+Johann Gottlieb Panitz
+1772
+Johann Adam Samler
+Daniel Kühne
+Gottfried Ranft
+Johann Gottlob Karge
+----------------
+Gottlob Bormann
+Johann Gottlob Tiersche
+Johann Christian Nößig
+Gottlob Landsch
+1773
+Johann Gottlieb Bretschneider
+Christian Grübler
+Johann Gottfried Kluge
+Johann Gottlieb Weise
+Gottfried Steude
+----------------
+Johann Christian Fehrmann
+Johann Gottlieb Günther
+Peter Stange
+Johann Heinitz
+Johann Christian Lantzsch
+Gottlieb Kluge
+Johann Gottlob Crell
+Johann Samuel Schmidt
+----------------
+1774
+Johann Gottlob Begenau
+Johann Gottlieb Pinckert
+Gottlieb Barth
+Johann Paul Zimmermann
+Johann August Müller
+Johann Gottlieb Eulitz
+Johann Adam Clauß
+Johann Georg Kühne
+Johann Georg Döring
+----------------
+Johann Gottlob Lantzsch
+Gottlob Erler
+Christian Goerner
+Johann Gottlieb Ditrich
+Johann Gottlob Oehme
+Johann Gottfried Kirstein
 ----------------

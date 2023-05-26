@@ -1,11 +1,11 @@
 Hirschfeld (Buch 3)
-Trauungen 1710-1766
+Trauungen 1710-1777
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stunden
+Erstellt in ca. 2 Stunden
 Februar 2023
 Mai 2023
 tintenfrass@gmx.de
@@ -468,3 +468,86 @@ Samuel Döring
 Johann Christian Wentzel
 Johann David Leberecht Lutze
 Johann Gottfried Rülcker
+1767
+Christian Jost
+Gabriel Hoffmann
+Johann Gottfried Wagner
+Johann Heinrich Jahn
+Johann Michael Fischer
+Johann Gottlieb Lamm
+Johann Christian Leupold
+Johann Michael Kohlsdorf
+Johann Michael Naumann
+----------------
+1768
+Johann Christoph Buschbeck
+Johann Gottfried Hencker
+Gottlieb Schmieder
+Carl Heinrich Reitzen
+Johann Gottfried Stiel
+Johann Gottlob Teichmann
+Johann Christian Köhler
+Johann Gottfried Kluge
+Johann Georg Hempel
+Johann Georg Rülcker
+1769
+Carl Christian Großöhmich
+Gottfried Lange
+Johann Michael Dietze
+Johann Gottlieb Löwe
+Johann Gottlieb Fischer
+Gottlieb Naumann
+1770
+Gottlieb Günther
+Gottlieb Hackenberger
+Johann Gottfried Lorentz
+----------------
+Christian August Tändler
+Joseph Rost
+1771
+Samuel Berthold
+Johann Christoph Haymann
+1772
+Johann Georg Hämpel
+Johann Gottlob Dierse
+Johann Michael Großöhmich
+Gottlieb Kehrbach
+Johann Christian Paul
+Johann Christoph Pezold
+1773
+Christian Gottlob Spiller
+Christian Küstner
+Johann Gottfried Küntzelmann
+Johann Gottlieb John
+Joseph Kehrbach
+Johann Christoph Dierse
+Johann Gottfried Frohnert
+Johann Gottlob Gottschalt
+1774
+Johann Gottfried Stange
+Johann Gottlob Grundmann
+----------------
+Johann Gottlieb Kayser
+Johann Gottlieb Fleischer
+Johann Daniel Sohr
+Gotthelf Frauenstein
+Johann Gottlieb Jost
+Otto Moritz Großöhmich
+1775
+Johann Gottlob Starcke
+Georg Gottlob Töpel
+Gottlob Fichtner
+Joseph John
+1776
+Johann Christian Fichtner
+Carl Gottlob Stohn
+Johann Gotthold Hempel
+Johann Daniel Weise
+Christian Gotthelf Ditrich
+Johann Gottlieb Bäuchel
+1777
+Johann Georg Dierse
+Johann Gottlieb Friedrich Starcke
+Johann Gottlieb Humptzsch
+----------------
+Johann Gottfried Seifert

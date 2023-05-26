@@ -1,5 +1,5 @@
 Burkhardswalde (Buch 1)
-Trauungen 1655-1766
+Trauungen 1655-1777
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
@@ -8,7 +8,7 @@ Hinweis:
 Im Kirchenbuch selber gibt es ein alphabetisches Register, welches für diesen Index aber nicht verwendet wurde.
 
 
-Erstellt in ca. 2,5 Stunden
+Erstellt in ca. 3 Stunden
 Juni 2022
 Februar 2023
 Mai 2023
@@ -800,3 +800,84 @@ Johann Georg Geißler
 ----------------
 Gottfried Schubert
 Johann Christian Hubler
+1767
+Peter Dreyßig
+Johann Georg Damm
+1768
+Elias Bachmann
+Johann Georg Schubert
+1769
+Peter Rülcker
+Gottlieb Dachselt
+Johann Christoph Fritzsche
+Georg Maune
+Christian Benjamin Stoll
+Johann Georg Leonhardt
+Christian Kest?
+Johann Christian Hänßel
+1770
+Johann Gottlob Lehnart
+Christian Hänsel
+Johann Georg Ulbrich
+Johann Andreas Schieritz
+Gottlieb Lomtsch
+----------------
+Gottlob Beyer
+Gottlob Starcke
+Peter Rost
+Gottlieb Fehrmann
+Johann Gottlob Greulich
+1771
+Johann Georg Clauß
+Johann Gottlieb Döring
+Johann Christian Burckhart
+Johann Gottfried Kirsch
+Johann Christian Leü
+1772
+Gottlieb Donat
+Gottlieb Rülcker
+Johann Georg Stubenrauch
+Gottfried Berger
+----------------
+1773
+Johann Gottlob Braune
+Johann Gottfried Hänsel
+Johann Martin Rost
+Johann Gottlob Starcke
+Christian Leuschner
+Johann Gottlob Schüttich
+Johann Gottlob Döring
+Gottfried Burckhart
+Daniel Gottlob Hänsel
+Georg Talkenberger
+Christian Gottfried Wackwitz
+1774
+Johann Flache
+Johann Georg Dietze
+Johann Georg Ihle
+Johann Gottfried Silbermann
+----------------
+Johann Georg Hartmann
+Christian Richter
+1775
+Elias Bachmann
+Gottlieb Schmidt
+Johann Gottlob Silbermann
+Johann Gottlieb Ulbrich
+Johann Christian Gaschütz
+Johann Georg Gleisberg
+Johann Gottfried Grafe
+1776
+Johann Gottlieb Kach
+Johann Georg Bottig
+Johann Gottlieb Zimmermann
+Gottfried Hayer
+Johann Gottlob Rosberg
+1777
+Johann Christian Leuschner
+Johann Christian Märcker
+Gottlieb Winckler
+----------------
+Johann Gottlieb Kretzschmer
+Christian Kirsch
+Johann Georg Heyde
