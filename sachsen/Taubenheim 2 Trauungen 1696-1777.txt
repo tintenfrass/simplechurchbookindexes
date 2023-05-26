@@ -1,5 +1,5 @@
 Taubenheim (Buch 2)
-Trauungen 1696-1766
+Trauungen 1696-1777
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
@@ -9,7 +9,7 @@ Hinweis:
 Zwischen 1687 und 1696 ist eine Lücke in den Kirchenbüchern.
 
 
-Erstellt in ca. 2h
+Erstellt in ca. 2,5h
 Juni 2022
 Februar 2023
 Mai 2023
@@ -1047,3 +1047,189 @@ Heinrich Stübner
 Johann Gottfried Schubert
 Johann Gottlieb Hauptmann
 Gottfried Ebing
+1767
+Johann Georg Knoll
+Peter Schrempel
+Johann Gottlieb Beuche
+Gottlieb Benjamin Hahn
+Johann Christoph Scheffler
+Johann Heinrich Fischer
+Johann Georg Dreßler
+----------------
+Johann Gottfried Weber
+Christian Nagel
+Carl Gottlob Ludwig
+1768
+Christian Vogel
+Johann Georg Türcke
+Johann Heinrich Schnabel
+Gottfried Heintze
+Georg Rüdiger
+Samuel Friedrich Rösner
+Johann Gottlieb Gießmann
+Christian Gottlieb Glaßewald
+1767
+Peter Schrempel
+1768
+Johann Adam Hamitsch?
+Johann Christoph Peterson
+Johann Heinrich Winter
+----------------
+Friedrich Seibnitz
+Gottfried Steinert
+Carl Lippmann
+Johann Gottlob Döring
+Christian Friedrich Wiltner
+Christian Gerber
+Johann Georg Pingnert
+Johann Georg Gröber
+Johann Michael Hanicke
+Johann Carl Schnurr?
+Theodor Piskolitz
+Gottlieb Greulich
+----------------
+Gottlieb Tamm
+Johann Georg Schubert
+Johann Gottlob Thielemann
+Johann Gottfried Bertam
+Gottlieb Döring
+Michael Winckler
+Siegmund Simon
+Johann Gottlieb Meißner
+----------------
+Johann Christian Müller
+1769
+Georg Daniel Pfeiffer
+Johann Georg Ranft
+Friedrich Hermann
+Gottheld Willischius?
+Johann Georg Müller
+Johann Gottlieb Clauß
+Friedrich Gottlieb Hackel
+----------------
+Gottlob Grosche
+August Moritz
+Gottlieb Lauterbach
+Johann Friedrich Raußendorf
+----------------
+Johann Gottlieb Lommatzsch
+Johann Georg Christoph
+Gottfried Thiele
+Johann Heinrich Wedler
+Gottfried Betzold
+----------------
+Christian Gottlieb Bufach
+Christian Gottlob Hübner
+Johann Georg Kunze
+Samuel Lehmann
+Paul Ziche
+Johann Gottfried Mulisch
+Israel Heppig
+Gottlieb Beuchel
+Christoph Bärwald
+----------------
+Friedrich Gottlieb Sommer
+Christian Tobias Dutzsche
+Johann Wilhelm Günther
+Heinrich Frantz
+Johann Georg Damm
+Johann Scope?
+Christian Benjamin Stolle
+Johann Gottlieb Beichling
+Johann Gottlieb Bernhard
+----------------
+Johann Georg Leonhardt
+Gottlob Weber
+Johann Georg Albrecht
+1770
+Gottlob Günther
+Johann Georg Rost
+Johann Jacob Müller
+Johann Kießlich
+Michael Krieger
+Peter Becker
+Johann Gottlob Hänsel
+----------------
+x
+Johann Gottlieb Müller
+Johann Gottlieb Thiemig
+1771
+Gottlob Schlechte
+Johann Gottlieb Zschoche
+Gottlob Ranft
+Johann Georg Walther
+Gottlieb Pietzsch
+Johann Gottfried Tannert
+Johann Gottfried Zschoche
+Christian Opitz
+----------------
+Gottlob Clauß
+1772
+Johann Georg Müller
+Gottlieb Donat
+Samuel Taschenberger
+Johann Gottlob May
+Johann Gottlieb Hamitsch
+Gottlieb Hörig
+Johann Gottfried Clauß
+Christian Grellmann
+1773
+Johann Gottlob Bruchmüller
+----------------
+Johann Christoph Lindner
+Johann Georg Pietzsch
+Gottlob Hayde
+Johann Gottlieb Gau
+Gottfried John
+August Traugott Knaut
+1774
+Johann Gottfried Beuche
+Johann Georg Ihle
+Johann Georg Kästner
+Johann Georg Lommatzsch
+Johann Georg Tamm
+----------------
+Gottfried Schrempel
+Gottlob Kunze
+Johann Gottlob Grill
+Johann Gottlob Schubert
+Johann Gottlieb Starcke
+Michael Ditzig?
+Christian Fischer
+1775
+Christian Wittig
+Johann Georg Cleemann
+----------------
+Johann Michael Grübler
+Johann Gottlob Grellmann
+Johann Gottfried Köhler
+Johann Gottlieb Adam
+Johann Gottlieb Lützner
+Johann Gottfried Tamm
+Samuel 	Starcke
+Johann Gottlieb Schröter
+Johann Gottfried Eybe
+----------------
+Johann Gottlieb Kluncker
+Johann Gottlieb Kost
+Johann Christian Spangen
+1776
+Johann Gottlieb Wachsmuth
+Johann Gottlieb Ditmann
+Johann Georg Kleemann
+Carl Gottlieb Sommer
+Johann Georg John
+----------------
+Carl Adolph Knaut
+Johann Gottfried Tannert
+Ehrhardt Mühlberg
+Christian Harz
+Johann Gottlob Bollmann
+Johann Gottlieb Beckert
+1777
+Johann Gottlieb Kunze
+----------------
+Johann Gottfried Melzer
+Samuel Siegmund Pegau
+Johann Gottlob Cramer?
+Johann Gottlieb Knaut

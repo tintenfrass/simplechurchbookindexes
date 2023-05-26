@@ -1,12 +1,12 @@
 Neukirchen (Buch 2)
-Trauungen 1729-1766
+Trauungen 1729-1777
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunde
 Februar 2023
 Mai 2023
 tintenfrass@gmx.de
@@ -404,3 +404,123 @@ Johann Michael Krüger
 Johann Gottfried Gießner
 Johann Gottlieb Dietze
 Johann Gottfried Rülker
+1767
+Jacob Haupt
+Johann Jacob Stäfel?
+Johann Gottlieb Stange
+Christoph Papritz
+Johann Gottfried Müller
+Gottlieb Braunsdorf
+Johann Gottfried Hanzschmann
+Gottlieb Lippmann
+Johann Gottfried Pelizsch
+Adam Friedrich Wittig
+Johann Gottlieb Jätzsch
+----------------
+1768
+Gottlieb Potscher
+Johann Gottlieb Preußer
+Johann Michael Limbach
+Gottlieb Epelt
+Johann Gottfried Johne
+Johann Joseph Keyser
+Johann Georg Ebert
+1769
+Johann Georg Heyde
+Gottlieb Hempel
+Johann Gottlieb Bernhard
+Johann Gottlob Lübschner
+Johann Georg Simon
+1770
+Johann Georg Keller
+Andreas Krause
+----------------
+Johann Gottlieb Simon
+Johann Gottlob Grellmann
+Gottlieb Hoyer
+Johann Gottfried Hencker
+Johann Friedrich Anhalt
+Christian August Tändler
+Johann Gottfried Berger
+1771
+Johann Jacob Schönert
+----------------
+Johann Gottlieb Schmidt
+Christian Ebert
+Johann Gottfried Barthel
+Jonas Pietsch
+Gottfried Wustlich
+Johann Gottlieb Kühne
+Johann Gottlieb Pinckert
+1772
+Johann Georg Bauer
+----------------
+Johann Michael Kühn
+Gottlieb Dachsel
+Gottlieb Kirbach
+Johann Christian Paul
+1773
+Johann Christian Edel
+Johann Carl Friedrich Horn
+Friedrich Gottlieb Gebhardt
+Johann Gottlieb Rötzsch
+----------------
+Johann Gottlieb Dachsel
+Johann Christian Kühne
+Johann Gottlob Rosenberger
+Gotthelf Pinckert
+Johann Heinrich Löwe
+Johann Michael Uhlich
+Johann Georg Jähnichen
+Joseph Kirbach
+----------------
+Johann Gottlob Stange
+Gottlieb John
+Gottlieb Hoyer
+Ernst August Carl Hänecker
+1774
+Johann Gottlob Raintsch
+Gottlob Werner
+----------------
+Johann Friedrich Dachsel
+Johann Gotthelf Stange
+Johann Gottlieb Richter
+Gottlob Kuntze
+Franz August Kayser
+Johann Christian John
+Johann Gottlieb Walther
+Johann Jacob Nagel
+1775
+Johann Gottfried Funcke
+Johann Keusch
+Johann Christoph Hencker
+----------------
+Johann Gottfried Reiff
+Gottlieb Börner
+Christian Gotthelf Richter
+Johann Michael Fritzsche
+Johann Gottfried Wüstner
+Johann Gottlieb Schröter
+Johann Gottlieb Lorentz
+Christian Thiele
+Johann Gottlieb Rost
+Johann Michael Döring
+1776
+----------------
+Johann Gottlob Schütze
+Gottfried Wustlich
+Johann Gottlob Schumann
+Johann Gottlieb Heyde
+Johann Christian Heyde
+Johann Gottlieb Starcke
+Johann Gottlieb Fehrmann
+Johann Christian Kubitz
+Johann Gottfried Wolke
+----------------
+1777
+Gottlieb Johne
+Gotthelf Börner
+Johann Christoph Lange
+Johann Gottlieb Schubert
+Johann Heinrich Löwe
+Johann Gottlieb Dietze

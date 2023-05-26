@@ -1,12 +1,12 @@
 Tanneberg (Buch 1)
-Trauungen 1663-1766
+Trauungen 1663-1799
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 Zusätzlich sind nicht alle Namen klar lesbar.
 
 
-Erstellt in ca. 2,5 Stunden
+Erstellt in ca. 3 Stunden
 Juni 2022
 Februar 2023
 Mai 2023
@@ -554,3 +554,220 @@ Johann Georg Löbner
 Christian Grube
 Johann Gottfried Mieth?
 Johann Gottfried Lommatsch
+1767
+Georg Kieslich
+----------------
+Johann Gottlieb Adam
+Johann Gottlob Hencker
+Gottlob Mühle
+Johann Friedrich Wittich
+1768
+Johann Georg Lamm
+1769
+Martin Talkenberger
+Christian Kost
+1770
+Johann Christian Schumann
+Rudolph Gottlob Schönberg
+Gottlieb Cöbner
+----------------
+Simon Rost
+Johann Michael Humboldt
+1771
+Abraham Zimmermann
+1772
+Johann Gottfried Pincker
+Johann Joseph Seidel
+Johann Georg Wirth
+Johann August Damm
+Gottlieb Kirbach
+----------------
+Christian Grellmann
+1773
+Rudolph Gottlob Schönberg
+Johann Georg Tamm
+Christian Friedrich Fritzsche
+----------------
+Johann Benjamin Nagel
+Johann Christoph Mosch
+Georg Talkenberger
+1774
+Johann Gottlieb Koede
+Johann Gottlob Burckhart
+----------------
+Johann Georg Kästner
+Johann Georg Grübler
+Johann Gottlob Naumann
+Johann Gottfried Moritz
+Johann Michael Grellmann
+Johann Gottlieb Starcke
+1775
+Immanuel Friedrich Clausnitzer
+Johann Christian Naumann
+----------------
+Johann Gottlob Grellmann
+Andreas Grünberg
+Johann Gottfried König
+Johann Gottfried Greulich
+Christian Gottlieb Stelzner
+Johann Gottlieb Stange
+1776
+Johann Georg Müller
+----------------
+Johann Georg Pottich
+Johann Gottfried Fichtner
+Johann Gottlob Albert
+Gottlieb Heyde
+Johann Gottlieb Starcke
+Johann Gottlob Roßberg
+Johann Gottlieb Schuster
+Johann Christian Künzel
+----------------
+Carl Christoph Conrad
+1777
+Johann Georg Heyde
+1778
+Johann Christian Pietzsch
+Johann Michael Johne
+Johann Gottlob Virth?
+----------------
+1779
+Johann Christoph Heuschkel
+Johann Samuel Liebert
+Gottlob Hoyer
+Johann Gottfried Tamm
+Johann Michael Kost
+Johann Gottlieb Schnee
+1780
+Johann Gottlieb Stange
+Johann Gottlob Burckhart
+----------------
+1781
+Johann Gottlieb Philipp
+Johann Gottfried Starcke
+Johann Gottlob Leuschner
+Gottfried Peschel
+1782
+Johann Gottlieb Burckner
+Otto Joachim Erdmann Langen
+Johann Gottfried Stelzer
+----------------
+Johann Gottfried Flegel
+Johann Christian Pietzsch
+Johann Gottlieb Schumann
+Andreas Gottlob Grünberg
+Heinrich Gotthelf John
+1783
+Johann Georg Rommerich
+Johann Gotthelf Stelzner
+Jacob Heyde
+Johann Gottfried Grübler
+----------------
+1784
+Johann Georg Richter
+Johann Gottfried Grübler
+1785
+Johann Gottfried Irmer
+Rudolph Christoph Schönberg
+----------------
+Johann Christian Günther
+Johann Michael Moritz
+1786
+Johann Gottlob Fritzsche
+Johann Gottlieb Birckner
+Johann Christoph Grefe
+----------------
+1787
+Johann Gottlieb Grellmann
+Johann Gottlob Kühne
+Johann Gottfried Schlechte
+August Ferdinand Crell
+1788
+Johann Georg Hoyer
+Johann Gottlob Hachenberger
+Johann Jacob Müller
+----------------
+Abraham Zimmermann
+Johann Gottlieb Heide
+Johann Christian Sparmann
+Johann Gottfried Dachsel
+Carl Friedrich Hachenberger
+1789
+Friedrich August Kretzschmer
+Johann Gottlieb Begen
+Johann Gottlieb Schnee
+----------------
+1790
+David Gottlob Neubert
+1791
+Carl Gottlob Graßelt
+Johann Gottfried Talkenberger
+Johann Gottfried Pochmann
+Johann Joseph Ficke
+Johann Gottlob Stange
+----------------
+Christian Grube
+Johann Gottlob Heyde
+1792
+Ernst August Pflugt
+Johann Gottlieb Zschoche
+Johann Christoph Neidhardt
+Johann Gottlob Lamm
+----------------
+Johann Gottfried Fichtner
+1793
+Johann Michael Schumann
+Johann Gottlieb Kießlich
+Johann Gottfried Dechardt
+Johann Gottfried Uhlmann
+Johann Gottfried Wittich
+Johann Christian Pietzsch
+----------------
+1794
+Friedrich Gotthelf Albert
+Johann Gottfried Lommatzsch
+Johann Georg Zimmermann
+Johann Gotthelf Kolbe
+Johann Michael Burckhart
+1795
+Christian Gottlieb Stelzner
+----------------
+Johann Gottlieb Finsterbusch
+Johann Gottlieb Stölzner
+Johann Gottfried Böhme
+Johann Gottlieb Furisch
+Johann Gottlob Trinitz
+1796
+Johann Gottlob Grellmann
+----------------
+Johann Gottlob Kießlich
+Johann Gottlob Tamm
+Johann August Richter
+Johann Christoph Haufe
+Johann Christian Leberecht Öttler
+Gottlieb Friedrich Uhlmann
+Johann Gottlob Grube
+Johann Christian Lommatzsch
+----------------
+Johann Gottlob Krell
+Christian Gottlieb Stelzner
+1797
+Johann Gottfried Talkenberger
+Johann Gottlob Talkenberger
+Gottlob Fritzsche
+Johann Gottlieb Wirth
+Johann Gottfried Grellmann
+----------------
+1798
+Jacob Herenz
+Johann Gottfried Herrnsdorf
+Johann Gottfried Kost
+Johann Gottfried Grübler
+Johann Gottfried Liebschner
+Johann Gottlieb Heide
+Johann Michael Gottschalk
+----------------
+1799
+Carl Friedrich Lindner
+Johann Christian Kießlich
+----------------
