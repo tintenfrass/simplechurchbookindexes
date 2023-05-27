@@ -1,11 +1,11 @@
 Constappel (Buch 3)
-Trauungen 1644-1766
+Trauungen 1644-1777
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 3,5 Stunden
+Erstellt in ca. 4 Stunden
 Mai 2022
 Februar 2023
 Mai 2023
@@ -669,5 +669,101 @@ Johann Gottlob Meinel
 Johann Georg Merkner
 Johann Georg Merkner
 Johann Gottlob Meine
-Johann Georg Sunpe?
+Johann Georg Saupe?
 ----------------
+1767
+Johann Gottlieb Reinhold
+Johann Georg Saupe
+Johann Gottlieb Reinhold
+Johann Christian Sittig
+Johann Samuel Berger
+Johann Gottfried Köhler
+Christlieb Wolf
+Gottfried Kunze
+Carl Gottfried Naumann
+Carl Gottfried Naumann
+Mattheus Hartmann
+1768
+Carl Christoph Pfeiffer
+Daniel Fuhrmann
+Johann Gottlob Rieger?
+Johann Gottlob Winckler
+Johann Georg Schultz
+Michael Winckler
+Johann Gottlieb Schumann
+Johann Friedrich Elert
+Johann Georg Pietzsch
+----------------
+1769
+Gottlieb Pauli
+Rudolph Friedrich Dedekind
+Johann Georg Naumann
+Johann Gottlob Andrich
+Martin Hermann
+Johann Gottlob Andrich
+1770
+Johann Georg Sittig
+Georg Sittig
+Georg Sittig
+Christian Bäßler
+Gottfried Faust
+Johann Michael Franz
+Christian Bäßler
+1771
+Gottfried Faust
+Johann Georg Winckler
+1772
+Johann Michael Schwencke
+Carl Gottlob Fiedler
+Christian Gottlob Ruppert
+----------------
+Johann August Schaf
+Christian Friedrich Hencker
+Johann Martin Schultz
+Gottfried Pietzsch
+Johann Michael Kretzschmer
+1773
+Johann Georg Schubert
+Johann Christian Limbach
+Gottfried Sittig
+Georg Petermann
+Christian Gottfried Weinhold
+Gottfried Hoyer
+Gottfried Grünberg
+Johann Jacob Schultz
+Johann Gottfried Franz
+Johann Georg Mehlig
+1774
+Martin Schumann
+Johann Adam Kohl
+Christian Johann Müller
+Heinrich Adolph Büttner
+Carl Gottfried Reh
+----------------
+Johann Christian Heintze
+Johann Christian Heße
+Johann Christian Schubert
+1775
+Carl Friedrich Spieß
+Johann Gottlieb Faust
+Carl Friedrich Liebschner
+Christoph Lindner
+Johann Georg Rietzschel
+Johann Gottlieb Leuteritz
+Johann Christian Höbold
+Gottfried Rüderich
+1776
+Johann Gottlieb Simon
+Gottlieb Schwencke
+Christian Winckler
+Johann Georg Rüdiger
+Gottlieb Köhler
+1777
+Samuel Schanze
+Johann Gottfried Böhlig
+Johann Michael Keppler
+Johann Christoph Hauswald
+Johann Samuel Höbold
+Gottlieb Berger
+Daniel Dose
+Johann Gottlieb Just

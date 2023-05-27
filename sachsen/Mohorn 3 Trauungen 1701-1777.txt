@@ -1,12 +1,12 @@
 Mohorn (Buch 3)
-Trauungen 1701-1766
+Trauungen 1701-1777
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
-Erstellt in ca. 1,5 Stunden
+Erstellt in ca. 2 Stunden
 Februar 2023
 Mai 2023
 tintenfrass@gmx.de
@@ -780,3 +780,143 @@ Johann Georg Rüdiger
 Johann Gottfried Landmann
 Christian Dürsel
 Johann Michael Schubert
+1767
+Johann Gottlob Börner
+Johann Adam Wagner
+Johann Gottlieb Adam
+Gottlieb Mühlberg
+Johann Michael Fritzsche
+Heinrich August Wolf
+Johann Gottfried Schaßig
+Johann Gottfried Bachmann
+Johann Georg Winckler
+Christian Schubert
+Johann Georg Brendel
+----------------
+1768
+Johann Adam Hanitzsch
+Johann Christian Schlicke
+Christian Friedrich Präter?
+Gottlieb Hentschel
+Christian Kluge
+Gottlieb Zimmer
+Johann Gottlieb Götze
+Johann Heinrich Schönberg
+Gottlieb Schlinzig
+Johann Christian Ritter
+Johann Georg Bachmann
+Johann Gottfried Schubert
+Johann Gottfried Riehle
+Johann Christoph Köhler
+1769
+Johann Gottfried Frauenstein
+Johann Gottlob Funcke?
+Johann Christian Huttmann?
+----------------
+Samuel Patsch
+Johann Samuel Kiechner?
+Christian Gottlob Wilisch?
+Gottlieb Rühle?
+Carl Gottlob Lindner?
+Johann Gottlieb Damm
+1770
+Christian Thomas
+Johann Gottlob Braune
+Christian Traugott Meyer?
+Johann Friedrich Rainsch
+Johann Gottfried Mühlberg
+Johann Georg Hartzbecker
+Johann Christian Haltzer?
+Gottlieb Keller
+Johann Gottlob Grellmann
+Johann Mayer?
+----------------
+Friedrich Leupold?
+Johann Christoph Borßdorf
+Samuel Wehler?
+Martin Hencker
+Johann Naumann
+Johann Samuel Küchenmeister
+Johann Christian Naumann
+1771
+Johann Gottfried Wolf
+Christian Liebegott? Wilisch
+Johann Gottfried Hehrmann
+Johann Georg Schliecke
+Gottfried Wustlich
+Johann Gottlieb Röstel?
+Christian Philipp?
+Johann Michael Rüdiger?
+1772
+Carl Gottlieb Seyfried
+Johann Simon
+----------------
+Johann Gottlieb Barth
+Christian Friedrich Teuber
+Christian Friedrich Dreßler
+Christian Philip Riehle
+Johann Michael Kiechen?
+Gottlieb Krüger?
+Johann Gottlieb Störl
+1773
+Johann Michael Kieß?
+Carl Gottlieb Walther
+Johann Andreas Gauwitz
+Johann Christian Keller
+Johann Christian Böhme?
+Johann Michael Naumann
+Johann Georg Schönberg
+Johann Gottfried Ferdinand Eger
+Johann Gottfried Moriz
+Christian Schumann
+----------------
+Johann Samuel Funcke
+Johann Gottlob Drehßler?
+1774
+Johann Gottlieb Zweinig?
+Johann Gottfried Ditrich
+Johann Gottfried Schmidt
+Johann Georg Dörsel
+Johann Gottfried Schubert
+Gottfried Schurich
+Johann Gottlob Hille
+Gabriel Wunderwald
+Carl Gottlieb Spieß
+Johann Gottlob Hermann
+1775
+Johann Gottlieb Dönert
+Johann Gottlob Knobel
+Johann Michael Fritzsche
+Johann Gottlob Silbermann
+Johann Gottlieb Funcke
+Carl Christoph Reichel
+Johann Georg Hartzbecker
+----------------
+Johann Christian Kuntze
+Johann Gottfried Wagner
+1776
+Johann Christoph Richter
+Johann Michael Wizel?
+Carl Gottfried Weißig
+Johann Gottlob Schönberg
+Johann Georg Cleman
+Johann Christian Schultz
+Johann Georg Kühn
+Johann Gottlieb Schönberg
+Christian Frölich
+Jacob Kimmel
+Johann Christoph Fritzsche
+Johann Michael Dindorf
+1777
+Johann Gottfried Hencker
+----------------
+Johann Gottfried Philipp
+Johann Christian Jostmann?
+Johann Georg Lehmann
+Christian Gotthold Wilisch
+Johann Michael Kippler
+Johann Jacob Ludwig
+Gotthelf Rost
+Johann Christoph Horn
+Gottlob Johne
+Johann Gottlob Schwab

@@ -1,5 +1,5 @@
 Röhrsdorf (Buch 2)
-Trauungen 1687-1766
+Trauungen 1687-1781
 
 (Röhrsdorf bei Wilsdruff)
 
@@ -10,7 +10,7 @@ Hinweis:
 Im Kirchenbuch selber gibt es ein alphabetisches Register, welches für diesen Index aber nicht verwendet wurde.
 
 
-Erstellt in ca. 1,5h
+Erstellt in ca. 2h
 Juni 2022
 Februar 2023
 Mai 2023
@@ -549,3 +549,96 @@ Johann Samuel Zeller
 Johann Michael Grellmann
 Johann Michael Kippe
 Johann Gottlieb Drache
+1767
+Jacob Hauptmann
+Johann Gottfried Gießmann
+Gottfried Hencker
+Johann Gottlob Köhler
+1768
+Johann Georg Antrag
+Johann Gottfried Fritzsche
+----------------
+Johann Gottlieb Vogel
+Johann Gottlieb Weber
+1769
+Johann Gottfried Drechßler
+Johann Georg Lantzsch
+Johann Christian Donat
+1770
+Friedrich August Werner
+Gottfried Voigt
+Christian Jacob
+Gottfried Schumann
+1771
+Johann Gottlob Georgius
+----------------
+1772
+Johann Gottlieb Rabe
+Johann Christoph Lichtenstein
+Johann Samuel Mahner
+1773
+Johann Gottlieb Häschler
+August Clauß
+Christian Kunardt
+Israel Ruschich
+Gotthelf Adam
+1774
+Johann Christian Kümmelberger
+Christian Gottlob Erler
+Johann Georg Welt
+----------------
+Johann Gottlob Schumann
+Johann Georg Götze
+Friedrich Gottschalck
+1775
+Elias Lehmann
+Johann Christian Naumann
+Johann Gottfried Heße
+Johann Michael Wustlich
+Johann Gottlieb Pietzsch
+Johann Georg Simon
+Johann Christian Berthelt
+1776
+Johann Gottlieb Simon
+----------------
+Johann Gottlob Kretzschmer
+Peter Starcke
+Gottfried Trobisch
+Johann Gottfried Fehrmann
+Johann Georg Schöne
+Johann Gottfried Großmann
+Christian Köhler
+1777
+Johann Gottfried Lohse
+Johann Georg Berner
+Johann Georg Pfützner
+----------------
+Johann Gottlieb Gäbisch
+1778
+Gottlieb Leumer
+Johann Michael Rabe
+Daniel Schultz
+1779
+Gottfried Richter
+1780
+Gottlieb Schumann
+Johann Georg Knoll
+Johann Andreas Thomas
+----------------
+Johann Christian Patzig
+Gottlob Lehmann
+Johann Christian Zeising
+Christoph Lippold
+Jacob Abraham Schultz
+Gottfried Klotz
+Gottlieb Pietzsch
+Gottlieb Steltzer
+1781
+Gottfried Leuteritz
+Christian Berner
+Gottfried Fehrmann
+----------------
+Gottfried Lucius
+Johann Christian Schöne
+Johann Gottfried Lehmann
+Johann Gottlieb Wiedemann

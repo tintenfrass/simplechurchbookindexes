@@ -1,11 +1,11 @@
 Grumbach (Buch 2)
-Trauungen 1701-1766
+Trauungen 1701-1777
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 2 Stunden
+Erstellt in ca. 2,5 Stunden
 Februar 2023
 Mai 2023
 tintenfrass@gmx.de
@@ -980,5 +980,179 @@ Gottfried Pietzsch
 Gottlieb Lehmann
 Christian Küntzelmann
 Johann Gottlieb Wolf
-Johann Gottlieb NAcke
+Johann Gottlieb Nacke
 Johann Gottfried Schiefner
+1767
+Georg Leinert
+Johann Christian Döring
+Christian Kisrten
+Johann Gottlieb Brantzsch?
+Johann Christian Mane?
+----------------
+Johann Georg Rentzsch
+August Irmer
+Johann Georg Starcke
+Johann Gottlieb Räde
+Johann Christian Brendel
+Christian Iltzsche
+Johann Gottfried Weber
+1768
+Johann Gottlob Hauckelt
+Georg Fritzsche
+Johann Georg Köhler
+Johann Georg Graupitz
+----------------
+Georg Richter
+Johann Georg Richter
+Adolph Heinrich Pietzsch
+Johann Gottlob Schumann
+Johann Christian Eckelt
+Johann Gottlieb Schellenberger
+Johann Georg Kühn
+Gottfried Fischer
+Johann Michael Schneider
+Johann Christian Ritter
+Johann Christian Kuntze
+Johann Gottlob Kühne
+Johann Gottlob Richter
+Johann Georg Ditrich
+----------------
+1769
+Gottlieb Kuntze
+Johann Gottlieb Pietzsch
+Johann Georg Kühne
+Christian Schubert
+Martin Rogusch
+Johann Christian Kuntzelmann
+Christian Leuteritz
+Johann Gottlob Pautsch
+Christian Schubert
+Christian Scheuman
+Johann Christian Starcke
+Hans Schneider
+----------------
+Siegmund Adolph Heerdegen
+Gottfried Glöckner
+1770
+Johann Christoph Dietze
+Johann Scope
+Johann Kuntze
+Johann Gottlieb Rautenstrauch
+Johann August Birckner
+Johann Gottlieb Schöne
+Johann Georg Stephan
+Johann Georg Dietze
+Johann Christian Naumann
+Johann Michael Frantze
+Gottfried Lehmann
+Johann Georg Reichelt
+----------------
+1771
+Johann Christoph Ebert
+Caspar Fengler
+Mattheus Ranitsch
+Gottlieb Krauspe
+Mattheus Pritzel
+Johann Gottlieb Irmer
+Christian Fritzsche
+Christian Klingkicht
+Johann Georg Starcke
+Johann Gottlieb Schütze
+Christoph Teichmann
+Johann Gottfried Sohrmann
+----------------
+1772
+Johann Gottlieb Lucius
+Christian Birckner
+1773
+Johann Gottlieb Rentsch
+Johann Carl Friedrich Horn
+Johann Georg Rülcker
+Johann Gottlieb Dachsel
+Johann Gottfried Kuhnad
+August Günther
+Johann Christoph Heyne
+Samuel Ditrich
+Johann Georg Hauptmann
+----------------
+1774
+Gottlob Ditrich
+Johann Gottfried Hahnewald
+Johann Georg Wustlich
+Christian Klein
+Johann Gottlob Lesche
+Hans Georg Kugse?
+Christoph Trepten
+Gottlieb Kühne
+Johann Gottlieb Kuntze
+Gottfried Kohlsdorf
+Johann Michael Günther
+Gabriel Wunderwald
+Johann Gottfried Bütner
+----------------
+1775
+Johann Christian Bader
+Johann Gottfried Rost
+Johann Adam Götze
+Johann Gottfried Hauptmann
+Johann Gottlieb Rentzsch
+Johann Gottlieb Reuter
+Gottlob Starcke
+Johann Christoph Hencker
+Johann Christian Kühne
+Christian Ficke
+Christian Fritzsche
+----------------
+Johann Gottfried Lorentz
+Johann Georg Kühne
+Johann Georg Ditrich
+Johann Georg Hencker
+Christian Frantze
+Johann Georg Kuntze
+Gottfried Schubert
+1776
+Johann Georg Philipp
+Johann Georg Richter
+Gottlieb Steude
+----------------
+Johann Christian Lange
+Johann Georg Ilzsche
+Ehrenfried Kästner
+Johann Gotthelf Andrä
+Johann Gottfried Patzig
+Gottfried Kohlsdorf
+Johann Michael Günther
+Johann Georg Stephan
+Christian Rabe
+Johann Gottlieb Kaden
+Johann Christoph Jäger
+----------------
+Johann Samuel Meister
+Johann Georg Pietzsch
+Johann Georg Fritzsche
+Johann Christian Ganßauge
+Johann Gottfried Starcke
+Andreas Hänsel
+Johann Michael Mentzer
+Johann Gottlieb Nietzsche
+Johann Gottlieb Bachmann
+1777
+Martin Pohle
+Elias Pittersen
+Johann Andreas Fincke
+----------------
+Johann Gottlob Hauptmann
+Johann Andreas Reck
+Johann Georg Lehmann
+Christian Lehmann
+Johann Kie0lich
+Gotthelf Börner
+Gottlieb Döring
+Johann Gottlieb Seeliger
+Johann Christian Pietzsch
+Johann Heinrich Beskom
+Johann Gottfried Raphaël
+Johann Georg Weitzmann
+----------------
+Christian Große
+Johann Georg Lange
