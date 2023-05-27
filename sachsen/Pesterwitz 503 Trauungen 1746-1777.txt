@@ -1,12 +1,12 @@
 Pesterwitz (Buch 503)
-Trauungen 1676-1766
+Trauungen 1676-1777
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Mai 2023
 tintenfrass@gmx.de
 
@@ -208,3 +208,107 @@ Johann Georg Polscher?
 ----------------
 Gottfried Pahlitzsch
 Christian Mentzer
+1767
+Johann Michael Leckscheide
+Georg Schmidt
+Gotthelf Jähnigen
+Johann Georg Müller
+Johann Gottlob Mögel
+Johann Christian Kaltschmidt
+Johann Georg Koch
+Johann Gottlob Fleischer
+Johann Gottlieb Marcus
+1768
+Johann Christian Scharfe
+Johann Georg Just
+Christian Friedrich Präser?
+Christoph Täubel
+----------------
+Johann Georg Schultz
+Johann Georg Zimmermann
+Christian Lindner
+Johann Gottlob Sohrmann
+1769
+Johann Gottlob Compas
+Andreas Zeising
+Johann Christian Hahn
+Johann Georg Thräne
+Johann Gottlieb Winckler
+Johann Christoph Pergen
+1770
+Gottlob Müller
+Carl Friedrich Spieß
+Andreas Schäfer
+Carl Gottlob Berger
+----------------
+Gottlob Höme
+Johann Nicol Sticht
+Gottlieb Mühle?
+Johann Gottlieb Müller
+Johann Haufe?
+Johann Georg Rabe
+Johann Gottfried Mentzer
+Carl Ludwig Mieneck
+1771
+Heinrich Ernst Schwichelt
+Johann Christian Müller
+Johann Christian Müller
+Johann Georg Haaman
+----------------
+Johann Samuel Mentzer
+Johann Gottfried Richter
+Gottlob Müller
+Christian Klinckigt
+Johann Gottlob John
+Georg Adam Pietzsch
+1772
+Johann Daniel Palitsch
+Johann Georg Müller
+Johann Christoph Schütze
+Johann Christian Klemm
+Johann Christian Gottlieb Richter
+Johann Georg Merbitz
+----------------
+1773
+Johann Gottlieb Klügel
+Johann Gottfried Gebler
+Johann Georg Thräne
+Johann Georg Schmeltzer
+Johann Christian Ludwig
+Christian Hennig
+1774
+Johann Georg Wachsmuth
+Georg Christian Schröer
+Johann Andreas Herrmann
+August Gößel
+Johann Christian Senf
+Christian Leberecht Fischer
+Georg Schultz
+Johann Daniel Niedermeyer
+----------------
+Gottfried Wagner
+Christian Heinrich
+1775
+Johann Gottfried Petermann
+Johann Georg Keil
+Johann Gottlieb Hahn
+Johann Friedrich Lehmann
+Johann Christian Fiedler
+Christian Gottfried Barthe
+Johann Gottlob Grundmann
+Christian Gottlieb Pfeiffer
+Johann Gottlieb Richter
+Johann Gottlob Krancke
+----------------
+1776
+Johann Gottfried Schmidgen
+Adam Rasper
+Carl Gottlob Schröter
+Johann Christoph Weise
+Johann Gottfried Koch
+Johann Christian Kühne
+1777
+Carl Gottlieb Koschel
+Johann Georg Kirchner
+Johann Christian Leuschner
+Johann Christian Andrich

@@ -1,5 +1,5 @@
 Unkersdorf (Buch 2)
-Trauungen 1716-1766
+Trauungen 1716-1777
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 
@@ -7,6 +7,7 @@ Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
+Erstellt in ca. 0,5 Stunden
 Februar 2023
 Mai 2023
 tintenfrass@gmx.de
@@ -188,3 +189,41 @@ Johann Gottlieb Pietzsch
 ----------------
 Johann Georg Thierbach
 Johann Martin Hater?
+1768
+Christian Beuchel
+Nicol Mann?
+1769
+Christian Hof?
+Christoph Gar?
+1770
+Gottfried Kleinchner?
+----------------
+Samuel Schütze
+1771
+Johann Christian Küntzelmann
+1772
+Samuel Müller
+Gottlieb Heße
+Ernst Friedrich Weiland
+1773
+Johann Georg Schumann
+----------------
+Christoph Fähmge?
+Johann Georg Barth
+Christian? Hürthe?
+1774
+Johann Gottlob Wachsmuth
+Johann Daniel? Hartmann
+Johann Georg Matthäus
+1775
+Johann Christian Fickler
+Johann Gottfried Strohbach
+Johann Heinrich Häntsch?
+----------------
+Gottlob Busch
+Christian Pfützner
+1776
+Johann Christoph Kirsten
+Gottlob Pietzsch
+Johann Georg Feltsche?
+Johann Gottfried Springler?

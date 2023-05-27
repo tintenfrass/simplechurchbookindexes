@@ -1,12 +1,12 @@
 Tharandt (Buch 739)
-Trauungen 1728-1766
+Trauungen 1728-1777
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunde
 Februar 2023
 Mai 2023
 tintenfrass@gmx.de
@@ -382,3 +382,76 @@ Christian Peter Böhle
 Johann Traugott Menzer
 Johann Carl Vogel
 Johann Andreas Grosch
+----------------
+----------------
+1767
+Johann Traugott Köhler
+Johann Wenzel Nigrius
+Sebald Gottlob Dachselt
+Christian Büttner
+----------------
+----------------
+1768
+Georg Fritzsche
+Johann Georg Köhler
+Gottlieb Hoffmann
+Johann Gottfried Busch
+Johann Gottlob Dachselt
+----------------
+----------------
+1769
+Georg Gottlob Fischer
+Johann Gottfried John
+Johann Christian Bruchlitz
+Christian Gottlob Bormann
+Samuel Gottlob Götze
+Johann Gottfried Frauenstein
+----------------
+1770
+Gottlieb Hauptvogel
+----------------
+----------------
+1771
+Johann Gottlieb Ritter
+Johann Gottlieb Wenzer
+David Hamann
+----------------
+----------------
+1772
+----------------
+----------------
+1773
+Johann Gottlieb Starcke
+Johann Christian Hempel
+Carl Gottlob Nestmann
+Johann Gottfried Ferdinand Eger
+Johann Gottlob Reichel
+Gottlieb Kretzschel
+Christian Ende
+----------------
+----------------
+1774
+Johann Gottlieb Richter
+Johann Gottlob Ranft
+David Staude
+----------------
+----------------
+----------------
+1775
+Christian Gotthelf Richter
+Johann Benjamin Butter
+Johann Gottfried Bräunert
+Christian Schwarzbach
+Daniel Müller
+----------------
+1776
+Johann Ehregott Schmidtgen
+Georg Winckler
+Johann Gottlieb Bägen
+Johann David Büttner
+----------------
+----------------
+1777
+Peter Hermann Garloff
+Johann Christian Reichel
+Johann Gottfried Pillwitz
