@@ -3,13 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <meta name="author" content>
-<meta content="FuzzySearch Online" name="description">
-<meta content name="keywords">
+<meta name="description" content="FuzzySearch Online">
+<meta name="keywords" content>
 <meta name="theme-color" content="#2d2c2c">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover">
-<meta property="og:url" content="http://127.0.0.1:55319/">
+<meta property="og:url" content="http://127.0.0.1:65420/">
 <meta property="og:title" content>
-<meta property="og:description" content="FuzzySearch Online">
+<meta content="FuzzySearch Online" property="og:description">
 <meta property="og:type" content="website">
 <meta property="og:image" content>
 <title>
@@ -18,13 +18,13 @@
 <link rel="icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
 <link href="https://storage.googleapis.com/murlok-github/icon-192.png" rel="apple-touch-icon">
 <link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
-<link type="text/css" rel="stylesheet" href="/simplechurchbookindexes/app.css">
-<script defer="true" src="/simplechurchbookindexes/wasm_exec.js"></script>
-<script src="/simplechurchbookindexes/app.js" defer="true"></script>
+<link rel="stylesheet" href="/simplechurchbookindexes/app.css" type="text/css">
+<script src="/simplechurchbookindexes/wasm_exec.js" defer="true"></script>
+<script defer="true" src="/simplechurchbookindexes/app.js"></script>
 </head>
 <body>
 <div>
-<aside id="app-wasm-loader" class="goapp-app-info">
+<aside class="goapp-app-info" id="app-wasm-loader">
 <img id="app-wasm-loader-icon" class="goapp-logo goapp-spin" src="https://storage.googleapis.com/murlok-github/icon-192.png">
 <p id="app-wasm-loader-label" class="goapp-label">
 0%
@@ -41,7 +41,7 @@ Trau-Index Dresden-Meißen
 <label>
 Jahr Min 
 </label>
-<input max="1800" value="0" style="width: 350px;" type="range" min="1548">
+<input type="range" min="1548" max="1800" value="0" style="width: 350px;">
 <label>
 0
 </label>
@@ -194,7 +194,7 @@ Nichts
 </tr>
 </table>
 <p>
-<input type="text" placeholder="Vorname Nachname" autofocus="true" style="width: 200px;">
+<input style="width: 200px;" type="text" placeholder="Vorname Nachname" autofocus="true">
  
 <button style="width: 100px;">
 Search
@@ -207,7 +207,7 @@ Search
 <h3>
 Hinweise:
 </h3>
-Für die meisten Kirchengemeinden wurden bisher die Daten nur bis 1777
+Für die meisten Kirchengemeinden wurden bisher die Daten nur bis 1777 erfasst.
 <br>
 <br>
 Die Suche erfolgt über den Namen des Bräutigams.
@@ -255,6 +255,14 @@ https://github.com/tintenfrass/simplechurchbookindexes
  v1.1 (Mai 2023) latest updates:
 </h3>
 <label>
+Trauungen rechte Elbseite 1778-1788
+</label>
+<br>
+<label>
+Trauungen Dresden 1778-1788
+</label>
+<br>
+<label>
 Trauungen linke Elbseite 1767-1777
 </label>
 <br>
@@ -279,7 +287,7 @@ Trauungen Dresden 1750-1766
 </label>
 </div>
 <td>
-<textarea readonly="true" warp="hard" cols="120" rows="50" value></textarea>
+<textarea value readonly="true" warp="hard" cols="120" rows="50"></textarea>
 </td>
 </tr>
 </table>
