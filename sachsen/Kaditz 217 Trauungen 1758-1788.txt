@@ -1,12 +1,12 @@
 Kaditz (Buch 217)
-Trauungen 1758-1777
+Trauungen 1758-1788
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Mai 2023
 tintenfrass@gmx.de
 
@@ -409,3 +409,220 @@ Gottlob Naumann
 Gottfried Hübner
 Johann Daniel Maune
 Christoph Heyne
+1778
+Johann Georg Klotzsche
+Gottfried Schmidgen
+Georg Mittag
+Johann Christoph Hillig
+Gottlob Beuhne
+Johann Georg Adam
+Johann Gottlieb Werner
+Johann Friedrich Schumann
+Johann Friedrich Hoffmann
+----------------
+Gottfried Just
+Johann Gottlieb Elzols
+Johann Friedrich Riedel
+Christoph Föschke
+Carl Christoph Bahl
+Carl Friedrich Poppe
+Wilhelm Ludwig Kannen
+Johann Gottfried Kretzschmer
+Gottlob Hübner
+Johann Adam Hempelt
+Johann Neumann
+Johann Georg Eysold
+----------------
+Johann Christian Clauß
+Gregor Nietzsche
+Georg Rump
+Bernhard Adam
+Johann Christian Findeisen
+Johann Gottfried Klotzsche
+Christian Türcke
+1779
+Johann Georg Frantze
+Johann Gottlob Taschenberger
+Johann Georg Adam
+Johann Georg Hornach
+Andreas Gärtner
+Johann Andreas Adam
+Johann Gottfried Beuhne
+----------------
+Christian Benjamin Arnold
+Johann Benjamin Lehmann
+Gottlob Hauffe
+Gottlieb Damme
+Gottlob Fichte
+Johann Gottlieb Klotzsche
+Johann Christian Schnabel
+Johann Georg Faust
+Georg Klotzsche
+Johann Christian Vogel
+Georg Dietze
+Martin Vogel
+Gottlieb Frantze
+----------------
+1780
+Johann Gottlieb Jahn
+Johann Christian Adam
+Christian Berthold
+Johann Georg Thalheim
+Carl Gottlob Schubert
+Christian Vogel
+Johann Gottlieb? Hertzschuch
+Johann Christian Friedrich Dähnert
+Johann Gottfried Bormann
+Christian Leberecht Krebel
+Martin Vogel
+----------------
+Christoph Grundmann
+Gottfried Thiele
+Martin Beuhne
+Ambrosius Schumann
+Johann Georg Iltzsche
+Christian Schachlitz
+1781
+Johann Georg Vogel
+Johann Georg Vogel
+Johann Gottlieb Beuhne
+Johann Gottlieb Rollbusch
+Johann Georg Stübler
+Adam Fuchß
+----------------
+Georg Süßemilch
+Johann Gottfried Hübner
+Johann Gottlieb Schöne
+Gottlieb Preußer
+Martin Thalheim
+Johann Georg Taschenberger
+Georg Fickler
+Gottlob Beger
+Johann Adam Mehnert
+1782
+Samuel Gommlich
+Johann Gottlob Frantze
+Johann Georg Schnabel
+Johann Christian Götze
+----------------
+Johann Caspar Jäger
+Johann Christian Weidemann
+Friedrich August Richter
+Johann Gottlieb Hanisch
+Johann Gottfried Taschenberger
+Gottfried Fichte
+Gottfried Schubert
+Christoph Gommlich
+1783
+Gottlob Betzold
+Gottfried Vogel
+Johann Gottfried Schumann
+Johann Adam Martin
+Johann Georg Ramm
+Georg Mildner
+Johann Carl Klingensporn
+Samuel Gommlich
+----------------
+Johann Christian Stephan
+Heinrich Wilhelm Harpeter
+Traugott Leberecht Kändler
+Johann Christian Pietzsch
+Gottlob Hertzschuch
+Gottlob Taschenberger
+Gottfried Sickert
+Johann Gottlob Eysold
+1784
+Johann Gottlob Vogel
+Johann Georg Taschenberger
+Johann Christian Vogel
+Johann Gottfried Boden
+Johann Georg Küuhn
+Christoph Beger
+Christian Zscheile
+----------------
+Johann Gottlob Klotzsche
+Johann Andreas Arnold
+Gottlob Kießling
+Johann Gottlob Richter
+Gottlob Beger
+Johann Gottlob Andrich
+Johann Georg Türcke
+1785
+Johann Gottfried Findeisen
+Johann Georg Vogel
+Johann Georg Ludwig
+Johann Gottfried Adam
+Christian Klotzsche
+Johann Gottlob Findeisen
+Johann Junge
+----------------
+Johann Gottlob Klotzsche
+Johann Gottlob Adam
+Johann Gottfried Vogel
+Johann Gottfried Schnabel
+Johann Gottlieb Richter
+Johann Gottfried Schultz
+1786
+Johann Gottfried Rump
+Johann Gottlob Vogel
+Johann Gottfried Preußer
+Johann Samuel Findeisen
+Johann Gottlieb Schumann
+Johann Gottlob Vogel
+----------------
+Heinrich Gottlieb Kachß
+Christian Oehme
+Carl Gottfried Kiegler
+Johann Gottfried Rostig
+Johann Paul Niese
+Johann Christian Richter
+Johann Friedrich Ehbisch
+Johann Friedrich Beyer
+Johann Gottfried Ziller
+Christian Börner
+Johann Georg Taschenberger
+Christian Bruchhold
+----------------
+Johann Christian Schumann
+Johann Gottfried Vogel
+Johann Gottfried Schubert
+Johann Adam
+1787
+Johann Gottfried Adam
+Johann Gottlob Vogel
+Johann Gottlob Vogel
+Johann Georg Trentsch
+Johann Georg Schubert
+Gottlob Gentzsch
+Gottlob Frantze
+Carl Gottlob Drechsler
+Johann Gottlob Trömer
+----------------
+Samuel Friedrich Schmidt
+Johann Gotthelf Müller
+Gottlob Klotzsche
+Johann Georg Taschenberger
+Christian Gottfried Zentgraf
+Johann Gottlob Wirthgen
+Carl Gottlob Heintze
+Johann Friedrich Körnich
+1788
+Johann Tobias Donner
+Johann Gottlob Weber
+Johann Gottlob Kegel
+----------------
+Johann Christian Böhme
+Rudolph Andreas Löbnitz
+Samuel Mögel
+Johann Gottlieb Huhle
+Christoph Johann Gottfried Haymann
+Carl Traugott Hauschild
+Johann Gottfried Vogel
+Johann Samuel Beßler
+Johann Georg Schäfer
+Gottlob Hertzschuch
+Johann Georg Mehlig
+Gottlieb Zscheile
+Johann Georg Taschenberger
+----------------
+Georg Beßler
