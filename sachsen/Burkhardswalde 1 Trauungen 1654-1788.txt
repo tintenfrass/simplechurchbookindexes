@@ -1,5 +1,5 @@
 Burkhardswalde (Buch 1)
-Trauungen 1655-1777
+Trauungen 1655-1788
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ Erstellt in ca. 3 Stunden
 Juni 2022
 Februar 2023
 Mai 2023
+Juni 2023
 tintenfrass@gmx.de
 
 
@@ -881,3 +882,75 @@ Gottlieb Winckler
 Johann Gottlieb Kretzschmer
 Christian Kirsch
 Johann Georg Heyde
+1778
+Johann Gotthelf Ihle
+Gottlob Huhn
+Johann Gottlieb Errler
+Johann Georg Schmidt
+Johann Gottlieb Lommatzsch
+Johann Georg Haferburg
+Christian Zeichsler?
+Johann Gottlob Graf
+Michael Burckhart
+Johann Gottlob Fichtner
+Christian Heinrich Biltz
+1779
+Johann August Petsch
+Johann Gotthelf Mentziger
+----------------
+Gottlob Hoyer
+Johann Georg Rummrich
+Johann Gottlieb Brändel
+1780
+Johann Gottfried Schönert
+Johann Gottfried Simon
+Jacob Gabrich
+Gottlob Rühle
+1781
+Gottlieb Lommatzsch
+Johann Gottlieb Kolbe
+Johann Gottlieb Becker
+Johann Gottlob Tielam?
+Johann Gottlob Voigt
+Johann Heinrich Böhme
+1782
+Johann Gottfried Dietze
+Christian Gottlieb Töpfer
+Johann Gottlieb Schanze
+----------------
+Johann Gottlieb Koch
+Johann Gottfried Zscherhne?
+Johann Gottlieb Roßberg
+Johann Gottlieb Voigt
+Johann Gottlieb Stüendamm?
+1783
+Johann Gottfried Bard
+Johann Gottlob Thieme
+Johann Georg Uhlmann
+Johann Gottlieb Zöllner
+Gottlob Friedrich Rothe
+Gottfried Krause
+Gottlob Dietze
+1784
+Johann Georg Richter
+Johann Gottfried Kriebler
+Johann Gottlieb Hende
+Johann Christian Löhmann
+----------------
+Johann Gottlob Vetter
+1785
+Christian Gottfried Wackwitz
+Johann Gottlob Gebhardt
+1786
+Johann Gottlieb Richter
+Carl Gottlob Aself?
+Gottlieb Petermann
+Johann Christian Nehel
+1787
+Johann Gottlob Kühne
+Johann Gottlob Johne
+Johann Georg Fritzsche
+Johann Christian Schirrmer
+1788
+Johann Georg Kleißberg
+x

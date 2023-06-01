@@ -1,5 +1,5 @@
 Hirschfeld (Buch 3)
-Trauungen 1710-1777
+Trauungen 1710-1788
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
@@ -8,6 +8,7 @@ Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen
 Erstellt in ca. 2 Stunden
 Februar 2023
 Mai 2023
+Juni 2023
 tintenfrass@gmx.de
 
 
@@ -551,3 +552,86 @@ Johann Gottlieb Friedrich Starcke
 Johann Gottlieb Humptzsch
 ----------------
 Johann Gottfried Seifert
+1778
+Gotthelf Friedrich Böhme
+Peter Fichtner
+Gottfried Fichtner
+Johann Gottlob Geißler
+1779
+Johann Gottlieb Illing
+Gotthelf Schmieder
+Christian Gottfried Reinsberg
+Johann Gottlieb Fichtner
+Johann Gottfried Spieß
+Peter Gottlieb Wackwitz
+Johann Gottlob Löwe
+Johann Gottfried John
+Johann Georg Geißler
+1780
+Lorenz Friedrich Sohr
+Johann Christian Fichtner
+----------------
+Johann Gottlieb Paul
+Johann Traugott Geißler
+Johann Gottlob Kayser
+Johann Christian Lehmann
+1781
+Johann Georg Schmidt
+Gottlob Schaaf
+Johann Michael Spieß
+Johann Heinrich Böhm
+1782
+Johann Michael Fehrmann
+Johann Christian Bellmann
+Friedrich Wittstock
+1783
+Johann Gottlob Paul
+Johann Gottfried Albrich
+Johann Israel Bormann
+Johann Gottfried Ficke
+Johann Gottlieb Gottschald
+Gottfried Pege
+----------------
+1784
+Johann Gottlieb Wolf
+Johann Michael Hoffmann
+Johann Christian Fichtner
+Johann Gottfried Bretschneider
+Carl Gottlob Stahn
+Johann Gottfried Hoffmann
+Carl Gottlob Starcke
+Johann Gottlob Mehlig
+1785
+Johann Georg Kunze
+Gotthelf Schlick
+Johann Gottlieb Fischer
+Johann Gottlob Krüger
+Johann Gottfried Kost
+Johann Gottlob Preuser
+1786
+Johann Gottfried Johne
+Johann Gottlob Kurth
+Johann Gottlieb Börner
+Johann Gottfried Böhme
+----------------
+Johann Gottlieb Limbach
+Gottlieb Naumann
+1787
+Johann Gottlieb Ficke
+Ernst Nicol Wiedemann
+Johann Friedrich Sohr
+Gotthelf Friedrich Weise
+Johann Gottlob Hoffmann
+Johann August Friedrich Polster
+Carl Gottlob Gebhardt
+Johann Gottfried Wustlich
+Johann Gottfried Löwe
+Johann Gottlob Hanisch
+1788
+Johann Christoph Schröer
+----------------
+Johann Christian Güldner
+Carl Friedrich Sohr
+Johann Gottlob Limbach
+Johann Georg Krumfurt
+Johann Christoph Preußler

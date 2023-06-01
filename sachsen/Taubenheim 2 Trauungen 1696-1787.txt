@@ -1,5 +1,5 @@
 Taubenheim (Buch 2)
-Trauungen 1696-1777
+Trauungen 1696-1787
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ Erstellt in ca. 2,5h
 Juni 2022
 Februar 2023
 Mai 2023
+Juni 2023
 tintenfrass@gmx.de
 
 
@@ -1233,3 +1234,108 @@ Johann Gottfried Melzer
 Samuel Siegmund Pegau
 Johann Gottlob Cramer?
 Johann Gottlieb Knaut
+1778
+Johann Georg Philipp
+Johann Carl Butter
+Johann Gottfried Görne
+Christoph Wänsch?
+----------------
+Johann Georg Rudolph
+Johann Gottlob Fichtner
+Johann Wolf
+Johann Carl Lommatzsch
+Johann Gottfried Dietze
+Johann Gottlob Berger
+Johann Gottlob Uhlmann
+----------------
+Johann Gottfried Mütterlein
+Johann Gottlob Fichtner
+1779
+Johann Gottlob Albrecht
+Friedrich Gottreich Billich
+Johann Gottlob Pfützner
+Sebastian Maximilian Hildebrand
+----------------
+Gottlieb Leberecht Schlechte
+Johann Gottlieb Kühn
+Johann Georg Hellner
+Johann Gottfried Johne
+1780
+Johann Gottlieb Schubert
+Johann Gottfried Döring
+----------------
+Johann Gottlieb Lange
+Johann Gottlieb Kämmelberger
+Johann Christian Mehlig
+1781
+Johann Gottlob Krauspe
+Johann Gottfried Zschoche
+Johann Michael Stelzer
+Gottfried Künzelmann
+----------------
+Joseph Grellmann
+Johann Gottlob Fichtner
+Johann Gottfried Viegand
+1782
+Johann Georg Kaltschmidt
+Johann Christian Hencker
+Johann Gottlob Raschke
+Johann Gottfried Roßberg
+----------------
+Johann Christian Lommatzsch
+Johann Gottlob Pincker
+Johann Georg Birckner
+Gottfried Hoyer
+Johann Gottlob Paul
+1783
+Johann Gottlieb Krause
+----------------
+Johann Georg Kürchschler?
+Johann Gotthelf Zabelt
+Johann Georg Adam
+Johann Georg Heyne
+Johann Gottfried Merker
+Christian Schade
+Christian Gottfried Horn
+Friedrich August Strunz
+----------------
+x
+Johann Gottlieb Kießlich
+Johann Christian Stange
+Johann Gottfried Harzbach
+Johann Gottlob Ernst Romrich
+Johann Gottlob Vogel
+----------------
+Gottfried Krause
+Johann Adam Schröter
+1784
+Johann Michael Hauptmann
+Gottlob Grellmann
+----------------
+Johann Gottlieb Strobach
+Johann Gottlob Schöne
+Gottlieb Rendler
+Johann Gotthelf Sorge
+1785
+Christian Dörschel
+----------------
+Johann Christian Wittig
+Johann Georg Ranft
+Johann Georg Güldner
+1786
+Johann Georg Brendel
+Johann Gottlob Kirsten
+----------------
+Johann Gottlieb Lützner
+Johann Michael Grellmann
+Johann Gottlieb Donat
+Johann Gottlob Starcke
+Johann Gottlieb Mautrich
+----------------
+1787
+Johann Gottfried Wagner
+----------------
+Johann Georg Stelzer
+Johann Gottlob Ranft
+Johann Gottlieb Weber
+Johann Gottlob Kleemann
