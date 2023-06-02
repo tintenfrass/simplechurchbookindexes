@@ -1,5 +1,5 @@
 Tharandt (Buch 739)
-Trauungen 1728-1777
+Trauungen 1728-1788
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
@@ -9,6 +9,7 @@ Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen
 Erstellt in ca. 1,5 Stunde
 Februar 2023
 Mai 2023
+Juni 2023
 tintenfrass@gmx.de
 
 
@@ -455,3 +456,76 @@ Johann David Büttner
 Peter Hermann Garloff
 Johann Christian Reichel
 Johann Gottfried Pillwitz
+----------------
+----------------
+1778
+Johann Gottlieb Hoffmann
+Johann Christian Ditrich
+----------------
+----------------
+1779
+Johann David Beyer
+Christoph Ehrenfried Richter
+----------------
+----------------
+1780
+Johann Christian Broschmann
+Christoph Friedrich Gledeitzsch
+----------------
+----------------
+1781
+Johann Carl Gottlob Hähnel
+Johann Gottfried Irmer
+Johann Traugott Heberansäf?
+Johann Gottlieb Ebert
+Johann Gottfried Busch
+----------------
+1782
+Johann Christoph Hauptvogel
+Johann Gottlob Pretzsch
+Johann Heinrich Timothe Reichel
+Johann Gottlob Müllberg
+Johann Gottfried Lehmann
+Christian Gottlieb Porststein
+Johann Gottlob Opitz
+----------------
+----------------
+1783
+Johann Christian Frauenstein
+Johann Christian Hanitzsch
+Johann Christoph Kaltschmidtt
+----------------
+----------------
+1784
+Johann Christian Pietzsch
+Johann Gottlieb Strohbach
+Carl Philip Berger
+----------------
+1785
+Johann Christian Sonntag
+Johann Carl Gottlieb Preußker
+Johann Gottlob Lehmann
+Johann Heinrich Romberg
+----------------
+1786
+Johann Gottlieb Mänger
+Johann Gottlieb Gentzsch
+Johann Christian Pretsch
+Christian Leberecht Mörning
+Carl Christian Michael Richter
+Christian Benjamin Lorentz
+----------------
+----------------
+1787
+Christian Gottlieb Bormann
+Carl Gottfried Beggel
+Johann Christian Schlicke
+Johann Christian Lindau
+Christian Friedrich Küchler
+----------------
+1788
+Christian Gottlieb Stößner
+Johann Gottfried Musch
+Johann Gottlieb Sommer
+Johann Gottfried Lindner
+Johann Gottlieb Krönert

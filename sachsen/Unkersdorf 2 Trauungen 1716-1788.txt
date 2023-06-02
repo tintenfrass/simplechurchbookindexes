@@ -1,5 +1,5 @@
 Unkersdorf (Buch 2)
-Trauungen 1716-1777
+Trauungen 1716-1788
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 
@@ -7,9 +7,10 @@ Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Februar 2023
 Mai 2023
+Juni 2023
 tintenfrass@gmx.de
 
 
@@ -226,4 +227,55 @@ Christian Pfützner
 Johann Christoph Kirsten
 Gottlob Pietzsch
 Johann Georg Feltsche?
-Johann Gottfried Springler?
+Johann Gottfried Spiegler?
+1778
+Johann Gottfried Bode
+Gotthelf Wilhelm Leischer
+----------------
+1779
+Johann Gottfried Reinhold
+Johann Heinrich Fischer
+1780
+Johann Gottlob Dachßel
+----------------
+Johann Gotthelf Dachsel
+1781
+Carl Gottfried Gießmann
+Gottlob Kühn
+1782
+Johann Gottlob Hottewitz
+Carl Ehrenfried Kretzschmer
+----------------
+Christian Hencker
+Johann Georg Barth
+Johann Gottfried Lischke
+Johann Gottlieb Winckler
+Johann Georg Burckhart
+----------------
+Johann Traugottlob? Pauli
+1783
+Johann Christian Maune
+1784
+Johann Gottlob Stoller
+1785
+Johann Georg Eybing
+Johann Christian Döring
+Johann Gotthelf Pietzsch
+----------------
+Johann Gottlob Barth
+1786
+Christian Gottlob Klöber
+Johann Gottlieb Welde
+Johann Gottlob Irmer
+----------------
+1787
+Johann Georg Klinkig
+Johann Christian Fleischer
+Johann Georg Schindler
+Johann Höhle
+----------------
+Carl Friedrich Stein
+1788
+Johann Georg Naake
+Johann Gottlob Weickert
+----------------

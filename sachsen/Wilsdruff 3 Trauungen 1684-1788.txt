@@ -1,15 +1,16 @@
 Wilsdruff (Buch 3)
-Trauungen 1684-1777
+Trauungen 1684-1788
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
-Erstellt in ca. 3h
+Erstellt in ca. 3,5 Stunden
 Juni 2022
 Februar 2023
 Mai 2023
+Juni 2023
 tintenfrass@gmx.de
 
 
@@ -1329,3 +1330,204 @@ Johann Gottlob Irmer
 Johann Christoph Richter
 Johann Christian Große
 Johann Georg Lange
+1778
+Georg Lorenz Ditrich
+Georg Gotthelf Meßerschmidt
+Johann Gottfried Polster
+Carl Heinrich Scheffler
+Peter Händel
+----------------
+Johann Gottlob Meltzer
+Johann Wolf
+Johann Christian Schubert
+Johann Gottfried Günther
+Christian Zschech
+Johann Christoph Rose
+Johann Gottlieb Schönberg
+Johann Christian Röder
+August Wilhelm Reinhold
+----------------
+1779
+Johann Jacob Rose
+Johann Gottfried Schindler
+Johann Gottlieb Pietzsch
+Daniel Gottlieb Schubert
+Gottfried Damm
+Christian Ehrenfried Weinhold
+Johann Gottlieb Lange
+Gottlieb Tzscherger
+Martin Friedrich Förster
+Johann Gottlieb Fröde
+Gottfried Pietzsch
+----------------
+Johann Georg Börnder
+Johann Gottlob Bretschneider
+Johann Christian Philipp
+Christian Schubert
+Johann Christian Funcke
+Carl Gottlob Lägler
+Adolph Heinrich Grafe
+1780
+Christoph Heinrich Anders
+Ludwig Friedrich Tobias Zittwitz
+Gottlieb Küntzelmann
+Johann Gottfried Zeller
+----------------
+Johann Michael Kippe
+Johann Gottlob Richter
+Johann Gottlieb Uhlmann
+Christian Gottlob Voigt
+Johann Gottlieb Lommatzsch
+Carl Gottlieb Ditrich
+Johann Christoph Knöfel
+Johann David Partzsch
+Johann Gottfried Thiele
+Johann Gottfried Schöne
+Johann Christoph Rose
+Johann Christian Pantzner
+Christian Philipp
+----------------
+August Ferdinand Koßer
+Johann Georg Schultz
+Gottfried Heinrich Grafe
+Johann Christian Friedrich Kaltofen
+1781
+Johann Gottlob Jäger
+Johann Georg Seybig
+Johann Friedrich Wilhelm Junge
+August Wilhelm Reinhold
+Traugott Leberecht Voigt
+Johann Michael Pobe
+Christian Gotthelf Braune
+Gottfried Lucius
+Christian Gottlob Börne
+----------------
+August Heinrich Busch
+Gottlob Jungnickel
+Gabriel Geßner
+Christoph Heinrich Philipp
+Johann Georg Hermann
+Gottfried Küntzelmann
+Christian Gottlob Stange
+Johann Daniel Groll
+Johann Georg Heinrich
+Johann Gotthelf Köhler
+1782
+Christian Philipp
+Johann Gottfried Irmler
+----------------
+Christian  Gottlieb Geßner
+Johann Gottlieb Eisenbach
+Johann Gottlob Kästner
+Gottfried Schindler
+Johann Jacob Grahl
+Johann Gottlob Raschke
+Johann Maximilian Kluge
+Johann Andreas Dietze
+Johann Gottlob Köhler
+----------------
+Johann Gottfried Lucius
+Carl Gottlob Horn
+Johann Gottlieb Schuster
+Friedrich Heinrich Obudja Samuel? Müller
+Johann Christian Gottlob Scheltz
+Christian Friedrich Heyne
+Georg Gottfried Löwe
+1783
+Gottfried Gäntsch
+Johann Georg Börner
+----------------
+Johann Gottfried Pietzsch
+Johann Gottlob Schaarschuch
+Johann Jacob Schreyer
+Johann Gottlob Voigt
+Johann Gottlieb Schmäle
+Gottfried Heinrich Beuchel
+Johann Georg Brendel
+Johann Friedrich Kühne
+Christian Gottfried Horn
+Carl Christian Oehme
+----------------
+Christian Friedrich Hennig
+Johann Christoph Fährmann
+Johann Gottfried Händel
+Johann Georg Stöltzer
+Johann Gotthelf Merbitz
+Carl Gottlob Wagner
+1784
+^Georg Gottfried Heyde
+Christian Siegmund Teubner
+Christian Gottlob Müller
+----------------
+Johann Gottfried Thiele
+Christian Scherf
+Johann Gottlob Junghans
+Johann Carl Teucher
+Christian Gottlieb Huhn
+Gottlob Friedrich Weißbach
+Johann Gottfried Rülcker
+Johann Christian Knauth
+Johann Christian Burckhart
+Johann Gottlieb Schroodt
+----------------
+Johann Gottlieb Jacob
+Johann Benedig Lorentz
+Franz Anton Rzepa
+Christian Jacob Vogel
+Johann Gotthelf Bretschneider
+Johann Gottlob Frantze
+Johann Gottlob Zechel
+Gottlieb David Francke
+1785
+Johann Daniel Leitz
+Christoph Friedrich Clausnitzer
+----------------
+Johann Gottfried Schwäbe
+Gottlob Heinrich Grafe
+Johann Carl Gottlieb Preißker
+Johann Georg Pietzsch
+Johann Gotthelf Frohne
+Johann Gottfried Irmler
+Johann Gottfried Winckler
+Johann Georg Mitterlin
+Johann Gottfried Voigt
+1786
+Johann Christoph Schmidt
+Johann Georg Ponickau
+Friedrich Gotthold Schffler
+----------------
+Johann Paul Junge
+Johann Christian Fiedler
+Johann Gotthold Hattcke
+Christoph Heinrich Lucius
+Christian Friedrich Reichel
+1787
+Johann Georg Stnadfuß
+Johann Gottfried Zschunke
+Johann Christian Strohbach
+Johann Jacob Kahle
+Johann Gottlieb Wolf
+Johann Gottlob Rost
+Johann Christian Herzog
+Johann Gott? Heinrich Kanuth
+Johann Andreas Tierot
+Friedrich August Förster
+Johann Gottlieb Hermann
+Carl Gottlob Ditrich
+Johann Christian Schöne
+Johann Gottfried Herfurth
+Carl Heinrich Schier
+Christian Friedrich Berger
+Johann Gottlob Klengel?
+----------------
+1788
+Christian Lange
+Johann Friedrich Eichwald
+Johann Gottlob Donat
+Johann Traugott Junge
+Christian Döring
+Gottlieb Lehmann
+Daniel Friedrich Krause
+Carl Gottlieb Kräher
+Gottlob Siegmund Gelhaar
+Johann Carl Züchziger
