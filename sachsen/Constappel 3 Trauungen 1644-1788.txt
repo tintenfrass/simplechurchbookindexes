@@ -1,5 +1,5 @@
 Constappel (Buch 3)
-Trauungen 1644-1777
+Trauungen 1644-1788
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
@@ -9,6 +9,7 @@ Erstellt in ca. 4 Stunden
 Mai 2022
 Februar 2023
 Mai 2023
+Juni 2023
 tintenfrass@gmx.de
 
 
@@ -767,3 +768,87 @@ Johann Samuel Höbold
 Gottlieb Berger
 Daniel Dose
 Johann Gottlieb Just
+1778
+Johann Georg Klein
+----------------
+Johann Michael John
+Johann Gottlob Richter
+Johann Gottlieb Müller
+Georg Kummer
+Johann Georg Spaltholz
+Johann Gottlieb Gießmann
+Johann Gottfried Voigt
+Gottlieb Kießlich
+1779
+Johann Rudolph Wirth
+Johann Gottfried Große
+1780
+Christian Traugott Früeweiße
+Johann Georg Wagner
+Gotthelf Friedrich Rösler
+Johann Gottlieb Müller
+Christian Philipp
+Christian Gottfried Hickethier
+Johann Christian Mählich
+Johann Georg Teyppert?
+1781
+Johann Friedrich Röhr
+Johann Gottfried Gebauer
+Gottfried Hayne
+Christian Gottlob Sincke
+Johann Christoph Förster
+1782
+Johann Christian Bautzsch
+Johann Gottlob Schultz
+Johann Heinrich Berge?
+Johann Daniel Kästner
+Johann Georg Keppler
+Johann Gottfried Teichert
+Jacob Horn
+Johann Gottfried Laßner
+1783
+Johann Gottlieb Jäger
+Christian Gottlieb Ganßauge
+Johann Gottlob Brendel
+Johann Georg Hoyer
+Johann Gottfried Bernhard
+Johann Gottfried Uhlitzsch
+Johann Gottlieb Barth?
+----------------
+Heinrich Leberecht Zschackelt
+Johann Christian Fichtner
+1784
+Johann Samuel Richter
+August Ehregott Zscharschuch
+Johann Christian Krunsch?
+Johann Christian Rietschel
+Gottfried Wilsdorf
+Carl Gottlieb Teichert
+Johann Gottlob Hebelt
+Gottfried Schwancke
+Johann Christian Beuchel
+1785
+Christian August Döhnert
+Johann Caspar Schlitter
+Gottlieb Röhr
+1786
+Johann August Kunert
+Johann Gottlieb Gasch
+Johann Gottlieb Simon
+Johann Paul Junge
+Samuel Schneidel?
+1787
+Johann Rudolph Wirth
+Gottfried Däbritz
+Christian Traugott DÖhnert
+Gottlob Traultmann
+Samuel Berge
+Johann Gottfried Roitzsche
+Johann Gottlieb Hencker
+1788
+Johann Gottfried Pauli
+Johann Georg Mirisch
+Johann Gottlob Mählig
+Christian Brause
+Johann Carl Traugott Winckler
+----------------

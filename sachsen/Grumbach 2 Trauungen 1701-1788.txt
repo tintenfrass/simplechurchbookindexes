@@ -1,13 +1,14 @@
 Grumbach (Buch 2)
-Trauungen 1701-1777
+Trauungen 1701-1788
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 2,5 Stunden
+Erstellt in ca. 3 Stunden
 Februar 2023
 Mai 2023
+Juni 2023
 tintenfrass@gmx.de
 
 
@@ -1156,3 +1157,169 @@ Johann Georg Weitzmann
 ----------------
 Christian Große
 Johann Georg Lange
+1778
+Johann Christian August
+Johann Gottfried Oehmigen
+Johann Gottfried Schaarschuch
+Christian Gabriel
+Johann Gottlieb Gabriel
+Johann Gottfried Kluge
+Johann Christian Kühn
+Johann Gottlieb Roch
+Johann Christian Hilmann
+----------------
+1779
+Jacob Fräntzel
+Johann Gottlob Pfützner
+Gottlob Sonntag
+Johann Georg Kuntze
+Johann Georg Fährmann
+Johann Gottlob Ritter
+Johann Gottfried Fährmann
+Johann Michael Kümmelberg
+Johann Georg Wittig
+Martin Günther
+Johann Christian Eckelt
+Johann Gottlieb Brendel
+----------------
+1780
+Johann Georg Große
+Johann Gottfried Zelle
+Gottlieb Küntzelmann
+Johann Christian Lucii
+Johann Georg Maul
+Gottlob Dachsel
+Johann Börner
+Johann Christoph Ralitzsch
+Johann Gottfried Thiele
+Johann Christian Kuntze
+Johann Gottlieb Mehnert
+Johann Gottlieb Brendel
+----------------
+1781
+Christoph Micklich
+Johann Gottlieb Bräunert
+Christian Börner
+Christoph Döring
+Johann Michael Heymann
+Johann Gottlob Andrä
+Johann Gottlob Müller
+Johann Gottfried Lucius
+Johann Gottlieb Eger
+Johann Gottlieb Schütze
+Abraham Thiele
+----------------
+1782
+Gottfried Schumann
+Johann Andreas Grünberger
+Johann Gottfried Irmler
+Gottfried Andrä
+Johann Gottlieb Schmidt
+Christian Hencker
+Johann Christian Hencker
+Jeremias Schmidt
+Johann Gottlieb Neukirch
+Gottlob Fuhr
+Johann Gottlob Lehmann
+Georg Beck
+August Patzig
+----------------
+Johann Maximilian Kluge
+Gottlieb Glöckner
+Johann Georg Patzig
+Johann Gottfried Winckler
+1783
+Johann Gottlob Voigt
+Johann Gottlob Patzig
+Johann Gottlieb Pietzsch
+Johann Christian Horn
+----------------
+Johann Gottlieb Zeller
+Johann Gottfried Kießlich
+Christian Kühn
+Johann Gottlieb Röthig
+Johann Georg Steglich
+1784
+Johann Gottlob Patzig
+Johann Christian Maul
+Johann Gottlob Hirschbach
+Johann Christian Grahl
+----------------
+Johann Georg Pietzsch
+Johann Gottlob Starcke
+Gottlob Richter
+Johann Gottfried Krauspe
+Johann Gottfried Lange
+Johann Georg Irmer
+Johann Georg Kuntze
+Johann Georg Jähnichen
+Johann Jacob Birckner
+Johann Frantze
+----------------
+1785
+Christoph Friedrich Clausnitzer
+Carl Gottfried Andrä
+Johann Michael Reichelt
+Johann Heinrich Mann
+Johann Gottlob Kayser
+Samuel Made
+Johann Christian Schneider
+Johann Gottfried Irmler
+----------------
+Martin Günther
+Johann Gottlob Begen
+Carl Christian Naumann
+Johann Gottlob Lehmann
+Johann Gottlob Amboßeck
+Johann Gottfried Huhn
+Johann Georg Mütterlein
+Johann Georg Grellmann
+----------------
+1786
+Johann Gottlieb Geißler
+Johann Gottlieb Pietzsch
+Johann Georg Graupitz
+Johann Georg Haschke
+Johann Benjamin Hirschbach
+Johann Gottlob Kühn
+Johann Gottlob Schneider
+Johann Gottlob Schumann
+----------------
+Johann Gottlieb Lindner
+Johann Gottlob Roch
+Johann Heinrich Grafe
+August Leuteritz
+Johann Gottfried Roch
+1787
+Johann Georg Ritter
+Johann Gottfried Zschuncke
+Johann Christian Strohbach
+----------------
+Johann Georg Gebauer
+Johann Georg Starcke
+Friedrich Wilhelm Barth
+Johann Christian Reichelt
+Gottfried Büttner
+Johann Gottlieb Dönert
+Johann Gottfried Francke
+Johann Gottfried Pietzsch
+Gottfried Thiele
+Johann Christian Küttner
+----------------
+Johann Christian Kieslich
+Johann Christian Ganßauge
+Johann Christian Partzsch
+1788
+Johann Christoph Koch
+Adam Gotthelf Born
+Christian Friedrich Forberger
+Johann Christian Leuteritz
+----------------
+Johann August Zeller
+Gottfried Gabriel
+Johann Gotthelf Schütze
+Johann Gottlob Fährmann
+Johann Friedrich Volckmar
+Johann Gottlob Büttner
+Johann Georg Gneuß
+Gottlob Leuteritz

@@ -1,5 +1,5 @@
 Blankenstein (Buch 2)
-Trauungen 1756-1777
+Trauungen 1756-1788
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
@@ -8,6 +8,7 @@ Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen
 
 Erstellt in ca. 1 Stunden
 Mai 2023
+Juni 2023
 tintenfrass@gmx.de
 
 
@@ -231,3 +232,118 @@ Carl Gottlob Wolf
 Johann Gottfried Richter
 Johann Georg Mehner
 ----------------
+1778
+Johann Georg Ditrich
+Christian Wilhelm Ludwig Winckler
+Johann Gottlieb Ficke
+Johann Gotthelf Reif
+Gottlob Naumann
+Johann Gottlob Schlegel
+Christian Zschoche
+Johann Gottlieb Schönberg
+----------------
+1779
+Johann Gottlob Schubert
+Christian Wagner
+Johann Christian Adam
+Johann Gottlieb Sparmann
+Johann Georg Fritzsche
+Johann Heinrich Gebhard
+Johann Michael Mützelt
+Gottlieb Löwe
+Hans Michael Schultz
+Johann Gottlob Schubert
+Johann Gottlob Leuteritz
+Zacharias Hille
+Johann Georg Wittich
+----------------
+Johann Gottlieb Hackenberger
+Johann Christian Philipp
+Johann Georg Börner
+1780
+Johann Georg Große
+Johann Gottfried Haupt
+Johann Gottlob Burckerd
+Johann Gottlieb Klinckig
+Johann Gottlob Birckner
+1781
+Johann Gottlob Friese
+Johann Gottlieb Schramm
+Johann Georg Hennig
+Jacob Dietze
+Elias Stäte
+----------------
+Andreas Preusche
+Johann Friedrich Fröbe
+Johann Gottlieb Wiedemann
+1782
+Christian Gottlieb Gesner
+Johann Christian Reinfeld
+Andreas Gottlob Grünberger
+Johann Gottfried Laßner
+Johann Gottlieb Küttner
+Johann Georg Becker
+Johann Carl Gottlob Panier
+----------------
+Johann Georg Günther
+1783
+Johann Gottlob Henschel
+Johann Christian Fleischer
+Carl Gottlob Rüßel
+Johann Georg Eckelt
+Johann Gottfried Griebler
+Johann Gottlieb Philipp
+Johann Gottlieb Kießlich
+Johann Georg Sparmann
+Johann Gottlieb Schieez
+----------------
+Johann Christian Birckner
+Christian Gottlieb Taschenberger
+Johann Gottlieb Wittig
+1784
+Johann Gottfried Heide
+Johann Gottlieb Henschel
+Johann Gottlob Beßer
+----------------
+Johann Gottlob Schultz
+Johann Gottlieb Strohbach
+Johann Gottlob Vetter
+Johann Gottlob Knöbel
+Gottlieb Ficke
+Johann Gottfried Schubert
+Johann Gottlieb Grelmann
+Carl Simon Rost
+----------------
+Johann Christoph Hähnichen
+Johann Gottlieb Hillig
+Johann Gottlieb Leuteritz
+1785
+Johann Gottfried Kühne
+Johann Jacob Wiedemann
+Johann Georg Schubert
+Johann Heinrich Beuchel
+----------------
+Johann Gottlieb Sparrmann
+1786
+Johann Gottlieb Wachsmuth
+Johann Gottlieb Birckner
+Johann Gottfried Naumann
+Johann Michael Rüdiger
+Johann Gottfried Mohrig
+Johann Michael Ditrich
+1787
+Johann Christian Neubert
+Johann Gottfried Günther
+Johann Friedrich Sohr
+Christoph Koch
+Jacob Schmidgen
+----------------
+1788
+Johann Christian Schirmer
+Johann Christian Friedrich Hammer
+Johann Georg Ranft
+Johann Gottfried Gerhold
+Johann Christian Küchenmeister
+Johann Georg Ditrich
+Johann Georg Hahn
+Michael Burckhart
