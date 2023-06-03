@@ -1,5 +1,5 @@
 Kesselsdorf (Buch 5)
-Trauungen 1754-1785
+Trauungen 1754-1788
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
@@ -7,6 +7,7 @@ Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen
 
 Erstellt in ca. 1 Stunde
 Mai 2023
+Juni 2023
 tintenfrass@gmx.de
 
 
@@ -603,3 +604,71 @@ Johann Gotthelf Pietzsch
 Christian Rumbrich
 Johann Heinrich Beuchel
 Christian Reppgen
+1786
+Christian Wilhelm Richter
+Gottlieb Böhme
+Johann Christian Klöber
+----------------
+Carl Gottlieb Cruschwitz
+Johann Christoph Schmidt
+Johann Christian Scharchuh
+Johann Georg Schild
+Johann Georg Hecht
+Johann Georg Amboseck
+Johann Gottfried Lesche
+Johann Christian Fiedler
+Johann Georg Nethaß
+August Leuteritz
+Johann Christian Galle
+----------------
+Johann Georg Patzig
+Christoph Heinrich Lucius
+Johann Gottfried Roch
+1787
+Johann Georg Krauße
+Johann Christian Strohbach
+Johann Gottlieb Hermsdorf
+Johann Georg Ebner
+Gottfried Bierich
+Gottfried Dietze
+Johann Christian Hertzog
+Johann Gottlob Frantz
+Johann Gottfried Hetz
+Johann Gottlieb Hoppe
+----------------
+Gottfried Schultz
+Johann Georg Hoppe
+Johann Gottfried Francke
+Gottlob Döring
+Johann Gottlieb Großmann
+Gotthelf Hermsdorf
+Johann Leberecht Löser
+Gottlieb Hermsdorf
+Johann Gotthelf Büttner
+Carl Benjamin Flade
+Christian Küntzelmann
+Johann Christian Winckler
+Johann Georg Rosenkrantz
+1788
+Moritz Friedrich Jacob Zeitschel
+Johann Gottfried Gaußig
+----------------
+Carl Gottfried Böhme
+Gottfried Zöllner
+Johann Christoph Strohbach
+Johann Gottlieb Jäckel
+Christian Lippert
+Johann Hering
+Johann Gottlob Grübler
+Johann Gottlieb Ranisch
+Johann Gottfried Börner
+Johann Gottlieb Faust
+Johann Gottfried Fritzsche
+Carl August Gelhaar
+Johann Gottfried Bormann
+Johann Georg Rehfeld
+Gotthelf Bormann
+Johann Georg Naacke
+----------------
+Gottfried Brock
+Johann Christian Förster
