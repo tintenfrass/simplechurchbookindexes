@@ -1,13 +1,14 @@
 Kaditz (Buch 217)
-Trauungen 1758-1788
+Trauungen 1758-1799
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stunden
+Erstellt in ca. 2 Stunden
 Mai 2023
+August 2023
 tintenfrass@gmx.de
 
 
@@ -626,3 +627,276 @@ Gottlieb Zscheile
 Johann Georg Taschenberger
 ----------------
 Georg Beßler
+1789
+Johann Georg Werner
+Johann Klotzsche
+Andreas Heydenreich
+Christian Iltzsche
+Johann Heinrich Kuhnath
+Christian Findeisen
+Johann Gottfried Angermann
+Samuel Hebelt
+Johann Michael Wagner
+Johann Gottlieb Lehmann
+Adolph Leberecht Kraich
+Joseph Weinicke
+----------------
+Johann Gottfried Schnabel
+Johann Gottlob Trobisch
+Christoph Friedrich Güther
+Johann Gottlob Gentsch
+Gottlieb Wilhelm Schöder
+Johann Gottlieb Findeisen
+Johann Georg Frantze
+Johann Gottlob Taschenberger
+Johann Georg Heckelt
+1790
+Johann Georg Schubert
+Johann Daniel Haase
+----------------
+Johann Gottlieb Hebelt
+Johann Georg Schultz
+Johann Christoph Grundmann
+Christian Schultz
+Johann Christian Adam
+Johann Gottlob Schultz
+Johann Gottfried Kießling
+Christoph Schmidtgen
+Johann Georg Lesch
+Georg Gottfried Morgenstern
+August Gottlob Thiele
+Christian Gotthelf Heidemann
+----------------
+Christoph Naumann
+Johann Georg Riemer
+Johann Gottlieb Kind
+Mattheus Lauer
+Johann Gottfried Vogel
+Johann Gottlieb Zscheile
+1791
+Johann Georg Schumann
+Johann Georg Lesch
+Johann Gottfried Schumann
+Johann Gottlob Findeisen
+----------------
+Johann Gottlieb Schmidt
+Johann Samuel Zscheile
+Johann Gottlob Bormann
+Christoph Leuschner
+Johann Gottlob Hertzschuch
+Christian Friedrich Böhme
+Johann Gottfried Vogel
+Johann Gottlob Selle
+Johann Georg Rumpe
+Johann Gottlieb Wirthgen
+----------------
+Johann Georg Vogel
+Johann Gottlob Schumann
+Johann Gottlob Boden
+1792
+Johann Georg Taschenberger
+Johann Georg Klotzsche
+Gottlob Vogel
+Johann Georg Iltzsche
+Johann Andreas Fulde
+Johann Gottlieb Barth
+Ambrosius Michel
+----------------
+Johann Christian Krause
+Johann Gottlob Frantze
+Johann Gottlob Schultz
+Johann Friedrich Ernst
+Johann Gottlob Heckelt
+Gottfried Dietze
+Johann Gottlob Schultz
+Johann Gottlob Zachmann
+Johann Gottlieb Schöne
+Carl Gottlob Paßau
+Johann Christian Ulrich
+----------------
+Johann Gottlob Höhne
+Gottlieb Schnabel
+Georg Haußotter
+Johann Gottlob Findeisen
+Johann Christian Schöne
+Gottlieb Leberecht Winter
+Johann Gottlob Hornhauer
+Johann Gottfried Wiedemann
+Johann Gottfried Vogel
+Johann Georg Vogel
+----------------
+Johann Gottlieb Vogel
+Johann Gottfried Krause
+1793
+Johann Georg Fischer
+Johann Georg Frantze
+Johann Gottlieb Kretzschmer
+Johann Georg Eisold
+Georg Adam Fuchs
+Christoph Heinrich Walther
+Ernst Friedrich Gotthard Pfeifer
+Johann Christian Damme
+Johann Gottlieb Michel
+Johann Christian Grafe
+----------------
+Johann Gottlob Adam
+Johann Gottlieb Rumpe
+Johann Gottlob Geise
+Christian Sohrmann
+August Gottlob Ehrlich
+Johann Christian Hartung
+Johann Gottfried Preuser
+Johann Gottlieb Frantze
+Johann Gottfried Vogel
+Johann Georg Türcke
+Gottlieb Mergner
+----------------
+1794
+Johann Georg Zscheile
+Johann Gottlob Zschimmer
+Johann Gottfried Klotzsche
+Johann Gottfried Türcke
+Johann Christoph Trepte
+Salomon Friedrich Hauschild
+Johann Gottfried Wanneberger
+Johann Gottlieb Hertzschuch
+Mattheus Pilack
+Gottfried Leberecht Rothmahler
+Johann Friedrich Cuno
+----------------
+Johann Gottlob Schreyer
+Johann Carl Gottlob Eckhardt
+Daniel Traugott Felir
+Christoph Adam
+Johann Gottlob Richter
+Johann August Morgenstern
+Georg Zscheile
+Gottfried Döring
+Johann Gottlieb Vogel
+Johann Gottlob Beuhne
+Gottlieb Lehmann
+Johann Gottfried Hertzschuch
+----------------
+1795
+Johann Gottfried Patzig
+Johann Georg Schumann
+Johann Gottlob Adam
+Johann Gottlob Vogel
+Samuel Gebhardt
+Johann Gottfried Michel
+Georg Friedrich Winckler
+Christian Gottlieb Hermann
+Johann Gottlieb Taschenberger
+Johann Andreas Paul
+Christian Böhme
+----------------
+Georg Adam
+Johann Gottfried Zscheile
+Johann Gottfried Strubel
+Johann Gottlieb Richter
+Johann Gottlieb Hertzschuch
+Friedrich Traugott Schneider
+Johann Georg Händel
+Johann Christian Klotzsche
+Johann Gottlieb Paul
+1796
+Johann Gottlieb Heckelt
+Johann Georg Vogel
+Georg Haucke
+----------------
+Johann Georg Pietzsch
+Johann Gottlieb Selle
+Johann Andreas Adam
+Johann Gottlieb Angermann
+Johann Gottlob Vogel
+Johann Gottlieb Schultz
+Johann Gottlob Kluge
+Johann Samuel Hoffmann
+Johann Gottlieb Werner
+Johann Georg Erler
+Johann Christian Selle
+Johann Georg Vogel
+Carl Christian Klotzsche
+Johann Gottlob Taschenberger
+----------------
+1797
+Johann Georg Beßler
+Johann Gottfried Iltzsche
+Georg Vogel
+Johann Gottfried Frantze
+Carl Gottfried Schmidt
+Johann Gottlieb Klinger
+Johann Gottlob Dietze
+Johann Gottlob Beuhne
+Johann Gottfried Reichelt
+Johann Georg Hübler
+Johann Gottlieb Klotzsche
+Johann Gottfried Klotzsche
+Johann Georg Wachtel
+----------------
+Johann Georg Mildner
+Johann Georg Blumberger
+Johann Gottlieb Andrich
+Johann Christoph Ludwig
+Johann Gottlieb Beuhne
+Johann Gottlob Hertzschuch
+Johann Georg Vogel
+1798
+Andreas Iltzsche
+Johann Gottlieb Vogel
+Johann Gottfried Trentsch
+Johann Christoph Kegel
+Johann Gottlieb Mögel
+Johann Gottlob Griesbach
+----------------
+Samuel Findeisen
+Johann Christian Horn
+Johann Gottlieb Wentzel
+Johann Gottfried Jähnichen
+Johann Gottlob Türcke
+Georg Lehmann
+Johann Christian Winckler
+Johann Gottfried Türcke
+Johann Friedrich August Barth
+Peter Pötzschke
+Johann Gottlieb Findeisen
+Johann Martin Grießbach
+Johann Gottfried Frantze
+Johann Gottlob Schumann
+Johann Gottlieb Trentsch
+----------------
+Johann Gottlieb Schultz
+Johann Gottlieb Großmann
+Johann Gottfried Vogel
+Johann Gottfried Klinger
+Johann Carl Meßerschmid
+1799
+Gottlob Kome
+Johann Gottlob Gebhardt
+Georg Adam
+Johann Christoph Kreinert
+Johann Gottlob Scheibe
+----------------
+Johann Georg Leuschner
+Johann Gottfried Vogel
+Johann Gottfried Schreyer
+Johann Georg Brückzöllner
+Christian Krause
+Johann August Müller
+Johann Gottlieb Heinrich
+Johann Samuel Schumann
+Johann Gottlob Hentschel
+Johann Christian Dorn
+Johann Gottlieb Zobel
+Johann Gottlob Preusche
+Johann Georg Schumann
+----------------
+Johann Christian Adam
+Johann Gottfried Findeisen
+Johann Gottlob Adam
+Johann Gottlieb Frantze
+Johann Gottlob Händel
+Johann Gottfried Vogel
+Johann Adam Pietzsch
+Heinrich Gotthelf Merbach
+Johann Heinrich Bing
