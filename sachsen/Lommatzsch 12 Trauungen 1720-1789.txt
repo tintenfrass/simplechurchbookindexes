@@ -1,16 +1,20 @@
 Lommatzsch (Buch 12)
-Trauungen 1720-1788
+Trauungen 1720-1789
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
+Hinweis:
+Nach 1789 befinden sich weitere Trauungen ab 1752
+
 
 Erstellt in ca. 4 Stunden
 Februar 2023
 Mai 2023
 Juni 2023
+August 2023
 tintenfrass@gmx.de
 
 
@@ -830,7 +834,7 @@ Johann Gottfried Zeuler?
 1752
 Andreas Schumann
 Heinrich Gottlob König
-Christian Löwu?
+Christian Löwe
 Johann Georg Richter
 Johann Schmidt
 Johann Gottlieb Wilsdorf
@@ -1770,3 +1774,43 @@ Johann Gottlieb Richter
 Johann Gottlob Steude
 Johann Christian Gotthelf Zierold
 Johann Christian Dömmig
+1789
+Johann Gottfried Böttger
+Johann Christoph Barich
+Carl Friedrich Apitz
+Johann Gottlob Rauhe
+Christian Müller
+Johann Gottfried Dähnert
+Johann Christoph Haase
+Johann Gottlob Heinrich Körbitz
+Johann Gottlieb Schubert
+Christian Maul
+Johann Georg Großmann
+Christian Benjamin Hoffmann
+Carl Friedrich Lichtenberg
+Carl Gottfried Günther
+----------------
+Johann Gottlob Höfler
+Johann Gottlieb Ostermey
+Johann Gottlieb Ulbricht
+1752
+Heinrich Gottlob König
+Christian Löwe
+Johann Georg Richter
+1757
+Gottfried Gentzsch
+1758
+Johann Georg Hennig
+Carl Heinrich Gerstäcker
+Johann Georg Förster
+1759
+Johann Samuel Schmidt
+Peter Winckler
+1760
+Johann Friedrich Krieger
+1761
+Johann Christian Piltz
+1762
+Georg Andreas Wiesand
+1763
+Samuel Andreas Dietrich
