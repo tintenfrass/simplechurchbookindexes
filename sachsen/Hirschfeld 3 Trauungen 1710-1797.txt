@@ -1,5 +1,5 @@
 Hirschfeld (Buch 3)
-Trauungen 1710-1788
+Trauungen 1710-1797
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
@@ -9,6 +9,7 @@ Erstellt in ca. 2 Stunden
 Februar 2023
 Mai 2023
 Juni 2023
+August 2023
 tintenfrass@gmx.de
 
 
@@ -635,3 +636,88 @@ Carl Friedrich Sohr
 Johann Gottlob Limbach
 Johann Georg Krumfurt
 Johann Christoph Preußler
+1789
+Johann Gottlob Buschbeck
+Johann Georg Schneider
+Johann Christian Mattuch
+Gottlieb Metzler
+Johann Michael Hoffmann
+Johann Gottlob Mau
+Johann Georg Hermann
+Carl Samuel Eckelt
+----------------
+Johann Gottlob Heinze
+1790
+Johann Gottlieb Junghanß
+Johann Gottlieb Jost
+Johann Georg Döring
+Johann Gottlieb Reh
+Gotthelf Friedrich Beyer
+Johann Gottfried Dierse
+Johann Michael Dierse
+1791
+Johann Gottfried Wolf
+Johann Gottfried Schäfrich
+----------------
+Johann Gottfried Hencker
+Johann August Kühne
+Johann Gottlob Jost
+Johann Gottlieb Röder
+Johann Gottlob Geißler
+Johann Gottfried Lutze?
+Johann Reinhardt Lange
+Johann Christian Nebe
+1792
+Friedrich Wilhelm Ilgen
+Johann Friedrich August Löwe
+Johann Gottfried Ehrlich
+Johann Gottfried Jpbst
+Johann Gottlieb Beßler
+Johann Gottlieb Böhme
+----------------
+1793
+Johann Gotthelf Rost
+Johann Gottlieb Schröder
+Johann Gottfried Löwe
+Johann Gottlob Rost
+Christian Gottlieb Kämmnitz
+Carl Ehregott Hencker
+Johann Gottlieb Lange
+1794
+Johann Carl Heinrich Geutel
+Johann Gottlieb Jost
+Johann Gottfried Sende
+----------------
+1795
+Johann Georg Gottlebe
+Johann Gottlieb Knebel
+Heinrich Gottlieb Frey
+Johann Christian Jähnig
+Johann Gottfried Beuchler
+Johann Gottlieb Barth
+Joseph Dachsel
+Johann Friedrich Zeiger
+Johann Gottfried Starcke
+1796
+Johann Gottlieb Hoffmann
+Johann Gottfried Böhme
+----------------
+Johann Gottlieb Eydam
+Johann Georg Krüger
+Johann Gottfried Nickol
+Johann Georg Lutze
+1797
+Johann Gottlieb Dündorf
+Johann Gottlieb Schönert
+Johann Gottlob Döring
+Johann Gottlieb Kost
+Johann Gottfried Junghanß
+Carl Gottfried Häber
+----------------
+Johann Gottlieb Zweiniger
+Johann Gottlieb Böhme
+Johann Gottlieb Gießmann
+Johann Traugott Baumann
+Carl Christoph Weinhold
+Johann Gottlob Hermann
+Caspar Heinrich Böhme

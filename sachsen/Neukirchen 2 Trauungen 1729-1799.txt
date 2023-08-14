@@ -1,15 +1,16 @@
 Neukirchen (Buch 2)
-Trauungen 1729-1788
+Trauungen 1729-1799
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stunde
+Erstellt in ca. 2 Stunden
 Februar 2023
 Mai 2023
 Juni 2023
+August 2023
 tintenfrass@gmx.de
 
 
@@ -625,3 +626,133 @@ Johann Gottlieb Süße
 Christian Friedrich Größel
 Johann Gottfried Fritzsche
 Johann Gottfried Dachsel
+1789
+Karl Heinrich Pappert
+----------------
+Johann Gottfried Siebert
+Johann Gotthelf Halbhüfner
+Johann Michael Fährmann
+Carl Wilhelm Boße
+Johann Gotthelf Weser
+Johann Michael Hoffmann
+Johann Gottlieb Uhlig
+Johann Gottfried Mühlberg
+Johann Gottlob Hoime
+----------------
+1790
+Johann Gottlob Pinckert
+Johann Gottlieb Braunsdorf
+Gottlob Marr
+Carl Christian Haden
+Johann Gottfried Schanze
+1791
+Johann Gottfried Leuschner
+Johann Gottlob Müller
+Johann Gottfried Schubert
+Johann Georg Ranft
+----------------
+August Friedrich Christoph Schoenberg
+Johann Gottlob Schubert
+Johann Gottfried Berger
+Johann Gottfried Dietze
+Johann Gottlieb Weber
+1792
+Johann Christian Klauß
+Johann Gottlieb Grellmann
+Johann Gottlieb Preußer
+----------------
+Johann Georg Horn
+Karl Gottfried Klausnitzer
+1793
+Johann Gottfried Becker
+Johann Gottlob Berisch
+Johann Gotthelf Koßt
+Carl Friedrich Pietzsch
+Karl Gottlieb Schmidt
+Johann Gottlieb Gießner
+Johann Gottfried Löwe
+Johann Friedrich Haberfeldt
+Karl Gottlob Süße
+----------------
+Johann Michael Krüger
+Johann Gottfried Wolf
+Johann Gottlob Paul
+Johann Jacob Ludwig
+Johann Gottlieb Günther
+Johann Gottlob Zocher
+1794
+Johann Gotthelf Süße
+Christian Gottlieb Fritzsche
+Johann Gottlieb Wittig
+Johann Samuel Schimmrich
+Johann Gottlob Boerner
+Johann Gottlieb Dachsel
+----------------
+Johann Gottlieb Dietze
+Johann Gottlob Mauersberger
+Johann Adolph Dachsel
+Johann Gottfried Limbach
+1795
+Gottlob Schultz
+Johann Gottlieb Schimmrich
+Johann Gottlob Becker
+Gottlob Wesner
+Johann Gottfried Müller
+Joseph Dachsel
+----------------
+Karl Friedrich Küttner
+Johann Michael Schlücke
+Johann Joseph Müller
+Johann Michael Stoerl
+Johann Gotthelf Grellmann
+1796
+Christian Gotthelf Götze
+Paul Traugott Edel
+Johann Heinrich Stange
+Carl Gottlob Horn
+Johann Gottlieb Ludwig
+Johann Gottlieb John
+----------------
+Johann Gottlieb Kurth
+Carl Gottlob Preußer
+Carl Ferdinand Krahl
+Johann Gottlieb Mahner
+1797
+Johann Karl Friedrich Krüger
+Johann Gottlieb Ihle
+Johann Michael Just
+Johann Gottlieb Edel
+Carl Gottlieb Schönert
+August Ferdinand Königsdörfer
+Karl Gottlob Keller
+----------------
+Johann Gotthelf Braunsdorf
+Johann Michael Raabe
+Carl Gotthelf Wietzel
+1798
+Carl Gottlob Fischer
+Johann Christian Leberecht Lautel
+Carl Gottlob Pinkert
+Johann Christian Schubert
+Gottlieb Roth
+Johann Gottlieb Gabriel
+Johann Gottlob Kayser
+----------------
+Johann Gottfried Liebschner
+Johann Martin Peter Roßberg
+Christian Gottlieb Steude
+Johann Gottlieb Grellmann
+Johann Gottlieb Anhalt
+Johann Gottlieb Lommatzsch
+1799
+Johann Gottlieb Schlechte
+Johann Gottfried Lommatzsch
+Johann Samuel Döring
+----------------
+Johann Heinrich Staneck
+Johann Gottlieb Donat
+Gottlieb Frauenstein
+Johann Gottlob Günther
+Carl Friedrich Junghans
+Johann Gottlieb Ludwig
+Johann Gottlieb Diersche

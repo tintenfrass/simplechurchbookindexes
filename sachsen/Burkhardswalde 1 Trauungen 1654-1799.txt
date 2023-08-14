@@ -1,5 +1,5 @@
 Burkhardswalde (Buch 1)
-Trauungen 1655-1788
+Trauungen 1655-1799
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
@@ -8,11 +8,12 @@ Hinweis:
 Im Kirchenbuch selber gibt es ein alphabetisches Register, welches für diesen Index aber nicht verwendet wurde.
 
 
-Erstellt in ca. 3 Stunden
+Erstellt in ca. 3,5 Stunden
 Juni 2022
 Februar 2023
 Mai 2023
 Juni 2023
+August 2023
 tintenfrass@gmx.de
 
 
@@ -954,3 +955,101 @@ Johann Christian Schirrmer
 1788
 Johann Georg Kleißberg
 x
+1789
+Johann Georg Kühne
+----------------
+Johann Christoph Fellber
+Johann David Scheunert
+Johann Gottlob Becker
+Gottlob Kippe
+Johann Gotthelf Adam
+Johann Gottlob Tinndorf
+----------------
+1790
+Xaver Maria Casar Schoenbeck
+Gottlob Mühlberg
+Peter Dresler
+Johann Gottfried Pinckert
+Johann Gottfried Patzig
+Johann Christian Leonhard
+Johann Gottlob Strelle
+Daniel Gottlob Adam
+Johann Gottlieb Weber
+----------------
+1791
+Johann Georg Rentsch
+Christian Just
+Gottlieb Schumann
+Johann Christian Goede
+Johann Gottlob Leberecht Lotze
+1792
+Johann Christian Steude
+Johann Gottfried Seidel
+Johann Carl Gottlob Backofen
+Daniel Gottlob Hensel
+Johann Traugott Porschdorf
+Johann Gotthelf Lange
+1793
+Christian Köhler
+Samuel Mahler
+Johann Gottlob Lommatzsch
+----------------
+Johann Gottlob Bart
+Johann Carl Gottlob Wahl
+1794
+Johann Gottlob Hebold
+Johann Gottlob Leonhart
+Johann Georg Rost
+Johann Gottlieb Köhler
+Johann Gottlieb Boerner
+Gottlob Friedrich Roetzsch
+Christian Gottlieb Stolle
+Johann Georg Winckler
+1795
+Gottlob Schmidgen
+Johann Gottlob Wittig
+Johann Gottlieb Jurisch
+----------------
+Johann Georg Spargen
+Gottlieb Leberecht Schlechte
+1796
+Michael Ebert
+Wilhelm Wolfgang Boettiger
+Johann Gottlob Krumfert
+Johann Christian Fritzsche
+Johann Gottlob Tamme
+Johann Gottlob Döring
+Johann Gottfried Wachsmuth
+1797
+----------------
+Ferdinand Adolph Ende
+Friedrich Traugott Heße
+Christian Gottlieb Hänsel
+Johann Gottlieb Stieber
+1798
+Johann Gottfried Obermann
+Johann Gottlieb Rost
+----------------
+Gotthelf Dietrich Ende
+Johann Gottfried Litzner
+Christian Schefler
+Johann Gottlieb Naumann
+Johann Schneider
+Johann Gottfried Ruscher
+1799
+Johann August Bart
+Johann Gottlob Reichler
+Johann Friedrich Clauß
+Gottlob Rühle
+Johann Gottfried Lommatzsch
+Johann Gottlieb Schnee
+Johann Gottlob Schumann
+----------------
+Johann Gottlieb Donat
+Johann Gottlob Mahnert
+Ernst Wilhelm August Reizenstein
+Johann Gottlieb Klatte
+Johann Gottlieb Dietze
+Johann Gottlob Huhn
+----------------
+Johann Christian Jedermann

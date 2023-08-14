@@ -1,15 +1,16 @@
 Mohorn (Buch 3)
-Trauungen 1701-1788
+Trauungen 1701-1799
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
-Erstellt in ca. 2,5 Stunden
+Erstellt in ca. 3 Stunden
 Februar 2023
 Mai 2023
 Juni 2023
+August 2023
 tintenfrass@gmx.de
 
 
@@ -1103,3 +1104,229 @@ Gottfried Zschoche
 Johann Georg Ludwig
 Carl Gottlieb Ile
 Carl Gottlieb Eberl
+1789
+Johann Gottlieb Fritzsche
+Johann Gottlieb Funcke
+Johann Friedrich Schultz
+Carl Heinrich Japperl?
+Johann Gottlieb Hoyer
+Johann Christian Felbel
+Adolph Friedrich Schaarschuch
+Gotthelf Schubert
+Johann Gottfried Nestler
+Johann Christian Lohse
+Johann Michael Halster?
+----------------
+Christian Traugott Meyer
+Johann Georg Preußer?
+Carl Gottlob Stärl?
+Christian Ditrich
+Johann Gottlieb Cars?
+Johann Christoph Mauersberger
+1790
+Carl Gottlob Thiele
+Johann Michael Bauer?
+Gabriel Beckerl
+Johann Christian Döring
+Christian Herzog
+Johann Georg Schumann
+Johann Friedrich Börner
+Carl Gottfried Sachse
+Johann Georg Fritzsche
+Johann Gottfried Fritzsche
+Johann Gottlob Küchenmeister?
+Daniel Scharschuch
+----------------
+Johann Gottlieb Gießmann
+Johann Gottlob Dürßel
+Gottfried Christian Carl Appelt
+1791
+Johann Gottfried Hencker
+Johann Gottfried Stölzer
+Johann Gottlieb Ditrich
+Carl Gottlieb Weißbach
+Christian Friedrich Große
+Johann Gottfried Wagner
+Carl Gottlob Haman
+Johann Gottlieb Thomaß
+Gottlieb Wald
+Johann Georg Ganßauge
+Carl Gottlob Schaarschuch
+----------------
+Carl Gottlob Richter
+Gottlieb Schultz
+1792
+Johann Gottlob Wustlich
+Johann Gottfried Simon
+Johann Michael Bernhard
+Johann Christian Schumann
+Johann Georg Günther
+Johann Gottlob Köhler
+Johann Georg Dietze
+Johann Gottfried Leuteritz
+August Gottlieb Pauli
+Johann Gottlob Schlicke
+Johann Gottfried Hänisch
+Adolph Siegmund Trepke?
+Johann Michael Ditese?
+Adam Friedrich Küchenmeister
+Johann Gottlob Heyde
+----------------
+Gottlieb Landmann
+Johann Georg Biltz
+Johann Georg Stürl?
+1793
+Johann Gotthelf Dürßel
+Daniel Schaarschuch
+Johann Gottfried Gerhold
+Johann Michael Hoffmann
+Johann Christian Berger
+Johann Gottfried Halfter
+Christian Gottlob Lohse
+Carl Gottlieb Poppe?
+Johann Gotthelf Pfeiffer
+Johann Michael Dittmann
+Gotthelf Böhme
+Johann Gottlob Reif?
+Johann Gottlob Daniel Weiß
+Johann Gotthelf Rezhal?
+Johann Gotthelf Thiele
+----------------
+Johann Carl Friedrich Heumann
+Johann Gottlob Stürl
+1794
+Johann Christian Strohbach
+Georg Friedrich Beyer
+Johann Gottlieb Kühne
+Johann Gottlob Ische
+Christian Gottfried Kirchner?
+Johann Gottlob Mauersberger
+Johann Samuel Günther
+Johann Christoph Günert
+Johann Gottfried Köhler
+Johann Gottlieb Wustlich
+Johann August Zschach
+Johann Gottlob Hencker
+Johann Gottlieb Stark
+Johann Gottfried Siedmund
+Johann Gottlieb Lohse
+----------------
+1795
+Johann Gotthelf Stürl
+Gottfried Landmann
+Christian Gottlob Jahne
+Johann Christian Hencker
+Johann Gottlieb Böhme
+Johann Michael Kühn
+Johann Gotthelf Haman
+Johann Christian Bernhard
+Johann Gottlieb Kübel
+Johann Gottlieb Bachmann
+Gottlieb Schlegel
+Christian Gottlob Abend
+Carl Gottlob Rost
+Johann Gottlieb Müller
+Georg Andreas Krieger
+Christian Gotthelf Heinrich
+Johann Gottlieb Hauptvogel
+Christian Friedrich Teubner
+----------------
+Johann Gottfried Bachmann
+Johann Gottlieb Gregsterl?
+Carl Friedrich Walther
+Christian Gottfried Jahne
+Johann Gottfried Francke
+1796
+Johann Gottlob Meusel
+Johann Gottlieb Thiele
+Johann Gottfried Kandler
+Johann Gottlob Kirchner
+Johann Gottfried Jäpel?
+Johann Georg Krüner?
+Johann Gottlieb Lorentz
+Johann Gottlieb Jahn
+Johann Traugott Schultz
+----------------
+Johann Christian Gottlob Wilich
+Johann Georg Hoffmann
+Johann Gottlob Grube
+Johann Gottlieb Adam
+Johann Georg Strelle
+Johann Gottfried Kühn
+Johann Gottfried Hülle?
+Johann Christian Leonhard
+Karl Gottlieb Wustlich
+Johann Gottlieb Bartsch
+Johann Gottlieb Krieger
+Johann Gottlieb Lohse
+Johann Gottlob Lohse
+1797
+Carl Gottlob Bormann
+Johann Georg Friedrich
+Johann Gottlob Schneider
+----------------
+Carl Gottlob Otto
+Johann Gottfried Krellmann
+Johann Georg Schubert
+Johann Michael Lehmann
+August Starcke
+Carl Gottlieb Rost
+Christian August Wilisch
+Johann Gottfried Kräher
+Johann Gotthelf Hoyer
+Johann Gottlieb Steglig
+Johann Georg Schumann
+Gottlob Jehnichen
+Johann Gottfried Funcke
+Johann Gottfried Fehrmann
+Carl Friedrich Rentzsch?
+Johann Gottlob Jachof?
+----------------
+Carl Friedrich Friedrich
+1798
+Johann Gotthelf Schönberg
+Johann Gottfried Schönberg
+Carl Gottlieb Süring
+Johann Christoph Steglig
+Georg Albrecht Schöne?
+Johann Gottlieb Schubert
+Johann Georg Brendel
+Johann Gottlieb Kuebel
+Johann Christian Franz
+Carl Gottlob Lohse
+Christian Scheffler
+Christian Gotthelf Heinrich
+Johann Christian Hoffmann
+Johann Gottlob Funcke
+----------------
+Johann Gottlob Schönberg
+Johann Christian Zschoche
+Carl Gottlieb Gröschel
+1799
+Johann Samuel Sachse
+Johann Gottfried Groß
+Johann Gottlieb Jehnichen
+Johann Gottfried Strelle
+Johann Gottfried Bernhard
+Johann Christian Spaarmann
+Johann Gottlob Lehmann
+Johann Gottfried Dietze
+Johann August Müller
+Johann Gottlob Bachmann
+----------------
+Johann Friedrich Richter
+Johann Gottlob Funcke
+Johann Gottlob Fritzsche
+Johann Gottfried Faust
+Johann Gottfried Funcke
+Johann Gottfried Hoffmann
+Johann Gottlieb Röhr
+Johann Gottlieb Wunderwald
+Carl Siegmund Naumann
+Carl Gottlob Sachse
+Carl Gottlob Kretzschmer
+Johann Erdmann Gotthelf Lehmann
+----------------
+Johann Friedrich Richter
+Johann Gottlieb Hartmann
+Johann Samuel Schumann

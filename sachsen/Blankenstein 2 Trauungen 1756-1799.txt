@@ -1,14 +1,15 @@
 Blankenstein (Buch 2)
-Trauungen 1756-1788
+Trauungen 1756-1799
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunden
+Erstellt in ca. 1,5 Stunden
 Mai 2023
 Juni 2023
+August 2023
 tintenfrass@gmx.de
 
 
@@ -347,3 +348,106 @@ Johann Christian Küchenmeister
 Johann Georg Ditrich
 Johann Georg Hahn
 Michael Burckhart
+1789
+Johann Gottfried Schönert
+Johann Gottlieb Bäßler
+Johann Gottfried Ebert
+Johann Christian Beuchel
+Gottlob Kippe
+Johann Gottlob Tiendorf?
+Christian Ditrich
+1790
+Gottlieb Philipp
+Johann Gottfried Grellmann
+Johann Gottlieb Starcke
+Johann Gottfried Appelt
+----------------
+Johann Gottlieb Müller
+1791
+Johann Gottlob Beßer
+Johann Christian Kurzreuter
+Johann Gottlieb Kretzschmer
+Johann Gottlob Keppler
+1792
+Johann Georg Günther
+Johann Gottlob Feldmann
+Johann Gottlob Thimmig
+Johann Samuel Schönberg
+Johann Gottlieb Puske
+Johann Gottlob Schultz
+1793
+Gottfried Lautzsch
+Johann Gottfried Gerhold
+Gottfried Gießmann
+Rudolph Adler
+Gottlob Heyde
+----------------
+Johann Gottlieb Röthig
+Johann Gottlieb Wetzel
+Christian Gottlieb Seyffert
+Johann Gottlob Wachsmuth
+1794
+Johann Christian Gaschütz
+Johann Gottlob Rüdrich
+Johann Georg Rost
+Johann Gottlob Hayne
+Johann Gottlob Moses
+Johann Gottfried Gärtler
+Johann August Zschoche
+Johann Gottfried Büttner
+Johann Joseph Zincke
+Johann Gottlob Papperitz
+1795
+Johann Gotthelf Grellmann
+Johann Christian Hencker
+Johann Daniel Gerhold
+Johann Samuel Schierz
+----------------
+Johann Friedrich Zeiger
+Johann Christian Görne
+Johann Gottlob Goltzsch
+Carl Gottlieb Oehmichen
+Johann Gottlob Naumann
+1796
+Johann Gottlieb Günther
+Carl Gottlieb Schmiedgen
+Johann Gottlob Rüdiger
+Johann Gottlieb Weber
+Carl Gottlob Preußer
+Johann Gottfried Wachmuth
+Johann Gottfried Büttner
+Johann Georg Praße
+1797
+Johann Gottlieb Hermann
+Johann Gottlieb Schwenke
+Johann Gottlieb Hanisch
+Johann Samuel Gerhold
+Carl Gottlieb Naumann
+Johann Gottlieb Bärsch
+----------------
+Johann Gottfried Bernhard
+1798
+Johann Gottfried Pietzsch
+Johann Gottfried Eätzsch
+Johann Georg Thimmig
+Johann Gottlob Benjamin Ziegenhalß
+Carl Gottlob Röhr
+Johann Gottlob Schierz
+Johann Gotthelf Hänsel
+Johann Gottlieb Schreiber
+Johann Gottlieb Starcke
+Johann Gottlieb Naacke
+Johann Gottlob Böhme
+----------------
+1799
+Johann Gottfried Bärger
+Johann Gottlob Hennig
+Johann Georg Burkhard
+Johann Gotthelf Dietze
+Johann Georg Rülker
+Ernst Wilhelm August Reitzenstein
+Johann Martin Fischer
+----------------
+Johann Gottlieb Ludwig
+Gotthelf Wilsdorf
+Johann Gottlob Rüdiger
