@@ -1,5 +1,5 @@
 Constappel (Buch 3)
-Trauungen 1644-1788
+Trauungen 1644-1799
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
@@ -10,6 +10,7 @@ Mai 2022
 Februar 2023
 Mai 2023
 Juni 2023
+August 2023
 tintenfrass@gmx.de
 
 
@@ -852,3 +853,108 @@ Johann Gottlob Mählig
 Christian Brause
 Johann Carl Traugott Winckler
 ----------------
+1789
+Gottfried Mehlig
+Johann Daniel Rüdiger
+Gottlob Zschoche
+Johann Friedrich Blüher
+1790
+Gottfried Kunze
+Johann Gottlob Loßnitzer
+Johann Faust
+Johann Gottlob Günther
+Johann Gottfried Starcke
+1791
+Johann Gottlob Richter
+Johann Gottlieb Spaltholz
+Johann Georg Teichert
+Johann Heinrich Holfeld
+Christian Gottlieb Schmidt
+Johann Andreas Käseberg
+Gottfried Wittig
+Johann Samuel Paulig
+Gotthelf Friedrich Rößler
+Johann Georg Gäbisch
+1792
+Gottfried Rüdiger
+Franz Joseph Schweckenberger
+Johann Dietrich Mertz
+----------------
+Johann Gottfried Paulich
+Johann Christian Klaus
+Johann Christian Kürbiß
+Johann Georg Burckhart
+Johann Georg Hamann
+Johann Rudolph Wirth
+Johann Gottlob Meier
+Johann Georg Käseberg
+Johann Gottlieb Säuberlich
+Johann Christian Burckhart
+Johann Georg Richter
+1793
+Johann Gottlob Raum
+Johann Georg Pelke
+Johann Gottlob Voigt
+Johann Gottfried Junghans
+Gottfried Beger
+1794
+Johann Gottfried Pietzsch
+Johann Gottlieb Höbold
+Johann Michael Bäßler
+----------------
+Johann August Möbius
+Johann Christian Naumann
+Benjamin Christian Weber
+Gottfried Künzelmann
+Johann Gottlob Richter
+Johann Christian Voigt
+1795
+Johann Gottlieb Wagner
+Johann Gottfried Eisold
+Johann Gottlieb Kränkel
+Christian Gottlieb Döhnert
+Christian Wilhelm Pflugbeil
+Johann Gottlob Gast
+Carl Richter
+Johann Georg Sämannn
+Johann Michael Ranft
+----------------
+Carl Friedrich Just
+1796
+Johann Gottfried Wagner
+Carl August Schramm
+Johann Faust
+Johann Samuel Richter
+Johann Heinrich Holfeld
+Johann Georg Spaltholz
+Johann Gottlieb Just
+Johann Christian Ebert
+Johann Gottlob Böhme
+1797
+Johann Christian Riemer
+Johann Heinrich Naumann
+Johann Gottfried Schwenke
+Jacob Winckler
+Johann Carl Bude
+----------------
+1798
+Johann Gottlieb Schultz
+Johann Gottfried May
+Johann Gottlieb Menzer
+Johann Gottlob Leuschner
+Carl Gottlieb Wilsdorf
+Johann Christian Grellmann
+Johann Benjamin Hänel
+Johann Christian Friedrich
+Johann Christian Ditrich
+Christian Gottlieb Rühle
+1799
+Carl Gottlieb Heymann
+Johann Christian Lindner
+Johann Christoph Eisold
+Gottlieb Benjamin Seyffert
+----------------
+Johann Gottlieb Naumann
+Johann Gottlob Jäpel
+Johann Jacob Horn
+Carl Friedrich Henker

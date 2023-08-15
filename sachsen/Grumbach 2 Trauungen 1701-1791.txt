@@ -1,5 +1,5 @@
 Grumbach (Buch 2)
-Trauungen 1701-1788
+Trauungen 1701-1791
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
@@ -9,6 +9,7 @@ Erstellt in ca. 3 Stunden
 Februar 2023
 Mai 2023
 Juni 2023
+August 2023
 tintenfrass@gmx.de
 
 
@@ -1323,3 +1324,37 @@ Johann Friedrich Volckmar
 Johann Gottlob Büttner
 Johann Georg Gneuß
 Gottlob Leuteritz
+1789
+Michael Burckhart
+Gottlob Hauptmann
+----------------
+Johann Gottlob Kühn
+Johann Gottlob Voigt
+Johann Gottlieb Beger
+Johann Gottlob Frantze
+Johann Christian Krause
+Johann Georg Hauptmann
+August Ditrich
+Johann Christian Roch
+1790
+Johann Georg Hermann
+Johann Christian Döring
+Christian Richter
+----------------
+Gottlob Fritzsche
+Johann Gottlob Potzschke
+August Kühn
+Johann Christoph Otto
+Johann Christoph Sparmann
+Johann Christian Grellmann
+Johann Gottlieb Pietzsch
+Gottfried Reiche
+Johann Gottfried Rautenstrauch
+1791
+Johann Adolph Taschenberger
+Christian Just
+Johann Daniel Röthig
+Johann Gottlieb Löffel
+Johann Gottlob Naacke
+----------------
+Christian Friedrich Ehregott Wagner
