@@ -1,5 +1,5 @@
 Unkersdorf (Buch 2)
-Trauungen 1716-1788
+Trauungen 1716-1792
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 
@@ -11,6 +11,7 @@ Erstellt in ca. 1 Stunde
 Februar 2023
 Mai 2023
 Juni 2023
+August 2023
 tintenfrass@gmx.de
 
 
@@ -279,3 +280,20 @@ Carl Friedrich Stein
 Johann Georg Naake
 Johann Gottlob Weickert
 ----------------
+1789
+Johann Gottfried Starcke
+Johann Gottlieb Bäsler
+1790
+Christian Gottlieb Raabe
+Johann Gottlob Kunze
+----------------
+1791
+Johann Gottlieb Zimmermann
+Johann Gottlieb Beyer
+Johann Gottlieb Lotze
+Johann Georg Lommatzsch
+1792
+Johann Gottfried Dachsel
+----------------
+Johann Georg Bäbler
+Johann Gottfried Schuster

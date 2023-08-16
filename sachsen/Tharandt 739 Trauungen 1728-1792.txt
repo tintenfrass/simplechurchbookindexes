@@ -1,5 +1,5 @@
 Tharandt (Buch 739)
-Trauungen 1728-1788
+Trauungen 1728-1792
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
@@ -10,6 +10,7 @@ Erstellt in ca. 1,5 Stunde
 Februar 2023
 Mai 2023
 Juni 2023
+August 2023
 tintenfrass@gmx.de
 
 
@@ -529,3 +530,30 @@ Johann Gottfried Musch
 Johann Gottlieb Sommer
 Johann Gottfried Lindner
 Johann Gottlieb Krönert
+----------------
+----------------
+1789
+Johann Gottfried Ferdinand Eger
+Johann Gottlob Fleischmann
+Johann Christian Fraunstein
+Johann Georg Hünig
+----------------
+----------------
+----------------
+----------------
+1790
+Johann Gabriel Haubold
+----------------
+----------------
+1791
+Christian Friedrich Stülpner
+Gottlieb Siegmund Küttner
+Johann Gottfried Hencker
+Johann Gottlieb Rülker
+----------------
+1792
+Johann Gabriel Specht
+Carl Gottlieb Grahle
+Johann Gottlieb Otte
+Johann Gottfried Grahle
+Johann Friedrich Zimmermann

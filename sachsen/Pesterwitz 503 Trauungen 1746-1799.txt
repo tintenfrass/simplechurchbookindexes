@@ -1,14 +1,18 @@
 Pesterwitz (Buch 503)
-Trauungen 1676-1788
+Trauungen 1676-1799
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
 Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
 
+Hinweis:
+Nach 1799 kommen noch Aufgebote ab 1785
 
-Erstellt in ca. 1 Stunde
+
+Erstellt in ca. 1,5 Stunden
 Mai 2023
 Juni 2023
+August 2023
 tintenfrass@gmx.de
 
 
@@ -406,3 +410,212 @@ Johann Georg Remschel
 Johann Horrenk
 Johann Gottlob Pietzsch
 Adam Rasper
+1789
+Johann Gottlieb Klügel
+Johann Gottlob Opitz
+Johann Christian Kaltschmidt
+Johann Gottlob Schumann
+Johann Gottlieb Funcke
+----------------
+1790
+Christian Friedrich Fischer
+Carl Gottfried Schultz
+Christian Gottlieb Müller
+Johann Christian Heinrich
+Carl Gottfried Bauch
+Traugott Wilhelm Willparth
+Johann Georg Pietzsch
+1791
+Johann Gottlob Thiele
+Lorenz Beck
+Carl Wilhelm Leonhardt
+Carl Gottlob Halm
+Johann Christian? Götze
+----------------
+1792
+Samuel Zschunke
+Johann Gottlieb Keil
+Franz Gotthelf Schuchardt
+Christian Gotthelf Petzold
+Johann Gottlob Leuschner
+Johann Gottlieb Geißler
+Johann Gottlieb Winckler
+Johann Gottlieb Nacke
+Johann Gottlieb Fischer
+1793
+Johann Gottlob Winckler
+Johann Gottlieb Heinrich
+Johann Carl Gottlieb Schoene
+Johann Gottlob Zeißig
+----------------
+Friedrich Edeltraut Braune
+Johann Christoph Lindner
+Johann Gottlieb Philipp
+Johann Georg Petermann
+Johann Gottfried Pretzschner
+Johann Gottlob Palisch
+1794
+Johann Georg Beyer
+Johann Gottlob Grafe
+Johann Gottlob Rühle
+Johann Gottlieb Löschner
+Carl Gottlob Rechenberg
+Johann Gottlob Just
+Johann Christian Riffert
+Johann Gottlob Schoenert
+----------------
+Christian Gottlob Stoeßner
+1795
+Carl Gottlob Walther
+Johann Gottlieb Zschiedrich
+Johann Gottfried Kühnel
+Johann Gottlieb Thiemer
+Andreas Petke
+Johann Gottlob Fiedler
+Gottlob Salomon Gladewitz
+1796
+Johann Gottlob Klügel
+Johann Gottlob Fleischer
+Engel Traugott Meinart
+Johann Georg Kirsten
+Johann Georg Berthold
+----------------
+1797
+Johann Meltler
+Carl Friedrich Veith
+Johann Georg Klöber
+Immanuel Gottlieb Vollrath
+Johann Gottlieb Rentsch
+Christian Leberecht Meyer
+Johann Gottlieb Rumberg
+Johann Christian Damm
+Johann Samuel Berthold
+1798
+Johann Gottfried Lippmann
+Johann Gottlieb Schütze
+Johann Gottlieb Schumann
+Johann Georg Rumpelt
+Paul Ferdinand Opitz
+Gotthard Weiß
+----------------
+Christian Schober
+Johann Gottlieb Winckler
+1799
+Johann Gottlieb Schmidt
+Johann Christian Kinzelmann
+Johann Gottfried Grahle
+Johann Georg Wolf
+Johann Christoph Lehmann
+Johann Gottlieb Legler
+Johann Gottlob Grafe
+Johann Gottlob Müller
+----------------
+----------------
+1785
+Johann August Ditrich
+Johann Gottfried Pietzsch
+1786
+Johann Carl Traugott Schröter
+Johann Georg Nethas
+Johann Christian Galle
+----------------
+1787
+Johann Christian Kade
+Johann Gottlieb Lempe
+1788
+Johann Georg Mirisch
+Johann Gottfried Opitz
+Johann Gottlob Donat
+Carl Friedrich August Hennings
+Johann Gottlieb Reinhard
+Carl Gottlieb Kräher
+Johann Gottlob Müller
+Andreas Hase
+1789
+Johann Christian Ditrich
+----------------
+1790
+Johann Gottlob Umlauf
+Johann Gottlob Müller
+Johann Peter Hanitzsch
+Johann Gottlob Kirchner
+1791
+Johann Christian Irmer
+Johann Christian Pfitzner
+Georg Friedrich Sohrmann
+Georg Gottlieb Berger
+Johann Gottlieb Jüdefeind
+Johann Gottlieb Just
+----------------
+Gottfried Schuster
+1792
+Johann Gottlob Heinke
+Johann Gottlieb Otte
+Carl Gottlob Clauß
+Johann Michael Berger
+Johann Georg Reppen
+Johann Gottlieb Naumann
+1793
+Johann Gottlob Fleischer
+Johann Gottfried Thiele
+Johann Christoph Lindner
+Johann Gottfried Reppen
+----------------
+Christian Gottlieb Müller
+1794
+Carl August Schiffel
+Georg Adam Pietzsch
+Johann Christian Damm
+Johann Gottfried Petzold
+Johann Georg Hamann
+Johann Christian Peschel
+Johann Gottlieb Hoeme
+Johann Gottlieb Sohrmann
+Johann Gottlob Beger
+----------------
+Johann Gottlob Goltsche
+Johann Gottlob Koch
+Johann Wilhelm Franz
+1795
+Johann Gottlob Kummer
+Johann Georg Liebezeit
+Christian Friedrich Winckler
+Johann Gottfried Pahlischens
+Johann Gottlob Wolf
+Gottfried Rentzsch
+Christian Friedrich Barthel
+----------------
+August Leberecht Senf
+1796
+Johann Gottlob Hoernig
+Johann Gottfried Huhle
+Johann Christian Reppen
+Johann Christoph Grundmann
+Christian Gottlieb Gladewitz
+Johann Gottfried Winckler
+Johann Gottfried Peter
+Johann Gottfried Pötsch
+Johann Andreas Schmidt
+1797
+Johann Gottlob Fiedler
+Johann Gottlieb Rühle
+Johann Gottlob Adam
+----------------
+Johann Christian Gottlieb Petermann
+Johann Georg Starcke
+Johann Gottlieb Winckler
+Johann Gottfried Moses
+Johann August Fiedler
+Johann Christian Lohse
+1798
+Johann Gottlieb Kinzelmann
+Johann Gottlob Hühhnel
+Johann Gottlieb Menzer
+Johann Samuel Pietzsch
+Johann Gottlieb Müller
+x
+1799
+Johann Traugott Gebauer
+Johann Georg Kürbs
+Johann Gottlieb Fleischer
+Gottfried Postel
