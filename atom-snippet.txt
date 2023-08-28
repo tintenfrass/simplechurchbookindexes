@@ -49,9 +49,9 @@
    '_Brosius':
      'prefix': 'b3'
      'body': '_Brosius '
-   '_Benedig':
+   '_Benedikt':
      'prefix': 'b4'
-     'body': '_Benedig '
+     'body': '_Benedikt '
    '_Barbara':
      'prefix': 'b5'
      'body': '_Barbara '
@@ -267,9 +267,9 @@
    '_Martin':
      'prefix': 'm0'
      'body': '_Martin '
-   '_Mats':
+   '_Matz':
      'prefix': 'm1'
-     'body': '_Mats '
+     'body': '_Matz '
    '_Michael':
      'prefix': 'm2'
      'body': '_Michael '
@@ -415,14 +415,23 @@
      'body': '_Zacharias '
 
    'Adam':
-     'prefix': 'ad'
+     'prefix': 'ada'
      'body': 'Adam\r\n'
+   'Angermann':
+     'prefix': 'ang'
+     'body': 'Angermann\r\n'
+   'Arnold':
+     'prefix': 'arn'
+     'body': 'Arnold\r\n'
    'Bachmann':
      'prefix': 'bach'
      'body': 'Bachmann\r\n'
    'Bartzsch':
      'prefix': 'bartz'
      'body': 'Bartzsch\r\n'
+   'Bellmann':
+     'prefix': 'bell'
+     'body': 'Bellmann\r\n'
    'Berner':
      'prefix': 'ber'
      'body': 'Berner\r\n'
@@ -435,9 +444,9 @@
    'Brendel':
      'prefix': 'bre'
      'body': 'Brendel\r\n'
-   'Böhm':
+   'Böhme':
      'prefix': 'boe'
-     'body': 'Böhm\r\n'
+     'body': 'Böhme\r\n'
    'Bormann':
      'prefix': 'bor'
      'body': 'Bormann\r\n'
@@ -519,15 +528,24 @@
    'Ganßauge':
      'prefix': 'gans'
      'body': 'Ganßauge\r\n'
+   'Gärtner':
+     'prefix': 'gae'
+     'body': 'Gärtner\r\n'
    'Gebauer':
      'prefix': 'geba'
      'body': 'Gebauer\r\n'
    'Gießmann':
      'prefix': 'gie'
      'body': 'Gießmann\r\n'
+   'Golde':
+     'prefix': 'gol'
+     'body': 'Golde\r\n'
    'Götze':
      'prefix': 'goe'
      'body': 'Götze\r\n'
+   'Grahle':
+     'prefix': 'grah'
+     'body': 'Grahle\r\n'
    'Grellmann':
      'prefix': 'gre'
      'body': 'Grellmann\r\n'
@@ -546,8 +564,11 @@
    'Hauswald':
      'prefix': 'haus'
      'body': 'Hauswald\r\n'
+   'Hauptmann':
+     'prefix': 'hm'
+     'body': 'Hauptmann\r\n'
    'Hauptvogel':
-     'prefix': 'haup'
+     'prefix': 'hv'
      'body': 'Hauptvogel\r\n'
    'Hänsel':
      'prefix': 'hae'
@@ -573,6 +594,9 @@
    'Hillig':
      'prefix': 'hil'
      'body': 'Hillig\r\n'
+   'Hörnig':
+     'prefix': 'hoer'
+     'body': 'Hörnig\r\n'
    'Hoffmann':
      'prefix': 'hoff'
      'body': 'Hoffmann\r\n'
@@ -594,6 +618,9 @@
    'Jänichen':
      'prefix': 'jae'
      'body': 'Jänichen\r\n'
+   'Jentzsch':
+     'prefix': 'jent'
+     'body': 'Jentzsch\r\n'
    'John':
      'prefix': 'joh'
      'body': 'John\r\n'
@@ -655,8 +682,11 @@
      'prefix': 'lomm'
      'body': 'Lommatzsch\r\n'
    'Lorentz':
-     'prefix': 'lor'
+     'prefix': 'lore'
      'body': 'Lorentz\r\n'
+   'Lotze':
+     'prefix': 'lotz'
+     'body': 'Lotze\r\n'
    'Ludwig':
      'prefix': 'lud'
      'body': 'Ludwig\r\n'
@@ -720,6 +750,9 @@
    'Reichel':
      'prefix': 'rei'
      'body': 'Reichel\r\n'
+   'Repen':
+     'prefix': 'rep'
+     'body': 'Repen\r\n'
    'Richter':
      'prefix': 'rich'
      'body': 'Richter\r\n'
@@ -744,6 +777,12 @@
    'Rülcker':
      'prefix': 'ruel'
      'body': 'Rülcker\r\n'
+   'Sachse':
+     'prefix': 'sach'
+     'body': 'Sachse\r\n'
+   'Saupe':
+     'prefix': 'saup'
+     'body': 'Saupe\r\n'
    'Schiffel':
      'prefix': 'sif'
      'body': 'Schiffel\r\n'
@@ -763,7 +802,7 @@
      'prefix': 'soen'
      'body': 'Schönberg\r\n'
    'Schröter':
-     'prefix': 'sr'
+     'prefix': 'sroe'
      'body': 'Schröter\r\n'
    'Schubert':
      'prefix': 'sub'
@@ -774,6 +813,9 @@
    'Schumann':
      'prefix': 'sum'
      'body': 'Schumann\r\n'
+   'Schuricht':
+     'prefix': 'sur'
+     'body': 'Schuricht\r\n'
    'Schuster':
      'prefix': 'sus'
      'body': 'Schuster\r\n'
@@ -786,15 +828,18 @@
    'Seiffert':
      'prefix': 'sei'
      'body': 'Seiffert\r\n'
+   'Seyffert':
+     'prefix': 'sey'
+     'body': 'Seyffert\r\n'
    'Simon':
      'prefix': 'sim'
      'body': 'Simon\r\n'
    'Starcke':
      'prefix': 'sta'
      'body': 'Starcke\r\n'
-   'Steltzer':
-     'prefix': 'ste'
-     'body': 'Steltzer\r\n'
+   'Stephan':
+     'prefix': 'step'
+     'body': 'Stephan\r\n'
    'Spieß':
      'prefix': 'spi'
      'body': 'Spieß\r\n'
@@ -804,9 +849,9 @@
    'Talkenberg':
      'prefix': 'tal'
      'body': 'Talkenberg\r\n'
-   'Taschenberg':
+   'Taschenberger':
     'prefix': 'tas'
-    'body': 'Taschenberg\r\n'
+    'body': 'Taschenberger\r\n'
    'Tietze':
      'prefix': 'tie'
      'body': 'Tietze\r\n'
@@ -825,6 +870,9 @@
    'Uhlmann':
      'prefix': 'uhl'
      'body': 'Uhlmann\r\n'
+   'Venus':
+     'prefix': 'ven'
+     'body': 'Venus\r\n'
    'Vetter':
      'prefix': 'vet'
      'body': 'Vetter\r\n'
@@ -843,6 +891,9 @@
    'Weber':
      'prefix': 'web'
      'body': 'Weber\r\n'
+   'Wehner':
+     'prefix': 'weh'
+     'body': 'Wehner\r\n'
    'Weise':
      'prefix': 'wei'
      'body': 'Weise\r\n'
@@ -870,6 +921,9 @@
    'Zabel':
      'prefix': 'zab'
      'body': 'Zabel\r\n'
+   'Zeibig':
+     'prefix': 'zei'
+     'body': 'Zeibig\r\n'
    'Ziegenbalck':
      'prefix': 'zb'
      'body': 'Ziegenbalck\r\n'
@@ -882,6 +936,9 @@
    'Zocher':
      'prefix': 'zoch'
      'body': 'Zocher\r\n'
+   'Zumpe':
+     'prefix': 'zum'
+     'body': 'Zumpe\r\n'
 
    '1700':
      'prefix': '0'
@@ -1183,3 +1240,452 @@
    '1799':
      'prefix': '99'
      'body': '1799\r\n'
+
+   '1601':
+     'prefix': '601'
+     'body': '1601\r\n'
+   '1602':
+     'prefix': '602'
+     'body': '1602\r\n'
+   '1603':
+     'prefix': '603'
+     'body': '1603\r\n'
+   '1604':
+     'prefix': '604'
+     'body': '1604\r\n'
+   '1605':
+     'prefix': '605'
+     'body': '1605\r\n'
+   '1606':
+     'prefix': '606'
+     'body': '1606\r\n'
+   '1607':
+     'prefix': '607'
+     'body': '1607\r\n'
+   '1608':
+     'prefix': '608'
+     'body': '1608\r\n'
+   '1609':
+     'prefix': '609'
+     'body': '1609\r\n'
+   '1610':
+     'prefix': '610'
+     'body': '1610\r\n'
+   '1611':
+     'prefix': '611'
+     'body': '1611\r\n'
+   '1612':
+     'prefix': '612'
+     'body': '1612\r\n'
+   '1613':
+     'prefix': '613'
+     'body': '1613\r\n'
+   '1614':
+     'prefix': '614'
+     'body': '1614\r\n'
+   '1615':
+     'prefix': '615'
+     'body': '1615\r\n'
+   '1616':
+     'prefix': '616'
+     'body': '1616\r\n'
+   '1617':
+     'prefix': '617'
+     'body': '1617\r\n'
+   '1618':
+     'prefix': '618'
+     'body': '1618\r\n'
+   '1619':
+     'prefix': '619'
+     'body': '1619\r\n'
+   '1620':
+     'prefix': '620'
+     'body': '1620\r\n'
+   '1621':
+     'prefix': '621'
+     'body': '1621\r\n'
+   '1622':
+     'prefix': '622'
+     'body': '1622\r\n'
+   '1623':
+     'prefix': '623'
+     'body': '1623\r\n'
+   '1624':
+     'prefix': '624'
+     'body': '1624\r\n'
+   '1625':
+     'prefix': '625'
+     'body': '1625\r\n'
+   '1626':
+     'prefix': '626'
+     'body': '1626\r\n'
+   '1627':
+     'prefix': '627'
+     'body': '1627\r\n'
+   '1628':
+     'prefix': '628'
+     'body': '1628\r\n'
+   '1629':
+     'prefix': '629'
+     'body': '1629\r\n'
+   '1630':
+     'prefix': '630'
+     'body': '1630\r\n'
+   '1631':
+     'prefix': '631'
+     'body': '1631\r\n'
+   '1632':
+     'prefix': '632'
+     'body': '1632\r\n'
+   '1633':
+     'prefix': '633'
+     'body': '1633\r\n'
+   '1634':
+     'prefix': '634'
+     'body': '1634\r\n'
+   '1635':
+     'prefix': '635'
+     'body': '1635\r\n'
+   '1636':
+     'prefix': '636'
+     'body': '1636\r\n'
+   '1637':
+     'prefix': '637'
+     'body': '1637\r\n'
+   '1638':
+     'prefix': '638'
+     'body': '1638\r\n'
+   '1639':
+     'prefix': '639'
+     'body': '1639\r\n'
+   '1640':
+     'prefix': '640'
+     'body': '1640\r\n'
+   '1641':
+     'prefix': '641'
+     'body': '1641\r\n'
+   '1642':
+     'prefix': '642'
+     'body': '1642\r\n'
+   '1643':
+     'prefix': '643'
+     'body': '1643\r\n'
+   '1644':
+     'prefix': '644'
+     'body': '1644\r\n'
+   '1645':
+     'prefix': '645'
+     'body': '1645\r\n'
+   '1646':
+     'prefix': '646'
+     'body': '1646\r\n'
+   '1647':
+     'prefix': '647'
+     'body': '1647\r\n'
+   '1648':
+     'prefix': '648'
+     'body': '1648\r\n'
+   '1649':
+     'prefix': '649'
+     'body': '1649\r\n'
+   '1650':
+     'prefix': '650'
+     'body': '1650\r\n'
+   '1651':
+     'prefix': '651'
+     'body': '1651\r\n'
+   '1652':
+     'prefix': '652'
+     'body': '1652\r\n'
+   '1653':
+     'prefix': '653'
+     'body': '1653\r\n'
+   '1654':
+     'prefix': '654'
+     'body': '1654\r\n'
+   '1655':
+     'prefix': '655'
+     'body': '1655\r\n'
+   '1656':
+     'prefix': '656'
+     'body': '1656\r\n'
+   '1657':
+     'prefix': '657'
+     'body': '1657\r\n'
+   '1658':
+     'prefix': '658'
+     'body': '1658\r\n'
+   '1659':
+     'prefix': '659'
+     'body': '1659\r\n'
+   '1660':
+     'prefix': '660'
+     'body': '1660\r\n'
+   '1661':
+     'prefix': '661'
+     'body': '1661\r\n'
+   '1662':
+     'prefix': '662'
+     'body': '1662\r\n'
+   '1663':
+     'prefix': '663'
+     'body': '1663\r\n'
+   '1664':
+     'prefix': '664'
+     'body': '1664\r\n'
+   '1665':
+     'prefix': '665'
+     'body': '1665\r\n'
+   '1666':
+     'prefix': '666'
+     'body': '1666\r\n'
+   '1667':
+     'prefix': '667'
+     'body': '1667\r\n'
+   '1668':
+     'prefix': '668'
+     'body': '1668\r\n'
+   '1669':
+     'prefix': '669'
+     'body': '1669\r\n'
+   '1670':
+     'prefix': '670'
+     'body': '1670\r\n'
+   '1671':
+     'prefix': '671'
+     'body': '1671\r\n'
+   '1672':
+     'prefix': '672'
+     'body': '1672\r\n'
+   '1673':
+     'prefix': '673'
+     'body': '1673\r\n'
+   '1674':
+     'prefix': '674'
+     'body': '1674\r\n'
+   '1675':
+     'prefix': '675'
+     'body': '1675\r\n'
+   '1676':
+     'prefix': '676'
+     'body': '1676\r\n'
+   '1677':
+     'prefix': '677'
+     'body': '1677\r\n'
+   '1678':
+     'prefix': '678'
+     'body': '1678\r\n'
+   '1679':
+     'prefix': '679'
+     'body': '1679\r\n'
+   '1680':
+     'prefix': '680'
+     'body': '1680\r\n'
+   '1681':
+     'prefix': '681'
+     'body': '1681\r\n'
+   '1682':
+     'prefix': '682'
+     'body': '1682\r\n'
+   '1683':
+     'prefix': '683'
+     'body': '1683\r\n'
+   '1684':
+     'prefix': '684'
+     'body': '1684\r\n'
+   '1685':
+     'prefix': '685'
+     'body': '1685\r\n'
+   '1686':
+     'prefix': '686'
+     'body': '1686\r\n'
+   '1687':
+     'prefix': '687'
+     'body': '1687\r\n'
+   '1688':
+     'prefix': '688'
+     'body': '1688\r\n'
+   '1689':
+     'prefix': '689'
+     'body': '1689\r\n'
+   '1690':
+     'prefix': '690'
+     'body': '1690\r\n'
+   '1691':
+     'prefix': '691'
+     'body': '1691\r\n'
+   '1692':
+     'prefix': '692'
+     'body': '1692\r\n'
+   '1693':
+     'prefix': '693'
+     'body': '1693\r\n'
+   '1694':
+     'prefix': '694'
+     'body': '1694\r\n'
+   '1695':
+     'prefix': '695'
+     'body': '1695\r\n'
+   '1696':
+     'prefix': '696'
+     'body': '1696\r\n'
+   '1697':
+     'prefix': '697'
+     'body': '1697\r\n'
+   '1698':
+     'prefix': '698'
+     'body': '1698\r\n'
+   '1699':
+     'prefix': '699'
+     'body': '1699\r\n'
+
+   '1550':
+     'prefix': '550'
+     'body': '1550\r\n'
+   '1551':
+     'prefix': '551'
+     'body': '1551\r\n'
+   '1552':
+     'prefix': '552'
+     'body': '1552\r\n'
+   '1553':
+     'prefix': '553'
+     'body': '1553\r\n'
+   '1554':
+     'prefix': '554'
+     'body': '1554\r\n'
+   '1555':
+     'prefix': '555'
+     'body': '1555\r\n'
+   '1556':
+     'prefix': '556'
+     'body': '1556\r\n'
+   '1557':
+     'prefix': '557'
+     'body': '1557\r\n'
+   '1558':
+     'prefix': '558'
+     'body': '1558\r\n'
+   '1559':
+     'prefix': '559'
+     'body': '1559\r\n'
+   '1560':
+     'prefix': '560'
+     'body': '1560\r\n'
+   '1561':
+     'prefix': '561'
+     'body': '1561\r\n'
+   '1562':
+     'prefix': '562'
+     'body': '1562\r\n'
+   '1563':
+     'prefix': '563'
+     'body': '1563\r\n'
+   '1564':
+     'prefix': '564'
+     'body': '1564\r\n'
+   '1565':
+     'prefix': '565'
+     'body': '1565\r\n'
+   '1566':
+     'prefix': '566'
+     'body': '1566\r\n'
+   '1567':
+     'prefix': '567'
+     'body': '1567\r\n'
+   '1568':
+     'prefix': '568'
+     'body': '1568\r\n'
+   '1569':
+     'prefix': '569'
+     'body': '1569\r\n'
+   '1570':
+     'prefix': '570'
+     'body': '1570\r\n'
+   '1571':
+     'prefix': '571'
+     'body': '1571\r\n'
+   '1572':
+     'prefix': '572'
+     'body': '1572\r\n'
+   '1573':
+     'prefix': '573'
+     'body': '1573\r\n'
+   '1574':
+     'prefix': '574'
+     'body': '1574\r\n'
+   '1575':
+     'prefix': '575'
+     'body': '1575\r\n'
+   '1576':
+     'prefix': '576'
+     'body': '1576\r\n'
+   '1577':
+     'prefix': '577'
+     'body': '1577\r\n'
+   '1578':
+     'prefix': '578'
+     'body': '1578\r\n'
+   '1579':
+     'prefix': '579'
+     'body': '1579\r\n'
+   '1580':
+     'prefix': '580'
+     'body': '1580\r\n'
+   '1581':
+     'prefix': '581'
+     'body': '1581\r\n'
+   '1582':
+     'prefix': '582'
+     'body': '1582\r\n'
+   '1583':
+     'prefix': '583'
+     'body': '1583\r\n'
+   '1584':
+     'prefix': '584'
+     'body': '1584\r\n'
+   '1585':
+     'prefix': '585'
+     'body': '1585\r\n'
+   '1586':
+     'prefix': '586'
+     'body': '1586\r\n'
+   '1587':
+     'prefix': '587'
+     'body': '1587\r\n'
+   '1588':
+     'prefix': '588'
+     'body': '1588\r\n'
+   '1589':
+     'prefix': '589'
+     'body': '1589\r\n'
+   '1590':
+     'prefix': '590'
+     'body': '1590\r\n'
+   '1591':
+     'prefix': '591'
+     'body': '1591\r\n'
+   '1592':
+     'prefix': '592'
+     'body': '1592\r\n'
+   '1593':
+     'prefix': '593'
+     'body': '1593\r\n'
+   '1594':
+     'prefix': '594'
+     'body': '1594\r\n'
+   '1595':
+     'prefix': '595'
+     'body': '1595\r\n'
+   '1596':
+     'prefix': '596'
+     'body': '1596\r\n'
+   '1597':
+     'prefix': '597'
+     'body': '1597\r\n'
+   '1598':
+     'prefix': '598'
+     'body': '1598\r\n'
+   '1599':
+     'prefix': '599'
+     'body': '1599\r\n'
