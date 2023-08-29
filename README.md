@@ -1,6 +1,6 @@
 ## Projekt Trauindex Sachsen
-#### Gebiet Dresden-Meißen
-#### Zeitraum 16-18Jh
+#### Gebiet: Dresden-Meißen
+#### Zeitraum: 16-18Jh
 
 
 In diesem Projekt geht es um die Erstellung eines einfachen Indexes möglichst aller Bräutigame.
@@ -11,16 +11,12 @@ Die vollen Einträge der Kirchenbücher können im sächsischen Landeskirchliche
 Die katholischen Kirchenbücher sind kostenlos auf Matricula einsehbar.
 
 ### Der Index
-Alle Daten befinden sich im Ordner "sachsen"
+Alle bisher erfassten Daten befinden sich im Ordner "sachsen"
 
 https://github.com/tintenfrass/simplechurchbookindexes/tree/main/sachsen
 
-### Online Durchsuchen des Index
+### Die meisten Daten aus dem Index können über die Suchmaske durchsuchen werden
 https://tintenfrass.github.io/simplechurchbookindexes/
-
-### ~~Programm zum Durchsuchen des Index (nicht mehr aktuell)~~
-~~https://github.com/tintenfrass/simplechurchbookindexes/tree/main/sachsen/fuzzy-search~~<br>
-Es wird empfehlen die Online-Suche zu benutzen, das Programm wird nicht mehr weiterentwickelt!
 
 
 ### Kontakt
