@@ -7,7 +7,7 @@ type searchComp struct {
 	searchValue   string
 	slideValueMin int
 	slideValueMax int
-	result        string
+	results       []app.UI
 	debug         string
 	checked       map[string]bool
 }

@@ -6,6 +6,7 @@ import (
 
 type fullData struct {
 	Marriages map[string]churchEntry
+	Sources   map[int]string
 }
 
 var Data fullData
@@ -17,13 +18,11 @@ type churchEntry struct {
 }
 
 type marriageEntry struct {
-	Year    int
-	Simple  string
-	Groom   string
-	GroomFN string
-	//bride   string //unused
-	//brideFN string //unused
-	Source string
+	Y int    //Year
+	L string //Line
+	V string //Vorname
+	N string //Nachname
+	S int    //Source
 }
 
 var specialCases = map[string]string{
