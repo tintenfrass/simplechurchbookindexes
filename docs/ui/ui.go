@@ -419,7 +419,9 @@ func (h *searchComp) plusminus(value bool, k string) {
 						if val, ok := grid[i][j]; ok {
 							if h.checked[val] != value {
 								h.checked[val] = value
-								next = false
+								if r > 0 {
+									next = false
+								}
 							}
 						}
 					}
