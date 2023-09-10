@@ -77,7 +77,7 @@ func FindMarriage(search string, min, max int, churches map[string]bool) (output
 			break
 		}
 		for _, match := range results[i] {
-			output = append(output, fmt.Sprintf("%d %s/%s/%d", match.Y, match.L, path.Base(Data.Sources[match.S]), i))
+			output = append(output, fmt.Sprintf("%d %s#%s#%d#%s", match.Y, match.L, path.Base(Data.Sources[match.S]), i, Data.Links[match.S]))
 			count++
 		}
 	}

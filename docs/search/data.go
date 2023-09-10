@@ -7,6 +7,7 @@ import (
 type fullData struct {
 	Marriages map[string]churchEntry
 	Sources   map[int]string
+	Links     map[int]string
 }
 
 var Data fullData

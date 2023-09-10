@@ -90,6 +90,7 @@ func (h *searchComp) Render() app.UI {
 	grid[7][5] = "Klotzsche"
 	grid[8][5] = "Langebrück"
 
+	grid[0][6] = "Rüsseina"
 	grid[1][6] = "Raußlitz"
 	grid[2][6] = "Krögis"
 	grid[4][6] = "Naustadt"
@@ -308,6 +309,8 @@ func (h *searchComp) Render() app.UI {
 					app.Br(),
 					app.Label().Text("Trauungen Kreischa bis 1799"),
 					app.Br(),
+					app.Label().Text("Trauungen Rüsseina bis 1799"),
+					app.Br(),
 					app.Br(),
 					app.Label().Text("Layout überarbeitet"),
 					app.Br(),
@@ -332,13 +335,21 @@ func (h *searchComp) onClick(ctx app.Context, e app.Event) {
 	}
 
 	for _, res := range search.FindMarriage(h.searchValue, h.slideValueMin, h.slideValueMax, h.checked) {
-		parts := strings.Split(res, "/")
+		parts := strings.Split(res, "#")
 		dis, _ := strconv.Atoi(parts[2])
 		if dis > 7 {
 			break
 		}
 		full = dis
-		boxes[dis] = append(boxes[dis], app.Label().Text("»»»").Style("font-weight", "bold").Attr("style", "color: "+getColor(dis)), app.Label().Style("margin", "4px"), app.Text(parts[0]), app.Label().Style("margin", "16px"), app.A().Href(linkPrefix+parts[1]).Text(parts[1]), app.Br())
+
+		boxes[dis] = append(boxes[dis], app.Label().Text("»»»").Style("font-weight", "bold").Attr("style", "color: "+getColor(dis)),
+			app.Label().Style("margin", "4px"),
+			app.Text(parts[0]),
+			app.Label().Style("margin", "16px"),
+			app.A().Href(linkPrefix+parts[1]).Text(parts[1]),
+			app.Label().Style("margin", "16px"),
+			app.A().Href(parts[3]).Text(parts[3]),
+			app.Br())
 	}
 
 	for i := 0; i < 8; i++ {
