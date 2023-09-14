@@ -35,6 +35,7 @@ func replace(input string) (output string) {
 	output = strings.Replace(output, "bei Wilsdruff", "", 1)
 	output = strings.Replace(output, "bei Lommatzsch", "", 1)
 	output = strings.Replace(output, "bei Dresden", "", 1)
+	output = strings.Replace(output, "bei Dohna", "", 1)
 	output = strings.Replace(output, "Dresden", "DD", 1)
 	output = strings.Replace(output, "Böhmische", "Böhm.", 1)
 	output = strings.Replace(output, "Exulantengemeinde", "Exulanten", 1)
@@ -155,7 +156,7 @@ func (h *searchComp) Render() app.UI {
 
 	grid[7][15] = "Possendorf"
 	grid[8][15] = "Kreischa"
-	grid[9][15] = "Röhrsdorf bei Dresden"
+	grid[9][15] = "Röhrsdorf bei Dohna"
 
 	raw := "https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/"
 
@@ -310,6 +311,8 @@ func (h *searchComp) Render() app.UI {
 					app.Label().Text("Trauungen Kreischa bis 1799"),
 					app.Br(),
 					app.Label().Text("Trauungen Rüsseina bis 1799"),
+					app.Br(),
+					app.Label().Text("Trauungen Lockwitz bis 1799"),
 					app.Br(),
 					app.Br(),
 					app.Label().Text("Layout überarbeitet"),
