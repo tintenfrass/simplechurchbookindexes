@@ -6,6 +6,11 @@ Zusätzlich sind nicht immer alle Namen klar lesbar, heißt der Index enthält e
 Die Fehlerquote hängt sehr stark davon ab, wann der Index erstellt wurde und wie gut das Kirchenbuch lesbar ist.
 Fehlerkorrekturen werden gerne entgegen genommen.
 
+
+### Lizenz beachten (Creative Commons Attribution-NonCommercial (CC BY-NC) 3.0)
+Die Daten sind für die Forschung gedacht, es ist keine kommerzielle Nutzung erlaubt.
+
+
 ### Online Durchsuchen des Index
 https://tintenfrass.github.io/simplechurchbookindexes/
 

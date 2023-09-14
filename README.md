@@ -18,6 +18,10 @@ https://github.com/tintenfrass/simplechurchbookindexes/tree/main/sachsen
 ### Die meisten Daten aus dem Index können über die Suchmaske durchsuchen werden
 https://tintenfrass.github.io/simplechurchbookindexes/
 
+### Lizenz beachten (Creative Commons Attribution-NonCommercial (CC BY-NC) 3.0)
+Die Daten sind für die Forschung gedacht, es ist keine kommerzielle Nutzung erlaubt.
+
+
 
 ### Kontakt
 Fragen, Korrekturen, Mithilfe zum Projekt gerne an
