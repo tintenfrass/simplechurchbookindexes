@@ -1,7 +1,7 @@
 {
-  "short_name": "FuzzySearch",
-  "name": "FuzzySearch",
-  "description": "FuzzySearch Online",
+  "short_name": "Trau-Index Dresden-Meißen",
+  "name": "Trau-Index Dresden-Meißen",
+  "description": "Online-Suche für Indexierte Kirchenbücher",
   "icons": [
     {
       "src": "https://storage.googleapis.com/murlok-github/icon-192.png",

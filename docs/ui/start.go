@@ -12,19 +12,9 @@ func StartLocal() {
 	app.RunWhenOnBrowser()
 
 	http.Handle("/", &app.Handler{
-		Name:        "FuzzySearch",
-		Description: "FuzzySearch Online",
-		RawHeaders: []string{
-			`<!-- Google tag (gtag.js) -->
-			<script async src="https://www.googletagmanager.com/gtag/js?id=G-S2D2V6SHXE"></script>
-			<script>
-			window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
-
-			gtag('config', 'G-S2D2V6SHXE');
-			</script>`,
-		},
+		Name:        "Trau-Index Dresden-Meißen",
+		Description: "Online-Suche für Indexierte Kirchenbücher",
+		Title:       "Trau-Index Dresden-Meißen",
 	})
 
 	if err := http.ListenAndServe(":8000", nil); err != nil {
@@ -37,9 +27,21 @@ func StartGithub() {
 	app.RunWhenOnBrowser()
 
 	err := app.GenerateStaticWebsite(".", &app.Handler{
-		Name:        "FuzzySearch",
-		Description: "FuzzySearch Online",
+		Name:        "Trau-Index Dresden-Meißen",
+		Description: "Online-Suche für Indexierte Kirchenbücher",
+		Title:       "Trau-Index Dresden-Meißen",
 		Resources:   app.GitHubPages("simplechurchbookindexes"),
+		RawHeaders: []string{
+			`<!-- Google tag (gtag.js) -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=G-S2D2V6SHXE"></script>
+			<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'G-S2D2V6SHXE');
+			</script>`,
+		},
 	})
 
 	if err != nil {
