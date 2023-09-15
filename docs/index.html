@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="author" content>
+<meta content name="author">
 <meta name="description" content="FuzzySearch Online">
 <meta name="keywords" content>
 <meta name="theme-color" content="#2d2c2c">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover">
-<meta content="http://127.0.0.1:50907/" property="og:url">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover" name="viewport">
+<meta property="og:url" content="http://127.0.0.1:59474/">
 <meta property="og:title" content>
 <meta content="FuzzySearch Online" property="og:description">
 <meta property="og:type" content="website">
@@ -16,11 +16,11 @@
 
 </title>
 <link rel="icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
-<link rel="apple-touch-icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
-<link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
-<link type="text/css" rel="stylesheet" href="/simplechurchbookindexes/app.css">
+<link href="https://storage.googleapis.com/murlok-github/icon-192.png" rel="apple-touch-icon">
+<link href="/simplechurchbookindexes/manifest.webmanifest" rel="manifest">
+<link rel="stylesheet" href="/simplechurchbookindexes/app.css" type="text/css">
 <script defer="true" src="/simplechurchbookindexes/wasm_exec.js"></script>
-<script src="/simplechurchbookindexes/app.js" defer="true"></script>
+<script defer="true" src="/simplechurchbookindexes/app.js"></script>
 </head>
 <body>
 <div>
@@ -41,7 +41,7 @@ Trau-Index Dresden-Meißen
 <label>
 Jahr Min 
 </label>
-<input max="1800" value="0" style="width: 600px;" type="range" min="1548">
+<input value="0" style="width: 600px;" type="range" min="1548" max="1800">
 <label>
 0
 </label>
@@ -49,7 +49,7 @@ Jahr Min
 <label>
 Jahr Max
 </label>
-<input max="1800" value="0" style="width: 600px;" type="range" min="1548">
+<input min="1548" max="1800" value="0" style="width: 600px;" type="range">
 <label>
 0
 </label>
@@ -265,7 +265,7 @@ Nichts
 </div>
 </table>
 <p>
-<input placeholder="Vorname Nachname" autofocus="true" style="width: 250px;" type="text">
+<input type="text" placeholder="Vorname Nachname" autofocus="true" style="width: 250px;">
  
 <button style="width: 100px;">
 Search

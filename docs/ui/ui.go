@@ -47,6 +47,7 @@ var rows = 16
 var cols = 10
 
 func (h *searchComp) Render() app.UI {
+
 	grid = map[int]map[int]string{
 		0: make(map[int]string),
 		1: make(map[int]string),

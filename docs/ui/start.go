@@ -14,6 +14,17 @@ func StartLocal() {
 	http.Handle("/", &app.Handler{
 		Name:        "FuzzySearch",
 		Description: "FuzzySearch Online",
+		RawHeaders: []string{
+			`<!-- Google tag (gtag.js) -->
+			<script async src="https://www.googletagmanager.com/gtag/js?id=G-S2D2V6SHXE"></script>
+			<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'G-S2D2V6SHXE');
+			</script>`,
+		},
 	})
 
 	if err := http.ListenAndServe(":8000", nil); err != nil {
