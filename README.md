@@ -21,9 +21,11 @@ https://tintenfrass.github.io/simplechurchbookindexes/
 ### Lizenz beachten (Creative Commons Attribution-NonCommercial (CC BY-NC) 3.0)
 Die Daten sind für die Forschung gedacht, es ist keine kommerzielle Nutzung erlaubt.
 
+### Inspiriert durch das Poznan-Project
+https://poznan-project.psnc.pl/
 
 
 ### Kontakt
-Fragen, Korrekturen, Mithilfe zum Projekt gerne an
+Fragen, Korrekturen, Mithilfe, Unterstützung zum Projekt gerne an
 
 tintenfrass@gmx.de
