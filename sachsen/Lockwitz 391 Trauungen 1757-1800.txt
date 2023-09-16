@@ -1,4 +1,4 @@
-Lockwitz
+Lockwitz (Buch 391)
 Trauungen 1757-1800
 https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=264577
 
@@ -13,7 +13,7 @@ September 2023
 1757
 Christian Gliemann | Anna Rosina Hänichen
 1757
-Johann Adam Winckler | Anna Martha ?
+Johann Adam Winckler | Anna Martha Hermann
 1757
 Johann George Jeschke | Catharine Lohse
 1757
@@ -27,7 +27,7 @@ Johann Christoph Ebelt | Anne Marie Küchler
 1758
 Gottfried Horn | Rebecca Zimmermann
 1758
-Gottfried Klügel | Anna Catharina Anna Catharina ?
+Gottfried Klügel | Anna Catharina ?
 1758
 Johann George Leumer | Johanne Salome Lorenz
 1758
@@ -137,7 +137,7 @@ Johann Carl Schönherr | Johanne Elisabeth Leonhardt
 1763
 Jacob Kirst | Marie Rüssel
 1763
-Christian Helm | Eva Rosine Maria Elisabeth Schöne Pahlitzsch
+Christian Helm | Eva Rosine Schöne
 1763
 Johann Gotthelf Bähr | Johann Christiane Dornprintz
 1763
@@ -147,7 +147,7 @@ Johann Christian Kindmann | Anna Dorothea Lorentz
 1764
 Johann Heinrich Görz | Eva Catharina Wolff
 1764
-Johann Friedrich Schneider | Eva Maria Anna Magdalena ?
+Johann Friedrich Schneider | Eva Maria Keilig?
 1764
 Johann Pietsch | Anna Marie Zschäsch
 1764
@@ -157,7 +157,7 @@ Johann Christoph Büttig | Anna Rosine Wagner
 1764
 Adam Gottlieb Lohse | Catharina Sophie Helm
 1764
-Johann Adam Winckler | Eva ?
+Johann Adam Winckler | Eva Schumann
 1764
 Johann Gottfried Hale | Rosina Magdalena Höhle
 1764
@@ -181,7 +181,7 @@ Johann Gottfried Zeibig | Johanna Sophia Grahl
 1766
 Johann Christian Kraue | Johanna Maria Hoffmann
 1766
-Peter Müller | Anna Rosina
+Peter Müller | Anna Rosina Schöckel?
 1766
 George Heinrich Kohl | Anna Rosina Kayser
 1766
@@ -395,11 +395,11 @@ Johann Christoph Ebert | Anna Rosina Tietze
 1779
 Johann Samuel Grohmann | Eva Catharine Süssmilch
 1780
-Johann Gottlob Otto | Eva Rosina Anna Katharina Stürzkober
+Johann Gottlob Otto | Eva Rosina Stürzkober
 1780
 Sebastian Rühle | Johann Elisabeth Grohmann
 1780
-Johann George Broitzke | Maria Magdalena Catharina Sophia Heger
+Johann George Broitzke | Maria Magdalena Heger
 1780
 Johann August Kleemann | Johanna Sophia ?
 1780
@@ -481,7 +481,7 @@ Johann Christian Hoffmann | Maria Rahel Wächter
 1784
 Johann Christoph Birnstein | Eva Katharina Madig
 1784
-Johann Gottlieb Schubert | Johanne Christiane Eva Rosina Schulze Meißner
+Johann Gottlieb Schubert | Johanne Christiane Schulze
 1784
 Johann Gottlob Gleditzsch | Johanna Elisabeth Fröhner
 1784
@@ -499,7 +499,7 @@ Johann Gottlieb Klepsch | Eva Rosina Richter
 1784
 Sigismund Gottlieb Bormann | Christiane Friederike Baldauf
 1784
-Johann Christoph Götze | Johanna Sophia Eva Rosina Christiane Sophie Hegewald Richter Hegewald
+Johann Christoph Götze | Johanna Sophia Hegewald
 1784
 Johann Gotthelf Heger | Eva Sophia Hänichen
 1785
@@ -603,7 +603,7 @@ Johann Christoph Lehmann | Eva Rosine Schallert
 1791
 Johann Christian Hähnichen | Johanne Sophia Näcke
 1791
-Johann Gottlieb Wustlich | Johanna Rosina Eva Rosine Böhme Klunker
+Johann Gottlieb Wustlich | Johanna Rosina Böhme
 1791
 Johann Gottlob Wolf | Johanna Rosine Leschke
 1791
@@ -611,7 +611,7 @@ Friedrich August Herfurth | Johanne Sophie Zincke
 1791
 Johann Gottlob Zincke | Christiane Sophia Goltzsche
 1791
-Johann Benjamin Richter | Eva Maria Eva Maria Madig Hauswald
+Johann Benjamin Richter | Eva Maria Madig
 1791
 Johann Gottlob Kuntze | Johanna Sophia Lohse
 1791
@@ -701,7 +701,7 @@ Johann Gottlieb Wagner | Johanne Christiane Frenzel
 1796
 Johann Gotthard Ritter | Eva Rosina Kotte
 1796
-Johann Traugott Leberecht Schlicke | Johanne Sophie Eva Rosine Wolf Weiß
+Johann Traugott Leberecht Schlicke | Johanne Sophie Wolf
 1796
 Johann Gottlob Hartmann | Johanne Christiane Grohmann
 1796
@@ -729,7 +729,7 @@ Johann Gottfried Fischer | Johanne Maria ?
 1797
 Johann Gottlob Felber | Eva Katharina Knigge
 1797
-Johann Gottfried Otto | Eva Catharina Anna Rosina Hähnichen Jockisch
+Johann Gottfried Otto | Eva Catharina Hähnichen
 1797
 Johann Christian Leuschner | Anna Maria Schubert
 1797
