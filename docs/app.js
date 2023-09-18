@@ -5,7 +5,7 @@ var goappNav = function () {};
 var goappOnUpdate = function () {};
 var goappOnAppInstallChange = function () {};
 
-const goappEnv = {"GOAPP_INTERNAL_URLS":"null","GOAPP_ROOT_PREFIX":"/simplechurchbookindexes","GOAPP_STATIC_RESOURCES_URL":"/simplechurchbookindexes","GOAPP_VERSION":"724dcc7b5d77f1799a48b6f329bfbe59730c66e2"};
+const goappEnv = {"GOAPP_INTERNAL_URLS":"null","GOAPP_ROOT_PREFIX":"/simplechurchbookindexes","GOAPP_STATIC_RESOURCES_URL":"/simplechurchbookindexes","GOAPP_VERSION":"436abb8f6ff6fa41530a951c331f733f499e3606"};
 const goappLoadingLabel = "{progress}%";
 const goappWasmContentLengthHeader = "";
 

@@ -60,20 +60,21 @@ func (h *searchComp) Render() app.UI {
 		8: make(map[int]string),
 		9: make(map[int]string),
 	}
-	grid[0][0] = "Striegnitz"
+	grid[0][0] = "Bloßwitz"
 	grid[1][0] = "Dörschnitz"
 	grid[5][0] = "Großdobritz"
 
-	grid[0][1] = "Staucha"
+	grid[0][1] = "Striegnitz"
 	grid[1][1] = "Lommatzsch"
 	grid[2][1] = "Zehren"
 	grid[3][1] = "Zadel"
 	grid[4][1] = "Gröbern"
 	grid[5][1] = "Oberau"
 
-	grid[0][2] = "Neckanitz"
+	grid[0][2] = "Staucha"
 	grid[5][2] = "Niederau"
 
+	grid[0][3] = "Neckanitz"
 	grid[1][3] = "Leuben bei Lommatzsch"
 	grid[3][3] = "Meißen St. Afra"
 	grid[4][3] = "Meißen Trinitatiskirche"
@@ -121,6 +122,7 @@ func (h *searchComp) Render() app.UI {
 	grid[8][9] = "Loschwitz"
 	grid[9][9] = "Weißig"
 
+	grid[0][10] = "Nossen"
 	grid[1][10] = "Deutschenbora"
 	grid[2][10] = "Tanneberg"
 	grid[3][10] = "Limbach"
@@ -129,6 +131,7 @@ func (h *searchComp) Render() app.UI {
 	grid[6][10] = "Briesnitz"
 	grid[7][10] = "Dresden Frauenkirche"
 
+	grid[0][11] = "Siebenlehn"
 	grid[1][11] = "Hirschfeld"
 	grid[2][11] = "Neukirchen"
 	grid[3][11] = "Blankenstein"
@@ -272,8 +275,13 @@ func (h *searchComp) Render() app.UI {
 				app.Text("Es gibt auch immer mal wieder Fehler in den Daten, falsch erfasste Namen oder manchmal ist das Jahr um 1 verrutscht, etc."),
 				app.Br(),
 				app.Br(),
+				app.Text("Die Kirchengemeinden sind grob geographisch angeordnet, siehe auch: "),
+				app.A().Href("https://www.google.com/maps/d/viewer?mid=1FYfIGUV4g66wImeIqkkr8lcs8kzaAx4s&ll=50.96592383350824%2C13.63222561152344&z=10").Text("Karte Kirchenbücher Sachsen"),
+				app.Br(),
+				app.Br(),
 				app.H3().Body().Text("Mehr Informationen zum Projekt:"),
 				app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
+				app.Br(),
 				app.Br(),
 				app.H3().Body().Text(" v1.2 (September 2023) latest updates:"),
 				app.Label().Text("Trauungen Striegnitz bis 1799"),
@@ -314,8 +322,14 @@ func (h *searchComp) Render() app.UI {
 				app.Br(),
 				app.Label().Text("Trauungen Lockwitz bis 1799"),
 				app.Br(),
+				app.Label().Text("Trauungen Bloßwitz bis 1799"),
 				app.Br(),
-				app.Label().Text("Layout überarbeitet"),
+				app.Label().Text("Trauungen Nossen bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Siebenlehn bis 1799"),
+				app.Br(),
+				app.Br(),
+				app.Label().Text("Nutzerinterface überarbeitet"),
 				app.Br(),
 				app.Label().Text("Suche um ca. 20% beschleunigt"),
 			),
@@ -344,14 +358,14 @@ func (h *searchComp) onClick(ctx app.Context, e app.Event) {
 		}
 		full = dis
 
-		boxes[dis] = append(boxes[dis], app.Label().Text("»»»").Style("font-weight", "bold").Attr("style", "color: "+getColor(dis)),
-			app.Label().Style("margin", "4px"),
-			app.Text(parts[0]),
-			app.Label().Style("margin", "16px"),
-			app.A().Href(linkPrefix+parts[1]).Text(parts[1]),
-			app.Label().Style("margin", "16px"),
-			app.A().Href(parts[3]).Text(parts[3]),
-			app.Br())
+		boxes[dis] = append(boxes[dis], app.Tr().Body(
+			app.Td().Body(app.Label().Text("»»»").Style("font-weight", "bold").Attr("style", "color: "+getColor(dis))),
+			app.Td().Body(app.Text(parts[0])),
+			app.Td().Body(app.Label().Style("margin", "16px")),
+			app.Td().Body(app.A().Href(linkPrefix+parts[1]).Text(parts[1])),
+			app.Td().Body(app.Label().Style("margin", "16px")),
+			app.Td().Body(app.A().Href(parts[3]).Text(getSource(parts[3]))),
+		))
 	}
 
 	for i := 0; i < 8; i++ {
@@ -364,8 +378,17 @@ func (h *searchComp) onClick(ctx app.Context, e app.Event) {
 				break
 			}
 		}
-		div := app.Div().Attr("style", "border:1px solid #D3D3D3").Attr("style", "padding:2px").Body(boxes[i]...)
-		h.results = append(h.results, app.H4().Body().Text(fmt.Sprintf("Ergebnisse mit Abweichung von ~%d-%d:", i, i+1)), div)
+
+		//result table
+		rs := []app.UI{}
+		for _, b := range boxes[i] {
+			rs = append(rs, b)
+		}
+		tbl := app.Table().Body(
+			rs...,
+		)
+
+		h.results = append(h.results, app.H4().Body().Text(fmt.Sprintf("Ergebnisse mit Abweichung von ~%d-%d:", i, i+1)), tbl)
 	}
 
 	dur := time.Since(start)
@@ -444,5 +467,18 @@ func (h *searchComp) plusminus(value bool, k string) {
 		if !next {
 			break
 		}
+	}
+}
+
+func getSource(link string) string {
+	switch {
+	case strings.Contains(link, "archion.de"):
+		return "Archion"
+	case strings.Contains(link, "matricula-online.eu"):
+		return "Matricula"
+	case strings.Contains(link, "familysearch.org"):
+		return "Familysearch"
+	default:
+		return "Online-Link"
 	}
 }
