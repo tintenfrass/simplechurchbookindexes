@@ -140,6 +140,9 @@ func (h *searchComp) Render() app.UI {
 	grid[7][11] = "Dresden Friedrichstadt"
 	grid[9][11] = "Schönfeld"
 
+	grid[0][12] = "Obergruna"
+	grid[1][12] = "Bieberstein"
+	grid[2][12] = "Dittmannsdorf"
 	grid[3][12] = "Mohorn"
 	grid[4][12] = "Herzogswalde"
 	grid[6][12] = "Pesterwitz"
@@ -327,6 +330,12 @@ func (h *searchComp) Render() app.UI {
 				app.Label().Text("Trauungen Nossen bis 1799"),
 				app.Br(),
 				app.Label().Text("Trauungen Siebenlehn bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Obergruna bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Bieberstein bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Dittmannsdorf bis 1799"),
 				app.Br(),
 				app.Br(),
 				app.Label().Text("Nutzerinterface überarbeitet"),
