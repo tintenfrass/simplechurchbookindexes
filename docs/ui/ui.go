@@ -63,6 +63,7 @@ func (h *searchComp) Render() app.UI {
 	grid[0][0] = "Bloßwitz"
 	grid[1][0] = "Dörschnitz"
 	grid[5][0] = "Großdobritz"
+	grid[8][0] = "Großdittmannsdorf"
 
 	grid[0][1] = "Striegnitz"
 	grid[1][1] = "Lommatzsch"
@@ -70,15 +71,20 @@ func (h *searchComp) Render() app.UI {
 	grid[3][1] = "Zadel"
 	grid[4][1] = "Gröbern"
 	grid[5][1] = "Oberau"
+	grid[8][1] = "Medingen"
+	grid[9][1] = "Ottendorf"
 
 	grid[0][2] = "Staucha"
 	grid[5][2] = "Niederau"
+	grid[8][2] = "Grünberg"
 
 	grid[0][3] = "Neckanitz"
 	grid[1][3] = "Leuben bei Lommatzsch"
 	grid[3][3] = "Meißen St. Afra"
 	grid[4][3] = "Meißen Trinitatiskirche"
 	grid[5][3] = "Weinböhla"
+	grid[8][3] = "Seifersdorf"
+	grid[9][3] = "Wachau"
 
 	grid[1][4] = "Planitz"
 	grid[3][4] = "Meißen Frauenkirche"
@@ -86,6 +92,7 @@ func (h *searchComp) Render() app.UI {
 	grid[6][4] = "Reichenberg"
 	grid[7][4] = "Wilschdorf"
 	grid[8][4] = "Lausa"
+	grid[9][4] = "Schönborn"
 
 	grid[1][5] = "Ziegenhain"
 	grid[4][5] = "Brockwitz"
@@ -287,40 +294,6 @@ func (h *searchComp) Render() app.UI {
 				app.Br(),
 				app.Br(),
 				app.H3().Body().Text(" v1.2 (September 2023) latest updates:"),
-				app.Label().Text("Trauungen Striegnitz bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Staucha bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Neckanitz bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Rabenau bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Possendorf bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Lausa bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Langebrück bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Radeberg bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Kleinwolmsdorf bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Großerkmannsdorf bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Loschwitz bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Weißig bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Schönfeld bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Hosterwitz bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Leubnitz bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Leuben bei Dresden bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Kreischa bis 1799"),
-				app.Br(),
 				app.Label().Text("Trauungen Rüsseina bis 1799"),
 				app.Br(),
 				app.Label().Text("Trauungen Lockwitz bis 1799"),
@@ -337,10 +310,20 @@ func (h *searchComp) Render() app.UI {
 				app.Br(),
 				app.Label().Text("Trauungen Dittmannsdorf bis 1799"),
 				app.Br(),
+				app.Label().Text("Trauungen Schönborn bis 1799"),
 				app.Br(),
-				app.Label().Text("Nutzerinterface überarbeitet"),
+				app.Label().Text("Trauungen Seifersdorf bis 1799"),
 				app.Br(),
-				app.Label().Text("Suche um ca. 20% beschleunigt"),
+				app.Label().Text("Trauungen Wachau bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Grünberg bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Ottendorf bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Medingen bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Großdittmannsdorf bis 1799"),
+				app.Br(),
 			),
 		),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
