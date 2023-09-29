@@ -1,8 +1,8 @@
-const cacheName = "app-" + "a185953539cd57ee65c7fda60f200b9d82171473";
+const cacheName = "app-" + "286e70d5443301ec6991c2525aaa59d0e37bca21";
 const resourcesToCache = ["/simplechurchbookindexes","/simplechurchbookindexes/app.css","/simplechurchbookindexes/app.js","/simplechurchbookindexes/manifest.webmanifest","/simplechurchbookindexes/wasm_exec.js","/simplechurchbookindexes/web/app.wasm","https://storage.googleapis.com/murlok-github/icon-192.png","https://storage.googleapis.com/murlok-github/icon-512.png"];
 
 self.addEventListener("install", (event) => {
-  console.log("installing app worker a185953539cd57ee65c7fda60f200b9d82171473");
+  console.log("installing app worker 286e70d5443301ec6991c2525aaa59d0e37bca21");
 
   event.waitUntil(
     caches
@@ -28,7 +28,7 @@ self.addEventListener("activate", (event) => {
       );
     })
   );
-  console.log("app worker a185953539cd57ee65c7fda60f200b9d82171473 is activated");
+  console.log("app worker 286e70d5443301ec6991c2525aaa59d0e37bca21 is activated");
 });
 
 self.addEventListener("fetch", (event) => {

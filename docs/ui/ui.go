@@ -36,6 +36,8 @@ func replace(input string) (output string) {
 	output = strings.Replace(output, "bei Lommatzsch", "", 1)
 	output = strings.Replace(output, "bei Dresden", "", 1)
 	output = strings.Replace(output, "bei Dohna", "", 1)
+	output = strings.Replace(output, "bei Radeberg", "", 1)
+	output = strings.Replace(output, "bei Dippoldiswalde", "", 1)
 	output = strings.Replace(output, "Dresden", "DD", 1)
 	output = strings.Replace(output, "Böhmische", "Böhm.", 1)
 	output = strings.Replace(output, "Exulantengemeinde", "Exulanten", 1)
@@ -43,7 +45,7 @@ func replace(input string) (output string) {
 	return
 }
 
-var rows = 16
+var rows = 17
 var cols = 10
 
 func (h *searchComp) Render() app.UI {
@@ -83,7 +85,7 @@ func (h *searchComp) Render() app.UI {
 	grid[3][3] = "Meißen St. Afra"
 	grid[4][3] = "Meißen Trinitatiskirche"
 	grid[5][3] = "Weinböhla"
-	grid[8][3] = "Seifersdorf"
+	grid[8][3] = "Seifersdorf bei Radeberg"
 	grid[9][3] = "Wachau"
 
 	grid[1][4] = "Planitz"
@@ -168,9 +170,16 @@ func (h *searchComp) Render() app.UI {
 	grid[7][14] = "Plauen"
 	grid[9][14] = "Lockwitz"
 
+	grid[4][15] = "Dorfhain"
+	grid[5][15] = "Höckendorf"
+	grid[6][15] = "Seifersdorf bei Dippoldiswalde"
 	grid[7][15] = "Possendorf"
 	grid[8][15] = "Kreischa"
 	grid[9][15] = "Röhrsdorf bei Dohna"
+
+	grid[3][16] = "Colmnitz"
+	grid[4][16] = "Klingenberg"
+	grid[5][16] = "Ruppendorf"
 
 	raw := "https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/"
 
@@ -326,6 +335,18 @@ func (h *searchComp) Render() app.UI {
 				app.Br(),
 				app.Label().Text("Aufgebote Meißen St. Afra bis 1799"),
 				app.Br(),
+				app.Label().Text("Trauungen Seifersdorf bei Dippoldiswalde 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Höckendorf 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Dorfhain 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Klingenberg 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Colmnitz 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Ruppendorf 1799"),
+				app.Br(),
 			),
 		),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
@@ -440,7 +461,7 @@ func getPos(key string) (posi, posj int) {
 func (h *searchComp) plusminus(value bool, k string) {
 	posi, posj := getPos(k)
 
-	for r := 0; r < 4; r++ {
+	for r := 0; r < 5; r++ {
 		next := true
 		for i := 0; i < cols+r; i++ {
 			if i >= posi-r && i <= posi+r {
