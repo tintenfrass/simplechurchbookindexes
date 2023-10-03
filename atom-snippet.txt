@@ -429,6 +429,15 @@
    'Bartzsch':
      'prefix': 'bartz'
      'body': 'Bartzsch\r\n'
+   'Baumann':
+     'prefix': 'baum'
+     'body': 'Baumann\r\n'
+   'Baumgarten':
+     'prefix': 'bg'
+     'body': 'Baumgarten\r\n'
+   'Becker':
+     'prefix': 'bec'
+     'body': 'Becker\r\n'
    'Bellmann':
      'prefix': 'bell'
      'body': 'Bellmann\r\n'
@@ -438,12 +447,21 @@
    'Beuchel':
      'prefix': 'beu'
      'body': 'Beuchel\r\n'
+   'Beyer':
+     'prefix': 'beye'
+     'body': 'Beyer\r\n'
    'Birckner':
      'prefix': 'birc'
      'body': 'Birckner\r\n'
+   'Bischof':
+     'prefix': 'bis'
+     'body': 'Bischof\r\n'
    'Brendel':
      'prefix': 'bre'
      'body': 'Brendel\r\n'
+   'Bretschneider':
+     'prefix': 'bs'
+     'body': 'Bretschneider\r\n'
    'Böhme':
      'prefix': 'boe'
      'body': 'Böhme\r\n'
@@ -483,6 +501,15 @@
    'Drobisch':
      'prefix': 'dro'
      'body': 'Drobisch\r\n'
+   'Ebert':
+     'prefix': 'ebe'
+     'body': 'Ebert\r\n'
+   'Eger':
+     'prefix': 'ege'
+     'body': 'Eger\r\n'
+   'Erler':
+     'prefix': 'erle'
+     'body': 'Erler\r\n'
    'Eulitz':
      'prefix': 'eul'
      'body': 'Eulitz\r\n'
@@ -492,6 +519,9 @@
    'Fehrmann':
      'prefix': 'fehr'
      'body': 'Fehrmann\r\n'
+   'Feller':
+     'prefix': 'fell'
+     'body': 'Feller\r\n'
    'Fleischer':
      'prefix': 'flei'
      'body': 'Fleischer\r\n'
@@ -519,12 +549,18 @@
    'Frietzsche':
      'prefix': 'fri'
      'body': 'Frietzsche\r\n'
+   'Frost':
+     'prefix': 'fros'
+     'body': 'Frost\r\n'
    'Fuhrmann':
      'prefix': 'fuhr'
      'body': 'Fuhrmann\r\n'
    'Funcke':
      'prefix': 'func'
      'body': 'Funcke\r\n'
+   'Gabriel':
+     'prefix': 'gabr'
+     'body': 'Gabriel\r\n'
    'Ganßauge':
      'prefix': 'gans'
      'body': 'Ganßauge\r\n'
@@ -534,9 +570,21 @@
    'Gebauer':
      'prefix': 'geba'
      'body': 'Gebauer\r\n'
+   'Gelfert':
+     'prefix': 'gelf'
+     'body': 'Gelfert\r\n'
+   'Gerlach':
+     'prefix': 'gerl'
+     'body': 'Gerlach\r\n'
+   'Geyer':
+     'prefix': 'geye'
+     'body': 'Geyer\r\n'
    'Gießmann':
      'prefix': 'gie'
      'body': 'Gießmann\r\n'
+   'Glöckner':
+     'prefix': 'gloe'
+     'body': 'Glöckner\r\n'
    'Golde':
      'prefix': 'gol'
      'body': 'Golde\r\n'
@@ -555,6 +603,9 @@
    'Günther':
      'prefix': 'gue'
      'body': 'Günther\r\n'
+   'Gutkäse':
+     'prefix': 'gutk'
+     'body': 'Gutkäse\r\n'
    'Hanitzsch':
      'prefix': 'hani'
      'body': 'Hanitzsch\r\n'
@@ -573,9 +624,12 @@
    'Hänsel':
      'prefix': 'hae'
      'body': 'Hänsel\r\n'
-   'Hebelt':
-     'prefix': 'heb'
-     'body': 'Hebelt\r\n'
+   'Heber':
+     'prefix': 'hebe'
+     'body': 'Heber\r\n'
+   'Hegewald':
+     'prefix': 'hw'
+     'body': 'Hegewald\r\n'
    'Hempel':
      'prefix': 'hem'
      'body': 'Hempel\r\n'
@@ -630,6 +684,12 @@
    'Junghans':
      'prefix': 'jh'
      'body': 'Junghans\r\n'
+   'Jungnickel':
+     'prefix': 'jn'
+     'body': 'Jungnickel\r\n'
+   'Kästner':
+     'prefix': 'kae'
+     'body': 'Kästner\r\n'
    'Kiesling':
      'prefix': 'kies'
      'body': 'Kiesling\r\n'
@@ -637,8 +697,17 @@
      'prefix': 'kirch'
      'body': 'Kirchner\r\n'
    'Kirsten':
-     'prefix': 'kirs'
+     'prefix': 'kir'
      'body': 'Kirsten\r\n'
+   'Klare':
+     'prefix': 'klar'
+     'body': 'Klare\r\n'
+   'Klemm':
+     'prefix': 'klem'
+     'body': 'Klemm\r\n'
+   'Kluge':
+     'prefix': 'klug'
+     'body': 'Kluge\r\n'
    'Klotzsche':
       'prefix': 'klot'
       'body': 'Klotzsche\r\n'
@@ -654,6 +723,9 @@
    'Kretzschmer':
      'prefix': 'kret'
      'body': 'Kretzschmer\r\n'
+   'Krumbiegel':
+     'prefix': 'kb'
+     'body': 'Krumbiegel\r\n'
    'Kühn':
      'prefix': 'kue'
      'body': 'Kühn\r\n'
@@ -663,36 +735,60 @@
    'Lange':
      'prefix': 'lang'
      'body': 'Lange\r\n'
+   'Lauterbach':
+     'prefix': 'laut'
+     'body': 'Lauterbach\r\n'
    'Leckschede':
      'prefix': 'ls'
      'body': 'Leckschede\r\n'
+   'Legler':
+     'prefix': 'leg'
+     'body': 'Legler\r\n'
    'Lehmann':
-     'prefix': 'leh'
+     'prefix': 'le'
      'body': 'Lehmann\r\n'
    'Leuteritz':
      'prefix': 'leut'
      'body': 'Leuteritz\r\n'
+   'Lieber':
+     'prefix': 'lieb'
+     'body': 'Lieber\r\n'
    'Lindner':
-     'prefix': 'lin'
+     'prefix': 'li'
      'body': 'Lindner\r\n'
    'Löbner':
      'prefix': 'loe'
      'body': 'Löbner\r\n'
+   'Lohse':
+     'prefix': 'loh'
+     'body': 'Lohse\r\n'
    'Lommatzsch':
      'prefix': 'lomm'
      'body': 'Lommatzsch\r\n'
    'Lorentz':
      'prefix': 'lore'
      'body': 'Lorentz\r\n'
+   'Lose':
+     'prefix': 'los'
+     'body': 'Lose\r\n'
    'Lotze':
      'prefix': 'lotz'
      'body': 'Lotze\r\n'
    'Ludwig':
      'prefix': 'lud'
      'body': 'Ludwig\r\n'
+   'Lutze':
+     'prefix': 'lutz'
+     'body': 'Lutze\r\n'
+   'Mäcke':
+     'prefix': 'mae'
+     'body': 'Mäcke\r\n'
    'Marx':
      'prefix': 'marx'
      'body': 'Marx\r\n'
+   'Mauksch':
+     'prefix': 'mauk'
+     'body': 'Mauksch\r\n'
    'Meitzner':
      'prefix': 'meit'
      'body': 'Meitzner\r\n'
@@ -708,12 +804,15 @@
    'Naumann':
      'prefix': 'nau'
      'body': 'Naumann\r\n'
+   'Neukirch':
+     'prefix': 'neuk'
+     'body': 'Neukirch\r\n'
    'Neumann':
      'prefix': 'neu'
      'body': 'Neumann\r\n'
-   'Nietzsche':
+   'Nitzsche':
      'prefix': 'nie'
-     'body': 'Nietzsche\r\n'
+     'body': 'Nitzsche\r\n'
    'Opitz':
      'prefix': 'opi'
      'body': 'Opitz\r\n'
@@ -747,8 +846,11 @@
    'Ranft':
      'prefix': 'ran'
      'body': 'Ranft\r\n'
+   'Rauchfuß':
+     'prefix': 'rf'
+     'body': 'Rauchfuß\r\n'
    'Reichel':
-     'prefix': 'rei'
+     'prefix': 'reic'
      'body': 'Reichel\r\n'
    'Repen':
      'prefix': 'rep'
@@ -759,6 +861,9 @@
    'Riemer':
      'prefix': 'riem'
      'body': 'Riemer\r\n'
+   'Ringel':
+     'prefix': 'ring'
+     'body': 'Ringel\r\n'
    'Ritter':
      'prefix': 'rit'
      'body': 'Ritter\r\n'
@@ -786,6 +891,9 @@
    'Schiffel':
      'prefix': 'sif'
      'body': 'Schiffel\r\n'
+   'Schirmer':
+     'prefix': 'sir'
+     'body': 'Schirmer\r\n'
    'Schlicke':
      'prefix': 'sli'
      'body': 'Schlicke\r\n'
@@ -819,9 +927,9 @@
    'Schuster':
      'prefix': 'sus'
      'body': 'Schuster\r\n'
-   'Schüttig':
+   'Schütze':
      'prefix': 'suet'
-     'body': 'Schüttig\r\n'
+     'body': 'Schütze\r\n'
    'Schwartze':
      'prefix': 'swa'
      'body': 'Schwartze\r\n'
@@ -840,6 +948,15 @@
    'Stephan':
      'prefix': 'step'
      'body': 'Stephan\r\n'
+   'Strohbach':
+     'prefix': 'stro'
+     'body': 'Strohbach\r\n'
+   'Sohre':
+     'prefix': 'sohr'
+     'body': 'Sohre\r\n'
+   'Sore':
+     'prefix': 'sore'
+     'body': 'Sore\r\n'
    'Spieß':
      'prefix': 'spi'
      'body': 'Spieß\r\n'
@@ -870,6 +987,9 @@
    'Uhlmann':
      'prefix': 'uhl'
      'body': 'Uhlmann\r\n'
+   'Umlauf':
+     'prefix': 'uml'
+     'body': 'Umlauf\r\n'
    'Venus':
      'prefix': 'ven'
      'body': 'Venus\r\n'
@@ -894,8 +1014,11 @@
    'Wehner':
      'prefix': 'weh'
      'body': 'Wehner\r\n'
+   'Weint':
+     'prefix': 'wein'
+     'body': 'Weint\r\n'
    'Weise':
-     'prefix': 'wei'
+     'prefix': 'weis'
      'body': 'Weise\r\n'
    'Werner':
      'prefix': 'wer'
@@ -918,18 +1041,27 @@
    'Wustlich':
      'prefix': 'wus'
      'body': 'Wustlich\r\n'
+   'Wunderwald':
+     'prefix': 'ww'
+     'body': 'Wunderwald\r\n'
    'Zabel':
      'prefix': 'zab'
      'body': 'Zabel\r\n'
    'Zeibig':
      'prefix': 'zei'
      'body': 'Zeibig\r\n'
+   'Zencker':
+     'prefix': 'zenc'
+     'body': 'Zencker\r\n'
    'Ziegenbalck':
      'prefix': 'zb'
      'body': 'Ziegenbalck\r\n'
    'Zimmermann':
      'prefix': 'zim'
      'body': 'Zimmermann\r\n'
+   'Zeubig':
+     'prefix': 'zeu'
+     'body': 'Zeubig\r\n'
    'Zschoche':
      'prefix': 'zsch'
      'body': 'Zschoche\r\n'
