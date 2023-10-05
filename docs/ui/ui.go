@@ -45,7 +45,7 @@ func replace(input string) (output string) {
 	return
 }
 
-var rows = 17
+var rows = 18
 var cols = 10
 
 func (h *searchComp) Render() app.UI {
@@ -181,6 +181,11 @@ func (h *searchComp) Render() app.UI {
 	grid[4][16] = "Klingenberg"
 	grid[5][16] = "Ruppendorf"
 
+	grid[4][17] = "Pretzschendorf"
+	grid[5][17] = "Reichstädt"
+	grid[6][17] = "Dippoldiswalde"
+	grid[8][17] = "Reinhardtsgrimma"
+
 	raw := "https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/"
 
 	//Checkboxes
@@ -302,39 +307,7 @@ func (h *searchComp) Render() app.UI {
 				app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 				app.Br(),
 				app.Br(),
-				app.H3().Body().Text(" v1.2 (September 2023) latest updates:"),
-				app.Label().Text("Trauungen Rüsseina bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Lockwitz bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Bloßwitz bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Nossen bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Siebenlehn bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Obergruna bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Bieberstein bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Dittmannsdorf bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Schönborn bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Seifersdorf bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Wachau bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Grünberg bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Ottendorf bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Medingen bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Großdittmannsdorf bis 1799"),
-				app.Br(),
-				app.Label().Text("Aufgebote Meißen St. Afra bis 1799"),
-				app.Br(),
+				app.H3().Body().Text(" v1.2 (Oktober 2023) latest updates:"),
 				app.Label().Text("Trauungen Seifersdorf bei Dippoldiswalde bis 1799"),
 				app.Br(),
 				app.Label().Text("Trauungen Höckendorf bis 1799"),
@@ -346,6 +319,14 @@ func (h *searchComp) Render() app.UI {
 				app.Label().Text("Trauungen Colmnitz bis 1799"),
 				app.Br(),
 				app.Label().Text("Trauungen Ruppendorf bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Pretzschendorf bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Reichstädt bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Dippoldiswalde bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Reinhardtsgrimma bis 1799"),
 				app.Br(),
 			),
 		),
