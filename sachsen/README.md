@@ -19,7 +19,7 @@ https://tintenfrass.github.io/simplechurchbookindexes/
 Dafür muss man sich das Kosten-Nutzen-Verhältnis angucken, ob der Aufwand dafür gerechtfertigt ist, ein paar Punkte:
 1. Die Kirchenbücher ab 1800 haben in der Regel schon ein analoges Register, so dass sich der Aufwand einer Indizierung weniger lohnt => weniger Bedarf
 2. Die Kirchenbücher ab 1800 enthalten in der Regel mehr Informationen, so dass hier viel weniger tote Punkte entstehen => weniger Bedarf
-3. Die Menge an Vorfahren, die man im 1900 Jh. sucht ist geringer => weniger Bedarf
+3. Die Menge an Vorfahren, die man im 19. Jh. sucht ist geringer => weniger Bedarf
 4. Die Datenmenge ab 1800 ist höher => mehr Aufwand
 5. Die Kirchenbüchern ab 1800 lassen sich durch ihre tabellarische Form in Zukunft vermutlich deutlich leichter mit künstlicher Intelligenz indizieren/transkribieren
 
