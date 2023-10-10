@@ -45,7 +45,7 @@ func replace(input string) (output string) {
 	return
 }
 
-var rows = 18
+var rows = 19
 var cols = 10
 
 func (h *searchComp) Render() app.UI {
@@ -185,6 +185,15 @@ func (h *searchComp) Render() app.UI {
 	grid[5][17] = "Reichstädt"
 	grid[6][17] = "Dippoldiswalde"
 	grid[8][17] = "Reinhardtsgrimma"
+
+	grid[2][18] = "Burkersdorf"
+	grid[3][18] = "Hartmannsdorf"
+	grid[4][18] = "Hennersdorf"
+	grid[5][18] = "Sadisdorf"
+	grid[6][18] = "Schmiedeberg"
+	grid[7][18] = "Johnsbach"
+	grid[8][18] = "Glashütte"
+	grid[9][18] = "Dittersdorf"
 
 	raw := "https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/"
 
@@ -327,6 +336,22 @@ func (h *searchComp) Render() app.UI {
 				app.Label().Text("Trauungen Dippoldiswalde bis 1799"),
 				app.Br(),
 				app.Label().Text("Trauungen Reinhardtsgrimma bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Glashütte bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Dittersdorf bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Johnsbach bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Schmiedeberg bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Sadisdorf bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Hennersdorf bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Hartmannsdorf bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Burkersdorf bis 1799"),
 				app.Br(),
 			),
 		),
