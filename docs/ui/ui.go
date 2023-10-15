@@ -45,7 +45,7 @@ func replace(input string) (output string) {
 	return
 }
 
-var rows = 19
+var rows = 21
 var cols = 10
 
 func (h *searchComp) Render() app.UI {
@@ -194,6 +194,16 @@ func (h *searchComp) Render() app.UI {
 	grid[7][18] = "Johnsbach"
 	grid[8][18] = "Glashütte"
 	grid[9][18] = "Dittersdorf"
+
+	grid[3][19] = "Frauenstein"
+	grid[7][19] = "Bärenstein"
+	grid[8][19] = "Lauenstein"
+	grid[9][19] = "Liebenau"
+
+	grid[4][20] = "Hermsdorf"
+	grid[6][20] = "Schellerhau"
+	grid[7][20] = "Altenberg"
+	grid[8][20] = "Geising"
 
 	raw := "https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/"
 
@@ -352,6 +362,22 @@ func (h *searchComp) Render() app.UI {
 				app.Label().Text("Trauungen Hartmannsdorf bis 1799"),
 				app.Br(),
 				app.Label().Text("Trauungen Burkersdorf bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Bärenstein bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Lauenstein bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Liebenau bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Geising bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Altenberg bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Schellerhau bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Hermsdorf bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Frauenstein bis 1799"),
 				app.Br(),
 			),
 		),
