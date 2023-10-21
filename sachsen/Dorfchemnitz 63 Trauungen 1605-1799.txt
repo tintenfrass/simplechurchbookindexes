@@ -1973,7 +1973,7 @@ Christoph Beyer
 Melchior Beyer
 Christian Beyer
 Christian Böhme
----------------- x21
+---------------- x20
 1636
 Caspar Wetzel
 1658
