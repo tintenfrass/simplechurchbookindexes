@@ -77,7 +77,12 @@ func FindMarriage(search string, min, max int, churches map[string]bool) (output
 			break
 		}
 		for _, match := range results[i] {
-			output = append(output, fmt.Sprintf("%d %s#%s#%d#%s", match.Y, match.L, path.Base(Data.Sources[match.S]), i, Data.Links[match.S]))
+			pageId := uint32(0)
+			if Data.Offset[match.S] > 0 {
+				pageId = Data.Offset[match.S] + uint32(match.P)
+			}
+			//TODO Performance reduction on type-conversion and SprintF?
+			output = append(output, fmt.Sprintf("%d %s#%s#%d#%s#%d", match.Y, match.L, path.Base(Data.Sources[match.S]), i, Data.Links[match.S], pageId))
 			count++
 		}
 	}

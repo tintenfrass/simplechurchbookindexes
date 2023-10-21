@@ -8,6 +8,7 @@ type fullData struct {
 	Marriages map[string]churchEntry
 	Sources   map[int]string
 	Links     map[int]string
+	Offset    map[int]uint32
 }
 
 var Data fullData
@@ -24,21 +25,7 @@ type marriageEntry struct {
 	V string //Vorname
 	N string //Nachname
 	S int    //Source
-}
-
-var specialCases = map[string]string{
-	"Peter":      "ɹǝʇǝd",
-	"Hans":       "suɐɥ",
-	"Christoph":  "ɥdoʇsıɹɥɔ",
-	"Martin":     "uıʇɹɐɯ",
-	"Michael":    "lǝɐɥɔıɯ",
-	"Retzsch":    "ɥɔszʇǝɹ",
-	"Hempel":     "lǝdɯǝɥ",
-	"Kneutel":    "lǝʇnǝuʞ",
-	"Dögel":      "lǝƃöp",
-	"Bader":      "ɹǝpɐq",
-	"Jehnichen":  "uǝɥɔıuɥǝɾ",
-	"Hauptvogel": "lǝƃoʌʇdnɐɥ",
+	P int    //Page
 }
 
 func GetMinMax(church string) string {

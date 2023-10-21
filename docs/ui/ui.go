@@ -45,7 +45,7 @@ func replace(input string) (output string) {
 	return
 }
 
-var rows = 21
+var rows = 22
 var cols = 10
 
 func (h *searchComp) Render() app.UI {
@@ -195,15 +195,21 @@ func (h *searchComp) Render() app.UI {
 	grid[8][18] = "Glashütte"
 	grid[9][18] = "Dittersdorf"
 
+	grid[2][19] = "Dittersbach"
 	grid[3][19] = "Frauenstein"
 	grid[7][19] = "Bärenstein"
 	grid[8][19] = "Lauenstein"
 	grid[9][19] = "Liebenau"
 
+	grid[1][20] = "Dorfchemnitz"
+	grid[2][20] = "Clausnitz"
+	grid[3][20] = "Nassau"
 	grid[4][20] = "Hermsdorf"
 	grid[6][20] = "Schellerhau"
 	grid[7][20] = "Altenberg"
 	grid[8][20] = "Geising"
+
+	grid[2][21] = "Cämmerswalde"
 
 	raw := "https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/"
 
@@ -326,24 +332,8 @@ func (h *searchComp) Render() app.UI {
 				app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 				app.Br(),
 				app.Br(),
-				app.H3().Body().Text(" v1.2 (Oktober 2023) latest updates:"),
-				app.Label().Text("Trauungen Seifersdorf bei Dippoldiswalde bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Höckendorf bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Dorfhain bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Klingenberg bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Colmnitz bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Ruppendorf bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Pretzschendorf bis 1799"),
-				app.Br(),
+				app.H3().Body().Text(" v1.3 (Oktober 2023) latest updates:"),
 				app.Label().Text("Trauungen Reichstädt bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Dippoldiswalde bis 1799"),
 				app.Br(),
 				app.Label().Text("Trauungen Reinhardtsgrimma bis 1799"),
 				app.Br(),
@@ -379,6 +369,16 @@ func (h *searchComp) Render() app.UI {
 				app.Br(),
 				app.Label().Text("Trauungen Frauenstein bis 1799"),
 				app.Br(),
+				app.Label().Text("Trauungen Dittersbach bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Nassau bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Dorfchemnitz bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Clausnitz bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Cämmerswalde bis 1799"),
+				app.Br(),
 			),
 		),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
@@ -404,6 +404,10 @@ func (h *searchComp) onClick(ctx app.Context, e app.Event) {
 			break
 		}
 		full = dis
+		src := getSource(parts[3])
+		if parts[4] != "0" && src == "Archion" {
+			parts[3] += "&pageId=" + parts[4]
+		}
 
 		boxes[dis] = append(boxes[dis], app.Tr().Body(
 			app.Td().Body(app.Label().Text("»»»").Style("font-weight", "bold").Attr("style", "color: "+getColor(dis))),
@@ -411,7 +415,7 @@ func (h *searchComp) onClick(ctx app.Context, e app.Event) {
 			app.Td().Body(app.Label().Style("margin", "16px")),
 			app.Td().Body(app.A().Href(linkPrefix+parts[1]).Text(parts[1])),
 			app.Td().Body(app.Label().Style("margin", "16px")),
-			app.Td().Body(app.A().Href(parts[3]).Text(getSource(parts[3]))),
+			app.Td().Body(app.A().Href(parts[3]).Text(src)),
 		))
 	}
 
