@@ -1,6 +1,6 @@
 Dorfchemnitz (Buch 63)
 Trauungen 1605-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=340882
+https://www.archion.de/de/viewer/?type=churchRegister&uid=340882&pageId=47880848
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -15,6 +15,7 @@ tintenfrass@gmx.de
 
 
 
+---------------- x19
 1735
 Israel Arnold
 1733
@@ -1122,9 +1123,7 @@ Johann Gottlieb Wolf
 Johann Gottlieb Weidendörfer
 1788
 Christoph Zettel
-----------------
-...
-----------------
+---------------- x24
 1702
 Christian Gottfried Seipt
 Christian Stiehl
@@ -1974,9 +1973,7 @@ Christoph Beyer
 Melchior Beyer
 Christian Beyer
 Christian Böhme
-----------------
-...
-----------------
+---------------- x21
 1636
 Caspar Wetzel
 1658

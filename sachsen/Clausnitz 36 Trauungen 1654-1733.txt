@@ -1,6 +1,6 @@
 Clausnitz (Buch 36)
 Trauungen 1654-1733
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=340834
+https://www.archion.de/de/viewer/?type=churchRegister&uid=340834&pageId=47871179
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ tintenfrass@gmx.de
 
 
 
+---------------- x3
 1654
 Johann Georg Wagner
 1655
@@ -371,6 +372,7 @@ Johann Fritzsche
 Christoph Kempe
 1728
 Georg Müller
+----------------
 Gottfried Zemrich
 1729
 Gottfried Herklotz
