@@ -1,5 +1,5 @@
 ## Projekt Trauindex Sachsen
-#### Gebiet: Dresden-Meißen
+#### Gebiet: Dresden-Meißen-Freiberg-Dippoldiswalde
 #### Zeitraum: 16-18Jh
 
 
