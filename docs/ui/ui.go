@@ -391,7 +391,7 @@ func (h *searchComp) onClick(ctx app.Context, e app.Event) {
 		full = dis
 		src := getSource(parts[3])
 		if parts[4] != "0" && src == "Archion" {
-			parts[3] += "&pageId=" + parts[4]
+			parts[3] += "?pageId=" + parts[4]
 		}
 
 		boxes[dis] = append(boxes[dis], app.Tr().Body(
