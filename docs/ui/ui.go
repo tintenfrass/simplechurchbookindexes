@@ -42,6 +42,7 @@ func replace(input string) (output string) {
 	output = strings.Replace(output, "Böhmische", "Böhm.", 1)
 	output = strings.Replace(output, "Exulantengemeinde", "Exulanten", 1)
 	output = strings.Replace(output, "Meißen", "MEI", 1)
+	output = strings.Replace(output, "Freiberg", "FG", 1)
 	return
 }
 
@@ -165,11 +166,16 @@ func (h *searchComp) Render() app.UI {
 	grid[8][13] = "Leubnitz"
 	grid[9][13] = "Leuben bei Dresden"
 
+	grid[1][14] = "Freiberg Dom St. Marien"
+	grid[2][14] = "Freiberg St. Nikolai"
+	grid[3][14] = "Conradsdorf"
 	grid[5][14] = "Somsdorf"
 	grid[6][14] = "Rabenau"
 	grid[7][14] = "Plauen"
 	grid[9][14] = "Lockwitz"
 
+	grid[1][15] = "Freiberg St. Petri"
+	grid[2][15] = "Freiberg St. Jacobi"
 	grid[4][15] = "Dorfhain"
 	grid[5][15] = "Höckendorf"
 	grid[6][15] = "Seifersdorf bei Dippoldiswalde"
@@ -177,10 +183,13 @@ func (h *searchComp) Render() app.UI {
 	grid[8][15] = "Kreischa"
 	grid[9][15] = "Röhrsdorf bei Dohna"
 
+	grid[1][16] = "Freiberg St. Johannis"
 	grid[3][16] = "Colmnitz"
 	grid[4][16] = "Klingenberg"
 	grid[5][16] = "Ruppendorf"
 
+	grid[1][17] = "Erbisdorf"
+	grid[2][17] = "Berthelsdorf"
 	grid[4][17] = "Pretzschendorf"
 	grid[5][17] = "Reichstädt"
 	grid[6][17] = "Dippoldiswalde"
@@ -332,52 +341,28 @@ func (h *searchComp) Render() app.UI {
 				app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 				app.Br(),
 				app.Br(),
-				app.H3().Body().Text(" v1.3 (Oktober 2023) latest updates:"),
-				app.Label().Text("Trauungen Reichstädt bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Reinhardtsgrimma bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Glashütte bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Dittersdorf bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Johnsbach bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Schmiedeberg bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Sadisdorf bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Hennersdorf bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Hartmannsdorf bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Burkersdorf bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Bärenstein bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Lauenstein bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Liebenau bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Geising bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Altenberg bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Schellerhau bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Hermsdorf bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Frauenstein bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Dittersbach bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Nassau bis 1799"),
-				app.Br(),
+				app.H3().Body().Text(" v1.3 (November 2023) latest updates:"),
 				app.Label().Text("Trauungen Dorfchemnitz bis 1799"),
 				app.Br(),
 				app.Label().Text("Trauungen Clausnitz bis 1799"),
 				app.Br(),
 				app.Label().Text("Trauungen Cämmerswalde bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Berthelsdorf bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Erbisdorf bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Conradsdorf bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Freiberg Dom St. Marien bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Freiberg St. Jacobi bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Freiberg St. Johannis bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Freiberg St. Nikolai bis 1799"),
+				app.Br(),
+				app.Label().Text("Trauungen Freiberg St. Petri bis 1799"),
 				app.Br(),
 			),
 		),
