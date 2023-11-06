@@ -3,7 +3,7 @@
 #### Zeitraum: 16-18Jh
 
 
-In diesem Projekt geht es um die Erstellung eines einfachen Indexes möglichst aller Bräutigame.
+In diesem Projekt geht es um die Erstellung eines Schnell-Indexes möglichst aller Bräutigame.
 
 Der Index ist ein Hilfsmittel und dient dazu in den Kirchenbüchern schneller bestimmte Einträge nachschlagen zu können.
 

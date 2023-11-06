@@ -2,9 +2,10 @@ package search
 
 import (
 	"bytes"
-	"encoding/json"
 	"fmt"
 	"time"
+
+	"github.com/goccy/go-json"
 )
 
 func Import() time.Duration {
