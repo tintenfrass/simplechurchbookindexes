@@ -14,7 +14,9 @@ import (
 var grid = map[int]map[int]string{}
 
 func (h *searchComp) OnMount(ctx app.Context) {
-	dur := search.Import()
+	start := time.Now()
+	search.LoadData()
+	dur := time.Since(start)
 
 	//Defaults
 	h.slideValueMin = config.YearMin
@@ -257,7 +259,8 @@ func (h *searchComp) Render() app.UI {
 	return app.Div().Body(
 		app.Table().Body(
 			app.Tr().Body(
-				app.H2().Body(app.Text("Trau-Index Dresden-Meißen")),
+				app.H2().Body(app.Text("Onlinsuche im Trau-Schnell-Index")),
+				app.H3().Body(app.Text("Dresden-Meißen-Freiberg-Dippoldiswalde")),
 				app.Label().Text("Jahr Min "),
 				app.Input().Type("range").Attr("min", config.YearMin).Attr("max", config.YearMax).OnChange(h.ValueTo(&h.slideValueMin)).Value(h.slideValueMin).Attr("style", "width: 600px"),
 				app.Label().Text(h.slideValueMin),
@@ -326,11 +329,16 @@ func (h *searchComp) Render() app.UI {
 				app.Text("* Mustermann => Sucht nach Nachname Mustermann"),
 				app.Br(),
 				app.Br(),
-				app.Text("Über die Links kommt man zu der Datei mit den Roh-Daten, das kann helfen die genaue Position des Eintrages im Kirchenbuch zu finden."),
+				app.Text("In den Ergebnissen führt der erste Link zur Datei mit den Roh-Daten, das kann helfen die genaue Position des Eintrages im Kirchenbuch zu finden."),
 				app.Br(),
 				app.Text("Manche Kirchenbücher sind auch nicht chronologisch bzw. die Daten im Buch verstreut."),
 				app.Br(),
 				app.Text("Es gibt auch immer mal wieder Fehler in den Daten, falsch erfasste Namen oder manchmal ist das Jahr um 1 verrutscht, etc."),
+				app.Br(),
+				app.Br(),
+				app.Text("Der zweie Link führt direkt zum Kirchenbuch, teilweise auch auf den richtigen Scan, das kann durch Fehler aber evtl. auch etwas abweichen."),
+				app.Br(),
+				app.Text("Die Archion-Links bringen nur was, wenn man bei Archion einen Pass hat."),
 				app.Br(),
 				app.Br(),
 				app.Text("Die Kirchengemeinden sind grob geographisch angeordnet, siehe auch: "),
@@ -341,7 +349,7 @@ func (h *searchComp) Render() app.UI {
 				app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 				app.Br(),
 				app.Br(),
-				app.H3().Body().Text(" v1.3 (November 2023) latest updates:"),
+				app.H3().Body().Text(" v1.4 (November 2023) latest updates:"),
 				app.Label().Text("Trauungen Dorfchemnitz bis 1799"),
 				app.Br(),
 				app.Label().Text("Trauungen Clausnitz bis 1799"),
@@ -366,6 +374,7 @@ func (h *searchComp) Render() app.UI {
 				app.Br(),
 				app.Label().Text("Trauungen Röhrsdorf bei Dohna bis 1799"),
 				app.Br(),
+				app.Label().Text("Ladezeit der Webseite stark beschleunigt"),
 			),
 		),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")

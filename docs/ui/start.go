@@ -13,7 +13,7 @@ func StartLocal() {
 
 	http.Handle("/", &app.Handler{
 		Name:        "Trau-Index Dresden-Meißen",
-		Description: "Online-Suche für Indexierte Kirchenbücher",
+		Description: "Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde",
 		Title:       "Trau-Index Dresden-Meißen",
 	})
 
@@ -28,7 +28,7 @@ func StartGithub() {
 
 	err := app.GenerateStaticWebsite(".", &app.Handler{
 		Name:        "Trau-Index Dresden-Meißen",
-		Description: "Online-Suche für Indexierte Kirchenbücher",
+		Description: "Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde",
 		Title:       "Trau-Index Dresden-Meißen",
 		Resources:   app.GitHubPages("simplechurchbookindexes"),
 		RawHeaders: []string{
