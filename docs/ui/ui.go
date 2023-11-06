@@ -364,6 +364,8 @@ func (h *searchComp) Render() app.UI {
 				app.Br(),
 				app.Label().Text("Trauungen Freiberg St. Petri bis 1799"),
 				app.Br(),
+				app.Label().Text("Trauungen Röhrsdorf bei Dohna bis 1799"),
+				app.Br(),
 			),
 		),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
