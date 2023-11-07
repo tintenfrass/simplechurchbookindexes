@@ -3,7 +3,7 @@ Trauungen 1628-1681
 https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=281131
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
-Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
+Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Hinweis:
 Im Kirchenbuch gibt es 4 Abschnitte, nacheinander die Gemeinden
@@ -15,7 +15,7 @@ Ober- und Nieder-Spaar
 
 Erstellt in ca. 2 Stunden
 Januar 2023
-tintenfrass@gmx.de
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 

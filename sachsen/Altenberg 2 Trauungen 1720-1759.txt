@@ -1,6 +1,6 @@
 Altenberg (Buch 2)
 Trauungen 1720-1759
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294112
+https://www.archion.de/de/viewer/churchRegister/294112?pageId=40846614
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -9,12 +9,13 @@ Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 Erstellt in ca. 1,5 Stunden
 Oktober 2023
-tintenfrass@gmx.de
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x372
 1720
-Gottfried Gengler?
+Gottfried Gempler?
 Johann Jobe?
 Johann Christian Schultz?
 ----------------
@@ -457,6 +458,7 @@ Johann Christoph Mutze
 Gottfried Sperling
 Christian Hammer
 Johann Adam Sieber
+----------------
 Daniel Körner
 Johann Christian Bär
 Johann Gottfried Ehrlich

@@ -4,9 +4,8 @@ https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=283154
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
-Erstellt in ca. 15min
 Juni 2022
-tintenfrass@gmx.de
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 

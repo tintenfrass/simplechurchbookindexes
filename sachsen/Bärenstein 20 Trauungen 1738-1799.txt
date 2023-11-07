@@ -1,6 +1,6 @@
 Bärenstein (Buch 20)
 Trauungen 1738-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294126
+https://www.archion.de/de/viewer/churchRegister/294126?pageId=40850208
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -8,10 +8,11 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Erstellt in ca. 1 Stunde
 Oktober 2023
-tintenfrass@gmx.de
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x133
 1738
 Samuel Helbig
 Johann Georg Estler

@@ -3,7 +3,6 @@ Trauungen 1611-1705
 https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=283107
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
-
 Die meisten Vornamen wurden über Shortcuts erstellt, 
 Dabei wurden ähnliche Namen bzw. verschiedene Schreibweisen auf den gleichen Shortcut gelegt.
 Bsp:
@@ -12,7 +11,7 @@ Gregor/Greger => Georg
 
 Erstellt in ca. 2 Stunden
 Mai 2022
-tintenfrass@gmx.de
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 

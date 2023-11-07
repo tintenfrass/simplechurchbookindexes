@@ -3,8 +3,7 @@ Trauungen 1709-1777
 https://data.matricula-online.eu/de/deutschland/dresden/dresden-hofkirche/18/?pg=1
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
-
-Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
+Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Zusätzlich ist das Kirchenbuch nur schwer lesbar und viele Namen exotisch, oft unklar und lateinisiert.
 Teilweise ist auch nicht klar wo die Vornamen aufhören und der Nachname anfängt bzw. wo der Nachame aufhört.
 Die Fehlerquote in diesem Index ist recht hoch.
@@ -17,7 +16,7 @@ Diese Kirche hat katholisch getraut.
 Erstellt in ca. 10 Stunden
 März 2023
 Mai 2023
-tintenfrass@gmx.de
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 

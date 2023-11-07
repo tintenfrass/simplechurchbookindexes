@@ -3,8 +3,7 @@ Trauungen 1648-1670
 https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSKJ-YS32-S?mode=g&cat=2789818
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
-
-Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
+Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Hinweis:
 Die Grundlage dieses Index ist die Abschrift des Kirchenbuches Nr.184 bzw. Nr.3707 von
@@ -13,7 +12,7 @@ https://www.familysearch.org/search/catalog/2789818?availability=Family%20Histor
 
 Erstellt in ca. 2 Stunden
 Juni 2022
-tintenfrass@gmx.de
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 

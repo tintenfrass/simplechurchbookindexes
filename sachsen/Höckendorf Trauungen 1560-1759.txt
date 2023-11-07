@@ -11,7 +11,7 @@ Es gibt ein Registerband ab 1700 zum Kirchenbuch, welches aber für diesen Index
 
 Erstellt in ca. 3 Stunden
 September 2023
-tintenfrass@gmx.de
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 

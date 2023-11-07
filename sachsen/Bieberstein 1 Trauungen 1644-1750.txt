@@ -1,18 +1,18 @@
 Bieberstein (Buch 1)
 Trauungen 1644-1750
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=281003
+https://www.archion.de/de/viewer/churchRegister/281003?pageId=38762434
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
-
-Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
+Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
 Erstellt in ca. 2,5 Stunden
 September 2023
-tintenfrass@gmx.de
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x2
 1644
 Thomas Bischof
 Michael Döring

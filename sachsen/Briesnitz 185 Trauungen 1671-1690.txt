@@ -3,8 +3,7 @@ Trauungen 1671-1690
 https://www.familysearch.org/search/film/103649460?cat=2789818
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
-
-Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
+Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Die Reihenfolge ist nicht chronologisch sondern entspricht der Reihenfolge im Buch.
 
 Hinweis:
@@ -14,7 +13,7 @@ https://www.familysearch.org/search/catalog/2789818?availability=Family%20Histor
 
 Erstellt in ca. 2 Stunden
 Juni 2022
-tintenfrass@gmx.de
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 

@@ -1,48 +1,261 @@
 Briesnitz (Buch 92)
-Trauungen 1577-1647
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=263415
+Trauungen 1548-1647
+https://www.archion.de/de/viewer/churchRegister/263415?pageId=36749032
 
-Das ist ein einfacher Index aller Trauungen (nur die Männer), die Liste enthält Fehler und Ungenauigkeiten.
+Das ist ein Index der Trauungen. (Nur die Bräutigame)
+Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
-April 2021
-tintenfrass@gmx.de
+Hinweis:
+Die Reihenfolge ist nicht immer chronologisch.
+
+
+April 2021 (erstellt)
+November 2023 (überarbeitet)
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
-1548
-Paul Hennig
-Thomas Barth
-Joseph Ludwig
-Stephan Dieze
-Martin Barth
-Peter Dieze
-Paul Petermann
-Peter Mehlich
+---------------- x2
+1564
+Martin Tränckner
+Barthel Peschel
+- -
+Thomas Götze
+Gregor Patzig
+Gregor Landmann
+Lorenz Winckler
+Urban Tegel
+Brosius Bachmann
+Georg Klingstein
+Hans Naumann
+- Wünschmann
+Thomas Ehlig
+Gregor Retsch
+Paul Schermeßer
+Georg Fehrmann
+Georg Landmann
+Georg Merbitz
+Lorenz Müller
+----------------
+1565
+Otto Horn
+Thomas Schultz
+Jacob Merbitz
+Hironimus Faust
+Philip Ditrich
+Georg Pietzsch
+Andreas Kundt
+Hans Töpfer
+Martin Fehrmann
+Barthel Fehrmann
+Blasius Naumann
+Simon Pietzsch
+Kilian Leuteritz
+Hans Graupitz
+Hans Götze
+Hironimus Ehling
+Barthel Merbitz
+Urban Winckler
+Martin Schultz
+1566
+- -
+Martin Merbitz
+Thomas Borisch
+Paul Fickler
+Barthel Heupt
+Martin Wustling
+Martin Faust
+Veit Schmidt
+Wenzel Winckler
+Thomas Müller
+Caspar Winckler
+- Fuhrmann
+- Hildebrand
+- Hünichen
+- Fuhrmann
+1567
+Georg Fehrmann
+Georg Faust
+Georg Pfund
+- -
+----------------
+Martin Fickler
+Paul Andrie
+Georg Müller
+Georg Schumann
+Blasius Müller
+Martin Retsch
+Bastian Ehling
+Caspar Pietzsch
+Caspar Fehrmann
+Hans Hauswald
+Georg Schröter
+Georg Dietze
+Caspar Gladwitz
+1568
+Lorenz Kieselich
+Barthel Pietzsch
+Martin Zscheile
+Lazarus Tegel
+Christoph Fickler
+Fabian Schultz
+Valentin Udolf
+Marx Ehling
+Hans Kretzschmer
+Barthel Frantze
+Paul Müller
+Donat Pietzsch
+- Schmidt?
+- Kürbis
+- Ganßauge
+Mattheus Köhler
+Nicol Weyse
+Wenzel Pietzsch
+1569
+Franz Valtin
+Hans Valtin
+Georg Pietzsch
+Michael Pietzsch
+Martin Kommer?
+Christoph Götze
+Martin Pietzsch
+Michael Patz
+Georg Schumann
+- Hendel
+- Bachmann
+----------------
+1570
+Donat Ganßauge
+Brosius Beudener
+Christoph Pietzsch
+Martin Winckler
+Jacob Winckler
+- Spahrman
+Martin Pietzsch
+- Kommer
+Simon Pietzsch
+Martin Winckler
+Mattheus Ehling
+Peter Frantze
+- Ganßauge
+Hans Merbitz
+Marx Müller
+1571
+Caspar Bahrt
+Burckhard Fuhrmann
+Gregor Patz
+Peter Patz
+Donat Freund
 Paul Schröter
-Georg Klinstein
+Mattheus Fehrmann
+Martin Winckler
+Wenzel Ehling
+Stephan Fehrmann
+- Ganßauge
+Martin Gladwitz
+Mattheus Patz
+1572
+Georg Pietzsch
+- Adam?
+Peter Pietzsch
+Hans Müller
+Wenzel Bahrt
+Paul Dietze
+Georg Begenau
+Christoph Patz
+Georg Andrie
+- -
+1573
+Veit Pietzsch
+----------------
+Bastian Ehligen
+- Merbitz
+Peter Beudner
+- -
+- -
+- -
+- Bürgers?
+1574
+Donat Stolle
+Jacob Merbitz
+Martin Andrie
+Martin Winckler
+Bastian Steinbrecher
+Clemens Pietzsch
+Barthel Merbitz
+Peter Bahrt
+- -
+Wenzel Winckler
+Georg Winckler
+Hans Winckler
+Clemens Sohrmann
+Martin Retsch
+1575
+Clemens Sohrmann
+Hans Seyffert
+Christoph Reiche
+Andrie Ditrich
+Hans Müller
+Andreas Schröter
+Martin Pietzsch
+Georg Fehrmann
+Lorenz Winckler
+Hans Schröter
+Georg Burckhart
+Mattheus Geneuß
+Andreas Pietzsch
+Michael Valtin
+1576
+- Creutziger
+Elias Pietzsch
+Georg Kommer
+Martin Ehlingen
+----------------
+Hans Patz
+Wenzel Patz
+Nicol Fraust
+Mattheus Leuteritz
+Wenzel Fehrmann
+Martin Frantze
+Martin Faust
+Barthel Ehligen
+Hans Fehrmann
+1578
+Martin Winckler
+Gregor Wustlich
+1579
+Thomas Beger
+Georg Patz
+Barthel Pietzsch
+Georg Pietzsch
+1582
+Andreas Pietzsch
+----------------
 1577
 Merten Ferman
 Urban Götze
 Georg Hennig
 Hieroning Patz
+----------------
 1578
 Hans Andrie
 Georg Patz
 Georg Ulbricht
-Georg Wustlich
-Simon Hemm
+Gregor Wustlich
+Simon Hener?
 Paul Clauß
-Georg Beger
+Gregor Begen
 Georg Andrie
 Michael Patz
 Abraham Patz
-Georg Patz
-Aßmus Patz
+Georg Patzsch
+Aßmus Patzsch
 Peter Ehling
 Jacob Winkler
 Martin Hennig
+----------------
 Georg Finger
-Georg Patz
+Georg Patzsch
 1579
 Andreas Winkler
 Hans Palitzsch
@@ -53,23 +266,26 @@ Wenzel Furman
 Hans Grießman
 Merten Patz
 Wenzel Franz
-Merten Müller
-Michael Ehling
-Franz Müller
+Merten Mühlberg
+Michael Ehligen
+- -
+----------------
 Brosius Andrie
-Tobias Patz
-Caspar Fremm?
+Tobias Patzsch
+Caspar Freund
 Caspar Schröter
-Hans Valther
+Hans Valthen
 Georg Dittrich
 1580
-Merten balten?
-Adam Schepfer
-Blasius Patz
-Georg Ferman
-Donat Anrie
-Peter rezsch?
-Hans Schimer
+Merten Valten
+Adam Scheffer?
+Gregor Retsch?
+Blasius Patzsch
+Georg Fehrmann
+----------------
+Donat Anrie?
+Peter Retzsch?
+Hans Schirmer
 Georg Patz
 Jeremias Fickler
 1581
@@ -79,154 +295,169 @@ Peter Andrie
 Georg Sorman
 Peter Fermann
 Jacob Naumann
+----------------
 Andreas Ferman
 Andreas Winkler
 Barthel Scholz
 Christoph Patz
 Barthel Beuchel
-Nickol Knauf
-Jacob Patzsch
+Nickol Knauth
+Jacob Retzsch
 Hans Patz
 1582
-Lorenz hennig
-Hans Hembel?
+Lorenz Hennig
+Hans Hendel?
+Martin Klotz
 Caspar Winkler
+----------------
 Georg Patz
 Peter Winkler
 Christoph Patzsch
 Abraham Winkler
-Hans merzsch?
-Bastian Gätz
+Hans Merwitz
+Bastian Götze
 Blasius Ludwig
 Hans Winkler
-Barthel Kißling
-August Ganz
-Georg merviz?
+Barthel Kieslinch
+August Götze
+Georg Merwitz
 Georg Paz
+----------------
 1583
-Barthel Göz
+Barthel Götze
 Andreas Franz
 Lorenz Paz
 Georg Paz
-Max Schiemer
-Hans Merviz
+Marx? Schiemer
+Hans Merwitz
 Georg Burkhard
-Georg Paz
+Georg Pazsch
 Christoph Franz
-Merten Paz
-Friedrich Hauswalt
-Georg Knisch
+Merten Pazsch
+Gregor Hauswalt
+Georg Krichle?
 1584
 Georg Pazsch
 Simon Mülberg
 Hans Winkler
+----------------
 Wenzel Franz
 Benno Ferman
 Merten Winkler
 Merten Paz
 Merten Fickler
 Peter Paz
-Merten Scheufe?
+Merten Tzscheyle
 Nickel Ferman
 Hans Wagner
 Peter Tize
 Hans Faust
-Nickel Paz
-Georg Paz
+Nickel Pazsch
+Georg Pozscher?
 1585
 Georg Müller
-Jacob Pazsch
+Jacob Rezsch
+----------------
 Merten Hendel
 Merten Kalßdorf
 Hans Winkler
-Georg Valter
+Georg Valten
 Blasius Faust
 Brosius Tam
 Georg Beger
 Stepfan Patzsch
 Georg Patzsch
-Jacob Mervitz
-Max Müller
+Jacob Merwitz
+Max? Müller
 Hans Hennig
 Georg Tize
 Hans Patzsch
+----------------
 1586
 Peter Furman
-Andreas keihle
-Merten Mervitz
-Barthel Franz
+Andreas Rühle?
+Merten Merwitz
+Georg Franz
 Merten Paz
 Jacob Winkler
-Georg Fritzsch
+Georg Fritzsche
 Merten Mahn
 Hans Löbner
 Georg Palitzsch
-Weber? Fruman
+Mattheus? Furman?
 Lorenz Schirmer
 1587
 Georg Paz
 Caspar Nauhman
-Bernd Löbner
+----------------
+Benedikt Löbner
 Christoph Winkler
 Georg Franz
-Burkhard Paz
-Georg Faust
+Burkhard Pazsch
+Gregor Faust
 Georg Sorman
 Georg Winkler
 1588
 Merten Möller
-Caspar Beichel
+Caspar Beuchel
 Bastian Ludwig
 Lorenz Beger
 Christoph Ludwig
-Barthel Tize
-Clement? Pazsch
-Marcin Paz
+Barthel Titze
+Clement Pazsch
+----------------
+Marcus Pozscher
 Merten Sorman
 Georg Ehling
-Georg Walter
+Georg Valten
 Hans Winkler
 Donat Patzsch
 1589
-Georg Franz
-Max Celler?
+Georg Fritzsche
+Matz Celler?
 Franz Freund
 Georg Göze
-Merten Patz
+Merten Patzsch
 Wenzel Andrie
 Hans Fickler
-Max Paz
-Matthes Franz
-Weber Freund
+----------------
+Matz Paz
+Matthes Hanzsch
+Wenzel Freund
 1590
-Lorenz Frizsche
-Blasius Mervitz
+Lorenz Frizschee
+Blasius Merwitz
 Georg Freund
 Nickel Knobel
 Thomas Göze
-Caspar Paz
+Caspar Pazsch
 Nickel Möller
 Georg Möller
 Georg Pazsch
 Georg Beuchel
-Clement? Paz
+Clement Pazsch
+Martin Patzsch
+----------------
 Hans Hildebrand
 1591
 Peter Freund
 Merten Pazsch
-Georg Weber?
+Georg Valten
 Georg Pazsch
-Caspar Adolpf
-Hans Sparten?
-Hans Forman
-Michael Forman
+Caspar Udolpf
+Peter Dietze
+Hans Sparmann
+Jacob Winckler
+Hans Ferman
+Michael Ferman
 Hans Ehling
-Georg Paner?
+Georg Pauer?
 Georg Ludwig
+----------------
 Georg Lange
-Max Franz
+Matz Franz
 1592
-Hans Pazsch
+Hans Pezsch
 Wenzel Ferman
 Jacob Hildebrand
 Hans Freund
@@ -234,323 +465,347 @@ Hans Tize
 Paul Tize
 Andreas Franz
 Merten Kolßdorf
-Georg Pazsch
-Merten? Fickler
-Georg Walter?
+Georg Pezsch
+----------------
+Merten Fickler
+Georg Valten
 Georg Krenzschner
 Paul Winkler
 Hans Franz
-Max Hillig
+Matz Hillig
 1593
-Georg Walter
+Georg Valten
 Bastian Ludwig
 Hans Bartzsch
-Hans Forman
-Hans Pazsch
-Georg Ludwig
+Hans Ferman
+Hans Pezsch
+----------------
+Gregor Ludwig
 Hans Paz
 Georg Gladewitz
-Lorenz Weltz?
+Lorenz Valten?
 Merten Winkler
 1594
-Georg Zscheile?
+Georg Tzscheile
 Wenzel Adam
 Michael Ganßauge
-Paul prlich?
-Merten Forman
+Paul Pelich?
+Merten Ferman
 Wenzel Paz
-Merte Paz
+Merten Pezsch
 Thomas Schram
+----------------
 1595
 Merten Krezschmar
 Peter Möller
 Jacob Winkler
 Wenzel Schröter
-Georg Pazsch
+Georg Pezsch
 Barthel Frizsche
-Peter Ferman
+Peter Fuhrmann
 Georg Ganßauge
-Andeas Pazsch
-Georg Pazsch
+Andeas Pezsch
+Georg Pezsch
 Lorenz Scholz
 1596
 Lorenz Seifert
 Hans Andrie
-Peter Pazsch
+Peter Pezsch
 Clement Ehling
 Georg Paz
+----------------
 Georg Tize
-Max Leube
-Burkhard Pazsch
+Matz Leuteritz
+Burkhard Pezsch
 Donat Schulze
 Georg Ferman
 Georg Ehling
 Christoph Franz
-Caspar Pazsch
+Caspar Patz
 1597
 Peter Krezschmer
-Michz? wenzsch?
+Martin Retzsch
 Blasius Winkler
-Stepfan Seiman?
-Marte Peterman
+Stepfan Simmon?
+Merten Peterman
 Jacob Fickler
-Martz Möckel
+Martin Möckel
 Jacob Hennig
+----------------
 Hans Köhler
-Hans czschorle?
-Merte Müller
-Paul Pazsch
+Hans Tzscheyle
+Merten Müller
+Paul Pezsch
 Merten Paz
 1598
 Donat Möller
 Caspar Krenzschner
 Caspar Schröter
 Paul Brendel
-Max Kind
-Stephan Leudez
+Matz Kundt
+Stephan Leuteritz
 Christoph Hennig
-Max Winkler
+Matz Winkler
 Barthel Scholz
-Merte Rauchfuß
+Merten Rauchfuß
 Georg Tize
-Merten Pazsch
+Merten Pezsch
+----------------
 Hans Tize
-Benno Pazsch
-Georg Pazsch
-Max Pazsch
+Benno Pezsch
+Georg Pezsch
+Marx Pezsch
 Stepfan Leuderz
 Georg Ferman
 1599
-Nickel Mervitz
+Nickel Merwitz
 Donat Fickler
-Max Ferman?
+Matz John
 Georg Andrie
 Donat Scholz
 Georg Gladewitz
-Thomas Streibel?
-Urban Getmer?
+Thomas Strubel?
+Urban Gittner?
 Urban Göze
 Donat Freund
 Hans Faust
+----------------
 Georg Zschrolt?
 Hans Ludwig
-Nickel Pazsch
+Nickel Pezsch
 1600
 Merten Gladewitz
 Georg Winkler
-Georg Krenzschner
+Gregor Krenzschner
 Andreas Wustlich
+Franz Beger
 Hans Brendel
-Merte Konnig?
-Hans Ferman?
+Merten Kommer
+Hans Ferman
 Jacob Köhler
 Peter Herkloz
-Marth wescht?
+Marth Ranft
 Michale Tegel
 Marth Winkler
 Andreas Göze
+----------------
 Burkhard Furmann
-Mart merviz
+Martin Merwiz
 Christoph Hauswalt
-Georg Preißler
+Georg Preußler
 1601
 Georg Beger
-Peter Pazsch
-Max Kind
-Marth Ganßauge
-Hans Getmer
+Peter Pezsch
+Matz Kund
+Martin Ganßauge
+Hans Gretner?
 Jeremias Fickler
-Michael Formann
+Michael Frrmann
 Bastian Müller
 Georg Winkler
 Andreas Köhler
+Hans Steinbrecher
 Nickel Tegel
+----------------
 1602
 Paul Müller
 Andreas Reiche
 Donat Ganßauge
-Max Bartsch
-Max Müller
-Andreas Fickler
+Matz Bartsch
+Matz Müller
+Andreas Hildebrand
 Georg Winkler
-Georg ediger?
+Georg Ridiger?
 Georg Winkler
 1603
 Paul Winkler
-Merten Pazsch
-Georg Pazsch
-Georg trydes?
+Merten Pezsch
+Georg Pezsch
+Georg Andrie
 Paul Ganßauge
 Georg Fickler
-Clement Pazsch
+----------------
+Clement Pezsch
 Brosius Bache
 Franz Beger
 1604
 Hans Bartsch
 Wenzel Bernhard
-Daniel Franz
+Daniel Hantzsch
 Michel Philip
 Max Ehling
 Blasius Winkler
 Georg Tize
 Lorenz Ganßauge
-Adam Stribel?
-Caspar Paz
-Georg Ganßauge
+Adam Streubel?
+Caspar Pezsch
+Gregor Ganßauge
+----------------
 Hans Maul
 Lorenz Winkler
-Hans Paz
+Hans Pezsch
 Andreas Fehrman
 Donat Beudner
 1605
-Max Hendel
+Matz Hendel
 Georg Hennig
-Merten Mervitz
+Merten Merwitz
 Georg Winkler
 Hans Brendel
 Georg Göze
 Georg Förster
 Merten Winkler
 Wenzel Tize
-bmh? cop?
+Peter Vogel
+----------------
 Valentin Ganßauge
 Georg Borisch
 Blasius Müller
 Bastian Pitzsch
-Steffan Dize
+Steffan Dieze
 Bastian Müller
 Andreas Fickler
 Georg Zöller
-Georg Rößel
+Gregor Rößel
 Martin Winkler
+----------------
 1606
 Georg Beudner
-Hans Grele?
+Hans Grale
 Caspar Finger
 Hans Maul
 Wenzel Ehlig
-Georg Zeibig
-Micha Fehrman
+Gregor Zeibig
+Michael Fehrman
 Gabriel Götze
 Georg Pitzsch
 Lorenz Zscheile
-Caspar Irmer
+Caspar Ermer
 Thomas Faust
 Georg Müller
 Martin Pitzsch
+----------------
 Martin Winkler
 Martin Leuderitz
-Jocob Rauhe
+Jocob Reiche
 1607
 Blasius Nauman
 Elisa Steinbrecher
-Georg Hanzsch?
+Georg Hanitsch
 Martin Pitzsch
 Georg Kummer
 Donat Fickler
 Georg Andrie
 Jacob Melzer
-Caspar Burchard
+Caspar Bernhard
+----------------
 Peter Andrie
 Georg Zimmerman
 Martin Schulze
-Christoph Blanßdorf
+Christoph Blanßdorf?
 1608
 Broßius Beudner
 Caspar Merbitz
 Martin Rülcker
-Hans Sommer
-Georg Schmiede
+Hans Kommer
+Gregor Schneider
 Andres Hennig
 Christoph Benzinger
 Martin Pitzsch
+----------------
 Georg Pitzsch
 Christoph Barth
 1609
 Georg Winkler
-Jacob Rotzsch
+Jacob Retzsch
 Michael Müller
 Paul Kretschmar
-Christoph Schmiede
-Georg Reuhe
+Christoph Schneider
+Georg Reiche
 Martin Hendel
 Caspar Pitzsch
 Caspar Merten
-Merten Käreß?
+Merten Käreß
 Christoph Hildebrand
+----------------
 Martin Tränkner
 Martin Ludwig
-Martin Maißdorf
+Martin Meißdorf
 Hans Patz
 Thomas Barth
-Martin Mauk
-Barthel Rotzsch
+Martin Maul
+Barthel Retsch
 Georg Krenzschmar
 Bastian Steinbrecher
 Bastian Ludwig
 Lorenz Pitzsch
-Wenzel Hünnich?
+Wenzel Hünichen
 Lorenz Daschenberg
 Martin Andrie
+----------------
 1610
 Tobias Richter
-Martin Ganßauge
+Martin Genaußgen
 Marthes Angermann
 Nicol Müller
 Barthel Schulze
-Broß weerwe?
-Georg Erher?
+Brosius Werner
+Gregor Breunig
 Paul Dieze
-Peter Graupzsch
+Peter Graupitz
 Hans Borisch
-Merten Müller
-Andreas Göze
+Merten Mülberg
+Andreas Götze
 Georg Leuderitz
+----------------
 Georg Merbitz
-Jacob Ehlig
+Jacob Ehelig
 1611
-Georg Melich
-Peter Lauz?
+Gregor Melich
+Peter Laux
 Wenzel Valtin
 Hans Pitzsch
 Lorenz Günther
 Jacob Reiche
-Elias Ptzsch
+Elias Patz
 Caspar Fickler
-Georg Steinbrecher
-Martin Lünicher
+Gregor Steinbrecher
+Martin Hünichen
 Peter Pitzsch
+----------------
 Lorenz Winkler
 Georg Fritzsch
 Hans Köler
 Hans Schröter
 Hans Andrie
 1612
-Max Winkler
-Nicol Paz
+Barthel Winkler
+Nicol Patz
 Hans Franz
 Georg Fehrman
-Paul Ehliger
+Paul Ehligen
 Georg Dittrich
 Martin Keyser
 Hans Pitzsch
 Christoph Müller
-Georg Ketschberg
+----------------
+Georg Schröter
 Georg Patz
 Valtin Hertel
 Martin Franz
 Peter Gladewitz
-Hans merbitz
+Hans Merbitz
 Blasius Fehrmann
-Jacob Henkel
+Jacob Heekel
 1613
 Martin Schumann
-Andreas Bahrtsch
+Andreas Bahrt
 Georg Kolßdorf
-Max Winkler
+Matz Winkler
 Martin Nitzsch
 Hans Müller
 Hans Andrie
+----------------
 Georg Andrie
 Christoph Ludwig
 Georg Pitzsch
@@ -559,30 +814,32 @@ Georg Ganßauge
 Martin Müller
 Andres Kalde
 Hans Leuderitz
-Jacob Klumm
+Jacob Klemmen
 Martin Müller
 Martin Schröter
 1614
 Hans Andrie
 Barthel Dittrich
-Georg Reich
+----------------
+Georg Reiche
 Georg Pitsch
 Georg Pitsch
 Georg Ehlige
 Christoph Franz
-Georg Kühn
-Georg Kurbold
-Andreas Sahler?
+Georg Kühne
+Georg Knebel
+Andreas Sattler
 Georg Landmann
-Georg Ramisch
+Georg Rarisch
 Paul Müller
 Hans Ludwig
 Christoph Nichtwitz
-Georg Ganßauge
-Hans Schmugerh?
-Lorenz Fritzsch
-Georg Faust
-Georg Scheman
+Gregor Ganßauge
+Hans Schwegerchen
+Lorenz Fritzsche
+----------------
+Gregor Faust
+Georg Sohrmann
 Peter Faust
 Barthel Franz
 Georg Valtin
@@ -590,20 +847,21 @@ Martin Hennig
 Hans Winkler
 Michael Ganßauge
 Martin Mögel
-Simon Rätgund
-Martin Reuhe?
-Christoph Müller
+Simon Rätgen
+Martin Reiche
+Christoph Mülberg
 Martin Mahn
 Andres Fickler
 Hans Winkler
 Michael Rüdiger
-Peter Tarol?
+Peter Jacob
+----------------
 1615
 Peter Andrie
-Michael Genußgrund
+Michael Genußgen
 Steffan Ganßauge
 Andreas Findeler
-Christoph Kloß
+Christoph Floß
 Martin Nitzsch
 Hans Fritzsch
 Martin Irmer
@@ -611,12 +869,13 @@ Caspar Fehrmann
 Peter Zscheile
 Martin Brendel
 Paul Gral
-Georg Oriß
+Gregor Oriß
 Jacob Fehrman
+----------------
 Georg Pennisch
-Lorenz Adan
+Lorenz Adam
 Mathes Leuderitz
-Hans Steurer
+Hans Stencker
 Georg Andrie
 Georg Leuderitz
 Georg Andrie
@@ -628,79 +887,84 @@ Martin Winkler
 Michael Faust
 Barthel Tegel
 Michael Ehlig
+----------------
 Georg Fickler
 Martin Merbitz
 Georg Greber
 Caspar Tränkner
-Georg Goltz
+Georg Goltzsche
 Martin Merbitz
 Martin Peltz
 Steffan Götze
-Peter Ermund
+Peter Freund
 Peter Andrie
 Christoph Patz
-Mathes Ehrmund
+Mathes Fheund
 Peter Pitzsch
-Christoph Zobold
+Christoph Zobol
 Andreas Zscheile
 Georg Hempel
 Blasius Brendel
-Peter Eindel
+Peter Fiedeler
+----------------
 Christoph Franz
 1617
 Peter Ludwig
 Georg Porisch
-Martin Fehrmann
+Martin Fuhrmann
 Bastian Pitzsch
-Christoph Valter
-Georg Pitsch
+Christoph Vetter
+Gregor Pitsch
 Christoph Bahrt
 Georg Sohrman
 Hans Fehrman
-Georg Henkel
+Georg Heckel
 Martin Müller
 Caspar Borisch
 Martin Finger
 Caspar Winkler
+----------------
 Michael Tegel
 Georg Fickler
-Peter Rotzsch
-Donat Perzel
-Martin Ludwig
+Peter Retzsch
+Donat Pretzel
+Martin Leuteritz
 Martin Pitzsch
-Georg Schrammler
+Georg Schrempler
 Christoph Sohrman
 Peter Pitzsch
 1618
 Caspar Pitzsch
-Georg Zoft
+Georg Jost
 Georg Finger
 Andreas Peterman
-Franz Breuer
+Franz Beyer
 Martin Dorn
-Martin grosch
+Martin Groschr
 Jacob Hildebrand
-Peter Breuer
-Georg Breuer
+----------------
+Peter Beyer
+Georg Beyer
 Thomas Götze
 Hans Palitzsch
-Martin Leipart
+Martin Leipert
 Thomas Götze
-Martin Kahlschind
-Georg Leuderitz
+Martin Kahlschmiede
+Georg Ludwig
 Caspar Gladewitz
 Andreas Peterman
 Martin Paz
 Georg Pitzsch
 Peter Blanßdorf
-Barthel Pfiescher
-Georg Winer
+Barthel Pfirscher
+Georg Ulman
 Peter Andrie
 Georg Patz
-Max Klau
+Marx Ulman
+----------------
 Hans Gladewitz
 Jacob Fritzsch
-Hans Kestman
+Hans Kestner
 Peter Valtin
 Peter Nauman
 Thomas Simon
@@ -709,35 +973,37 @@ Peter Patz
 Peter Maul
 Martin Faust
 Georg Eliger
-Mathes Hentschel
+Mathes Heuntschel
 Paul Vogel
 Valtin Hertel
-Hans Schistel
-Merten Maurer
+Hans Schiffel
+Merten Meurer
 Barthel Hendel
-Michel Jacobi
-Donat Schumann
+Michel Jacob
+Donat Sohrmann
+----------------
 Martin Hecht
-Georg Fehrmann
+Gregor Fehrmann
 Peter Ehliger
 Martin Pitzsch
 Michael Felber
 Hans Faust
 Georg Fuhrmann
-Hans Schimmer
+Hans Schirmer
 Martin Valtin
-Simon Müller
-Michael Rauhe
+Simon Mülberg
+Michael Reiche
 Michael Pitzsch
-Martin Lehser
+Martin Lohse
 Georg Franz
 Jacob Maurer
 1620
 Thomas Schramm
 Georg Ludwig
+----------------
 Hans Heller
 Hans Floß
-Georg Faust
+Gregor Faust
 Donat Sohrman
 Caspar Günther
 Jacob Patzig
@@ -753,7 +1019,8 @@ Georg Fehrman
 Hans Freund
 1621
 Georg Winkler
-Hans Thammer
+Hans Thamme
+----------------
 Georg Rauchfuß
 Wenzel Pietzsch
 Hans Merbitz
@@ -761,41 +1028,44 @@ Mathes Dietrich
 Martin Ludwig
 Paul Pitzsch
 Michel Klügel
-Georg Eliger
+Georg Eligen
 Hans Valtin
 Blasius Hennig
+Peter Ludwig
 Hans Groß
 Barthel Steinbrecher
 Hans Weiner
 Georg Köhler
 Mathes Angermann
-Hans Beyer
+Hans Begen
 Nicol Palitzsch
 Peter Mahn
 Christoph Pitzsch
+----------------
 Georg Pitzsch
 1622
-Georg Weiß
-Martin Franz 
+Georg Weise
+Martin Franz
 Georg Schneider
-Georg Knebel
-Nickel Hennig
+Gregor Knebel
+Martin Henniche
 Georg Faust
 Peter Andrie
 Christoph Blanßdorf
 Georg Zirold
 Paul Andrie
 Jacob Potscher
-Georg Paz
+Georg Patz
 Georg Pitzsch
-Georg Nack
+Gregor Nack
+----------------
 1623
 Martin Merbitz
 Georg John
-Michael Lackschneider
+Michael Leckscheide
 Wenzel Winkler
 Martin Pitzsch
-Peter Patzsch
+Peter Pötsch?
 Caspar Fehrmann
 Mathes Schubert
 Jacob Müller
@@ -803,33 +1073,35 @@ Georg Müller
 Hans Ehrlich
 Jacob Dietze
 Hans Henker
-Barthel Borner
+Barthel Bormann
 Georg Pitzsch
-Georg Kelbey
+Georg Freund
+----------------
 Georg Valtin
 Michael Winkler
-Andreas Schstuch
+Andreas Schittich
 Lorenz Diedrich
 Martin Fehrmann
 Andreas Fickler
-Georg Götz
+Gregor Götze
 Lorenz Patzsch
 Hans Dieze
-Lorenz Peterman
+Lorenz Pietzsch
 Barthel Müller
 1624
 Georg Pitzsch
-Hermann Fickler
-Martin Kamm
-Dominic Knau
+Hans Fickler
+Martin Kommer
+Dominic Knaute
 Hans Richter
 Martin Müller
 Georg Pitzsch
+----------------
 Peter Pauschel
 Martin Winkler
 Hermann Merbitz
 Martin Maurer
-Georg Beyer
+Gregor Beyer
 Martin Müller
 Jacob Melzer
 Martin Andrie
@@ -841,30 +1113,32 @@ Michael Beyer
 Hans Fehrmann
 Georg Beudner
 Balthasar Haman
-Jacob Padscher
+Jacob Potscher
 Simon Adam
 Georg Dieze
-Balthasar Schuster
+Balthasar Schittich
 Caspar Fickler
+----------------
 Georg Freund
 1625
 Martin Graupitz
 Andreas Merbitz
 Hans Andrie
 Nickel Mentzel
-Georg Rätig
+Gregor Rätig
 Georg Merbitz
-Georg Karaß
+Georg Kareß
 Georg Pitzsch
-Mathes Jacobi
+Mathes Jacob
 Hans Müller
 Christoph Winkler
-Wenzel Vestersch?
+Wenzel Veterschen
 Michael Fehrmann
 Michael Jacob
 Martin Heller
 Georg Fickler
 Jacob Rudolf
+----------------
 Martin Kareß
 Hans Floß
 Lorenz Winkler
@@ -874,68 +1148,72 @@ Georg Hennig
 Simon Freund
 Caspar Pitzsch
 Hans Winkler
-Georg Konner
-Anthon Pfritzsch
+Georg Kommer
+Anthon Pfeiffer
 Mathes Müller
 Hans Peterman
 Georg Brendel
 Mathes John
 Martin Köler
+----------------
 1626
 Caspar Schröter
 Thomas Winkler
-Georg Henker
+Georg Heckel
 Michael Bürger
-Martin Kaul
+Martin Kaule
 Georg Ludwig
 Georg Patz
-Nickel Rotzsch
+Nickel Retsch
 Jacob Müller
 Caspar Beuchel
 Hans Hildebrand
 Mathes Baumgarten
 Georg Fehrmann
-Max Pitzsch
+Marx Pitzsch
 Andreas Fickler
 Benno Fehrmann
+----------------
 Martin Richter
 Andreas Winkler
 Georg Schröter
 Jacob Fehrman
 Donat Pitzsch
 Martin Pitzsch
-Thomas Götz
+Thomas Götze
 Hans Beyer
 1627
 Georg Ludwig
 Peter Brendel
-Georg Kurbel
-Hans Bahles
+Georg Knebel
+Hans Bahlen?
 Michael Fehrmann
 Peter Klemm
 Merten Faust
 Balthasar Pfeiffer
-Georg Borßberg
+----------------
+Georg Borßberger
 Georg Fehrman
 Martin Nitzsche
-Johann Ote
+Johann Otto
 Jacob Pitzsch
 Nickel Freund
-Georg Christoph 
+Georg Patz
 Paul John
 Georg Grale
 Georg Pazs
 Andreas Förster
 Georg Franz
-Georg Hentschuch
+Gregor Hertschuch
 Peter Kretschmar
-Georg Pitzsch
-Hans Paz
+Gregor Pitzsch
+Hans Patz
 David Winkler
 Balthasar Pitzsch
 Georg Wustlich
+----------------
 1628
-Michel Schituch
+Michel Schittich
 Thomas Burckhard
 Georg Valtin
 Hans Pitzsch
@@ -945,17 +1223,18 @@ Georg Hennig
 Caspar Franz
 Martin Fehrmann
 Christoph Jost
-Hans Pezold
+Hans Prezel
 Hans Fehrmann
 Hans Palitzsch
 Hans Eger
 Georg Pitzsch
 Wenzel Beuchel
-Georg Grundamann
+Georg Grundmann
+----------------
 Georg Pitzsch
 Andreas Peterman
 Georg Winkler
-Georg Beger
+Georg Begen
 Jacob Bormann
 Georg Beyer
 Georg Franz
@@ -965,17 +1244,18 @@ Andreas Schröter
 Christoph Ludwig
 Hans Nake
 Balthasar Schneider
-Michael Haltberger
+Michael Halstberger
 Peter Ehliger
 Georg Wahner
 Georg Steinbrecher
+----------------
 Michael Kirchner
-Jacob Döring
+Jacob Göring
 Georg Dieze
 Christoph Müller
 Andreas Patzig
 Georg Winkler
-Martin Hentschuch
+Martin Hertschuch
 Lorenz Müller
 Peter Pitzsch
 Hans Adam
@@ -986,20 +1266,21 @@ Andreas Pitzsch
 Peter Borisch
 Martin Winkler
 Hans Gladewitz
-Martin Patzscher
+Martin Potscher
 Peter Schumann
-Barthel Hünnicher
-Merten Fehrmann
+Barthel Hünnichen
+Merten Fuhrmann
+----------------
 Hans Kürbiß
 Mathes Schütz
 Christoph Zobel
 Martin Hennig
 Michael Zscheile
-Jacob Hauptmann
+Jacob Heuptmann
 Merten Andrie
 Michael Ganßauge
 Martin Bernhard
-Georg Fehrmann
+Georg Fuhrmann
 Merten Pitzsch
 Georg Schulze
 Dominic Eber
@@ -1010,48 +1291,52 @@ Paul Dieze
 Georg Müller
 Georg Andrie
 Georg Valtin
+----------------
 1631
 Georg Klügel
 Hans Winkler
 Barthel Ehlig
 Merten Lange
 Georg Kareß
-Georg Parisch
+Georg Porisch
 Merten Pitzsch
 Jacob Andrie
-Peter Kalschmid
-Georg Paz
+Peter Kaldschmid
+Georg Patz
 Georg Winkler
 Michael Weise
 Georg Kretschmar
 Mathes Hentsche
-Jacob Kheschuh?
-Mathes Hentschel
+Jacob Rheschuch?
+Mathes Heuntschel
 Georg Kalde
-Georg Valtin
-Andreas Deltsche
-Caspar Dehßel
+Gregor Valtin
+Andreas Patz
+----------------
+Caspar Dachßel
 1632
-Lorenz Hentschel
-Georg Faust
+Lorenz Hertschuch
+Gregor Faust
 Georg Förster
 Hans Pitzsch
 Hans Ehliger
 Nickel Pause
-Zacharid Wachsmuth
+Zacharias Wachsmuth
 Martin Fehrmann
 Georg Nauman
 Hans Schröter
 Henrich Seyfried
+Gregor Schöffel
 Hans Heck
-Veit Hostner
+Veit Hoffmann
 Georg Claß
 Mathes Schönweiß
+----------------
 Georg Wendt
-Mathes Franek
-Nokolaus Jünger
+Mathes Franck
+Nicol Jünger
 Hans Dacher
-Heinrich Kühn
+Heinrich Kühne
 Peter Ganßauge
 Michael Beyer
 Caspar Trenkner
@@ -1060,109 +1345,119 @@ Jacob Hauptvogel
 Georg Borisch
 Caspar Kretschmar
 Barthel Fehrmann
-Nickel Rutzsch
+Nickel Retsch
 Hans Schrempeler
 Georg Penisch
 Georg Wustlich
-Merten Hauptvogel
-Hans Krebel
-Hans Sehnerde?
-Christoph Türede?
-Georg Wolfsren?
+----------------
+Merten Heuptvogel
+Hans Knebel
+Hans Schwerden?
+Christoph Türcke?
+Georg Wolfram
 Georg Fickler
-Hans Paz
+Hans Patz
 Mathes Dietrich
-Jeremias Seho?
-Barthel Hennich
+Jeremias Schon
+Barthel Hünichen
 Christoph Braun
-Michael Spanenberg?
+Michael Spangenberg
 Elias Steinbrecher
-Hans Giemeße?
+Hans Girmeß?
 Hans Bartholomes
-Peter Pazsch
+Peter Patz?
 Barthel Kareß
-Friedrich Legel?
+----------------
+Friedrich Legeler
 Christoph Wolf
 Georg Hantsch
 Elisa Zimmerman
 Merten Lohse
-1634
-Nickel Helig
-Barthel Keßel
-Nickel Walther
-Nickel Tegel
-Caspar Kluge
-Georg Nürnder
-Hans Maul
-Caspar Fickler
-Valtin Heller
-Jacob Müller
-Andreas Winkler
-Barthel Fehrmann
-Johann Landeis
-Caspar Thammer
-Georg Schröter
-Paul Müller
+1634 [Teil 1]
+Nickel Helwig
+1636 [Teil 1]
+Merten Winkler
+Georg Merbitz
+Wenzel Friedrich
+Brosius Beudener
+Georg Müller
+Merten Spehrhacke
+Hans Winkler
 Peter Pitzsch
-Georg Weise
-Nickel Schumann
-Jacob Raucht
+Caspar Müller
+Johann Baue?
+----------------
+Jacob Müller
+Hans Palitsch
+Georg Winkler
+Merten Rost
+1637 [Teil 1]
+Michael Schittich
+Hans Kretschmar
+Georg Freund
+Martin Steffen
+Georg Bormann
+1634 [Teil 2]
 Peter Keriß
 Jacob Fritzsch
 Caspar Fickler
 Andreas Ehliger
-Hans Wodenazki
+Hans Wodewatzki
 Donat Sohrmann
 Merten Pitzsch
 Georg Kretschmar
 Hans Petermann
-Jacob Schramler?
+Jacob Schrempeler
+----------------
 Steffan Andrie
 Merten Bürger
 Christoph Jost
-Jacob Thym
+Jacob Thyme
 Christoph Merten
 Caspar Franz
-Georg Loze
+Georg Lotze
 Nickel Fehrman
-Merten Kestmer
+Merten Kestner
 Paul Schröter
 Christoph Winkler
 Balthasar Haman
 Michael Schmid
 Hans Mahn
-Hans Henscheld
-Peter Klamm
-Christoph Hennich
+Hans Hauschild
+Peter Klemme
+Christoph Hünichen
 David Winkler
-Jacob Döring
-Hans Schuster
+Jacob Göring
+Hans Richter
+----------------
 Michael Stange
-Georg Paz
+Georg Patz
 Hans Böhme
-Andreas Thüne
+Andreas Thurm
 Peter Ganßauge
+Hans Pietzsch
 Mathes Fleischer
 Merten Ludwig
 Merten Hertschuch
-Hans Thalhenn
+Hans Thalheim
 Andreas Zscheile
 Georg Kalde
 Merten Merbitz
 Michel Faust
-Mathes Henker
+Mathes Hencker
 Merten Hennig
 Merger Bürger
 Georg Bachman
 Peter Alt
-Balthasar Goldma
+Balthasar Goldman
+----------------
 Martin Winkler
 Martin Franz
 Georg Fehrmann
 1635
 Georg Naumann
 Michael Pitzsch
-Mathes Kind
+Mathes Kund
 Georg Wustlich
 Georg Fehrmann
 Georg Beyer
@@ -1171,70 +1466,77 @@ Barthel Pitzsch
 Georg Blaurhut
 Hans Freund
 Bastian Hanitzsch
-Johann Borckman
-Caspar Findler
+Johann Bockelman?
+Caspar Fickler?
+----------------
 Hans Tegel
 Lorenz Winkler
 Georg Götz
 Georg Freund
 Merten John
-Caspar Pitzsch
+Caspar Irmer
+Bastian Pitzsch
 Georg John
-Martin Heniche?
+Martin Hünichen
+Peter  Müller
 Christoph Fickler
 Donat Patz
-Georg Tischer
-Jacob Findler
+Georg Tischner
+Jacob Fiedeler
 Blasius Winkler
 Georg Fehrmann
 Georg Pitzsch
 Merten Andrie
 Donat Rudolf
+----------------
 Caspar Fickler
 Georg Merbitz
 Georg Pitzsch
 Michel Ludwig
 Georg Fickler
-Hans Hempel
+Hans Haman?
 Merten Müller
-1636
+1636 [Teil 2]
 Georg Fickler
 Peter Grale
 Nicol Müller
 Hans Zscheile
 Bastian Müller
-Caspar Udolsch?
+Caspar Udolf
 Lorenz Winkler
 Melchior Pfeiffer
-Thomas Belmer
+----------------
+Thomas Belman
 Hans Beudner
-Georg Palz
-Merten Velter?
+Georg Peltz
+Merten Vetter
 Merten Valtin
-Paul Sinid
+Paul Sinis
 Barthel Schulz
 Hans Pilich
-Hans Richter
-Merten Winkler
-Georg Merbitz
-Wenzel Friedrich
-Brosius Bendner
-Georg Müller
-Merten Spehrharde?
-Hans Winkler
-Peter Pitzsch
-Caspar Müller
-Johann Bade?
+Hans Begen
+1634 [Teil 3]
+Barthel Keßeler
+Nickel Walther
+Nickel Tegel
+Caspar Kluge
+Georg Nürnder
+Hans Maul
+Caspar Fickler
+Valtin Heller
 Jacob Müller
-Hans Palitsch
-Georg Winkler
-Merten Rast
-1637
-Michael Schulze?
-Hans Kretschmar
-Georg Freund
-Martin Steffen
-Georg Bormann
+----------------
+Andreas Winkler
+Barthel Fehrmann
+Johann Landeisen
+Caspar Thamme
+Georg Schröter
+Paul Müller
+Peter Pitzsch
+Georg Weise
+Michael? Schumann
+Jacob Ranft
+1637 [Teil 2]
 Andreas Zeilig
 Georg Naumann
 Hans Rülcker
@@ -1244,61 +1546,65 @@ Hans Hauptvogel
 Hans Kundt
 Martin Pitzsch
 Caspar Simon
-Christoph Graßheft?
+Christoph Graßhoff
+----------------
 Peter Schmid
 Andreas Werner
 Merten Kretschmar
 Caspar Trenker
-Lorenz Rudel
+Lorenz Riedel
 Hans Müller
-Andreas Rethe
+Andreas Rothe
 Michael König
 Georg Beyer
 Mshtes Culth?
-Hans Heug?
-Nikolaus Schlager
+Hans Haugk
+Nicol Schlage
 Hans Eger
-Dominic Muy?
+Dominic Eber
 Hans Kleinschmidt
 Jacob Naumann
-Merten Böhman
-1638
-Christoph Jung
-Mathes Ludwig
+Merten Böhme
+----------------
+1638 [Teil 1]
+Christoph Junge
+Mathes Andrie
 Merten Zscheile
-Georg Leudel
+Georg Hendel
 Merten Müller
 Merten Lehmann
-Peter Lehmann
-Peter Schuffel
+Peter Hofemann
+Peter Schiffel
 Donat Beudner
 Donat Rudolf
 Hans Zöller
-Heinrich Valther
-Urban Vellnath?
-Lucas Zugel
-Christoph Merte?
-Hans Dirn
+Heinrich Vetter
+Urban Vollrath
+Lucas Ziegeler
+Christoph Mente
+Hans Diene
+----------------
 Thomas Wehlich
 Thomas Schmidt
 Wolf Meißner
 Hans Hase
-Hans Feldner
-Daniel Gebauer?
-Philip Hüner
+Hans Feldman
+Daniel Gebauer
+Philip Heinrich Hüner
 Martin Kund
 Peter Faust
 Andreas Barthe
-Christoph Klemm
-Georg Zenker?
+Christoph Klemme
+Georg Trencker
 Jacob Fehrmann
 Georg Dieze
 Andreas Thimme
 Hans Große
 Peter Naumann
+----------------
 Merten Angermann
-Andreas Reuhe?
-Merten Klamm
+Andreas Reiche
+Merten Klemme
 Caspar Dietrich
 Peter Irmer
 Benedig Trache
@@ -1307,66 +1613,72 @@ Jacob Naumann
 Peter Andrie
 Heinrich Ploßbach
 Barthel Schulz
-Paul Nehs?
+Paul Nehse
 Hans Gladwitz
 Merten Bahrt
 Hans Schuman
-Hans Rohman
-Georg Weißle?
+Hans Rehman?
+Georg Weißhan?
 1639
-Martin Miebeß
+Martin Miebeß?
+----------------
 Georg Pitzsch
-Christoph Valter
-Martin Heniche
+Christoph Vetter
+Martin Hünichen
 Wenzel Andrie
 Jacob Fickler
 Georg Dieze
 Martin Schulz
-Bastial Müller
+Bastian Müller
 Jacob Winkler
 Martin Winkler
-Hans Welsche?
-1640
+Hans Melplack?
+1640 [Teil 1]
 Georg Hendel
 Lorenz Zscheile
 Georg Dietrich
 Georg Winkler
 Hans Schulz
 Hans Mahn
+----------------
+1638 [Teil 2]
 Peter Pitzsch
 Nickel Götz
 Barthel Schulz
+1640 [Teil 2]
 Barthel Trache
 Georg Diedrich
-Johann M. Eber
+Dominic? Eber
 Hans Zscheile
 Jost Köler
-Caspar Kindt
+Caspar Kundt
 Peter Keulig
 Georg Schröter
-Georg Vdelsch?
+Georg Vdolph
 Hans Landmann
 Peter Andrie
+----------------
 Georg Fehrmann
-Andreas Götz
+Andreas Götze
 Merten Kirchner
 Mathes Schütz
 1641
-Georg Berner
+Georg Bormann
 Georg Winkler
 Caspar Glaser
-Georg Recher
+Georg Reiche
 Georg Brendel
 Georg Müllberg
-Martin Büthner
+Martin Büttner
 Michael Tegel
 Jacob Tegel
-Bastial Steinbrecher
+Bastian Steinbrecher
 Andreas Fickler
+----------------
 Martin Rauchfuß
-Baltasar Specheler
-Mathes Mos?
-Hans Hentschel
+Baltasar Spehrhacke?
+Mathes Mosis?
+Hans Hertschuch
 Michael Schirmer
 Michel Faust
 Hans Greupitz
@@ -1378,13 +1690,14 @@ Martin Fehrmann
 Georg Faust
 Georg Leuwitz
 Paul Müller
+----------------
 Caspar Simon
-Barthel Kerisch
+Barthel Karisch
 Georg Peterman
-Georg Derß
-Martin Böhman
+Gregor Oreß
+Martin Böhme
 Peter Maul
-Christoph Borsch
+Christoph Borisch
 Georg Schneider
 Georg Gärtner
 Mathes Ulbricht
@@ -1393,21 +1706,23 @@ Hans Zscheile
 Georg Dietrich
 Hans Cobert
 Martin Köler
+----------------
 Baltasar Dittrich
 Andreas Schulz
 Jacob Findler
-Hans Richter
-Michael Musterich
-Hans Findler
-Georg Reicher
-Georg Findler
+Hans Tietze
+Michael Musterrich
+Hans Fickler
+Georg Reiche
+Georg Fickler
 Paul Kretschmar
 1643
 Georg Winkler
 Georg Pitzsch
-Andreas Paz
+Andreas Patz
 Blasius Fehrmann
 Andreas Fickler
+----------------
 Hans Berger
 Hans Wustlich
 Peter Ludwig
@@ -1419,98 +1734,122 @@ Peter Bahrt
 Hans Rühl
 Hans Gladwitz
 Caspar Merbitz
-Georg Sebal
+Georg Sebald
 1644
 Martin Ludwig
 Jacob Fickler
+----------------
 Barthel Franz
 Martin Merbitz
 Hans Schulz
 Mathes Ludwig
 Christoph Borisch
 Jacob Winkler
-Caspar Kindt
+Caspar Kundt
 Martin Hillig
 Georg Dieze
 Martin Hauswald
 Georg Bormann
 Martin Schirmer
 Georg Zscheile
-Martin Nitsch
+Martin Nitsche
 Martin Große
-Michael Sormann?
-Georg Seber
+Michael Bormann
+Georg Heber
+----------------
 Georg Winkler
 Paul Winkler
 Georg Kretschmar
 Martin Kolßdorf
 Merten Knebel?
 Benedig Heyer
-Hans Gießmann
-Hans Ludwig
+Hans Großmann
+Hans Hennig
 Dominic Eber
-Lorenz Paz
-Hans Rüchel?
+Lorenz Patz
+Hans Rüssel
 Georg Zscheile
 1645
 Christoph Angermann
 Nickel Barthel
+----------------
 Georg Borisch
 Hans Dieze
 Thomas Hennig
-Andreas Mithag
+Andreas Mittag
 Georg Jost
 Merten Winkler
 Caspar Winkler
 Merten Zscheile
-Paul Lauz
-Georg Gresche?
+Paul Mintzel?
+Georg Gentsche?
 Michel Pitzsch
 Hans Winkler
 Jacob Gladwitz
-Georg Henkel
+Georg Heckel
 Georg Glatwitz
 Georg Porisch
+----------------
 1646
-Christoph Tietrich
+Christoph Ditrich
 Hans Hillig
+Georg Merten
 Georg Pitzsch
 Michael Kretschmar
-Jacob Meinert?
-Martin Groß
+Jacob Meinert
+Martin Potscher
 Martin Mußer
 Hans Große
 Peter Irmer
-Merten Beuner
+Merten Beuner?
 Christoph Wagner
-Georg Gike?
-Michael Rauff
+Georg Geke?
+Michael Ranft
 Michael Clauß
-Merten Maul
+Merten Clauß
+----------------
+Martin Maul
 Georg Franz
 Georg Müller
 Hans Faust
 Paul Dieze
 Andreas Freund
-1647
-Jacob Hark
+1647 [Teil 1]
+Jacob Heck?
 Christoph Förster
-Martin Valter
+Martin Vetter
 Paul Pitsch
-Jeremias Leffel?
+Jeremias Löffel
 Hans Fehrmann
-Martin Ludwig
-Georg Fickler?
+----------------
+Martin Leuteritz
+Georg Fickler
 Georg Valtin
-Georg Liche?
-Georg Schuster
+Georg Huhn?
+Georg Dietze
 Martin Winkler
-Valentin Niehet?
+----------------
+----------------
+1548
+Paul Hennig
+Thomas Bahrt
+Joseph Ludwig
+Stephan Dietze
+Martin Bahrt
+----------------
+Peter Dietze
+Paul Petermann
+Peter Melich
+Paul Schröter
+Georg Kleinstein
+1647 [Teil 2]
+Valentin Niehrt?
+----------------
 Georg Dieze
 Christoph Pitzsch
 Lorenz Schuman
 Martin Franz
 Georg Sohrman
 Paul Pitzsch
-Georg Reger?
+Georg Reger
 Peter Naumann

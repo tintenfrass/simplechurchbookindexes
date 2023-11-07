@@ -3,7 +3,6 @@ Trauungen 1584-1700
 https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=282512
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
-
 Die meisten Vornamen und einige Nachnamen wurden über Shortcuts erstellt. Dabei wurden ähnliche Namen bzw. verschiedene Schreibweisen auf den gleichen Shortcut gelegt. Dadurch enthält diese Liste aber auch Ungenauigkeiten und Fehltranskription, die man beachten muss.
 
 Bsp:
@@ -21,7 +20,7 @@ Besonders viele Nachnamen sind schwer lesbar, unsicher und fehltranskribiert.
 
 Erstellt in ca. 6 Stunden
 Mai 2021
-tintenfrass@gmx.de 
+https://github.com/tintenfrass/simplechurchbookindexes 
 
 
 1584

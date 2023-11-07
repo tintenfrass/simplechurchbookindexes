@@ -5,8 +5,7 @@ https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=263412
 (Plauen bei Dresden)
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
-
-Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
+Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 Hinweis:
@@ -19,7 +18,7 @@ Februar 2023
 Mai 2023
 Juni 2023
 August 2023
-tintenfrass@gmx.de
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 

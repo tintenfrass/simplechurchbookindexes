@@ -3,7 +3,7 @@ Trauungen 1669-1775
 https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=280069
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
-Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
+Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Hinweis:
 Die ersten 6 Trauungen von 1688-1691 stammen von einem Blatt ganz vorne im Kirchenbuch, welches die Trauungen von Klotzsche enthält und hier falsch eingebunden wurde.
@@ -13,7 +13,7 @@ Erstellt in ca. 1,5 Stunden
 Januar 2023
 Februar 2023
 Mai 2023
-tintenfrass@gmx.de
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 

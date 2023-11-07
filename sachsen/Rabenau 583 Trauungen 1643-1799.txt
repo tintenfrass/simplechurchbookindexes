@@ -3,12 +3,12 @@ Trauungen 1643-1799
 https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305587
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
-Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
+Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
 Erstellt in ca. 3 Stunden
 August 2023
-tintenfrass@gmx.de
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 

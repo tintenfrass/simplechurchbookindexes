@@ -3,16 +3,15 @@ Trauungen 1638-1760
 https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=282597
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
-
 Das Kirchenbuch hat ein Register, welches für diesen Index genutzt wurde.
 
-Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
+Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
 Erstellt in ca. 4 Stunden
 Juni 2022
 Februar 2023
-tintenfrass@gmx.de
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 

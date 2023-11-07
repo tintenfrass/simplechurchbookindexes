@@ -1,18 +1,20 @@
 Bloßwitz (Buch 2)
 Trauungen 1665-1727
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=281024
+https://www.archion.de/de/viewer/churchRegister/281024?pageId=38767139
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
-Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
+Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
 Erstellt in ca. 1 Stunde
 September 2023
-tintenfrass@gmx.de
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+
+---------------- x3
 1691
 Christoph Friedrich Glaser
 Michael Friedrich

@@ -3,13 +3,11 @@ Trauungen 1686-1799
 https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=264671
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
-
-
 Januar 2023
 Februar 2023
 Mai 2023
 August 2023
-tintenfrass@gmx.de
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 

@@ -1,17 +1,18 @@
 Bloßwitz (Buch 3)
 Trauungen 1727-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=281025
+https://www.archion.de/de/viewer/churchRegister/281025?pageId=38767210
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
-Durch Shortcuts und Autovervollständigung entspricht die Schreibweise der Namen nicht immer der Schreibweise im Buch.
+Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 2,5 Stunde
+Erstellt in ca. 2,5 Stunden
 September 2023
-tintenfrass@gmx.de
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x187
 1727
 Thomas Pochmann
 Christian Schob
@@ -1055,9 +1056,7 @@ Christian Gottlieb May
 ----------------
 Johann Gottfried Kayser?
 Gottlieb Siegmund Fuhrmann
-----------------
-...
-----------------
+---------------- x157
 1793
 Johann Christian Haberecht
 Gottfried Schultz

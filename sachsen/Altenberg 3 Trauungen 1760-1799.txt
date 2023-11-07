@@ -1,6 +1,6 @@
 Altenberg (Buch 3)
 Trauungen 1760-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294113
+https://www.archion.de/de/viewer/churchRegister/294113?pageId=40847233
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -8,10 +8,11 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Erstellt in ca. 1,5 Stunden
 Oktober 2023
-tintenfrass@gmx.de
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1760
 Adolph Hirrn
 Johann Daniel Qverner
@@ -476,7 +477,6 @@ Carl Gottfried Boden
 Johann Gotthelf Langhammer
 Christian Friedrich Köhler
 Carl Gottlieb? Ölschlegel
-.
 Gotthelf Schwedler
 Johann Christian Fischer
 Johann Christian Friedrich Blose?
@@ -561,6 +561,7 @@ Carl Christoph Walther
 Carl August Boden
 Gotthelf Benjamin Strasberger
 1799
+----------------
 Gotthelf Siegmund Kürzendörfer
 Friedrich Gottlieb Graube
 Christian Gottfried Nicolai
