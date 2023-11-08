@@ -1,6 +1,6 @@
 Burkersdorf (Buch 40)
 Trauungen 1682-1778
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294142
+https://www.archion.de/de/viewer/churchRegister/294142?pageId=40851861
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,18 +13,63 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x229
 1682
 Caspar Bernd
 Christoph Poster?
 1683
 Hans H?
 Martin ?
-1684
 Martin Lippmann
 Christoph Bernd
-1685
 Georg ?
 ?
+----------------
+1684
+Daniel Schmidt
+Caspar Bernhard
+Christoph Hempel
+1685
+1686
+Martin ?
+Michael Weinelt?
+? ?
+Christoph Sch?
+Georg Schubert
+Christoph Beuchel
+Georg Weichelt
+Christoph Goldmann
+Christoph Walther
+1687
+Christian Wetzel
+1688
+Georg Lose
+Martin Wolf
+1689
+Michael Drechsler
+1690
+Gottfried Schmieder
+Georg Göpfert
+Georg? Scheinpflug
+----------------
+Christoph Böttger
+Abraham Henel
+1691
+Gottfried Walther
+Gottfried Tanneberg?
+1692
+Michael ?
+? ?
+Johann Enel?
+Christian Wetzel
+1693
+? Köhler
+Georg Hoffmann
+Mattheus Pantzner
+Martin Köhler
+Wolfgang Richter
+Samuel Goldmann
+Gottfried Hentzelmann
 ----------------
 1693
 Tobias Renckewiz
@@ -622,6 +667,9 @@ Johann G? Schmieder
 Johann Christoph Böhme
 Johann Andreas Horn
 ----------------
+----------------
+----------------
+----------------
 Johann Georg Hoffmann
 Johann Gottfried Walther
 1749
@@ -905,6 +953,8 @@ Johann Gottfried Bernhard
 Johann Georg Böhme
 ?
 ----------------
+----------------
+----------------
 1773
 Johann Gottfried Görbitz
 Johann Gottfried Erler
@@ -971,6 +1021,7 @@ Carl Gottlieb Frunckert?
 Johann Gottfried Schüller
 Johann Gottfried Wolf
 Johann Georg Andreas
+----------------
 ----------------
 Johann Georg Oehmen
 Johann Friedrich Kretzschmer

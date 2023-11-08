@@ -1,6 +1,6 @@
 Brockwitz (Buch 2)
 Trauungen 1799-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=281037
+https://www.archion.de/de/viewer/churchRegister/281037?pageId=38770588
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x11
 1799
 Johann Gottlieb Mahnert
 Johann Christian Hermann
@@ -30,4 +31,3 @@ Johann Heinrich Winter
 Johann Georg Natisch
 Johann Gottlob Beger
 Gottlob Beger
-----------------
