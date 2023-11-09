@@ -1,6 +1,6 @@
 Dresden Annenkirche (Buch 10)
 Trauungen 1721-1774
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=260506
+https://www.archion.de/de/viewer/churchRegister/260506?pageId=36152602
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -14,6 +14,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x4
 1721
 Gottlob Zischke
 Johann Güttner
@@ -4836,4 +4837,3 @@ Christian Friedrich Köchel
 Carl Gottlob Freudenberg
 Johann Christian Egidius Hoffmann
 Johann Gottfried Grahl
-----------------

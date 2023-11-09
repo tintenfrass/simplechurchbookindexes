@@ -1,6 +1,6 @@
 Dresden Annenkirche (Buch 1)
 Trauungen 1604-1661
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=254942
+https://www.archion.de/de/viewer/churchRegister/254942?pageId=36127488
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x5
 1605
 Ulrich Peter
 Johann-Georg Kuhne?
@@ -1408,6 +1409,7 @@ Willewald? Leisemeuer?
 Georg Lipsch
 Michael Hanitzsch
 Christian Kornmarckt
+----------------
 1644
 Heinrich Scheler
 Balthasar Kunze

@@ -1,6 +1,6 @@
 Dresden Dreikönigskirche (Buch 128)
 Trauungen 1770-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=263320
+https://www.archion.de/de/viewer/churchRegister/263320?pageId=36723253
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1770
 Johann Gottlieb Karich
 Christoph Müller
@@ -2237,4 +2238,3 @@ Johann Adam Schädlich
 Johann Friedrich August Praeror
 Johann Friedrich Schröter
 Gottfried Benjamin Zeinert
-----------------

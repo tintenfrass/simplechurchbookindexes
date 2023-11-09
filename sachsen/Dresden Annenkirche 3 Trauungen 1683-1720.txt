@@ -1,6 +1,6 @@
 Dresden Annenkirche (Buch 3)
 Trauungen 1683-1720
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=260499
+https://www.archion.de/de/viewer/churchRegister/260499?pageId=36127943
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -14,6 +14,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x5
 1683
 David Galle
 Georg Frentzel

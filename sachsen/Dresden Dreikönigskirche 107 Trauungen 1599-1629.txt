@@ -1,6 +1,7 @@
 Dresden Dreikönigskirche (Buch 107)
 Trauungen 1599-1629
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=263299
+https://www.archion.de/de/viewer/churchRegister/263405?pageId=36746546
+https://www.archion.de/de/viewer/churchRegister/263299
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -15,6 +16,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x18
 1599
 Hans Bartel
 Christoph Bartel
@@ -39,6 +41,7 @@ Christoph Thomas
 Hans Tzscheile
 Hans Wirtgen
 Martin Adam
+----------------
 1600
 Michael Andresen
 Martin Brix
@@ -68,6 +71,7 @@ Johann Weckerling
 Johann Wideman
 Peter Wirtgen
 Franz Vogel
+----------------
 1601
 Georg Biner
 Michael Drobisch
@@ -98,6 +102,7 @@ Christoph Schletter
 Barthel Schner
 Christoph Thomas
 Georg Ulrich
+----------------
 Tobias Weichbrot
 Hans Wenzel
 Hans Wolf
@@ -122,6 +127,7 @@ Mattheus Meyer
 Christian Schreger
 Detlef Schröter
 Georg ?
+----------------
 1603
 Peter Bütner
 Simon Birckner
@@ -143,6 +149,7 @@ Martin Uhlman
 Christoph Vieweg
 Johann Wittig
 Hans Wigand
+----------------
 Christoph Winckler
 Martin Wolf
 Georg ?
@@ -168,6 +175,7 @@ Christoph Winckler
 Balthasar Wolf
 ? ?
 ? Günther
+----------------
 1605
 Hans Angerman
 Blasius Andreß
@@ -195,6 +203,7 @@ Michael Schindler
 Abraham Schimperman
 Martin Schröter
 Martin Schilling
+----------------
 Hans Tenner
 Thomas Vogel
 Wolf Velcker
@@ -223,6 +232,7 @@ Balthasar Wolf
 Christoph Winckler
 Ambrosius ?
 Andreas ?
+----------------
 1607
 Georg Abesser
 Peter Benner
@@ -248,6 +258,7 @@ Georg Spieß
 Egidius Schreiber
 Hans Schöne
 Gregor Schöne
+----------------
 1608
 Elias Bartel
 Urban Burckhart
@@ -277,6 +288,7 @@ Mattheus Schumann
 Martin Schultz
 Christian Schreger
 Blasius Schletter
+----------------
 Hans Uhlman
 Christoph Wolf
 Martin Zobel
@@ -306,6 +318,7 @@ Christoph Winckler
 Bastian ?
 Mattheus ?
 Thomas ?
+----------------
 1610
 Georg Albrecht
 Valerius Altman
@@ -331,6 +344,7 @@ Martin Schmidt
 David Teuffel
 Ambrosius Vogel
 Michael Wunschman
+----------------
 Daniel ?
 Hans ?
 Martin  ?
@@ -357,7 +371,8 @@ Andreas Tham
 Simon Ulber
 Hans Wolf
 Hans Müller
-Johann Gebauer
+Johann Gebauer?
+----------------
 1612
 Martin Andrie
 Thomas Börner
@@ -385,6 +400,7 @@ Hans Schreiber
 Georg Schultz
 Christoph Schletter
 Michael Schwabe
+----------------
 Valentin Tifel
 Georg Traber
 Caspar Winckler
@@ -416,6 +432,7 @@ Heinrich Schram
 Georg Opitz
 Leonhard Teuerschmid
 Hans Trop
+----------------
 Nicol Uhlman
 Jacob Ulbricht
 Hans Mesiter
@@ -456,6 +473,7 @@ Melchior Schneider
 Christian Schreger
 Martin Schirman
 Michael Schindler
+----------------
 Jacob Teuffel
 Georg Werner
 Andreas Wideman
@@ -488,6 +506,7 @@ Georg Schultz
 Melchior Schultz
 Hans Schletter
 Hans Schumann
+----------------
 Johann Thamm
 Elias Winckler
 Hans ?
@@ -518,6 +537,7 @@ Simon Schmidt
 Michael Schneweiß
 Simon Uhlman
 Peter Wolf
+----------------
 1617
 Hans Ambeß
 Hans Angerman
@@ -539,6 +559,7 @@ Hans Meißner
 Hans Nise
 Hans Öser
 Heinrich Pederkar
+----------------
 Hans Schütze
 Wolf Schmidt
 Hans Schiffner
@@ -581,6 +602,7 @@ Martin Medlich
 Georg Müller
 Melchior Maul
 Martin Nehter
+----------------
 Georg Pfalman
 Georg Pohle
 Wolf Rappelt
@@ -624,6 +646,7 @@ Balthasar Srückart
 Michael Seidler
 Caspar Schultz
 Balthasar Wolf
+----------------
 1620
 Jacob Bernhard
 Hans Clauß
@@ -652,6 +675,7 @@ Melchior Schultz
 Thomas Vielcher
 Balthasar Velckel
 Martin Wunschman
+----------------
 1621
 Georg Abler
 Christoph Adam
@@ -676,6 +700,7 @@ Christoph Reisig
 Hans Sommer
 Jost Seidel
 Lucas Steinard
+----------------
 Hans Schöne
 Andreas Schmach
 Michael Schletter
@@ -705,6 +730,7 @@ Tobias Rüger
 Hans-Georg Stubenwoll
 Hans Sturm
 Michael Sulze
+----------------
 Wigard Schultz
 Johann Schmidt
 Elias Schimperman
@@ -741,6 +767,7 @@ Georg Riemer
 Simon Riemer
 Georg Rumler
 Esechiel? Eckard
+----------------
 David Semler
 Mattheus Stückert
 Thomas Schurz
@@ -785,6 +812,7 @@ Nicol Schletter
 Caspar Schultz
 Andreas Wagner
 Hans Wolf
+----------------
 Martin Thomas
 1625
 Lorenz Bergman
@@ -813,6 +841,7 @@ Hans-Christoph Schultz
 Christoph Schwartze
 Nicol Schwartze
 Hans Vogel
+----------------
 Urban Wend
 Georg Wedlich
 Clemens Zölner
@@ -851,6 +880,7 @@ Hans Pietzsch
 Hans Richter
 Georg Richter
 Mattheus Singer
+----------------
 Paul Schreiber
 Jacob Schmidt
 Jacob Tzscheil
@@ -884,6 +914,7 @@ Melchior Ring
 Hans Rösler
 Hans Reinhard
 Hans Sommer
+----------------
 Georg Schultz
 Martin Schumann
 Hans Thieme
@@ -923,6 +954,7 @@ Georg Rohrwacher
 Hans Renner
 Georg Spitzelt
 Georg Stoßzan
+----------------
 Barthel Schütze
 Michael Thomas
 Georg Tretzsch
@@ -956,6 +988,7 @@ Christoph Piauer
 Johann Paul
 Hans Pohle
 Wolf Riebelt
+----------------
 Hans Roch
 David Seidel
 Michael-Erich Stam

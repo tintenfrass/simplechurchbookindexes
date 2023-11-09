@@ -1,6 +1,7 @@
 Dresden Dreikönigskirche (Buch 109)
 Trauungen 1658-1674
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=263301
+https://www.archion.de/de/viewer/churchRegister/263405?pageId=36746546
+https://www.archion.de/de/viewer/churchRegister/263301
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -15,6 +16,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x80
 1658
 Christian Beckman
 Andreas Brauer
@@ -39,6 +41,7 @@ Elias Thüringer
 Georg Thieme
 Christoph Wiedeman
 Michael Wuntzschman
+----------------
 1659
 Casimir Buchert
 Georg Brauer
@@ -59,6 +62,7 @@ Christian Silberman
 Georg Schlichte
 Martin Umlauft
 Martin Wünschman
+----------------
 1660
 Hans-Baltzer Fabricius
 Elias Fuchs
@@ -81,6 +85,7 @@ Jacob Wentzel
 Michael Wolf
 Georg Ziegenbalck
 Gottfried Müller
+----------------
 1661
 Martin Dietze
 Georg Drobisch
@@ -108,6 +113,7 @@ Hans Welling
 Hans Weber
 Adam Wachter
 Johann Wagner
+----------------
 1662
 Caspar Runck
 Georg Fuchs
@@ -131,7 +137,8 @@ Georg Schultze
 Gabriel Stoye
 Sebastian Thoma
 Peter Vogel
-Veit Züllg
+Veit Züllig
+----------------
 1663
 Hans Borste
 Hans-Wilhelm Berger
@@ -162,6 +169,7 @@ Christoph Wachtel
 Thomas Werner
 Georg Wolcke
 Hans Zöllner
+----------------
 1664
 Christoph Arnold
 Michael Bachman
@@ -193,6 +201,7 @@ Georg Schultze
 Martin Schmidt
 Johann Stoy
 Hans-Georg Stephan
+----------------
 Sebastian Tagk
 Andreas Thomas
 Georg Weniger
@@ -231,6 +240,7 @@ Johann Philipp
 Caspar Rüller
 Christoph Riemer
 Nicol Selbtman
+----------------
 Johann-Wolf Schimpfpflug
 Georg Steinert
 Hans Trichnel
@@ -260,6 +270,7 @@ Hans Vogel
 Gabriel Uhlman
 Johann-Andreas Weydlich
 Peter Weinthär
+----------------
 1667
 Georg Adam
 Bernhard Adam
@@ -289,6 +300,7 @@ Christian Richter
 Hans-Gottfried Sohr
 Simon Schletter
 Christoph Schaller
+----------------
 Martin Wünschman
 Elias Winckler
 Jeremias Zorn
@@ -320,6 +332,7 @@ Hans-Albrecht Örthel
 Mattheus Proschke
 Philip-Hans Scheer
 Georg Zehr
+----------------
 1669
 David Bohr
 Daniel Böthner
@@ -342,6 +355,7 @@ Georg Stolpe
 Thomas Thierot
 Georg Vipo
 Georg Werner
+----------------
 1670
 Martin Adam
 Hans Anders
@@ -376,6 +390,7 @@ Hans Schüßler
 Christoph Schultze
 Hans Scharf
 Christoph-Abraham Schmidt
+----------------
 Melchior Uhlman
 Hans Vogel
 Gottfried Wülcke
@@ -402,7 +417,7 @@ Christian Peters
 Hans-Christoph Platz
 Theophil Püschel
 Adam Pauli
-Georg-Bernhard PFennig
+Georg-Bernhard Pfennig
 Christoph Quosig
 Christian Riemer
 Martin Sperhacke
@@ -413,6 +428,7 @@ Gottfried Schneider
 Georg Stölpner
 Simon Steltzer
 Hans-Heinrich Strichner
+----------------
 Adam Wentzel
 Hans Zöllner
 1672
@@ -449,6 +465,7 @@ Christian Schreger
 Christoph Schmidt
 Martin Schubart
 Christoph Schicht
+----------------
 Hans Ullrich
 Georg Voigt
 Lorenz Vogel
@@ -486,6 +503,7 @@ Hans Rauchfuß
 Hans Schindler
 Hans-Jacob Uswald
 Hans Voigt
+----------------
 August-Balthasar Wetzel
 Martin Wolf
 Paul Walther
@@ -518,5 +536,6 @@ Johann Schultz
 Hans-Georg Schörl
 Hans-Christoph Seiffert
 Georg Stegner
+----------------
 Caspar Wetzler
 Joachim-Heinrich Zecher

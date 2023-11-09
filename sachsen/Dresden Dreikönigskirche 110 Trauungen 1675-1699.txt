@@ -1,6 +1,7 @@
 Dresden Dreikönigskirche (Buch 110)
 Trauungen 1675-1699
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=263302
+https://www.archion.de/de/viewer/churchRegister/263405?pageId=36746546
+https://www.archion.de/de/viewer/churchRegister/263302
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -15,6 +16,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x97
 1675
 Michael Bäune
 Christian Böhme
@@ -51,6 +53,7 @@ Valentin Schultz
 Hans-Christoph Schletter
 Tobias Scherber
 Georg Schindler
+----------------
 Balthasar Steuer
 Philip Unger
 Christoph Vieweg
@@ -87,6 +90,7 @@ Gottfried Pärisch
 Mauritius Pfannenschmidt
 Michael Rülcke
 Caspar Sucke
+----------------
 Hans Schöne
 Johann-Heinrich Stoll
 Caspar Vogelgesang
@@ -127,6 +131,7 @@ Christoph Leonhard
 Johann Meure
 Hans-Georg Mentz
 Balthasar Naumann
+----------------
 Andreas Petzold
 Samuel Rauchfuß
 Elias Rabe
@@ -171,6 +176,7 @@ Hans-August Pfennig
 Hans Richter
 Christoph Schaluß
 Hans Schlägel
+----------------
 Hans Schleich
 Hans-Caspar Schuchard
 Georg Schröter
@@ -218,6 +224,7 @@ Sigmund Schram
 Martin Schöne
 Georg Schumann
 Samuel Stützling
+----------------
 Christoph Thürman
 Christoph Töpfer
 Joachim Vulcker
@@ -258,6 +265,7 @@ Martin Rumpe
 Caspar Schmidt
 Hans-Georg Schönfeld
 Christoph Schlemmer
+----------------
 Georg Trußer
 Hans-Jacob Uhlich
 Georg Vogel
@@ -307,6 +315,7 @@ Andreas Kühn
 Johann Kolle
 Johann-Abraham Köhler
 Johann-Heinrich Krüger
+----------------
 Johann Lavke
 Johann-Gottfried Leudtmann
 Georg Lubeck
@@ -362,6 +371,7 @@ Thomas Wußman
 Heinrich Wendt
 August-Balthasar Wötzel
 Georg Zschewe
+----------------
 1682
 Georg Angerman
 Martin Adam
@@ -399,6 +409,7 @@ Jacob Püsch
 Daniel Peterman
 Michael Pfeiffer
 Christoph-Heinrich Püschler
+----------------
 Melchior Platz
 Johann-Georg Richter
 Christian Reinhard
@@ -455,6 +466,7 @@ Christoph Ruß
 Georg-Franz Smai
 Georg Schwartz
 Johann-Georg Schultz
+----------------
 Benjamin Schmidt
 Johann-Georg Schuster
 Jacob Schüßler
@@ -486,6 +498,7 @@ Georg Schneider
 Jacob Teich
 Michael Uhlich
 Georg Wärner
+----------------
 1685
 Martin Böhme
 Georg Bachmann
@@ -511,6 +524,7 @@ Gottfried Weniger
 Martin Wüntzsche
 Georg Worm
 Paul Zschirchke
+----------------
 1686
 Georg Bergmann
 Michael Frietzsche
@@ -526,6 +540,7 @@ Martin Sauppe
 Johann Schultz
 Georg Schultz
 Christoph Stöltzel
+----------------
 1687
 Johann Becke
 Michael Barth
@@ -549,6 +564,7 @@ Georg Vogel
 Johann Wetzel
 Christian-Siegmund Walckhoff
 Johann-Georg Wagner
+----------------
 1688
 Christian Baumgarten
 Johann Büttner
@@ -572,6 +588,7 @@ Johann-Georg Sylbermann
 Johann-Georg Schmidt
 Johann Ulrich
 Michael Wolf
+----------------
 1689
 Benjamin Grundmann
 Michael Bachmann
@@ -581,6 +598,7 @@ Christoph Meyer
 Johann-Andreas Mätzel
 Georg Patzig
 Justus-Jordan Thär
+----------------
 1690
 Georg Bergmann
 Christian Beine
@@ -605,6 +623,7 @@ Michael Trutzschman
 Gabriel Teufel
 Christian Taubenest
 Martin Werner
+----------------
 1691
 Johann-Georg Büttner
 Georg Drobisch
@@ -623,6 +642,7 @@ Johann Müller
 Christoph Metzner
 Johann Rudolf
 Christoph Röhr
+----------------
 1692
 Johann-Gottlob Georgi
 Benjamin Gamper
@@ -644,6 +664,7 @@ Jonas Täuber
 Christian Wolf
 Samuel Weber
 Martin Werner
+----------------
 1693
 Johann Burckhart
 Martin Drobisch
@@ -658,8 +679,7 @@ Christian Hoppe
 Peter Jumpelt
 Christian Kupfer
 Johann-Christian Kirchhof
-Johann-Peter
-Laue
+Johann-Peter Laue
 Friedrich Lorbe
 Martin Renne
 Georg Schiffner
@@ -668,6 +688,7 @@ Georg Winckler
 Georg Wentzel
 Johann-Balthasar Wentzel
 Johann-Heinrich Wagner
+----------------
 1694
 Johann-Caspar Bühnhart
 Jacob Eysenberg
@@ -691,6 +712,7 @@ Johann Vogel
 Georg Wolf
 Georg Wagner
 Christian-Siegmund Walckoff
+----------------
 1695
 Johann Bachmann
 Johann Brauer
@@ -720,6 +742,7 @@ Christian Schaffhirt
 Georg Vogel
 Johann-Wolfgang Zehr
 Jacob Zeubig
+----------------
 Christoph Kammbe?
 1696
 Martin Adam
@@ -745,6 +768,7 @@ Georg Schütze
 Christian Stein
 Walther Vierich
 Christian Weise
+----------------
 1697
 Johann-Andreas Brock
 Tobias Böttiger
@@ -770,6 +794,7 @@ Johann Unger
 Michael Uhlich
 Adam Winther
 Johann-Balthasar Wentzel
+----------------
 1698
 Michael Bachmann
 Joachim-Friedrich Huhl
@@ -791,6 +816,7 @@ Christian-Traugott Seurich
 Christian Schirtz
 Georg Vogel
 Christoph Winckler
+----------------
 1699
 Johann Adam
 Christian Angerman
@@ -821,6 +847,7 @@ Michael Rentzsch
 Johann Seibt
 Benjamin Schröter
 Mattheus Stelig
+----------------
 Gottfried Uhlich
 Georg Viertel
 Johann-Christoph Voigt
