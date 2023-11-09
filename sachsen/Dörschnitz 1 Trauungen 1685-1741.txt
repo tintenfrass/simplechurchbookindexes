@@ -1,6 +1,6 @@
 Dörschnitz (Buch 1)
 Trauungen 1685-1741
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=282496
+https://www.archion.de/de/viewer/churchRegister/282496?pageId=39019129
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 
@@ -11,6 +11,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x4
 1685
 1686
 Christian Heintze

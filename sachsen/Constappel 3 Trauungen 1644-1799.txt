@@ -1,6 +1,6 @@
 Constappel (Buch 3)
 Trauungen 1644-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=281051
+https://www.archion.de/de/viewer/churchRegister/281051?pageId=38773420
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -16,9 +16,10 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x143
 1644
-Georg Dietrich | Margaretha Bebritzsch
-Georg Petzsch | Ursula Andrige
+Gregor Dietrich | Margaretha Bebritzsch
+Gregor Petzsch | Ursula Andrige
 Jacob Just | Barbara Grosche
 Georg Petzsch | Elisabeth König
 1645
@@ -277,6 +278,7 @@ Martin Weber
 Adam Wenitz?
 Peter Kluncker
 ----------------
+----------------
 1706
 Michael Just
 Hans Grellmann
@@ -496,9 +498,7 @@ Wolf-Heinrich-Gottlob Berlepsch
 Christian Beuchel
 Andreas Schmidt
 Michael Leuteritz
-----------------
-...
-----------------
+---------------- x81
 1744
 Hans Förster
 Samuel Meisner

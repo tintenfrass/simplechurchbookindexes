@@ -1,6 +1,6 @@
 Coswig (Buch 2)
 Trauungen 1799-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=281060
+https://www.archion.de/de/viewer/churchRegister/281060?pageId=38775035
 
 
 September 2023
@@ -8,6 +8,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x152
 1799
 Johann Christian Hoffmann
 Johann Gotthelf Steude

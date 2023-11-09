@@ -1,6 +1,6 @@
 Colmnitz (Buch 60)
 Trauungen 1618-1676
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294157
+https://www.archion.de/de/viewer/churchRegister/294157?pageId=40854923
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x136
 1618
 Caspar Dietze
 Balthasar Böhme

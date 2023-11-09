@@ -1,6 +1,6 @@
 Dorfhain (Buch 134)
 Trauungen 1602-1700
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294221
+https://www.archion.de/de/viewer/churchRegister/294221?pageId=40870158
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1602
 Matz Buhrman
 Barthel Jensch

@@ -1,6 +1,6 @@
 Döhlen (Buch 169)
 Trauungen 1770-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294251
+https://www.archion.de/de/viewer/churchRegister/294251?pageId=40878587
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -14,6 +14,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x4
 1770
 Johann Christoph Stoltze
 Johann Georg Eger
@@ -678,9 +679,16 @@ Johann Gottlob Berger
 Johann Carl Wilhelm Rühle
 Johann Christoph Jäkel
 Johann Gottlieb Fleischer
-Carl Gottlieb Zsißke
+Carl Gottlieb Zeißke
 ----------------
 1794
+Georg Adam Pietzsch
+Johann Samuel Petzoold
+Carl Gottlieb Klemm
+Johann Gottfried Andrich
+Christian Peter Pöhl
+Samuel Schultze
+----------------
 Johann Gottlieb Staude
 Johann Gottfried Wirthgen
 Johann Christian Kürbitz

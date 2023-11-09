@@ -1,6 +1,6 @@
 Dippoldiswalde (Buch 99)
 Trauungen 1789-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294192
+https://www.archion.de/de/viewer/churchRegister/294192?pageId=40861778
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -11,6 +11,8 @@ September 2023
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
+
+---------------- x180
 1789
 Johann Christoph Schaffrath
 Christian Gotthelf Teichert

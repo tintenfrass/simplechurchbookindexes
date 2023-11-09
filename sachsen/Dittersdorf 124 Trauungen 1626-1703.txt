@@ -1,6 +1,6 @@
 Dittersdorf (Buch 124)
 Trauungen 1626-1703
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294212
+https://www.archion.de/de/viewer/churchRegister/294212?pageId=40868253
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -15,6 +15,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x13
 1632
 Georg Bretschneider
 1633

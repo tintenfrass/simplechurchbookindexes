@@ -1,6 +1,6 @@
 Deutschenbora (Buch 1)
 Trauungen 1687-1758
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=281066
+https://www.archion.de/de/viewer/churchRegister/281066?pageId=38776147
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -14,6 +14,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x114
 1687
 Christian Richter
 Gregor Uhlman

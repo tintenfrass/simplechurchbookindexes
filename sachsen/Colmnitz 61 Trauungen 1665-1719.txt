@@ -1,6 +1,6 @@
 Colmnitz (Buch 61)
 Trauungen 1649-1719
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294158
+https://www.archion.de/de/viewer/churchRegister/294158?pageId=40855148
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -15,6 +15,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x212
 1711
 Georg Scheumann
 Christian Wunderwald
@@ -635,6 +636,7 @@ Christian Weindt
 Michael Schmidt
 Balthasar Gelffart
 Christian Tietze
+----------------
 ----------------
 Christoph Weichelt
 1706

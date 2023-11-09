@@ -1,6 +1,6 @@
 Dittmannsdorf (Buch 1)
 Trauungen 1668-1759
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=281072
+https://www.archion.de/de/viewer/churchRegister/281072?pageId=38777362
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x139
 1668
 Jacob Ganßauge?
 Michael Kirchbach
@@ -634,6 +635,6 @@ Johann Georg Störl
 Gottlob Tamme
 Hans Georg Schmidgen
 ----------------
-Gottlieb Zeiner
+Gottlieb Zimmermann
 Johann Georg Simon
 Johann Caspar Heyde

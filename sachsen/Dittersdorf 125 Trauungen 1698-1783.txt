@@ -1,6 +1,6 @@
 Dittersdorf (Buch 125)
 Trauungen 1698-1783
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294213
+https://www.archion.de/de/viewer/churchRegister/294213?pageId=40868313
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x196
 1698
 Georg Mende
 Christoph Schmidt
@@ -609,7 +610,7 @@ Johann Christoph Gößel
 1769
 Gottlob Werdig
 ----------------
-Johann Gottfried Hänßle
+Johann Gottfried Hänßel
 Georg Mende
 Johann Gottfried Schönberg
 Johann Christoph Ebert
@@ -626,6 +627,7 @@ Johann Gottlob Kirsten
 Elias Tharand
 Johann Gottlieb Gößel
 Johann Georg Aulhorn
+----------------
 ----------------
 1771
 Johann Christoph Ebert

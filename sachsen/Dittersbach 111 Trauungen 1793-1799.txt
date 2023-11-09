@@ -1,6 +1,6 @@
 Dittersbach (Buch 111)
 Trauungen 1793-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294204
+https://www.archion.de/de/viewer/churchRegister/294204?pageId=40866691
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -11,6 +11,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x130
 1793
 Gottlieb Ihle
 Johann Gottlob Richter
