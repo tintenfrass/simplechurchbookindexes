@@ -1,6 +1,6 @@
 Dresden Kreuzkirche (Buch 254)
 Trauungen 1794-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=263169
+https://www.archion.de/de/viewer/churchRegister/263169?pageId=36668427
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -18,6 +18,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x34
 1794
 Gottlieb Anton Altner
 Johann Gottlieb Albert
@@ -57,6 +58,7 @@ Gottlob Siegmund Elßnitz
 Johann Friedrich Eichberg
 Johann Georg Heinrich Eißler
 Carl August Engelmann
+----------------
 August Benjamin Frey
 Johann Paul Fehrmann
 Johann Gottlob Förster
@@ -142,6 +144,7 @@ Christoph Daniel Knobloch
 Carl Ludwig Kolbe
 Carl Friedrich Krüger
 Carl Gottlieb Keilpflug
+----------------
 Ferdinand Wilhelm Lange
 Andreas Lehmann
 Carl Christian Liebelt
@@ -221,6 +224,7 @@ Johann Christian Schmidt
 Christian August Treiber
 Johann Gottlieb Thomas
 Johann Friedrich Titius
+----------------
 Carl Friedrich Trielof
 Johann August Thiele
 Franz Samuel Tüllmann
@@ -249,7 +253,7 @@ Johann Christian Zimmermann
 Friedrich Nicol Zerner
 Carl Friedrich Zabel
 Christian Gottlieb Zeizer
-----------------
+---------------- x30
 1795
 Carl Christian Albrecht
 Johann Michael Aster
@@ -291,6 +295,7 @@ Johann Friedrich Eichler
 Ernst Ezler
 Johann August Engelhardt
 Carl Heinrich Engler
+----------------
 Johann Christian Frommhalt
 Johann Franz
 Friedrich Christian Wilhelm Friedel
@@ -379,6 +384,7 @@ Christian Gottfried Lange
 Friedrich Laban
 Johann Gottfried Lorentz
 Johann Gottlob Leutner
+----------------
 Johann Friedrich Ludwig
 Carl Friedrich Lorentz
 Johann Gottlob Lehmann
@@ -465,6 +471,7 @@ Andreas Schmidtgen
 Johann Gottlob Schultz
 Gottlob Immanuel Schumann
 Heinrich Christian Schmidt
+----------------
 Johann Georg Schumann
 Heinrich Julius Seyffert
 Friedrich August Seigert
@@ -512,7 +519,7 @@ Gottlob Heinrich Walther
 Friedrich Gottlob Zschimmer
 Johann Gottlieb Zander
 Johann August Ziegler
-----------------
+---------------- x31
 1796
 Gottlieb Immanuel Anton
 Johann Friedrich Albrecht
@@ -555,6 +562,7 @@ Lorenz Derbst
 Johann Gottlob Döhler
 Johann Christoph Drechsler
 Johann Gabriel Drechsler
+----------------
 Johann Christian Danzscher
 Christian Friedrich Delichau
 Georg Tobias Eyring
@@ -638,6 +646,7 @@ Christian Adolph Kammsezer
 Johann Gottlieb Koerbiz
 Johann Wilhelm Krebs
 Christian Friedrich Kaltschmidt
+----------------
 Wilhelm Abraham Lehmann
 Johann Gottlieb Lohse
 Gottfried Herrmann Lange
@@ -718,6 +727,7 @@ Johann Carl Friedrich Reßteuscher
 Friedrich Gottlob Räber
 Johann Friedrich Stephan
 Christian Friedrich Sperber
+----------------
 Johann Georg Schneider
 Johann Friedrich Schneider
 Friedrich Daniel Schultz
@@ -771,7 +781,7 @@ Heinrich Christian Weise
 Christian Wilhelm Weinert
 Johann Benjamin Ziegler
 Carl August Zschischang
-----------------
+---------------- x35
 1797
 Andreas Wilhelm Arhold
 Johann August Ahee
@@ -815,6 +825,7 @@ Johann Gotthelf Eichler
 Johann Gottlob Esche
 Gotthilf Friedrich Ehrlich
 Friedrich Benjamin Eybe
+----------------
 Friedrich August Frick
 Johann Wilhelm Ficker
 Johann Gottfried Fischer
@@ -905,6 +916,7 @@ Carl Benjamin Fürchtegott Lion
 Johann August Liehn
 August Wilhelm Leuthier
 Johann Christian Ludwig
+----------------
 Friedrich Gottlieb Lieder
 Traugott Benjamin Löwe
 Friedrich Lebrecht
@@ -992,6 +1004,7 @@ Johann Christoph Seiler
 Johann Gottlob Schlegel
 Carl Gottlieb Stoß
 Christian Gottlieb Schmidt
+----------------
 Johann Georg Schönherr
 Carl Joseph Schubert
 Johann Christoph Schultz
@@ -1050,7 +1063,7 @@ Johann August Zille
 Heinrich Adolph Zukriedel
 Johann Gottfried Zechel
 Johann Christoph Zöger
-----------------
+---------------- x32
 1798
 Johann Gottlob Anders
 Johann Gottlieb Auert
@@ -1090,6 +1103,7 @@ Carl Benjamin Döhlinger
 Johann Traugott Immanuel Dammüller
 Carl August Gotthard Demuth
 Johann Carl Danziger
+----------------
 Johann Gottlob Ende
 Franz Gottfried Eisold
 Johann Gottlob Engel
@@ -1173,6 +1187,7 @@ Carl Friedrich Kutscher
 Johann Gottlob Kurth
 Johann Gottlob Friedrich Kohlbach
 Johann Philip Kirst
+----------------
 August Wilhelm Krebs
 Johann David Kunath
 Johann Gottlob Keßler
@@ -1259,6 +1274,7 @@ Abraham Gottlieb Schuster
 Johann Gottfried Schneider
 Johann Heinrich Schultz
 Carl Gottlieb Stachel
+----------------
 Paul Christian Scheel
 Johann Christoph Schmidtgen
 Johann Gotthelf Schimrohn
@@ -1590,4 +1606,3 @@ Johann Friedrich Schröter
 Johann Ernst May
 Friedrich Wilhelm Grose
 Christian Gottlieb Hammer
-----------------

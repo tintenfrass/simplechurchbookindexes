@@ -1,6 +1,6 @@
 Dresden Kreuzkirche (Buch 252)
 Trauungen 1760-1781
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=263167
+https://www.archion.de/de/viewer/churchRegister/263167?pageId=36667420
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -14,6 +14,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1760
 Christian Schoß
 Johann Georg Wurtzel
@@ -227,7 +228,7 @@ Heinrich Gottlieb Mehlhorn
 Johann Christian Simon
 Johann Barthel Gernreich
 Johann Friedrich Schultz
-----------------
+---------------- x27
 1761
 Johann Anton Alms
 Johann Heinrich Arndt
@@ -280,6 +281,7 @@ Friedrich Immanuel Glintzig
 Johann Christoph Gärtner
 Johann Samuel Gäbler
 Carl Gottlieb Geyer
+----------------
 Samuel Girckoff
 Friedrich August Guth
 Johann Groß
@@ -396,6 +398,7 @@ Johann Gottlieb Pohlan
 Johann Georg Polentz
 Johann Christian Pöger
 Johann Christoph Plech
+----------------
 Johann Christoph Pathe
 Christian Gottfried Porisch
 Johann Georg Plaschke
@@ -487,7 +490,7 @@ Johann Georg Zahn
 Johann Zierold
 Johann Christoph Ziegenbalg
 Georg Adam Zöphel
-----------------
+---------------- x24
 1762
 Andreas Arndt
 Carl Friedrich Altmann
@@ -616,6 +619,7 @@ Georg Mittelstraße
 Johann Gottfried Müller
 Christoph Moses
 Johann Georg Moses
+----------------
 Johann Gottlieb Meyer
 Johann Nicol Martin
 Christian Gottlob Mäcke
@@ -723,7 +727,7 @@ Gottfried Zacharias Julius Ziegemeyer
 Gottlieb Zschiedrich
 Johann Georg Zeller
 Johann Georg Zimmermann
-----------------
+---------------- x27
 1763
 Johann Martin Angermann
 Johann Andreas Arnold
@@ -779,6 +783,7 @@ Johann Georg Große
 Johann Nicol Giese
 Johann Georg Günther
 Johann Gottfried Götze
+----------------
 Johann Gottfried Große
 Carl Heinrich Groll
 August Friedrich Hördel
@@ -895,6 +900,7 @@ Sebastian Gottfried Pratorius
 Traugott Plünckner
 Joseph Joachim Piehl
 Johann Friedrich Pommer
+----------------
 Johann Michael Pezold
 Christian Friedrich Qwell
 Christian Gottlieb Richter
@@ -990,7 +996,7 @@ Traugott Friedrich Erdmann Zimpel
 Carl Gotthelf Zier
 Christoph Adam Zumpe
 Benjamin Gottlob Zeibig
-----------------
+---------------- x30
 1764
 Johann Nicol Apt
 Friedrich August Ahee
@@ -1098,6 +1104,7 @@ Johann Heinrich Koch
 Christoph Kuriß
 Johann Georg Kahle
 Johann Georg Kohl
+----------------
 Johann Samuel Köppel
 Johann Christoph Kuhlenbach
 Johann Christoph Kundermann
@@ -1206,6 +1213,7 @@ Gottlieb Ehrenfried Schaufler
 Johann Friedrich Stach
 Gotthelf Friedrich Siegert
 Johann Gottlob Schneider
+----------------
 Johann Andreas Schmidt
 Johann Christian Sattler
 Adam Gottfried Schultz
@@ -1256,7 +1264,7 @@ Traugott Wilhelm Zange
 Gottfried Zschüschner
 Johann Gabriel Zeyßig
 Johann Zscheiche
-----------------
+---------------- x25
 1765
 Johann Georg Atzeroth
 Ehrenfried Ferdinand Aumann
@@ -1309,6 +1317,7 @@ Johann Georg Hund
 Johann Gottlob Hildemann
 Christian Friedrich Hußler
 Johann Christoph Huche
+----------------
 Georg Hammermann
 Johann Gottfried Hochheimer
 Zacharias Daniel Himmerlich
@@ -1412,6 +1421,7 @@ Johann Christoph Schumann
 Friedrich Schmidt
 Christoph Friedrich Seiffert
 Rupert Traugott Sultzberger
+----------------
 Christian Friedrich Samuel
 Christian Friedrich Sommer
 Johann Gottlieb Samuel
@@ -1471,7 +1481,7 @@ Johann Georg Zeibig
 Gottlob Zemker
 Johann Ephraim Zasche
 Christoph Zötzsche
-----------------
+---------------- x27
 1766
 Carl Gottlob Anders
 Adolph Adler
@@ -1502,6 +1512,7 @@ Daniel Christoph
 Friedrich Wilhelm Conrad
 Johann Gottfried Donat
 Gottfried Dreher
+----------------
 August Traugott Elster
 Christian Wilhelm Eichler
 Johann Gottfried Enger
@@ -1601,6 +1612,7 @@ Johann Christian Mittag
 Johann Gottfried Meinert
 Christian Heinrich Müller
 Christian Gottlieb Meßerschmidt
+----------------
 Johann Samuel Müller
 Johann Christoph Müller
 Georg Christoph Münch
@@ -1691,6 +1703,7 @@ Carl August Winter
 Christlieb Leberecht Watzel
 Johann Georg Wießner
 Johann Andreas Wegner
+----------------
 Johann Christoph Wagner
 Carl Friedrich Weber
 Johann Georg Weber
@@ -1706,7 +1719,7 @@ Johann Gottlob Wittig
 Johann Gottfried Zscheile
 Carl Hennig Zittwitz
 Carl Samuel Zinnert
-----------------
+---------------- x24
 1767
 Carl Gotthelf Ahee
 Johann Georg Burckhart
@@ -1731,6 +1744,7 @@ Benjamin Christlieb Dalochovius
 Johann Christian Damm
 Christian Benjamin Döbner
 Johann Christoph Damm
+----------------
 Georg Heinrich Eichhoff
 Andreas Ehrhardt
 Erdmann Friedrich Entzian
@@ -1836,6 +1850,7 @@ Johann Georg Mehner
 Gottfried Manck
 Johann Wilhelm Meipner
 Johann August May
+----------------
 Johann Georg Neumann
 Carl Gottfried Nadler
 Johann Friedrich Neubauer
@@ -1928,8 +1943,8 @@ Carl Moritz Werner
 Johann Gottlieb Weidner
 Christian Weber
 Erdman Gustav Zange
-Johann Gottlob Zummer
-----------------
+Johann Gottlob Zimmer
+---------------- x22
 1768
 Johann Gottfried Adam
 Johann Carl Bertram
@@ -2035,6 +2050,7 @@ Johann Christian Lange
 Caspar Benjamin Löser
 Andreas Lichtewitz
 Johann Gottlob Lösche
+----------------
 Johann Gottlob Merbitz
 Gottlieb Meusel
 Johann Georg Meißner
@@ -2115,7 +2131,7 @@ Johann David Zopf
 Johann Christoph Zeitler
 Johann Christian Zemich
 Christian August Zschorler
-----------------
+---------------- x27
 1769
 Johann Leberecht Amelung
 Johann Christian Armbrüster
@@ -2170,6 +2186,7 @@ Heinrich Gottlieb Geißler
 Johann Christoph Georgy
 Johann Michael Grunert
 Christlieb Geißler
+----------------
 Johann Christoph Gnauck
 Friedrich Immanuel Glintzig
 Johann Gottlieb Goltzsche
@@ -2283,6 +2300,7 @@ Johann Friedrich Pohland
 Johann Christian Priebe
 Johann Christoph Probst
 Johann Joachim Pört
+----------------
 Carl Friedrich Prölß
 Johann Gottlieb Riedel
 Johann Gottlob Reichert
@@ -2344,7 +2362,7 @@ Johann Adam Weber
 Christian Gottlob Wollmer
 Carl Gottlob Weber
 Johann Paul Zeiler
-----------------
+---------------- x24
 1770
 Gotthelf Abraham Arras
 Andreas Jacob Aures
@@ -2374,6 +2392,7 @@ Johann Gottlieb Conradi
 Johann Jacob Clauß
 Johann David Dünerth
 Christian Andreas Erler
+----------------
 Johann Gottlieb Engelmann
 Georg Conrad Eyrich
 Johann Gottfried Eurich
@@ -2478,6 +2497,7 @@ Christoph Ernst Mühlhauß
 Georg Friedrich Neuber
 Johann Georg Nietzsche
 Johann Immanuel Niederlein
+----------------
 Johann Christoph Opitz
 Johann Friedrich Oertel
 Samuel Friedrich Otto
@@ -2556,7 +2576,7 @@ Johann Christoph Wagner
 Carl Paul Zimmermann
 Gottlob Ziller
 Johann Thomas Zimmer
-----------------
+---------------- x23
 1771
 Joachim Friedrich Bußke
 Johann Belack
@@ -2659,6 +2679,7 @@ Christian Valentin Lange
 Johann Gottfried Leuteritz
 Johann Carl Morgenroth
 Johann Christian Müller
+----------------
 Ernst Wilhelm Münich
 Mattheus Müller
 Friedrich Gotthelf Meyer
@@ -2745,7 +2766,7 @@ Johann Gottlob Wetzel
 Johann Christoph Zeitler
 Johann Georg Zigser
 Immanuel August Zimmermann
-----------------
+---------------- x20
 1772
 Johann Gotthardt Andersch
 Johann Gottlob Billing
@@ -2799,6 +2820,7 @@ Johann Christian Günther
 Daniel Ernst Gädow
 Johann Gottlieb Gebert
 Johann Samuel Gentsch
+----------------
 Johann Gottlob Hillmann
 Christoph Wilhelm Heße
 Johann Gottlieb Holfert
@@ -2892,6 +2914,7 @@ Georg Christoph Thiele
 Johann Christian Unger
 Christian Gottlieb Voigt
 Carl Gottfried Venus
+----------------
 Ludwig Ernst Christoph Völckner
 Friedrich Gottlieb Wittorf
 Christoph Friedrich Winter
@@ -2903,7 +2926,7 @@ Gottfried Werner
 Johann Lorenz Wachtler
 Johann Georg Winckler
 Carl Gottlob Zehm
-----------------
+---------------- x27
 1773
 Ephraim Alex
 Johann Christoph Appoldt
@@ -3008,6 +3031,8 @@ Johann Friedrich Lundsberger
 Otto Ferdinand Löben
 Johann Daniel Laubisch
 Johann Gottfried Limorme
+----------------
+----------------
 Heinrich Lune
 Johann Christian Landmann
 Johann August Lauße
@@ -3105,6 +3130,7 @@ Johann Gottlieb Schmidt
 Johann Thomas
 Jacob Gottfried Trempelmann
 Johann Gottfried Benedig Theil
+----------------
 Johann Gottlieb Thomas
 Ernst Adam Levin Trotta
 Ferdinand Christian Tuschi
@@ -3127,7 +3153,7 @@ Johann Mattheus Weickardt
 Gotthelf Friedrich Zeuner
 Gottlieb Zosel
 Gottlob Ehrenreich Zischimmer
-----------------
+---------------- x30
 1774
 Johann Michael Andrich
 Johann David Abel
@@ -3180,6 +3206,7 @@ Christoph Christian August Fischer
 Carl Gottlieb Fitzer
 Johann Gottfried Feige
 David Gottfried Fötzsche
+----------------
 Johann Paul Große
 Gottfried Gärtner
 Johann August Giesel
@@ -3284,6 +3311,7 @@ Johann Simon Margraf
 Christoph Mechler
 Gottlieb Mäußel
 Christian Donat May
+----------------
 August Andreas Nauwerck
 Christoph Neumann
 Johann Neumüller
@@ -3368,6 +3396,7 @@ Friedrich August Uhlemann
 Johann Adam Beit
 Johann Gottfried Viehweger
 Gottfried Vogel
+----------------
 Johann Gottlieb Weichelt
 Christian Gotthelf Wetzel
 Georg Wagner
@@ -3385,7 +3414,7 @@ Johann Georg Wieth
 Johann Wilhelm Ziegra
 Johann Georg Zeilig
 Johann Friedrich Zahmel
-----------------
+---------------- x32
 1775
 Carl Friedrich Arllt
 Adolph Wilhelm Angermann
@@ -3480,6 +3509,7 @@ Andreas Traugott Jänichen
 Christian Friedrich Klemm
 Johann Heinrich Krug
 Christian Rudolph Könitz
+----------------
 Johann Gottlob Keitel
 Johann Christoph Krumbholtz
 Johann Gottlieb Kirsten
@@ -3572,6 +3602,7 @@ Johann Georg Schüller
 Johann Gottlieb Schumann
 Lorenz Schmidt
 Johann David Schöne
+----------------
 Carl Heinrich Scheucker
 Friedrich Samuel Stübner
 Christian Friedrich Seyffert
@@ -3636,7 +3667,7 @@ Christian Gottlob Zimmermann
 Carl Elias Ziegler
 Johann Christoph Zetsch
 Johann Gottlieb Zimmermann
-----------------
+---------------- x33
 1776
 Johann Andreas Allgeyer
 Friedrich Ludwig Aster
@@ -3684,6 +3715,7 @@ Christian Friedrich Freywald
 Wenzel Daniel Flagowsky
 Johann Georg Fleischmann
 Gottlieb Frentzel
+----------------
 Carl Gottlieb Forchheim
 Carl Gottlieb Frey
 Johann Samuel Große
@@ -3779,6 +3811,7 @@ Carl Friedrich Liscovius
 Johann Christian Legler
 Johann Gottfried Leschke
 Johann Gottfried Lösche
+----------------
 Gottlieb Loschün
 Johann Gottfried Leutner
 Ernst Gotthold Ludwig
@@ -3864,6 +3897,7 @@ Christian Friedrich Scheffler
 Johann Gottlob Starcke
 Johann Gottfried Sonntag
 Paul Heinrich Schultz
+----------------
 Johann Gottfried Schirtz
 Friedrich August Wilhelm Schneider
 August Moritz Gottfried Schneider
@@ -3914,7 +3948,7 @@ Georg Christian Wilcke
 Carl Gottlieb Zimmer
 Friedrich August Zechel
 Carl Friedrich Zienert
-----------------
+---------------- x30
 1777
 Gottfried Austen
 Albert Friedrich Anders
@@ -4013,6 +4047,7 @@ Heinrich Gottlob Ihle
 Johann Heinrich Kießler
 Carl Gottlieb Kändler
 Johann Georg Kapser
+----------------
 Carl Conrad Kählig
 Carl Friedrich Knorr
 Johann Philip Köckeritz
@@ -4121,6 +4156,7 @@ Johann Gottfried Scheinert
 Johann Abraham Sieber
 Christian Friedrich Strasburger
 Heinrich Ludwig Schmidt
+----------------
 Georg Strohbach
 Johann Siegmund Strauch
 Johann Gottfried Thieme
@@ -4140,7 +4176,7 @@ Johann Christian Wiese
 Johann Gottfried Walther
 Christian Heinrich Weise
 Georg Zschuschner
-----------------
+---------------- x28
 1778
 Johann Lebegott Althannß
 Georg Heinrich Albrecht
@@ -4194,6 +4230,7 @@ Andreas Fischbach
 Johann Gottlob Fischer
 Christian Gottlieb Fiedler
 Georg Abraham Günther
+----------------
 Johann Gottlob Gritner
 Johann Friedrich Götzinger
 Carl August Graupner
@@ -4289,6 +4326,7 @@ Christian Gottfried Pohlinck
 Johann Gottlob Pauße
 Johann Georg Pietzsch
 Georg Gottfried Petzold
+----------------
 Christian Wilhelm Renner
 Johann Gottfried Röder
 Georg Rohberg
@@ -4368,7 +4406,7 @@ Andreas Zinnert
 Johann Christian Zimmermann
 Johann Gottlob Zähöpper
 Wilhelm Friedrich Ziesemer
-----------------
+---------------- x32
 1779
 Gottlob Albrecht
 Johann Gottlieb Bormann
@@ -4439,6 +4477,7 @@ Christian Gottlieb Hoffmann
 Johann Paul Gottlieb Heyne
 Johann Daniel Hinckel
 Christian Friedrich Hahn
+----------------
 Gottlieb Hense
 Johann Bernhardt Hirschberger
 Georg Friedrich Helbig
@@ -4533,6 +4572,7 @@ Christian Gottlob Opitz
 Ernst Michael Ouvrier
 Johann Christian Oberschaar
 Johann Christoph Otto
+----------------
 Christian Gottlieb Paul
 Samuel Gottlieb Polle
 Johann August Petersill
@@ -4615,7 +4655,7 @@ Johann Siegmund Zeidler
 Johann Gottlieb Traugott Zeinert
 Johann Gottlieb Traugott Zienert
 Christian Gottlieb Ziegra
-----------------
+---------------- x33
 1780
 Johann Gottlob Amende
 Christian Gottfried Atenstädt
@@ -4649,6 +4689,7 @@ Johann Friedrich Drechßler
 Gottfried Dietel
 Johann Gottlob Donath
 Christian Gottlob Demiani
+----------------
 Andreas Dauderstädt
 Christian Gotthelf Ditrich
 Georg Decker
@@ -4769,6 +4810,7 @@ Johann Elias Muche
 Christoph Ernst Mühlhausen
 Johann Gottlob Mühle
 Johann Michael Mieth
+----------------
 Johann Heinrich Leberecht Meinhard
 Christian David Mühlbach
 Johann Gottfried Müller
@@ -4883,6 +4925,7 @@ Johann Carl Weidenhammer
 Johann Paul Weiner
 Johann Christian Walther
 Christian Friedrich Wießner
+----------------
 Christoph Wittchen
 Johann Christoph Wetzel
 Johann Gottfried Zeibig
@@ -4890,7 +4933,7 @@ Gottlob Zeibig
 Johann August Zimmer
 Johann Georg Zeller
 Johann Gottlob Zillig
-----------------
+---------------- x29
 1781
 Johann David Arnold
 Johann Carl Heinrich Abicht
@@ -4992,6 +5035,8 @@ Christian Friedrich Köhler
 Johann Carl Krahmer
 Christian Friedrich Kannegießer
 Friedrich August Köppe
+----------------
+----------------
 Johann Gottlieb Kummer
 Johann Christian Klöß
 Carl Christian Klaß
@@ -5099,6 +5144,7 @@ Christoph Friedrich Sack
 Johann Gottlieb Seydemann
 Johann Gottlieb Schäffer
 Gottlieb Friedrich Sattler
+----------------
 Johann Georg Starcke
 Johann Friedrich Steiger
 Johann Gottfried Schäme

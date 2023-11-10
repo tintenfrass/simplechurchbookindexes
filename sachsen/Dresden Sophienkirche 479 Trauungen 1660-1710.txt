@@ -1,6 +1,6 @@
 Dresden Sophienkirche (Buch 479)
 Trauungen 1660-1710
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=280094
+https://www.archion.de/de/viewer/churchRegister/280094?pageId=38533387
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,8 +13,10 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x175
 1660
 Hans-Dietrich Schleinitz
+----------------
 Herman Wolframsdorf
 Bastian Gemnitius?
 Johann Fincke

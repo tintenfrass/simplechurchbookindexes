@@ -1,6 +1,6 @@
 Dresden Frauenkirche (Buch 230)
 Trauungen 1776-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=264553
+https://www.archion.de/de/viewer/churchRegister/264553?pageId=36976409
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -17,6 +17,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x14
 1776
 Martin Budach
 Johann Büttner
@@ -69,6 +70,7 @@ Friedrich Wilhelm Pfüzner
 Johann Gottlob Palitsch
 Johann Christoph Richter
 Christian Richter
+----------------
 Carl Gottlob Ruhland
 Christian Philip Röthig
 Johann Friedrich Rößig
@@ -99,7 +101,7 @@ Gottlob Walther
 Joseph Wolf
 Johann Peter Willas
 Johann Gottlob Wegewiz
-----------------
+---------------- x6
 1777
 Gottfried Austen
 Johann Gottlob Bayer
@@ -145,6 +147,7 @@ Christian Friedrich Paul
 Johann Georg Ryßel
 Johann Gottlob Richter
 Carl Christian Rödel
+----------------
 Johann Daniel Richter
 Johann Gottfried Leberecht Rothe
 Johann Gottlieb Reinhardt
@@ -165,7 +168,7 @@ Johann Christian Teichmann
 Johann Gottlob Vogel
 Johann Christian Wiese
 Johann Gottfried Walther
-----------------
+---------------- x8
 1778
 Gottfried Börner
 Johann Gottfried Behnisch
@@ -205,6 +208,7 @@ Johann Gottlob Moses
 Johann Gottlieb Merbitz
 Johann Georg Merckert
 Christoph Müller
+----------------
 Johann Benjamin Mühlenderlein
 Johann Gottfried Meyer
 Johann Niese
@@ -239,7 +243,7 @@ Samuel Zimmermann
 Johann Heinrich Zieschang
 Andreas Zinnert
 Johann Christian Zimmermann
-----------------
+---------------- x8
 1779
 Gottlob Labrecht
 Johann Christoph Börschmann
@@ -287,6 +291,7 @@ Johann Christian Mildner
 Johann Caspar Meyer
 Johann Georg Müller
 Johann Gottfried Möser
+----------------
 Johann Walther
 Christian Müller
 Johann Georg Müller
@@ -313,7 +318,7 @@ Johann Georg Tausend
 Johann Gottfried Weber
 Christian Wehner
 Johann Gottlieb Traugott Zienert
-----------------
+---------------- x10
 1780
 Johann Gottlob AmEnde
 Gottlob Berger
@@ -359,6 +364,7 @@ Johann Jacob Kluge
 Johann Heinrich Kimmel
 Johann Gottfried Kießling
 Johann Carl Gottlieb Kändler
+----------------
 Christian Kriesche
 Christian Gottfried Kreusche
 Johann David Krähmer
@@ -406,7 +412,7 @@ Daniel Adolph Vanderey
 Johann Gottlieb Weise
 Johann Gottfried Zeibig
 Gottlob Zeibig
-----------------
+---------------- x7
 1781
 Johann Carl Heinrich Abicht
 Johann Ferdinand Blume
@@ -451,6 +457,7 @@ Johann Gottfried Neßmann
 Johann Georg Pietzsch
 Gottlieb Pritze
 Johann Christoph Paullus
+----------------
 Johann Gottlob Palttner
 Johann Michael Patschke
 Johann Gottlieb Palmstein
@@ -478,7 +485,7 @@ Andreas Winckler
 Johann Michael Windisch
 Gottfried Wobst
 Gottfried Zeibig
-----------------
+---------------- x8
 1782
 Johann Gottlieb Adler
 Abraham Gottlieb Büttner
@@ -524,6 +531,7 @@ Johann Christian Lehmann
 Johann Carl Gottfried Lauterborn
 Christian Ernst Mitscherling
 Christian Gottfried Müller
+----------------
 Johann Christoph Müller
 Johann Traugott Männich
 Carl Gottlob Neuberth
@@ -564,7 +572,7 @@ Gottlob Gottfried Weise
 Johann Gottlieb Wagner
 Johann Christoph Zacharias
 Johann Traugott Zumpe
-----------------
+---------------- x6
 1783
 Johann Gottlob Anders
 Elias Anders
@@ -605,6 +613,7 @@ Johann Christian Wilhelm Mittag
 Johann Christian Mißbach
 Gottfried Oehmigin
 Johann Georg Pümmel
+----------------
 Johann Puthling
 Johann Gottlob Petschel
 Johann Gottlob Rumpelt
@@ -631,7 +640,7 @@ Johann Gottfried Wilhelm
 Christoph Ernst Wege
 Gottfried Zincke
 Johann Christoph Ziener
-----------------
+---------------- x6
 1784
 Johann Christian Bormann
 Johann Georg Bräuer
@@ -675,6 +684,7 @@ Johann Friedrich Meinhold
 Johann Albrecht Möbert
 Johann Gottfried Münz
 Andreas Neumann
+----------------
 Johann Christoph Naumann
 Benjamin Friedrich Priever
 Sebastian Preußer
@@ -700,7 +710,7 @@ Johann Gottfried Weber
 Carl August Winzer
 Christian Friedrich Wittig
 Johann Simon Ziesniz
-----------------
+---------------- x6
 1785
 Andreas Christoph Albert
 Johann Christoph Anders
@@ -744,6 +754,7 @@ Andreas David Lehmann
 Georg Ernst Miesel
 Adam Naumann
 Johann Gottlieb Nicolai
+----------------
 Heinrich Gotthelf Niederlein
 Johann Friedrich Oeser
 Christian Pazig
@@ -769,7 +780,7 @@ Johann David Weber
 Johann Christian Weinert
 Carl August Weinert
 Johann Heinrich Zimmermann
-----------------
+---------------- x6
 1786
 Johann Georg Behrisch
 Johann Peter Bäthge
@@ -809,6 +820,7 @@ Johann Christian Lange
 Johann Adolph Lippold
 Andreas Ernst Wilhelm Martin
 Johann Samuel Morgenstern
+----------------
 Philip Mattheus Müller
 Christian Gottlieb Möckel
 Christian Gottlieb Nacke
@@ -831,11 +843,10 @@ Carl Gottlieb Unruh
 Christian Gottlob Vetter
 Johann Christoph Werner
 Johann August Winski
-Johann Bertram
-Wedler
+Johann Bertram Wedler
 Elias Ehrenfried Weymarshaus
 Gottfried Benjamin Zimmermann
-----------------
+---------------- x5
 1787
 Johann Christoph Angermann
 Johann Gottlob Ahnert
@@ -884,6 +895,7 @@ Johann Christian Schweishelm
 Christian Benjamin Schüller
 Gotthelf Leberecht Steinmetz
 Georg Michael Schwarzländer
+----------------
 Johann August Tanneberg
 Johann Georg Thieme
 Johann Georg Udolph
@@ -892,7 +904,7 @@ Johann Valentin Vognitz
 Martin David Volgmann
 Christian Weichert
 Johann Christoph Winterberg
-----------------
+---------------- x6
 1788
 Johann Christian Baldauf
 Christian Gotthelf Bretschneider
@@ -939,6 +951,7 @@ Christian Gottlieb Morgenstern
 Johann Gottfried Miethling
 Johann Gottfried Mentzer
 Georg Gottfried Mende
+----------------
 Johann Theodor Hermann Nachtigall
 Christian Neumann
 Johann Georg Peinert
@@ -969,7 +982,7 @@ Christian Gotthelf Wetzel
 Johann Christoph Wittig
 Johann Ehrenfried Wagner
 Johann August Weth
-----------------
+---------------- x5
 1789
 Johann Christian Beger
 Daniel Büttner
@@ -1025,7 +1038,7 @@ Georg Carl Friedrich Weber
 Johann Gottfried Weber
 Johann Friedrich Zierold
 Johann Daniel Ziesche
-----------------
+---------------- x6
 1790
 Johann Gottlob Appelt
 Johann Gottfried Andrich
@@ -1078,6 +1091,7 @@ Johann Gottfried Peschel
 Johann Christian Preuse
 Johann Christoph Ferdinand Preßel
 Christian Petermann
+----------------
 Johann Christian Pahlizsch
 Christian Philip Röthiger
 David Rötscher
@@ -1095,7 +1109,6 @@ Johann Gottlieb Thürmer
 Johann Christoph Wehle
 Carl Gottlieb Wille
 Christian Zscheyle
-----------------
 1791
 Johann Christian Herrmann
 Johann Christoph Pathe
@@ -1753,4 +1766,3 @@ Johann Gottlob Samuel Glauch
 August Henschberg
 Johann Mattheus Gothe
 Adam Reißig
-----------------

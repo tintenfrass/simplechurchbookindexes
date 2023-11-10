@@ -1,6 +1,6 @@
 Dresden Frauenkirche (Buch 228)
 Trauungen 1747-1775
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=264551
+https://www.archion.de/de/viewer/churchRegister/264551?pageId=36975985
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -14,6 +14,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1747
 Johann-Friedrich Schmidt
 Johann Ufer

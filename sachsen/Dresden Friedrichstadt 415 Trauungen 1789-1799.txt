@@ -1,6 +1,6 @@
 Dresden Friedrichstadt (Buch 415)
 Trauungen 1789-1789
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=264601
+https://www.archion.de/de/viewer/churchRegister/264601?pageId=36988576
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1789
 Johann Gottfried Hanemann?
 Georg Diesner
@@ -554,6 +555,7 @@ Martin Boehmer
 Christian Gottlob Noske
 Johann Ehrhard Spörl
 Johann Immanuel Stange
+----------------
 Gottfried Rennewolf
 Johann Carl Heinrich Gärtner
 Johann Gottlob Wustlich
