@@ -1,6 +1,6 @@
 Geising (Buch 294)
 Trauungen 1640-1759
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294358
+https://www.archion.de/de/viewer/churchRegister/294358?pageId=40898243
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1640
 Wenzel Nicol
 Johann Carol Frischmann

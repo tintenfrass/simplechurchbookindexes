@@ -1,6 +1,6 @@
 Frauenstein (Buch 232)
 Trauungen 1592-1699
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294305
+https://www.archion.de/de/viewer/churchRegister/294305?pageId=40890838
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -16,6 +16,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x5
 1592
 Jacob Liebscher
 Georg Karge

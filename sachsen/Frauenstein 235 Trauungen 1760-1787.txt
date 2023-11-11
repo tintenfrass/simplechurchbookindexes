@@ -1,6 +1,6 @@
 Frauenstein (Buch 235)
 Trauungen 1760-1787
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294308
+https://www.archion.de/de/viewer/churchRegister/294308?pageId=40891496
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x15
 1760
 Johann Christoph Hegewald
 Christian Gottfried Bellmann

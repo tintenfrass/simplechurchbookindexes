@@ -1,6 +1,6 @@
 Glashütte (Buch 307)
 Trauungen 1776-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294371
+https://www.archion.de/de/viewer/churchRegister/294371?pageId=40900815
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1776
 Johann David Fischer
 Carl Gottlieb Erhardt

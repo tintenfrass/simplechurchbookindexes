@@ -1,6 +1,6 @@
 Gröbern (Buch 2)
 Trauungen 1777-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=282506
+https://www.archion.de/de/viewer/churchRegister/282506?pageId=39020782
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -15,6 +15,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x94
 1777
 Michael Guhr
 Johann Gottlob Zocher
@@ -110,8 +111,11 @@ Johann Christian Grülle
 Johann Adam Ulrich
 Martin Behrisch
 ----------------
-...
-----------------
+Johann Christian Fritzsche
+Christoph Lehmann
+Carl Zwintscher
+Johann Gottlieb Schlechte
+---------------- x158
 1777
 1778
 1779
@@ -175,8 +179,13 @@ Johann Gotthelf Beulich
 Johann Gottlob Bahrmann
 Johann Gottfried Seyrich
 ----------------
-...
-----------------
+1799
+Johann Gottlieb Krause
+Johann Gottlob Leuschner
+Johann Gottlieb Fichtner
+Christian Meyer
+Johann Gottfried Beulich
+---------------- x79
 1778
 Gottfried Rensch
 1782
@@ -193,3 +202,6 @@ Johann Gottlob Hermann
 Johann Georg Klunker
 1799
 Johann Adam Schlehoser
+----------------
+Johann Adam Schlehoser
+Johann Gottfried Schröter

@@ -1,6 +1,6 @@
 Frauenstein (Buch 234)
 Trauungen 1700-1759
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294307
+https://www.archion.de/de/viewer/churchRegister/294307?pageId=40891309
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x4
 1700
 Michael Göppert
 Wolfgang Fuhrmann
@@ -79,7 +80,7 @@ Andreas Tröger
 Abraham Kretzschmer
 Johann Schubert
 1703
-Georg TRammer
+Georg Trammer
 Samuel Grohmann
 Peter Andreas Schneider
 ----------------
@@ -494,6 +495,7 @@ Johann Göhler
 Andreas Meyer
 Georg Göhler
 Christoph Grumt
+----------------
 ----------------
 Balthasar Dönert
 Johann Christoph Zimmermann
@@ -923,6 +925,7 @@ Johann Friedrich Ruppe
 1744
 Georg Friedrich Rabe
 ----------------
+----------------
 Johann Gottfried Milde
 Christian Valentin Münch
 Samuel Schubert
@@ -1226,6 +1229,7 @@ Johann Heinrich Ditrich
 Johann Gottfried Grohmann
 Gottfried Gemlich
 ----------------
+----------------
 Johann Gottfried Freyberger
 Johann Gottlob Kolbe
 Johann Christian Jäckel
@@ -1268,6 +1272,7 @@ Johann Georg Schmieder
 Gottfried Ehnelt
 Johann Gottfried Böhme
 Georg Gottlieb Bellmann
+----------------
 ----------------
 1758
 Johann Georg Loze

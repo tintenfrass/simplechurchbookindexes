@@ -1,6 +1,6 @@
 Frauenstein (Buch 236)
 Trauungen 1788-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294309
+https://www.archion.de/de/viewer/churchRegister/294309?pageId=40891691
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x22
 1788
 Johann Gottlob Müller
 Johann Christian Erler

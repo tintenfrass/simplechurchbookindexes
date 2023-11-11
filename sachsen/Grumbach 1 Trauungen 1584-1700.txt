@@ -1,21 +1,10 @@
 Grumbach (Buch 1)
 Trauungen 1584-1700
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=282512
+https://www.archion.de/de/viewer/churchRegister/282512?pageId=39022187
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
-Die meisten Vornamen und einige Nachnamen wurden über Shortcuts erstellt. Dabei wurden ähnliche Namen bzw. verschiedene Schreibweisen auf den gleichen Shortcut gelegt. Dadurch enthält diese Liste aber auch Ungenauigkeiten und Fehltranskription, die man beachten muss.
-
-Bsp:
-Anders => Andreas
-Bartholomäus => Barthel
-Greger => Gregor
-Jorge => Georg
-Johannes => Johann
-Matthes => Mattheus
-Merten => Martin
-Nicol/Nikolaus => Nikel
-
-Besonders viele Nachnamen sind schwer lesbar, unsicher und fehltranskribiert.
+Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
+Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
 Erstellt in ca. 6 Stunden
@@ -23,13 +12,15 @@ Mai 2021
 https://github.com/tintenfrass/simplechurchbookindexes 
 
 
+
+---------------- x201
 1584
-Michael Gerlch?
+Michael Gerold
 Jacob Henke?
 Georg Berner
 1585
 Hans Kißling
-Jacob Kirch?
+Jacob K?
 Lucas Kolsdorf
 Melchior Orges?
 ----------------
@@ -38,14 +29,14 @@ Blasius Hennig
 1586
 Caspar Bairchzitzsch?
 Paul Fritzsche?
-Michael ...?
-Peter Freud?
-Simon Fiertzschner?
-Martin Fritzsch?
+Michael ?
+Peter Fritsch?
+Simon Fritzschner?
+Martin Fritzsch
 Georg Irmler
 Lucas Berner
 ----------------
-Mattheus Butter?
+Mattheus Buttner
 1587
 Thomas Herrman
 Mattheus Irmler
@@ -64,7 +55,7 @@ Blasius Scheffel
 Peter Kahlschmid
 Georg Simon
 Donat Wustlich
-Georg Schulz?
+Gregor Schneider
 1589
 Blasius Dittrich
 Friedrich Eiben?
@@ -88,10 +79,10 @@ Michael Salomon
 Thomas Hencke?
 Caspar Zurbeke?
 ----------------
-Benedikt Kutkaß?
-Michael Pschein?
+Benedikt Kutkäß?
+Michael ?
 Lucas Henike?
-Georg Beiternz?
+Georg Gritner?
 Peter Rudloph?
 1592
 Barthel Große
@@ -104,7 +95,7 @@ Laux Henicke?
 Georg Berner
 Georg Golthan?
 Lucas Kupe?
-Georg Berker?
+Georg Becker
 Nikel Döner?
 Blasius Dittrich
 1593
@@ -114,7 +105,7 @@ Hans Kuene?
 Georg Henker?
 ----------------
 1594
-Franz Fiekel?
+Franz Fickel?
 Martin Dittrich
 Hans Kirchner
 Lucas Hencktz?
@@ -127,7 +118,7 @@ Georg Borman
 Georg Kißling
 Mattheus Heine?
 Hans Berner?
-Georg Grilner?
+Georg Gritner
 1595
 Martin Schubert
 Georg Sparhark?
@@ -160,7 +151,7 @@ Lucas Simon
 Christoph Fritzsch
 Hans Geßner?
 Donat Irmler
-Georg Fischer
+Gregor Fischer
 1598
 Valentin Günther?
 Michael Schunicke?
@@ -244,7 +235,7 @@ Martin Irmler
 Georg Nschiege?
 Johann Tamme?
 ----------------
-Lucas Kedez?
+Lucas Kuntz?
 Jacob Kuhn
 1606
 Barthel Keißler
@@ -403,7 +394,7 @@ Martin Schirmer
 Martin Borman
 Georg Peischker?
 Paul Bunthe?
-Mattheus ...?
+Mattheus ?
 Georg Brendel
 1623
 Gregor Pezsch
@@ -416,7 +407,7 @@ Georg Simon
 Georg Ergnkner?
 Johann Krasch?
 Mattheus Irmler
-Johann ...?
+Johann ?
 Johann Dittrich?
 Samuel Rothlonder?
 Valentin Hanech?
@@ -582,10 +573,11 @@ Hans Dohle?
 Martin Schuman
 Martin Borman
 Georg Kirne?
-Peter ...?
+Peter ?
 Martin Kißling
 Jacob Kneiper?
-Michael Limpach (1642)
+1642
+Michael Limpach
 ----------------
 1644
 Georg Merzner?
@@ -648,7 +640,7 @@ Peter Kuhn
 David? Kuhn
 Martin Tzoche
 Benedikt Irmler
-Georg ...?
+Georg ?
 Mattheus? Irmler
 Christoph Findlent?
 Hans Ritter
@@ -694,7 +686,7 @@ Peter Dittrich
 Andreas Schirmer?
 Georg Hencker?
 David Schuman
-Jacob ...?
+Jacob ?
 ----------------
 1656
 Martin Kolsdorf?
@@ -918,7 +910,7 @@ Caspar Irmler
 Georg? Dittrich
 1679
 Georg Irmler
-Hans ...?
+Hans ?
 Hans Patzig
 Georg Kühne
 ----------------
@@ -987,7 +979,7 @@ Hans Hencker
 Christoph Fritzsche
 ----------------
 1688
-Michael Hümsel?
+Michael Hänsel
 Georg Hencker
 Baltzer Rühke?
 Hans Große?
@@ -1022,7 +1014,7 @@ Ambrosius Irmer
 Georg Starke
 Lorenz Kießlig
 Elias Rabe
-Peter ...?
+Peter ?
 Martin Kohlsdorf
 1693
 Georg Dittrich
@@ -1030,7 +1022,7 @@ Peter Henicke
 Jacob Lippe?
 Caspar Kühne
 Michael Büttner
-Johann ...?
+Johann ?
 Anton? Kißlig?
 Gottfried Reiche
 ----------------
@@ -1048,7 +1040,7 @@ Georg Kürbitz?
 Jacob Klingner
 Georg Egber
 Jacob Köhler
-Caspar ...?
+Caspar ?
 ? Just
 Anton Kuntze
 Georg Mehlig

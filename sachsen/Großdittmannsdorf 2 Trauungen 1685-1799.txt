@@ -1,6 +1,6 @@
 Großdittmannsdorf (Buch 2)
 Trauungen 1685-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=279921
+https://www.archion.de/de/viewer/churchRegister/279921?pageId=38495337
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x280
 1685
 Georg Kretzschmer
 1686

@@ -1,6 +1,6 @@
 Großerkmannsdorf (Buch 159)
 Trauungen 1780-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=280079
+https://www.archion.de/de/viewer/churchRegister/280079?pageId=38530316
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -11,6 +11,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x133
 1780
 Johann Gottfried Kluge
 Johann Christian Schneider

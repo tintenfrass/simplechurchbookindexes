@@ -1,6 +1,6 @@
 Fördergersdorf (Buch 198)
 Trauungen 1658-1777
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294273
+https://www.archion.de/de/viewer/churchRegister/294273?pageId=40883804
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -16,6 +16,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x233
 1658
 Georg Galle
 Martin Günther

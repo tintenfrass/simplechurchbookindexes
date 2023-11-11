@@ -1,6 +1,6 @@
 Großdittmannsdorf (Buch 1)
 Trauungen 1641-1685
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=279920
+https://www.archion.de/de/viewer/churchRegister/279920?pageId=38495146
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -16,6 +16,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x112
 1641
 Mattheus Großmann
 1642

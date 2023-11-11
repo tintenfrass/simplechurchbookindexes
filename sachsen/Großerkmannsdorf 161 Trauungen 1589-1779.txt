@@ -1,6 +1,6 @@
 Großerkmannsdorf (Buch 161)
 Trauungen 1589-1779
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=280081
+https://www.archion.de/de/viewer/churchRegister/280081?pageId=38530947
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -15,6 +15,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x60
 1642
 Blasius Angermann
 1677
@@ -456,7 +457,7 @@ Gregor Hule
 Philip Lappert
 ----------------
 1630
-Philip LAppert
+Philip Lappert
 1674
 Hans Lehnhard
 1661
@@ -470,7 +471,8 @@ Barthel Lehmann
 1680
 - Lehmann
 1641
-Michael Leonhard 1670
+Michael Lehmann
+1670
 Christoph Lehmann
 1688
 Michael Lehmann
@@ -741,9 +743,7 @@ Hans Schindler
 - Starcke
 1667
 Mattheus Schade
-----------------
-...
-----------------
+---------------- x29
 1689
 Ambrosius Neether
 1692
