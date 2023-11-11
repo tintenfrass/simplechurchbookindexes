@@ -1,6 +1,6 @@
 Hermsdorf (Buch 365)
 Trauungen 1755-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294420
+https://www.archion.de/de/viewer/churchRegister/294420?pageId=40910305
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x2
 1755
 Johann Gottlieb Liebscher
 Johann Christian Walther

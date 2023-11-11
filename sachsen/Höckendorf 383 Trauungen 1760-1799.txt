@@ -1,6 +1,6 @@
 Höckendorf (Buch 383)
 Trauungen 1760-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294432
+https://www.archion.de/de/viewer/churchRegister/294432?pageId=40911712
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -15,6 +15,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x142
 1760
 Christian Preißker
 Christian Kleber
@@ -587,5 +588,8 @@ Samuel Bellmann
 Carl Gottfried Bormann
 Johann Samuel Leuteritz
 Carl Gottlieb Menzer
+Gottfried Bazig
+Siegmund Gottlieb Menzer
+----------------
 Gottfried Bazig
 Siegmund Gottlieb Menzer

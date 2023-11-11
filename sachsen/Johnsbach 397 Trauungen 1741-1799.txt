@@ -1,6 +1,6 @@
 Johnsbach (Buch 397)
 Trauungen 1741-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294443
+https://www.archion.de/de/viewer/churchRegister/294443?pageId=40914812
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x280
 1741
 Johann Georg Heße
 Michael Mende

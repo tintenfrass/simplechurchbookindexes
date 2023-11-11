@@ -1,6 +1,6 @@
 Johnsbach (Buch 396)
 Trauungen 1618-1740
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294442
+https://www.archion.de/de/viewer/churchRegister/294442?pageId=40914388
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x283
 1618
 Mattheus Herfart
 Hans Köhler
@@ -165,6 +166,7 @@ Christoph Pobe
 Jacob Vogler
 Laux Reichel
 - Erlich
+----------------
 ----------------
 Thomas Fröber
 Jacob Beyer
@@ -559,6 +561,7 @@ Martin Beer
 Martin Büttner
 Georg Dietze
 ----------------
+----------------
 Johann Georg Büttner
 1694
 Johann Jungnickel
@@ -600,6 +603,7 @@ Caspar Vogler
 Gottfried Büttner
 Christian Büttner
 ----------------
+----------------
 Hans Christoph Hosemann
 Georg Wagner
 1702
@@ -620,7 +624,8 @@ Michael Starcke
 Hans Christoph Groschner?
 Christoph Ziegler?
 ----------------
-Michael Bobe
+----------------
+Michael Mohn?
 1705
 Hans Winckler
 Christian Klepsch

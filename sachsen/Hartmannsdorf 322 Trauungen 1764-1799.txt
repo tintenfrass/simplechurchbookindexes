@@ -1,6 +1,6 @@
 Hartmannsdorf (Buch 322)
 Trauungen 1764-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294383
+https://www.archion.de/de/viewer/churchRegister/294383?pageId=40903926
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -17,6 +17,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x4
 1780
 Johann Georg Friedrich Lotze
 Johann Christian Kempe
@@ -388,9 +389,7 @@ Carl Gottfried Arnold
 Daniel Triger?
 Johann Christian Beyer?
 Gottlieb Börner
-----------------
-...
-----------------
+---------------- x38
 1764
 Johann Christian Götzelt
 Christoph Zimmermann

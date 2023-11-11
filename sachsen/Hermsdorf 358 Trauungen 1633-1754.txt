@@ -1,6 +1,6 @@
 Hermsdorf (Buch 358)
 Trauungen 1633-1754
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294413
+https://www.archion.de/de/viewer/churchRegister/294413?pageId=40907737
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x282
 1633
 Jacob Treger
 Caspar Fischer

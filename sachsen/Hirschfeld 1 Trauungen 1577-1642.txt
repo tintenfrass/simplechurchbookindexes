@@ -1,6 +1,6 @@
 Hirschfeld (Buch 1)
 Trauungen 1577-1642
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=282539
+https://www.archion.de/de/viewer/churchRegister/282539?pageId=39028275
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,8 +12,9 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1577
-Michael Starck
+Michael Starcke
 Caspar Weichelt
 Nicol Pelman
 Thomas Lange

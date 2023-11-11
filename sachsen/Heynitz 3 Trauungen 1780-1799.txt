@@ -1,6 +1,6 @@
 Heynitz (Buch 3)
 Trauungen 1780-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=282535
+https://www.archion.de/de/viewer/churchRegister/282535?pageId=39027344
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -21,6 +21,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x45
 1780
 Johann Gottfried Zschoche
 Gottlieb Krüger
@@ -68,9 +69,7 @@ Johann Gottlob Schumann
 ----------------
 Johann Gottlob Schumann
 Johann Gottlieb Starcke
-----------------
-...
-----------------
+---------------- x44
 1781
 Johann Gottlieb Patzig
 1782
@@ -119,9 +118,7 @@ Johann Michael Hoffmann
 Johann Gottlieb Rotsch
 Gotthelf Israel Hencker
 Johann Gottlob Schumann
-----------------
-...
-----------------
+---------------- x37
 1781
 Gottlieb Fischer
 Johann Gottfried Franze
@@ -153,9 +150,7 @@ Johann Gottlob Böhme
 1799
 Johann Gottlob Kluncker
 Johann Gottlieb Triebe
-----------------
-...
-----------------
+---------------- x35
 1782
 Johann Georg Döring
 1783
@@ -185,9 +180,7 @@ Johann Gottlob Jähngen
 Johann Georg Heumann
 1799
 Gottlob Clauß
-----------------
-...
-----------------
+---------------- x20
 1787
 Hans Georg Schubert
 1792
@@ -200,9 +193,7 @@ Gottlob Friedrich Matthäus
 Johann Christian Döring
 1799
 Johann Gottlob Faust
-----------------
-...
-----------------
+---------------- x13
 1791
 Georg Baum
 Johann Gottfried Lehmann

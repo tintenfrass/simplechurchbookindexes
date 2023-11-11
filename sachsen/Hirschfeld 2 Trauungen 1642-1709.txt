@@ -1,6 +1,8 @@
 Hirschfeld (Buch 2)
 Trauungen 1642-1709
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=282540
+https://www.archion.de/de/viewer/churchRegister/282548?pageId=39029965
+https://www.archion.de/de/viewer/churchRegister/282540
+
 
 Das ist ein Index der Trauungen.
 Erstellt direkt vom Index zum Kirchenbuch.
@@ -14,6 +16,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x79
 1642
 Martin Gerber
 Georg Hencker

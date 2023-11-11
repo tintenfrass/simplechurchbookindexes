@@ -1,6 +1,6 @@
 Hennersdorf (Buch 336)
 Trauungen 1593-1655
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294394
+https://www.archion.de/de/viewer/churchRegister/294394?pageId=40905275
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x132
 1593
 Veit Clement
 Martin Stentzel

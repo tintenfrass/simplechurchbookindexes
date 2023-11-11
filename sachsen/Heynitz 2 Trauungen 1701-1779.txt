@@ -1,6 +1,6 @@
 Heynitz (Buch 2)
 Trauungen 1702-1779
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=282534
+https://www.archion.de/de/viewer/churchRegister/282534?pageId=39027141
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -17,6 +17,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x32
 1702
 Andreas Zschoche
 Jacob Köhler
@@ -187,7 +188,7 @@ Johann-Christian Kieslich
 Gottlieb Roßberg
 1774
 Johann-Gottlieb Pannier
-Gottlob Mezsch
+Gottlob Menzel?
 1775
 Johann-Georg Ilsche
 1776
@@ -195,14 +196,11 @@ Johann-Georg Ilsche
 Johann-Georg Kretzschmer
 1778
 Johann-Georg Wittig
-----------------
-...
-----------------
+Johann Gottlieb? Laman?
+---------------- x48
 0000
 Johann-Gottlieb Sorge | Johanna-Christiana Beger
-----------------
-...
-----------------
+---------------- x13
 1701
 Georg Kneippe
 1704
@@ -353,9 +351,7 @@ Johann-Gottfried Richter
 Johann-Gottlieb Erfurt?
 1779
 Carl Baumel
-----------------
-...
-----------------
+---------------- x18
 1704
 Donat Scheunert
 1712
@@ -392,6 +388,7 @@ Christian Hoyer
 1748
 Peter Naumann
 Thomas Richter
+----------------
 1751
 Gottlieb Zschoche
 Johann-Christoph Arnold
@@ -421,9 +418,7 @@ Johann-Friedrich Crellmann
 Johann-Georg Hahn
 1779
 Johann-Gottlob Vetter
-----------------
-...
-----------------
+---------------- x33
 1701
 Martin Funcke
 1703
@@ -507,9 +502,7 @@ Friedrich-Christian Weber
 Johann Starcke
 1776
 Christian-Gottlob Hölzig
-----------------
-...
-----------------
+---------------- x17
 1701
 Abraham-David Arnold
 1707
@@ -552,9 +545,7 @@ Johann-Martin Bär
 Johann-Georg Wulsen?
 1777
 Michael Luca?
-----------------
-...
-----------------
+---------------- x26
 1778
 Christian Pözsch
 Gottfried Erler

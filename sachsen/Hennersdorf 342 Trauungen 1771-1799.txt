@@ -1,6 +1,6 @@
 Hennersdorf (Buch 342)
 Trauungen 1771-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294400
+https://www.archion.de/de/viewer/churchRegister/294400?pageId=40906729
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1771
 Johann Gottlob Rudolf
 Gottfried Krumpelt

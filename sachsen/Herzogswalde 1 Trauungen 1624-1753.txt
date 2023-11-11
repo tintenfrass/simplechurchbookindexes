@@ -1,6 +1,6 @@
 Herzogswalde (Buch 1)
 Trauungen 1624-1753
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=282526
+https://www.archion.de/de/viewer/churchRegister/282526?pageId=39025065
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x275
 1624
 Johann Nagler
 1633
@@ -232,6 +233,7 @@ Andreas Günther
 Michael Kuntze
 1680
 Georg Döring
+----------------
 1681
 Michael Batzig
 Michael Wustlich
