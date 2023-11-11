@@ -1,6 +1,6 @@
 Kesselsdorf (Buch 4)
 Trauungen 1624-1785
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=282553
+https://www.archion.de/de/viewer/churchRegister/282553?pageId=39031240
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -19,7 +19,6 @@ Die Reihenfolge der Einträge ist wie im Kirchenbuch und besteht aus 3 Teilen.
 -1625 bis 1785 (in der Stille)
 
 
-
 Erstellt in ca. 5,5 Stunden
 Juni 2022
 Februar 2023
@@ -28,6 +27,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x399
 1727
 Georg Leuteritz
 Martin Stange
@@ -180,6 +180,9 @@ Nicol Bär
 Johann Schubert
 Christian Tränckner
 Hans-Christoph Barthel
+----------------
+Paul Daniel Longolius
+----------------
 ----------------
 Georg Irmer
 Georg Schellenberg
@@ -543,9 +546,6 @@ Johann Christian Gladewitz
 1754
 Hans Nedes
 Michael Voigt
-----------------
-...
-----------------
 1624
 Paul Dögel
 Caspar Becker
@@ -1738,9 +1738,7 @@ Julius-Bernhard Rohr
 Michael Lommizsch
 Georg Patzig
 Georg Müllbricht
-----------------
-...
-----------------
+---------------- x98
 1625
 Martin Francke
 Georg Becker

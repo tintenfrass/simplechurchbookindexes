@@ -1,6 +1,6 @@
 Krögis (Buch 7)
 Trauungen 1663-1775
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=282579
+https://www.archion.de/de/viewer/churchRegister/282579?pageId=39037788
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -16,6 +16,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1663
 Johann Prescher
 Martin Görn
@@ -483,7 +484,7 @@ Christian Möbius
 Thomas Guck
 Peter Zschoche
 ----------------
-Hans Peutschmann
+Hans Teutschmann
 Andreas Hänsel
 Martin Teichmann
 Samuel Jähnichen
@@ -530,6 +531,7 @@ Johann Rudolf
 Samuel Haberstroh
 Georg Prase
 Peter Köhler
+----------------
 Andreas Grübler
 Johann Burckhart
 Martin Starcke
@@ -708,6 +710,7 @@ Johann Bauch
 Samuel Laus?
 Paul Arnold
 Jacob Lutze
+----------------
 1732
 Georg Zschoche
 Michael Rost
@@ -880,7 +883,7 @@ Johann-Martin Schuster
 Johann-Gottlob Schumann
 Johann Zschäpner
 ----------------
-Gottlieb Mackwitz
+Gottlieb Wackwitz
 1749
 Johann-Christian Haupt
 Johann Roßberg
@@ -1038,6 +1041,7 @@ Michael Burchard
 Johann Gaebel
 Wilhelm Braun
 Gottlob Burckhart
+----------------
 ----------------
 Ernst Gottlieb Eckhold
 Gottfried Nagel

@@ -1,6 +1,6 @@
 Kaditz (Buch 215)
 Trauungen 1701-1757
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=264538
+https://www.archion.de/de/viewer/churchRegister/264538?pageId=36971631
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x293
 1701
 Martin Wirthgen
 Peter Lesching
@@ -504,20 +505,20 @@ Georg Thalheim
 Samuel Hertzschuch
 Jacob Großmann
 Georg Pech
- Hans Krause
- Hans Trobisch
- Martin Hempel
- Andreas Gläde
- ----------------
- Johann-Christian Eichler
- Martin Vogel
- Gottlob-Heinrich Seyrich
- Georg Frantze
- Andreas Schumann
- Georg Schumann
- Georg Frantze
- Hans Iltzsche
- 1730
+Hans Krause
+Hans Trobisch
+Martin Hempel
+Andreas Gläde
+----------------
+Johann-Christian Eichler
+Martin Vogel
+Gottlob-Heinrich Seyrich
+Georg Frantze
+Andreas Schumann
+Georg Schumann
+Georg Frantze
+Hans Iltzsche
+1730
 Hans Vetter
 Martin Schumann
 Peter Taschenberg
@@ -675,6 +676,7 @@ Johann Cohhan?
 Georg Petzold
 Johann-Christoph Taschenberg
 Michael Schultz
+----------------
 Heinrich Grohmann
 Georg Adam
 Johann-Georg Rentzsch

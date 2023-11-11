@@ -1,6 +1,6 @@
 Krögis (Buch 8)
 Trauungen 1776-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=282580
+https://www.archion.de/de/viewer/churchRegister/282580?pageId=39037878
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -14,6 +14,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x4
 1776
 Gottlieb Steude
 Daniel Kühne
@@ -320,4 +321,3 @@ Johann Gottfried Naumann
 Johann Gottfried Rost
 Johann Georg Richter
 Johann Gottlob Naumann
-----------------

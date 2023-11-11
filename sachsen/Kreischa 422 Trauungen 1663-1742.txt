@@ -1,6 +1,6 @@
 Kreischa (Buch 422)
 Trauungen 1663-1742
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294463
+https://www.archion.de/de/viewer/churchRegister/294463?pageId=40918620
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x328
 1663
 Johann Hoffmann
 Georg Mosig

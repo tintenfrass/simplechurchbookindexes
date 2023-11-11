@@ -1,6 +1,6 @@
 Klotzsche (Buch 17)
 Trauungen 1688-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=279936
+https://www.archion.de/de/viewer/churchRegister/279936?pageId=38497881
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -22,12 +22,12 @@ https://github.com/tintenfrass/simplechurchbookindexes
 1690
 Jacob Naumann
 Hans Hahmann
-----------------
 Hans Kuntzsch
 1691
 Hans Hahmann
 Hans Hoffe
 Hans Grahle
+---------------- x7
 Georg Pohle
 1692
 Hans Hahmann
@@ -266,6 +266,7 @@ Adam Nietzsche
 Martin Gäbler
 1745
 Friedrich Pählig
+----------------
 ----------------
 Christian Thiemig
 Friedrich Pählig

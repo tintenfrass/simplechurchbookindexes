@@ -1,6 +1,6 @@
 Klingenberg (Buch 405)
 Trauungen 1602-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=294451
+https://www.archion.de/de/viewer/churchRegister/294451?pageId=40916859
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1602
 Michael Klotz
 1603
@@ -20,6 +21,7 @@ Michael Kreßner
 1604
 Matz Beier
 1605
+----------------
 ----------------
 1606
 Benedikt Halßbecher

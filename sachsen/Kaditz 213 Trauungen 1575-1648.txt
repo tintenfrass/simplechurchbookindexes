@@ -1,6 +1,6 @@
 Kaditz (Buch 213)
 Trauungen 1575-1648
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=264536
+https://www.archion.de/de/viewer/churchRegister/264536?pageId=36970845
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1575
 Valentin Dorn
 Jacob Dietze?
@@ -111,7 +112,7 @@ Urban Hertzschuch?
 Gall Rannpff?
 Michael Drobsch
 ----------------
-Michael Vogel
+Martin? Vogel
 Mats Futzer?
 Michael Windtgen?
 Andreas Gestalg?
@@ -123,6 +124,7 @@ Valentin Dietze
 Burckhard Vogel
 Michael Dietze
 Hans Hertzschuch?
+----------------
 1587
 Lorenz Vogel
 Michael Schumann
@@ -724,9 +726,7 @@ Hans Schertze?
 Lorenz Vogel
 Martin Hoppe
 Martin Vogel
-----------------
-...
-----------------
+---------------- x245
 1645
 Michael Burckhart
 Georg Findeisen
@@ -793,5 +793,3 @@ Hans Wirtgen
 Peter Schumann
 Georg Braune?
 Lorenz Schumann
-----------------
-----------------

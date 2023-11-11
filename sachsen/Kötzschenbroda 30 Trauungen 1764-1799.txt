@@ -1,6 +1,6 @@
 Kötzschenbroda (Buch 30)
 Trauungen 1764-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=279949
+https://www.archion.de/de/viewer/churchRegister/279949?pageId=38501885
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x4
 1764
 Johann Georg Winckler
 Christian Schade
@@ -786,4 +787,4 @@ Samuel Friedrich Schultz
 ----------------
 Johann Christoph Uhlemann
 Friedrich Wilhelm Opitz
-Johann Gottlob Paule
+Johann Gottlob Bause
