@@ -1,6 +1,6 @@
 Meißen St. Afra (Buch 51)
 Aufgebote 1723-1747
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=281129
+https://www.archion.de/de/viewer/churchRegister/281129?pageId=38791633
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,8 @@ September 2023
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
+
+---------------- x3
 1746
 Gottlieb Friedrich Pilarick
 ----------------

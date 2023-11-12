@@ -1,6 +1,6 @@
 Meißen Johanneskirche (Buch 1)
 Trauungen 1628-1681
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=281131
+https://www.archion.de/de/viewer/churchRegister/281131?pageId=38792086
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -19,6 +19,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x94
 1628
 Johann Kluge
 Hans Löwe
@@ -192,8 +193,10 @@ Martin Hencker
 1655
 Peter Rehger
 ----------------
+1656
 Peter Möbis
 ----------------
+1681
 Hans Schröter
 Andreas Hebelt
 Martin Münch

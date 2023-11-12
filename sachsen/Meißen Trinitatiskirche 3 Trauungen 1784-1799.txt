@@ -1,6 +1,6 @@
 Meißen Trinitatiskirche (Buch 3)
 Trauungen 1784-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=281153
+https://www.archion.de/de/viewer/churchRegister/281153?pageId=38796254
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -11,6 +11,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x438
 1784
 Christian Taschenberger
 Johann Gottlob Mahnert

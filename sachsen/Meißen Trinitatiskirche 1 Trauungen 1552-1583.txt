@@ -1,12 +1,13 @@
 Meißen Trinitatiskirche (Buch 1)
 Trauungen 1552-1583
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=281151
+https://www.archion.de/de/viewer/churchRegister/281151?pageId=38795531
 
 Januar 2023
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x187
 1552
 Wolf Rosich | Ursula ?
 Peter Bernhardt? | ? Spiess?

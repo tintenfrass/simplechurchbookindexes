@@ -1,6 +1,6 @@
 Meißen Trinitatiskirche (Buch 2)
 Trauungen 1700-1783
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=281152
+https://www.archion.de/de/viewer/churchRegister/281152?pageId=38795719
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -14,6 +14,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x436
 1700
 Christian Starcke
 Hans-Heinrich Schumann

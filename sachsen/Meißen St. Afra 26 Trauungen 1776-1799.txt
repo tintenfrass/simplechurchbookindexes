@@ -1,6 +1,6 @@
 Meißen St. Afra (Buch 26)
 Trauungen 1776-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=281104
+https://www.archion.de/de/viewer/churchRegister/281104
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -1054,4 +1054,3 @@ Johann Gottfried Kolbe
 Johann Gottlob Antrag
 Johann Gottfried Wadewitz
 Johann Gottlob Rochlitz
-----------------

@@ -1,6 +1,6 @@
 Miltitz (Buch 1)
 Trauungen 1637-1667
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=283154
+https://www.archion.de/de/viewer/churchRegister/283154?pageId=39147454
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
@@ -9,6 +9,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x30
 1637
 Elias Lenckersdorf
 1638
@@ -19,6 +20,7 @@ Georg Spieß
 Peter Klingner
 1640
 Thomas Lutze
+----------------
 Michael Borßdorf
 1642
 Caspar Diendorf
@@ -51,7 +53,6 @@ Simon Richter
 1649
 Jacob Zschoche
 Hans Döring
-
 Jonas Katzschner
 Martin Naumann
 1650

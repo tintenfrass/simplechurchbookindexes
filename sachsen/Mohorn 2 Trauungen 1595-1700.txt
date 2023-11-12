@@ -1,6 +1,6 @@
 Mohorn (Buch 2)
 Trauungen 1595-1700
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=283159
+https://www.archion.de/de/viewer/churchRegister/283159?pageId=39148430
 
 Trauungen von 1571-1584 => Siehe Buch 1
 
@@ -30,6 +30,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x5
 1595
 Peter Hede
 ----------------
@@ -463,6 +464,7 @@ Georg Wießner
 Valentin Borman
 ----------------
 1626
+----------------
 Martin Richter
 Georg Schurtens
 Thomas Dittrich
@@ -589,7 +591,7 @@ Michael Schurt
 Flien? Hede
 Martin Hede
 ----------------
-Hans Jweniger?
+Hans Zweniger
 Martin Funcke
 Peter Schurit
 Jacob Ditze
@@ -745,6 +747,7 @@ Johann Dÿrschel
 ----------------
 Michael Schieffel
 Johann Haspecher?
+----------------
 ----------------
 1649
 Simon Spieß
@@ -1057,6 +1060,8 @@ Michael Hencker
 Georg Strobach
 Stephan Fritzsche
 ----------------
+----------------
+----------------
 1674
 Michael Kneiper
 Peter Dietrich
@@ -1068,6 +1073,8 @@ Michael Dürsel
 ----------------
 Ambrosius Rudolph
 Michael Hecht
+----------------
+----------------
 ----------------
 1675
 Martin Fritzsche
@@ -1083,11 +1090,13 @@ Elias Kneiper
 Georg Schumann
 Martin Thomaß
 ----------------
+----------------
+----------------
 1676
 Martin Trenckner
 Christoph Kundt
 Andreas Fritzsche
-----------------
+---------------- x8
 1677
 Hans Patzig
 Martin Bormann
@@ -1106,6 +1115,8 @@ Lorenz Patzig
 Martin Heÿde
 ----------------
 Georg Schubert
+----------------
+----------------
 ----------------
 1678
 Lorenz Döring
@@ -1127,6 +1138,9 @@ Hans Wustlich
 Martin Döring
 Christian Schumann
 ----------------
+----------------
+----------------
+----------------
 1679
 Martin Hencker
 Hans Brendel
@@ -1142,6 +1156,10 @@ Martin Starcke?
 Peter Müller
 Adam Frietzsche
 ----------------
+----------------
+----------------
+----------------
+----------------
 1680
 Jacob Nicol
 Georg Partzsch
@@ -1150,12 +1168,20 @@ Christian Dierschel
 Michael Hencker
 Michael Keller
 ----------------
+----------------
+----------------
+----------------
+----------------
 1681
 Martin Schumann
 Christian Mehlich
 Christian Schuman
 Martin Keller
 Hans Weigandt
+----------------
+----------------
+----------------
+----------------
 ----------------
 1682
 Thomas Bernhardt
@@ -1164,6 +1190,9 @@ Georg Retzsch
 Georg Schneider
 Hans Pirnichen
 Georg Görlt
+----------------
+----------------
+----------------
 ----------------
 1683
 Martin Rüdiger
@@ -1176,6 +1205,10 @@ Caspar Brendel
 Michael Wustlich
 Georg Hoffmann
 ----------------
+----------------
+----------------
+----------------
+----------------
 1684
 Christian Schuman
 Hans Fritzsche
@@ -1185,6 +1218,8 @@ Christian Fritzsche
 Thomas Brendel
 Michael Görlt
 Christoph Bernharft
+----------------
+----------------
 ----------------
 1685
 Georg Ficke
@@ -1203,9 +1238,14 @@ Michael Haßbecher
 Hans Spieß
 Christian Lindner
 ----------------
+----------------
+----------------
+----------------
 1686
 Christian Rampfft
 Georg Peßler
+----------------
+----------------
 ----------------
 1687
 Christian Kunze
@@ -1221,6 +1261,10 @@ Gottfried Pabst
 Caspar Köhler
 Sebastian Müller
 ----------------
+----------------
+----------------
+----------------
+----------------
 1688
 Johann Christoph Helmricht
 Michael Hede
@@ -1232,11 +1276,17 @@ Johann Preuser
 Johann Metzel
 Johann Schubart
 ----------------
+----------------
+----------------
 1689
 Gregor Götze
 Martin Keller
 Georg Otto
 Heinrich Förster
+----------------
+----------------
+----------------
+----------------
 ----------------
 1690
 Martin Funcke
@@ -1245,6 +1295,8 @@ Andreas Gobisch
 Hans Rost
 Gottfried Dietrich
 Michael Rudolph
+----------------
+----------------
 ----------------
 1691
 Michael Simon
@@ -1257,6 +1309,9 @@ Hans Keller
 Georg Winckler
 Christian Dietrich
 ----------------
+----------------
+----------------
+----------------
 1692
 Jacob Nicol
 Martin Müller
@@ -1268,6 +1323,9 @@ Martin Mohlrabe
 Martin Hahn
 Georg Keller
 ----------------
+----------------
+----------------
+----------------
 1693
 Christian Vetter?
 Johann August Köhler
@@ -1276,6 +1334,9 @@ Nikel Schubart
 Jacob Börner
 Martin Rentzsch
 Georg Wustlich
+----------------
+----------------
+----------------
 ----------------
 1694
 Martin Hälßicht
@@ -1286,9 +1347,14 @@ Christian Philipp
 Christian Müller
 Gottfried Kästner
 ----------------
+----------------
+----------------
+----------------
 1695
 Christian? ?
 Gabriel Reinhart
+----------------
+----------------
 ----------------
 1696
 Martin Kuntze
@@ -1300,9 +1366,15 @@ Gottfried Mezel
 Martin Hoffmann
 Benedict Keller
 ----------------
+----------------
+----------------
+----------------
 1697
 Caspar Heÿde
 Adam Brock
+----------------
+----------------
+----------------
 ----------------
 1698
 Michael Knebel
@@ -1312,11 +1384,15 @@ Elias Schubart
 Jacob Stößler
 Gregor Burckhart
 ----------------
+----------------
+----------------
 1699
 Georg Fickler
 August Kühn
 Martin Rüdiger
 Mattheus Grohmann
+----------------
+----------------
 ----------------
 1700
 Martin Fritzsche

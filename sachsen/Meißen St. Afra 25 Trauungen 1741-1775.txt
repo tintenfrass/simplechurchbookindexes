@@ -1,6 +1,6 @@
 Meißen St. Afra (Buch 25)
 Trauungen 1741-1775
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=281103
+https://www.archion.de/de/viewer/churchRegister/281103?pageId=38785672
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -14,6 +14,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1741
 Martin Krauschitz
 Mattheus Kobisch

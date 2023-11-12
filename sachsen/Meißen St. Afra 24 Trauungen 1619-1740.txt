@@ -1,6 +1,6 @@
 Meißen St. Afra (Buch 24)
 Trauungen 1619-1740
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=281102
+https://www.archion.de/de/viewer/churchRegister/281102?pageId=38785514
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -14,6 +14,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x4
 1619
 Martin Bötger
 Valentin Hensel?
@@ -827,6 +828,7 @@ Peter Grübler
 Wolf Geisler
 Martin Stephan
 Thomas Scholtz
+----------------
 Georg Sorge
 Michael Schramm
 Christoph Burckhart
@@ -886,7 +888,7 @@ Hans Zschoche
 Peter Brausig
 Peter Mohn
 Philip Preschel
--------
+----------------
 Johann Räuberberg
 ----------------
 1651
@@ -2787,6 +2789,7 @@ Simon Stelzner
 Martin Große
 Hans Walther
 Martin Drowisch
+----------------
 ----------------
 Johann Eulitz
 Martin Girne

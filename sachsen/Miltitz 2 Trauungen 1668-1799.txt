@@ -1,6 +1,6 @@
 Miltitz (Buch 2)
 Trauungen 1668-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=283155
+https://www.archion.de/de/viewer/churchRegister/283155?pageId=39147526
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x95
 1668
 Martin Klinger
 1669
@@ -341,7 +342,6 @@ Peter Damm
 Christian Wiegand
 Hans Wackwitz
 Gottfried Pietzsch
-
 Johann-Georg Kühn
 Christian Schlächter
 1742
@@ -408,9 +408,7 @@ Christian Winckler
 1752
 Daniel Schöne
 Johann-Georg Kühnschner
-----------------
-...
-----------------
+---------------- x170
 1753
 Hans Georg Ranft
 Michael Heinrich

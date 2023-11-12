@@ -1,6 +1,6 @@
 Meißen Johanneskirche (Buch 3)
 Trauungen 1657-1730
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=281133
+https://www.archion.de/de/viewer/churchRegister/281133?pageId=38792231
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x119
 1657
 Johann Klingner
 Peter Maune
@@ -269,7 +270,7 @@ Mattheus Limpach
 Georg Böhmig
 Martin Arnold
 ----------------
-Abraham Schneider
+Hans Abraham Schneider
 Valentin Weissig
 Georg Frietzsche
 Peter Scheiblich
@@ -615,6 +616,7 @@ Johann Adam
 ? Meitzner
 Martin Kretzschmer
 ----------------
+----------------
 Martin Peger
 Andreas Mäser
 Christian-Conrad Hoffmann
@@ -733,6 +735,7 @@ Michael Wendsche
 Johann Haynert
 1719
 Georg Albrecht
+----------------
 Georg Schittig
 Jacob Müller
 Martin Kluncker
@@ -797,6 +800,7 @@ Johann Merbitz
 Christian Leuteritz
 Johann-Georg Legel
 Johann Pfützner
+----------------
 Abraham Kleberg
 Martin Beger
 Johann Hase
@@ -828,14 +832,15 @@ Hans-Michael Schultz
 Johann-Adam Lasche
 Martin Unger
 Johann Hermann
-Hans-Wilhelm Mpnckwitz
+Georg Vetter
+----------------
+Hans-Wilhelm Münckwitz
 Johann Lungwitz
 Samuel Förster
 Christoph Bader
 Martin Hecht
 x
 Georg Gergmann
-Georg Vetter
 Georg Umblauft
 ----------------
 Christian Knabe
@@ -858,6 +863,8 @@ Christian Franke
 1728
 Johann-Christoph Bernhard
 Christian Teuscher
+----------------
+Martin Rühle
 Johann-Michael Jordan
 Christian Grimmer
 Johann Frietzsche
@@ -886,6 +893,7 @@ Johann Fischer
 1730
 Johann-Gottlob Hermann
 Martin Leuteritz
+----------------
 Georg Gäbisch
 Martin Hoyer
 Samuel Schüßler
