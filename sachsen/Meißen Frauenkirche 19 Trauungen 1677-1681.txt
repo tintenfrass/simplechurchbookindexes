@@ -1,6 +1,6 @@
 Meißen Frauenkirche (Buch 19)
 Trauungen 1677-1681
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=282628
+https://www.archion.de/de/viewer/churchRegister/282628?pageId=39049821
 
 Trauungen bis 1677 => siehe Buch 16
 
@@ -15,6 +15,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x93
 1677
 Stephan-Friedrich Straube
 Hans Haubold
@@ -152,7 +153,7 @@ Johann Schlechte
 Christoph Friese?
 Andreas Müller
 ----------------
-Georg Söricke
+Georg Sönicke
 Peter Werner
 Christoph Fröbich
 ----------------

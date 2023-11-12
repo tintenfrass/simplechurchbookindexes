@@ -1,6 +1,6 @@
 Leuben bei Dresden (Buch 234)
 Trauungen 1700-1740
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=264558
+https://www.archion.de/de/viewer/churchRegister/264558?pageId=36977434
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x4
 1700
 Christoph Haase
 Hans Hauswald
@@ -441,6 +442,7 @@ Carl Siegmund Thiele
 Jacob Günther
 1734
 Andreas Schütze
+----------------
 Christian Pohle
 Christian Gärtner
 Georg Leschke

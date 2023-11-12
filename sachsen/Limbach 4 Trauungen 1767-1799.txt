@@ -1,6 +1,6 @@
 Limbach (Buch 4)
 Trauungen 1767-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=283109
+https://www.archion.de/de/viewer/churchRegister/283109?pageId=39138522
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x150
 1767
 Johann Adam Wagner
 Christoph Uhlemann

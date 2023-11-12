@@ -1,6 +1,6 @@
 Lausa (Buch 219)
 Trauungen 1644-1657
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=279983
+https://www.archion.de/de/viewer/churchRegister/279983?pageId=38507470
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,8 +13,9 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x80
 1644
-Hans berg?
+Hans Cleinberg?
 Hans Meißner
 Martin Tzschiederich
 ----------------

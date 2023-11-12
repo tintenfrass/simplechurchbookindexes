@@ -1,6 +1,6 @@
 Lausa (Buch 52)
 Trauungen 1757-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=279971
+https://www.archion.de/de/viewer/churchRegister/279971?pageId=38505681
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x7
 1757
 Johann Heinrich Schütze
 Johann Gottfried Grafe

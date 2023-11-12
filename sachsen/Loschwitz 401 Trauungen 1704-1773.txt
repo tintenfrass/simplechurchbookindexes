@@ -1,6 +1,6 @@
 Loschwitz (Buch 401)
 Trauungen 1704-1773
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=264587
+https://www.archion.de/de/viewer/churchRegister/264587?pageId=36984289
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1704
 Georg Patzig
 Johann Georg Patzig
@@ -1688,6 +1689,7 @@ Carl Friedrich Fleischer?
 Samuel Häbig
 Johann Christoph Tidach?
 Johann Christian Saupe
+----------------
 Christian Gäbe?
 Johann Georg Pözsch
 Johann Gottlieb Seyffert?
@@ -1740,6 +1742,7 @@ Johann Georg Angermann
 Paul? Lauterbach
 1767
 Georg Findeisen
+----------------
 ----------------
 Gottfried Leschke
 Johann Gottlieb Böhme

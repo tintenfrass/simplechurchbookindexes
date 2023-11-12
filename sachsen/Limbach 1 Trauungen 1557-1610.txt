@@ -1,6 +1,6 @@
 Limbach (Buch 1)
 Trauungen 1557-1610
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=283106
+https://www.archion.de/de/viewer/churchRegister/283106?pageId=39137905
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die meisten Vornamen wurden über Shortcuts erstellt, 
@@ -15,6 +15,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x95
 1557
 Hans Weinold
 Valentin Dorn
@@ -148,7 +149,7 @@ Georg Schubart
 Georg Birckner
 ----------------
 Martin Reinitzsch
-Hans Zhrobach //Strohbach?
+Hans Theobald?
 1582
 Donat Schubart
 Antonius Nietzsche
@@ -219,7 +220,7 @@ Martin Hoier
 1591
 Stephan Schleist?
 Peter Schuman
--------
+----------------
 Michael Fritzsch
 Clemens Nauman
 ----------------
@@ -245,7 +246,7 @@ Burckhard Gros
 Peter Fichtner
 1595
 Georg Rudolff
---------
+----------------
 Martin Winckler
 Martin Birckner
 ----------------

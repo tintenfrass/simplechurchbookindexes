@@ -1,6 +1,6 @@
 Meißen Frauenkirche (Buch 21)
 Trauungen 1693-1716
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=282630
+https://www.archion.de/de/viewer/churchRegister/282630?pageId=39050124
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -14,15 +14,18 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x20
 1693
 Johann-Philipp Overier
 ----------------
 Johann-Isaac Bauer
 David Schmidt
 Barthel Schmieder
+----------------
 Hans Säuberlich
 Johann-Friedrich Beuchel
 Johann-Ernst Naumann
+----------------
 Friedrich Voigt
 Johann-Gottlob Finsinger
 Andreas Schubart
@@ -1038,6 +1041,7 @@ Georg-Friedrich Krause
 Christian Böse
 Johann-Georg Reichmann
 Johann-Gottlieb Schmidt
+----------------
 Hans Walther
 Gottfried Klem
 Caspar Richter
@@ -1152,4 +1156,3 @@ Christian Frietzsche?
 Andreas Stimmel
 Johann-Christoph Reischberg
 Valentin Clauß
-----------------

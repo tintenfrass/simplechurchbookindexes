@@ -1,6 +1,6 @@
 Limbach (Buch 2)
 Trauungen 1611-1705
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=283107
+https://www.archion.de/de/viewer/churchRegister/283107?pageId=39138056
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die meisten Vornamen wurden über Shortcuts erstellt, 
@@ -15,6 +15,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x164
 1611
 Michael Grellman
 1612
@@ -64,13 +65,14 @@ Hans Gießman
 Georg Köler
 Nicol Nauman
 ----------------
-Jacob Fritzsch
+Andreas Fritzsch
 Peter Sädler
 Michael Philipp
 Martin Dittrich
 1619
 Georg Mittigk
-Georg Marker
+Georg Marckisch?
+----------------
 Christoph Dürsler
 Martin Tham
 Georg Winckler?
@@ -79,6 +81,7 @@ Martin Hoier
 Martin Winckler
 Martin Grellman
 1621
+----------------
 Ambrosius Stelzer
 Donat Burckhard
 Georg Leuderitz

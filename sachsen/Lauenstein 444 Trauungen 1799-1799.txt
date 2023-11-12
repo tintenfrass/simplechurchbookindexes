@@ -1,6 +1,6 @@
 Lauenstein (Buch 444)
 Trauungen 1799-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305469
+https://www.archion.de/de/viewer/churchRegister/305469?pageId=42936274
 
 
 Oktober 2023
@@ -8,6 +8,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x114
 1799
 Johann Adolph Büschel
 Emanuel Siegmund Knauthe

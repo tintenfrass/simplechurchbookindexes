@@ -1,6 +1,6 @@
 Lommatzsch (Buch 8)
 Trauungen 1616-1645
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=283120
+https://www.archion.de/de/viewer/churchRegister/283120?pageId=39139999
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ April 2023
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
+---------------- x20
 1644
 Martin Hanefeld
 Hans Röber
@@ -39,9 +40,7 @@ Martin Große
 1645
 Jacob Münch
 Michael Görler
-----------------
-...
-----------------
+---------------- x212
 1616
 Mattheus Krause
 Clemens Mebus

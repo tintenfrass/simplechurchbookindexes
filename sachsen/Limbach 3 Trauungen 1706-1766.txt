@@ -1,6 +1,6 @@
 Limbach (Buch 3)
 Trauungen 1706-1766
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=283108
+https://www.archion.de/de/viewer/churchRegister/283108?pageId=39138310
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x124
 1706
 Andreas Müller
 Stephan Clauß

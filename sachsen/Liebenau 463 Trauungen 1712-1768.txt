@@ -1,6 +1,6 @@
 Liebenau (Buch 463)
 Trauungen 1712-1768
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305484
+https://www.archion.de/de/viewer/churchRegister/305484?pageId=42939031
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x2
 1712
 Christian Ludwig
 Michael Benjamin Küchler

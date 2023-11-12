@@ -1,6 +1,6 @@
 Lausa (Buch 51)
 Trauungen 1657-1756
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=279970
+https://www.archion.de/de/viewer/churchRegister/279970?pageId=38505342
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1657
 Georg Strauß
 Johann Gentschel

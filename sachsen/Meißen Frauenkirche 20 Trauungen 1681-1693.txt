@@ -1,6 +1,6 @@
 Meißen Frauenkirche (Buch 20)
 Trauungen 1681-1693
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=282629
+https://www.archion.de/de/viewer/churchRegister/282629?pageId=39049971
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,8 +13,10 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x15
 1681
 Daniel Gentzer
+----------------
 Gottfried Pfund
 Balthasar Bohm
 Christoph Schirx?
@@ -75,6 +77,7 @@ Georg Iltzschner
 Franz Kieseling
 Martin Glasewald
 Christian Kniesche
+----------------
 Gottfried Bencker
 Samuel Grünert
 Daniel Berger
@@ -132,6 +135,7 @@ Hans Krause
 ----------------
 Gottfried Schwägeren
 Friedrich Henning
+----------------
 Andreas Kühnel
 Christian Stempel
 Hans Zieger

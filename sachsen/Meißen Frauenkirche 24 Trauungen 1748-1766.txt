@@ -1,6 +1,6 @@
 Meißen Frauenkirche (Buch 24)
 Trauungen 1748-1766
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=282633
+https://www.archion.de/de/viewer/churchRegister/282633?pageId=39050891
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x23
 1748
 Johann-Christoph Hummizsch
 Johann-Christian Janniball
@@ -236,7 +237,7 @@ Carl August Hältzig
 Johann Jacob Hennig
 Carl Andreas Müller
 Christian Beuckert
-
+----------------
 Johann Christian Schultz
 Georg Schleinitz
 Johann Samuel Bauer

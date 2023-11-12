@@ -1,6 +1,6 @@
 Leuben bei Lommatzsch (Buch 11)
 Trauungen 1760-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=282598
+https://www.archion.de/de/viewer/churchRegister/282598?pageId=39041358
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -15,6 +15,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1760
 Peter Winckler
 Christian Gottlieb Carsolsky
@@ -148,6 +149,7 @@ Johann Gottlob Walther
 Gottfried Rost
 Johann Georg Trebus?
 Peter Ditrich
+----------------
 Johann Georg Thomas
 Peter Müller
 Johann Georg Moritz

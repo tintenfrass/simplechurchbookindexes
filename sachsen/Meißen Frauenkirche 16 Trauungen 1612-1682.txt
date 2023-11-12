@@ -1,6 +1,6 @@
 Meißen Frauenkirche (Buch 16)
 Trauungen 1612-1682
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=282625
+https://www.archion.de/de/viewer/churchRegister/282625?pageId=39049352
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x2
 1612
 Melchior Partz
 Andreas Donat

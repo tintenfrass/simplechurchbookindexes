@@ -1,6 +1,6 @@
 Meißen Frauenkirche (Buch 22)
 Trauungen 1716-1735
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=282631
+https://www.archion.de/de/viewer/churchRegister/282631?pageId=39050426
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x22
 1716
 David Simon
 Johann-Gottfried Rothe
@@ -137,6 +138,7 @@ Caspar Hoffmann
 ----------------
 Johann-Jost Edelmann
 Michael Mirich
+----------------
 ----------------
 Gregor Eyselt
 Georg Hager
@@ -381,7 +383,7 @@ Christian-Friedrich Albert
 Johann Schmidt
 Johann-Christian Focke
 ----------------
-Johann-Gottfried Frühnert
+Johann-Gottfried Fröhnert
 Johann Nieße
 Johann-Franz Fröhlich
 Christian Lamprecht
@@ -724,6 +726,7 @@ Johann-Samuel Stamm
 Johann-Martin Kitel
 Johann-Gottfried Gebisch
 1730
+----------------
 Martin Rostig
 Johann-August Hännig
 ----------------
@@ -848,6 +851,7 @@ Gottfried Förster
 Gottfried Kützing
 Johann-Gottfried Wagner
 Martin Schaff
+----------------
 ----------------
 Johann Herbst
 Johann Ilschner
@@ -1102,4 +1106,3 @@ Johann-Anton Meyer
 Johann-Christian Rockstroh
 Johann-Georg Buschendorf
 Johann-Georg Förster
-----------------

@@ -1,6 +1,6 @@
 Leubnitz (Buch 387)
 Trauungen 1777-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=264573
+https://www.archion.de/de/viewer/churchRegister/264573?pageId=36980349
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x4
 1777
 Johann Georg Michael
 Carl Gottlob Schmidt
@@ -661,6 +662,7 @@ Adam Andreas Dinger
 Johann Gottlieb Haase
 Daniel Gottfried Kunze
 Johann Gottlieb Winckler
+----------------
 Christian Heinrich Roßbach
 Benjamin Friedrich Thenius
 Johann Gottlieb Fehrmann
