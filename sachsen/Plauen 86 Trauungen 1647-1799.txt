@@ -1,6 +1,6 @@
 Plauen (Buch 86)
 Trauungen 1647-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=263412
+https://www.archion.de/de/viewer/churchRegister/263412?pageId=36748438
 
 (Plauen bei Dresden)
 
@@ -22,6 +22,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x12
 1647
 Christoph Frietzsche
 Martin Tzschunicke
@@ -1186,6 +1187,7 @@ Johann-Christian Fiedler
 Sebastian? Schindler
 Gottlieb Heine
 Johann-Gottlieb Müller
+----------------
 1750
 Johann Christian Wolf
 Martin Kimmel

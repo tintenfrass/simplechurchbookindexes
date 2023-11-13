@@ -1,6 +1,6 @@
 Possendorf (Buch 525)
 Trauungen 1740-1770
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305535
+https://www.archion.de/de/viewer/churchRegister/305535?pageId=42950783
 
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x214
 1740
 Johann Georg Mathe
 Christian Trepte

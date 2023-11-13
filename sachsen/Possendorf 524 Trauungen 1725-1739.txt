@@ -1,6 +1,6 @@
 Possendorf (Buch 524)
 Trauungen 1725-1739
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305534
+https://www.archion.de/de/viewer/churchRegister/305534?pageId=42950595
 
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x70
 1725
 Jacob Mosig
 Gottfried Rudolf
@@ -118,6 +119,7 @@ Johann Georg Schuricht
 Christian Gärtner
 Johann Christian Vitzhum? Eckstädt?
 ----------------
+----------------
 Johann Georg Kirschten
 Christian Müller
 Michael Gutzer
@@ -149,6 +151,7 @@ Georg Büttner
 1732
 Michael Rauchfuß
 ----------------
+----------------
 Johann Georg Kühne
 Johann Georg Winckler
 Michael Lohse
@@ -174,6 +177,7 @@ Johann Georg Botscher
 Christian Baumgarthen
 Peter Lipsch
 ----------------
+----------------
 Johann Georg Grötzschel
 Georg Hilbert
 Johann Unger
@@ -196,6 +200,7 @@ Johann Höntze
 Martin Lehmann
 Johann Borschberg
 Johann Georg Stäncker
+----------------
 ----------------
 Johann Georg Gärtner
 Abraham Reuther
@@ -232,6 +237,7 @@ Michael Jänichen
 Johann Schuricht
 Christian Lotze
 ----------------
+----------------
 Christian Ulbricht
 Gottlieb Löwe
 Christoph Naumann
@@ -247,7 +253,7 @@ Johann Christoph Berger
 Johann Georg Kühnel
 1737
 Christoph Zühne
-Johann Rej,
+Johann Rehm
 Johann Georg Scherber
 Johann Georg Müller
 Gottfried Hoffmann

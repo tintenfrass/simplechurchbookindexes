@@ -1,6 +1,6 @@
 Pesterwitz (Buch 502)
 Trauungen 1646-1745
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305513
+https://www.archion.de/de/viewer/churchRegister/305513?pageId=42945299
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x283
 1645 ?
 Jacob Müller
 1646
@@ -75,6 +76,7 @@ Martin Scheel?
 Johann-Heinrich Schultz?
 Georg Pietzsch
 1659
+----------------
 Georg Schneider?
 Antonius Pfeiffer
 1660
@@ -627,6 +629,7 @@ Gottfried Bohrisch
 1740
 Johann-Christoph Begen
 Gottfried Mündschman
+----------------
 Johann-Michael Müller
 Johann-Gottfried Wentzel
 1741

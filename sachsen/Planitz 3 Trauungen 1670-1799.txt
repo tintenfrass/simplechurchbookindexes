@@ -1,6 +1,6 @@
 Planitz (Buch 3)
 Trauungen 1670-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289473
+https://www.archion.de/de/viewer/churchRegister/289473?pageId=40225743
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -15,6 +15,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x236
 1670
 1671
 Peter Jahn
@@ -664,6 +665,7 @@ Johann Gottfried Görne
 Ernst Friedrich Zipelius
 Carl Gottlob Wolf
 Johann Gottlob Mahnert
+----------------
 Johann Gottlieb Pinker
 Johann Gottlieb Kretzschmer
 Johann Gottlob Mende

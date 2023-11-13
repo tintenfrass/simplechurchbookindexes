@@ -1,6 +1,6 @@
 Possendorf (Buch 526)
 Trauungen 1771-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305536
+https://www.archion.de/de/viewer/churchRegister/305536?pageId=42951124
 
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x212
 1771
 Johann Georg Höne
 Johann Christian Schirmer
