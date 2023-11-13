@@ -1,6 +1,6 @@
 Obergruna (Buch 1)
 Trauungen 1687-1786
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289465
+https://www.archion.de/de/viewer/churchRegister/289465?pageId=40223760
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -11,6 +11,8 @@ September 2023
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
+
+---------------- x249
 1687
 Michael Straube
 Hans Barthol

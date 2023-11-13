@@ -1,6 +1,6 @@
 Ottendorf (Buch 73)
 Trauungen 1764-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=279993
+https://www.archion.de/de/viewer/churchRegister/279993?pageId=38509801
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -16,6 +16,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x369
 1765
 Friedrich Wilhelm Reinhard
 Johann Christoph Schmiedgen
@@ -144,6 +145,7 @@ Johann Christoph Knöfel
 Christoph Semmler
 Johann Georg Zschiesche
 Johann Georg Thieme
+----------------
 1764
 Johann Georg Zumpe
 1765

@@ -1,6 +1,6 @@
 Ottendorf (Buch 71)
 Trauungen 1668-1741
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=279991
+https://www.archion.de/de/viewer/churchRegister/279991?pageId=38509172
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x180
 1668
 Peter Trentsch
 Martin Thieme
@@ -82,6 +83,7 @@ Thomas Schreiber
 Friedrich Schuster
 Christoph Thieme
 Martin Walther
+----------------
 ----------------
 Christian Friedrich Kolonig?
 Hans Rüdrich

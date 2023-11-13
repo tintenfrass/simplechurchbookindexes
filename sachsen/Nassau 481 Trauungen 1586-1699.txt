@@ -1,6 +1,6 @@
 Nassau (Buch 481)
 Trauungen 1586-1699
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305498
+https://www.archion.de/de/viewer/churchRegister/305498?pageId=42942589
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1586
 Georg Bürner
 Martin Schüller

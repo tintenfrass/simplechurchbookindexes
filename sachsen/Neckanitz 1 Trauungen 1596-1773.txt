@@ -1,6 +1,6 @@
 Neckanitz (Buch 1)
 Trauungen 1596-1773
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=283187
+https://www.archion.de/de/viewer/churchRegister/283187?pageId=39154630
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x108
 1596
 Hironimus Rolle?
 Clemens Schumann

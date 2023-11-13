@@ -1,6 +1,6 @@
 Naustadt (Buch 17)
 Trauungen 1643-1697
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=283185
+https://www.archion.de/de/viewer/churchRegister/283185?pageId=39154438
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -15,6 +15,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1651
 Gregor Adam
 1653

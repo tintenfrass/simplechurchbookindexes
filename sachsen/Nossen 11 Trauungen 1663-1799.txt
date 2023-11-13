@@ -1,6 +1,6 @@
 Nossen (Buch 11)
 Trauungen 1663-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289446
+https://www.archion.de/de/viewer/churchRegister/289446?pageId=40220267
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x26
 1663
 Gregor Burckhart
 Georg Kuntze
@@ -243,6 +244,7 @@ Georg Fröhner
 1682
 Hans Gottfried Otte
 ----------------
+1683
 Michael Grafe
 1684
 Hans Sturm
@@ -1567,7 +1569,6 @@ Johann Caspar Böhme
 Johann Wolf Georg Schimmer
 Friedrich Ballge
 Kilian Kant
-----------------
 ----------------
 Johann Christoph Rechenberg
 Johann Gottlob Mercker

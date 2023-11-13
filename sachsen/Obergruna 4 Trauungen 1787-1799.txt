@@ -1,6 +1,6 @@
 Obergruna (Buch 4)
 Trauungen 1787-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289468
+https://www.archion.de/de/viewer/churchRegister/289468?pageId=40224865
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -11,6 +11,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1787
 Johann Benjamin Rietzsch?
 Samuel Friedrich Gensel
@@ -53,6 +54,7 @@ Johann Gottfried Imhof
 1791
 Johann Christian Tümmel
 Johann Michael Ettelt?
+----------------
 ----------------
 Johann Gottfried Riedel
 Karl Heinrich Hoffmann

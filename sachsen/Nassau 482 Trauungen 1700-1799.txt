@@ -1,6 +1,6 @@
 Nassau (Buch 482)
 Trauungen 1700-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305499
+https://www.archion.de/de/viewer/churchRegister/305499?pageId=42942693
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x4
 1700
 Gottfried Schröter
 Johann Georg Hänsel

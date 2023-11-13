@@ -1,6 +1,6 @@
 Oberau (Buch 3)
 Trauungen 1726-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289460
+https://www.archion.de/de/viewer/churchRegister/289460?pageId=40222995
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x4
 1726
 Martin Schramm
 Hans Röge

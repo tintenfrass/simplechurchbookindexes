@@ -1,6 +1,6 @@
 Ottendorf (Buch 72)
 Trauungen 1742-1764
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=279992
+https://www.archion.de/de/viewer/churchRegister/279992?pageId=38509538
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -11,6 +11,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x162
 1742
 Christoph Thieme
 Hans Georg Mildner
@@ -33,6 +34,7 @@ Hans Georg Thieme
 Hans Georg Gübner
 Johann Gottlob Voigt
 ----------------
+----------------
 Hans Georg Kotte
 Christian Thieme
 Johann Gottlieb Rietschel
@@ -49,6 +51,8 @@ Gottfried Umlauf
 1746
 Elias Grafe
 Johann Christoph Mißbach
+----------------
+----------------
 ----------------
 Christian Thalheim
 Hans Georg Beger
