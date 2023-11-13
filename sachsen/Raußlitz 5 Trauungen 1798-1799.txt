@@ -1,6 +1,6 @@
 Raußlitz (Buch 5)
 Trauungen 1798-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289486
+https://www.archion.de/de/viewer/churchRegister/289486?pageId=40228736
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -11,6 +11,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x253
 1798
 Johann Michael Rost
 Johann Georg Begenau

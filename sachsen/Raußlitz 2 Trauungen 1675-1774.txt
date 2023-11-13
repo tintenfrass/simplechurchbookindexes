@@ -1,6 +1,6 @@
 Raußlitz (Buch 2)
 Trauungen 1675-1774
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289484
+https://www.archion.de/de/viewer/churchRegister/289484?pageId=40228038
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 
@@ -15,6 +15,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x155
 1675
 Martin Pischoff?
 Thomas Bach
@@ -1452,4 +1453,3 @@ Christian Goerner
 Johann Gottlieb Ditrich
 Johann Gottlob Oehme
 Johann Gottfried Kirstein
-----------------

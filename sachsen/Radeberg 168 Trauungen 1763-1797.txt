@@ -1,6 +1,6 @@
 Radeberg (Buch 168)
 Trauungen 1763-1797
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=264499
+https://www.archion.de/de/viewer/churchRegister/264499?pageId=36954949
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x4
 1763
 Johann Gottlieb Hühngen
 Gregor Külkan?
@@ -477,6 +478,7 @@ Johann Gottlob Mitzscherling
 Gottfried Peters
 Carl Gottlob Liebscher
 Johann Carl Wünsche
+----------------
 ----------------
 Johann Gottfried Traugott Conradi
 Johann Traugott Leberecht Kleppisch

@@ -1,6 +1,6 @@
 Radeberg (Buch 167)
 Trauungen 1741-1762
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=264498
+https://www.archion.de/de/viewer/churchRegister/264498?pageId=36954619
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x200
 1741
 Georg Heinrich Voigt
 Johann Georg Meischnelich?

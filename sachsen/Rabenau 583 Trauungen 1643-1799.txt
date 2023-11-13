@@ -5,6 +5,11 @@ https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305587
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
+Hinweis:
+Die Reihenfolge ist
+Teil 1: 1730-1799 aus dem Kirchenbuch 
+Teil 2: 1643-1729 aus dem Register
+
 
 Erstellt in ca. 3 Stunden
 August 2023
@@ -12,562 +17,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
-1643
-David Köhler
-Hans Groß
-Georg Palitzsch
-Martin Spermann
-Christoph Bormann
-Jonas Förlich
-1644
-Martin Bormann
-Balthasar Stuber
-Hans Wagner
-Georg Groß
-1645
-Michael Leschner
-1646
-Georg Heckler
-Peter Lotze
-Hans Hauptvogel
-Hans Klügel
-1647
-Christoph Meltzer
-Michael Weise
-Martin Löwe
-1648
-Justus Wünschmann
-Georg Scheumann
-Michael Hauptvogel
-Jacob Wünschmann
-Georg Müller
-Christian Keidel
-1649
-Peter Ziller
-Martin Franke
-Mattheus Breuser
-Martin Hauptvogel
-Andreas Lotze
-----------------
-Georg Schermesser
-Blasius Mauksch
-Jacob Schrimer
-Georg Müller
-1650
-Heinrich Hubolt
-Georg Hauptmann
-Jacob Adler
-Hans Schumann
-Michael Heckel
-Georg Frank
-Andreas Lorentz
-1651
-Martin Heckel
-Martin Winckler
-Caspar Ösemann
-Georg Wünschmann
-Georg Schumann
-Hans Haubold Schönberg
-1653
-Gregor Mentzer
-Peter Winckler
-Michael Kummer
-Michael Wünschmann
-Hans Wolf
-Christoph Lotze
-Hans Mentzel
-Christoph Hauptvogel
-Georg Seidler
-1654
-Georg Becker
-Georg Müller
-Rudolph Buenau
-Martin Bernhard
-1656
-Michael Wünschmann
-Jacob Hauptvogel
-Jacob Schirmer
-Peter Schumann
-Georg Lorentz
-Peter Schumann
-Georg Kempe
-1657
-Balthasar Schumann
-Georg Müller
-Georg Heise
-Georg Pöschel
-Michael Kürbis
-Georg Weise
-1658
-Michael Weise
-Caspar Lorentz
-Georg Lotze
-Hans Petermann
-Georg Adler
-Georg Paul
-Georg Ösemann
-Martin Müller
-Balthasar Bormann
-1659
-Hans Oeder
-1660
-Georg Klügel
-Georg Hauptmann
-Georg Lotze
-Michael Schumann
-Christian Keidel
-Mattheus Lotze
-Peter Lorentz
-1661
-Michael Jakob
-Mattheus Kennitz
-Georg Gertner
-Caspar Böhme
-Martin Büttner
-Stephan Kretzschmer
-----------------
-1662
-Martin Pfundt
-Andreas Lotze
-Georg Mentzer
-Christoph Hünichen
-Nicol Körner
-1663
-Caspar Tegel
-Hans Georg Reinhart
-1664
-Hans Hanitzsch
-Adam Böhme
-Georg Mauksch
-Hans Mittag
-1665
-Georg Müller
-Georg Bormann
-Hans Begen
-Michael Loße
-1666
-Martin Andreas Erlich
-Michael Schwencke
-Jacob Naumann
-1667
-Jacob Lotze
-Christoph Grünberg
-Johann Samuel Ademi
-Jonas Günther
-Martin Heintze
-Georg Pöschel
-Michael Hanitzsch
-Michael Lotze
-1668
-Theodor Adolph Lindencretz
-Georg Beyer
-Christian Schmidt
-Hans Horn
-1669
-Daniel Hünschen
-Jacob Bischof
-Balthasar Wünschmann
-Salomon Strohbach
-Michael Jänichen
-Hans Heinrich Teichmann
-1670
-Balthasar Neunkirch
-Michael Müller
-Georg Schönberger
-Franz Wolf
-Hans Faselt
-Hans Gerstner
-Georg Hauptvogel
-Georg Wolf
-1671
-Georg Eyserich
-Hans Kayle
-Georg Lorentz
-Hans Hauffe
-Christoph Ackermann
-Paul John
-Christian Klöppel
-Martin Eyserich
-Georg Müller
-1672
-Balthasar Weise
-Martin Grahl
-Balthasar Schumann
-Johann Georg Weißkopf
-Martin Sparmann
-1673
-Moritz Ranisch
-Georg Palitzsch
-Christian Hanitzsch
-Georg Pursche
-Hans Lorentz
-----------------
-1674
-Caspar Schäfer
-Hans Lose
-Martin Bock
-Georg Wünschmann
-Georg Klöppel
-1675
-Philip Keidel
-Georg Wünschmann
-Peter Schmiedgen
-Jacob Rehn
-Balthasar Müller
-Martin Lorentz
-Michael Lotze
-1676
-Balthasar Wünschmann
-Christoph Hünchen
-1677
-Gregor Hauptvogel
-Franz Wolf
-Georg Hepelt
-Balthasar Pöschel
-Michael Adler
-Hans Stencke
-Georg Erlich
-Michael Wünschmann
-Andreas Lotze
-1678
-Georg Klügel
-Hans Wolf
-Georg Wolf
-1679
-Hans Kleber
-Georg Hauptvogel
-Hans Lorentz
-Balthasar Leuteritz
-Andreas Lorentz
-1680
-Georg Beyer
-Georg Höckel
-1681
-Georg Palitzsch
-Georg Lotze
-Michael Böhme
-Heinrich Grahl
-Andreas Rauchfuß
-Hans Christoph Hünchen
-1682
-Peter Kerler
-1683
-Balthasar Palmmann
-Martin Borzmann
-1684
-Balthasar Wünschmann
-Heinrich Große
-Andreas Rauchfuß
-Hans Leutrig
-1685
-Caspar Klüppel
-Martin Weise
-Michael Helwich
-1686
-Martin Nitzsche
-Georg Schirmer
-Georg Müller
-Georg Zichner
-Christian Wolf
-Benedig Golde
-Michael Hauptvogel
-Georg Berger
-Elias Erlich
-Hans Wolf
-1687
-Hans Wolf
-Elias Ehrlich
-Gottfried Keller
-Georg Becker
-----------------
-1688
-Georg Wünschmann
-Andreas Lorentz
-Georg Müller
-Christian Leuteritz
-Christoph Rümler
-Michael Adler
-Christoph Großmann
-1689
-Hans Jacob Körner
-Hans Georg Lotze
-1690
-Georg Müntzel
-Christian Müller
-Jacob Schirmer
-Martin Jentsch
-Hans Müller
-Melchior Kohl
-1691
-Christian Knöfel
-Jacob Lutze
-Georg Wünschmann
-Jacob Hermann
-Caspar Kleber
-Christian Mentzel
-Christoph Mende
-Michael Büttner
-Georg Batzig
-1692
-Salomon Geumann?
-Johann Siegmund Büttner
-Georg Heckel
-Georg Hüngen
-Martin Müller
-Michael Goltsch
-1693
-Martin Thorant
-Jacob Ziener
-1694
-Christian Wünschmann
-Michael Ditrich
-Johann Christoph Rotzsch
-Michael Müller
-1695
-Christoph Nitzschner
-Daniel Jäppel
-Christian Weise
-Christian Lorentz
-Georg Schumann
-1696
-Christian Klippel
-Georg Schumann
-Balthasar Wünschmann
-Georg Lorentz
-Hans Gäbel
-Samuel Ehrlich
-1697
-Michael Weise
-Georg Hennersdorf
-Hans Caspar Böhme
-Heinrich Schubert
-Gottfried Hamann
-Michael Freund
-Hans Reisig
-Christian Büttner
-1698
-Hans Herzig
-Jacob Geier
-Martin Adam
-1699
-Christian Öder
-Hans Caspar Ehrlich
-Hans Windsche
-----------------
-Hans Graupitz
-1700
-Georg Irmer
-Michael Kleber
-1701
-Georg Sparmann
-Christoph Grimmer
-Christian Müller
-Georg Wolf
-Hans Georg Schubert
-Gottfried Lotze
-1702
-Christian Krellmann
-David Carl
-- Wendling
-Samuel Hünchen
-Gregor Müller
-Georg Hamann
-Michael Adler
-Jacob Wigand
-Hans Georg Hünchen
-1703
-Christian Wünschmann
-Christoph Peschel
-Georg Götze
-Andreas Ehrlich
-Hans Müller
-Michael Brummrich
-1704
-Jacob Schirmer
-Christoph Herrich
-Johann Mentzer
-Johann Heinrich Lipsch
-Balthasar Peschel
-Christian Kleber
-1705
-Christian Böhme
-1706
-Christian Wolf
-Michael Kästner
-Christian Müntzel
-Christian Wünschmann
-Georg Schippel
-Gottfried Keppler
-Christian Leuteritz
-Christoph Hüngen
-Daniel Schaller
-Balthasar Richter
-1707
-Johann Tögel
-Michael Lotze
-Andreas Wolf
-1708
-Peter Ditrich
-Jacob Schirmer
-Samuel Aulhorn
-Michael Richter
-Caspar Ehrlich
-Johann Georg Hauptvogel
-Georg Wünschmann
-Johann Georg Brünnel
-Christian Wolf
-Adrian Meyer
-1709
-Donat Ösemann
-Georg Schirmer
-Georg Beger
-Franz Wolf
-Gottfried Wünschmann
-Gottfried Sparmann
-Michael Paul
-Georg Wolf
-----------------
-1710
-Johann Wolf
-1711
-Johann Georg Eysold
-Georg Leischke
-Caspar Helmich
-Christian Lotze
-1712
-Jacob Beger
-Hans Förster
-Johann Caspar Winterfeld
-Christian Schmidt
-Johann Andreas Lipsch
-Johann Andreas Wolf
-1713
-Johann Wigand
-Andreas Rauchfuß
-Georg Holfer
-Daniel Humpfeld
-Michael Leonhard
-Samuel Meitzler
-1714
-Johann Caspar Ehrlich
-Martin Leuteritz
-Georg Nagel
-Georg Müller
-Johann Müntzel
-Andreas Ehrlich
-Gottfried Frietzsche
-Johann Friedrich Hennig
-Christian Forche
-1715
-Johann Gottfried Grahl
-Gottfried Ziener
-Gottlieb Wünschmann
-Johann Georg Schirmer
-Friedrich Hennig
-Georg Leuteritz
-Christoph Gottlieb Grahl
-Christian Müller
-Christian Lotze
-Valentin Kraußold
-Johann Heinrich Grahl
-Johann Peter Krieger
-1716
-Balthasar Wünschmann
-Johann Pege
-Georg Klügel
-1717
-Georg Müntzel
-Johann Georg Wünschmann
-1718
-Johann Samuel Grahl
-1719
-Gottfried Adler
-Christoph Lehmann
-Johann Georg Palitzsch
-Jacob Schramm
-Christian Klippel
-Georg Werner
-Johann Daniel Krieger
-Georg Leischke
-Johann Georg Brünnel
-Johann Georg Krellmann
-1720
-Johann Christoph Lorentz
-Georg Ebert
-Christian Richter
-Johann Georg Hennersdorf
-Johann Klöber
-Johann Georg Ermer
-Johann David Just
-1721
-Johann Christian Stockmann
-Christian Frantz
-Georg Ditrich
-Georg Friedrich Kirchner
-Gottlob Friedrich Gröter
-Siegmund Günther
-Johann Frietzsche
-Martin Drescher
-----------------
-1722
-Johann Georg Wolf
-Gottfried Leder
-Heinrich Prentzel
-Johann Georg Stephan
-Christoph Anders
-Johann Heinrich Hennersdorf
-1723
-Christoph Lorentz
-Johann Nicol Hübschmann
-Johann Christoph Biedermann
-Heinrich Grahl
-Christian Frietzsche
-Gottlieb Richter
-Georg Petermann
-Johann Gottfried Ehrlich
-1724
-Samuel Leuteritz
-Johann Caspar Menzel
-Georg Wolf
-Michael Frietzsche
-1725
-Gottfried Rudolph
-Johann Siegmund Grahl
-Johann Georg Schirmer
-Johann Georg Klippel
-Johann Georg Böhme
-Samuel Ehrlich
-Johann Christian Laue
-Christoph Frietzsche
-Gottfried Stencker
-1726
-Michael Winckler
-Christian Kretzschmer
-Andreas Jentzsch
-Gottlieb Lorentz
-1727
-Christoph Wagner
-Hans Winckler
-Johann Jacob Richter
-Samuel Reißig
-Johann Christian Hünchen
-Caspar Voigt
-Gottfried Frietzsche
-1728
-Christian Lorentz
-Hans Georg Made
-1729
-Johann Samuel Hünchen
-Balthasar Wünschmann
-Gottfried Kepler
-Johann Siegmund Büttner
-Christoph Hennersdorf
-Daniel Liebert
-Johann Christian Wünschmann
-Christian Rauchfuß
-Georg Heckel
-Andreas Wend
-----------------
+---------------- x59
 1730
 Georg Friedrich Kirschner
 Samuel Leuteritz
@@ -653,6 +103,7 @@ Johann Georg Zinner
 Adam Gottfried Ehrlich
 Johann Christian Lehmann
 Johann Andreas Lipsch
+----------------
 ----------------
 Christian Friedrich Vogel
 Christian Wolf
@@ -1228,3 +679,559 @@ Christian Gottlieb Berthold
 Johann Gottlieb Petermann
 Johann Georg Keil
 Carl August Wünschmann
+----------------
+1643
+David Köhler
+Hans Groß
+Georg Palitzsch
+Martin Spermann
+Christoph Bormann
+Jonas Förlich
+1644
+Martin Bormann
+Balthasar Stuber
+Hans Wagner
+Georg Groß
+1645
+Michael Leschner
+1646
+Georg Heckler
+Peter Lotze
+Hans Hauptvogel
+Hans Klügel
+1647
+Christoph Meltzer
+Michael Weise
+Martin Löwe
+1648
+Justus Wünschmann
+Georg Scheumann
+Michael Hauptvogel
+Jacob Wünschmann
+Georg Müller
+Christian Keidel
+1649
+Peter Ziller
+Martin Franke
+Mattheus Breuser
+Martin Hauptvogel
+Andreas Lotze
+----------------
+Georg Schermesser
+Blasius Mauksch
+Jacob Schrimer
+Georg Müller
+1650
+Heinrich Hubolt
+Georg Hauptmann
+Jacob Adler
+Hans Schumann
+Michael Heckel
+Georg Frank
+Andreas Lorentz
+1651
+Martin Heckel
+Martin Winckler
+Caspar Ösemann
+Georg Wünschmann
+Georg Schumann
+Hans Haubold Schönberg
+1653
+Gregor Mentzer
+Peter Winckler
+Michael Kummer
+Michael Wünschmann
+Hans Wolf
+Christoph Lotze
+Hans Mentzel
+Christoph Hauptvogel
+Georg Seidler
+1654
+Georg Becker
+Georg Müller
+Rudolph Buenau
+Martin Bernhard
+1656
+Michael Wünschmann
+Jacob Hauptvogel
+Jacob Schirmer
+Peter Schumann
+Georg Lorentz
+Peter Schumann
+Georg Kempe
+1657
+Balthasar Schumann
+Georg Müller
+Georg Heise
+Georg Pöschel
+Michael Kürbis
+Georg Weise
+1658
+Michael Weise
+Caspar Lorentz
+Georg Lotze
+Hans Petermann
+Georg Adler
+Georg Paul
+Georg Ösemann
+Martin Müller
+Balthasar Bormann
+1659
+Hans Oeder
+1660
+Georg Klügel
+Georg Hauptmann
+Georg Lotze
+Michael Schumann
+Christian Keidel
+Mattheus Lotze
+Peter Lorentz
+1661
+Michael Jakob
+Mattheus Kennitz
+Georg Gertner
+Caspar Böhme
+Martin Büttner
+Stephan Kretzschmer
+----------------
+1662
+Martin Pfundt
+Andreas Lotze
+Georg Mentzer
+Christoph Hünichen
+Nicol Körner
+1663
+Caspar Tegel
+Hans Georg Reinhart
+1664
+Hans Hanitzsch
+Adam Böhme
+Georg Mauksch
+Hans Mittag
+1665
+Georg Müller
+Georg Bormann
+Hans Begen
+Michael Loße
+1666
+Martin Andreas Erlich
+Michael Schwencke
+Jacob Naumann
+1667
+Jacob Lotze
+Christoph Grünberg
+Johann Samuel Ademi
+Jonas Günther
+Martin Heintze
+Georg Pöschel
+Michael Hanitzsch
+Michael Lotze
+1668
+Theodor Adolph Lindencretz
+Georg Beyer
+Christian Schmidt
+Hans Horn
+1669
+Daniel Hünschen
+Jacob Bischof
+Balthasar Wünschmann
+Salomon Strohbach
+Michael Jänichen
+Hans Heinrich Teichmann
+1670
+Balthasar Neunkirch
+Michael Müller
+Georg Schönberger
+Franz Wolf
+Hans Faselt
+Hans Gerstner
+Georg Hauptvogel
+Georg Wolf
+1671
+Georg Eyserich
+Hans Kayle
+Georg Lorentz
+Hans Hauffe
+Christoph Ackermann
+Paul John
+Christian Klöppel
+Martin Eyserich
+Georg Müller
+1672
+Balthasar Weise
+Martin Grahl
+Balthasar Schumann
+Johann Georg Weißkopf
+Martin Sparmann
+1673
+Moritz Ranisch
+Georg Palitzsch
+Christian Hanitzsch
+Georg Pursche
+Hans Lorentz
+----------------
+1674
+Caspar Schäfer
+Hans Lose
+Martin Bock
+Georg Wünschmann
+Georg Klöppel
+1675
+Philip Keidel
+Georg Wünschmann
+Peter Schmiedgen
+Jacob Rehn
+Balthasar Müller
+Martin Lorentz
+Michael Lotze
+1676
+Balthasar Wünschmann
+Christoph Hünchen
+1677
+Gregor Hauptvogel
+Franz Wolf
+Georg Hepelt
+Balthasar Pöschel
+Michael Adler
+Hans Stencke
+Georg Erlich
+Michael Wünschmann
+Andreas Lotze
+1678
+Georg Klügel
+Hans Wolf
+Georg Wolf
+1679
+Hans Kleber
+Georg Hauptvogel
+Hans Lorentz
+Balthasar Leuteritz
+Andreas Lorentz
+1680
+Georg Beyer
+Georg Höckel
+1681
+Georg Palitzsch
+Georg Lotze
+Michael Böhme
+Heinrich Grahl
+Andreas Rauchfuß
+Hans Christoph Hünchen
+1682
+Peter Kerler
+1683
+Balthasar Palmmann
+Martin Borzmann
+1684
+Balthasar Wünschmann
+Heinrich Große
+Andreas Rauchfuß
+Hans Leutrig
+1685
+Caspar Klüppel
+Martin Weise
+Michael Helwich
+1686
+Martin Nitzsche
+Georg Schirmer
+Georg Müller
+Georg Zichner
+Christian Wolf
+Benedig Golde
+Michael Hauptvogel
+Georg Berger
+Elias Erlich
+Hans Wolf
+1687
+Hans Wolf
+Elias Ehrlich
+Gottfried Keller
+Georg Becker
+----------------
+1688
+Georg Wünschmann
+Andreas Lorentz
+Georg Müller
+Christian Leuteritz
+Christoph Rümler
+Michael Adler
+Christoph Großmann
+1689
+Hans Jacob Körner
+Hans Georg Lotze
+1690
+Georg Müntzel
+Christian Müller
+Jacob Schirmer
+Martin Jentsch
+Hans Müller
+Melchior Kohl
+1691
+Christian Knöfel
+Jacob Lutze
+Georg Wünschmann
+Jacob Hermann
+Caspar Kleber
+Christian Mentzel
+Christoph Mende
+Michael Büttner
+Georg Batzig
+1692
+Salomon Geumann?
+Johann Siegmund Büttner
+Georg Heckel
+Georg Hüngen
+Martin Müller
+Michael Goltsch
+1693
+Martin Thorant
+Jacob Ziener
+1694
+Christian Wünschmann
+Michael Ditrich
+Johann Christoph Rotzsch
+Michael Müller
+1695
+Christoph Nitzschner
+Daniel Jäppel
+Christian Weise
+Christian Lorentz
+Georg Schumann
+1696
+Christian Klippel
+Georg Schumann
+Balthasar Wünschmann
+Georg Lorentz
+Hans Gäbel
+Samuel Ehrlich
+1697
+Michael Weise
+Georg Hennersdorf
+Hans Caspar Böhme
+Heinrich Schubert
+Gottfried Hamann
+Michael Freund
+Hans Reisig
+Christian Büttner
+1698
+Hans Herzig
+Jacob Geier
+Martin Adam
+1699
+Christian Öder
+Hans Caspar Ehrlich
+Hans Windsche
+----------------
+Hans Graupitz
+1700
+Georg Irmer
+Michael Kleber
+1701
+Georg Sparmann
+Christoph Grimmer
+Christian Müller
+Georg Wolf
+Hans Georg Schubert
+Gottfried Lotze
+1702
+Christian Krellmann
+David Carl
+- Wendling
+Samuel Hünchen
+Gregor Müller
+Georg Hamann
+Michael Adler
+Jacob Wigand
+Hans Georg Hünchen
+1703
+Christian Wünschmann
+Christoph Peschel
+Georg Götze
+Andreas Ehrlich
+Hans Müller
+Michael Brummrich
+1704
+Jacob Schirmer
+Christoph Herrich
+Johann Mentzer
+Johann Heinrich Lipsch
+Balthasar Peschel
+Christian Kleber
+1705
+Christian Böhme
+1706
+Christian Wolf
+Michael Kästner
+Christian Müntzel
+Christian Wünschmann
+Georg Schippel
+Gottfried Keppler
+Christian Leuteritz
+Christoph Hüngen
+Daniel Schaller
+Balthasar Richter
+1707
+Johann Tögel
+Michael Lotze
+Andreas Wolf
+1708
+Peter Ditrich
+Jacob Schirmer
+Samuel Aulhorn
+Michael Richter
+Caspar Ehrlich
+Johann Georg Hauptvogel
+Georg Wünschmann
+Johann Georg Brünnel
+Christian Wolf
+Adrian Meyer
+1709
+Donat Ösemann
+Georg Schirmer
+Georg Beger
+Franz Wolf
+Gottfried Wünschmann
+Gottfried Sparmann
+Michael Paul
+Georg Wolf
+----------------
+1710
+Johann Wolf
+1711
+Johann Georg Eysold
+Georg Leischke
+Caspar Helmich
+Christian Lotze
+1712
+Jacob Beger
+Hans Förster
+Johann Caspar Winterfeld
+Christian Schmidt
+Johann Andreas Lipsch
+Johann Andreas Wolf
+1713
+Johann Wigand
+Andreas Rauchfuß
+Georg Holfer
+Daniel Humpfeld
+Michael Leonhard
+Samuel Meitzler
+1714
+Johann Caspar Ehrlich
+Martin Leuteritz
+Georg Nagel
+Georg Müller
+Johann Müntzel
+Andreas Ehrlich
+Gottfried Frietzsche
+Johann Friedrich Hennig
+Christian Forche
+1715
+Johann Gottfried Grahl
+Gottfried Ziener
+Gottlieb Wünschmann
+Johann Georg Schirmer
+Friedrich Hennig
+Georg Leuteritz
+Christoph Gottlieb Grahl
+Christian Müller
+Christian Lotze
+Valentin Kraußold
+Johann Heinrich Grahl
+Johann Peter Krieger
+1716
+Balthasar Wünschmann
+Johann Pege
+Georg Klügel
+1717
+Georg Müntzel
+Johann Georg Wünschmann
+1718
+Johann Samuel Grahl
+1719
+Gottfried Adler
+Christoph Lehmann
+Johann Georg Palitzsch
+Jacob Schramm
+Christian Klippel
+Georg Werner
+Johann Daniel Krieger
+Georg Leischke
+Johann Georg Brünnel
+Johann Georg Krellmann
+1720
+Johann Christoph Lorentz
+Georg Ebert
+Christian Richter
+Johann Georg Hennersdorf
+Johann Klöber
+Johann Georg Ermer
+Johann David Just
+1721
+Johann Christian Stockmann
+Christian Frantz
+Georg Ditrich
+Georg Friedrich Kirchner
+Gottlob Friedrich Gröter
+Siegmund Günther
+Johann Frietzsche
+Martin Drescher
+----------------
+1722
+Johann Georg Wolf
+Gottfried Leder
+Heinrich Prentzel
+Johann Georg Stephan
+Christoph Anders
+Johann Heinrich Hennersdorf
+1723
+Christoph Lorentz
+Johann Nicol Hübschmann
+Johann Christoph Biedermann
+Heinrich Grahl
+Christian Frietzsche
+Gottlieb Richter
+Georg Petermann
+Johann Gottfried Ehrlich
+1724
+Samuel Leuteritz
+Johann Caspar Menzel
+Georg Wolf
+Michael Frietzsche
+1725
+Gottfried Rudolph
+Johann Siegmund Grahl
+Johann Georg Schirmer
+Johann Georg Klippel
+Johann Georg Böhme
+Samuel Ehrlich
+Johann Christian Laue
+Christoph Frietzsche
+Gottfried Stencker
+1726
+Michael Winckler
+Christian Kretzschmer
+Andreas Jentzsch
+Gottlieb Lorentz
+1727
+Christoph Wagner
+Hans Winckler
+Johann Jacob Richter
+Samuel Reißig
+Johann Christian Hünchen
+Caspar Voigt
+Gottfried Frietzsche
+1728
+Christian Lorentz
+Hans Georg Made
+1729
+Johann Samuel Hünchen
+Balthasar Wünschmann
+Gottfried Kepler
+Johann Siegmund Büttner
+Christoph Hennersdorf
+Daniel Liebert
+Johann Christian Wünschmann
+Christian Rauchfuß
+Georg Heckel
+Andreas Wend
