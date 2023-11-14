@@ -1,6 +1,6 @@
 Ruppendorf (Buch 641)
 Trauungen 1667-1757
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305629
+https://www.archion.de/de/viewer/churchRegister/305629?pageId=42971959
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x242
 1667
 Tobias Fleischer
 Michael Lotze

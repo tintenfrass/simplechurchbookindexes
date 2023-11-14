@@ -1,6 +1,6 @@
 Reinhardtsgrimma (Buch 617)
 Trauungen 1758-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305612
+https://www.archion.de/de/viewer/churchRegister/305612?pageId=42967531
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x264
 1758
 Georg Friedrich Reichel
 Johann Heinrich Grund

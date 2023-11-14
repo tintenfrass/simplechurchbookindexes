@@ -1,6 +1,6 @@
 Rüsseina (Buch 15)
 Trauungen 1750-1799
-https://www.archion.de/de/viewer/?nocache=1&type=churchRegister&uid=289524
+https://www.archion.de/de/viewer/churchRegister/289524?pageId=40238408
 
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x2
 1750
 Johann Gottfried Hering
 Peter Berger
@@ -609,6 +610,7 @@ Johann Gottfried Wackwitz
 Johann Georg Jahn
 Johann Peter Thieme
 Johann Michael Krause
+----------------
 ----------------
 Johann Gottfried Heynitz
 Johann Christian Möbius

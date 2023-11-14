@@ -1,6 +1,6 @@
 Reinhardtsgrimma (Buch 616)
 Trauungen 1709-1757
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305611
+https://www.archion.de/de/viewer/churchRegister/305611?pageId=42967101
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x241
 1709
 Hans Kühnel
 Christian Rüdrig

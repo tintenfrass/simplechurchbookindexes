@@ -1,6 +1,6 @@
 Ruppendorf (Buch 642)
 Trauungen 1758-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305630
+https://www.archion.de/de/viewer/churchRegister/305630?pageId=42972367
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x4
 1758
 Johann Michael Mentzer
 Johann Gottlieb Müller
@@ -554,6 +555,7 @@ Johann Samuel Leuteritz
 Johann Gottfried Schurich
 Carl Gottfried Lohse
 Johann Gottlob Böhme
+----------------
 Johann Gottfried Baumgarten
 Johann Ehrenfried Klotz
 Johann Gottlieb Köhler

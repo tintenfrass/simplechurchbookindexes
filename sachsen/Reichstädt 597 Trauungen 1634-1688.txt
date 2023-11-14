@@ -1,6 +1,6 @@
 Reichstädt (Buch 597)
 Trauungen 1634-1688
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305597
+https://www.archion.de/de/viewer/churchRegister/305597?pageId=42964385
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x129
 1634
 Christoph Funcke?
 Martin Funcke

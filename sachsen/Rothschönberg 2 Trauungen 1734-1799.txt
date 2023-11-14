@@ -1,6 +1,6 @@
 Rothschönberg (Buch 2)
 Trauungen 1734-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289505
+https://www.archion.de/de/viewer/churchRegister/289505?pageId=40233042
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -14,6 +14,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1734
 Christian Lantzsch
 Daniel Hensel

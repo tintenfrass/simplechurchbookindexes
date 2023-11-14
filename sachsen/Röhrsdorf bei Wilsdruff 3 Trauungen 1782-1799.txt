@@ -1,6 +1,6 @@
 Röhrsdorf bei Wilsdruff (Buch 3)
 Trauungen 1782-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289500
+https://www.archion.de/de/viewer/churchRegister/289500?pageId=40231899
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x227
 1782
 Johann Gottlob Schultz
 Johann Gottlieb Teuchert
@@ -63,6 +64,7 @@ Johann Georg Ditrich
 1789
 Johann Gottfried Maune
 Johann Georg Kirst
+----------------
 Johann Christian Trenkner
 Nicol Schumpelt
 Johann Gottfried Jünger

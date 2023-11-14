@@ -1,6 +1,6 @@
 Reichstädt (Buch 598)
 Trauungen 1689-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305598
+https://www.archion.de/de/viewer/churchRegister/305598?pageId=42964624
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x287
 1689
 Gottfried Fuchs
 1690

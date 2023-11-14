@@ -1,6 +1,6 @@
 Reinhardtsgrimma (Buch 614)
 Trauungen 1597-1641
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305598
+https://www.archion.de/de/viewer/churchRegister/305609?pageId=42966278
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1597
 Georg Lenhard
 Peter Loser
@@ -122,7 +123,7 @@ Georg Ludwig
 Michael Eiserich
 Mattheus Burckhart
 ----------------
-Jacob Scheinecke?
+Jacob Schwecke?
 Hans Schneider
 Burckhard Hubelt
 Michael Jungnickel
@@ -265,6 +266,9 @@ Donat Heinrich
 Valentin Keulig
 Georg Seideler
 Jacob Fleischer
+----------------
+----------------
+----------------
 1610
 Georg Rau
 Jacob Jäckel

@@ -1,6 +1,6 @@
 Rüsseina (Buch 14)
 Trauungen 1711-1749
-https://www.archion.de/de/viewer/?nocache=1&type=churchRegister&uid=289523
+https://www.archion.de/de/viewer/churchRegister/289523?pageId=40238244
 
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x2
 1711
 Peter Lantzsch
 Georg Fischer
@@ -518,6 +519,7 @@ Martin Schneider
 Hans Gottlieb Schmidt
 Christian Tzschoche
 Georg Pincker
+----------------
 Michael Donat
 Hans Georg Große
 Michael Fischer
@@ -541,7 +543,7 @@ Hans Hamann
 Johann Gottfried Kuntze
 Donat Lanckisch
 ----------------
-Gregor Giren?
+Gregor Girner?
 Georg Perisch
 Paul Georg Kanneberg
 1728

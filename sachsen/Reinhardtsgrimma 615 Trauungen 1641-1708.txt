@@ -1,6 +1,6 @@
 Reinhardtsgrimma (Buch 615)
 Trauungen 1641-1708
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305610
+https://www.archion.de/de/viewer/churchRegister/305610?pageId=42966627
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -15,6 +15,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1647
 Michael Bodel
 Georg Bischof
@@ -862,9 +863,7 @@ Johann Georg Bischof
 Samuel Schneider
 Gottfried Schreiber
 Georg Pfund
-----------------
-...
-----------------
+---------------- x16
 1642
 Hans Bretschneider
 1643
