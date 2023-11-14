@@ -1,6 +1,6 @@
 Seifersdorf bei Radeberg (Buch 189)
 Trauungen 1607-1712
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=264520
+https://www.archion.de/de/viewer/churchRegister/264520?pageId=36962795
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x204
 1607
 ----------------
 1608
@@ -476,4 +477,3 @@ Christian Klotzsche
 Christoph Zumpe
 Andreas Steglich
 Andreas Steglich
-----------------

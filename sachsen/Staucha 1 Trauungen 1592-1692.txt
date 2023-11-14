@@ -1,6 +1,6 @@
 Staucha (Buch 1)
 Trauungen 1592-1692
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289560
+https://www.archion.de/de/viewer/churchRegister/289560?pageId=40245950
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x4
 1603
 Hans Gauzig?
 Hans Böhme

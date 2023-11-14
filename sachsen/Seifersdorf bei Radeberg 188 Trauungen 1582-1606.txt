@@ -1,6 +1,6 @@
 Seifersdorf bei Radeberg (Buch 188)
 Trauungen 1582-1606
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=264519
+https://www.archion.de/de/viewer/churchRegister/264519?pageId=36962757
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -11,6 +11,8 @@ September 2023
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
+
+---------------- x31
 1582
 Donat Eckelmann
 Hans Stölzer

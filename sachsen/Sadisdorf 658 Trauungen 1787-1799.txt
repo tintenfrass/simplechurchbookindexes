@@ -1,6 +1,6 @@
 Sadisdorf (Buch 658)
 Trauungen 1787-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305642
+https://www.archion.de/de/viewer/churchRegister/305642?pageId=42974913
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x365
 1787
 Johann Christoph Ehrenfried Grohmann
 Samuel Fleischer

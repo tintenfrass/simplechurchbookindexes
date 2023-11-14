@@ -1,6 +1,6 @@
 Sadisdorf (Buch 656)
 Trauungen 1643-1671
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305640
+https://www.archion.de/de/viewer/churchRegister/305640?pageId=42973901
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x198
 1643
 Georg Reichel
 Melchior Köhler
@@ -343,5 +344,6 @@ Christoph Voigt
 Israel Klemm
 Andreas Groß
 A? Rudolf
+----------------
 ----------------
 Georg Gießmann

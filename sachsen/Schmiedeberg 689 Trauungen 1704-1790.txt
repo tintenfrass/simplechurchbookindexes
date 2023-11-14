@@ -1,6 +1,6 @@
 Schmiedeberg (Buch 689)
 Trauungen 1704-1790
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305666
+https://www.archion.de/de/viewer/churchRegister/305666?pageId=42979294
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x184
 1704
 Heinrich Berger
 Gottfried Eußrich
@@ -76,6 +77,7 @@ Andreas Lange
 1718
 Friedrich Wilhelm Braune
 Georg Ernst Stolle
+----------------
 ----------------
 Hans Christoph Köhler
 Gabriel Weiß

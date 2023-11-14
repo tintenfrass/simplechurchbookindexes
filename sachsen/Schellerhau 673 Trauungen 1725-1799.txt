@@ -1,6 +1,6 @@
 Schellerhau (Buch 673)
 Trauungen 1725-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305654
+https://www.archion.de/de/viewer/churchRegister/305654?pageId=42977057
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1725
 Gottfried Nestler?
 Johann David Hermann
@@ -43,9 +44,7 @@ Johann Christoph Lorentz
 Andreas Groß
 Johann Christian Wunderwald
 Johann Christoph Kästner
-----------------
-...
-----------------
+---------------- x144
 1730
 Johann Christian Lästner
 Johann Georg Valentin

@@ -1,6 +1,6 @@
 Seifersdorf bei Dippoldiswalde (Buch 707)
 Trauungen 1633-1692
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305679
+https://www.archion.de/de/viewer/churchRegister/305679?pageId=42981008
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x200
 1633
 Georg Bormann
 Georg Begen

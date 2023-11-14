@@ -1,6 +1,6 @@
 Schönborn (Buch 183)
 Trauungen 1607-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=264514
+https://www.archion.de/de/viewer/churchRegister/264514?pageId=36959931
 
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x196
 1607
 Christoph Schmidt
 1608

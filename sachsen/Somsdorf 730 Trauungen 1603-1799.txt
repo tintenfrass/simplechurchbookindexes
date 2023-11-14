@@ -1,6 +1,6 @@
 Somsdorf (Buch 730)
 Trauungen 1603-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305700
+https://www.archion.de/de/viewer/churchRegister/305700?pageId=42987425
 
 Das ist ein Index der Trauungen.
 
@@ -18,6 +18,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x67
 1603
 Wentzel Balitzsch | Barbara Schuman
 Antonius Hoffman | Anna Kleber

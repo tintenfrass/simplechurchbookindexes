@@ -1,6 +1,6 @@
 Seifersdorf bei Dippoldiswalde (Buch 706)
 Trauungen 1624-1632
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305678
+https://www.archion.de/de/viewer/churchRegister/305678?pageId=42980809
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x139
 1624
 Peter Haman
 1625

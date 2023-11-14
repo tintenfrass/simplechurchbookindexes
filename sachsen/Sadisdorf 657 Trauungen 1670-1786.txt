@@ -1,6 +1,6 @@
 Sadisdorf (Buch 657)
 Trauungen 1670-1786
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305641
+https://www.archion.de/de/viewer/churchRegister/305641?pageId=42974349
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x311
 1670
 Gottfried Kreyschmar
 Peter Nüßgen

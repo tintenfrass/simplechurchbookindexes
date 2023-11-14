@@ -1,6 +1,6 @@
 Staucha (Buch 10)
 Trauungen 1741-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289569
+https://www.archion.de/de/viewer/churchRegister/289569?pageId=40248169
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,8 +12,9 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1741
-Johann Gottlieb Striger
+Johann Gottlieb Steiger
 Peter Seyffert
 Gottlieb Fischer
 Martin Müller
@@ -871,6 +872,7 @@ Gottlieb Zieger
 Johann Gottlob Krüger
 Johann Christian Kohl
 Johann Christian Möbiuß
+----------------
 ----------------
 Johann Christian Schultz
 Johann Gottlob Leidert

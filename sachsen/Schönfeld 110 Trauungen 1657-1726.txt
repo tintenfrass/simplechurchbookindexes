@@ -1,9 +1,8 @@
 Schönfeld (Buch 110)
 Trauungen 1657-1726
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=280030
+https://www.archion.de/de/viewer/churchRegister/280030?pageId=38520567
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
-
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
@@ -13,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x2
 1657
 Georg Hoffmann
 Hans Rüßel

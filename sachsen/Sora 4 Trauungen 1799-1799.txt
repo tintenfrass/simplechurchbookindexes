@@ -1,6 +1,6 @@
 Sora (Buch 4)
 Trauungen 1799-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289558
+https://www.archion.de/de/viewer/churchRegister/289558?pageId=40245630
 
 
 Mai 2023
@@ -8,6 +8,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x135
 1799
 Johann Georg Zimmermann
 Johann Christian Hermann

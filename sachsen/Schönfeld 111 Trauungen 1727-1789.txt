@@ -1,9 +1,8 @@
 Schönfeld (Buch 111)
 Trauungen 1727-1789
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=280031
+https://www.archion.de/de/viewer/churchRegister/280031?pageId=38520871
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
-
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
@@ -13,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1727
 Carl Rudolph Andrea
 Christoph Kögel
@@ -635,6 +635,7 @@ Johann Georg Michael
 Johann Christoph Roßig
 Johann Christoph Wehner
 Johann Gierth
+----------------
 ----------------
 Johann Christoph Bär
 Hans Christoph Kretzschmer

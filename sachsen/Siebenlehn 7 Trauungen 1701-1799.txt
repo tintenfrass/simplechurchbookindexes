@@ -1,6 +1,6 @@
 Siebenlehn (Buch 7)
 Trauungen 1701-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289545
+https://www.archion.de/de/viewer/churchRegister/289545?pageId=40244035
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -13,6 +13,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x2
 1701
 Michael Francke
 Friedrich Rensberg
@@ -91,6 +92,7 @@ Hans Gottfried Krautheintze
 Melchior Friebe
 Clemens Dinndorf
 Caspar Dang?
+----------------
 ----------------
 Hans Michael Berthold
 Christian Dinndorf

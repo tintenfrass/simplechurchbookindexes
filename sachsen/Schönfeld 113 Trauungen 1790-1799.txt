@@ -1,9 +1,8 @@
 Schönfeld (Buch 113)
 Trauungen 1790-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=280033
+https://www.archion.de/de/viewer/churchRegister/280033?pageId=38521237
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
-
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
@@ -13,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x2
 1790
 Johann Gottfried Fehre
 Johann Christoph Kleppisch
@@ -22,6 +22,7 @@ Johann Gottfried Küntzel
 Johann Michael Köhler
 Johann Gottfried Lehmann
 Johann Christoph Schmidt
+----------------
 Johann Christoph Zimmer
 Johann Christian Nacke
 Johann Christoph Zschietzelt
