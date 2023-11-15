@@ -1,6 +1,6 @@
 Weißig (Buch 131)
 Trauungen 1712-1729
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=280051
+https://www.archion.de/de/viewer/churchRegister/280051?pageId=38525196
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -15,6 +15,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x73
 1712
 Georg Gürth
 Christoph Johne
@@ -250,9 +251,7 @@ Johann Georg Leupoldt
 Christoph Angermann
 Martin Mieltz
 Johann Georg Kuntze
-----------------
-...
-----------------
+---------------- x40
 1715
 Martin Weißig
 Christoph Wiedemann

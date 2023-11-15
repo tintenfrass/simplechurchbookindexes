@@ -1,6 +1,6 @@
 Unkersdorf (Buch 4)
 Trauungen 1793-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289610
+https://www.archion.de/de/viewer/churchRegister/289610?pageId=40255438
 
 
 August 2023
@@ -8,6 +8,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1793
 Johann Christian Rüdiger
 Johann Gottlieb Lange

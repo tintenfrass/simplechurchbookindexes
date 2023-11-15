@@ -1,6 +1,6 @@
 Tanneberg (Buch 1)
 Trauungen 1663-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289592
+https://www.archion.de/de/viewer/churchRegister/289592?pageId=40251345
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -15,6 +15,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1663
 Valentin Grellmann
 Michael Adam
@@ -771,4 +772,3 @@ Johann Michael Gottschalk
 1799
 Carl Friedrich Lindner
 Johann Christian Kießlich
-----------------

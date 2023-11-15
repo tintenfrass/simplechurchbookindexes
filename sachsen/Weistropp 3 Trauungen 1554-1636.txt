@@ -1,6 +1,6 @@
 Weistropp (Buch 3)
 Trauungen 1554-1636
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289637
+https://www.archion.de/de/viewer/churchRegister/289637?pageId=40258580
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Viele Namen sind schwer lesbar, unsicher und teilweise fehltranskribiert.
@@ -11,6 +11,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x5
 1554
 Joannes Moller
 Simon Weber
@@ -27,6 +28,7 @@ Bartholomeus Rabe
 Kilian Rülcke
 Laurentig Philip
 ----------------
+----------------
 1555
 Blasius Hoÿer
 Marcus Claus
@@ -34,16 +36,17 @@ Donat Pattig
 Fabian Nauman
 Joannes Merten
 ----------------
+----------------
 1556
 Blasius Voigt
 Erhard Herman
 Peter Furman
 Georg Gansauge
 ----------------
-1557
+----------------
 ----------------
 1558
-Eozdig? Bandisch
+Egidius Bandisch
 Sebastian Müller
 Kilian Donat
 Peter Koler
@@ -86,7 +89,7 @@ Matthes Gansauge
 1561
 Phillip Gunther
 ----------------
-1562
+----------------
 ----------------
 1563
 Ambrosius Wustling?
@@ -102,7 +105,7 @@ Martin Hudie
 Joseph Schroter
 Ambrosius Schedruß
 Peter Borisch?
-?
+Ilius? Krettschman?
 Johan Claus
 ----------------
 1564
@@ -112,6 +115,7 @@ Hans Richter
 Georg Bdin?
 Jorg? Kaul
 Peter Furman
+----------------
 ----------------
 1565
 Gregor? Koler
@@ -135,7 +139,7 @@ Peter Porzsche?
 Valten Prehel?
 ----------------
 1567
-Antonius Norun
+Antonius Norun?
 Sebastian Rusel
 Jacob Heuptman
 Benedig Klingstein
@@ -169,6 +173,7 @@ Caspar Lobener
 Matthes Schuman
 Simon Irmeter?
 ----------------
+----------------
 1571
 Jorg Grelman
 Georg Rußel
@@ -178,6 +183,7 @@ Benedikt Meister?
 Caspar Ander(Kirsten?)
 Donat Doring
 Jorg Schittiger?
+----------------
 ----------------
 1572
 Benedig Gansauge
@@ -197,6 +203,7 @@ Valentin Bachman
 Gregor Lörigke
 Hans Burckhardt
 Laurentius Teigel?
+----------------
 ----------------
 1574
 Paul Dorn
@@ -220,6 +227,7 @@ Paul Porische?
 Metthes Lobener
 Hans Reuhe
 ----------------
+----------------
 1576
 Jorge Nauman?
 Ambrosius Hauman?
@@ -228,6 +236,7 @@ Michael Kaphan?
 Martin Nauman
 Jacob Ferman
 Jacob Günther
+----------------
 ----------------
 1577
 Johannes Dont
@@ -253,6 +262,7 @@ Nicol Eÿmbarth?
 x
 Andreas Claus
 ----------------
+----------------
 1578
 Georg Klingstein
 Bartholomas Töpper?
@@ -264,6 +274,7 @@ Franciscus Bark?
 Valentin Schüttich
 Martin Fritzsch
 Hieronymus Lenyitz?
+----------------
 ----------------
 1579
 Ambrosius Rentzsch
@@ -283,6 +294,7 @@ Paul Jungtman?
 Bartholomæus Bartzer?
 Georg Schubartz
 ----------------
+----------------
 1581
 Salomon Fickler
 Caspar Baudisch?
@@ -292,7 +304,7 @@ Ambrosius Wagmut?
 Donat Löber
 ----------------
 1582
-Johannes Ehorgn?
+Johannes John?
 Burchard Preuhel?
 Bartholomæus Burckhardt
 Johannes Burchardt
@@ -301,6 +313,7 @@ Bartholomæus Philipp
 Raphael Fickler
 Jacob Pulman?
 Peter Zimmermann
+----------------
 ----------------
 1583
 Johannes Fritzsche
@@ -326,6 +339,7 @@ Georg Rüßel
 Johannes Rabe
 Jacob Gansauge
 Johannes Rost?
+----------------
 ----------------
 1585
 Caspar Weber
@@ -381,7 +395,7 @@ Johannes Leuderitz
 Donat Merten
 ----------------
 1589
-Peter Kurlig?
+Peter Wusling
 Johannes Schultze
 Georg Adam
 Donat Bruchhardt?
@@ -391,6 +405,7 @@ Donat Crausy?
 Georg Gansauge
 Donat Günther
 Peter Gansauge
+----------------
 ----------------
 1590
 Andreas Nauman
@@ -403,6 +418,7 @@ Georg Vaugel?
 Martin Wintzer
 Blasius Schederich?
 Georg Schederich?
+----------------
 ----------------
 1591
 Michael Fehrman
@@ -424,11 +440,15 @@ Martin Leuderitz
 Martin Kolßtorph?
 Jacob Nauman
 ----------------
+----------------
 1593
+----------------
 ----------------
 1594
 ----------------
+----------------
 1595
+----------------
 ----------------
 1596
 Georg Günther
@@ -444,6 +464,7 @@ Andreas Hoyer
 Caspar Maurer
 Laurentius Petzsch
 ----------------
+----------------
 1597
 Jacob Hilligk
 Georg Wusling
@@ -456,6 +477,7 @@ Jacob Schirmer
 Thomas Rabe
 Peter Peuchel?
 Caspar Schüter?
+----------------
 ----------------
 1598
 Donat Burchhardt
@@ -471,6 +493,12 @@ Johannes Prichel?
 ----------------
 1599
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 1600
 Georg Petzsch
 Christoph Behr
@@ -481,6 +509,8 @@ Martin Herman
 Blasius Hauer?
 Georg Schederich?
 Simon Bruchlitz
+----------------
+----------------
 ----------------
 1601
 Laurentius Kenyzer?
@@ -494,6 +524,8 @@ Hans Burchhardt
 Georg Wurlich?
 Ambrosius Bernd
 ----------------
+----------------
+----------------
 1602
 Ambrosius Berndt
 Matthæus Fichter?
@@ -505,6 +537,8 @@ Georg Nikelchin?
 Johannes Albertus
 Nicolaus Meiner
 Marcus Claus
+----------------
+----------------
 ----------------
 1603
 Philipp Schönbergk
@@ -522,6 +556,9 @@ Jacob Nauman
 Michael Heyner?
 Jacob Otther?
 ----------------
+----------------
+----------------
+----------------
 1604
 Andreas Petzsch
 Andreas Kühne
@@ -529,6 +566,7 @@ Peter Kemynitzer?
 Benedikt Irmke?
 Georg Freundt
 Urban Gansauge
+----------------
 Gregor Köler
 Ambrosius Preißiger
 Thomas Grellmann
@@ -537,6 +575,11 @@ Johannes Heinrich Eckerbergk
 Georg Jahn
 Laurentius Winckler
 Martin Nauman
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1605
 Martin Köler
@@ -547,7 +590,11 @@ Martin Burchhardt
 Martin Schrempel
 Georg Winckler
 Gregorius Rüßel
-Hans Kählschmdiedt
+Hans Kähltschmiedt
+----------------
+----------------
+----------------
+----------------
 ----------------
 1606
 Martin Herter?
@@ -560,6 +607,9 @@ Martin Bendel?
 Jacob Frunk?
 Hans Weber
 ----------------
+----------------
+----------------
+----------------
 1607
 Antonius Nörner?
 Benedikt Jahn
@@ -570,6 +620,9 @@ Michaël Donath
 Georg Claus
 Mathaeus? Ulman
 Elias Ditze
+----------------
+----------------
+----------------
 ----------------
 1608
 Thomas Adam
@@ -586,6 +639,9 @@ Christian? Güntherode?
 Mertten Fehrman
 Jacob Bartel
 ----------------
+----------------
+----------------
+----------------
 1609
 Georg Mehlich
 Georg Irmich?
@@ -599,6 +655,13 @@ Paul Preißiger
 Martin Ditze
 Laurentsus Daschenbergk
 Georg Hempel
+----------------
+----------------
+----------------
+----------------
+Jacob Naumann
+Peter Burchard
+Ambrosius Potzscher
 ----------------
 1610
 Stephan Giesman
@@ -617,8 +680,12 @@ Valentin Ranft
 Bartholomæus Patz
 Valentin Hörriker
 ----------------
+----------------
+----------------
+----------------
+----------------
 1611
-Abraham Müllbarh?
+Abraham Müllbach
 Georg Große
 Urban Ranft
 Jacob Weber
@@ -626,8 +693,12 @@ Jacob Weber
 Martin Schultz
 Caspar Ulman
 ----------------
+----------------
+----------------
+----------------
+----------------
 1612
-Martin Störf
+Martin Störl
 Michael Donat
 Philipp Schüttig
 Georg Rotzsch
@@ -638,18 +709,17 @@ Martin Keller
 ----------------
 ----------------
 Georg Donath
-Johannes Hühne?
-Johannes Eicheler?
+Johannes Hühne
+Johannes Eicheler
 ----------------
 Martin Winckler
-Georg Brichlitz?
-Georg Krausyer?
+Georg Bruchlitz
+Georg Krauspe?
 Georg Petzsch
-Philipp
-Burchhardt
+Philipp Burchhardt
 Georg Schedrich
 ----------------
-Peter Ranfte?
+Peter Ranft
 Martin Schneider
 Michael Mehlich
 ----------------
@@ -659,11 +729,25 @@ Michaël Preisiger
 Georg Kürschner
 Martin Preuchel?
 ----------------
-Bartholomeus sparman
+Bartholomeus Sparman
 Peter Fuhrman
 Michaël Donath
 Balthasar Hoffman
 Paul Möller
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1614
 Elias Schuman
@@ -681,14 +765,53 @@ Johannes Burchhardt
 ----------------
 Caspar Philipp
 Mathaeus Hertzschuch
-Georg Prichel?
+Georg Peuchel?
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+Jacob Hempel
+Jacob Peuchel
+Simon Rödigen
+Barthel Habeldt
+Johannes Schröter
+Thomas Rabe
+Georg Naumann
+Peter Pitzsch
+Georg Patz
+Johannes Fehrman
+Elias Schumann
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1615
 Martin Philipp
 David Fickler
 Bartholomæus Philipp
 ----------------
-Georg Harrman
+Georg Haneman?
 Georg Fehrman
 Donat Burchhardt
 Gregor Petzsch
@@ -701,6 +824,12 @@ Jacob? Berger?
 Georg Andrien
 Michaël Schönbergk
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 Balthasar Mehlich
 Jacob Schönbergk
 ----------------
@@ -709,21 +838,33 @@ Bartholomaus Hämpel
 Georg Götze
 Georg Töpper?
 ----------------
-Caspar Rombirgkt?
+Caspar Romburgk
 Michael Clauß
 Andreas Schade
 Johannes Nauman
 Simon Rhödigen
 ----------------
 Martin Burchhardt
-Martin Lerschind?
+Martin Leckscheid
 Caspar Rudolph
-Jacob Wurlich
+Jacob Wuslich?
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+Johannes Seidler
+Martin Leuderitz
+Georg Kummert
+----------------
+Jacob Stange
+Hans Bischoff
 ----------------
 1617
 Gregor Hanke
-Georg Meurer
-Mathaeus? Schlink?
+Georg Meuner
+Mathaeus? Schlick?
 Elias Merbitz
 Georg Hauptman
 Philip Patz
@@ -738,9 +879,20 @@ Franz Schütter
 Daniel Naumlitz
 Michaël Schüttich
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+Georg Schrempel
+Andreas Winckler
+----------------
 1618
 Benedikt Fickler
-Michael Tzschunke?
+Michael Tzschunke
 Georg Schüttich
 Benno Wolff
 Martin Schuster
@@ -750,7 +902,7 @@ Barthel Kraußpe
 Christoph Baudisch?
 Michaël Lehman
 Peter Perker?
-Caspar Maurer
+Caspar Mauner
 ----------------
 Georg Berker
 Georg Ulman
@@ -760,6 +912,11 @@ Barthel Schrempel
 Andreas John
 Laurentius Peuchel?
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 Georg Löbner
 Donat Claus
 Martin? Ulman
@@ -767,6 +924,7 @@ Martin? Ulman
 Laurentius Kempzer?
 Johannes Krauspe?
 Michael Hauptvogel
+----------------
 ----------------
 Georg Ranft
 Martin Gansauge
@@ -777,7 +935,7 @@ Urban Merten?
 Georg Bachman
 ----------------
 Georg Winckler
-Martin Herht?
+Martin Hecht?
 Simon Petzsch
 Hans Kühn
 Jacob Hebeldt?
@@ -790,9 +948,14 @@ Peter Burchhardt
 ----------------
 Martin Petzsch
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 1620
 Paul Hauptman
-Michaël Grosche?
+Michaël Grosche
 Christoph Morgenstern
 ----------------
 Mattheß Patzsch
@@ -808,22 +971,49 @@ Georg Fehrman
 Andreas Schütter
 Burghard Preuchel
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 1621
 Martin Ditze
-Martin Andreas alias Kirsten
+Martin Andreas //alias Kirsten
 Benedikt Petzsch
 Philipp Patz
 Caspar Kühn
 Peter Weber
 Gregor Brendel
-Martin Kirßligk?
+Martin Kißligk?
 ----------------
 Donat Burchhardt
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1622
 Nicolaus Philipp
 Martin Klingstein
 Andreas Faust
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1623
 Martin Hoyer
@@ -833,6 +1023,21 @@ Michaël Leckscheide
 Martin Grosche
 Simon Junghanß
 Georg Kleber
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+Georg Peuschel
+Jacob Ulmann
+Andreas Kleber
+----------------
+Johannes Naubitze
+Peter Donath
+Martin Percker?
+Martin Petzsch
+----------------
 ----------------
 1624
 Peter Klingstein
@@ -850,6 +1055,17 @@ Urban Winckler
 Mattheus König
 Georg Wolff
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 1625
 Thomas Frank?
 Johannes Burchhardt
@@ -861,6 +1077,19 @@ Nicol Döhner
 Antonius Gansauge
 Georg Philipp
 Michaël Jäniche
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1626
 Gregor Lindner
@@ -887,12 +1116,22 @@ Peter Petzsch
 Balthasar Sperhark?
 Hans Klotzsch
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 Martin Hillig
 Peter Voigt
 Johannes Clauß
 Daniet Scüttig
 Nicolaus Schirmer
 Georg Schuman
+----------------
+----------------
 ----------------
 1627
 Peter Brendel
@@ -909,7 +1148,7 @@ Johannes Vogel
 Jacob Winckler
 Gregor Petzsch
 ----------------
-J. Christian Erklerßberg?
+J. Christian Ecklerßberg?
 Georg Borisch
 Georg Patzsch
 Antonius Wußlig?
@@ -917,6 +1156,15 @@ Michaël Reichhardt?
 Johannes Nauman
 Johannes Fehrman
 Christian Rötich
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1628
 Michaël Kühn
@@ -940,6 +1188,17 @@ Merten? Donat
 Thomas Clauß
 Georg Götze
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+Gregor Pörle
+Jacob Wußlich
+Jacob Hempel
+----------------
+----------------
+----------------
 1629
 Michael Fehrman?
 Peter Ähling
@@ -956,7 +1215,14 @@ Paul Ditze
 Georg Hilligk
 Andreas? Petzsch
 ----------------
-Martin Lekscheid?
+Martin Lekscheide
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1630
 Michaël Petzsch
@@ -964,13 +1230,22 @@ Paul Weynoldt?
 Samuel Reinholt?
 ----------------
 Jacob Schedrich
-Bartholomag Lingwitz?
+Bartholomag Lungwitz
 Martin Klingstein
 Martin Schrempel
 Valentin Grellman
 Georg Hilligk
-Georg Bedglof?
-Andreas Schüttar?
+Georg Bruchlitz
+Andreas Schütter?
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1631
 Antonius Wüstlich?
@@ -987,11 +1262,18 @@ Hans Pitsch
 Nicolaus Lütig
 Hans Faust
 Martin Rabe
-Wolfgang Scheidermeißer?
+Wolfgang Scheidenreißer?
 ----------------
 Georg Schüttich
 Christoph Gansauge
 Martin Burchhardt
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1632
 Jacob Hauptmann
@@ -1002,6 +1284,14 @@ Thomas Ketz?
 ----------------
 Hans Klotz
 Martin Hülligner
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1633
 Paul Günther
@@ -1015,7 +1305,7 @@ Georg Reinkhard?
 Jacob Donath
 Hans Ganßauge
 Andreas Schrötter
-Wolfgang Scheidermeißer
+Wolfgang Scheidenreißer
 Georg Rotsch
 Hans Wußlich
 Greger Günther
@@ -1029,6 +1319,12 @@ Thomas Faust
 Hans Schieder?
 Georg Pitsch
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 1634
 Martin Pitsch?
 Jacob Nauman
@@ -1038,7 +1334,7 @@ Jacob Ranfft?
 Martin Klingstein
 Georg Clauß
 ----------------
-Valentin Brückell?
+Valentin Beüchel?
 Martin Winckler
 Jacob Schrempel
 Zacharias Löwe
@@ -1049,6 +1345,14 @@ Georg Fehrman
 Michael Schürmer
 Georg Hoffman
 Georg Kleber
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1635
 Peter Andrie
@@ -1064,6 +1368,11 @@ Jacob Hempel
 Martin Senfft?
 Georg Telemar?
 Andreas Pitsch
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1636
 Georg Große

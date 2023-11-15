@@ -1,24 +1,10 @@
 Unkersdorf (Buch 1)
 Trauungen 1580-1716
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289607
+https://www.archion.de/de/viewer/churchRegister/289607?pageId=40254714
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
-Die meisten Vornamen und einige Nachnamen wurden über Shortcuts erstellt. Dabei wurden 
-ähnliche Namen bzw. verschiedene Schreibweisen auf den gleichen Shortcut gelegt. Dadurch 
-enthält diese Liste aber auch Ungenauigkeiten und Fehltranskription, die man beachten muss. 
-
-Bsp: 
-Anders => Andreas
-Jorge => Georg
-Johannes => Johann
-Merten => Martin
-Gonther/Gönther/Künther => Günther
-Möller => Müller
-Nachnahmen die leicht verwechselt sein können:
-Petzsch/Pietzsch <=> Potzscher
-Fehrmann <=> Fuhrmann <=> Sohrmann
-Einige Jahreszahlen fehlen im Buch.
-
+Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
+Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 Erstellt in ca. 3 Stunden
 Juni 2021
@@ -26,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x119
 1580
 Peter Lang
 1581
@@ -485,4 +472,3 @@ Georg Dachsel
 Balthasar Schirmer
 1716
 Georg Rentzsch
-----------------

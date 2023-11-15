@@ -1,6 +1,7 @@
 Weinböhla (Buch 3)
 Trauungen 1638-1800
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289616
+https://www.archion.de/de/viewer/churchRegister/289617?pageId=40256465
+https://www.archion.de/de/viewer/churchRegister/289616
 
 Das ist ein Index der Trauungen.
 
@@ -16,6 +17,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x12
 1638
 Georg Berger | Anna Schumann
 Hans Henicke | Barbara Neber

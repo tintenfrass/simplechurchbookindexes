@@ -1,6 +1,6 @@
 Weißig (Buch 132)
 Trauungen 1730-1764
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=280052
+https://www.archion.de/de/viewer/churchRegister/280052?pageId=38525337
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x192
 1730
 Hans Lehmann
 Samuel Kegel
@@ -393,7 +394,9 @@ Johann Christoph Karisch
 Andreas Angermann
 Johann Andreas Huhle
 Johann Christian Pezold
-Johann Christoph Bräunigq Johann Gottfried Wobst
+Johann Christoph Bräunig
+----------------
+Johann Gottfried Wobst
 1755
 Johann Georg Pezold
 Johann Christoph Schöne

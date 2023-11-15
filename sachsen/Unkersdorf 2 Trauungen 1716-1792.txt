@@ -1,6 +1,6 @@
 Unkersdorf (Buch 2)
 Trauungen 1716-1792
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289608
+https://www.archion.de/de/viewer/churchRegister/289608?pageId=40254960
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 
@@ -17,6 +17,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x7
 1716
 Hans Meißner
 1717
