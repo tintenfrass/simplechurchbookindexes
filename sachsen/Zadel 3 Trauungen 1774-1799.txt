@@ -1,6 +1,6 @@
 Zadel (Buch 3)
 Trauungen 1774-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289666
+https://www.archion.de/de/viewer/churchRegister/289666?pageId=40265768
 
 Das ist ein Index der Trauungen.
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x433
 1774
 Friedrich Christoph Knüpfer
 Gottfried Wustmann
@@ -24,6 +25,7 @@ Johann Adam Rentler
 Johann Gottlob Müller
 Andreas Schönert
 Johann Georg Weishaar
+----------------
 ----------------
 1775
 Johann Gottlob Schumann

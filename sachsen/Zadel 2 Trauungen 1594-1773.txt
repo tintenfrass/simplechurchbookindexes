@@ -1,6 +1,6 @@
 Zadel (Buch 2)
 Trauungen 1594-1773
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289665
+https://www.archion.de/de/viewer/churchRegister/289665?pageId=40265464
 
 Das ist ein Index der Trauungen.
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -16,6 +16,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x4
 1600
 Barthel Keil
 Donat Gere
@@ -1143,6 +1144,7 @@ Johann-Georg Schultz
 Martin Fichtner
 Georg Pietzsch
 ----------------
+----------------
 1746
 ? Seulig
 ? Frietzsche
@@ -1189,6 +1191,7 @@ Johann-Georg Hänsel
 Johann-Georg Roitzsch
 ? Haaßmann
 ? Hübler?
+----------------
 ----------------
 1749
 Johann-Georg? Irmer

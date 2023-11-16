@@ -1,6 +1,6 @@
 Wendischbora (Buch 1)
 Trauungen 1610-1706
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289651
+https://www.archion.de/de/viewer/churchRegister/289651?pageId=40261728
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 
@@ -10,6 +10,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x6
 1616
 Michael Tzschoge
 Simon Schubert

@@ -1,11 +1,9 @@
 Weistropp (Buch 5)
 Trauungen 1706-1764
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289639
+https://www.archion.de/de/viewer/churchRegister/289639?pageId=40259378
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Viele Namen sind schwer lesbar, unsicher und teilweise fehltranskribiert.
-
-Die Reihenfolge hier entspricht der Reihenfolge im Buch, aber nicht immer der Nummerierung im Buch.
 
 
 Erstellt in ca. 4 Stunden
@@ -14,12 +12,16 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1706
 Gregor Maüner
 Martin Scheubelig
 Christian Breitfeld
 Martin Lange
 Elias Kirsten
+----------------
+----------------
+----------------
 ----------------
 1707
 Martin Beuchel
@@ -31,6 +33,9 @@ Martin Förster
 Christian Brock
 Georg Philipp
 Jacob Beuchel
+----------------
+----------------
+----------------
 ----------------
 1708
 Georg Fickler
@@ -52,16 +57,23 @@ Georg Dietrich
 Martin Beuchel
 Peter Presiger
 ----------------
+----------------
+----------------
 1709
 Georg Scheibe
 Adam Pinckert
 Michael Reiche
 Peter Ruland
 Georg Ullmann
-Bebhard Julig
+----------------
+Gebhard Julig
 Paul Ranfft
 Jacob Jost
 Georg Fritzsche
+----------------
+----------------
+----------------
+----------------
 ----------------
 1710
 Johann Wustlich
@@ -74,6 +86,8 @@ Andreas Reiff
 ----------------
 Paul Preißker
 ----------------
+----------------
+----------------
 1711
 Georg Pietzsch
 Peter Fritzsche
@@ -84,10 +98,12 @@ Hans Pohle?
 Georg Poditsch?
 Georg Limpach
 ----------------
-Georg Hawgtmann?
+Georg Hauptmann
+----------------
+----------------
 ----------------
 1712
-Hans Brellman?
+Hans Krellman?
 Georg Udolph
 Michael Wustlich
 Michael Adam
@@ -96,6 +112,8 @@ Georg Fehrmann
 Christian Pat?
 Georg Adam
 Andreas Schröter
+----------------
+----------------
 Martin Patz
 Martin Rabe
 Gregor Fiedler
@@ -107,17 +125,23 @@ Barthel Schirmer
 Michael Hencker
 Elias Kirsten
 ----------------
+----------------
+----------------
+----------------
 1714
 Jacob Burghard
 Georg Martin
 Georg Burckert
 Georg Simon
-Georg Luchte?
-Michael Schkaut?
+Georg Lutze?
+Michael Schantz?
 Georg Löbner
 Michael Rülcker?
 ----------------
 Michael Rülcker
+----------------
+----------------
+----------------
 ----------------
 1715
 Adam Claus
@@ -137,6 +161,8 @@ Daniel Gepelt
 Christian Raupt?
 Hans Henselt
 ----------------
+----------------
+----------------
 1716
 Lorenz Taschenberg
 Christian Schittig
@@ -148,7 +174,9 @@ Hans Schittig
 Christian Leudenit
 Georg Weitner?
 ----------------
-Georg Lengel
+Georg Klügel?
+----------------
+----------------
 ----------------
 1717
 Christoph Knackfuß
@@ -162,6 +190,9 @@ Michael Hillig
 Gottfried Große
 Christian Leckschede?
 ----------------
+----------------
+----------------
+----------------
 1718
 Johann Starcke
 Donat Schüttig
@@ -172,6 +203,9 @@ Christoph Döhner
 Gottfried Reift
 Georg Zimmermann
 Jacob Donat
+----------------
+----------------
+----------------
 ----------------
 1719
 Johann Simon
@@ -188,6 +222,10 @@ Martin Fiedler
 Gottlieb Pietzsch
 Gottfried Fincke
 ----------------
+----------------
+----------------
+----------------
+----------------
 1720
 Martin Hebelt
 Georg Rost
@@ -196,9 +234,12 @@ Hans Georg Haman
 Paul Fische
 Georg Irmer
 ----------------
+----------------
+----------------
+----------------
 1721
 Martin Philipp
-Samuel Ludwig?
+Samuel König?
 Michael Ruhle
 Michael Fehrmann
 Georg Reinfelt
@@ -214,6 +255,9 @@ Paul Hillig
 Hans Dietrich
 Elias Grellman
 ----------------
+----------------
+----------------
+----------------
 1722
 Elias Reiche
 Georg Winckler
@@ -221,7 +265,11 @@ Andreas Wittig?
 Hans Carl Knautsch
 Jacob Burckard
 Stephan? Dietrich
-Christoph Gedeberg?
+Christoph Grünberg
+----------------
+----------------
+----------------
+----------------
 ----------------
 1723
 Johann Wagner
@@ -238,7 +286,10 @@ Martin Ranfft
 Georg Beger
 Georg Wustlich
 Jacob Rhanisch
-Georg Wdckel?
+Georg Wckel?
+----------------
+----------------
+----------------
 ----------------
 1724
 Georg Herrman
@@ -248,11 +299,15 @@ Johann Ruhle
 Christian Them?
 August Fuhrmann
 ----------------
-Christian Wunsch?
+----------------
+----------------
+----------------
+Christian Münch?
 Gottfried Lümmelberg?
 Johann Georg Zimmermann
 Georg Reinknecht
 Paul Winckler
+----------------
 ----------------
 1725
 Christoph Angerman
@@ -270,6 +325,10 @@ Jacob Merbitz
 Stephan Burckhard
 Andreas Hendler
 ----------------
+----------------
+----------------
+----------------
+----------------
 1726
 Martin Leckschede
 Hans Weber
@@ -282,38 +341,50 @@ Georg Hacke
 Daniel Friedrich Seidler
 Johann Georg Fritzsche
 Martin Simon
-Benno Funecke?
+Benno Funcke
 Martin Hacke
 Martin Winckler
-Gregor Beidnit?
+Gregor Leidnitz?
+----------------
+----------------
+----------------
+----------------
 ----------------
 1727
 Michael Tränckner
 Martin Förster
-Michael Claus?
+Michael Claus
 Martin Pihle?
 Christoph Spulte?
 Michael Fehrmann
 Georg Tschachlit
 Hans Knebel
 Georg Beuchel
-Heinrich Böse?
+Heinrich Löse?
+----------------
+----------------
+----------------
+----------------
 ----------------
 1728
 Michael Schliecke
-Christian Weder?
+Christian Meder?
 Christoph Naumann
 Georg Zimmermann
-Abraham Richter?
+Abraham Richter
 ----------------
 Jacob Hemple
 Georg Schönberg
 Georg Winckler
-Georg Kletge?
+Georg Kluge
 Martin Beuchel
 ----------------
+----------------
+----------------
+----------------
+----------------
 1729
-Paul Figler?
+Paul Fischer
 Hans Arnhold
 Christian Berner
 Hans Wetner?
@@ -325,27 +396,33 @@ Michael Martin
 Michael Heerman
 Samuel Müller
 ----------------
+----------------
+----------------
+----------------
 1730
 Hans Ruhle
 Georg Fehrmann
 Bernhard Ranfft
 Urban Kahl
-Erner? Preißker
+Eramus? Preißker
 ----------------
 Andreas Lener?
 Michael Schindler
 Georg Donat?
 Georg Schindler
-Georg Grsche
+Georg Grosche
 Martin Beuchel?
 Christian Rotsch?
 ----------------
+----------------
+----------------
+----------------
 1731
 Georg Zuyelt?
-Johann Christoph Luhne?
+Johann Christoph Kühne?
 Michael Uhlman
 Georg Beuchel
-Michael Gdnly?
+Michael Gumlich?
 ----------------
 Georg Ruhle
 Johann Andreas Berger
@@ -360,19 +437,29 @@ Hans Schröter
 Michael Fehrmann
 Hans Weber
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 1732
-Martin Eyging
-Adam Kluckel?
-Michael Leiderig?
+Martin Eybing
+Adam Kluncke?
+Michael Leideritz?
 Christoph Schubart
 Christian Rülle
 ----------------
-Paul Barthel
+Paul Barth
 Michael Preisker
 Michael Terpe?
 Georg Kürbitz?
-Gottlob Stohe?
+Gottlob Stohn?
 Jacob Beuchel
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1733
 Johann Gottfried Altenau
@@ -385,6 +472,9 @@ Michael Müller
 Friedrich Höle
 Gregor Fehrmann
 Caspar Keller
+----------------
+----------------
+----------------
 ----------------
 Georg Sittig
 ----------------
@@ -401,6 +491,11 @@ Georg Gießmann
 Georg Leinat?
 Johann Heinrich Krause
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 1735
 Johann Heinrich Krause
 Johann Georg Hempel
@@ -409,8 +504,12 @@ Samuel Richter
 ----------------
 Martin Claus
 Michael Carpari
-Michael Zügelt
-Christian Weger?
+Michael Jäpel
+Christian Unger
+----------------
+----------------
+----------------
+----------------
 ----------------
 Georg Merbitz
 Georg Eyben
@@ -419,7 +518,7 @@ Michael Claus
 Christian Preißler
 ----------------
 1736
-Johann Johann Buther?
+Johann Johann Luther?
 Johann Gottlob Ranft
 Andreas Händel
 Hans Fehrmann
@@ -430,8 +529,18 @@ Hans John
 Christoph Rülcke
 Georg Eyben
 Christian Donat
-Christoph Wlic?
+Christoph Udlich?
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+Johann Ernst Meinert
+Andreas Faust
+George TögelGottfried Vogel
 1737
 Samuel Lendschpe?
 Samuel Köhler
@@ -441,14 +550,18 @@ Johann Christian Brendel
 ----------------
 Johann Georg Patz
 Michael Kemer
-Johann Georg Leschke?
+Johann Georg Leschke
 Martin Förster
 Gottfried Richter
 Michael Wagner
 ----------------
-Georg Pietzsch
-Johann Heinrich Fische?
 ----------------
+----------------
+----------------
+----------------
+----------------
+Georg Pietzsch
+Johann Heinrich Fischer
 1738
 Andreas Angerman
 Christoph Pietzsch
@@ -457,19 +570,22 @@ Johann Georg Claus
 Andreas Jacob Wubich?
 Michael Fehrmann
 ----------------
-Johann Michael Pannsch
+Johann Michael Pannasch
 Georg Lednar?
 Johann Mann
 Johann Christian Rudolph
-Paul Ciebert?
+Paul Liebert?
+----------------
+----------------
+----------------
 ----------------
 Michael Stacke
-Gottfried Böse?
-Georg Schelte?
+Gottfried Löse?
+Georg Schultze
+----------------
 ----------------
 1739
-----------------
-Christian Brendel?
+Christian Freund?
 Georg Weise
 Andreas Gießmann
 Martin Schubert
@@ -478,7 +594,7 @@ Georg Schicke?
 Johann Georg Krellmann
 Johann Gottfried Krapt?
 Martin Merbitz
-Christian Schute?
+Christian Schütze?
 Georg Rabe
 Christian Adam
 Martin Pat
@@ -487,10 +603,14 @@ Johann Christoph Elßer?
 Samuel Fehrmann
 Christian Schönberg
 ----------------
-1740
 ----------------
+----------------
+----------------
+----------------
+1740
 Georg Schüptze?
 Johann Günther
+----------------
 ----------------
 Johann Michael Schubert
 Sigismund Zimmer
@@ -503,8 +623,13 @@ Michael Rabe
 Hans Leuner
 Johann Georg Döring
 Christoph Hentschel
-Martin Mary?
+Martin Marx?
 Christoph Angerman
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1741
 Christian Gießmann
@@ -519,7 +644,11 @@ Christian Schönberg
 Christian Morgenstern
 Jacob Schultze
 ----------------
-Michael Hause?
+----------------
+----------------
+----------------
+----------------
+Michael Haase
 Jacob Ludwig
 Christian Donat
 ----------------
@@ -535,6 +664,12 @@ Christian Große
 Johann Paul Kirsten
 Georg Potscher
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 1743
 Georg Wustlich
 Samuel Junghanß
@@ -547,12 +682,15 @@ Johann Georg Küntzel
 Jacob Burckhard
 Johann Georg Fritzsche
 ----------------
-1744
 ----------------
+----------------
+----------------
+----------------
+1744
 Christoph Burckhard
 Martin Matthaß?
 ----------------
-Johann Gottlob Gaudsch?
+Johann Gottlob Gautsch?
 Johann Poppe
 Georg Gottlob Richter
 Georg Faust
@@ -563,6 +701,12 @@ Gottlob Cowt?
 Johann Georg Hempel
 Christian Knebel
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 1745
 Christoph Philipp
 Martin Mehlig
@@ -572,7 +716,13 @@ Gebhard? Zatig?
 Daniel Ladgtenmann?
 Johann Paul Hauptmann
 Georg Pat
-Mather? Sastuppa?
+Mathes? Saschuppa?
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1746
 Gottfried Kuntelzmann
@@ -594,8 +744,15 @@ Johann Gottfried Hillig
 Johann Christian Schubert
 Gottfried Große
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 1747
-Hans Georg Räder?
+Hans Georg Räder
 Lorenz Taschenberger
 Christian Rülcker
 Michael Krellmann
@@ -606,6 +763,12 @@ Johann Christoph Terpe
 Martin Philipp
 Michael Wustlich
 Johann Georg Winckler
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1748
 Johann Christian Mittag
@@ -619,11 +782,22 @@ Hans Margner
 ----------------
 Georg Heller
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 1749
 Friedrich Höhle
 Johann Adam Schröter
 Christian Faust
-Georg Jost
+Georg Just
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1750
 Elias Krellmann
@@ -639,10 +813,16 @@ Johann Andreas Klerber?
 Johann Christian Partzsch
 Georg Potzscher
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 1751
 Gottlob Burckert
 Johann Friedrich Hüneth?
 Gottlieb Schuster
+----------------
 Johann Teichmann
 Elias Haaße
 x
@@ -657,6 +837,13 @@ Johann Adam Schettlo?
 Martin Schütze
 Johann Andreas Berger
 Jacob Zschoche
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1752
 Andreas Standfuß
@@ -673,6 +860,11 @@ Johann Georg Döhring
 Martin Bormann
 Georg Faust
 Johann Jacob Beuchel
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1753
 Christian Krause
@@ -693,6 +885,11 @@ Andreas Zscheile
 Johann Michael Pietzsch
 Johann Martin Tögel
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 1754
 Georg Rühle
 Johann Georg Beuchel
@@ -706,8 +903,14 @@ Johann Christoph Glmann?
 Johann Gottlob Ryßel
 Johann Georg Rülcker
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 1755
-Johann Gottfried Sormer?
+Johann Gottfried Sommer
 Christian Andrich
 Christian Philipp
 Johann Georg Rudolph
@@ -715,13 +918,19 @@ August Ludwig Kluge?
 Christian Kießlich?
 Michael Müller
 Christian Fritzsche
-Daniel Herhold?
-Mattheus Schlicke?
+Daniel Gerhold
+Mattheus Schlicke
 ----------------
 Johann Siegmund Naumann
 Martin Bormann
 Johann Daniel Hamann
 Johann Andreas Zimmermann
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1756
 Johann Georg Hamann
@@ -732,18 +941,31 @@ Johann Gottlieb Müller
 Johann Georg Rühle
 Johann Andreas Zimmermann
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 1757
 Georg Eyben
-Gottfried Schattrath?
+Gottfried Schattrath
 Samuel Traugott Barthold
 Michael Donath
 ----------------
-Andreas Burckhard?
+Andreas Burckhard
 Michael Gottlob Schöberlein
 Georg Schäfer
 Johann Feerge? Fehrmann
 Johann Adam Burcker
 Carl Heinrich Adam
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1758
 Johann Lehmann
@@ -759,6 +981,11 @@ Gottlieb Börner
 Christian Donath
 Johann Christian Hacke
 Gottlib Kuntze
+----------------
+----------------
+----------------
+----------------
+----------------
 ----------------
 1759
 Christian Rülcker
@@ -778,6 +1005,13 @@ Gottlob Großmann
 Johann Christian Kade
 Johann Heinrich Müller
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 1760
 Johann Christian Schröder
 Martin Kuncke
@@ -795,6 +1029,16 @@ Christian Hillig
 Andreas Mehlig
 Johann Christoph Bäßler
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 1761
 Johann Gottlob Helmuth
 Johann Weber
@@ -805,7 +1049,7 @@ Johann Georg Schütze
 ----------------
 Georg Kutter
 Georg Patzig
-Samuel Beuchelt?
+Samuel Beuchelt
 Gottfried Frisch
 Christian Donath
 Johann Gottlieb Müller
@@ -823,11 +1067,18 @@ Jacob Wustlich
 Gottfried Schönberg
 Johann Christian Hayne
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 1762
 Johann Georg Irmler
 Johann Gottfried Höhle
 Johann Georg Höhle
 Schibosch Jabor
+----------------
 Johann Georg Starcke
 Christian Morgen
 Hans Christoph Tsädrig?
@@ -841,6 +1092,13 @@ Christoph Gottlieb Hahn
 Johann Gottlieb Hübel
 Johann Fehrmann
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 1763
 Christoph Donath
 Johann Christian Klingtigt?
@@ -851,11 +1109,17 @@ Johann Michael Man?
 Gottlieb Schubert
 Johann Georg Schröder
 ----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
 1764
 Johann Erhard Nunn?
 Johann Christian Heppe
 Johann Gottlob Preüßcker
-Georg Frebelt?
+Georg Hebelt
 Gottfried Kummer
 Gottfried Lößer
 ----------------
@@ -877,4 +1141,4 @@ Johann Georg Mittig
 Georg Leinert
 Christian Leuschner
 Johann Christian Richter
-Christian Mareus?
+Christian Marcus

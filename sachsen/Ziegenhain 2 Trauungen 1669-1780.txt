@@ -1,6 +1,6 @@
 Ziegenhain (Buch 2)
 Trauungen 1669-1780
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=289688
+https://www.archion.de/de/viewer/churchRegister/289688?pageId=40270375
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -15,6 +15,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x251
 1669
 Hans Eulitz
 Jacob Gehra
@@ -156,6 +157,7 @@ Christian Graune
 Martin Krepler?
 Andreas Leonhard
 Martin Seiffert
+----------------
 1700
 Friedrich Räther
 Christoph Martin

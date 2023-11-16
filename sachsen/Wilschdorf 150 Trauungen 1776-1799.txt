@@ -1,6 +1,6 @@
 Wilschdorf (Buch 150)
 Trauungen 1776-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=280070
+https://www.archion.de/de/viewer/churchRegister/280070?pageId=38528794
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -12,6 +12,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1776
 Johann Christian Schröter
 Johann Georg Gommlich
