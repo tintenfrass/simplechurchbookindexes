@@ -7,4 +7,9 @@ require (
 	github.com/maxence-charriere/go-app/v9 v9.6.7
 )
 
-require github.com/google/uuid v1.3.0 // indirect
+require (
+	github.com/alextanhongpin/stringdist v0.0.1 // indirect
+	github.com/google/uuid v1.3.0 // indirect
+	github.com/hbollon/go-edlib v1.6.0 // indirect
+	github.com/lmas/Damerau-Levenshtein v1.0.0 // indirect
+)

@@ -10,4 +10,5 @@ type searchComp struct {
 	results       []app.UI
 	debug         string
 	checked       map[string]bool
+	algo          int
 }

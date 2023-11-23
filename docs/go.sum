@@ -1,8 +1,14 @@
+github.com/alextanhongpin/stringdist v0.0.1 h1:5Bygn3NKAoiUld8oYtoS8YplILTjOWxKe7FPAfXXs+U=
+github.com/alextanhongpin/stringdist v0.0.1/go.mod h1:6Bb1jYZG8v0tBZjFmU6/48W60Gt/aN6rRs2dXDBliq0=
 github.com/antzucaro/matchr v0.0.0-20210222213004-b04723ef80f0 h1:R/qAiUxFT3mNgQaNqJe0IVznjKRNm23ohAIh9lgtlzc=
 github.com/antzucaro/matchr v0.0.0-20210222213004-b04723ef80f0/go.mod h1:v3ZDlfVAL1OrkKHbGSFFK60k0/7hruHPDq2XMs9Gu6U=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
 github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/hbollon/go-edlib v1.6.0 h1:ga7AwwVIvP8mHm9GsPueC0d71cfRU/52hmPJ7Tprv4E=
+github.com/hbollon/go-edlib v1.6.0/go.mod h1:wnt6o6EIVEzUfgbUZY7BerzQ2uvzp354qmS2xaLkrhM=
+github.com/lmas/Damerau-Levenshtein v1.0.0 h1:ccurHlpiYeBsTPx2SQXvNj1cmyFY+3UTK5gog+jlVf4=
+github.com/lmas/Damerau-Levenshtein v1.0.0/go.mod h1:fExYQOrzJxXO3G5EPU5HqVTPU/igmY2vUTbwSWog3Mk=
 github.com/maxence-charriere/go-app/v9 v9.6.7 h1:t+wofnLjVsptBB7MNevsFymMYaMIX2hGjLdWgsIFgq4=
 github.com/maxence-charriere/go-app/v9 v9.6.7/go.mod h1:UlniES44R5JoD4HsjMNrAqWXSzyw0smM0Ox+QwnO/IE=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=

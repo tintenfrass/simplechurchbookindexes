@@ -6,10 +6,10 @@
 <meta name="description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
 <meta name="keywords" content>
 <meta name="theme-color" content="#2d2c2c">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover">
-<meta property="og:url" content="http://127.0.0.1:64475/">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover" name="viewport">
+<meta content="http://127.0.0.1:49657/" property="og:url">
 <meta property="og:title" content="Trau-Index Dresden-Meißen">
-<meta property="og:description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
+<meta content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde" property="og:description">
 <meta property="og:type" content="website">
 <meta property="og:image" content>
 <title>
@@ -17,7 +17,7 @@ Trau-Index Dresden-Meißen
 </title>
 <link rel="icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
 <link rel="apple-touch-icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
-<link href="/simplechurchbookindexes/manifest.webmanifest" rel="manifest">
+<link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
 <link type="text/css" rel="stylesheet" href="/simplechurchbookindexes/app.css">
 <script defer="true" src="/simplechurchbookindexes/wasm_exec.js"></script>
 <script defer="true" src="/simplechurchbookindexes/app.js"></script>
@@ -43,6 +43,8 @@ Trau-Index Dresden-Meißen
 <div style="font-family:verdana,sans-serif;font-size:8pt;">
 <table>
 <tr>
+<td>
+<div>
 <h2>
 Onlinsuche im Trau-Schnell-Index
 </h2>
@@ -52,7 +54,7 @@ Dresden-Meißen-Freiberg-Dippoldiswalde
 <label>
 Jahr Min 
 </label>
-<input type="range" min="1548" max="1800" value="0" style="width: 600px;">
+<input min="1548" max="1800" value="0" style="width: 600px;" type="range">
 <label>
 0
 </label>
@@ -60,13 +62,54 @@ Jahr Min
 <label>
 Jahr Max
 </label>
-<input style="width: 600px;" type="range" min="1548" max="1800" value="0">
+<input type="range" min="1548" max="1800" value="0" style="width: 600px;">
 <label>
 0
 </label>
 <br>
 <br>
 <br>
+<br>
+</div>
+</td>
+<td>
+<div style="margin-left:60px;color:grey;">
+<div style="font-weight:bold;" title="Bestimmt wie schnell und genau die Ähnlichkeitssuche funktioniert, je nach Algorithmus können die Ergebnisse leicht abweichen. Im Zweifelsfall einfach so lassen.">
+Erweiterte Einstellung zum Suchalgorithmus (experimentell):
+</div>
+<br>
+<div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.4 werden danach mit DamerauLevenshtein genau berechnet. Dieses zweistufe Vorgehen macht die Suche schnell und trotzdem genau.">
+<input type="radio" checked="true" name="algo">
+Jaro + DamerauLevenshtein
+ ----&gt; best Kombination aus Geschwindigkeit und Komplexität
+</div>
+<div title="Dieser Algorithmus wurde bisher verwendet, ist recht komplex und langsam">
+<input checked="false" name="algo" type="radio">
+DamerauLevenshtein
+ ----&gt; der bisherige Algorithmus, langsam durch maximale Komplexität
+</div>
+<div title="Die OSA-Variante von DamerauLevenshtein">
+<input type="radio" checked="false" name="algo">
+OSA
+ ----&gt; einfacher und schneller als DamerauLevenshtein, für schwächere Geräte
+</div>
+<div title="einfachere Version von DamerauLevenshtein">
+<input type="radio" title="einfachere Version von DamerauLevenshtein" checked="false" name="algo">
+Levenshtein
+ ----&gt; einfacher und schneller als OSA, für schwache Geräte
+</div>
+<br>
+<a href="https://de.wikipedia.org/wiki/Levenshtein-Distanz" style="color:grey;">
+ (Damerau-)Levenshtein-Distanz
+</a>
+<br>
+<a href="https://srinivas-kulkarni.medium.com/jaro-winkler-vs-levenshtein-distance-2eab21832fd6" style="color:grey;">
+ Jaro-Winkler vs. Levenshtein
+</a>
+</div>
+</td>
+</tr>
+</table>
 <table>
 <div style="border:1px solid #D3D3D3;">
 <tr>
@@ -348,7 +391,7 @@ Nichts
 </div>
 </table>
 <p>
-<input style="width: 250px;" type="text" placeholder="Vorname Nachname" autofocus="true">
+<input type="text" placeholder="Vorname Nachname" autofocus="true" style="width: 250px;">
  
 <button style="width: 100px;">
 Search
@@ -410,61 +453,23 @@ https://github.com/tintenfrass/simplechurchbookindexes
 <br>
 <br>
 <h3>
- v1.4 (November 2023) latest updates:
+ v1.5 (November 2023) latest updates:
 </h3>
 <label>
-Trauungen Dorfchemnitz bis 1799
+Trauungen Briesnitz 1548-1647 überarbeitet
 </label>
 <br>
 <label>
-Trauungen Clausnitz bis 1799
+Verlinkungen zu Archion überarbeitet
 </label>
 <br>
 <label>
-Trauungen Cämmerswalde bis 1799
+Suchalgorithmus beschleunigt und experimentelle Auswahl hinzugefügt
 </label>
 <br>
 <label>
-Trauungen Berthelsdorf bis 1799
+kleinere Fehler in den Daten korrigiert
 </label>
-<br>
-<label>
-Trauungen Erbisdorf bis 1799
-</label>
-<br>
-<label>
-Trauungen Conradsdorf bis 1799
-</label>
-<br>
-<label>
-Trauungen Freiberg Dom St. Marien bis 1799
-</label>
-<br>
-<label>
-Trauungen Freiberg St. Jacobi bis 1799
-</label>
-<br>
-<label>
-Trauungen Freiberg St. Johannis bis 1799
-</label>
-<br>
-<label>
-Trauungen Freiberg St. Nikolai bis 1799
-</label>
-<br>
-<label>
-Trauungen Freiberg St. Petri bis 1799
-</label>
-<br>
-<label>
-Trauungen Röhrsdorf bei Dohna bis 1799
-</label>
-<br>
-<label>
-Ladezeit der Webseite stark beschleunigt
-</label>
-</tr>
-</table>
 </div>
 </div>
 </div>

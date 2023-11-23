@@ -259,124 +259,141 @@ func (h *searchComp) Render() app.UI {
 	return app.Div().Body(
 		app.Table().Body(
 			app.Tr().Body(
-				app.H2().Body(app.Text("Onlinsuche im Trau-Schnell-Index")),
-				app.H3().Body(app.Text("Dresden-Meißen-Freiberg-Dippoldiswalde")),
-				app.Label().Text("Jahr Min "),
-				app.Input().Type("range").Attr("min", config.YearMin).Attr("max", config.YearMax).OnChange(h.ValueTo(&h.slideValueMin)).Value(h.slideValueMin).Attr("style", "width: 600px"),
-				app.Label().Text(h.slideValueMin),
-				app.Br(),
-				app.Label().Text("Jahr Max"),
-				app.Input().Type("range").Attr("min", config.YearMin).Attr("max", config.YearMax).OnChange(h.ValueTo(&h.slideValueMax)).Value(h.slideValueMax).Attr("style", "width: 600px"),
-				app.Label().Text(h.slideValueMax),
-				app.Br(),
-				app.Br(),
-				app.Br(),
-				app.Table().Body(
-					app.Div().Style("border", "1px solid #D3D3D3").Body(
-						func() (row []app.UI) {
-							for j := 0; j < rows; j++ {
-								row = append(row, app.Tr().Body(
-									func() (ele []app.UI) {
-										for i := 0; i < cols; i++ {
-											if val, ok := grid[i][j]; ok {
-												ele = append(ele, app.Td().Body(cbs[val]))
-											} else {
-												ele = append(ele, app.Td())
-											}
-										}
-										return
-									}()...,
-								))
-							}
-
-							//Extra Buttons
-							row = append(row, app.Tr().Body(
-								app.Td().Body(app.Button().Text("Alles").OnClick(h.all).Attr("style", "width: 70px")),
-								app.Td().Body(app.Button().Text("Nichts").OnClick(h.nothing).Attr("style", "width: 70px")),
-							))
-
-							return
-						}()...,
+				app.Td().Body(
+					app.Div().Body(
+						app.H2().Body(app.Text("Onlinsuche im Trau-Schnell-Index")),
+						app.H3().Body(app.Text("Dresden-Meißen-Freiberg-Dippoldiswalde")),
+						app.Label().Text("Jahr Min "),
+						app.Input().Type("range").Attr("min", config.YearMin).Attr("max", config.YearMax).OnChange(h.ValueTo(&h.slideValueMin)).Value(h.slideValueMin).Attr("style", "width: 600px"),
+						app.Label().Text(h.slideValueMin),
+						app.Br(),
+						app.Label().Text("Jahr Max"),
+						app.Input().Type("range").Attr("min", config.YearMin).Attr("max", config.YearMax).OnChange(h.ValueTo(&h.slideValueMax)).Value(h.slideValueMax).Attr("style", "width: 600px"),
+						app.Label().Text(h.slideValueMax),
+						app.Br(),
+						app.Br(),
+						app.Br(),
+						app.Br(),
 					),
 				),
-				app.P().Body(
-					app.Input().Type("text").Placeholder("Vorname Nachname").AutoFocus(true).OnChange(h.ValueTo(&h.searchValue)).Attr("style", "width: 250px"),
-					app.Text(" "),
-					app.Button().Text("Search").OnClick(h.onClick).Attr("style", "width: 100px"),
-					app.Text(" "),
-					app.Label().Text(h.debug),
+				app.Td().Body(
+					app.Div().Style("margin-left", "60px").Style("color", "grey").Body(
+						app.Div().Style("font-weight", "bold").Body(app.Text("Erweiterte Einstellung zum Suchalgorithmus (experimentell):")).Title("Bestimmt wie schnell und genau die Ähnlichkeitssuche funktioniert, je nach Algorithmus können die Ergebnisse leicht abweichen. Im Zweifelsfall einfach so lassen."),
+						app.Br(),
+						app.Div().Title("Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.4 werden danach mit DamerauLevenshtein genau berechnet. Dieses zweistufe Vorgehen macht die Suche schnell und trotzdem genau.").Body(
+							app.Input().Type("radio").Checked(true).OnChange(func(ctx app.Context, e app.Event) { h.algo = search.JaroDamerauLevenshtein }).Name("algo"),
+							app.Text("Jaro + DamerauLevenshtein"),
+							app.Text(" ----> best Kombination aus Geschwindigkeit und Komplexität"),
+						),
+						app.Div().Title("Dieser Algorithmus wurde bisher verwendet, ist recht komplex und langsam").Body(
+							app.Input().Type("radio").Checked(false).OnChange(func(ctx app.Context, e app.Event) { h.algo = search.DamerauLevenshtein }).Name("algo"),
+							app.Text("DamerauLevenshtein"),
+							app.Text(" ----> der bisherige Algorithmus, langsam durch maximale Komplexität"),
+						),
+						app.Div().Title("Die OSA-Variante von DamerauLevenshtein").Body(
+							app.Input().Type("radio").Checked(false).OnChange(func(ctx app.Context, e app.Event) { h.algo = search.Osa }).Name("algo"),
+							app.Text("OSA"),
+							app.Text(" ----> einfacher und schneller als DamerauLevenshtein, für schwächere Geräte"),
+						),
+						app.Div().Title("einfachere Version von DamerauLevenshtein").Body(
+							app.Input().Type("radio").Title("einfachere Version von DamerauLevenshtein").Checked(false).OnChange(func(ctx app.Context, e app.Event) { h.algo = search.Levenshtein }).Name("algo"),
+							app.Text("Levenshtein"),
+							app.Text(" ----> einfacher und schneller als OSA, für schwache Geräte"),
+						),
+						app.Br(),
+						app.A().Href("https://de.wikipedia.org/wiki/Levenshtein-Distanz").Text(" (Damerau-)Levenshtein-Distanz").Style("color", "grey"),
+						app.Br(),
+						app.A().Href("https://srinivas-kulkarni.medium.com/jaro-winkler-vs-levenshtein-distance-2eab21832fd6").Text(" Jaro-Winkler vs. Levenshtein").Style("color", "grey"),
+					),
 				),
-				app.Div().Body(h.results...),
-				app.H3().Body().Text("Hinweise:"),
-				app.Text("Die Suche erfolgt über den Namen des Bräutigams."),
-				app.Br(),
-				app.Text("Dabei wird eine Ähnlichkeitssuche benutzt und die Ergebnisse nach Treffergenauigkeit aufgelistet."),
-				app.Br(),
-				app.Text("Es wird Groß- und kleinschreibung unterschieden."),
-				app.Br(),
-				app.Br(),
-				app.Text("Bsp: für die Suche:"),
-				app.Br(),
-				app.Text("Max Mustermann => Sucht nach Vor- und Nachnamen in dieser Kombination"),
-				app.Br(),
-				app.Text("Man kann auch mit mehrere Vornamen suchen z.B: Max Moritz Mustermann"),
-				app.Br(),
-				app.Br(),
-				app.Text("* als Platzhalter:"),
-				app.Br(),
-				app.Text("Max * => Sucht nach Vornamen Max"),
-				app.Br(),
-				app.Text("* Mustermann => Sucht nach Nachname Mustermann"),
-				app.Br(),
-				app.Br(),
-				app.Text("In den Ergebnissen führt der erste Link zur Datei mit den Roh-Daten, das kann helfen die genaue Position des Eintrages im Kirchenbuch zu finden."),
-				app.Br(),
-				app.Text("Manche Kirchenbücher sind auch nicht chronologisch bzw. die Daten im Buch verstreut."),
-				app.Br(),
-				app.Text("Es gibt auch immer mal wieder Fehler in den Daten, falsch erfasste Namen oder manchmal ist das Jahr um 1 verrutscht, etc."),
-				app.Br(),
-				app.Br(),
-				app.Text("Der zweie Link führt direkt zum Kirchenbuch, teilweise auch auf den richtigen Scan, das kann durch Fehler aber evtl. auch etwas abweichen."),
-				app.Br(),
-				app.Text("Die Archion-Links bringen nur was, wenn man bei Archion einen Pass hat."),
-				app.Br(),
-				app.Br(),
-				app.Text("Die Kirchengemeinden sind grob geographisch angeordnet, siehe auch: "),
-				app.A().Href("https://www.google.com/maps/d/viewer?mid=1FYfIGUV4g66wImeIqkkr8lcs8kzaAx4s&ll=50.96592383350824%2C13.63222561152344&z=10").Text("Karte Kirchenbücher Sachsen"),
-				app.Br(),
-				app.Br(),
-				app.H3().Body().Text("Mehr Informationen zum Projekt:"),
-				app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
-				app.Br(),
-				app.Br(),
-				app.H3().Body().Text(" v1.4 (November 2023) latest updates:"),
-				app.Label().Text("Trauungen Dorfchemnitz bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Clausnitz bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Cämmerswalde bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Berthelsdorf bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Erbisdorf bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Conradsdorf bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Freiberg Dom St. Marien bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Freiberg St. Jacobi bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Freiberg St. Johannis bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Freiberg St. Nikolai bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Freiberg St. Petri bis 1799"),
-				app.Br(),
-				app.Label().Text("Trauungen Röhrsdorf bei Dohna bis 1799"),
-				app.Br(),
-				app.Label().Text("Ladezeit der Webseite stark beschleunigt"),
 			),
 		),
+		app.Table().Body(
+			app.Div().Style("border", "1px solid #D3D3D3").Body(
+				func() (row []app.UI) {
+					for j := 0; j < rows; j++ {
+						row = append(row, app.Tr().Body(
+							func() (ele []app.UI) {
+								for i := 0; i < cols; i++ {
+									if val, ok := grid[i][j]; ok {
+										ele = append(ele, app.Td().Body(cbs[val]))
+									} else {
+										ele = append(ele, app.Td())
+									}
+								}
+								return
+							}()...,
+						))
+					}
+
+					//Extra Buttons
+					row = append(row, app.Tr().Body(
+						app.Td().Body(app.Button().Text("Alles").OnClick(h.all).Attr("style", "width: 70px")),
+						app.Td().Body(app.Button().Text("Nichts").OnClick(h.nothing).Attr("style", "width: 70px")),
+					))
+
+					return
+				}()...,
+			),
+		),
+		app.P().Body(
+			app.Input().Type("text").Placeholder("Vorname Nachname").AutoFocus(true).OnChange(h.ValueTo(&h.searchValue)).Attr("style", "width: 250px"),
+			app.Text(" "),
+			app.Button().Text("Search").OnClick(h.onClick).Attr("style", "width: 100px"),
+			app.Text(" "),
+			app.Label().Text(h.debug),
+		),
+		app.Div().Body(h.results...),
+		app.H3().Body().Text("Hinweise:"),
+		app.Text("Die Suche erfolgt über den Namen des Bräutigams."),
+		app.Br(),
+		app.Text("Dabei wird eine Ähnlichkeitssuche benutzt und die Ergebnisse nach Treffergenauigkeit aufgelistet."),
+		app.Br(),
+		app.Text("Es wird Groß- und kleinschreibung unterschieden."),
+		app.Br(),
+		app.Br(),
+		app.Text("Bsp: für die Suche:"),
+		app.Br(),
+		app.Text("Max Mustermann => Sucht nach Vor- und Nachnamen in dieser Kombination"),
+		app.Br(),
+		app.Text("Man kann auch mit mehrere Vornamen suchen z.B: Max Moritz Mustermann"),
+		app.Br(),
+		app.Br(),
+		app.Text("* als Platzhalter:"),
+		app.Br(),
+		app.Text("Max * => Sucht nach Vornamen Max"),
+		app.Br(),
+		app.Text("* Mustermann => Sucht nach Nachname Mustermann"),
+		app.Br(),
+		app.Br(),
+		app.Text("In den Ergebnissen führt der erste Link zur Datei mit den Roh-Daten, das kann helfen die genaue Position des Eintrages im Kirchenbuch zu finden."),
+		app.Br(),
+		app.Text("Manche Kirchenbücher sind auch nicht chronologisch bzw. die Daten im Buch verstreut."),
+		app.Br(),
+		app.Text("Es gibt auch immer mal wieder Fehler in den Daten, falsch erfasste Namen oder manchmal ist das Jahr um 1 verrutscht, etc."),
+		app.Br(),
+		app.Br(),
+		app.Text("Der zweie Link führt direkt zum Kirchenbuch, teilweise auch auf den richtigen Scan, das kann durch Fehler aber evtl. auch etwas abweichen."),
+		app.Br(),
+		app.Text("Die Archion-Links bringen nur was, wenn man bei Archion einen Pass hat."),
+		app.Br(),
+		app.Br(),
+		app.Text("Die Kirchengemeinden sind grob geographisch angeordnet, siehe auch: "),
+		app.A().Href("https://www.google.com/maps/d/viewer?mid=1FYfIGUV4g66wImeIqkkr8lcs8kzaAx4s&ll=50.96592383350824%2C13.63222561152344&z=10").Text("Karte Kirchenbücher Sachsen"),
+		app.Br(),
+		app.Br(),
+		app.H3().Body().Text("Mehr Informationen zum Projekt:"),
+		app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
+		app.Br(),
+		app.Br(),
+		app.H3().Body().Text(" v1.5 (November 2023) latest updates:"),
+		app.Label().Text("Trauungen Briesnitz 1548-1647 überarbeitet"),
+		app.Br(),
+		app.Label().Text("Verlinkungen zu Archion überarbeitet"),
+		app.Br(),
+		app.Label().Text("Suchalgorithmus beschleunigt und experimentelle Auswahl hinzugefügt"),
+		app.Br(),
+		app.Label().Text("kleinere Fehler in den Daten korrigiert"),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
 }
 
@@ -393,7 +410,7 @@ func (h *searchComp) onClick(ctx app.Context, e app.Event) {
 		boxes[i] = []app.UI{}
 	}
 
-	for _, res := range search.FindMarriage(h.searchValue, h.slideValueMin, h.slideValueMax, h.checked) {
+	for _, res := range search.FindMarriage(h.searchValue, h.slideValueMin, h.slideValueMax, h.checked, h.algo) {
 		parts := strings.Split(res, "#")
 		dis, _ := strconv.Atoi(parts[2])
 		if dis > 7 {
@@ -452,6 +469,10 @@ func (h *searchComp) nothing(ctx app.Context, e app.Event) {
 	for key, _ := range search.Data.Marriages {
 		h.checked[key] = false
 	}
+}
+
+func (h *searchComp) changeAlgo(ctx app.Context, e app.Event) {
+
 }
 
 func getColor(distant int) (color string) {

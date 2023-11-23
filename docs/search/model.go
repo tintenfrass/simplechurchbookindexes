@@ -14,7 +14,7 @@ type fullData struct {
 type churchEntry struct {
 	Min  int
 	Max  int
-	Data []marriageEntry
+	Data []marriageEntry //TODO Sortiert nach Y bzw. Aufteilen in IndexMaps (pointer auf Zeiträume)
 }
 
 type marriageEntry struct {
