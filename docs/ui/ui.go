@@ -161,6 +161,9 @@ func (h *searchComp) Render() app.UI {
 	grid[7][12] = "Dresden Annenkirche"
 	grid[9][12] = "Hosterwitz"
 
+	grid[0][13] = "Großschirma"
+	grid[1][13] = "Krummhennersdorf"
+	grid[2][13] = "Niederschöna"
 	grid[4][13] = "Fördergersdorf"
 	grid[5][13] = "Tharandt"
 	grid[6][13] = "Döhlen"
@@ -168,16 +171,20 @@ func (h *searchComp) Render() app.UI {
 	grid[8][13] = "Leubnitz"
 	grid[9][13] = "Leuben bei Dresden"
 
+	grid[0][14] = "Langhennersdorf"
 	grid[1][14] = "Freiberg Dom St. Marien"
 	grid[2][14] = "Freiberg St. Nikolai"
 	grid[3][14] = "Conradsdorf"
+	grid[4][14] = "Naundorf"
 	grid[5][14] = "Somsdorf"
 	grid[6][14] = "Rabenau"
 	grid[7][14] = "Plauen"
 	grid[9][14] = "Lockwitz"
 
+	grid[0][15] = "Kleinwaltersdorf"
 	grid[1][15] = "Freiberg St. Petri"
 	grid[2][15] = "Freiberg St. Jacobi"
+	grid[3][15] = "Tuttendorf"
 	grid[4][15] = "Dorfhain"
 	grid[5][15] = "Höckendorf"
 	grid[6][15] = "Seifersdorf bei Dippoldiswalde"
@@ -386,14 +393,20 @@ func (h *searchComp) Render() app.UI {
 		app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 		app.Br(),
 		app.Br(),
-		app.H3().Body().Text(" v1.5 (November 2023) latest updates:"),
-		app.Label().Text("Trauungen Briesnitz 1548-1647 überarbeitet"),
+		app.H3().Body().Text(" v1.5 (Januar 2024) latest updates:"),
+		app.Label().Text("Trauungen Großschirma bis 1799"),
 		app.Br(),
-		app.Label().Text("Verlinkungen zu Archion überarbeitet"),
+		app.Label().Text("Trauungen Krummhennersdorf bis 1799"),
 		app.Br(),
-		app.Label().Text("Suchalgorithmus beschleunigt und experimentelle Auswahl hinzugefügt"),
+		app.Label().Text("Trauungen Niederschöna bis 1799"),
 		app.Br(),
-		app.Label().Text("kleinere Fehler in den Daten korrigiert"),
+		app.Label().Text("Trauungen Langhennersdorf bis 1799"),
+		app.Br(),
+		app.Label().Text("Trauungen Kleinwaltersdorf bis 1799"),
+		app.Br(),
+		app.Label().Text("Trauungen Tuttendorf bis 1799"),
+		app.Br(),
+		app.Label().Text("Trauungen Naundorf bis 1799"),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
 }
 
@@ -469,10 +482,6 @@ func (h *searchComp) nothing(ctx app.Context, e app.Event) {
 	for key, _ := range search.Data.Marriages {
 		h.checked[key] = false
 	}
-}
-
-func (h *searchComp) changeAlgo(ctx app.Context, e app.Event) {
-
 }
 
 func getColor(distant int) (color string) {
