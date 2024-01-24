@@ -2,6 +2,8 @@
 #### Gebiet: Dresden-Meißen-Freiberg-Dippoldiswalde
 #### Zeitraum: 16-18Jh
 
+[<img src="book.jpg">](https://tintenfrass.github.io/simplechurchbookindexes/)
+
 
 In diesem Projekt geht es um die Erstellung eines Schnell-Indexes möglichst aller Bräutigame.
 
