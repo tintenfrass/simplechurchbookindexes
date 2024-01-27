@@ -48,7 +48,7 @@ func replace(input string) (output string) {
 	return
 }
 
-var rows = 22
+var rows = 21
 var cols = 10
 
 func (h *searchComp) Render() app.UI {
@@ -66,11 +66,12 @@ func (h *searchComp) Render() app.UI {
 		9: make(map[int]string),
 	}
 	grid[0][0] = "Bloßwitz"
-	grid[1][0] = "Dörschnitz"
+	grid[1][0] = "Staucha"
+	grid[2][0] = "Striegnitz"
+	grid[3][0] = "Dörschnitz"
 	grid[5][0] = "Großdobritz"
 	grid[8][0] = "Großdittmannsdorf"
 
-	grid[0][1] = "Striegnitz"
 	grid[1][1] = "Lommatzsch"
 	grid[2][1] = "Zehren"
 	grid[3][1] = "Zadel"
@@ -79,155 +80,169 @@ func (h *searchComp) Render() app.UI {
 	grid[8][1] = "Medingen"
 	grid[9][1] = "Ottendorf"
 
-	grid[0][2] = "Staucha"
-	grid[5][2] = "Niederau"
-	grid[8][2] = "Grünberg"
+	grid[0][2] = "Neckanitz"
+	grid[2][2] = "Meißen St. Afra"
+	grid[3][2] = "Meißen Trinitatiskirche"
+	grid[4][2] = "Niederau"
+	grid[7][2] = "Grünberg"
+	grid[8][2] = "Seifersdorf bei Radeberg"
+	grid[9][2] = "Wachau"
 
-	grid[0][3] = "Neckanitz"
-	grid[1][3] = "Leuben bei Lommatzsch"
-	grid[3][3] = "Meißen St. Afra"
-	grid[4][3] = "Meißen Trinitatiskirche"
+	grid[0][3] = "Leuben bei Lommatzsch"
+	grid[1][3] = "Planitz"
+	grid[3][3] = "Meißen Frauenkirche"
+	grid[4][3] = "Meißen Johanneskirche"
 	grid[5][3] = "Weinböhla"
-	grid[8][3] = "Seifersdorf bei Radeberg"
-	grid[9][3] = "Wachau"
+	grid[8][3] = "Lausa"
+	grid[9][3] = "Schönborn"
 
-	grid[1][4] = "Planitz"
-	grid[3][4] = "Meißen Frauenkirche"
-	grid[4][4] = "Meißen Johanneskirche"
+	grid[1][4] = "Ziegenhain"
+	grid[4][4] = "Brockwitz"
+	grid[5][4] = "Coswig"
 	grid[6][4] = "Reichenberg"
 	grid[7][4] = "Wilschdorf"
-	grid[8][4] = "Lausa"
-	grid[9][4] = "Schönborn"
+	grid[9][4] = "Langebrück"
 
-	grid[1][5] = "Ziegenhain"
-	grid[4][5] = "Brockwitz"
-	grid[5][5] = "Coswig"
+	grid[2][5] = "Krögis"
+	grid[3][5] = "Miltitz"
+	grid[5][5] = "Naustadt"
 	grid[7][5] = "Klotzsche"
-	grid[8][5] = "Langebrück"
+	grid[8][5] = "Radeberg"
+	grid[9][5] = "Kleinwolmsdorf"
 
 	grid[0][6] = "Rüsseina"
 	grid[1][6] = "Raußlitz"
-	grid[2][6] = "Krögis"
-	grid[4][6] = "Naustadt"
+	grid[2][6] = "Heynitz"
+	grid[3][6] = "Taubenheim"
+	grid[4][6] = "Röhrsdorf bei Wilsdruff"
 	grid[5][6] = "Constappel"
 	grid[6][6] = "Kötzschenbroda"
-	grid[7][6] = "Dresden Dreikönigskirche"
-	grid[9][6] = "Radeberg"
+	grid[7][6] = "Kaditz"
+	grid[8][6] = "Dresden Dreikönigskirche"
+	grid[9][6] = "Großerkmannsdorf"
 
-	grid[2][7] = "Miltitz"
-	grid[7][7] = "Dresden Hofkirche"
-	grid[9][7] = "Kleinwolmsdorf"
+	grid[0][7] = "Wendischbora"
+	grid[1][7] = "Rothschönberg"
+	grid[2][7] = "Burkhardswalde"
+	grid[3][7] = "Sora"
+	grid[4][7] = "Weistropp"
+	grid[5][7] = "Briesnitz"
+	grid[6][7] = "Dresden Friedrichstadt"
+	grid[7][7] = "Dresden Sophienkirche"
+	grid[8][7] = "Dresden Hofkirche"
+	grid[9][7] = "Weißig"
 
-	grid[1][8] = "Wendischbora"
-	grid[2][8] = "Heynitz"
-	grid[3][8] = "Taubenheim"
-	grid[4][8] = "Röhrsdorf bei Wilsdruff"
-	grid[5][8] = "Weistropp"
-	grid[6][8] = "Kaditz"
-	grid[7][8] = "Dresden Sophienkirche"
-	grid[9][8] = "Großerkmannsdorf"
+	grid[0][8] = "Nossen"
+	grid[1][8] = "Deutschenbora"
+	grid[2][8] = "Tanneberg"
+	grid[3][8] = "Limbach"
+	grid[4][8] = "Wilsdruff"
+	grid[5][8] = "Unkersdorf"
+	grid[6][8] = "Dresden Kreuzkirche"
+	grid[7][8] = "Dresden Frauenkirche"
+	grid[8][8] = "Loschwitz"
 
-	grid[1][9] = "Rothschönberg"
-	grid[2][9] = "Burkhardswalde"
-	grid[3][9] = "Sora"
-	grid[7][9] = "Dresden Kreuzkirche"
-	grid[8][9] = "Loschwitz"
-	grid[9][9] = "Weißig"
+	grid[0][9] = "Siebenlehn"
+	grid[1][9] = "Hirschfeld"
+	grid[2][9] = "Neukirchen"
+	grid[3][9] = "Blankenstein"
+	grid[4][9] = "Grumbach"
+	grid[5][9] = "Kesselsdorf"
+	grid[6][9] = "Pesterwitz"
+	grid[7][9] = "Dresden Annenkirche"
+	grid[8][9] = "Dresden Böhmische Exulantengemeinde"
+	grid[9][9] = "Schönfeld"
 
-	grid[0][10] = "Nossen"
-	grid[1][10] = "Deutschenbora"
-	grid[2][10] = "Tanneberg"
-	grid[3][10] = "Limbach"
-	grid[4][10] = "Wilsdruff"
-	grid[5][10] = "Unkersdorf"
-	grid[6][10] = "Briesnitz"
-	grid[7][10] = "Dresden Frauenkirche"
+	grid[0][10] = "Obergruna"
+	grid[1][10] = "Bieberstein"
+	grid[2][10] = "Dittmannsdorf"
+	grid[3][10] = "Mohorn"
+	grid[4][10] = "Herzogswalde"
+	grid[5][10] = "Döhlen"
+	grid[6][10] = "Plauen"
+	grid[7][10] = "Leubnitz"
+	grid[8][10] = "Leuben bei Dresden"
+	grid[9][10] = "Hosterwitz"
 
-	grid[0][11] = "Siebenlehn"
-	grid[1][11] = "Hirschfeld"
-	grid[2][11] = "Neukirchen"
-	grid[3][11] = "Blankenstein"
-	grid[4][11] = "Grumbach"
-	grid[5][11] = "Kesselsdorf"
-	grid[7][11] = "Dresden Friedrichstadt"
-	grid[9][11] = "Schönfeld"
+	grid[0][11] = "Großschirma"
+	grid[1][11] = "Krummhennersdorf"
+	grid[2][11] = "Niederschöna"
+	grid[4][11] = "Fördergersdorf"
+	grid[5][11] = "Tharandt"
+	grid[8][11] = "Lockwitz"
 
-	grid[0][12] = "Obergruna"
-	grid[1][12] = "Bieberstein"
-	grid[2][12] = "Dittmannsdorf"
-	grid[3][12] = "Mohorn"
-	grid[4][12] = "Herzogswalde"
-	grid[6][12] = "Pesterwitz"
-	grid[7][12] = "Dresden Annenkirche"
-	grid[9][12] = "Hosterwitz"
+	grid[0][12] = "Langhennersdorf"
+	grid[1][12] = "Tuttendorf"
+	grid[2][12] = "Conradsdorf"
+	grid[3][12] = "Naundorf"
+	grid[4][12] = "Dorfhain"
+	grid[5][12] = "Somsdorf"
+	grid[6][12] = "Rabenau"
+	grid[7][12] = "Possendorf"
+	grid[8][12] = "Röhrsdorf bei Dohna"
 
-	grid[0][13] = "Großschirma"
-	grid[1][13] = "Krummhennersdorf"
-	grid[2][13] = "Niederschöna"
-	grid[4][13] = "Fördergersdorf"
-	grid[5][13] = "Tharandt"
-	grid[6][13] = "Döhlen"
-	grid[7][13] = "Dresden Böhmische Exulantengemeinde"
-	grid[8][13] = "Leubnitz"
-	grid[9][13] = "Leuben bei Dresden"
+	grid[0][13] = "Kleinwaltersdorf"
+	grid[1][13] = "Freiberg Dom St. Marien"
+	grid[2][13] = "Freiberg St. Nikolai"
+	grid[4][13] = "Klingenberg"
+	grid[5][13] = "Höckendorf"
+	grid[6][13] = "Seifersdorf bei Dippoldiswalde"
+	grid[8][13] = "Kreischa"
 
-	grid[0][14] = "Langhennersdorf"
-	grid[1][14] = "Freiberg Dom St. Marien"
-	grid[2][14] = "Freiberg St. Nikolai"
-	grid[3][14] = "Conradsdorf"
-	grid[4][14] = "Naundorf"
-	grid[5][14] = "Somsdorf"
-	grid[6][14] = "Rabenau"
-	grid[7][14] = "Plauen"
-	grid[9][14] = "Lockwitz"
+	grid[0][14] = "Kleinschirma"
+	grid[1][14] = "Freiberg St. Petri"
+	grid[2][14] = "Freiberg St. Jacobi"
+	grid[3][14] = "Hilbersdorf"
+	grid[4][14] = "Colmnitz"
+	grid[5][14] = "Ruppendorf"
+	grid[6][14] = "Dippoldiswalde"
+	grid[7][14] = "Reinhardtsgrimma"
 
-	grid[0][15] = "Kleinwaltersdorf"
-	grid[1][15] = "Freiberg St. Petri"
-	grid[2][15] = "Freiberg St. Jacobi"
-	grid[3][15] = "Tuttendorf"
-	grid[4][15] = "Dorfhain"
-	grid[5][15] = "Höckendorf"
-	grid[6][15] = "Seifersdorf bei Dippoldiswalde"
-	grid[7][15] = "Possendorf"
-	grid[8][15] = "Kreischa"
-	grid[9][15] = "Röhrsdorf bei Dohna"
+	grid[0][15] = "Oberschöna"
+	grid[1][15] = "Freiberg St. Johannis"
+	grid[3][15] = "Niederbobritzsch"
+	grid[6][15] = "Reichstädt"
 
-	grid[1][16] = "Freiberg St. Johannis"
-	grid[3][16] = "Colmnitz"
-	grid[4][16] = "Klingenberg"
-	grid[5][16] = "Ruppendorf"
+	grid[1][16] = "Erbisdorf"
+	grid[2][16] = "Berthelsdorf"
+	grid[3][16] = "Weißenborn"
+	grid[4][16] = "Oberbobritzsch"
+	grid[5][16] = "Pretzschendorf"
+	grid[8][16] = "Glashütte"
 
-	grid[1][17] = "Erbisdorf"
-	grid[2][17] = "Berthelsdorf"
-	grid[4][17] = "Pretzschendorf"
-	grid[5][17] = "Reichstädt"
-	grid[6][17] = "Dippoldiswalde"
-	grid[8][17] = "Reinhardtsgrimma"
+	grid[0][17] = "Langenau"
+	grid[1][17] = "Weigmannsdorf"
+	grid[2][17] = "Lichtenberg"
+	grid[3][17] = "Burkersdorf"
+	grid[4][17] = "Hartmannsdorf"
+	grid[5][17] = "Hennersdorf"
+	grid[6][17] = "Sadisdorf"
+	grid[7][17] = "Schmiedeberg"
+	grid[8][17] = "Johnsbach"
+	grid[9][17] = "Dittersdorf"
 
-	grid[2][18] = "Burkersdorf"
-	grid[3][18] = "Hartmannsdorf"
-	grid[4][18] = "Hennersdorf"
-	grid[5][18] = "Sadisdorf"
-	grid[6][18] = "Schmiedeberg"
-	grid[7][18] = "Johnsbach"
-	grid[8][18] = "Glashütte"
-	grid[9][18] = "Dittersdorf"
+	grid[0][18] = "Gränitz"
+	grid[1][18] = "Großhartmannsdorf"
+	grid[2][18] = "Helbigsdorf"
+	grid[3][18] = "Mulda"
+	grid[4][18] = "Frauenstein"
+	grid[7][18] = "Bärenstein"
+	grid[8][18] = "Lauenstein"
+	grid[9][18] = "Liebenau"
 
-	grid[2][19] = "Dittersbach"
-	grid[3][19] = "Frauenstein"
-	grid[7][19] = "Bärenstein"
-	grid[8][19] = "Lauenstein"
-	grid[9][19] = "Liebenau"
+	grid[1][19] = "Zethau"
+	grid[2][19] = "Dorfchemnitz"
+	grid[3][19] = "Dittersbach"
+	grid[4][19] = "Nassau"
+	grid[5][19] = "Hermsdorf"
+	grid[6][19] = "Schellerhau"
+	grid[7][19] = "Altenberg"
+	grid[8][19] = "Geising"
 
-	grid[1][20] = "Dorfchemnitz"
-	grid[2][20] = "Clausnitz"
-	grid[3][20] = "Nassau"
-	grid[4][20] = "Hermsdorf"
-	grid[6][20] = "Schellerhau"
-	grid[7][20] = "Altenberg"
-	grid[8][20] = "Geising"
-
-	grid[2][21] = "Cämmerswalde"
+	grid[1][20] = "Voigtsdorf"
+	grid[2][20] = "Sayda"
+	grid[3][20] = "Clausnitz"
+	grid[4][20] = "Cämmerswalde"
 
 	raw := "https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/"
 
@@ -393,7 +408,7 @@ func (h *searchComp) Render() app.UI {
 		app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 		app.Br(),
 		app.Br(),
-		app.H3().Body().Text(" v1.5 (Januar 2024) latest updates:"),
+		app.H3().Body().Text(" v1.6 (Januar 2024) latest updates:"),
 		app.Label().Text("Trauungen Großschirma bis 1799"),
 		app.Br(),
 		app.Label().Text("Trauungen Krummhennersdorf bis 1799"),
@@ -407,6 +422,26 @@ func (h *searchComp) Render() app.UI {
 		app.Label().Text("Trauungen Tuttendorf bis 1799"),
 		app.Br(),
 		app.Label().Text("Trauungen Naundorf bis 1799"),
+		app.Br(),
+		app.Label().Text("Trauungen Oberschöna bis 1799"),
+		app.Br(),
+		app.Label().Text("Trauungen Kleinschirma bis 1799"),
+		app.Br(),
+		app.Label().Text("Trauungen Hilbersdorf bis 1799"),
+		app.Br(),
+		app.Label().Text("Trauungen Niederbobritzsch bis 1799"),
+		app.Br(),
+		app.Label().Text("Trauungen Weißenborn bis 1799"),
+		app.Br(),
+		app.Label().Text("Trauungen Oberbobritzsch bis 1799"),
+		app.Br(),
+		app.Label().Text("Trauungen Langenau bis 1799"),
+		app.Br(),
+		app.Label().Text("Trauungen Weigmannsdorf bis 1799"),
+		app.Br(),
+		app.Label().Text("Trauungen Lichtenberg bis 1799"),
+		app.Br(),
+		app.Label().Text("Karte neu geordnet"),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
 }
 
