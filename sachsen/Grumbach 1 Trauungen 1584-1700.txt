@@ -8,29 +8,30 @@ Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
 Erstellt in ca. 6 Stunden
-Mai 2021
-https://github.com/tintenfrass/simplechurchbookindexes 
+Mai 2021 (erstellt)
+Februar 2024 (überarbeitet)
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
 ---------------- x201
 1584
 Michael Gerold
-Jacob Henke?
+Jacob Hancke
 Georg Berner
 1585
 Hans Kißling
-Jacob K?
+Jacob Kurz?
 Lucas Kolsdorf
 Melchior Orges?
 ----------------
 Caspar Dittrich
 Blasius Hennig
 1586
-Caspar Bairchzitzsch?
-Paul Fritzsche?
-Michael ?
-Peter Fritsch?
+Caspar Bauderitzsch?
+Paul Fritzsche
+Michael Eyben
+Peter Henicke?
 Simon Fritzschner?
 Martin Fritzsch
 Georg Irmler
@@ -43,7 +44,7 @@ Mattheus Irmler
 Georg Fritzsch
 Martin Irmler
 1588
-Jamirles? Stepin?
+Daniel Stepin?
 Georg Berner
 Donat Göbel
 Valentin Günther?
@@ -58,90 +59,90 @@ Donat Wustlich
 Gregor Schneider
 1589
 Blasius Dittrich
-Friedrich Eiben?
-Paul Gerolt?
-Martin Zezocke?
-Nikel Zimpach
+Friedrich Eiben
+Paul Gerolt
+Martin Leuteritz
+Nikel Limpach
 Nikel Berner
 Hans Hanke
 Georg Irmler
 ----------------
-Donat Günther?
+Donat Günther
 1590
-Michael Berker?
+Michael Berker
 Hans Große
 Gregor Schuman
 Valentin Dittrich
-Hans Böbertzsch?
-Andreas Webche?
+Hans Böbertzsch
+Andreas Welcher?
 Michael Salomon
 1591
-Thomas Hencke?
-Caspar Zurbeke?
+Thomas Henicke?
+Caspar Rülcker
 ----------------
-Benedikt Kutkäß?
-Michael ?
+Benedikt Kutkäß
+Michael Eybe
 Lucas Henike?
 Georg Gritner?
-Peter Rudloph?
+Peter Rudolph
 1592
 Barthel Große
 Michael Schuman
-Jacob Kuriper?
+Jacob Kneiper?
 Jacob Schneider
 x
-Laux Henicke?
+Laux Henicke
 ----------------
 Georg Berner
 Georg Golthan?
-Lucas Kupe?
+Lucas Küne
 Georg Becker
-Nikel Döner?
+Nikel Döner
 Blasius Dittrich
 1593
 Ambrosius Rost
-Urban Meutzner?
-Hans Kuene?
-Georg Henker?
+Urban Meutzner
+Hans Küne
+Georg Henker
 ----------------
 1594
 Franz Fickel?
 Martin Dittrich
 Hans Kirchner
-Lucas Hencktz?
-Baltzer Güntzl
+Lucas Henicke
+Baltzer Cuntze
 Georg Hancke?
 Caspar Simon
-Baltzer Rülcker?
+Baltzer Rülcker
 Georg Borman
 ----------------
 Georg Kißling
-Mattheus Heine?
-Hans Berner?
+Mattheus Heune?
+Hans Berner
 Georg Gritner
 1595
 Martin Schubert
-Georg Sparhark?
+Georg Sparhack?
 Nikel Birckner
-Peter Sturzel?
-Michael Bein?
+Peter Stürel?
+Michael Beier?
 Martin Berner
 ----------------
 Jacob Kißling
 Georg Simon
-Blasius Keripner?
+Blasius Kneiper?
 Burckhard Große
 Georg Ulman
-Wolf Huzner?
+Wolf Thürmer?
 1596
-Michael Kehrmeritz?
+Michael Küchenmeister
 ----------------
 Martin Irmler
 Andreas Reich
-Martin Weber?
+Martin Weber
 Michael Irmler
 x
-Caspar Kuhn
+Caspar Kühn
 Baltzer Berner
 Michael Kißling
 Hans Berner
@@ -149,48 +150,48 @@ Hans Berner
 1597
 Lucas Simon
 Christoph Fritzsch
-Hans Geßner?
+Hans Geßner
 Donat Irmler
 Gregor Fischer
 1598
-Valentin Günther?
-Michael Schunicke?
+Valentin Günther
+Michael Schneider
 1599
-Jacob Kupiger?
+Jacob Kneiper
 ----------------
 Michael Simon
 Mattheus Dittrich
 Hans Dittrich
-Martin Krauße?
+Martin Krause?
 Peter Irmler
 Jacob Kißling
-Michael Gempe?
+Michael Cuntze?
 Lucas Reiche
 ----------------
 1600
 Peter Hencker
-Georg Kuhn?
+Georg Kühn
 Georg Große
-Gregor Felke?
+Gregor Felber
 Lucas Hencker
 Martin Ebert
-Georg Felber?
-Martin Hanecke?
+Georg Felber
+Martin Hancker?
 Georg Henker
 ----------------
 Georg Kohlsdorf
 1601
 Blasius Brendel
-Barthel Nauman?
+Barthel Nauman
 Jacob Weber
-Jacob Kreger?
+Jacob Kneiper
 Jacob Kritner
-Caspar? Dittrich
+Caspar Dittrich
 Georg Klotz
-Paul Egem?
+Paul Tham?
 Laux Kißling
-Georg Bochzert?
-Blasius Kreger?
+Georg Moller?
+Blasius Kneier?
 Georg Pizsch
 Hans Pesch?
 Martin Simon
@@ -199,25 +200,25 @@ Andreas Kißling
 Martin Irmler
 ----------------
 Andreas Kißling
-Martin Dittrich?
-Laux Kunz?
-Hans Dorn?
+Martin Dittrich
+Laux Kune
+Hans Dorn
 Simon Groß
-Georg Rudeger?
+Georg Rüdiger
 1603
-Georg Specht?
-Jacob Heine?
-Georg Knoiper?
-Martin Irmiger?
+Georg Specht
+Jacob Heime
+Georg Kneiper
+Martin Jenigen
 Andreas Hencker
 Jacob Kuntze
-Aehitius? Hermsdorf?
+Aegidius Hermsdorf
 ----------------
 Balthasar Dittrich
 Andreas Schönberg
 1604
-Andreas Kiche?
-Caspar Kiche?
+Andreas Kühn
+Caspar Kühn
 Peter Irmler
 Jacob Rüdiger
 Georg Bachmann
@@ -227,50 +228,50 @@ Georg Dittrich
 Jacob Reiche
 Caspar Schuman
 1605
-Lucas Kretschman?
+Lucas Gruntman?
 Mattheus Ulbricht
-Martin Zeisch?
+Martin Zeisch
 Georg Berner
 Martin Irmler
-Georg Nschiege?
+Georg Nussieger?
 Johann Tamme?
 ----------------
-Lucas Kuntz?
-Jacob Kuhn
+Lucas Kuntz
+Jacob Kühn
 1606
-Barthel Keißler
+Barthel Geißler
 Peter Köhler
-Jacob Pfutzner
-Michael Edutschling?
-Thomas Große?
+Jacob Pfützner
+Michael Wustling
+Thomas Große
 Johann Heinrich
-Caspar Herman?
+Caspar Heime
 ----------------
-Barthel Knieper?
-Johann Pfutzner
+Barthel Kneiper
+Johann Pfützner
 Johann Groß
 Benedikt Heine
-Martin Schephel?
+Martin Düschel?
 Georg Irmler
 Martin Brendel
 1607
 Georg Faust
-Martin Ferzscher?
+Martin Fritzsche
 Christoph Pizsch
 Georg Irmler
 Martin Irmler
-Christoph Fezsch?
+Christoph Fritzsche
 ----------------
 1608
 Paul Hencker
 Christoph Pezsch
 Johann Borman
-Peter Limpach?
+Peter Limpach
 Benedikt Irmler
-Andreas Maser?
+Andreas Moses
 1609
-Martin Rether?
-Caspar Kuhn
+Martin Ritter?
+Caspar Kühn
 Peter Henker
 ----------------
 1610
@@ -278,79 +279,79 @@ Georg Heine
 Martin Irmler
 Peter Behm
 1611
-Mattheus Kuhn?
+Mattheus Kühn
 Lucas Hencker
 Michael Kohlsdorf
-Andreas Rlerg?
-Michael Kiche?
+Andreas Mettes?
+Michael Kühn
 Peter Limpach
 ----------------
 1612
 Martin Irmler
 Michael Hoppe
-Jacob Kierlat?
+Jacob Gierlat?
 Stephan Burckhard
 Balthasar Kunz
 Johann Winckler
 1613
 Georg Kirsten
 Georg Dittrich
-Ambrosius Leuderz
-Barthel Kuriper?
-Johann Zchoche?
+Ambrosius Leuteritz
+Barthel Kneiper
+Johann Dürsche?
 Jonas Limpach
 Valentin Dittrich
 ----------------
 1614
 Martin Groß
-Barthel Großlend?
+Barthel Groß
 Baltzer Irmler
-Georg Haniche?
-Hans Kuhen?
-Friedrich Erken?
-Mattheus Hertschuch?
-Georg Pizsch
+Georg Henicke?
+Hans Küchenmeister
+Friedrich Eiben
+Mattheus Hertschuch
+Georg Piezsch
 Georg Limpach
-Michael Gretman?
+Michael Grundman
 Peter Irmler
-Martin Siereß?
-Burckhard Sparhark?
+Martin Spieß
+Burckhard Sparhack
 ----------------
 1615
 Christoph Pizsch
-Peter Fritzsche?
+Peter Fritzsche
 Peter Burckhard
-Christoph Pezsch?
+Christoph Piezsch
 Baltzer Schuman
 Martin Naumann
 Gregor Brendel
 1616
-Jacob Spieß?
+Jacob Spieß
 Hans Simon
-Peter Patzig?
+Peter Pezig
 Martin Sorman
-Jacob Merbitz?
-Mattheus Hedn?
-Caspar Fresch?
-Michael Horme?
+Jacob Mettig?
+Mattheus Heun?
+Caspar Fritzsche
+Michael Heime
 Georg Berner
 Simon Man
 Michael Ritter
-Georg Kuhn?
+Georg Kühn
 ----------------
 1617
 Peter Pizsch
-Georg Kißling?
-Michael Ferzsch?
-Jacob Stark?
-Ahitius? Wenbe?
+Georg Kißling
+Michael Fritzsche
+Jacob Starck
+Egidius Mende?
 Valentin Groß
-David? Sparharke?
+David Sperhacke
 1618
 Michael Birckner
 Nikel Birckner
 Jacob Tamme
-Georg Kreptman?
+Georg Hauptmann?
 Georg Nagler
 Melchior Irmler
 Georg Dittrich
@@ -360,107 +361,107 @@ Hans Ritter
 ----------------
 1619
 Georg Rulcker
-Jacob Irpel?
+Jacob Jepel
 Johann Zeisig
 Caspar Klotz
 Georg Bachmann
 Martin Bernhart
-Lucas Klung?
-Johann Kehn?
+Lucas Kuntz
+Johann Kühn
 Martin Wagner
-Georg Metzinger?
+Georg Metzner
 Peter Kirsten
-Jacob Herne?
+Jacob Heune?
 ----------------
 1620
 Christoph Borman
 Peter Dittrich
 Christoph Brendel
-Gregor Spies?
-Caspar Meurhen?
+Gregor Spies
+Caspar Meuer?
 Valentin Dittrich
 Georg Simon
 Michael Schneider
-Simon Kiche?
-Jacob Birckner?
+Simon Kühn
+Jacob Birckner
 1621
-Christoph Gutkaß?
+Christoph Gutkäße
 Michael Rudolph
-Georg Hanicke?
+Georg Hanicke
 Martin Kißling
 ----------------
 1622
 Martin Schirmer
 Martin Borman
-Georg Peischker?
-Paul Bunthe?
-Mattheus ?
+Georg Preischker
+Paul Günther
+Mattheus Her?
 Georg Brendel
 1623
 Gregor Pezsch
 Thomas Dittrich
 Peter Irmler
-Michael Kuchenmeister?
+Michael Küchenmeister
 ----------------
 1624
 Georg Simon
-Georg Ergnkner?
-Johann Krasch?
+Georg Trenckner
+Johann Krause
 Mattheus Irmler
-Johann ?
-Johann Dittrich?
-Samuel Rothlonder?
-Valentin Hanech?
+Johann Felch?
+Johann Dittrich
+Samuel Roth?
+Valentin Hanick
 1625
 Peter Behm
 Martin Berner
-Gregor Reinknecht?
-Nikel Döner?
-Jacob Hanicke?
+Gregor Reinknecht
+Nikel Döner
+Jacob Hanicke
 Martin Schuman
 ----------------
 1626
-Michael Pfether?
-Bastian Kalschmid?
-Nikel Melter?
-Valentin Kalschmid?
+Michael Pfeiffer?
+Bastian Kaltschmid
+Nikel Müller
+Valentin Kaltschmid
 Johann Berner
 Laurentius Pezsch
 Andreas Borman
 1627
 Jacob Wäber
-Martin Dittrich?
-Donat Bökel?
-Johann Kalschmid?
+Martin Dittrich
+Donat Göbel?
+Johann Kaltschmid
 Georg Irmler
 Caspar Dittrich
 Martin Merbitz?
-Johann Kretschman?
-Georg Sarch?
+Johann Grundman
+Georg Spieß
 Caspar Simon
-Georg Hencker?
+Georg Hencker
 ----------------
 1628
-Balthasar Rulcker
+Balthasar Rülcker
 Martin Irmler
 Georg Kohlsdorf
-Balthasar Ketschner?
+Balthasar Kürschner?
 Johann Kißling
 Caspar Dittrich
 Georg Beger
-Jacob Kariper?
+Jacob Kneiper
 Benedikt Schuman
 1629
 Christoph Schuman
-Valentin Kißling?
-Michael Krechtman?
+Valentin Kißling
+Michael Grundman
 Andreas Kißling
-Michael Fritzsche?
+Michael Fritzsche
 Michael Schuman
-Johann Elile?
+Johann Thiele
 Johann Limpach
-Johann Werg?
-Georg Prerser?
+Johann Mettig?
+Georg Preiser?
 Christoph Henning
 Hans Lange
 ----------------
@@ -471,61 +472,62 @@ Johann Otto
 Peter Berner
 1631
 Caspar Dittrich
-Andreas Borsch?
-Martin Rosch?
+Andreas Bartsch?
+Martin Raysch?
 Valentin Brendel
 Martin Zeisig
 Johann Reich
 Michael Simon
 Martin Kißling
 ----------------
+1632
 Christoph Pezsch
 Georg Pezsch
-Michael Dutzner?
+Michael Kuntze
 1633
 Georg Borman
 Georg Dittrich
-Martin Jenigen?
+Martin Jenigen
 Christoph Brendel
-Christoph Frische?
+Christoph Fritzsche
 Martin Kolsdorf
-Georg Frisch
+Georg Fritzsche
 Paul Förster
-Georg Krenzner?
+Georg Kuntze
 Jonas Limpach
-Hans Beschner?
+Hans Geßner
 ----------------
 1634
-Jonas Geßner?
-Valentin Hanecke?
+Jonas Geßner
+Valentin Hanicke
 Caspar Irmler
-Jacob Kneper?
+Jacob Kneiper
 Martin Herman
 Barthel Nauman
-Johann Funnet?
+Johann Funcke
 1635
-Barthel Kresper?
-Hans Pizsch?
-Valentin Hanecke?
-Martin Krasper?
+Barthel Krausper
+Hans Pizsch
+Valentin Hanicke?
+Martin Krausper
 Christoph Brendel
-Martin Pezsch?
+Martin Piezsch
 Blasius Brendel
 Georg Irmler
 Lorenz Pizsch
-Martin Irmieger
+Martin Jenigen
 Hans Pietsch
 ----------------
 1636
 Georg Henning
-Michael Hencker?
+Michael Hencker
 Caspar Lange
 Caspar Irmler
 Georg Wustlich
-Jacob Fischer?
-Caspar Rulcker?
+Jacob Fischer
+Caspar Rülcker
 Georg Keparh?
-Christoph Frische?
+Christoph Fritzsche
 Martin Büttner
 1637
 Jacob Hanicke
@@ -535,82 +537,82 @@ Michael Dittrich
 ----------------
 1638
 Benedikt Hater?
-Lorenz Hauptvogel?
-Martin Kummer
+Lorenz Hauptvogel
+Martin Kümmer
 Georg Dittrich
-Jacob Kurper
-Michael Hencker?
-Georg Hesner?
-Johann Pfleuner?
+Jacob Kneiper
+Michael Hencker
+Georg Heime
+Johann Pfleumer
 1639
 Michael Kunze
 Valentin Hanicke
-Georg Razsch?
+Georg Ratzsch
 Caspar Schuman
 Barthel Franck
 Michael Spieß
 Michael Kunze
-Michael Horn?
+Michael Hun
 ----------------
 1640
-Georg Irmiger
-Martin Dachsel?
+Georg Jenigen
+Martin Dreschel?
 1641
 Christoph Henning
-Georg Trenckner?
-Hans Zscheile
+Georg Trenckner
+Hans Thiele
 Andreas Borman
 Martin Nauman
 Donat Sparhack
-Reinhard Stentzel?
+Reinhard Stentzel
 1642
 Balthasar Schuman
 Georg Berner
-Peter Spieß?
+Peter Spieß
 Michael Irmler
 1643
-Hans Dohle?
+Hans Pohle
 Martin Schuman
 Martin Borman
-Georg Kirne?
-Peter ?
+Georg Hiene?
+Peter Fritzsche?
 Martin Kißling
-Jacob Kneiper?
+Jacob Kneiper
 1642
-Michael Limpach
+Michael Limpich
 ----------------
 1644
-Georg Merzner?
-Michael Burckhard
-Mattheus Henke?
-Georg Kuhn
+Georg Meitzner
+Michael Gutkäse
+Mattheus Heune?
+Georg Kühn
 Georg Lange
-Michael Kuhn
+Michael Kühn
 Caspar Irmler
-Michael Kuhn
+Michael Kühn
 Peter Lange
 Gregor Reinknecht
 Johann Rudolph
-? Johann Kiewing?
-Caspar Fehrmann?
+Gottfried? Böhme
+Caspar Fehrmann
 1645
-Georg Spieß?
-Martin Kuhn
+Georg Spieß
+Martin Kühn
 Jacob Brendel
-Georg Ermkner?
+Georg Tränckner
 Michael Hempel
 Baltzer Irmler
-Mattheus Merbitz?
+Mattheus Moriz?
 1646
 Michael Simon
 Martin Zeisig
-Blasius Jepel?
+Blasius Jepel
 Caspar Heine
 Jacob Kunze
 Martin Brendel
 Jacob Nauman
 Benedikt Irmler
-Georg Kuhn
+Georg Kühn
 ----------------
 1647
 Georg Sorman
@@ -621,15 +623,15 @@ Jacob Wustling
 Johann Kolsdorf
 Martin Hencker
 1648
-Michael Kunzer
+Michael Kunze
 1649
 Michael Spieß
 Andreas Pizsch
 Georg Irmler
 Michael Müller
 Georg Pizsch
-Georg Tscheurke?
-Gregor Schursch?
+Georg Tzscheucke?
+Gregor Schürth?
 Georg Kirsten
 ----------------
 1650
@@ -640,39 +642,39 @@ Peter Kuhn
 David? Kuhn
 Martin Tzoche
 Benedikt Irmler
-Georg ?
-Mattheus? Irmler
-Christoph Findlent?
+Georg Ditrich
+Mattheus Irmler
+Christoph Felckmann?
 Hans Ritter
 1651
 Valentin Kaltschmid
-Martin Kelbe?
-Michael Grundman?
-Georg Kühne?
-Martin Eyden?
-Georg Berner?
-Peter Ziegenfeld?
+Martin Kolbe
+Michael Grundman
+Georg Kühne
+Martin Eybe
+Georg Berner
+Peter Ziegenbalck
 ----------------
 1652
 Georg Limpach
-Martin Wütze?
+Martin Götze
 Valentin Dittrich
 Paul Pazig
-Georg Heneker?
-Georg Kuhn?
+Georg Hencker
+Georg Kühne
 Andreas Böhm
 1653
-Michael Duhne?
+Michael Kühne
 Ambrosius Irmler
 Georg John
 Johann Schuman
-Christoph Lehsch?
+Christoph Lohse
 Georg Fritzsche
 Lucas Hencker
-Georg Hencker
+Georg Henicke
 ----------------
 1654
-Andreas Borman?
+Andreas Borman
 Peter Fritzsche
 Paul Thamm
 Johann Irmler
@@ -683,21 +685,21 @@ Jacob Starke
 Christoph Fritzsche
 Georg Kalschmid
 Peter Dittrich
-Andreas Schirmer?
-Georg Hencker?
+Andreas Schirmer
+Georg Hencker
 David Schuman
-Jacob ?
+Jacob Kühne
 ----------------
 1656
-Martin Kolsdorf?
-Jacob Henke
-Jacob Jepal?
-Jacob Giplt?
+Martin Kolsdorf
+Jacob Heckel
+Jacob Jepel
+Jacob Girlt?
 Martin Irmler
 Johann Berner
-Donat Stübner?
+Donat Göbel
 Johann Birckner
-Balthasar Stantzch?
+Balthasar Gentzsch
 Jacob Pietzsch
 Georg Kuntze
 1657
@@ -709,8 +711,8 @@ Caspar Müller
 Jacob Nauman
 Michael Borman
 Georg Starke
-Balthasar Pfitle?
-Michael Kirsten?
+Balthasar Pfeiffer
+Michael Kirsten
 Caspar Kühn
 ----------------
 1658
@@ -720,7 +722,7 @@ Martin Reiche
 Benedikt Schuman
 Martin Kirsten
 Caspar Dittrich
-Christoph Muthkers?
+Christoph Gutkäse
 Caspar Müller
 1659
 Martin Pietzsch
@@ -737,16 +739,16 @@ Martin Irmler
 Martin Günther
 Caspar Brendel
 Jacob Kuntze
-Barthel Krauste?
+Barthel Krauspe
 Michael Ritter
 Martin Kißling
 1662
-Balthasar Egber?
+Balthasar Eybe
 Johann Birkner
 Johann Schuman
 Michael Kuntze
 Georg Henker
-Martin Krauße?
+Martin Krauspe
 Christoph Kretschmar
 Martin Herrman
 Georg Richter
@@ -755,34 +757,34 @@ Georg Richter
 Georg Hencker
 Georg Kuntze
 Johann Berner
-Christoph Kelker?
-Andreas Kühne?
-Georg Bpsch?
+Christoph Keller
+Andreas Kühne
+Georg Tzschoche
 1664
 Martin Irmler
-Hans Schiedrig?
+Hans Schmiedrig
 Georg Dittrich
 Johann Hencker
 Peter Irmler
 Donat Claus
-Christoph Funek?
-Georg Götze?
+Christoph Funcke
+Georg Götze
 Nikel Irmler
 ----------------
 Philip Röder
 Georg Kummer
-Tobias Lust?
+Tobias Linse
 1665
 Georg Brendel
-Michael Beuchloß?
+Michael Bruchloß
 Georg Kuntze
 Georg Berner
 1666
 Peter Rudolph
 Georg Schultze
 Lorenz Pietzsch
-Hans Knierper?
-Jacob Kippe?
+Hans Kneiper
+Jacob Kippe
 ----------------
 Martin Kießling
 Christoph Funcke
@@ -806,9 +808,9 @@ Christian Müller
 Martin Starke
 Peter Kirsten
 Georg Brendel
-Christian Rose?
+Christian Rose
 Simon Morgenstern
-Caspar Grießbach?
+Caspar Grießbach
 Johann Richter
 Balthasar Rülcker
 Christoph Clement Bürger
@@ -823,15 +825,15 @@ Johann Schuman
 Hans Thamm
 1670
 Elias Kühne
-Michael Kühn
+Michael Kühne
 Georg Hencker
 Michael Rudolph
-Jacob Irpel
+Jacob Jepel
 1671
 Hans Fleischer
 Martin Dittrich
 Georg Wustlich
-Caspar Herman
+Caspar Herman?
 Jacob Richter
 Georg Brendel
 Hans Herrman
@@ -848,7 +850,7 @@ Jacob Herrman
 1673
 Jacob Starke
 Simon Kühne
-Christian Hestman?
+Christian Hoffmann
 Georg Sparhack
 Christoph Wustlich
 Valentin Brendel
@@ -856,7 +858,7 @@ Michael Tögel
 ----------------
 1674
 Michael Schuman
-Georg Gütze?
+Georg Götze
 Balthasar Lange
 Martin Kießling
 Georg Adam
@@ -871,15 +873,15 @@ Michael Schuman
 Michael Ulbricht
 Balthasar Irmler
 1676
-Daniel Schitel?
+Daniel Schiffel
 Georg Kühn
 Jacob Thiele
-Martin Schlieke?
+Martin Schlicke
 Michael Kuntze
 Georg Rudolph
 ----------------
 Hans Kühne
-Christian Sohrer?
+Christian Sohrer
 Barthel Krauße
 1677
 Valentin Dittrich
@@ -893,8 +895,8 @@ Martin Bormann
 Michael Irmler
 Michael Dittrich
 Hans Berner
-Hans Lger?
-Benedikt? Irmler
+Hans Eger
+Benedikt Irmler
 Michael Kißling
 ----------------
 1678
@@ -904,8 +906,8 @@ Georg Fehrmann
 Georg Starcke
 Georg Kühne
 Michael Kuntze
-Georg Kemctze?
-Michael Kemctze?
+Georg Kuntze
+Michael Kuntze
 Caspar Irmler
 Georg? Dittrich
 1679
@@ -915,39 +917,39 @@ Hans Patzig
 Georg Kühne
 ----------------
 1680
-Hans Hulle?
+Hans HÜlle?
 Georg Schumann
 Peter Dittrich
 Peter Müller
 1681
 Martin Hanicke
 Christian Mehlig
-Georg? Preußer?
+Georg? Preußer
 Georg Irmler
 Gregor Pietzsch
 1682
 Georg Kuntze
 Michael Fritzsche
 Valentin? Brendel
-Georg Shies?
-Jacob Grensdorf?
+Georg Spies
+Jacob Hernsdorf
 ----------------
 Christian Vogt
 Georg Schumann
 Jacob Müller
-Georg Girlt?
+Georg Girlt
 1683
-Johann Gräzel?
+Johann Gräzel
 Georg Schubart
 Michael Knebel
 Michael Klotze
 Christoph Borman
 Georg Irmler
-Balthasar Egber?
+Balthasar Eybe
 1684
 Martin Günther
 Georg Naumann
-Caspar? Kühne
+Caspar Kühne
 Georg Ritter
 Jacob Brendel
 Christian Günther
@@ -955,7 +957,7 @@ Paul Thamme
 ----------------
 Hans Irmler
 1685
-Caspar? Brendel
+Caspar Brendel
 Michael Kuntze
 Martin Götze
 Martin Klotzsche
@@ -968,10 +970,10 @@ Baltzer Strohbach
 Baltzer Pietzsch
 Christian Irmler
 1687
-Jacob Kunzer?
-Georg Kunzer?
+Jacob Kuntze
+Georg Kuntze
 Christian Pietzsch
-Caspar Philip?
+Caspar Philip
 Martin Hencker
 Caspar Schuman
 Georg Hencker
@@ -981,14 +983,14 @@ Christoph Fritzsche
 1688
 Michael Hänsel
 Georg Hencker
-Baltzer Rühke?
-Hans Große?
+Baltzer Rülcke
+Hans Große
 1689
-Hans Kölsig?
+Hans Hölsig
 Georg Irmer
-Georg Grahl?
+Georg Grahl
 Gottfried Lehman
-Jacob Kirlt?
+Jacob Girlt
 Michael Kühn
 Georg Beger
 Georg Börner
@@ -998,7 +1000,7 @@ Georg Große
 Jacob Kuntze
 Jacob Schuman
 1691
-Jacob Künitschmer?
+Jacob Hauptmann
 Peter Starcke
 Peter Fritzsche
 ----------------
@@ -1007,41 +1009,41 @@ Georg Irmer
 Johann Mauer?
 Valentin Götze
 Christian Brendel
-Martin Kuntze?
+Martin Kuntze
 1692
-Baltzer Pöschel?
+Baltzer Pöschel
 Ambrosius Irmer
 Georg Starke
 Lorenz Kießlig
 Elias Rabe
-Peter ?
+Peter Spies
 Martin Kohlsdorf
 1693
 Georg Dittrich
 Peter Henicke
-Jacob Lippe?
+Jacob Lippe
 Caspar Kühne
 Michael Büttner
-Johann ?
-Anton? Kißlig?
+Johann Christoph Werner
+Anton Kißlig
 Gottfried Reiche
 ----------------
 Michael Kießlig
 Hans Kießlig
 Paul Otto
 1694
-Jacob Birkner?
+Jacob Birckner
 Michael Tögel
-Georg Rdolph
+Georg Rudolph
 Michael Rabe
 Georg Birckner
-Georg Kürbitz?
+Georg Kürbitz
 1695
 Jacob Klingner
-Georg Egber
+Georg Eybe
 Jacob Köhler
-Caspar ?
-? Just
+Caspar Zeller
+Peter Just
 Anton Kuntze
 Georg Mehlig
 Martin Fritzsche
@@ -1052,30 +1054,30 @@ Martin Simon
 Salomon Rabe
 Jacob Hennig
 Christoph Patzig
-Hans Tzschicke?
+Hans Tzschunke
 Hans Schuman
 1696
 Georg Dittrich
 Michael Günther
 Martin Ludwig
 Hans Irmer
-Michael? Graupitz
+Michael Graupitz
 Anton Kuntze
-Christoph Kretschmelt?
+Christoph Kretzschmer
 Michael Hencker
-? Dittrich
+Georg Dittrich
 Michael Rüdiger
 1697
-Georg Krißler?
-Georg Nacke?
+Georg Gerißler
+Georg Nacke
 Valentin Brendel
 Peter Kirsten
 Georg Irmer
-? Kißling
+Hans Kißling
 Michael Nauman
 ----------------
 Georg Pietzsch
-Georg Udlosch?
+Georg Udloff
 Samuel Pietzsch
 Martin Hencker
 1698
@@ -1085,11 +1087,10 @@ Christian Kühn
 Georg Kühn
 Gottfried Kißling
 1699
-Andreas Melzer?
-Georg Leubertz?
+Andreas Melzer
+Georg Leuteritz
 Hans Borman
-Georg Zschuwbe?
-Jacob Börner
+Georg Tzschunke
 Jacob Börner
 Abraham Philipp
 Georg Starcke
@@ -1102,5 +1103,5 @@ Georg Dittrich
 Balthasar Schuman
 Georg Dittrich
 Gottfried Kohlsdorf
-Michael Kuntze?
-Christian Egber
+Michael Kuntze
+Christian Eybe
