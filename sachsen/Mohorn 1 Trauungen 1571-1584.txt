@@ -3,47 +3,50 @@ Trauungen 1571-1584
 https://www.archion.de/de/viewer/churchRegister/283158?pageId=39148377
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
-Mai 2021
-https://github.com/tintenfrass/simplechurchbookindexes 
+
+
+Mai 2021 (erstellt)
+Februar 2024 (überarbeitet)
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
 ---------------- x2
 1571
 Peter Otto
-Georg Hoir?
-Laurentius Parzsch?
+Georg Voit
+Laurentius Partzsch
 ----------------
 Merten? Fritzsch
-Georg Reinsdorf?
+Georg Reinsdorf
 1572
-Hans Kuhn?
-Thomas Hohn?
-Peter Hensel?
-Alex? Kolbe?
-Peter Perzsch?
+Hans Kühne
+Thomas Hohn
+Peter Hensel
+Alex Kolbe
+Peter Petzsch
 ----------------
 1573
-Paul Görli?
-Michaël Frizsch
-Peter Hork
-Merten Perke?
-Paul Rulcke?
-Greger Tschummich?
-Jacob Frizsch?
+Paul Görlit
+Michaël Frizsche
+Peter Hock
+Merten Pecker
+Paul Rülcker
+Greger Thümmich
+Jacob Fritzsche
 Franz Reitiger?
 Hans Otto
-Georg Irmiche?
+Georg Jenichen
 Ambrosiu John
 ----------------
 1574
-Thomas Spüse?
+Thomas Spies?
 Barthel Rose
 Peter Große
 1575
 Paul Fritzsche
-Christoph Voit?
-Leonhard Gepch?
+Christoph Voit
+Leonhard Gepelt
 Peter Fritzsch
 Michael Ulbricht
 Barthel Bütner
@@ -55,19 +58,19 @@ Greger Bütner
 Merten Kinzel?
 Valten Trencker
 Andreß Dietrich
-Laux Rülcke?
+Laux Rülcker
 1577
-Merten Herkel
+Merten Hertig?
 Hans Fischer
 Friedrich Gehner
 ----------------
-Max? Dietrich
-Max Gepel
+Matz Dietrich
+Matz Gepel
 1578
-Peter Pormm
+Peter Porman
 Ambrosius John
-Mattes? Schubart
-Franz Perker
+Mattes Schubart
+Franz Pecker
 Greger Hofman
 1579
 Fabian Hoier
@@ -81,21 +84,22 @@ Christoph Pecker
 Jacob Wezel
 Clement Hoffman
 Andreß Otto
-Jacob Firk
+Jacob Ficke
 Peter Wainer
 Jacob Kunze
 ----------------
 1582
-Jacob Dursel?
+Jacob Dürsel
 Greger Prendel
 Simon Spies
 Peter Groß
-Georg Hengman
-Philip Gumche?
-Georg Schurt?
+Georg Hentzman
+Philip Günther
+Hans Spieß
+Georg Schurte?
 Georg Fischer
 1583
-Jacob Furke?
+Jacob Ficke
 Urban John
 Stephan Fritzsch
 ----------------
@@ -108,7 +112,7 @@ Max Dietrich
 Philipp Görlit
 Urban Schmid
 1584
-Michaël Reinspegl?
+Michaël Reinsperg
 Nickol Schuwart
 Donat Porman
 ----------------

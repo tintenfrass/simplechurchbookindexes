@@ -6,8 +6,10 @@ Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
+
 Erstellt in ca. 3 Stunden
-Juni 2021
+Juni 2021 (erstellt)
+Februar 2024 (überarbeitet)
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -24,23 +26,23 @@ Bastian Götze
 Caspar Stubenroch
 1583
 Thomas Gotze
-Andreas Wetzel?
-Jacob Renisch?
-Urban Fracke?
-Valentin Mertez?
-Brosius Gonter?
+Andreas Wetzelt
+Jacob Renisch
+Urban Fracke
+Valentin Merten
+Brosius Gonter
 Donat Stubenroch
 1584
 Balthasar Pietzsch
 Christoph Batz
-Georg Wintschman?
+Georg Wintschman
 ----------------
 Johann Franck
 Georg Merten
 Valentin Grundman
 Georg Potzscher
 1586
-Martin? Burckhard
+Marcus Birckner
 Peter Schirmer
 Peter Otthe?
 1587
@@ -55,18 +57,18 @@ Peter Gansauge
 Christoph Dittrich
 Jacob Schuman
 Laurus? Günther
-Hans Glecker?
+Hans Gleckner?
 1591
 Peter Dietze
 1592
-Stephan Baselmeuer?
+Stephan Bastelmeuer?
 Georg Mörbitz
 Bastian Valten
 1593
 Caspar Andrie
 1594
 Gregor Fehrmann
-Jacob Behner?
+Jacob Böhme
 1595
 Matz Kretzschmar
 ----------------
@@ -84,15 +86,15 @@ Andreas Götze?
 Urban Winckler
 Georg Giret?
 1603
-Martin? Dittrich
+Martin Dittrich
 ----------------
 Andreas? ?
 Bastian Müller
-Lucas ?
+Lucas W?
 Johann Götze
+Martin Günther
 1604
 Mattheus Lotze
-Martin Günther (1603)
 Daniel Hanitzsch
 Georg Fickler
 Thomas Bernhart
@@ -123,7 +125,7 @@ Georg Schröter
 Thomas Preisger
 Martin Mierum?
 ----------------
-Georg Tzschuncke?
+Georg Tzschuncke
 Martin Kumer
 1615
 Jacob Köhler
@@ -132,10 +134,10 @@ Georg Brendel
 1616
 Ambrosius Fiedeler
 Martin Pietzsch
-Michael Ritter?
-Georg Underheÿll?
+Michael Ritter
+Georg Underheÿll
 Stephan Götze
-Georg Burma?
+Georg Kutma?
 ----------------
 1617
 Elias Merwitz
@@ -159,7 +161,7 @@ Brosius Nauhman
 Martin Ritter
 Lorenz Kößling
 1621
-Martin Kuntschner?
+Martin Kuntschman
 Georg Udolph
 1622
 Martin Fehrman
@@ -174,7 +176,7 @@ Georg Wustlich
 Andreas Hildebrant
 1626
 Michael Irrmler
-Caspar Berhm?
+Caspar Böhm
 Brosius Findeler
 Mattheus Schubert
 ----------------
@@ -185,7 +187,7 @@ Thomas Knöffel
 Hans Löhman
 Hans Pietzsch
 1629
-Johann Pfleumer?
+Johann Pfleumer
 Caspar Wustlich
 1630
 Jacob Andrie
@@ -194,23 +196,23 @@ Jacob Andrie
 Georg Donat
 Georg Untterheill
 Paul Trenckner
-Hans Mebert?
+Hans Mebert
 Jacob Borman
 1633
 Daniel Barthelt
 1634
 Gregor Höhrman
-Martin Merner?
+Martin Merwitz
 Donat Palitzsch
-Stephan Grall
+Stephan Graff
 Michael Irrmler
 ----------------
 Michael Hilligk
 Georg Pietzsch
 Gregor Höhrman
 1635
-Michael Beger?
-Jacob Webart?
+Michael Berger?
+Jacob Mebart?
 Christoph Götze
 1636
 Hans Große
@@ -221,19 +223,21 @@ Martin Günther
 ----------------
 1637
 Bartholomeus Merten
-Martin Behbritzsch?
+Martin Bohbritzsch
 Donat Stuberach
 Thomas Dachselt
 1638
 Gregor Wustlich
 Michael Schimbrig
 Donat Rudolph
-Georg Specht? (1641)
+1641
+Georg Specht
+1638
 Hans Rudolph
 Hans Hauptvogel
-Jacob Pfundt?
+Jacob Pfundt
 1639
-Michael Tietze?
+Michael Tietze
 1641
 Michael Nauhman?
 Jacob Pechtman?
@@ -249,7 +253,7 @@ Thomas Dachsell
 Hans Rudolph
 Donat Nauman
 1645
-Valentin ?
+Valentin Marx
 1647
 Michael Nauman
 1648
@@ -273,7 +277,7 @@ Brosius Pietzsch
 ----------------
 1655
 Jacob Lutze
-Caspar Wahl?
+Caspar Wahl
 Georg Sohrman
 1656
 Martin Pietzsch
@@ -291,7 +295,7 @@ Gregor Porrisch
 Michael Große
 Georg Hildebrandt
 1663
-Daniel Sequenitis?
+Daniel Sequenides
 Caspar Dachsel
 Christian Scharchuch
 ----------------
@@ -330,9 +334,9 @@ Georg Döhner
 Peter Rudolph
 Hans Christoph Wolff
 1674
-Georg Schöpß?
+Georg Schöpß
 1675
-Martin Hostig?
+Martin Hostig
 Christoph Götze
 1676
 Jacob Andrig
@@ -348,7 +352,7 @@ Georg Rötzsch
 1679
 Jacob Hennig
 Michael Wendt
-Michael Josch?
+Michael Josth
 Georg Große
 Martin Philipp
 1680
@@ -374,7 +378,7 @@ Georg Günther
 Michael Kießner
 ----------------
 Michael Lutze
-Georg Große?
+Georg Große
 Georg Dachsel
 Michael Tränckner
 1688
@@ -418,7 +422,7 @@ Nicolaus Patzig
 1699
 Michael Günther
 1700
-Christian Götze?
+Christian Lotze
 Johann Günther
 ----------------
 Rudolph Günther
@@ -431,10 +435,10 @@ Nicol Schirmer
 Georg Adam
 ----------------
 1704
-Christoph Zisel?
+Christoph Zisel
 1705
 Christoph Müller
-Martin Belde?
+Martin Belcke
 1706
 Georg Philipp
 1707
@@ -446,13 +450,13 @@ Michael Limbach
 Michael Günther
 Jacob Müller
 Johann Balthasar
-Johann Georg Bohnin?
+Johann Georg Boheinl?
 Martin Günther
 ----------------
 1709
 1710
-Georg Pege?
-Caspar Wühle?
+Georg Pege
+Caspar Rühle
 Johann Schubart
 Christoph Büttner
 ----------------
@@ -460,7 +464,7 @@ Christoph Büttner
 1712
 Georg Leuteritz
 Michael Kern
-Jacob Geher?
+Jacob Gehre
 Georg Patzig
 Johann Pietzsch
 ----------------
