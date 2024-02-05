@@ -456,6 +456,12 @@ func (h *searchComp) Render() app.UI {
 		app.Label().Text("Trauungen Sayda bis 1799"),
 		app.Br(),
 		app.Label().Text("Karte neu geordnet"),
+		app.Br(),
+		app.Label().Text("Trauungen Grumbach bis 1799 überarbeitet"),
+		app.Br(),
+		app.Label().Text("Trauungen Mohorn bis 1584 überarbeitet"),
+		app.Br(),
+		app.Label().Text("Trauungen Grumbach bis 1716 überarbeitet"),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
 }
 
