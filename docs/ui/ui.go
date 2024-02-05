@@ -461,7 +461,7 @@ func (h *searchComp) Render() app.UI {
 		app.Br(),
 		app.Label().Text("Trauungen Mohorn bis 1584 überarbeitet"),
 		app.Br(),
-		app.Label().Text("Trauungen Grumbach bis 1716 überarbeitet"),
+		app.Label().Text("Trauungen Unkersdorf bis 1716 überarbeitet"),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
 }
 
