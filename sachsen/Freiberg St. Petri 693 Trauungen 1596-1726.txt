@@ -2291,7 +2291,8 @@ Albing Uhlmann
 Hans Voigt
 Gabriel Rehefeld
 Christoph Morgenstern
-Andreas Weyde
+----------------
+Andreas Weyda
 Michael Altenburger
 Hans Valentin Braun
 Gottfried Schneider
