@@ -266,7 +266,7 @@ Gregor Bachmann
 Jacob Ringler
 Hans Silm
 Christoph Hammermüller
----------------- x255
+---------------- x157
 1698
 Samuel Franke
 Michael Reichelt
