@@ -165,7 +165,7 @@ func (h *searchComp) Render() app.UI {
 	grid[9][10] = "Hosterwitz"
 
 	grid[0][11] = "Großschirma"
-	grid[1][11] = "Krummhennersdorf"
+	grid[1][11] = "Krummenhennersdorf"
 	grid[2][11] = "Niederschöna"
 	grid[4][11] = "Fördergersdorf"
 	grid[5][11] = "Tharandt"
@@ -411,7 +411,7 @@ func (h *searchComp) Render() app.UI {
 		app.H3().Body().Text(" v1.6 (Februar 2024) latest updates:"),
 		app.Label().Text("Trauungen Großschirma bis 1799"),
 		app.Br(),
-		app.Label().Text("Trauungen Krummhennersdorf bis 1799"),
+		app.Label().Text("Trauungen Krummenhennersdorf bis 1799"),
 		app.Br(),
 		app.Label().Text("Trauungen Niederschöna bis 1799"),
 		app.Br(),
@@ -462,6 +462,8 @@ func (h *searchComp) Render() app.UI {
 		app.Label().Text("Trauungen Mohorn bis 1584 überarbeitet"),
 		app.Br(),
 		app.Label().Text("Trauungen Unkersdorf bis 1716 überarbeitet"),
+		app.Br(),
+		app.Label().Text("kleinere Fehlerkorrekturen"),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
 }
 
@@ -578,7 +580,7 @@ func getPos(key string) (posi, posj int) {
 func (h *searchComp) plusminus(value bool, k string) {
 	posi, posj := getPos(k)
 
-	for r := 0; r < 5; r++ {
+	for r := 0; r < 42; r++ {
 		next := true
 		for i := 0; i < cols+r; i++ {
 			if i >= posi-r && i <= posi+r {
