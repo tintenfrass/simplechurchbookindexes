@@ -254,6 +254,7 @@ Michael Klemm
 Christian Sattler
 Gottfried Köhler
 Abraham Sattler
+----------------
 Gottfried Schumann
 Georg Gottfried Lehmann
 Zacharias Dörferlig
