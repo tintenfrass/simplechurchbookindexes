@@ -1481,7 +1481,7 @@ Christian Winckler
 1710
 Peter Ofen
 ----------------
-Johann DÖhnert
+Johann Döhnert
 Georg Lade
 Georg Schermesser
 Hans-Georg Enderlein
