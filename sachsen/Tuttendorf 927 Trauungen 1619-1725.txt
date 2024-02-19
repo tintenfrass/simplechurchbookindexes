@@ -588,6 +588,7 @@ Daniel Müller
 Michael Drechsler
 Johann David Leonhard
 ----------------
+----------------
 Georg Fritzsche
 Tobias Böhme
 Johann Schneider
