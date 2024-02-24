@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta content name="author">
+<meta name="author" content>
 <meta name="description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
 <meta name="keywords" content>
 <meta name="theme-color" content="#2d2c2c">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover">
-<meta property="og:url" content="http://127.0.0.1:52116/">
+<meta content="http://127.0.0.1:52252/" property="og:url">
 <meta property="og:title" content="Trau-Index Dresden-Meißen">
 <meta property="og:description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
 <meta property="og:type" content="website">
@@ -20,7 +20,7 @@ Trau-Index Dresden-Meißen
 <link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
 <link type="text/css" rel="stylesheet" href="/simplechurchbookindexes/app.css">
 <script defer="true" src="/simplechurchbookindexes/wasm_exec.js"></script>
-<script defer="true" src="/simplechurchbookindexes/app.js"></script>
+<script src="/simplechurchbookindexes/app.js" defer="true"></script>
 <!-- Google tag (gtag.js) -->
 			<script async src="https://www.googletagmanager.com/gtag/js?id=G-S2D2V6SHXE"></script>
 			<script>
@@ -62,7 +62,7 @@ Jahr Min
 <label>
 Jahr Max
 </label>
-<input value="0" style="width: 600px;" type="range" min="1545" max="1800">
+<input type="range" min="1545" max="1800" value="0" style="width: 600px;">
 <label>
 0
 </label>
@@ -94,12 +94,12 @@ OSA
  ----&gt; einfacher und schneller als DamerauLevenshtein, für schwächere Geräte
 </div>
 <div title="einfachere Version von DamerauLevenshtein">
-<input type="radio" title="einfachere Version von DamerauLevenshtein" checked="false" name="algo">
+<input checked="false" name="algo" type="radio" title="einfachere Version von DamerauLevenshtein">
 Levenshtein
  ----&gt; einfacher und schneller als OSA, für schwache Geräte
 </div>
 <br>
-<a style="color:grey;" href="https://de.wikipedia.org/wiki/Levenshtein-Distanz">
+<a href="https://de.wikipedia.org/wiki/Levenshtein-Distanz" style="color:grey;">
  (Damerau-)Levenshtein-Distanz
 </a>
 <br>
@@ -549,6 +549,10 @@ Trauungen Mohorn bis 1584 überarbeitet
 <br>
 <label>
 Trauungen Unkersdorf bis 1716 überarbeitet
+</label>
+<br>
+<label>
+Trauungen Weistropp bis 1600 überarbeitet
 </label>
 <br>
 <label>
