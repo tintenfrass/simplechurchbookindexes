@@ -7,7 +7,7 @@ Viele Namen sind schwer lesbar, unsicher und teilweise fehltranskribiert.
 
 
 Erstellt in ca. 10 Stunden
-Mai 2021 
+Mai 2021
 https://github.com/tintenfrass/simplechurchbookindexes 
 
 
@@ -19,7 +19,7 @@ Michael Donat
 Simon Junghans
 Michael Lange
 Caspar Philipp
-Georg Krauhye?
+Georg Krauhpe?
 ----------------
 Hieronÿmus Fiedler
 Peter Hofmann

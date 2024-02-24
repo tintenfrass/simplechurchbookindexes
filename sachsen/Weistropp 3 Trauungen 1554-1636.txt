@@ -6,8 +6,9 @@ Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Viele Namen sind schwer lesbar, unsicher und teilweise fehltranskribiert.
 
 Erstellt in ca. 8 Stunden
-Mai 2021
-https://github.com/tintenfrass/simplechurchbookindexes 
+Mai 2021 (erstellt)
+Februar 2024 (überarbeitet)
+https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
@@ -17,12 +18,12 @@ Joannes Moller
 Simon Weber
 Georg Günther
 Philipp Hÿllig
-Georg Beuchol?
+Georg Brucholt
 Gregor Koler
 Bartholomeus Rabe
-Peter Beuchol?
+Peter Brucholt
 Vitus Pinckewirz?
-Andreas Burckau
+Andreas Burckart
 Jepherinus Baudisch
 Bartholomeus Rabe
 Kilian Rülcke
@@ -52,7 +53,7 @@ Kilian Donat
 Peter Koler
 Mattheus Hacke
 Urban Merten
-Valentin Bernher?
+Valentin Bernhard
 ----------------
 1559
 Jacob Just
@@ -64,25 +65,25 @@ Peter Adam
 Mechel Persig?
 Sebastian Herman
 Peter Mecten
-Andreas Brister?
+Andreas Burcker?
 ----------------
 Benedig Petzsch?
-Hans Bernher?
+Hans Bernhard
 Georg Hacke
 1560
 Laurencig Bernhard
-Nicol Schoinge?
-Gregor Schingnard?
+Nicol Schirmer?
+Gregor Schimer?
 Hans Schulze
 Georg Heuptman?
-Wenzel Robe
+Wenzel Rober?
 Urban Beuchel
-Erhard Haupman?
+Erhard Hautman?
 Peter Reiche
-Jorge Leupch?
+Jorge Leupel?
 Andreas Kleber
-Peter Bauzsch?
-Thomas Myziph?
+Peter Bartzch
+Thomas Mierisch
 Urban Kleber
 Matthes Gansauge
 ----------------
@@ -92,54 +93,54 @@ Phillip Gunther
 ----------------
 ----------------
 1563
-Ambrosius Wustling?
+Ambrosius Wustling
 Hans Nauman
 Egedius Baudisch
-Georg Gorhe?
+Georg Goeze
 Georg Dachsel
-Balthasar Zuse?
-Martin Hurbart?
+Balthasar Tieze?
+Martin Hurbach?
 Hans Schulze
-Georg Pepsch?
-Martin Hudie
+Georg Pietsch?
+Martin Andre?
 Joseph Schroter
-Ambrosius Schedruß
-Peter Borisch?
-Ilius? Krettschman?
+Ambrosius Schiedrich?
+Peter Boezscher?
+Alex Krettschman
 Johan Claus
 ----------------
 1564
-Andreas Rulke
-Lewiciny? Koth?
+Andreas Rulker
+Lorentz Kost?
 Hans Richter
-Georg Bdin?
-Jorg? Kaul
+Georg Bolitz?
+Jorg? Kaul?
 Peter Furman
 ----------------
 ----------------
 1565
-Gregor? Koler
-Hans Mectan
-Matthes Henisker?
+Gregor Koler
+Hans Merten
+Matthes Hencker
 Georg Berge
 Martin Hempel
-Michael Schriner?
+Michael Schirmer?
 ----------------
 1566
 Erhard Wustling
-Peter Hoynist?
+Peter Heynitz
 Valten Claus
-Hans Schluther?
+Hans Schroeter?
 Thomas Reiche
 Clemens Burckhardt
 Justus Winckler
 Antonius Bertols
 Antonius Wustling
 Peter Porzsche?
-Valten Prehel?
+Valten Prechel?
 ----------------
 1567
-Antonius Norun?
+Antonius Nörner?
 Sebastian Rusel
 Jacob Heuptman
 Benedig Klingstein
@@ -154,16 +155,16 @@ Jacob Hempel
 Lucas Rose
 Valten Udulf
 Christoph Igelberg?
-Jacob Scheiner?
+Jacob Schirmer?
 ----------------
 Jorg Winckler?
 Jorg Jan
-Martin Rensch?
+Martin Rentzsch?
 ----------------
 1569
-Antonig Bauthol?
-Hustonig? Wustlig
-Martin? Taubenheim
+Anton Barchol?
+Anton Wustlig
+Marcus? Taubenheim
 Hans Faust
 ----------------
 1570
@@ -171,16 +172,16 @@ Thomas Meler?
 Martin Grohse
 Caspar Lobener
 Matthes Schuman
-Simon Irmeter?
+Simon Drencker?
 ----------------
 ----------------
 1571
 Jorg Grelman
 Georg Rußel
 Wenzel Kaul?
-Matthes Parz?
+Matthes Parzig?
 Benedikt Meister?
-Caspar Ander(Kirsten?)
+Caspar AnderKirsten?
 Donat Doring
 Jorg Schittiger?
 ----------------
@@ -195,14 +196,14 @@ Martin Reiner?
 ----------------
 1573
 Benedig Gansauge
-Urban Rauhe?
-Dolge Schecke?
+Urban Ranft
+Dolge Schedrich?
 Paul Graupiz?
 Jacob Nauman?
 Valentin Bachman
 Gregor Lörigke
 Hans Burckhardt
-Laurentius Teigel?
+Laurentius Tiegel?
 ----------------
 ----------------
 1574
@@ -215,7 +216,7 @@ Simon Meuchener?
 Andreas Schroter?
 Paul Gansauge
 Martin Philip
-Johannes Reiche?
+Johannes Reiche
 ----------------
 1575
 Peter Bartholomeus
@@ -223,15 +224,15 @@ Valentin Mehlig
 Blasig Weber
 Jorge Schuman
 Jorg Wustlnig
-Paul Porische?
+Paul Partsche?
 Metthes Lobener
-Hans Reuhe
+Hans Reiche
 ----------------
 ----------------
 1576
-Jorge Nauman?
-Ambrosius Hauman?
-Jorge Schrempel?
+Jorge Nauman
+Ambrosius Hauman
+Jorge Schrempel
 Michael Kaphan?
 Martin Nauman
 Jacob Ferman
@@ -241,77 +242,77 @@ Jacob Günther
 1577
 Johannes Dont
 Peter Buckau
-Bactio? Wustling
+Barthol Wustling
 Andreas Otto
 Martin Beuchel?
-Martin Doling?
+Martin Doring
 Barthol Philip
 Otto Richter
-Jacob Andre?
-Gregor Bachman?
+Jacob Andre
+Gregor Bachman
 Gregor Claus
 Donat Bachman
-Donat Bnukau?
+Donat Burckart
 Wenzel Ferunch?
 Peter Knupsch?
 Matthes Lobner
 Jorge Schuman
 Ambrosig Starke
-Gregor Sehfergol?
-Nicol Eÿmbarth?
+Gregor Schlegel
+Nicol Lÿmpath
 x
 Andreas Claus
 ----------------
 ----------------
 1578
 Georg Klingstein
-Bartholomas Töpper?
+Bartholomas Töpper
 Peter Fidler
 Valentin Krauße
 Georg Winckler
 Michaël Mehlich
-Franciscus Bark?
+Franciscus Beck
 Valentin Schüttich
 Martin Fritzsch
-Hieronymus Lenyitz?
+Hieronymus Graupitz
 ----------------
 ----------------
 1579
 Ambrosius Rentzsch
 Hans Fehrman
-Philipp Stöltzener?
+Philipp Stöltzener
 Johannes Rabe
-Martin Andreh
+Martin Andres
 ----------------
 1580
 Valentin Löbner
-Peter Preißigker?
-Hans Kaldschmidt?
+Peter Preißigker
+Hans Kaldschmidt
 Antonius Wustling
-Martin Pentph?
+Martin Pentsch?
 Thomas Mehlich
-Paul Jungtman?
-Bartholomæus Bartzer?
+Paul Hauptman
+Bartholomæus Bawer?
 Georg Schubartz
 ----------------
 ----------------
 1581
 Salomon Fickler
-Caspar Baudisch?
+Caspar Baudisch
 Georg Ehrlich
 Bartholomæus Weber
-Ambrosius Wagmut?
+Ambrosius Waxmut
 Donat Löber
 ----------------
 1582
-Johannes John?
-Burchard Preuhel?
+Johannes John
+Burchard Peuchel
 Bartholomæus Burckhardt
 Johannes Burchardt
 Martin Möller
 Bartholomæus Philipp
 Raphael Fickler
-Jacob Pulman?
+Jacob Ulman
 Peter Zimmermann
 ----------------
 ----------------
@@ -322,18 +323,18 @@ Jacob Götze
 Martin Möller
 Bartel Philipp
 Georg Günther
-Martin Hempel?
+Martin Hempel
 ----------------
 Georg Rabe
 Jacob Clauß
 Georg Leuderitz
-Michaël Lekschener?
+Michaël Leckschede
 Martin Löbner
 ----------------
 1584
 Georg Hertzschuch
 Peter Bartholomai?
-Franciscus Börtz
+Franciscus Göetz
 Georg Fuhrman
 Georg Rüßel
 Johannes Rabe
@@ -344,9 +345,9 @@ Johannes Rost?
 1585
 Caspar Weber
 Matthæus Gansauge
-Fridrericus Frymberg?
+Fridrericus Heymberg?
 Gregor Hacke
-Urban Kaghan?
+Urban Kaphan?
 Georg Lörigker
 ----------------
 1586
@@ -411,20 +412,20 @@ Peter Gansauge
 Andreas Nauman
 Jacob Schuman
 Georg Schönbergk
-Martin Heuyt?
+Martin Heupt?
 Thomas Fritzsche
 Lucas Günther
-Georg Vaugel?
+Georg Peuchel?
 Martin Wintzer
-Blasius Schederich?
-Georg Schederich?
+Blasius Schederich
+Georg Schederich
 ----------------
 ----------------
 1591
 Michael Fehrman
-Johannes Patz?
+Johannes Patz
 Georg Götze
-Michael Kars?
+Michael Kars
 Martin Pitzsch
 Peter Weber
 Hannes Weÿnoldt
@@ -437,7 +438,7 @@ Georg Hilligk
 Georg Winckler
 Martin Donath
 Martin Leuderitz
-Martin Kolßtorph?
+Martin Kolstorph
 Jacob Nauman
 ----------------
 ----------------
@@ -481,15 +482,15 @@ Caspar Schüter?
 ----------------
 1598
 Donat Burchhardt
-Bartholomæus Schramyel?
-Blasius Krautyer?
+Bartholomæus Schrempel
+Blasius Krauspe
 Georg Kluger
 Joannes Winckler
 Martin Winckler
 Caspar John
 Georg Haupman
 Valentin Schüttich
-Johannes Prichel?
+Johannes Peuchel
 ----------------
 1599
 ----------------
@@ -513,12 +514,12 @@ Simon Bruchlitz
 ----------------
 ----------------
 1601
-Laurentius Kenyzer?
+Laurentius Kempzer?
 Ambrosius Jost
 Peter Preissiger
 Thomas Tzschincke
 Matthæus Reiche
-Jacob Hehber?
+Jacob Hehber
 Gregor Lörrigker
 Hans Burchhardt
 Georg Wurlich?
@@ -528,7 +529,7 @@ Ambrosius Bernd
 ----------------
 1602
 Ambrosius Berndt
-Matthæus Fichter?
+Matthæus Fichtener
 Jacob Clauß
 Martin Lütze
 Johannes Fehrman
@@ -543,18 +544,18 @@ Marcus Claus
 1603
 Philipp Schönbergk
 Georg Burchhardt
-Georg Firster?
+Georg Ziener?
 Jacob Peuchel
 Jacob Ulman
 Melchior Beger
 Georg Hilligk
-Balthasar Lorentten
+Balthasar Lorentz
 ----------------
 Blasÿ Gansauge
-Gregor Gribold?
+Gregor Gribel?
 Jacob Nauman
-Michael Heyner?
-Jacob Otther?
+Michael Heyme?
+Jacob Otthe
 ----------------
 ----------------
 ----------------
@@ -562,7 +563,7 @@ Jacob Otther?
 1604
 Andreas Petzsch
 Andreas Kühne
-Peter Kemynitzer?
+Peter Kempnitzer?
 Benedikt Irmke?
 Georg Freundt
 Urban Gansauge
@@ -570,7 +571,7 @@ Urban Gansauge
 Gregor Köler
 Ambrosius Preißiger
 Thomas Grellmann
-Andreas Handschman?
+Andreas Handschman
 Johannes Heinrich Eckerbergk
 Georg Jahn
 Laurentius Winckler
@@ -583,7 +584,7 @@ Martin Nauman
 ----------------
 1605
 Martin Köler
-Matthæus Älingker?
+Matthæus Älinger?
 Jacob Otther
 Benedikt Große
 Martin Burchhardt
@@ -603,8 +604,8 @@ Martin Patz
 Bartholomeus Weber
 Valentin Schüttich
 Martin Leuderitz
-Martin Bendel?
-Jacob Frunk?
+Martin Brendel?
+Jacob Funcke
 Hans Weber
 ----------------
 ----------------
