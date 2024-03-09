@@ -588,7 +588,7 @@ Hans Hempel | Elisabeth Herrmann
 Christoph Hohenstein | Maria Koch
 Christian Noack | Maria Schumann
 Johann-Friderich Röber | Anna Miritzsch
-Joh.-Michael Schönhalß | Rosina Starcke
+Johann-Michael Schönhalß | Rosina Starcke
 Hans Schramm | Anna Leuteriz
 Martin Schumann | Elisabenh Schramn
 Hanß Stolle | Maria Herrmann
@@ -721,20 +721,20 @@ Johann-Christian Niese | Rosina Stolle
 Hans Scheme? | Elisabeth Starcke
 Johann-George Schröder | Anna-Maria Starcke
 Andreas Schumann | Elisabeth Bäßler
-Joh.-Heinrich Trötsschel | Anna-Rosina Haupt
+Johann-Heinrich Trötsschel | Anna-Rosina Haupt
 1750
 Carol-Eusebius Bürger | Joh.-Rosina Görner
 Johann-Jacob Graf | Johanna-Augusta Hübner
 Martin Hempel | Christina Mietzsch
-Joh.-Georg Hohenstein | Anna-Sophia Winckler
+Johann-Georg Hohenstein | Anna-Sophia Winckler
 Andreas Lehmann | Maria Herrmann
 Hans Mohn | Elisabeth Zaschler
 Johann-Adam Saalbach | Anna-Maria Dehnert
-Joh.-Christian Schneider | Regina Starcke
+Johann-Christian Schneider | Regina Starcke
 Gottfried Starcke | Christina Starcke
 Marx Thierigen | Rosina Herrmann
 1751
-Joh.-Christoph Haase | Anna-Maria Lehmann
+Johann-Christoph Haase | Anna-Maria Lehmann
 Martin Herrig | Maria Kirsche
 Christian Hohenstein | Regina Loos
 Christian Mildner | Rosina Bär
@@ -787,10 +787,10 @@ Hanns Trache | Maria Milde
 Martin Trentssch | Rosina Taggeselle
 Christian-Gottlieb Türcke | Rosine Herrmann
 1757
-Joh.-Christoph Hartmann | Johanna-Sophia Köhler
+Johann-Christoph Hartmann | Johanna-Sophia Köhler
 Gottfried Kretschmar | Justine Feltsch
 Martin Lange | Maria Eichler
-Joh.-George Lommatzsch | Anne-Maria Krauser
+Johann-George Lommatzsch | Anne-Maria Krauser
 Martin Vetter | Rosina Schröter
 1758
 Johann Grimmer | Anna-Maria Herrmann
@@ -808,7 +808,7 @@ Gottfried Vetter | Rosina Schumann
 Samuel Zabel | Christine Große
 Martin Zscheyle | Christine Rühle
 1759
-Joh.-Christian Bergmann | Anna-Maria Stobe
+Johann-Christian Bergmann | Anna-Maria Stobe
 Johann-Christian Hansch | Rosine Hauckelt
 Christian Marx | Anna-Maria Ziller
 Christian Mohn | Rosina Fritzsche
@@ -822,7 +822,7 @@ Gottfried Zscheyle | Regina Herrman
 1760
 Johann-George Fichtner | Christine Beger
 Sammel Fuchs | Rosine Haupt
-Joh.-Gottfried Naumann | Maria Baßler
+Johann-Gottfried Naumann | Maria Baßler
 Martin Schumann | Anna-Maria Herrmann
 Johann-Gottlob Teuscher | Anna-Maria Schumann
 August Zocher | Maria Hohnstein
@@ -853,7 +853,7 @@ Gottfried Melzer | Christina Starcke
 Martin Mohn | Christina Börner
 Martin Mohn | Rosina Zocher
 Martin Schneider | Johanna-Rosina Herrmann
-Joh.-Michael Schumann | Rosina Herrmann
+Johann-Michael Schumann | Rosina Herrmann
 1763
 Sammel Grille | Elisabeth Herrmann
 Christian Jentzsch | Christine Hermann
@@ -893,7 +893,7 @@ Johann Schram | Anna-Rosina Zocher
 George Ciem | Anna-Maria Leinert
 Christian Förster | Anna-Maria Roch
 Christoph Häßlich | Rosine Bohlen
-Joh.-Gottfr. Lommatzsch | Anna-Rosina Meltzer
+Johann-Gottfr. Lommatzsch | Anna-Rosina Meltzer
 Christian Naumann | Rosina Zocher
 Johann-Jacob Rentach | Rosina Milde
 Samuel Riemer | Christina Seyffert
@@ -902,7 +902,7 @@ Johann-George Schneider | Sophia-Charlotte Förster
 Samuel Schumann | Anna-Marie Glebe
 Johann Stolle | Christina Behrisch
 1768
-Joh.-Georg Bährwald | Justine Herrmann
+Johann-Georg Bährwald | Justine Herrmann
 Christian Behrisch | Anna-Maria Möser
 Martin Behrisch | Anna-Maria Vetter
 Karl-Benjamin Händler | Christine Solmnitz
@@ -943,11 +943,11 @@ Johann-George Schütze | Elisabeth Starcke
 Gottfried Bernhard | Eva-Rosine Zabel
 Michel Haupt | Rosine Bähr
 Christian Herrmann | Rosine Herrmann
-Joh.-Gottfried Lehmann | Anna-Maria Haupt
-Joh.-Gottfried Naumann | Johanna-Sophia Schuster
+Johann-Gottfried Lehmann | Anna-Maria Haupt
+Johann-Gottfried Naumann | Johanna-Sophia Schuster
 Johann-George Schlicke | Christiane-Henriette Hartmann
 Sammel Schumann | Anna-Rosina Niese
-Joh.-Gottlieb Seebarth | Regina Roch
+Johann-Gottlieb Seebarth | Regina Roch
 Samuel Seyffert | Anna-Rosina Gerhardt
 George Starcke | Anne-Regina Haumann
 Martin Stolle | Rosina Zocher
@@ -962,8 +962,8 @@ Johann-Gottlieb Niese | Anna-Maria Schuster
 Carl-Gottlob Rietschel | Renate-Sophia Behnisch
 1776
 Johann-Christian Horn | Anna-Maria Häßlich
-Joh.-Adam Ilschner | Anna-Christina Starcke
-Joh.-Christian Leutritz | Anna-Maria Schumann
+Johann-Adam Ilschner | Anna-Christina Starcke
+Johann-Christian Leutritz | Anna-Maria Schumann
 Friedrich-Wilhels Mühlbach | Johanna-Rosina Barth
 Samuel Riemer | Christina Mohn
 Samuel Zabel | Anna-Elisabeth Hillich
@@ -975,14 +975,14 @@ Christian Leinert | Maria Herrmann
 Johann-Christoph Pietsch | Rosina Mohn
 Christian Riemer | Anna-Maria Herrmann
 1778
-Joh.-George Dietrich | Anna-Regine Hempel
+Johann-George Dietrich | Anna-Regine Hempel
 Martin Herrmann | Regine Zscheyle
 Martin Lange | Anna-Regina Petzold
 Johann-Heinrich Pärsch | Joh.-Caroline-Charl. Strübel
 Christian Thiele | Anna-Regina Hohenstein
 Johann-Gottfried Voigt | Juliane-Sophie Spieler
 1779
-Joh.-Gottlieb Hahnefeld | Johanne-Friderike Richter
+Johann-Gottlieb Hahnefeld | Johanne-Friderike Richter
 Johann-Michael Haupt | Anna-Maria Naumann
 Martin Herrmann | Rosina Herrmann
 Christian-Gottlob Lücke | Eleonore-Friderike Kühnel
@@ -996,7 +996,7 @@ Christian Matx | Anna-Rosina Schumann
 Johann-Georg Rittig | Anna-Maria Naumann
 Johann-Adam Schlechte | Christine Zabel
 Gottfried-Andreas Schneider | Anne-Maria Thiele
-Joh.-Christian Schultze | Johanne-Regine Rolle
+Johann-Christian Schultze | Johanne-Regine Rolle
 1781
 Samuelf Grille | Anna-Regina Mohn
 Johann-Gottfried Grolhaar | Caroline-Sophie Rinck
@@ -1005,10 +1005,10 @@ Gottlob Krauße | Maria Herrmann
 Johann-Gottlob Rauser | Anna-Rosina Seyffert
 Johann-Michäel Riemer | Rosina Hohnstein
 Daniel Schmidt | Elissbeth Seyffert
-Joh.-Christian Schneider | Anna-Rosina Basig
+Johann-Christian Schneider | Anna-Rosina Basig
 Johann-Gottlob Schumann | Anne-Regina Gebisch
 Gottfried Thiele | Christina Seyffert
-Joh.-Christian Weißbach | Johanna-Sophia Stener
+Johann-Christian Weißbach | Johanna-Sophia Stener
 1782
 Andres Hermann | Eva-Rosina Hohnstein
 Christian Kießling | Elisabeth Leinert
@@ -1021,7 +1021,7 @@ Martin Bär | Anna-Rosine Schlechte
 Christian Gerhardt | Regine Herrmann
 Christian Herrmann | Anna-Maria Behrisch
 Gottfried Herrmann | Rosina Starcke
-Joh.-Gottfried Herrmann | Anna-Regina Wachsmith
+Johann-Gottfried Herrmann | Anna-Regina Wachsmith
 Gottfried Mohn | Anna-Christina Müller
 Martin Mohn | Anna-Elisabeth Seyffert
 Michael Moritz | Anna-Christina Biese
@@ -1033,7 +1033,7 @@ Martin Fichtner; | Anne-Maria Cluncker
 Gottlob Herrmann | Anna-Christina Fichtner
 Gottlieb Herrmann | Anna-Rosina Mohn
 Gottlob Herrmann | Anna-Maria Schumann
-Joh.-Michael Hoffmann | Rosina Schumann
+Johann-Michael Hoffmann | Rosina Schumann
 Christian Merx | Anna-Regina Naumann
 Johann-George Opitz | Anna-Christina Hohnstein
 Martin Schuman | Anna-Maria Cühn
@@ -1059,14 +1059,14 @@ George-Gotthelf Grunswald | Joh.-Friederike Herbst
 Gottfried Leutritz | Anna-Rosina Naumann
 Christian Seyffert | Anna-Maria Mohn
 1788
-Joh.-Gottlieb Schneider | Anna-Maria Naumann
+Johann-Gottlieb Schneider | Anna-Maria Naumann
 Johann-Ernst Zieger | Erdmutha-Charlotta-Sophia Rögner
 1789
 - Gottfried | Anna-Maria Hohnstein
-Joh.-Christian Haase | Christine Naumann
+Johann-Christian Haase | Christine Naumann
 1790
 Carl-Heinrich Hartmann | Johanna-Sophia Maue
-Joh.-Gottlieb Steglich | Anna-Maria Hohnstein
+Johann-Gottlieb Steglich | Anna-Maria Hohnstein
 Gottfried Zscheyle | Anna-Rosina Rühle
 1791
 Gottlieb Bähr | Rosine Bäßler
@@ -1074,7 +1074,7 @@ Christian-Friedrich Feind | Anne-Rosine Naumann
 Johann-Gottlob Gießmann | Johanna-Regine Kleberg
 Samuel Große | Johanne-Rosine Cretzschmar
 Johann-George Haupt; | Anna-Rosina Hahnsch
-Joh.-Gottfried Scadack | Anna-Maria Golde
+Johann-Gottfried Scadack | Anna-Maria Golde
 Michael Steuer | Rosine Schumann
 Gottfried Vetter | Anna-Regina Golde
 Johann Zschaschler | Joh.-Sophia Brüffhold?
@@ -1084,8 +1084,8 @@ Christian Naumann | Eva-Rosina Lomtsch
 Christoph-Sigismund Schultze | Christiane-Henriette Sommer
 1793
 Johann-Gottfried Gottleber | Anne-Christine Seyfert
-Joh.-Gottfried Häßlich | Hanna-Regina Börschel
-Joh.-Christian Hempel | Eva-Rosina Schneider
+Johann-Gottfried Häßlich | Hanna-Regina Börschel
+Johann-Christian Hempel | Eva-Rosina Schneider
 Johann-Gottlob Huhn | Anna-Regina Melzer
 Johann-Christian-Gottlieb Scheffler | Anna-Regina Gerhardt
 Simon-Petruß Scheiblich | Anna-Maria Fichtner
@@ -1107,7 +1107,7 @@ Johann-Gottlieb Mohn | Anna-Regina Zscheile
 Gottfried Richter | Regina Schneider
 Johann-Christian Rothe | Christiane-Sophia Köhler
 Gottfriedt Seyfert | Johanna-Regina Rothe
-Joh.-Christian Stolle | Rosina Herrmann
+Johann-Christian Stolle | Rosina Herrmann
 Martin Zabel | Anna-Regina Zabel
 1796
 Johann-George Damm | Rosine Herrmann
@@ -1117,14 +1117,14 @@ Johann Naumann | Rosina Stolle
 Gottfried Naumann | Rosina Thiele
 Johann-Gottlieb Rühle | Eva-Rosina Golde
 Johann-Christoph Staar | Anna-Rosina Seyfert
-Joh.-Gottfried Umlauft | Johanna-Sophia Mohn
+Johann-Gottfried Umlauft | Johanna-Sophia Mohn
 Martin Vetter | Anna-Rosina Behrisch
 1797
 Christian Förster | Rosina Naumann
 Johann-Traugott Hofmann | Anna-Rosina Schoppe
 Johann-George Klunker | Anna-Christina Behrisch
 Johann-Gottlieb Meinert | Anna-Christina Häßlich
-Joh.-Christian Schmied | Anna-Rosina Naumann
+Johann-Christian Schmied | Anna-Rosina Naumann
 Samuel Schneider | Elisabeth Hohenstein
 Samuel Schramm | Anna-Christina Mohn
 Johann-Gottlob Thieme | Anna-Regina Hohenstein
@@ -1133,7 +1133,7 @@ Johann Vetter | Anna-Maria Muster
 Johann-Gottfried Vetter | Anna-Rosina Seyfert
 1798
 Gottfried Behrisch | Rosina Riemer
-Joh.-Christian Deutsch | Anna-Regina Stolle
+Johann-Christian Deutsch | Anna-Regina Stolle
 Gottfried Euchler | Rosine Schneider
 Christian Fichtner | Rosina Schumann
 Samuel Heydenreich | Regina Buchler
