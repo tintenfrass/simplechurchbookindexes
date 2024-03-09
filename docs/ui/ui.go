@@ -411,9 +411,11 @@ func (h *searchComp) Render() app.UI {
 		app.Br(),
 		app.Br(),
 		app.H3().Body().Text(" v1.7 (März 2024) latest updates:"),
-		app.Label().Text("kleinere Fehlerkorrekturen"),
+		app.Label().Text("Trauungen Kleinwaltersdorf 1599-1660"),
 		app.Br(),
 		app.Label().Text("Soundex als Suchalgorithmus hinzugefügt"),
+		app.Br(),
+		app.Label().Text("kleinere Fehlerkorrekturen"),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
 }
 

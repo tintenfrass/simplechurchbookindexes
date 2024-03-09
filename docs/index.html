@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta content name="author">
+<meta name="author" content>
 <meta name="description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
 <meta name="keywords" content>
 <meta name="theme-color" content="#2d2c2c">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover">
-<meta property="og:url" content="http://127.0.0.1:54606/">
+<meta property="og:url" content="http://127.0.0.1:65094/">
 <meta property="og:title" content="Trau-Index Dresden-Meißen">
 <meta property="og:description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
 <meta property="og:type" content="website">
@@ -16,11 +16,11 @@
 Trau-Index Dresden-Meißen
 </title>
 <link rel="icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
-<link href="https://storage.googleapis.com/murlok-github/icon-192.png" rel="apple-touch-icon">
+<link rel="apple-touch-icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
 <link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
-<link type="text/css" rel="stylesheet" href="/simplechurchbookindexes/app.css">
-<script src="/simplechurchbookindexes/wasm_exec.js" defer="true"></script>
-<script src="/simplechurchbookindexes/app.js" defer="true"></script>
+<link href="/simplechurchbookindexes/app.css" type="text/css" rel="stylesheet">
+<script defer="true" src="/simplechurchbookindexes/wasm_exec.js"></script>
+<script defer="true" src="/simplechurchbookindexes/app.js"></script>
 <!-- Google tag (gtag.js) -->
 			<script async src="https://www.googletagmanager.com/gtag/js?id=G-S2D2V6SHXE"></script>
 			<script>
@@ -34,8 +34,8 @@ Trau-Index Dresden-Meißen
 <body>
 <div>
 <aside id="app-wasm-loader" class="goapp-app-info">
-<img id="app-wasm-loader-icon" class="goapp-logo goapp-spin" src="https://storage.googleapis.com/murlok-github/icon-192.png">
-<p id="app-wasm-loader-label" class="goapp-label">
+<img src="https://storage.googleapis.com/murlok-github/icon-192.png" id="app-wasm-loader-icon" class="goapp-logo goapp-spin">
+<p class="goapp-label" id="app-wasm-loader-label">
 0%
 </p>
 </aside>
@@ -54,7 +54,7 @@ Dresden-Meißen-Freiberg-Dippoldiswalde
 <label>
 Jahr Min 
 </label>
-<input type="range" min="1545" max="1800" value="0" style="width: 600px;">
+<input max="1800" value="0" style="width: 600px;" type="range" min="1545">
 <label>
 0
 </label>
@@ -84,17 +84,17 @@ Jaro + DamerauLevenshtein
  ----&gt; best Kombination aus Geschwindigkeit und Komplexität
 </div>
 <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.3 werden danach mit Soundex umgewandelt und diese dann mit DamerauLevenshtein berechnet. Das ist sehr langsam aber findet viel mehr Treffer. Große Suchen brechen manchmal ab.">
-<input type="radio" checked="false" name="algo">
+<input name="algo" type="radio" checked="false">
 Jaro + Soundex + DamerauLevenshtein
  ----&gt; mehr Treffer, sehr langsam, nicht für große Suchen geeignet
 </div>
 <div title="Die OSA-Variante von DamerauLevenshtein, ohne Vorfilterung">
-<input checked="false" name="algo" type="radio">
+<input type="radio" checked="false" name="algo">
 OSA
  ----&gt; einfacher und schneller als DamerauLevenshtein, für schwächere Geräte
 </div>
 <div title="einfachere Version von DamerauLevenshtein, ohne Vorfilterung">
-<input checked="false" name="algo" type="radio" title="einfachere Version von DamerauLevenshtein">
+<input type="radio" title="einfachere Version von DamerauLevenshtein" checked="false" name="algo">
 Levenshtein
  ----&gt; einfacher und schneller als OSA, für schwache Geräte
 </div>
@@ -383,7 +383,7 @@ Nichts
 </div>
 </table>
 <p>
-<input autofocus="true" style="width: 250px;" type="text" placeholder="Vorname Nachname">
+<input type="text" placeholder="Vorname Nachname" autofocus="true" style="width: 250px;">
  
 <button style="width: 100px;">
 Search
@@ -448,11 +448,15 @@ https://github.com/tintenfrass/simplechurchbookindexes
  v1.7 (März 2024) latest updates:
 </h3>
 <label>
-kleinere Fehlerkorrekturen
+Trauungen Kleinwaltersdorf 1599-1660
 </label>
 <br>
 <label>
 Soundex als Suchalgorithmus hinzugefügt
+</label>
+<br>
+<label>
+kleinere Fehlerkorrekturen
 </label>
 </div>
 </div>
