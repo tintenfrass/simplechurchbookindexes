@@ -569,7 +569,7 @@ Gregor Donath | Rosina Wend
 Balthasar Hamann | Margarethe Zimmermann
 Paul Kieselich | Maria Peschel
 Balthasar Klemm | Maria Richter
-(?) Andreas Krimmer | Maria Hauptvogel
+Andreas? Krimmer | Maria Hauptvogel
 Johann Küntzelmann | Maria Pietzsch
 1706
 Christian Bergen | Rosina Zimmermann
@@ -793,7 +793,7 @@ Christian Zimmermann | Rosina Klemm
 George Bormann | Anna Rosina Grönert
 Gottfried Pietzsch | Maria Rosina Kohl
 1737
-(?) Gottlob Krische | Johanna Elisabeth Pietzsch
+Gottlob? Krische | Johanna Elisabeth Pietzsch
 Gottlieb Müller | Johanna Rosina Pretzsch
 1738
 Johann George Bormann | Johanna Sophia Böhme
@@ -1113,7 +1113,7 @@ George Gottfried Hoppe | Johanna Sophia Zimmermann
 Carl Friedrich Lingke | Christiana Maria Amalia Opitz
 Johann Christian Schirmer | Johanna Rosina Zschische
 1781
-Gottlieb (Leberecht) Ehrlich | Johanna Rosina Wünschmann
+Gottlieb Leberecht? Ehrlich | Johanna Rosina Wünschmann
 Johann Gottfried Göhler | Elisabeth Försterin
 Johann Traugott Heber | Johanna Sophia Wünschmann
 Johann Gottlieb Heyne | Johanna Regina Zimmermann
