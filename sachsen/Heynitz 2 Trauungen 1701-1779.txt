@@ -17,7 +17,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
----------------- x32
+---------------- x31
 1702
 Andreas Zschoche
 Jacob Köhler
@@ -197,7 +197,7 @@ Johann-Georg Kretzschmer
 1778
 Johann-Georg Wittig
 Johann Gottlieb? Laman?
----------------- x48
+---------------- x44
 0000
 Johann-Gottlieb Sorge | Johanna-Christiana Beger
 ---------------- x13
@@ -299,7 +299,7 @@ Gottlieb Gabrich
 Gottlieb Hoffmann
 Johann-Christian Weber
 1754
-hg3 Wachsmuth
+Johann Gottlieb Wachsmuth
 1755
 Jacob Schmiedichen
 Gottlieb Naumann
@@ -458,7 +458,7 @@ Johann Richter
 Georg Naumann
 1734
 Gottfried Rost
-Andreas Högmb?
+Andreas Höymb?
 1735
 Christian Böhme
 1738

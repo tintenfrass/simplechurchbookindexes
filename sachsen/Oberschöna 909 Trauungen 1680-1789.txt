@@ -605,7 +605,8 @@ Caspar Enderlein
 1732
 Johann Gottfried Lose
 Johann Caspar Golle?
-qj Gottlieb Schumann
+----------------
+Johann Gottlieb Schumann
 Georg Heinrich Henning
 Christian Haubold
 Daniel Süßemilch
@@ -1306,7 +1307,8 @@ Johann Gottfried Marquard
 1783
 Johann Gottlieb Feldmann
 Johann Gottlieb Teistler
-qc1 Friedrich Krumbiegel
+----------------
+Carl Friedrich Krumbiegel
 Johann Gottfried Klemm
 Carl Samuel Obendorf
 Johann Friedrich Hähnel

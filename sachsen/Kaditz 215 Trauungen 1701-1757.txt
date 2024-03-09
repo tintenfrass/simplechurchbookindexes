@@ -634,7 +634,7 @@ Christian Schultz
 Hans Hertzschuch
 Georg Züchner
 Hans Klotzsche
-n2 Seydel
+Nicol Seydel
 Hans-Georg Hübler
 Jacob Klotzsche
 Hans Pursche

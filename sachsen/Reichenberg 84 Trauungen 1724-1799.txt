@@ -752,7 +752,7 @@ Johann Christian Leonhard
 Johann Georg Lange
 Johann Christoph Lotzmann
 Johann Christoph Hermann
-n2 Schneider
+Michale Schmied
 Christoph Pehlich
 Johann Heinrich Sickert
 Johann Gottlieb Klebe
@@ -1380,8 +1380,7 @@ Christoph Fährmann
 Christoph Vetter
 Johann Gottlob Clauß
 Friedrich Wilhelm Wagner
-Johann 1702
-Petermann
+Johann Adam Petermann
 ----------------
 Johann Christoph Opitz
 Johann Georg Wagner
