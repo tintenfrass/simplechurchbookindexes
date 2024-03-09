@@ -435,7 +435,8 @@ Georg Scheinpflug
 ----------------
 Martin Schindler
 Christoph Ditrich
-Nicol Schüllerg Wolf
+Nicol Schüller
+Georg Wolf
 Jacob Kreher
 ----------------
 1629
