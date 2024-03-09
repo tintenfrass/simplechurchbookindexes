@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="author" content>
+<meta content name="author">
 <meta name="description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
 <meta name="keywords" content>
 <meta name="theme-color" content="#2d2c2c">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover">
-<meta content="http://127.0.0.1:52252/" property="og:url">
+<meta property="og:url" content="http://127.0.0.1:54606/">
 <meta property="og:title" content="Trau-Index Dresden-Meißen">
 <meta property="og:description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
 <meta property="og:type" content="website">
@@ -16,10 +16,10 @@
 Trau-Index Dresden-Meißen
 </title>
 <link rel="icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
-<link rel="apple-touch-icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
+<link href="https://storage.googleapis.com/murlok-github/icon-192.png" rel="apple-touch-icon">
 <link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
 <link type="text/css" rel="stylesheet" href="/simplechurchbookindexes/app.css">
-<script defer="true" src="/simplechurchbookindexes/wasm_exec.js"></script>
+<script src="/simplechurchbookindexes/wasm_exec.js" defer="true"></script>
 <script src="/simplechurchbookindexes/app.js" defer="true"></script>
 <!-- Google tag (gtag.js) -->
 			<script async src="https://www.googletagmanager.com/gtag/js?id=G-S2D2V6SHXE"></script>
@@ -73,7 +73,7 @@ Jahr Max
 </div>
 </td>
 <td>
-<div style="margin-left:60px;color:grey;">
+<div style="margin-left:60px;color:dimgrey;">
 <div style="font-weight:bold;" title="Bestimmt wie schnell und genau die Ähnlichkeitssuche funktioniert, je nach Algorithmus können die Ergebnisse leicht abweichen. Im Zweifelsfall einfach so lassen.">
 Erweiterte Einstellung zum Suchalgorithmus (experimentell):
 </div>
@@ -83,17 +83,17 @@ Erweiterte Einstellung zum Suchalgorithmus (experimentell):
 Jaro + DamerauLevenshtein
  ----&gt; best Kombination aus Geschwindigkeit und Komplexität
 </div>
-<div title="Dieser Algorithmus wurde bisher verwendet, ist recht komplex und langsam">
+<div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.3 werden danach mit Soundex umgewandelt und diese dann mit DamerauLevenshtein berechnet. Das ist sehr langsam aber findet viel mehr Treffer. Große Suchen brechen manchmal ab.">
 <input type="radio" checked="false" name="algo">
-DamerauLevenshtein
- ----&gt; der bisherige Algorithmus, langsam durch maximale Komplexität
+Jaro + Soundex + DamerauLevenshtein
+ ----&gt; mehr Treffer, sehr langsam, nicht für große Suchen geeignet
 </div>
-<div title="Die OSA-Variante von DamerauLevenshtein">
-<input type="radio" checked="false" name="algo">
+<div title="Die OSA-Variante von DamerauLevenshtein, ohne Vorfilterung">
+<input checked="false" name="algo" type="radio">
 OSA
  ----&gt; einfacher und schneller als DamerauLevenshtein, für schwächere Geräte
 </div>
-<div title="einfachere Version von DamerauLevenshtein">
+<div title="einfachere Version von DamerauLevenshtein, ohne Vorfilterung">
 <input checked="false" name="algo" type="radio" title="einfachere Version von DamerauLevenshtein">
 Levenshtein
  ----&gt; einfacher und schneller als OSA, für schwache Geräte
@@ -105,6 +105,10 @@ Levenshtein
 <br>
 <a href="https://srinivas-kulkarni.medium.com/jaro-winkler-vs-levenshtein-distance-2eab21832fd6" style="color:grey;">
  Jaro-Winkler vs. Levenshtein
+</a>
+<br>
+<a href="https://de.wikipedia.org/wiki/K%C3%B6lner_Phonetik" style="color:grey;">
+ Soundex (Kölner Phonetik)
 </a>
 </div>
 </td>
@@ -379,7 +383,7 @@ Nichts
 </div>
 </table>
 <p>
-<input type="text" placeholder="Vorname Nachname" autofocus="true" style="width: 250px;">
+<input autofocus="true" style="width: 250px;" type="text" placeholder="Vorname Nachname">
  
 <button style="width: 100px;">
 Search
@@ -441,122 +445,14 @@ https://github.com/tintenfrass/simplechurchbookindexes
 <br>
 <br>
 <h3>
- v1.6 (Februar 2024) latest updates:
+ v1.7 (März 2024) latest updates:
 </h3>
 <label>
-Trauungen Großschirma bis 1799
-</label>
-<br>
-<label>
-Trauungen Krummenhennersdorf bis 1799
-</label>
-<br>
-<label>
-Trauungen Niederschöna bis 1799
-</label>
-<br>
-<label>
-Trauungen Langhennersdorf bis 1799
-</label>
-<br>
-<label>
-Trauungen Kleinwaltersdorf bis 1799
-</label>
-<br>
-<label>
-Trauungen Tuttendorf bis 1799
-</label>
-<br>
-<label>
-Trauungen Naundorf bis 1799
-</label>
-<br>
-<label>
-Trauungen Oberschöna bis 1799
-</label>
-<br>
-<label>
-Trauungen Kleinschirma bis 1799
-</label>
-<br>
-<label>
-Trauungen Hilbersdorf bis 1799
-</label>
-<br>
-<label>
-Trauungen Niederbobritzsch bis 1799
-</label>
-<br>
-<label>
-Trauungen Weißenborn bis 1799
-</label>
-<br>
-<label>
-Trauungen Oberbobritzsch bis 1799
-</label>
-<br>
-<label>
-Trauungen Langenau bis 1799
-</label>
-<br>
-<label>
-Trauungen Weigmannsdorf bis 1799
-</label>
-<br>
-<label>
-Trauungen Lichtenberg bis 1799
-</label>
-<br>
-<label>
-Trauungen Gränitz bis 1799
-</label>
-<br>
-<label>
-Trauungen Großhartmannsdorf bis 1799
-</label>
-<br>
-<label>
-Trauungen Helbigsdorf bis 1799
-</label>
-<br>
-<label>
-Trauungen Mulda bis 1799
-</label>
-<br>
-<label>
-Trauungen Zethau bis 1799
-</label>
-<br>
-<label>
-Trauungen Voigtsdorf bis 1799
-</label>
-<br>
-<label>
-Trauungen Sayda bis 1799
-</label>
-<br>
-<label>
-Karte neu geordnet
-</label>
-<br>
-<label>
-Trauungen Grumbach bis 1799 überarbeitet
-</label>
-<br>
-<label>
-Trauungen Mohorn bis 1584 überarbeitet
-</label>
-<br>
-<label>
-Trauungen Unkersdorf bis 1716 überarbeitet
-</label>
-<br>
-<label>
-Trauungen Weistropp bis 1600 überarbeitet
-</label>
-<br>
-<label>
 kleinere Fehlerkorrekturen
+</label>
+<br>
+<label>
+Soundex als Suchalgorithmus hinzugefügt
 </label>
 </div>
 </div>

@@ -8,6 +8,7 @@ const (
 	Osa                    = 2
 	Levenshtein            = 3
 	JaroTreshold           = 0.4
+	JaroTresholdSoundex    = 0.3
 )
 
 type algoInterface interface {

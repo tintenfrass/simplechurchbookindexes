@@ -6,10 +6,12 @@ import (
 	"path"
 	"strings"
 
+	gophonetics "gopkg.in/Regis24GmbH/go-phonetics.v3"
+
 	"github.com/antzucaro/matchr"
 )
 
-func FindMarriage(search string, min, max int, churches map[string]bool, algo int) (output []string) {
+func FindMarriage(search string, min, max int, churches map[string]bool, algo int) (output []string, debug string) {
 	search = strings.TrimSpace(search)
 	//Alle bis auf das letzte Leerzeichen ersetzen, damit Vornamen zusammengehangen werden
 	for {
@@ -24,11 +26,20 @@ func FindMarriage(search string, min, max int, churches map[string]bool, algo in
 
 	//Nachname abspalten
 	searchParts := strings.Split(search, " ")
+	searchParts[0] = strings.Replace(searchParts[0], "-", " ", -1)
+	if len(searchParts) > 1 {
+		searchParts[1] = strings.Replace(searchParts[1], "-", " ", -1)
+	}
 
 	results := make(map[int][]marriageEntry)
 
 	//Algo
 	searcher := getSearcher(algo)
+	jaroTreshold := JaroTreshold
+	if algo == 1 {
+		//für Soundex brauchen wir einen geringen Grenzwert
+		jaroTreshold = JaroTresholdSoundex
+	}
 
 	for church, sourceMarriages := range Data.Marriages {
 		//Prüfen, ob wir in dieser Quelle suchen wollen
@@ -46,29 +57,36 @@ func FindMarriage(search string, min, max int, churches map[string]bool, algo in
 
 			distance := 0
 			if len(searchParts) == 1 {
+				searchName := search
 				//Jaro Vorfilterung, nur bei Algo = 0
 				if algo == 0 {
-					if matchr.Jaro(search, entry.V+" "+entry.N) < JaroTreshold {
+					if matchr.Jaro(search, entry.V+" "+entry.N) < jaroTreshold {
 						continue
 					}
 				}
+				//Soundex bei Algo = 1
+				if algo == 1 {
+					searchName = gophonetics.NewPhoneticCode(search)
+					entry.V = gophonetics.NewPhoneticCode(entry.V)
+					entry.N = gophonetics.NewPhoneticCode(entry.N)
+				}
 
 				//Simple Search
-				distance = searcher.search(search, entry.V+" "+entry.N)
+				distance = searcher.search(searchName, entry.V+" "+entry.N)
 			} else {
-				if algo == 0 {
-					//Jaro Vorfilterung, nur bei Algo = 0
+				if algo < 2 {
+					//Jaro Vorfilterung, nur bei Algo = 0 oder 1
 					jaroGroom := 1.0
 					jaroGroomFn := 1.0
 					if searchParts[0] != "?" {
 						jaroGroom = matchr.Jaro(searchParts[0], entry.V)
-						if jaroGroom < JaroTreshold {
+						if jaroGroom < jaroTreshold {
 							continue
 						}
 					}
 					if searchParts[1] != "?" {
 						jaroGroomFn = matchr.Jaro(searchParts[1], entry.N)
-						if jaroGroomFn < JaroTreshold {
+						if jaroGroomFn < jaroTreshold {
 							continue
 						}
 					}
@@ -81,12 +99,23 @@ func FindMarriage(search string, min, max int, churches map[string]bool, algo in
 				//Double Search
 				distanceGroom := 0
 				distanceGroomFn := 0
+
+				s0 := searchParts[0]
+				s1 := searchParts[1]
+				//Soundex
+				if algo == 1 {
+					s0 = gophonetics.NewPhoneticCode(searchParts[0])
+					s1 = gophonetics.NewPhoneticCode(searchParts[1])
+					entry.V = gophonetics.NewPhoneticCode(entry.V)
+					entry.N = gophonetics.NewPhoneticCode(entry.N)
+				}
+
 				//? matched auf alles
 				if searchParts[0] != "?" {
-					distanceGroom = searcher.search(searchParts[0], entry.V)
+					distanceGroom = searcher.search(s0, entry.V)
 				}
 				if searchParts[1] != "?" {
-					distanceGroomFn = searcher.search(searchParts[1], entry.N)
+					distanceGroomFn = searcher.search(s1, entry.N)
 					//Bonuspunkt wenn der erste Buchstabe passt
 					if len(entry.N) > 0 && searchParts[1][0:1] == entry.N[0:1] {
 						distanceGroomFn--

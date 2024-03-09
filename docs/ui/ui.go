@@ -299,7 +299,7 @@ func (h *searchComp) Render() app.UI {
 					),
 				),
 				app.Td().Body(
-					app.Div().Style("margin-left", "60px").Style("color", "grey").Body(
+					app.Div().Style("margin-left", "60px").Style("color", "dimgrey").Body(
 						app.Div().Style("font-weight", "bold").Body(app.Text("Erweiterte Einstellung zum Suchalgorithmus (experimentell):")).Title("Bestimmt wie schnell und genau die Ähnlichkeitssuche funktioniert, je nach Algorithmus können die Ergebnisse leicht abweichen. Im Zweifelsfall einfach so lassen."),
 						app.Br(),
 						app.Div().Title("Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.4 werden danach mit DamerauLevenshtein genau berechnet. Dieses zweistufe Vorgehen macht die Suche schnell und trotzdem genau.").Body(
@@ -307,17 +307,17 @@ func (h *searchComp) Render() app.UI {
 							app.Text("Jaro + DamerauLevenshtein"),
 							app.Text(" ----> best Kombination aus Geschwindigkeit und Komplexität"),
 						),
-						app.Div().Title("Dieser Algorithmus wurde bisher verwendet, ist recht komplex und langsam").Body(
+						app.Div().Title("Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.3 werden danach mit Soundex umgewandelt und diese dann mit DamerauLevenshtein berechnet. Das ist sehr langsam aber findet viel mehr Treffer. Große Suchen brechen manchmal ab.").Body(
 							app.Input().Type("radio").Checked(false).OnChange(func(ctx app.Context, e app.Event) { h.algo = search.DamerauLevenshtein }).Name("algo"),
-							app.Text("DamerauLevenshtein"),
-							app.Text(" ----> der bisherige Algorithmus, langsam durch maximale Komplexität"),
+							app.Text("Jaro + Soundex + DamerauLevenshtein"),
+							app.Text(" ----> mehr Treffer, sehr langsam, nicht für große Suchen geeignet"),
 						),
-						app.Div().Title("Die OSA-Variante von DamerauLevenshtein").Body(
+						app.Div().Title("Die OSA-Variante von DamerauLevenshtein, ohne Vorfilterung").Body(
 							app.Input().Type("radio").Checked(false).OnChange(func(ctx app.Context, e app.Event) { h.algo = search.Osa }).Name("algo"),
 							app.Text("OSA"),
 							app.Text(" ----> einfacher und schneller als DamerauLevenshtein, für schwächere Geräte"),
 						),
-						app.Div().Title("einfachere Version von DamerauLevenshtein").Body(
+						app.Div().Title("einfachere Version von DamerauLevenshtein, ohne Vorfilterung").Body(
 							app.Input().Type("radio").Title("einfachere Version von DamerauLevenshtein").Checked(false).OnChange(func(ctx app.Context, e app.Event) { h.algo = search.Levenshtein }).Name("algo"),
 							app.Text("Levenshtein"),
 							app.Text(" ----> einfacher und schneller als OSA, für schwache Geräte"),
@@ -326,6 +326,8 @@ func (h *searchComp) Render() app.UI {
 						app.A().Href("https://de.wikipedia.org/wiki/Levenshtein-Distanz").Text(" (Damerau-)Levenshtein-Distanz").Style("color", "grey"),
 						app.Br(),
 						app.A().Href("https://srinivas-kulkarni.medium.com/jaro-winkler-vs-levenshtein-distance-2eab21832fd6").Text(" Jaro-Winkler vs. Levenshtein").Style("color", "grey"),
+						app.Br(),
+						app.A().Href("https://de.wikipedia.org/wiki/K%C3%B6lner_Phonetik").Text(" Soundex (Kölner Phonetik)").Style("color", "grey"),
 					),
 				),
 			),
@@ -408,64 +410,10 @@ func (h *searchComp) Render() app.UI {
 		app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 		app.Br(),
 		app.Br(),
-		app.H3().Body().Text(" v1.6 (Februar 2024) latest updates:"),
-		app.Label().Text("Trauungen Großschirma bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Krummenhennersdorf bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Niederschöna bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Langhennersdorf bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Kleinwaltersdorf bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Tuttendorf bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Naundorf bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Oberschöna bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Kleinschirma bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Hilbersdorf bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Niederbobritzsch bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Weißenborn bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Oberbobritzsch bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Langenau bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Weigmannsdorf bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Lichtenberg bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Gränitz bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Großhartmannsdorf bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Helbigsdorf bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Mulda bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Zethau bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Voigtsdorf bis 1799"),
-		app.Br(),
-		app.Label().Text("Trauungen Sayda bis 1799"),
-		app.Br(),
-		app.Label().Text("Karte neu geordnet"),
-		app.Br(),
-		app.Label().Text("Trauungen Grumbach bis 1799 überarbeitet"),
-		app.Br(),
-		app.Label().Text("Trauungen Mohorn bis 1584 überarbeitet"),
-		app.Br(),
-		app.Label().Text("Trauungen Unkersdorf bis 1716 überarbeitet"),
-		app.Br(),
-		app.Label().Text("Trauungen Weistropp bis 1600 überarbeitet"),
-		app.Br(),
+		app.H3().Body().Text(" v1.7 (März 2024) latest updates:"),
 		app.Label().Text("kleinere Fehlerkorrekturen"),
+		app.Br(),
+		app.Label().Text("Soundex als Suchalgorithmus hinzugefügt"),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
 }
 
@@ -482,7 +430,8 @@ func (h *searchComp) onClick(ctx app.Context, e app.Event) {
 		boxes[i] = []app.UI{}
 	}
 
-	for _, res := range search.FindMarriage(h.searchValue, h.slideValueMin, h.slideValueMax, h.checked, h.algo) {
+	data, debug := search.FindMarriage(h.searchValue, h.slideValueMin, h.slideValueMax, h.checked, h.algo)
+	for _, res := range data {
 		parts := strings.Split(res, "#")
 		dis, _ := strconv.Atoi(parts[2])
 		if dis > 7 {
@@ -528,7 +477,7 @@ func (h *searchComp) onClick(ctx app.Context, e app.Event) {
 	}
 
 	dur := time.Since(start)
-	h.debug = fmt.Sprintf("Suchzeit: %s", dur.Round(time.Millisecond).String())
+	h.debug = fmt.Sprintf("Suchzeit: %s%s", dur.Round(time.Millisecond).String(), debug)
 }
 
 func (h *searchComp) all(ctx app.Context, e app.Event) {
