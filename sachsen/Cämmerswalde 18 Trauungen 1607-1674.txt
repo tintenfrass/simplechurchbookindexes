@@ -293,7 +293,8 @@ Christoph Kaltofen
 Caspar Schneider
 1668
 Christoph Matz
-Hans wga Martin Beyer
+Hans Wagner
+Martin Beyer
 Michael Dienelt
 Christoph Preißler
 Georg Grom
