@@ -679,7 +679,7 @@ Nicol Arlt
 1645
 Georg Grohmann
 ----------------
-^1646
+1646
 Hans Göpfert
 1647
 Caspar Köhler

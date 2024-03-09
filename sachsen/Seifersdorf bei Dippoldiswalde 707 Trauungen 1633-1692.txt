@@ -371,7 +371,7 @@ Georg Horn
 Hans Christoph Wagner
 Michael Knoll
 1671
-^Christian Müller
+Christian Müller
 Georg Leuteritz
 ----------------
 Georg Eyßerig
