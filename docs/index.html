@@ -3,11 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="author" content>
-<meta content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde" name="description">
+<meta name="description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
 <meta name="keywords" content>
 <meta name="theme-color" content="#2d2c2c">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover">
-<meta property="og:url" content="http://127.0.0.1:54035/">
+<meta property="og:url" content="http://127.0.0.1:60353/">
 <meta property="og:title" content="Trau-Index Dresden-Meißen">
 <meta property="og:description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
 <meta property="og:type" content="website">
@@ -16,9 +16,9 @@
 Trau-Index Dresden-Meißen
 </title>
 <link rel="icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
-<link href="https://storage.googleapis.com/murlok-github/icon-192.png" rel="apple-touch-icon">
-<link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
-<link type="text/css" rel="stylesheet" href="/simplechurchbookindexes/app.css">
+<link rel="apple-touch-icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
+<link href="/simplechurchbookindexes/manifest.webmanifest" rel="manifest">
+<link href="/simplechurchbookindexes/app.css" type="text/css" rel="stylesheet">
 <script src="/simplechurchbookindexes/wasm_exec.js" defer="true"></script>
 <script defer="true" src="/simplechurchbookindexes/app.js"></script>
 <!-- Google tag (gtag.js) -->
@@ -33,8 +33,8 @@ Trau-Index Dresden-Meißen
 </head>
 <body>
 <div>
-<aside class="goapp-app-info" id="app-wasm-loader">
-<img id="app-wasm-loader-icon" class="goapp-logo goapp-spin" src="https://storage.googleapis.com/murlok-github/icon-192.png">
+<aside id="app-wasm-loader" class="goapp-app-info">
+<img src="https://storage.googleapis.com/murlok-github/icon-192.png" id="app-wasm-loader-icon" class="goapp-logo goapp-spin">
 <p id="app-wasm-loader-label" class="goapp-label">
 0%
 </p>
@@ -62,7 +62,7 @@ Jahr Min
 <label>
 Jahr Max
 </label>
-<input type="range" min="1545" max="1800" value="0" style="width: 600px;">
+<input style="width: 600px;" type="range" min="1545" max="1800" value="0">
 <label>
 0
 </label>
@@ -84,17 +84,17 @@ Jaro + DamerauLevenshtein
  ----&gt; best Kombination aus Geschwindigkeit und Komplexität
 </div>
 <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.3 werden danach mit Soundex umgewandelt und diese dann mit DamerauLevenshtein berechnet. Das ist sehr langsam aber findet viel mehr Treffer. Große Suchen brechen manchmal ab.">
-<input type="radio" checked="false" name="algo">
+<input checked="false" name="algo" type="radio">
 Jaro + Soundex + DamerauLevenshtein
  ----&gt; mehr Treffer, sehr langsam, nicht für große Suchen geeignet
 </div>
 <div title="Die OSA-Variante von DamerauLevenshtein, ohne Vorfilterung">
-<input name="algo" type="radio" checked="false">
+<input type="radio" checked="false" name="algo">
 OSA
  ----&gt; einfacher und schneller als DamerauLevenshtein, für schwächere Geräte
 </div>
 <div title="einfachere Version von DamerauLevenshtein, ohne Vorfilterung">
-<input checked="false" name="algo" type="radio" title="einfachere Version von DamerauLevenshtein">
+<input type="radio" title="einfachere Version von DamerauLevenshtein" checked="false" name="algo">
 Levenshtein
  ----&gt; einfacher und schneller als OSA, für schwache Geräte
 </div>
@@ -383,7 +383,7 @@ Nichts
 </div>
 </table>
 <p>
-<input placeholder="Vorname Nachname" autofocus="true" style="width: 250px;" type="text">
+<input type="text" placeholder="Vorname Nachname" autofocus="true" style="width: 250px;">
  
 <button style="width: 100px;">
 Search
