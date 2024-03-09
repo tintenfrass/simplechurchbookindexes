@@ -1,6 +1,6 @@
 Rabenau (Buch 583)
 Trauungen 1643-1799
-https://www.archion.de/de/viewer/?no_cache=1&type=churchRegister&uid=305587
+https://www.archion.de/de/viewer/churchRegister/305587?pageId=42962651
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -107,7 +107,7 @@ Johann Andreas Lipsch
 ----------------
 Christian Friedrich Vogel
 Christian Wolf
-Johann a Wolf
+Johann Andreas Wolf
 Christian Gottlieb Winschmann
 Michael Schumann
 Johann Georg Belmann
