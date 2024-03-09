@@ -337,7 +337,7 @@ Georg Reiche?
 .
 ?
 Christoph ?
-Martha  Buttner
+Martha Buttner
 ----------------
 .
 .
@@ -688,7 +688,7 @@ Anna Ulmann
 Barbara Hencker
 .
 Anna Birckner
-Anna  Kunz
+Anna Kunz
 Bernhard Drepe?
 .
 f Christoph Berner
@@ -911,7 +911,7 @@ Gregor Schneider?
 .
 .
 .
-Anna  Spicht
+Anna Spicht
 Michael Rilcker?
 Maria ?
 Regina Irmler
@@ -1393,7 +1393,7 @@ Jacob ?
 .
 Peter ?
 Caspar Simon
-Ursula Jacob  ?
+Ursula Jacob ?
 Peter Irmler
 Michael Irmler
 Martin Reiche

@@ -1457,7 +1457,7 @@ Johann Ernst Siegmund Winckler
 Johann Gottlieb Wünschmann
 Michael Joachim Wedel
 Christian Weinert
-Johann Michael  Werner
+Johann Michael Werner
 Johann Jacob Wendler
 Christian Gottfried Wöhlermann
 Johann Julius Weitz
@@ -3774,7 +3774,7 @@ Gottlob Friedrich Hetze
 Johann Christoph Heydenreich
 Gottlob Höhrmann
 Christian Wilhelm Haberkorn
-Johann  Ernst Friedrich Hübner
+Johann Ernst Friedrich Hübner
 Johann Georg Junge
 Johann Valentin Jacob
 Christian Friedrich Jul

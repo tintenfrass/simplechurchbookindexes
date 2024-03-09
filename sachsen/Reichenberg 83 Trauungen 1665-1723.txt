@@ -817,7 +817,7 @@ Nicol Heller
 Christian Köhler
 Johann-Christian Arldt
 Martin Krüger
-Martin  Vetter
+Martin Vetter
 ----------------
 Martin Schieffner
 Stephan Kuntzsch

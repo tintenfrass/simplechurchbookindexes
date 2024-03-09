@@ -404,7 +404,7 @@ Samuel Butze
 Michael Schultz
 Christian Qvant
 ----------------
-Johann Georg  Pauls
+Johann Georg Pauls
 Gottfried Mehner
 Johann August Mehner
 Adam Michael Kluge
@@ -1448,7 +1448,7 @@ Johann Gottlieb Reinfelt
 Georg Friedrich Scheunert
 Johann Michael Gröbe
 Georg Gottfried König
-Christian  Flade
+Christian Flade
 ----------------
 Johann Christoph Uhlich
 1754

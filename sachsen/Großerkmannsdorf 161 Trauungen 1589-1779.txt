@@ -82,7 +82,7 @@ Urban Jacob
 1628
 Hans Bürger
 1670
--  Bürger
+- Bürger
 1660
 - Palger
 1635
@@ -355,7 +355,7 @@ Hans Näcke
 Georg Vogel
 ----------------
 1667
--  Förster
+- Förster
 ----------------
 1677
 - Hanicke

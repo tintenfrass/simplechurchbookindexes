@@ -62,7 +62,7 @@ Jacob Bohrisch
 Georg Beunel
 1603
 Georg Schneider
-Job  Fritzsche
+Job Fritzsche
 1604
 Peter Rosenkrantz
 Andreas Heil
