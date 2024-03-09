@@ -224,7 +224,7 @@ Martin Richter
 1712
 Martin Lutze
 1713
-Adam 	Zincke
+Adam Zincke
 Hans Hernig
 1714
 Caspar Köhler
