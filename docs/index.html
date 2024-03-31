@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="author" content>
+<meta content name="author">
 <meta name="description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
-<meta name="keywords" content>
+<meta content name="keywords">
 <meta name="theme-color" content="#2d2c2c">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover">
-<meta property="og:url" content="http://127.0.0.1:60353/">
+<meta property="og:url" content="http://127.0.0.1:55907/">
 <meta property="og:title" content="Trau-Index Dresden-Meißen">
 <meta property="og:description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
 <meta property="og:type" content="website">
@@ -17,9 +17,9 @@ Trau-Index Dresden-Meißen
 </title>
 <link rel="icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
 <link rel="apple-touch-icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
-<link href="/simplechurchbookindexes/manifest.webmanifest" rel="manifest">
-<link href="/simplechurchbookindexes/app.css" type="text/css" rel="stylesheet">
-<script src="/simplechurchbookindexes/wasm_exec.js" defer="true"></script>
+<link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
+<link type="text/css" rel="stylesheet" href="/simplechurchbookindexes/app.css">
+<script defer="true" src="/simplechurchbookindexes/wasm_exec.js"></script>
 <script defer="true" src="/simplechurchbookindexes/app.js"></script>
 <!-- Google tag (gtag.js) -->
 			<script async src="https://www.googletagmanager.com/gtag/js?id=G-S2D2V6SHXE"></script>
@@ -34,7 +34,7 @@ Trau-Index Dresden-Meißen
 <body>
 <div>
 <aside id="app-wasm-loader" class="goapp-app-info">
-<img src="https://storage.googleapis.com/murlok-github/icon-192.png" id="app-wasm-loader-icon" class="goapp-logo goapp-spin">
+<img id="app-wasm-loader-icon" class="goapp-logo goapp-spin" src="https://storage.googleapis.com/murlok-github/icon-192.png">
 <p id="app-wasm-loader-label" class="goapp-label">
 0%
 </p>
@@ -62,7 +62,7 @@ Jahr Min
 <label>
 Jahr Max
 </label>
-<input style="width: 600px;" type="range" min="1545" max="1800" value="0">
+<input type="range" min="1545" max="1800" value="0" style="width: 600px;">
 <label>
 0
 </label>
@@ -74,17 +74,17 @@ Jahr Max
 </td>
 <td>
 <div style="margin-left:60px;color:dimgrey;">
-<div style="font-weight:bold;" title="Bestimmt wie schnell und genau die Ähnlichkeitssuche funktioniert, je nach Algorithmus können die Ergebnisse leicht abweichen. Im Zweifelsfall einfach so lassen.">
+<div title="Bestimmt wie schnell und genau die Ähnlichkeitssuche funktioniert, je nach Algorithmus können die Ergebnisse leicht abweichen. Im Zweifelsfall einfach so lassen." style="font-weight:bold;">
 Erweiterte Einstellung zum Suchalgorithmus (experimentell):
 </div>
 <br>
 <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.4 werden danach mit DamerauLevenshtein genau berechnet. Dieses zweistufe Vorgehen macht die Suche schnell und trotzdem genau.">
-<input name="algo" type="radio" checked="true">
+<input checked="true" name="algo" type="radio">
 Jaro + DamerauLevenshtein
  ----&gt; best Kombination aus Geschwindigkeit und Komplexität
 </div>
 <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.3 werden danach mit Soundex umgewandelt und diese dann mit DamerauLevenshtein berechnet. Das ist sehr langsam aber findet viel mehr Treffer. Große Suchen brechen manchmal ab.">
-<input checked="false" name="algo" type="radio">
+<input type="radio" checked="false" name="algo">
 Jaro + Soundex + DamerauLevenshtein
  ----&gt; mehr Treffer, sehr langsam, nicht für große Suchen geeignet
 </div>
@@ -103,7 +103,7 @@ Levenshtein
  (Damerau-)Levenshtein-Distanz
 </a>
 <br>
-<a href="https://srinivas-kulkarni.medium.com/jaro-winkler-vs-levenshtein-distance-2eab21832fd6" style="color:grey;">
+<a style="color:grey;" href="https://srinivas-kulkarni.medium.com/jaro-winkler-vs-levenshtein-distance-2eab21832fd6">
  Jaro-Winkler vs. Levenshtein
 </a>
 <br>
@@ -449,6 +449,10 @@ https://github.com/tintenfrass/simplechurchbookindexes
 </h3>
 <label>
 Trauungen Kleinwaltersdorf 1599-1660
+</label>
+<br>
+<label>
+Trauungen Oberschöna 1633-1680
 </label>
 <br>
 <label>
