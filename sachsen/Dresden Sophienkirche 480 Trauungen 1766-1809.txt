@@ -1,5 +1,5 @@
 Dresden Sophienkirche (Buch 480)
-Trauungen 1766-1799
+Trauungen 1766-1809
 https://www.archion.de/de/viewer/churchRegister/280095?pageId=38533652
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -7,9 +7,10 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Das Kirchenbuch ist teilweise schwer lesbar und einige Namen unklar.
 
 
-Erstellt in ca. 1,5 Stunden
+Erstellt in ca. 2 Stunden
 Mai 2023
 August 2023
+April 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -363,3 +364,130 @@ Johann Carl Künzel
 Carl Benjamin Schade
 Johann Georg Kirsten
 Gottfried Bernhard Hacker
+----------------
+1800
+Carl August Ludwig Sillig
+Gotthard Ludwig Krüdener
+Friedrich August Koretzky
+Karl Friedrich Prölß
+Christian Traugott Droschütz
+Karl Friedrich Böhme
+Johann Carl Adam Schultz
+Christian Friedrich Wege?
+Christian Benedikt Carl Georgi
+----------------
+1801
+Gottfried Johann Wilhelm Pansa?
+Karl Friedrich Schmidt
+Friedrich Weiße
+Christian Heinrich Schreyer
+Johann Gottlob Kampe
+Emanuel August Mirth?
+Hans Georg Carlowitz
+Traugott Benjamin Pestolsky?
+Johann Wilhelm Siegmund Zeschau
+Heinrich Gottlieb Zacharias
+Carl Friedrich Victor Gauke
+Johann Heinrich Boll
+----------------
+Heinrich Rudolph Schröter
+Maximilian Heinrich Prölß
+Carl Friedrich Kringel
+Christian August Rühl
+1802
+Carl Daniel Leipnitz
+Johann Friedrich Wilhelm Sengert?
+Christian Abraham Wahl
+Franz Otto Barthels
+Traugott Leberecht Müllmar
+Carl Friedrich Benjamin Pietzsch
+Christian Friedrich Brachmann
+----------------
+Friedrich Carl Leopold Beust
+Friedrich Christian Ludwig Senft?
+Ernst Friedrich Meißner
+Christoph Traugott Nake
+1803
+Carl Friedrich August Köhler
+Carl Friedrich Werner
+Johann Georg Gommlich
+Johann Friedrich Herold
+Gottlieb Friedrich Töpelmann
+Alexander Ludwig Tschudi
+----------------
+Bernhard August Fromberg
+Carl Maximilian Meißner
+Christian Carl Hirsch
+Anton Friedrich Fischer
+Friedrich August Pönitz
+----------------
+1804
+August Friedrich Pesler
+Adolph Heinrich Gottlob Müller
+Philip Otto Runge
+Johann Gottlob Walther
+Gottlob August Drechsler
+Carl Friedrich Ludwig Watzdorf
+Friedrich Salomon Siegmund Schletter
+Ehrenfried Gottlob Libert
+Johann Heinrich Rabacher?
+Johann August Streubel
+----------------
+Carl Friedrich Hornemann
+Hans August Fürchtegott Globig
+1805
+Georg Leberecht Hermann
+Ludwig August Bahsenge
+Basilius Troubetzkoi
+Friedrich Leopold Knaust
+Isaac Heinrich Malherbe
+Franz Gabriel Bray
+----------------
+Johann Gottfried Schuberth
+Justus Christian Günz
+Johann Heinrich Künzel
+1806
+Gustav Christian Weinlig
+Carl Gottlob Sinapius
+Friedrich Traugott Michael Haupt
+Christian Friedrich Abendroth
+Adolph Weiße
+Friedrich Christian Lose
+Emil August Wirsing
+----------------
+1807
+Karl August Helbig
+Günther Bünau
+Johann Carl Rößler
+Carl Friedrich Curt Seydewitz
+Christian Gottlieb Friedel
+Karl Heinrich Traugott Ditrich
+Maximilian Carl Carlowitz
+Andreas Daniel Schirmer
+Johann Liebegott Schultz
+Hans Ferdinand Cäsar Schönberg
+----------------
+1808
+Carl Gottlob Ferdinand Nostitz
+Christian Heinrich Ernst Eichelbrog
+Wilhelm Ferdinand Binder
+Johann Carl Engelhart
+Gottlob August Hauschild
+Friedrich Anton Coblenz
+Johann Fürchtegott Scheumann
+Gottlob Heinrich Meisel
+Johann Wilhelm Tietzsch
+Traugott Adolph Elias Häntschel
+Johann Gottlob Samuel Petzhold
+----------------
+1809
+Johann Wilhelm Siegmund Zeschau
+Ferdinand Metzradt
+Johann Gotthelf Freund
+Christian Friedrich Helbig
+Traugott Leberecht Taubarth
+Carl Julius Ferdinand Schmidt
+Johann Gottlieb Steglich
+Johann Samuel Gottschalch?
+Johann Georg Neumeister
+Friedrich Gotthelf Tümpling
