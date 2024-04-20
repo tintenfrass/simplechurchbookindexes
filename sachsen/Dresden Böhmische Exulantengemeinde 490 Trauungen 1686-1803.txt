@@ -1,5 +1,5 @@
-Dresden Böhmische Exulantengemeinde (Buch 490 und 491)
-Trauungen 1686-1799
+Dresden Böhmische Exulantengemeinde (Buch 490)
+Trauungen 1686-1803
 https://www.archion.de/de/viewer/churchRegister/264671?pageId=36998576
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -7,6 +7,7 @@ Januar 2023
 Februar 2023
 Mai 2023
 August 2023
+April 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -488,3 +489,9 @@ Johann August Marx
 1799
 Wenzel Horak
 Gotthelf Schilf
+1801
+Johann Ludwig Klengel
+Johann Jacob Felix
+Mattheus Cerny
+1803
+Johann Christian Kästner
