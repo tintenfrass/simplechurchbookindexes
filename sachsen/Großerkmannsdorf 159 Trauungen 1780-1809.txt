@@ -1,5 +1,5 @@
 Großerkmannsdorf (Buch 159)
-Trauungen 1780-1799
+Trauungen 1780-1809
 https://www.archion.de/de/viewer/churchRegister/280079?pageId=38530316
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -7,6 +7,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
 September 2023
+April 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -149,3 +150,103 @@ Johann Gottfried Michel
 1799
 Johann Gottlieb Thomas
 Johann Georg Forkert
+----------------
+1800
+Johann Christoph Hencker
+Johann Gottfried Nather
+Johann Christoph Jähnichen
+Johann Gottlob Jähnichen
+Johann Georg Schmiedel
+Johann Leberecht Hennig
+Johann Gottfried Jähnichen
+----------------
+1801
+Johann Georg Müller
+Friedrich Gotthold Müller
+Christian Gottfried Jähnichen
+Johann Gottlieb May
+Johann Christoph Hermann
+----------------
+1802
+Johann Georg Focke
+Johann Gottfried Angermann
+Liebegott Gotthelf Wirthgen
+Johann Gottlob Hörnig
+Gottlob Leberecht Jähnichen
+Johann Gottlob Ziekel
+----------------
+1803
+Johann Gottfried Jähnichen
+Johann Gottlob Zschiesche
+Johann Christoph Schöne
+Johann Gottlob Müller
+Johann Werner
+Johann Georg Schöne
+Johann Gottfried Glaser
+Johann Christian Leberecht Müller
+Johann Heinrich Clauß
+----------------
+Johann Gottlieb Wehnert
+1804
+Johann Gottlieb Tittel
+Johann Christoph Koch
+Johann Christoph Jähnichen
+Johann Gottfried Hermann
+Johann Andreas Müller
+Johann Christoph Jähnichen
+----------------
+1805
+Johann Gottlob Bräunig
+Johann Georg Müller
+Gotthelf König
+Johann Gottlob Schütze
+Johann Gottlob Kluge
+Carl Traugott Hencker
+Gottlob Friedrich Leipold
+Johann Georg Näther
+----------------
+1806
+Johann August Gößel
+Johann Gottfried Müller
+Christoph Horn
+1807
+Johann Georg König
+Johann Gottlieb Schultz
+Johann Christoph Forke
+----------------
+Johann Daniel Huhle
+Johann Christian Ehrenfried Näther
+Johann Georg Zschiesche
+Johann Gottfried Kluge
+Johann Gottfried Klare
+Johann Leberecht Hennig
+Johann Gottlieb Horn
+Johann Gotthelf Grützner
+----------------
+1808
+Johann Gottlob Leberecht Müller
+Johann Gottfried Michael
+Johann Michael Kluge
+Johann Gottfried Medger
+Christian Leberecht Merkel
+Johann Gottfried Müller
+Johann Gottfried Müller
+Johann Christoph May
+----------------
+Johann Ehrenfried Rößler
+Gottlob Leske
+Johann Gottfried May
+Johann Christoph Zschiesche
+Johann Georg Näther
+Johann Christian Schmidt
+Johann Christian Opitz
+----------------
+1809
+Johann Gottlob Hauschild
+Carl Gottlieb Brückner
+Johann Christoph May
+Johann Andreas Müller
+Carl Traugott Neumann
+Johann Georg Müller
+Johann Gottfried Hempel
+Johann Samuel Rößler

@@ -1,5 +1,5 @@
 Großdittmannsdorf (Buch 2)
-Trauungen 1685-1799
+Trauungen 1685-1807
 https://www.archion.de/de/viewer/churchRegister/279921?pageId=38495337
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Erstellt in ca. 1 Stunde
 September 2023
+April 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -546,3 +547,71 @@ Johann Gottlob Herrich
 Johann Georg Thieme
 ----------------
 Johann Christian Thieme
+----------------
+1800
+Johann Christian Vetters
+----------------
+Johann Gottfried Tillig
+----------------
+Johann Gottlob Nacke
+----------------
+1801
+Johann Gottfried Trepte
+Johann Georg Richter
+Johann Gottlob Zschiesche
+----------------
+Johann Karl Gottfried Hoffmann
+1802
+Johann Gottlieb Lehmann
+Johann Christian Kretzschmer
+----------------
+Johann Gottfried Seyffert
+Johann Christoph Rietschel
+Johann Christoph Opitz
+----------------
+1803
+Johann Gottlieb Zimmermann
+Johann Gotthelf Meyer
+Johann Heinrich Müller
+----------------
+Johann Gottfried Keulig
+1804
+Johann Gottlob Seiler
+----------------
+Johann Gottlieb Ditrich
+Johann Christian Kotte
+----------------
+Johann Christian Kotte
+Johann Gottfried Trepte
+----------------
+Johann Gottfried Schmidt
+Christian Schultz
+----------------
+Johann Gottlob Kretzschmer
+Johann Christoph Kotte
+----------------
+1805
+Johann Gotthelf Boden
+Johann Gottlob Mütze
+----------------
+Johann Gottlieb Eichhorn
+1806
+Johann Gottlieb Wehse
+Johann Gottlieb Opitz
+----------------
+Johann Gottfried Friedrich
+Johann Gottlob Hese
+----------------
+Johann Gottlieb Eichhorn
+Johann Christoph Thieme
+Johann Gottlob Hänel
+----------------
+Johann Gottfried Zaupe
+Johann Gottlieb Hauswald
+----------------
+1807
+Johann Gotthelf Schultz
+Johann Samuel Settler
+Johann Gottlob Kunath
+----------------
+Johann Gottlob Sickert
