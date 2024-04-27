@@ -1,5 +1,5 @@
 Grünberg (Buch 7)
-Trauungen 1762-1799
+Trauungen 1762-1800
 https://www.archion.de/de/viewer/churchRegister/279926?pageId=38496661
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -7,6 +7,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
 September 2023
+April 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -169,3 +170,6 @@ Johann Christian Heimberg
 Johann Gottfried Eger
 ----------------
 Johann Christoph Schröter
+1800
+Johann Traugott Krolp
+Johann Gottfried Schütze
