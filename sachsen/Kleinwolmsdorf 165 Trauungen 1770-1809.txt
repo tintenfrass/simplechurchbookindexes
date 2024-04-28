@@ -1,12 +1,14 @@
 Kleinwolmsdorf (Buch 165)
-Trauungen 1770-1799
+Trauungen 1770-1809
 https://www.archion.de/de/viewer/churchRegister/264497?pageId=36954139
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
+Erstellt in ca. 0,5 Stunden
 September 2023
+April 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -191,3 +193,93 @@ Johann Gottfried Große
 ----------------
 Johann Gottlieb Philipp
 Johann Michael Gäbler
+1800
+Johann Gottlob Mehnert
+Johann Christoph Feller
+Johann Gottlob Rentzsch
+----------------
+Johann Gottlieb Kühne
+Johann Georg Feller
+Johann Gottlob Boden
+Johann Gottlieb König
+1801
+Johann Christoph Förster
+Johann Georg Müller
+Johann Christoph König
+----------------
+Johann Gottlieb Forke
+Johann Gottlieb Feller
+Johann Christoph Lehmann
+Johann Gottfried Großmann
+1802
+Johann Ehrenfried Gröber
+Johann Gottlieb Pflicke
+Gottfried Bürger
+----------------
+Carl Rudolph Samuel Gräfe
+Johann Gottlob Mittag
+1803
+Johann Christoph Philipp
+Friedrich Heinrich Opitz
+Johann Christoph Koch
+Johann Gottlieb Philipp
+Johann Gottlieb Brückner
+----------------
+Carl Gottlieb Golde
+Johann Gottlob Rosencranz
+1804
+Johann Gottfried Paufler
+Johann Gottlob Hantzsche
+Johann Georg Rentzsch
+Johann Gottlob Haase
+Johann Christoph Gröber
+----------------
+Johann Georg Birnstengel
+Johann Gottlieb Schöne
+Johann Gottlieb Hermann
+Johann Gottfried Müller
+Johann Gottfried Großmann
+Johann Christoph Schöne
+Johann Gottlob Fiedler
+1805
+Johann Georg Brückner
+----------------
+1806
+Johann Christoph Schmidt
+Georg Friedrich Hörnig
+Johann Christian Richter
+Johann Georg Klahre
+Johann Gottfried Feller
+1807
+Johann Christian Forke
+Johann Gottlieb Müller
+Johann Christoph Rosencranz
+Johann Gottfried Klahre
+Johann Christoph Karsch
+----------------
+Johann Gottlob Boden
+Johann Georg Schmiedel
+Carl Gottlieb Golde
+Johann Gottfried Petzold
+Johann Gottfried Ziegenbalg
+Johann Georg Zahn
+Johann Gottlob Hahse
+1808
+Johann Gottlob König
+Johann Gottlieb König
+Johann Ehrenfried Rößler
+----------------
+Johann Friedrich Wolf
+Johann Michael Böttig
+1809
+Johann Gottfried Hartmann
+Johann Christoph Zumpe
+Carl Gottlieb Klahre
+Johann Samuel Mittag
+Johann Christoph Eysold
+Johann Gotthelf Hübner
+Johann Joseph Floßmann
+----------------
+Johann Gottfried Hämpel
+Johann Christoph May
+Johann Samuel Rößler
