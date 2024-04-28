@@ -1,5 +1,5 @@
 Lockwitz (Buch 391)
-Trauungen 1757-1800
+Trauungen 1757-1801
 https://www.archion.de/de/viewer/churchRegister/264577?pageId=36981051
 
 
@@ -7,7 +7,6 @@ Zur Verfügung gestellt von Matthias Daberstiel
 https://lockwitz-nickern.de
 
 September 2023
-
 
 
 ---------------- x3
@@ -789,3 +788,9 @@ Johann Gottfried Winkler | Rosina Maria Ziel
 Georg Gottlieb Gärtner | Johanna Sophia Mentzel
 1800
 Christian Gottlieb Grützner | Johanne Friederike Wirthgen
+----------------
+1801
+Johann Georg Seyfarth
+Friedrich Wilhelm Wolf
+Johann Christoph Donat
+Johann Gottlob Ritter
