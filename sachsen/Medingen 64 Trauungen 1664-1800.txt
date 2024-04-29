@@ -1,5 +1,5 @@
 Medingen (Buch 64)
-Trauungen 1664-1799
+Trauungen 1664-1800
 https://www.archion.de/de/viewer/churchRegister/279984?pageId=38507563
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Erstellt in ca. 1 Stunde
 September 2023
+April 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -577,3 +578,8 @@ Christoph Luntze?
 Johann Gotthelf Eichhorn
 ----------------
 Johann Gotthelf Schütze
+----------------
+1800
+Johann Georg Wagner
+Johann Christian Fürstenau
+Johann Gottfried Oertel
