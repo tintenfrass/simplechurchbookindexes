@@ -1,5 +1,5 @@
 Wilschdorf (Buch 150)
-Trauungen 1776-1799
+Trauungen 1776-1809
 https://www.archion.de/de/viewer/churchRegister/280070?pageId=38528794
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Erstellt in ca. 0,5 Stunden
 Mai 2023
+April 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -118,3 +119,85 @@ Johann Gottfried Pappritz
 ----------------
 Georg Gommlich
 Johann Christian Trepte
+1800
+Johann Gottlob Bischof
+----------------
+Samuel Jdermann
+Gottfried Zische
+1801
+Johann Georg Günther
+----------------
+Gottlieb Michael Mertzschink
+Benjamin Friedrich Ermel
+Samuel Pappritz
+Johann Gottfried Günther
+----------------
+Samuel Vetters
+Jeremias Gotthold Werner
+1802
+Johann Christian Steinhaus
+Samuel Kuntsch
+----------------
+1803
+Johann Georg Wenzel
+Daniel Hoffmann
+Johann Christoph Dietze
+Johann Gottfried Möbius
+----------------
+Johann Christian Kunzsch
+Samuel Kunzsch
+Johann Gottlob Zscheile
+----------------
+Johann Georg Schütze
+1804
+Johann Georg Nitzsche
+----------------
+Samuel Gommlich
+Johann Gottlieb Franke
+Johann Gottfried Gommlich
+Johann Gottfried Menzel
+----------------
+Johann Gottfried Zumpe
+1805
+Johann Gottfried Leuschner
+Johann Georg Rarisch
+----------------
+Christian Paulich
+1806
+Johann Friedrich Zscheile
+Johann Gottfried Türke
+Johann Gottlieb Fischer
+----------------
+Johann Friedrich Pohle
+Johann Gottlob Schumann
+Johann Heinrich Härtel
+Johann Georg Kunzsch
+----------------
+1807
+Johann Gottlob Haucke
+Johann Gottlieb Gäbler
+Johann Gottlob Richter
+Johann Gottlieb Zscheile
+----------------
+Johann Christian Schmiedchen
+Johann Gottfried Schnabel
+Johann Gottlob Branitz
+Johann Gottfried Kuntsch
+----------------
+1808
+Johann Georg Müller
+Johann Christian Schütze
+Johann Gottfried Kind
+Johann Gottlieb Bruhne
+----------------
+1809
+Johann Friedrich Pählich
+Johann Gotthelf Fuchs
+Samuel Gommlich
+Carl Gottlieb Fleck
+Johann Christoph Schmaler
+----------------
+Johann Gottlieb Bergmann
+Johann Gottlob Gommlich
+Johann Gottlieb Fleischer
+Johann Gottlieb Gommlich
