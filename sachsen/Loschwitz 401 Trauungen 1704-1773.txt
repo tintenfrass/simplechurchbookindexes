@@ -7,8 +7,9 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
-Erstellt in ca. 8 Stunden
-August 2023
+Erstellt in ca. 9 Stunden
+August 2023 (erstellt)
+Mai 2024 (überarbeitet)
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -52,7 +53,7 @@ Johann Ehlig
 Georg Häntzsche
 Johann Michael Bobriz
 Michael Beyer
-Georg Schrdödter
+Georg Schrödter
 Johann Lauterbach
 Johann Baudisch
 Martin Trobisch
@@ -64,7 +65,7 @@ Andreas Schröger
 Christoph Klahre
 Peter Schmidt
 Michael Winckler
-Michael Hle
+Michael Höle
 ----------------
 1707
 Johann Friedrich Köhler
@@ -100,13 +101,13 @@ Tobias Gerhardt
 ----------------
 Hans Michael Helbig
 Paul Lauterbach
-Michael Stock?
+Michael Stock
 Hans Leischka
 Johann Jacob Schöffer
 Carol Richter
 Tobias Schmidt
 Johann Lauterbach
-Johann Beer?
+Johann Beer
 1710
 Andreas Just
 Martin Schertze
@@ -143,12 +144,12 @@ Martin Trobisch
 Christian Günther
 Andreas Johne
 Johann Christian Neumann
-Georg? Hennig
+Georg Hennig
 Georg Fähre
 ----------------
 Hans Ritter
 Johann Heinrich Müller
-Christian Stem
+Christian Stein
 Samuel Kegel
 Jacob Petzold
 Gabriel Richter
@@ -164,7 +165,7 @@ Christian Pohle
 Mattheus Richter
 Philip Christian Gering
 Christoph Schütze
-Hans Ernst Tranutz? Beeris
+Hans Ernst Franz Beeris
 Martin Mädiger
 Georg Baudisch
 Johann Carol Henseltz
@@ -209,10 +210,10 @@ Johann Andreas? Gerhardt
 Johann Caspar Fretze
 Georg Hayne
 Tobias Meißner
-Johann Carl Mayer?
+Johann Carl Mayer
 Emanuel Ludwig Schulenberg
-Teonciheus? Perezal?
-Samuel Übelein?
+Franz Perotal
+Samuel Übelein
 Gottfried Lange
 Georg Johne
 Michael Baudisch
@@ -276,10 +277,10 @@ Johann Friedrich Naumann
 Jacob Richter
 Georg Saupe
 Peter Fehre
-? Leuteritz?
+? Leuteritz
 ----------------
 Johann Braunstein
-Conrad? Naache?
+Conrad? Naache
 Johann Arnold
 Christoph Klare
 Andreas Merbitz
@@ -360,7 +361,7 @@ Melchior Heydenreich
 Johann Balthasar Keller
 Johann Heinrich Wolfframm
 1722
-Johann Fuchse?
+Johann Fuchs
 Johann Daniel Lange
 Johann Georg Reißig
 Johann Georg Lange
@@ -372,7 +373,7 @@ Lorenz Vogel
 Johann Christian Matthai
 Gottlob Benjamin Zipper
 Tobias Adam
-David ?
+David Lauterbach
 Johann Georg Schmidt
 Hans Michael Zeibig
 Paul Schmidt
@@ -382,12 +383,12 @@ Christian Baudisch
 Anton Christian Ulrich
 ----------------
 Jacob Weiße
-Johann Christoph Förster?
-Johann Hoffmann?
+Johann Christoph Förster
+Johann Hoffmann
 Johann Georg Wandebaum
 Johann Georg Zeitz
 Johann Michael Keller
-Christoph Zeisner?
+Christoph Zimmermann
 1723
 Johann Metzner
 Johann Wagner
@@ -398,7 +399,7 @@ Johann Georg Kreißig
 Johann Balthasar Haarfeld
 Johann Bahrmann
 ----------------
-Johann? König
+Johann Adam König
 Johann Georg Schmidt
 Johann Süßemilch
 Johann Christoph Baudisch
@@ -410,7 +411,7 @@ Johann Gerhardt
 ? Bähr
 Johann Christoph Taschenberger
 Johann Lehmann
-Johann Georg ?
+Johann Georg Flek
 Johann Caspar Zschiebechold?
 Samuel Lange
 Johann Christoph Guttermann
@@ -426,11 +427,11 @@ Georg Christoph Geyersleber
 Johann Roßig
 Georg Heyne
 Andreas Saupe
-Johann Samuel? Kuntze
+Johann Samuel Kuntze
 ----------------
 Johann Nicol Hennemann
 Johann Georg Haarfeld
-David Haase?
+David Haase
 Johann Georg Haarfeld
 Michael Leischke
 Georg Trobisch
@@ -438,7 +439,7 @@ Christoph Trobisch
 Johann Georg Nitzschner
 Elias Kühnel
 Johann Mädiger
-Michael Schenderlein?
+Michael Schenderlein
 Johann Christian Golde
 Valentin Luther
 Johann Gottfried Rosenberg
@@ -448,16 +449,16 @@ Peter Neumann
 Peter Friedrich
 Christian Kruler
 Christoph Angermann
-Johann ?
+Johann Schultze
 Andreas Irmer
 Johann Hempel
-Johann Tietze?
+Johann Tietze
 Christian Saupe
 Paul Schindler
-Johann Ruter?
+Johann Reuber
 Christoph Baudisch
 Valentin Lacasig
-Johann Gottfried? Naumann
+Johann Gotthard Naumann
 Johann Christian Müller
 Johann Gabriel Fiedler
 Johann Werner
@@ -480,7 +481,7 @@ Johann Georg Golde
 ----------------
 Christian Proschmann
 Heinrich Gottlieb Karau?
-Michael Telle?
+Michael Telle
 Johann Georg Frost
 Christoph Wilcke
 Samuel Förster
@@ -494,13 +495,13 @@ Georg Reißig
 Michael Sachse
 ----------------
 1727
-Peter Tolde?
+Peter Tolde
 Johann Christoph Haarfeld
 Johann Andreas Wirthgen
 Christoph Baudisch
 Andreas Schmidt
 Johann Georg Zschiedrich
-Samuel Jahr?
+Samuel Bähr
 Paul Lauterbach
 Johann Patzig
 Johann Georg Qverner
@@ -511,16 +512,16 @@ Samuel Fehre
 Georg Zincke
 Christoph Zeibig
 Andreas Reißig
-Samuel Bolsen?
+Samuel Bolsen
 ----------------
-Johann Gottlieb Lombschke?
+Johann Gottlieb Tomschke
 Johann Huhle
 Johann Wunderbar
 Johann Georg Raffelt
 1728
 Abraham Zeibig
 Johann Georg Lauterbach
-Georg Fahriack?
+Georg Fahrian
 Johann Georg Zeibig
 Christoph Reißig
 Samuel Golde
@@ -536,17 +537,17 @@ Johann Georg Mentzel
 Johann Köhler
 Christian Gottfried Müller
 Johann? Georg Näder
-Gottfried Schmidt?
+Gottfried Schmidt
 Johann Friedrich Drolitsch?
 ----------------
 1729
 Christoph Lange
 Johann Adam
 Johann Christoph Zetsch
-Johann Räritsch?
+Johann Räntsch
 Georg Müller
 Johann Gottlieb Baudisch
-Gottlieb? Friedrich
+Christoph Friedrich
 Carl Friedrich Raustendorf
 Franz Louvain
 Peter Lohse
@@ -573,7 +574,7 @@ Johann Lauterbach
 Johann Gottlob Angermann
 Johann Joachim Kretzschmer
 Gottfried Feller
-Johann Günther?
+Johann Gänsler
 Michael Schultz
 Michael Werner
 Johann Georg Richter
@@ -605,11 +606,11 @@ Johann Christian Bernhardt
 Johann Georg Saupe
 Johann Michael Kuntze
 Johann Pietzsch
-Johann Georg Grund?
-Christoph Nacke?
-Michael Kenther?
+Johann Georg Grund
+Christoph Nacke
+Michael Knothe
 Gottfried Golde
-Johann Gottlob Höhkas?
+Johann Gottlob Höhle
 Christoph Müller
 ----------------
 1732
@@ -675,11 +676,11 @@ Gottfried Angermann
 Johann Georg Frost
 ----------------
 1734
-Georg Andreas Flecht?
+Georg Andreas Fl?
 Michael Winckler
 Gottfried Baudisch
 Adam Götze
-Christoph Ludwig Solfris?
+Christoph Ludwig Solris
 Christoph Richter
 Blasius Höhle
 Johann Georg Schmidt
@@ -725,7 +726,7 @@ Peter Jentzsch
 Johann Georg Winter
 Andreas Höhle
 Georg Friedrich Schneider
-Johann Heinrich Freischelben?
+Johann Heinrich Freiseleben
 Johann Gottlob Höhle
 ----------------
 1736
@@ -767,7 +768,7 @@ Abraham Reuter
 Gottfried Holland
 Johann Georg Hennig
 Caspar Gottlieb Bürger
-Christian Beiger?
+Christian Beliger
 Johann Georg Hauptmann
 Christian Mehner
 ----------------
@@ -777,7 +778,7 @@ Christoph Jähnich?
 Johann Heinrich Schupp
 Christian Friedrich Holland
 Johann Jancke
-Christian Friedrich Mader?
+Christian Friedrich Mader
 Johann Christoph Johne
 Johann Georg Krempe
 Samuel Neumann
@@ -806,7 +807,7 @@ Christoph Richter
 Johann Christian Eger
 Johann Friedrich Mylich
 Johann Petzsch
-Adam Matkloteky?
+Adam Matklofsky
 ----------------
 Johann Georg Henpel
 Johann Gottfried Rüdiger
@@ -830,17 +831,17 @@ Samuel Haarfeld
 Friedrich Thormeyer
 Johann Aehlich
 Johann Gottlob Hartmann
-Samuel Lenigdorf?
+Samuel Langdorf
 Samuel Ritter
 Elias Schneider
-Michael Sieremann?
+Michael Sieremann
 ----------------
 Johann Paulich
 David Rainitz
 Johann Georg Sahre
 Johann Christoph Fischer
 Johann Christoph Köhler
-Johann Julius Tripto?
+Johann Julius Tripto
 Carl Christian Haustück
 Christoph Heybaum
 Johann Gottfried Hensel
@@ -894,16 +895,16 @@ Johann Georg Heinrich Kaynert?
 Johann Christoph Heiße
 Johann Friedrich Mäebig
 Jacob Guth
-Johann Georg Metzner?
+Johann Georg Metzner
 Johann Georg Gregory
 ----------------
 Gottlieb Ludewig
-Peter Friedrich Schrötel?
+Peter Friedrich Schrötel
 Hans Michael Wagner
 Christian Friedrich Bernhardt
 Gregor Zeibig
 Martin Gerhard
-Peter Keunich?
+Peter Kranich
 Johann Gottlieb Sappe?
 Jonas Hempold?
 x
@@ -915,7 +916,7 @@ Christoph Hoffmann
 Christian Gottlieb Panig
 Johann Gottfried Lange
 Peter Petzold
-Georg Renat? Feller?
+Georg Renato Keller
 Johann Gottfried Zeibig
 Johann Christian Gaubitzschen
 ----------------
@@ -939,12 +940,12 @@ Johann Gottfried Ehnert
 Christian Schubert
 Johann Georg Lange
 ----------------
-Johann Christian Döpel?
+Johann Christian Döpel
 Andreas Leppgen
-Gottfried Männel?
-Johann Daniel Lange?
+Gottfried Männel
+Johann Daniel Lange
 Christoph Kannengießer
-Johann Georg Veilenmeyne?
+Johann Georg Weilenmeyer
 Johann Adam Ehrhard
 Johann Traugott ?
 Christoph Voigt
@@ -955,19 +956,19 @@ Johann Peter Matthai
 Johann Georg Zeibig
 1743
 Friedrich Wilhelm Gähnel
-Johann Christian Binoricht?
+Johann Christian Bindrichk
 Johann Christian Wolf
 Gottfried Kluge
 Johann David Lauterbach
 Christoph Zeibig
 ----------------
-Johann Gottfried Leuter?
+Johann Gottfried Leuter
 Johann Georg Schöne
 Georg Reisig
 Johann Nicol Wilde
 Johann Christoph Schmidt
 Johann Melchior Lindner
-Johann Jacob Todte?
+Johann Jacob Lodte
 Andreas Baudisch
 Adam Heinrich Mildner
 Gottfried Frost
@@ -980,13 +981,13 @@ Johann Andreas Wickenhagen
 Georg Caspar Müller
 Sebastian Conrad Lindemann
 Christian Thieme
-Johann Gottfried Knack
+Johann Gottfried Knackfuß
 Johann Michael Höle
-? König
+Gottfried König
 ----------------
 Johann Daniel Krüm?
 Johann Christoph Emrich
-August ?
+August? Kreysig
 1744
 Johann Georg Gregen
 Johann Michael ?
@@ -996,8 +997,8 @@ Christian Gerhard
 Johann Georg Jacob
 Christian Petersen
 ----------------
-? Golde?
-Joachim Friedrich Megen
+Friedrich August Golde
+Joachim Friedrich Meyen
 Johann Gottlob Haucke
 Johann Sperling
 Johann Christian Walther
@@ -1005,26 +1006,26 @@ Johann Gottlieb Beyer
 Johann Georg Querner
 Heinrich Rudolph Gottlob Buchner
 Johann Michael Hauptmann
-Georg Thädel?
+Georg Nädler
 Friedrich August Golde
 Christian Milde
 ----------------
-Johann Georg Weher?
+Johann Georg Dreher
 Johann Schertze
 Johann Philip Graue
 Johann Georg Zeibich
 Andreas Heße
 Johann Christoph Bauer
 Johann Heinrich Hoffmann
-Johann Friedrich Roßteutscher?
+Johann Friedrich Roßteutscher
 Jacob Hennerling
 Samuel Hule
 Gottfried Lischwitz
 Johann Gottlob Fleischer
 Gottfried Rüdiger
 ----------------
-Johann Gottlob Dose?
-Christian Gottlieb Tichter?
+Johann Gottlob Dose
+Christian Gottlieb Richter
 Christian David Kender?
 Johann Andreas Götze
 Christian Hippe
@@ -1040,25 +1041,25 @@ Johann Gottlob Schröder
 Johann Christoph Bär
 Georg Friedrich Grund
 Johann Georg Fehre
-Carl Heinrich Mehorius?
+Carl Heinrich Mahorius?
 Elias Unger
-? Opitz
-Johann Christian Jenpsch?
+Johann Opitz
+Johann Christian Jentzsch
 Christian Lindner
-Friedrich Daniel Jimpel?
+Friedrich Daniel Jitnzel
 Johann Christian Schneide
 Gottfried Hermann
 ----------------
 Johann Gottfried Lauterbach
 Samuel Frost
-Christian Gottlieb Richter?
-Gottfried Schohbürger
-Christian Friedrich Lykfinger?
+Christian Gottlieb Richter
+Gottfried Schoh
+Christian Friedrich Hyksinger?
 Johann Friedrich Buhlen
 Johann Gottfried Baudisch
-Michael Spering?
+Michael Sperling
 Michael Bucklizsch
-Wilhelm Gottlieb Mathia?
+Wilhelm Gottlieb Mathial?
 Johann Christoph Günther
 ----------------
 Johann Mattheus Braune
@@ -1084,8 +1085,8 @@ Jacob Andreas Klitzsch
 Johann Carl Haße
 Johann Georg Hule
 Gottlob Greger
-Johann Nicol Kunze?
-Johann David Riesch?
+Johann Nicol Lunze
+Johann David Riesch
 Heinrich Gottlob Kürbis
 Johann Christoph Dohne
 Johann Christian Noack
@@ -1102,7 +1103,7 @@ Johann Samuel Patzig
 Johann Gottlob Schneider
 Johann Caspar Dam
 Johann Gottlieb Meister
-Christian Gottlieb Polleck?
+Christian Gottlieb Pollet
 ----------------
 Johann Georg Mauckisch
 Johann Christoph Mehner
@@ -1121,7 +1122,7 @@ Peter Kühn
 Gottfried Hilmann
 Johann Christian Gloß
 Johann Georg Köhler
-Johann Bernstein?
+Johann Bernstein
 Christoph Hule
 Georg Zigner
 Gottlob Benjamin Hendler?
@@ -1129,8 +1130,8 @@ Johann Georg Schmidt
 Johann Adam Höle
 Carl August Günther
 Johann Friedrich Eichler
-Johann August Lackerig?
-Johann Christian Schütz?
+Johann August Ludwig Bückner
+Johann Christian Schuster
 Johann Georg John
 ----------------
 Gottfried Stenzel
@@ -1139,11 +1140,11 @@ Martin Freywald
 Johann Georg Höle
 Johann Heinrich Schwabe
 Johann Christian Breitmann
-Wilhelm Friedrich Thalacker?
+Wilhelm Friedrich Thalacker
 Christoph Neubert
 Johann Georg Lippert
 Johann Friedrich Gerbitz
-Johann Gottlieb Friedrich?
+Johann Gottlieb Friedrich
 Samuel Zeibich
 Samuel Hebig
 Gottfried Böttcher
@@ -1156,7 +1157,7 @@ Christian Giebe
 Adam Kretzschmer
 Friedrich Gottlob Didelich
 Theodor Braun
-Johann Simon? Brot?
+Johann Simon Brot?
 Johann Joseph Kahlfeld
 1748
 Johann Georg Zeibig
@@ -1173,31 +1174,31 @@ Johann Gottfried Nitzschner
 Johann Gottlob Heyne?
 Johann Gottfried Metzner
 Christian Medicke
-Johann Gottfried Pedhig?
+Johann Gottfried Pezig
 Samuel Bär
-Christoph Kädner?
+Christoph Kadner
 ? ?
-Johann Adam Körbick?
+Johann Adam Körbitz
 Martin Klotzsche
 Samuel Probst?
 ----------------
 Johann Christoph Hockel
-David Gottlob Hermann?
+David Gottlob Hartmann
 Christian Adolph Zürch
 Johann Gottfried Bär
-Johann Gottfried Nßolt?
-Leberecht Immenanuck?
+Johann Gottfried Wolf
+Leberecht Immenuel Hoppe
 Gottfried Rüdiger
 Johann Georg Holfeld
-Samuel Siegel?
+Samuel Siegel
 Christian Gottlieb Reinhold
 Christoph Öhme
 Elias Fischer
 Christoph Beyer
 ----------------
-Johann Gottfried Heck?
+Johann Gottfried Hacke?
 Johann Schuster
-Johann Georg Wegner?
+Johann Georg Wagner
 1749
 Johann Georg Eger
 Johann Ernst Hermann
@@ -1206,13 +1207,13 @@ Samuel Stenzel
 Johann Georg Schäffler
 Johann Georg Bär
 Johann Joseph Koschmann
-Johann Christoph Schnebel?
+Johann Christoph Schnabel
 Johann Georg Lehmann
 Georg Hamann
 ----------------
-Joseph Schemron?
+Joseph Schimron
 Johann Georg Hänel
-Johann Christian Matern?
+Johann Christian Matern
 Johann Christian Nise
 Johann Georg Keyser
 Johann Andreas Guth
@@ -1224,43 +1225,43 @@ Johann Michael Köhler
 ----------------
 Johann Philip Christian Nöll
 Samuel Zeibig
-Samuel? Hule
+Samuel Hule
 Johann Paul We?
 Georg Hahn
-Valentin Irnnst? Schimror?
+Valentin Ernst Schimron
 Johann Sickert
 Heinrich Leberecht Richter
 Christian Samuel Hoffmann
-Johann Gottfried Heufe?
-Adolph? ?
+Johann Gottfried Haufe
+Adolph August S?
 1750
 Johann Georg Maukisch
-Samuel Bakmann?
+Samuel Bakmann
 ----------------
 Christoph Siegmund Bauer
 Johann Gottlob Helmer
 Johann Georg Köhler
 Johann Michael Höle
-Johann Christoph Krathgesesener?
+Johann Christoph Drath?
 Johann Samuel Trempler
 Johann Otto
 Johann Andreas Vetter
 Johann Friedrich Christian Stein
-Johann Christian Klecksch?
-Johann Böß?
+Johann Christian Kretzschmer
+Johann Böß
 Christian Gottlob Bergeld?
 Andreas Klein
 Jacob Friedrich Lehmann
 Johann Christian Löh?
 ----------------
 Johann Georg Gregorius
-Mattheus Servetius?
+Mattheus Servatius Heischbein
 Johann Michael Wagner
 Johann Georg Lindner
 Johann Christian Naumann
-Gottwald? Friedrich Haußmann?
+Gottwald? Friedrich Haußmann
 Georg Frist
-Abraham Teuchmann?
+Abraham Tzeuchmann
 Gottfried Barmann
 1751
 Johann Georg Rüdrich
@@ -1275,9 +1276,8 @@ Johann Gottlieb Kröfel
 Martin Lange
 Johann Georg Heitz
 Johann Samuel Berghold
-Gottfried Heinrich Hann?
-Christian Hannschausel?
-Christian Leithold?
+Gottfried Heinrich Hann
+Christian Leithold
 Gottfried Venus
 Christian Friedrich Leising?
 Johann Georg Frost
@@ -1285,31 +1285,31 @@ Christoph Hule
 Georg Friedrich Riedel
 Johann Gottfried Grimmer
 ----------------
-Christian Benjamin Leube?
+Christian Benjamin Laube
 Johann Heinrich Otto Sollenius
 Samuel Patzig
 Michael Gottlob Hörich
 Georg Benedikt Megel
-Johann Franz Zöser?
+Johann Georg Löser
 Christian Gottlieb Görcke
-Christian Gottfried Ellinger?
+Christian Gottfried Eltzinger?
 Christian Wagner
 Johann Georg Göhle
-Johann Balthasar Haucke?
-Georg Pemrig?
+Johann Balthasar Haucke
+Georg Pömrig
 Peter Höle
-Christian Gotthelf Badthel?
+Christian Gotthelf Bedthel?
 Johann Christian Rober
 ----------------
 Heinrich Georg Jennig
 Georg Böhm
-Johann Martin Bünamy?
-? Bär
+Johann Martin Bräunig
+Johann David Bär
 1752
 Johann Samuel Schuster
 Johann Balthasar Hule
-Georg Klozsch?
-Christian Presehl?
+Georg Kopsch?
+Christian Fritzsche
 Johann Georg Schmidt
 Johann Georg Hornof
 Martin Scholze
@@ -1325,7 +1325,7 @@ Johann Gottlob Gensel
 Johann Christian Golde
 Johann Simon Neumann
 Johann Samuel Richter
-Hironimus? Nitzsche
+Gregor Nitzsche
 Samuel Berger
 Gottfried Hübner
 Georg Caspar Richter
@@ -1342,7 +1342,7 @@ Johann Michael Zeibig
 Christian Ferdinand Pröher
 Christian Anton Schütze
 Johann Gottfried Hauptvogel
-Johann Georg Schaide?
+Johann Georg Schneider
 Johann Michael Wohlmann
 ----------------
 Johann Andreas Lehmann
@@ -1359,18 +1359,18 @@ Ernst Gottlieb Lange
 Gregor Rosig
 Johann Friedrich Rother
 ----------------
-Georg Kunze?
+Georg Kunze
 Johann Gottfried Uhlmann
-Peter Ehrenfried Rentzsch?
+Peter Ehrenfried Rentzsch
 Johann Gottlieb Bernstein
-Friedrich Gottlieb Hänßschel?
-Johann Jennz?
+Friedrich Gottlieb Hännßschel
+Johann Franz Freckenstein
 Michael Wilhelm Wecke
 Sebastian Thomas
 Johann Gottfried Kloß
 Johann Christoph Baudisch
 Siegmund Pfitzner
-Johann Adam Thälmer?
+Johann Adam Thürmer
 Johann Christoph Angermann
 Johann Christoph Klingenstein
 ----------------
@@ -1386,7 +1386,7 @@ Johann Georg Hauptmann
 Carl Lauterbach
 Karl Metzner
 Andreas Zeiler
-Gottfried ?
+Gottfried Venus
 Gottfried Jungnickel
 ----------------
 Johann Georg Pietzsch
@@ -1394,9 +1394,9 @@ Friedrich Christoph Schäffler
 Georg Wilhelm Schindler
 Samuel Bär
 Johann Georg Wolf
-Johann Conrad Fritzsche?
+Johann Conrad Fritzsche
 Johann Christoph Schnabel
-Christian Friedrich Wentzel?
+Christian Friedrich Wentzel
 Daniel Schüttig
 Johann Michael Bär
 Johann Georg Naumann
@@ -1407,21 +1407,21 @@ Johann Georg Schafner
 Johann Georg Friedrich
 Johann Christian Patzig
 Gottlob Zeibig
-Johann Georg Gebhardt?
-Johann Georg Mädig?
-Johann Georg Matthäi?
-Christian Benjamin Sandig?
+Johann Georg Gerhard
+Johann Georg Mädiger
+Johann Georg Matthäi
+Christian Benjamin Sandig
 Christoph Ludwig Sultze
 Johann Gottfried John
 Johann Georg Köhler
 Christoph Richter
-Christoph Klänich?
+Christoph Klänich
 ----------------
 Christian Andreas Wilhelm
 Georg Wagner
 Johann Gottfried Busch
-Johann David Könich?
-Johann Gottlieb Hernisch?
+Johann David Könich
+Johann Gottlieb Harmisch
 Justus Gottfried Löwe
 Johann Gottlob Dorn
 1755
@@ -1436,19 +1436,19 @@ Johann Samuel Lauterbach
 Johann Georg Schmidt
 Johann Carl Hartmann
 Ferdinand Gottlob Senfer?
-Johann Georg Forcker?
+Johann Georg Forcker
 Christian Richter
 Johann Georg Schärfe
 Johann Gottlob Höfer
-Gottfried Schde?
+Gottfried Schade
 Christian Gottlieb Schneider
 Elias Engler
-Gottlieb Friedrich Stat?
+Gottlieb Friedrich Stock
 Samuel Golde
 ----------------
 Johann Gottlob Suppe
 Johann Gottfried Pohle
-Johann Matschen?
+Johann Matsche
 Johann Gottlob Künerling?
 Johann Georg Zeibig
 Christian Friedrich Böhme
@@ -1480,12 +1480,12 @@ Gottfried Lauterbach
 Christian Saupe
 Johann Gottlob Mauckisch
 Johann David Roch
-Christoph Kirsten?
+Christoph Kirsten
 Gottfried Taumer?
 Christoph Necke
-Gottfried Hammek?
+Gottfried Hammer
 Christoph Fleumig
-Johann Georg Ring?
+Johann Georg Venus
 ----------------
 1757
 Gottfried Fritzsche
@@ -1494,7 +1494,7 @@ Johann Gottfried Riehle
 Christian Gießmann
 Andreas Schärfe
 Johann Christian Fehßner
-Johann Christian Leheuner?
+Johann Christian Querner
 Johann Gottfried Lange
 Johann Christoph Bär
 Johann Christoph Häbig
@@ -1505,7 +1505,7 @@ Johann Georg Klingmer
 Gottfried Schultz
 Johann Georg Baudisch
 Samuel Reißig
-Johann Gottlob S?
+Johann Gottlob Saare
 1758
 Gottfried Venus
 Christian Ryßel
@@ -1532,7 +1532,7 @@ Christian Hilmann
 1759
 Christoph Schöne
 Johann Christoph Saare
-Johann August Schimmer?
+Johann August Schimron
 Gottfried König
 Gottlob Gregorius
 Gottfried Golde
@@ -1546,7 +1546,7 @@ Christian Hängen
 Christoph Lehnert
 Johann Gottfried Baudisch
 Johann Christian Förster
-Gottfried ?
+Gottfried Feller
 Johann Christian Wagner
 Johann Georg Gromann
 Johann Eincke
@@ -1554,7 +1554,7 @@ Johann Georg Roch
 ----------------
 Johann Gotthold Heyne
 Johann Gottfried Walther
-Johann Georg Giedsch?
+Johann Georg Gerhardt
 Johann Christoph Höne
 1760
 Johann Georg Drobisch
@@ -1562,14 +1562,14 @@ Johann Friedrich Köhler
 Christoph Reißig
 Johann Gottlob Mädiger
 Johann Michael Schubert
-Johann Gottlob Gäbel?
+Johann Gottlob Gäbel
 Johann Gottlob Taschenberger
 Johann Georg Thalacker
 ----------------
 Johann Gottlob Lehmann
 Samuel Ludwig
 Johann Georg Schmidt
-Plah? Göde
+Blasius Höle
 Johann Georg Naumann
 Johann Martin
 Johann Paul Hähnel
@@ -1595,7 +1595,7 @@ Johann Christoph Schmidt
 Johann Georg Patzig
 Gottfried Schneider
 Christoph Hennig
-Johann Gottfried ilber?
+Johann Gottfried Silbermann
 Johann Peter Ditrich
 Christian Gotthelf Hiemann
 Gottfried Seidel
@@ -1645,14 +1645,14 @@ Johann Georg Gregorius
 Johann Christoph Ludewig
 Johann Christian Patzig
 Valentin Franz Schimror
-Martin Perling?
+Martin Sperling
 Benjamin Gottlob Schneider
 Gerhard Friedrich Hachmeister
 ----------------
 Johann Theodor Lange
 Johann Georg Sachse
 Johann Gottfried Schuster
-Johann Kolbe?
+Johann Kotte
 Wolf Heinrich Pitz
 Johann Gottlob Niese
 Hans Georg Dam
@@ -1669,9 +1669,9 @@ Georg Friedrich Zahn
 Johann Gottlieb Jentzsch
 Johann Gottfried Mühlbach
 Johann Christian Winckler
-Johann Gottfried Ulbrich?
+Johann Gottfried Ulbrich
 ----------------
-Adam Jacob Fieck?
+Adam Jacob Finck?
 Johann Gottfried Lehmann
 Johann Gottlieb Kühnel
 Gottlob Wagner
@@ -1680,40 +1680,40 @@ Johann Samuel Frost
 Johann Gottlob Schimron
 Johann Christian Kepler
 Johann Christoph Hule
-Johann Christian Schüler?
+Johann Christian Schiller
 Johann Michael ?
 ----------------
-Johann ?
+Johann Gott? Patzig
 Johann Erxleben
 Johann Samuel Schütze
-Carl Friedrich Fleischer?
+Carl Friedrich Fleischer
 Samuel Häbig
-Johann Christoph Tidach?
+Johann Christoph Friedrich Fleischmann
 Johann Christian Saupe
 ----------------
-Christian Gäbe?
+Christian Giebe?
 Johann Georg Pözsch
-Johann Gottlieb Seyffert?
-Johann Samuel ette?
+Johann Gottlieb Seyffert
+Johann Samuel Leschke
 1765
 Johann Gottfried John
 ----------------
 Johann Georg Gerhardt
 Johann Samuel Frost
-Johann David Kluge?
+Johann David Kluge
 Johann Georg Belmann
 Johann Georg Vetter
 Christian Gottfried Wöhlermann
 Johann Andreas Große
-Johann David Schlartze?
+Johann David Scherze
 Gottlob Willkommen
 Johann Christian Ludwig
 ----------------
 Johann Daniel Naumann
-Johann Georg Häinitze?
+Johann Georg Häinicke
 Rudolph August Kohl
-Johann Michael Kuschee?
-Johann Balthasar Saupe?
+Johann Michael Kuschee
+Johann Balthasar Saupe
 Heinrich Adolph Veit
 Johann Gottfried Mädger
 Johann Gottlieb Rosencrantz
@@ -1723,16 +1723,16 @@ Gottfried Lauterbach
 Johann Christian Ryßel
 1766
 Johann Samuel Adam
-Wilhelm Gottfried Zaßler?
+Wilhelm Gottfried Zschaßler
 Johann Gottlob Angermann
-Johann Georg Fälber?
+Johann Georg Fäller
 Johann Georg Schertze
 Gottlieb Zäurich?
 ----------------
 Johann Gottlob Meister
 Johann Gottlob Ludwig
 Johann Andreas Höle
-Johann Gottfried Hiermann?
+Johann Gottfried Hermann?
 Carl Gottlieb Wagner
 Johann Georg Pfizner
 Johann Christoph Kohle?
@@ -1740,7 +1740,7 @@ Johann Christoph Kohle?
 Johann Christian Wlachowsky
 Johann Georg Bär
 Johann Georg Angermann
-Paul? Lauterbach
+Paul Lauterbach
 1767
 Georg Findeisen
 ----------------
@@ -1749,13 +1749,13 @@ Gottfried Leschke
 Johann Gottlieb Böhme
 Gottlob Höne
 Andreas Saupe
-Johann Christian Zbschner?
-Johann Gottfried Fribel?
+Johann Christian Ebschner
+Johann Gottfried Friebel
 ----------------
 Samuel ?
 Daniel Rupricht
 Erdmann Friedrich Erik Zien?
-Johann Christoph Wagen?
+Johann Jacob Wirthgen?
 Johann Andreas Mock
 Christoph Hicke
 Johann Gottlob Werner?
@@ -1765,15 +1765,15 @@ Johann Michael Metzner
 ----------------
 Johann Georg Beerbaum
 Christian Benjamin Söbner
-Christ? Schmidt
-Gotthard Friedrich Keuher?
-Salomon Friedrich Str?
-Johann Gottlob Tümel?
-Johann Samuel Adam?
+Christian Ernst Schmidt
+Gotthard Friedrich Keucher
+Salomon Friedrich Strau?
+Johann Gottlob Tämel
+Johann Samuel Adam
 1768
-Friedrich Carl Eichler?
+Friedrich Carl Eichler
 ----------------
-Samuel Koiz?
+Samuel Rosig
 Johann Christian Lange
 Georg Christoph Hunger?
 Johann Georg Trepte?
@@ -1782,19 +1782,19 @@ Johann Gottfried Fähre
 Melchior Lindner
 Johann Michael Baudisch
 Samuel Niese
-Johann Wilhelm Böringer?
+Johann Wilhelm Böringer
 Gottfried Näder
 Johann Georg König
 ----------------
 Johann Christian Schultz
-Johann Gottlieb Nimmar?
+Johann Gottlieb Stimmar
 Johann Bertram Seidel
 Johann Michael Gärtner
 Georg Friedrich Schmidt
-Johann Georg Schitrich?
+Johann Georg Schitrich
 Johann Gottlob Ludwig
 Johann Adolph Mau
-Johann Friedrich Freund?
+Johann Friedrich Freund
 Gottlob Gregorius
 Samuel Nacke
 ----------------
@@ -1802,30 +1802,30 @@ Samuel Nacke
 Christoph Gerhardt
 Johann Georg Bär
 Samuel Knei?
-Johann Gottfried Goher?
-Johann? Stohn?
+Johann Gottfried Golde
+Johann Gottfried Stohn
 Abraham Hole
 Johann Eichenfle?
 Johann August Riler?
-Samuel Häbig?
+Samuel Häbig
 ----------------
 Johann Christoph Ulamann
 Christian Leberecht Bäyer
 Johann Andreas Kägel
 Sebastian Franck?
-Johann Georg Leschke?
+Johann Georg Leschke
 Carl August Lauer
 Johann Gottfried Reißig
-Wolfgang Zeiner?
+Georg Wolfgang Zeiner
 ----------------
 Johann Georg Richter
 Johann Heinrich Walther
-Johann Georg Höle?
-Johann Georg Patzig?
+Johann Georg Höle
+Johann Georg Patzig
 1770
-Johann Gottlob Nacke?
-Christian Gürth?
-Johann Gottfried Höle?
+Johann Gottlob Nacke
+Christian Gierth
+Johann Gottfried Höle
 Johann Heinrich Neubing?
 Gottfried Gregorius
 Johann Gottlieb Schmidt
@@ -1833,16 +1833,16 @@ Johann Gottlieb Schmidt
 Christoph Kreye
 Abraham Golde
 Gottfried Kreye
-Johann Christian Fude?
+Johann Christian AmEnde?
 Johann Georg Richter
 Johann Friedrich Gottlob Schmidt
 1771
-Carl Siegmund Lohmann?
+Carl Siegmund Lormann
 ----------------
 Johann Gottlob Patzig
 Samuel Lauterbach
 Johann Samuel Kolbe?
-Ehrenfried Porhen?
+Ehrenfried Portner
 Johann David Lauterbach
 Blasius Höle
 Johann Conrad Hermann
@@ -1852,45 +1852,45 @@ Elias Heinrich Daus?
 ----------------
 Johann Georg König
 Johann Gottlob Golde
-Johann Christoph Kretz?
+Johann Christoph Knackfu0
 Johann Friedrich Philipp
 Johann Gottlieb Schreher
 1772
-Johann Christian Ze?
+Johann Christian Dize
 Johann Gottlob Jenzsch
 ----------------
-Johann Georg Kläpfer?
+Johann Georg Kläpfer
 Johann Christoph Müller
-Johann Georg Profewer?
+Johann Georg Prost
 Johann Christian Friedrich
 Johann Gottlob Angermann
 Johann Carl Heinrich Patzsch
-Johann Christoph Leusche?
+Johann Christoph Leuschke
 ----------------
-Johann? ?
+Adam Heinrich Mildner
 Johann Christian Pezold
 Johann Christian Fichter
 Wilhelm ?
 Johann Gottfried Schultz
 Johann Christian Günther
-Johann Rettetier?
-Christian Gottfried Siegmund Richter?
+Johann Renzsch
+Christian Gottfried Siegmund Richter
 Johann Georg Jacob
-Gotthelf? Hennig
+Johann Gotthelf Hennig
 ----------------
 1773
 Johann Gottfried Wagner
-Samuel Harsel?
-Johann Gottlob Höle?
+Samuel Harfeld
+Johann Gottlob Höle
 Johann Christian Bär
 Johann Birnstein
 August Gottlob Gritz?
-Michael Renzsch?
+Michael Renzsch
 ----------------
 Johann Gottfried Eichler
 Johann Gottlob Bär
 Johann Gottfried Bai?
-Christian Raselig?
+Christian Rafeld
 Johann Heinrich May
 x
-Johann? Schmidt
+Johann Gottfried Schmidt
