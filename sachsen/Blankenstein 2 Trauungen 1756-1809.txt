@@ -1,15 +1,16 @@
 Blankenstein (Buch 2)
-Trauungen 1756-1799
+Trauungen 1756-1809
 https://www.archion.de/de/viewer/churchRegister/281020?pageId=38765994
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stunden
+Erstellt in ca. 2 Stunden
 Mai 2023
 Juni 2023
 August 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -453,3 +454,136 @@ Johann Martin Fischer
 Johann Gottlieb Ludwig
 Gotthelf Wilsdorf
 Johann Gottlob Rüdiger
+1800
+Johann Gottfried Hahn
+Johann Gottlieb Tittmann
+Johann Gotthelf Hänsel
+----------------
+Johann Gottlieb Schulze
+Johann Georg Kühne
+Johann Gottfried Teichmann
+Johann Gottfried Müller
+Johann Ehrenfried Meißner
+----------------
+1801
+Johann Georg Spaarmann
+Johann Jacob Kieslich
+Carl Gottlob Ranft
+Johann Gottlieb Tamme
+Johann Georg Guncke
+Johann Gottfried Wachs
+Johann Gottlieb Tamme
+----------------
+Johann Gottlob Fischer
+Christian Gottlieb Steude
+1802
+Johann Gottlob Pötzsch
+Johann Gottlieb Poppe
+Johann David Richter
+Johann Gottlieb Körner
+Johann Schmidt
+Johann Gottfried Barzsch
+----------------
+Carl Gottlob Pötzsch //korrigiert
+Johann Georg Schubert
+Johann Christoph Budick
+Carl Gottlob Parthitz?
+Johann Christian Kirsten
+Carl Gottlieb Zeiske
+Johann Gottlieb Herhold
+Gottfried Schönert
+----------------
+1803
+Johann Michael Limbach
+Johann Gottfried Philipp
+Johann Gottlieb Wolf
+Karl Gotthelf Wittich
+Johann Gottlob Röhr
+Johann Gottlieb Schultze
+Karl Gottlieb Tittmann
+Karl Friedrich Bellmann
+Karl Gottlob Schößig
+----------------
+Gottlob Sonntag
+Johann Gottlob Kippe
+Johann Gottlob Kieslich
+Johann Friedrich Schwäbe
+1804
+Carl Gotthelf Tittmann
+Johann Gottlob Tribel
+Johann Gotthelf Ranft
+Johann Gottfried Johne
+Johann Gotthelf Fischer
+----------------
+Johann Gottlob Strohbach
+Christian Hänsel
+Johann Gottlieb Ritter
+Johann Gottlieb Golzsch
+Johann Michael Rüdiger
+Johann Gottlob Müller
+Carl Gottlob Bormann
+1805
+Johann Michael Fischer
+----------------
+Johann Gottlieb Lucas
+Johann Gottlieb Rost
+Johann Gottfried Thimmich
+Johann Gotthelf Möbius
+Carl Gottlieb Ebert
+Johann Gottlieb Steude
+Johann Gottlieb Grellmann
+Johann Gottlieb Wittig
+Johann Gottlieb Grellmann
+Carl Gottlieb Reif
+----------------
+Johann Gottlob Kirsten
+Johann Christoph Mosch
+Johann Gottfried Schubert
+1806
+Johann Gottlob Kirsten
+Johann Gottlieb Georgius
+Johann Gottfried Jänich
+Johann Gottlob Schubert
+----------------
+1807
+Johann Gottlieb Ranzsch
+Johann Gottlob Lommatzsch
+Johann Gottlob Pietzsch
+Johann Georg Hermann
+Christoph Günther
+Johann Gottfried Pickert?
+Johann Gottlieb Ditrich
+Johann Gottlieb Birckner
+Johann Gottlob Becker
+Carl Gottfried Seiffert
+----------------
+1808
+Johann Gottlieb Börner
+Carl Gottlob Ditrich
+Johann Gottfried Fehrmann
+Carl August Funke
+Johann Georg Wätzel
+Johann Michael Ditrich
+Johann Gottlob Spaarmann
+Johann Gottlieb Leberecht Grahl
+Johann Gottlob Schierz
+Carl Gottlob Bäßler
+Johann Gottlieb Schirmer
+Johann Gottlieb Wustlich
+----------------
+Johann Gottlob Kittler
+Johann Gottfried Grahl
+Carl Gottlob Hetl
+Christian Gottlieb Franke
+Johann Gottfried Tamme
+1809
+Johann Gottlieb Fehrmann
+Johann Christian Naumann
+Johann August Pötzsch
+Christian Gottlieb Barth
+----------------
+Johann Gottlob Kleber
+Carl Gottlieb Rüdiger //korrigiert
+Johann Adolph Dietze
+Johann Christian Goltzsch
+Johann Gottlieb Uhlmann
