@@ -1,5 +1,5 @@
 Gröbern (Buch 2)
-Trauungen 1777-1799
+Trauungen 1777-1809
 https://www.archion.de/de/viewer/churchRegister/282506?pageId=39020782
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,7 +10,9 @@ mittlerer Teil: Jessen
 hinterer Teil: Rotzschberg
 
 
+Erstellt in ca. 0,5 Stunden
 Mai 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -115,7 +117,65 @@ Johann Christian Fritzsche
 Christoph Lehmann
 Carl Zwintscher
 Johann Gottlieb Schlechte
----------------- x158
+----------------
+1800
+Carl Leberecht Stelzner
+Carl Friedrich Brand
+Johann Christian Fehrmann
+Christian Christian Grül
+----------------
+1801
+Gottfried Trobisch
+Johann Gotthelf Fichtner
+1802
+Johann Gottlieb Gutsche
+Carl Gottlob Hennicke
+Johann Gottlieb Rollbuch
+----------------
+Samuel Vetter
+Johann Gottfried Klotzsche
+Johann Gottlob Wolf
+Johann Gottlob Heinze
+----------------
+1803
+Samuel Schröter
+Johann Gottfried Hildebrand
+Johann Georg Heller
+1804
+Johann Gottlieb Rothe
+Christian Gottlob Vetter
+----------------
+Johann Gotthelf Klunker
+1805
+Johann Gottfried Heyne
+Johann Gotthelf Müller
+Johann Gotthelf Fichtner
+Johann Gottlob Taggeselle
+----------------
+1806
+Johann Gottlob Müller
+Johann Christian Traugott Stelzner
+1807
+Johann Gottlieb Fichtner
+Johann Gottfried Boege
+----------------
+1808
+Johann Gottlieb Haberburg
+Johann Adam Grülle
+Johann Gottlob Stelzner
+Johann Gottfried Grülle
+Johann Gottlieb Wachsmuth
+Johann Gottlieb Schöne
+Johann Christian Eichler
+Christian Gottlob Beulich
+----------------
+1809
+Johann Christian Fichtner
+Carl Heinrich Schmidt
+Johann Gottlieb Wolf
+Johann Gottlob Banke
+Johann Gottlieb Rost
+---------------- x150
 1777
 1778
 1779
@@ -185,7 +245,44 @@ Johann Gottlob Leuschner
 Johann Gottlieb Fichtner
 Christian Meyer
 Johann Gottfried Beulich
----------------- x79
+----------------
+1800
+Gottfried Meyer
+Johann Gottlob Leuteritz
+Johann Gottfried Leuteritz
+Johann Gottlieb Schulze
+----------------
+1801
+1802
+Johann Christian Leuteritz
+Johann Gottlieb Seydlitz
+Johann Georg Naumann
+----------------
+1803
+Johann Gottfried Krause
+Johann Gottfried Fuhrmann
+1804
+Johann Gottfried Wiedemann
+1805
+Johann Christian Krause
+David Hauswald
+----------------
+Carl Gottfried Seyrich
+Johann Gottlob Trobisch
+Johann Gottfried Rabes
+1807
+Johann Heinrich Bertuch
+Johann Christian Klunker
+----------------
+1808
+Johann Gottlob Haase
+Johann Gottlob Berge
+1809
+Johann Gottlieb Beulich
+Christian Traugott Iltzschner
+Johann Gottlob Bretschneider
+Johann Gottlob Krause
+---------------- x74
 1778
 Gottfried Rensch
 1782
@@ -205,3 +302,16 @@ Johann Adam Schlehoser
 ----------------
 Johann Adam Schlehoser
 Johann Gottfried Schröter
+1800
+Johann Gottfried Kahlschmidt
+1801
+1802
+1803
+1804
+1805
+----------------
+1806
+Johann Samuel Menzel
+1807
+1808
+1809

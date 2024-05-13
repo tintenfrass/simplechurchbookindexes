@@ -1,5 +1,5 @@
 Deutschenbora (Buch 2)
-Trauungen 1757-1799
+Trauungen 1757-1800
 https://www.archion.de/de/viewer/churchRegister/281067?pageId=38776359
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Erstellt in ca. 1 Stunde
 Mai 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -368,3 +369,9 @@ Johann Christoph Thiese
 Johann Gottlob Müller
 ----------------
 Johann Christian Haubold
+1800
+Gottlieb Morbus
+Samuel Dietrich
+Gottlieb Rappe
+Johann Gottlob Pollmann
+Johann Gottfried Löwe

@@ -1,5 +1,5 @@
 Dörschnitz (Buch 4)
-Trauungen 1742-1799
+Trauungen 1742-1800
 https://www.archion.de/de/viewer/churchRegister/282499?pageId=39019547
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -7,6 +7,7 @@ Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Erstellt in ca. 1,5 Stunde
 März 2023
 Mai 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -435,3 +436,8 @@ Heinrich Gotthelf Piltz
 Johann Gottfried Reiche
 Johann Heinrich Christoph Halve
 Johann Christian Ditrich
+1800
+Johann Christian Thürmer
+Georg Gottlieb Thiele
+Johann August Leberecht Qwinger
+Johann Georg Hartz

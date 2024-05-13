@@ -1,15 +1,19 @@
 Großdobritz (Buch 1)
-Trauungen 1638-1799
+Trauungen 1638-1809
 https://www.archion.de/de/viewer/churchRegister/282509?pageId=39021453
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
+
+Teil 1: Großdobritz
+Teil 2: Marschau
 
 
 Erstellt in ca. 1,5 Stunden
 Januar 2023
 Februar 2023
 Mai 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -647,5 +651,103 @@ Johann Gottlieb Tamme
 Christian Laßig
 Johann Gottfried Bärwald
 Johann Gottfried Adam
-Johann Gottlieb Lachmann?
+Johann Gottlieb Zachmann
+Carl Zwintscher
+----------------
 Johann Gottlieb Schlechte
+----------------
+1800
+Johann Gottfried Kahlschmidt
+Johann Gottlob Leuteritz
+Johann Christian Zocher
+Johann Gottfried Jentsch
+Gottfried Schulze
+----------------
+Johann Gottfried Niese
+Johann Christoph Mißbach
+Johann Gottfried Inger
+----------------
+1801
+Johann Traugott Rühle
+Johann Gottlob Mißbach
+Johann Gottfried Mißbach
+Johann Gottlob Nacke
+Johann Gottlieb Mammitzsch
+----------------
+Johann Christian Hempold
+1802
+Johann Georg Mißbach
+Johann Gottfried Trobisch
+Johann Gottfried Naacke
+Samuel Gommlich
+----------------
+Gottfried Richter
+Johann Gottfried Niese
+Johann Christian Sachse
+----------------
+1803
+Johann Gottfried Weser
+Johann Gottlob Marx
+Friedrich Wagner
+Johann Christian Schlage
+Christian Heinrich Wagner
+Johann Gottlieb Bahrmann
+----------------
+1804
+Johann Gottlieb Seyrich
+Johann Gottlieb Dehnert
+Johann Michael Weser
+----------------
+1805
+Christian Gottlob Gruhle
+Friedrich Christian Stumpf
+Johann Gottfried Thiele
+Johann Gottfried Burckhart
+Johann Gottlob Taggeselle
+----------------
+Carl Gottlob Grafe
+Johann Gottlieb Sachse
+1806
+Johann Gottlieb Schnabel
+Johann Gottfried Richter
+----------------
+1807
+Johann Christian Haase
+Johann Georg Haase
+Johann Gottlob Klöditzsch
+Johann Georg Möbius
+Gottlieb Hildebrand
+Carl Gottlieb Richter
+----------------
+1808
+Johann Gottlob Clemenz
+Johann Gottfried Bährisch
+Christian Jacob
+Johann Traugott Thiele
+Friedrich August Wächter
+----------------
+1809
+Johann Gottlob Rostig
+Johann Christian Fichtner
+Johann Gottlieb Nordeisen
+Johann Gottlieb Wolf
+Johann Gottlob Weser
+Johann Gottlob Zocher
+----------------
+Johann Christian Tutzsch
+Johann Gottfried Niese
+Johann Gottfried Bahrmann
+---------------- x109
+1799
+Johann Gottfried Bärwald
+1800
+1801
+1802
+1803
+1804
+Johann Gottlob Kührig
+1805
+1806
+1807
+1808
+1809
