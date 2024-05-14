@@ -1,5 +1,5 @@
 Heynitz (Buch 3)
-Trauungen 1780-1799
+Trauungen 1780-1809
 https://www.archion.de/de/viewer/churchRegister/282535?pageId=39027344
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -15,8 +15,10 @@ Der Index ist nicht chronologisch sondern entspricht der Reihenfolge im Buch. Es
 -Neuwunschwitz
 
 
+Erstellt in ca. 0,5 Stunden
 Juni 2023
 August 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -69,7 +71,52 @@ Johann Gottlob Schumann
 ----------------
 Johann Gottlob Schumann
 Johann Gottlieb Starcke
----------------- x44
+1800
+Johann Gottlob Müller
+Johann Gottlieb Richter
+Johann Gottlob Fischer
+Johann Gottfried Tzschoche
+1801
+Johann Gottfried Starcke
+Johann Gottfried Lommatzsch
+Johann Gottlieb Hencker
+Johann Gottlob Roßberg
+1802
+Johann Gottfried Tzschoche
+Johann Georg Schubert
+----------------
+1803
+Johann Gottfried Simon
+Johann Gottfried Junghans
+Johann Christoph Greif
+Johann Gottlob Starcke
+1804
+Johann Gottlob Kießlig
+Johann Georg Noak
+1805
+Christian Gottfried Opitz
+Johann Gottlieb Zschoche
+Johann Gottlieb Schmieder
+1807
+Johann Gottlob Jost
+Johann Gottfried Paul
+Johann Gottlieb Brendel
+Johann Gottfried Zschoche
+Gottlieb Siegmund Beuchel
+Johann Gottlob Buchert
+----------------
+Johann Gottlieb Ditrich
+1808
+Johann Michael Ditrich
+1809
+Johann Gottlob Otto
+Johann Gottlob Steude
+Johann Gottlob Schröter
+Johann Gottlob Kühne
+Carl Gottlieb Thielemann
+Johann Gottlob Sachse
+Johann Gottfried Arnold
+---------------- x42
 1781
 Johann Gottlieb Patzig
 1782
@@ -118,7 +165,36 @@ Johann Michael Hoffmann
 Johann Gottlieb Rotsch
 Gotthelf Israel Hencker
 Johann Gottlob Schumann
----------------- x37
+1800
+Gottlob Kuntze
+Johann Gotthelf Weber
+Christian Gottlob Löwe
+Johann Gottlieb Gühne
+----------------
+1801
+Gottlob Wetzig
+1802
+Friedrich Christoph Schirrmeister
+1803
+Johann Traugott Richter
+Johann Georg Friedrich Gleißberg
+Gottlob Walther
+1804
+Gottfried Weber
+Johann Gottlob Zscherper
+1806
+Johann Gottfried Sorge
+Carl Gottlob Vogel
+1807
+Johann Gottlieb Schackert
+Jacob Günther
+Gotthelf Günther
+Georg Gaschütz
+1808
+Gotthelf Schmiedgen
+1809
+Gottlieb Hahn
+---------------- x36
 1781
 Gottlieb Fischer
 Johann Gottfried Franze
@@ -150,7 +226,44 @@ Johann Gottlob Böhme
 1799
 Johann Gottlob Kluncker
 Johann Gottlieb Triebe
----------------- x35
+1801
+Johann Georg Vogt
+Johann Gotthelf Sorge
+Joseph Dachsel
+Johann Christian Gottfried Schmitzky
+1802
+Johann Gotthelf Starcke
+Johann Friedrich Hoffmann
+Johann Gottfried Starcke
+Johann Gottlieb Starcke
+Friedrich Christian Funcke
+----------------
+1803
+Karl Gottlob Hoffmann
+Johann Gottfried Gläser
+Johann Gottlieb Dietze
+Johann Gottlieb Wustlich
+Carl Gottlob Binning
+1804
+Johann Gottlob Höttzig
+Johann Gotthelf Pöge
+1805
+Johann Gottlieb Schuster
+Johann Gottfried Ackermann
+Johann? Heinrich Schwabe
+1806
+Johann Christoph Blasius
+Johann Gottfried Sorge
+1807
+Johann Gottlieb Lommatzsch
+1808
+Johann Gottlob Kluncker
+----------------
+Johann Christoph Wachsmuth
+Johann Gottlieb Leberecht Lotze
+1809
+Christian Gottlob Höltzig
+---------------- x33
 1782
 Johann Georg Döring
 1783
@@ -180,7 +293,29 @@ Johann Gottlob Jähngen
 Johann Georg Heumann
 1799
 Gottlob Clauß
----------------- x20
+1801
+Johann Gottlieb Wetzel
+1802
+Johann Gotthelf Starcke
+Johann Gottlieb Albrecht
+Johann Gottlieb Winckler
+Johann Gotthelf Kost
+1803
+Johann Gottfried Gebhardt
+1804
+Johann Gottlieb Lommatzsch
+Gottlob August Haymann
+Johann Gottlob Wetzel
+1805
+Johann Gottfried Wetzel
+----------------
+Johann Gottlob Ullrich
+1806
+Gottlieb Scheffler
+1808
+Christian Spargen
+Johann? Gottlieb Kühn
+---------------- x19
 1787
 Hans Georg Schubert
 1792
@@ -193,6 +328,10 @@ Gottlob Friedrich Matthäus
 Johann Christian Döring
 1799
 Johann Gottlob Faust
+1801
+Johann Christian Gottlieb Lange
+1803
+Johann Gottlob Opitz
 ---------------- x13
 1791
 Georg Baum
@@ -201,3 +340,17 @@ Johann Gottfried Lehmann
 Johann Gottfried Mierisch
 1797
 Johann Friedrich August Müller
+1800
+Johann Gottlieb Mietsch
+1801
+Johann Gottlieb Möbius
+1803
+Johann Gottlieb Hermann
+1804
+Johann Gottlieb Vogt
+----------------
+1808
+Johann Gottlob Möbius
+Johann Gottfried Benedix
+1809
+Johann Heinrich Möbius

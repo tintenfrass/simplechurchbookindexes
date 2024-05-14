@@ -1,15 +1,16 @@
 Krögis (Buch 8)
-Trauungen 1776-1799
+Trauungen 1776-1809
 https://www.archion.de/de/viewer/churchRegister/282580?pageId=39037878
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunde
 Mai 2023
 Juni 2023
 August 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -321,3 +322,234 @@ Johann Gottfried Naumann
 Johann Gottfried Rost
 Johann Georg Richter
 Johann Gottlob Naumann
+----------------
+1800
+Johann Gottlob Naumann
+Christian Wunderlich
+Johann Gottlob Hubrig
+Johann August Ludwig Winter
+----------------
+Johann Gottlob Döring
+Johann Gottlieb Zschoche
+Johann Gottfried Gast
+Johann Georg Lehmann
+Johann Paul Barth
+----------------
+Daniel Begenau
+Johann Gottlieb Panier
+Gottlieb Rappe
+Christian Gottlieb Kirchbach
+Christian Holz
+----------------
+Johann Gottfried Götze
+Johann Georg Gapisch
+Johann Gottlob Petermann
+Johann Gottlob Neidhardt
+----------------
+1801
+Johann Gottfried Wiesner
+Johann Gottlieb Scheunert
+Johann Michael Leonhard
+Carl Gottlieb Kolbe
+----------------
+Johann Friedrich Saran
+Johann Gottlob Zscherper
+Johann Gottlob Möler
+Gotthelf Clauß
+Johann Gottlob Kirsten
+----------------
+Johann Gottlob Wackwitz
+Johann Michael Teichgräber
+Johann Gottlob Wackwitz
+----------------
+1802
+Johann Christian Zschoche
+Johann Gottlob Lantzsch
+Gottfried Lose
+Johann Gottfried Böhme
+----------------
+Johann Gottfried Zschieber
+Johann Gottfried Petermann
+Johann Christian Appel
+Johann Gottfried Grübler
+----------------
+Johann Gottlob Hanke
+Johann Christoph Hempel
+Johann Georg Seibig
+----------------
+Johann Gottfried Sprößig
+Johann Gottlob Roßberg
+Johann Gottlob Lommatzsch
+Gottfried Ficke
+----------------
+Johann Gottlob Lutze
+Johann Gottfried Löbe
+Carl Christlieb Friedrich
+Johann Gotthelf Kost
+----------------
+1803
+Johann Traugott Richter
+Johann Gottlob Thürmer
+Johann Gottfried Thieme
+Johann Gottlieb Weber
+----------------
+Johann Gottfried Lehmann
+Christian Carl Heynemann
+Johann Heinrich Vetter
+Gottfried Muschter
+----------------
+Johann Gottlob Naumann
+Johann Gottlob Erler
+Johann Gottfried Schlicke
+Johann Gottfried Steude
+----------------
+Johann Michael Ludwig
+Johann Andreas Thieme
+Johann Michael Hahnefeld
+Johann Gottlieb Helmuth
+Gottlob Ulbrig
+----------------
+Carl Gottlob Binning
+----------------
+1804
+Johann Gottlieb Hauptmann
+Johann Gottfried Lippert
+Johann Gottfried Löbner
+----------------
+Johann David Wolf
+Johann Carl Gottlieb Benedix
+Johann Gottlieb Lehmann
+Johann Gottlieb Kleeberg
+----------------
+Johann Gottlieb Ihle
+Johann Gottlieb Lutze
+Johann Gotthelf Günther
+Daniel Leberecht Kirbach
+----------------
+Johann Georg Koch
+Johann Gottlob Grübler
+Johann Gottlob Schmiedgen
+Johann Christian Friedrich Faust
+----------------
+Johann Gottfried Lehmann
+Johann Gottfried Lindner
+Johann Gottfried Hölzig
+Johann Gottfried Döring
+----------------
+1805
+Otto Moritz Großöhmigen
+Johann Gottlieb Lommatzsch
+Johann Gottlieb Rost
+----------------
+Gottlieb Hahnefeld
+August Friedrich Jehmlich
+Gottlieb Leberecht Grübler
+----------------
+Johann Samuel Franke
+Johann Gottlob Eulitz
+August Gottlieb Grumpelt
+----------------
+Johann Michael Illgen
+Johann Gottlieb Kleeberg
+Johann Gotthelf Binning
+Johann Gottfried Demmig
+----------------
+Johann August Leuschner
+Johann Adam Pezold
+Gottfried Reichel
+Johann Gottlieb Zschoche
+Johann Gottlob Tränkner
+----------------
+Johann Gottlob Steude
+1806
+Johann Daniel Leopold
+Johann Gottlob Pegenau
+Johann Christian Gottlebe Siegert
+----------------
+Johann Gottlieb Döring
+Johann Gottlob Begenau
+Johann Gottlieb Thiele
+Johann Gottlob Fichtner
+Christian Leberecht Lippert
+----------------
+Johann Gottfried Götze
+Johann Gottlieb Praße
+Johann Gottlob Schubert
+Johann Gottlieb Appel
+----------------
+Gottfried Jentzsch
+Johann Gottlieb Ganßauge
+----------------
+1807
+Johann Gotthelf Gläsche
+Johann Gottlob Lommatzsch
+Johann Georg Schmiedgen
+Johann Gottlieb Thielemann
+----------------
+Johann Gottlob Krumpfer
+Johann Christoph Kost
+Johann Gottfried Pinker
+Johann David Leberecht Lutze
+----------------
+Johann Gottlob Schneider
+Carl August Nothdurft
+Christian Gottlieb Born
+Johann Gottlieb Schanze
+Johann Gottlob Wagner
+----------------
+Johann Gotthelf Talkenberger
+Johann Gottlieb Baersch
+Johann Gottlob Rostig
+----------------
+Johann Gottfried Uhlemann
+Christian Gottlob Müller
+----------------
+1808
+Johann Christian Liebe
+Carl Gottlob Walther
+Johann Gottlieb Schlicke
+----------------
+Johann Gotthelf Lantzsch
+Johann Gottfried Lutze
+Johann Gotthelf Weinert
+----------------
+Johann Christian Rost
+Johann Christian Köhler
+Johann Gottlieb Schulze
+Johann Traugott Gurt
+----------------
+Johann Gottlieb Leberecht Grahl
+Johann Gottlieb Stranz
+Peter Gottlieb Zieger
+Johann Gottlob Jähnigen
+----------------
+Johann Gottlob Möbius
+Johann Gottlieb Patzig
+Johann Christoph Wachsmuth
+Johann Gottfried Fischer
+----------------
+Christian Gottfried Harzbecker
+Johann Georg Spösig
+Johann Gottfried Kluge
+----------------
+Johann Gottlob Lehmann
+1809
+Johann Gottfried Schmorl
+Johann Gottlieb Götze
+----------------
+Carl Gottlob Schmidt
+Carl Gottfried Rehn
+Johann Gottlieb Haufe
+Johann Gottlob Steude
+----------------
+Carl Gotthelf Ficke
+Johann Gottlieb Demmig
+Johann Gottlieb Roitzsch
+Johann Gottfried Döring
+Samuel Gottlieb Funke
+----------------
+Johann Gottlob Bretschneider
+Johann Gottfried Jahn
+Johann Christlieb Junghans
+Johann Gotthelf Rautenstrauch
+Carl Gottlob Roitzsch

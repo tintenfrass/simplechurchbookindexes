@@ -1,5 +1,5 @@
 Leuben bei Lommatzsch (Buch 11)
-Trauungen 1760-1799
+Trauungen 1760-1801
 https://www.archion.de/de/viewer/churchRegister/282598?pageId=39041358
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ Erstellt in ca. 2 Stunden
 Mai 2023
 Juni 2023
 August 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -711,3 +712,57 @@ Johann Georg Lincke
 Johann Gottlob Güldner
 Johann Gottfried Poege
 Johann Gottlob Jahn
+----------------
+1800
+Johann Gottlieb Junge
+Johann Gottlieb Hähnel
+Johann Gottfried Fischer
+Carl Friedrich Seiffert
+Gottlob Eulitz
+Johann Gottlieb Heinrich
+Johann Christian Fiedler
+Johann Gottlieb Gumlich
+----------------
+Heinrich Gottlob Scheufler
+Johann Georg Weber
+Johann Gottlieb Wolf
+Christian Friedrich Kluge
+David schlüser
+Johann Gottlieb Höhme
+Johann Gottlieb Helm
+----------------
+Johann Gottlieb Möbius
+Johann Gottfried Hahn
+Johann Gottlob Hubrig
+Johann Gottfried Lorentz
+Johann Georg Dietze
+Johann Gotthelf Anders
+Johann Gottlob Möbius
+Johann Gottlob Gühne
+Johann Gottlieb Aurich
+----------------
+Johann Gottfried Weber
+1801
+Johann Gottlieb Kunze
+Johann Gottlieb Goldbach
+Johann Andreas Bauch
+Johann Gottlob Reinhard
+Johann Gottlieb Richter
+----------------
+Johann Friedrich Panitz
+Johann Gottlieb Meyer
+Johann Christian Schäbitz
+Johann Gotthelf Sorge
+Johann Gotthelf Hempel
+Johann Gottlob Förster
+Johann Christian Uhlmann
+Johann Gottfried Sommlich
+----------------
+Johann Gottlieb Voigt
+Johann Gottfried Güldner
+Johann Gottlieb Seiffert
+Johann Christian Gottlieb Paul
+Johann Gottfried Stubenrauch
+Johann Georg Sternberger
+Johann Gottlieb Güldner
+Johann Gottlieb Richter
