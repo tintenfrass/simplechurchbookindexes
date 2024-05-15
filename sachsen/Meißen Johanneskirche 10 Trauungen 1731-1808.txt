@@ -1,15 +1,16 @@
 Meißen Johanneskirche (Buch 10)
-Trauungen 1731-1799
+Trauungen 1731-1809
 https://www.archion.de/de/viewer/churchRegister/281140?pageId=38794104
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 3 Stunden
+Erstellt in ca. 3,5 Stunden
 Februar 2023
 Mai 2023
 August 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -893,3 +894,190 @@ Johann Michael Boiz
 Immanuel Gottlieb Zöllner
 Johann Gottfried Grimmer
 Johann August Leberecht Guinger?
+----------------
+1800
+Johann Erdmann Schubert
+Christian Pietzsch
+Johann Gottfried Keil
+Johann Gotthelf Taggeselle
+----------------
+Johann Gottlob Umlauft
+Johann Gotthelf Pehle?
+Johann Gottfried Fischer
+----------------
+Carl Friedrich Traugott Frantz
+Johann Gottfried Jentzsch
+Johann Gottfried Leuteritz
+----------------
+Johann Christian Scheidemantel
+Johann Georg Clauß
+Johann Samuel Kuhnath
+----------------
+Johann Rudolph Jenke
+Johann Gottlieb Melzer
+Johann Gotthelf Kliemann
+Johann Gottfried Schreiber
+----------------
+Johann Traugott Rühle
+----------------
+1801
+Johann Gottfried Grimmer
+Carl Traugott Reiche?
+Johann Traugott Juhle?
+Gottlieb Scheiblich
+----------------
+Johann Gottlob Mohn
+Gottlob Hottewitzsch
+Johann Gottlob Böhme
+Johann Carl Gottlieb Ziegenbalg
+----------------
+Johann Samuel Schöne
+Johann Samuel Kliemann
+Johann Georg Keil
+Johann Christoph Wenke
+Johann Gottlob Juhle?
+----------------
+Johann Gottlieb Beulich
+Johann Georg Scheiblich
+Johann Gottlieb Hermann
+Johann Michael Rühle
+----------------
+1802
+Johann Gottlob Scheiblich
+Johann Gottlieb Bärwald
+Johann Christian Umlauft
+Johann Gottlob Naumann
+----------------
+Johann Christian Müller
+Johann Gottfried Rotzsch
+Johann Gotthelf Grimmer
+Johann Gottlob Hummer?
+----------------
+Carl Friedrich Kipsch?
+Johann Christian Schneider?
+Carl Samuel Grille
+----------------
+Johann Gottlob Wolf
+Johann Christian Trenke
+Johann Gottlob Reiche
+----------------
+Johann Gottlob Heinze
+----------------
+1803
+Johann Gottlieb Clauß
+Friedrich Wilhelm Liebschner
+Johann Gottlob Michel
+----------------
+Johann Gottfried Grimmer
+Johann Gottlieb Adam
+Johann Georg Naumann
+----------------
+Daniel Wolf
+Gottfried Grünberg
+Johann Gottfried Drobisch
+Johann Christian Talkenberger
+Johann Christian Gottlieb Zocher
+----------------
+Johann Gottlieb Hempelt
+Johann Christian Marx
+Johann Samuel Leuteritz
+Johann Georg Schrader?
+Johann Christoph Neugart?
+----------------
+Johann Gottlob Schilling
+----------------
+1804
+Johann Gottfried Grille
+Johann Christian Hermann
+Johann Gottlob Heinze
+Carl Gottlob Rühle
+----------------
+August Friedrich Berthold
+Johann Georg Zschocke
+Johann Gottlieb Hompsch?
+Johann Gottlieb Hottewitzsch
+----------------
+Johann Gottlieb Scheiblich
+Johann Gottfried Lehrig?
+Carl Wolfgang Theophil Camenz
+Johann Gottlob Ronzsch?
+----------------
+Johann Gottlieb Findeisen
+Johann Gottlieb Hermann
+Gottfried Haase
+Johann Gottlob Hoammstust?
+----------------
+Gottlob Golde
+----------------
+1805
+Johann Traugott Taggeselle
+Christian Naumann
+Johann Adam Kleeberg
+Johann Gottlieb Schreiber
+----------------
+Johann Gottlieb Klinger
+Johann Gottlob Hermann
+----------------
+1806
+Traugott Fugsschneider?
+Johann Gottfried Leuteritz
+Johann Gottfried Schrempel
+Johann Gottfried Richter?
+Johann Gottfried Hermann
+----------------
+Johann Gottlob Wolf
+Ernst Gottlob Burckhart
+Carl Liebegott Sayler
+Johann Gottfried Röder
+----------------
+Johann Gottfried Fischer?
+Johann Gottfried Hornauf
+Johann Friedrich Rühle?
+Johann Gottfried Jähnichen
+----------------
+Heinrich Gotthelf Petri
+Gottfried Glauche
+Johann Carl Gottlieb Zschocke?
+August Leberecht Hauptmann
+----------------
+Johann Samuel Jacob
+Christian Markus
+Johann Gottfried Männich?
+Johann Gottlieb Golde
+----------------
+1807
+Johann Gottlob Schliebe
+Gottlieb Drobisch
+Johann Gottlieb Hencker
+Gottfried Schirmer?
+----------------
+Ernst Gottlob Keimann?
+Johann Samuel Schönberg
+Johann Daniel Lohse
+Gottfried Scheiblich
+----------------
+Carl Benjamin Liebich
+Johann Gottlob May
+Johann Gottlieb Münnich?
+Johann Gottfried Bach?
+----------------
+Georg Gottfried Fritzsche
+Johann Gottlob Bode
+David Traugott Gast
+Johann Gottfried Zabel
+----------------
+1808
+Johann Gottlob Fuhrmann
+Christian Lange
+August Leberecht Albrecht
+Johann Gottlieb Richter?
+----------------
+Johann Gottlob Borsdorf
+Johann Gottlieb Melzer
+Johann Samuel Grünberg
+----------------
+Gottfried Schumann
+Johann Gotthelf Caspar
+Johann Gottfried Keil
+----------------
+Johann Paul Drache
