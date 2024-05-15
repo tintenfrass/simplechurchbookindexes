@@ -1,6 +1,6 @@
 Meißen St. Afra (Buch 26)
-Trauungen 1776-1799
-https://www.archion.de/de/viewer/churchRegister/281104
+Trauungen 1776-1800
+https://www.archion.de/de/viewer/churchRegister/281104?pageId=38785795
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -14,10 +14,12 @@ Erstellt in ca. 3 Stunden
 Mai 2023
 Juni 2023
 August 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x2
 1776
 Traugott Leberecht Hennforth?
 Samuel Ziechner
@@ -1055,3 +1057,57 @@ Johann Gottfried Kolbe
 Johann Gottlob Antrag
 Johann Gottfried Wadewitz
 Johann Gottlob Rochlitz
+----------------
+----------------
+1800
+Johann Friedrich Richter
+Gottlieb Grellmann
+Johann Christian Müller
+----------------
+Johann Christoph Große
+Johann Gottlieb Rosberg
+Johann Gottfried Hoffmann
+Johann Jacob Starcke
+----------------
+Johann Christian Kleeberg?
+Johann Christoph Stetzner
+Samuel Schlecht
+Gottlieb Leberecht Sänger
+----------------
+Johann Gottlieb Schönhals
+Johann Gottlieb Schurich
+Friedrich August Hausstein
+Johann Georg Kluncker
+----------------
+Johann Gottlob Götze
+Johann August Götze
+Johann Gottlieb Poitz
+Johann Christian Antrich
+----------------
+Georg Gottlob Gießmann
+Johann Gottfried Sorge
+Gottlieb Schulze
+Johann Paul Barth
+Johann Gotthelf Goltzsch
+----------------
+Johann Gottlieb Lippert
+Johann Gottfried Samuel Sandig
+Johann Gottlob Hunger
+Johann Gottlob Fischer
+----------------
+Gottlob August Knäbgen
+Georg Schmidt
+Gottfried Ganßauge
+Johann August Seiffert
+----------------
+Johann Carl Tannert
+Christoph Bernhard
+Johann Traugott Jahn
+Johann Gottfried Eydam
+----------------
+August Börner
+Wilhelm Ismer
+Johann Gottfried Riße?
+Johann Gottlieb Wolf
+----------------
+Johann Gottlieb Reger
