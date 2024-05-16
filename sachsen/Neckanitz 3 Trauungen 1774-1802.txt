@@ -1,5 +1,5 @@
 Neckanitz (Buch 3)
-Trauungen 1774-1799
+Trauungen 1774-1802
 https://www.archion.de/de/viewer/churchRegister/283189?pageId=39155088
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 Erstellt in ca. 0,5 Stunden
 August 2023
+Mai 024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -265,3 +266,32 @@ Carl Friedrich Rost
 Johann Georg Pinkert
 Johann Gottlob Hempel
 Johann Gottlob Naumann
+----------------
+1800
+Johann Gottlob Hempel
+Christian August Rost
+Johann Georg Ehrlich
+Johann Christian Hensel
+Johann Gottlob Petermann
+Johann Gottfried Reiche
+----------------
+Johann Gottfried Ehrlich
+Johann Gottlob Eydam
+1801
+Johann Gottlieb Menzel
+Johann Gottfried Reichel
+Johann Gottlieb Nitsche
+----------------
+Daniel Gottlob Gast
+Johann Gottlob Schumann
+Johann Georg Schleusing
+Johann Gottlieb Bäurich
+Johann Gottfried Schlegel
+----------------
+1802
+Johann Gottlieb Kleeberg
+Johann Gottlob Leutert
+Christian Gottlob Träger
+Johann Gottlieb Backofen
+----------------
+Johann Christian Müller
