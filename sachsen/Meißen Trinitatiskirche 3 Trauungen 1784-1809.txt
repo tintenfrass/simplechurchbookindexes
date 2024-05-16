@@ -1,12 +1,14 @@
 Meißen Trinitatiskirche (Buch 3)
-Trauungen 1784-1799
+Trauungen 1784-1809
 https://www.archion.de/de/viewer/churchRegister/281153?pageId=38796254
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
+Erstellt in ca. 0,5 Stunden
 Mai 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -140,3 +142,124 @@ Peter Clauß
 Johann Georg Schumann
 Johann Gottfried Gehre
 Johann Gottfried Schröter
+----------------
+1800
+Johann Gottlieb Peeger
+Johann Christian Scheidemantel
+Johann Georg Tittel
+Johann Christian Rautenstrauch
+Johann Georg Gabsch
+Johann Gottlieb Klunker
+----------------
+1801
+Johann Gottlieb Dürichen
+Johann Gottfried Rühle
+Johann Christian Voigt
+Christian Gottlob Mittag
+Martin Gottlieb Beilig
+Johann Gottlob Mayer
+----------------
+Johann Gottfried Herbst
+Johann Gottfried Lutzau
+Gottfried Müller
+----------------
+1802
+Johann Christian Leuteritz
+Johann Christian Umlauft
+Johann Gottfried Voigt
+Gottlob Peger
+Johann Gottfried Lange
+Johann Christoph Hämpel
+----------------
+Carl Gottfried Hoffmann
+Johann Gotthelf Hermann
+Johann Gottlob Naumann
+Samuel Benjamin Dürichen
+----------------
+Johann Martin Schumann
+Heinrich August Pfeilschmidt
+Johann Traugott Ruhland
+Johann Gottlob Lanzsch
+Samuel Friedrich Traugott Haberland
+Johann Gottfried Henschel
+----------------
+Johann Gottfried Hildebrandt
+Johann Gottfried Krause
+----------------
+1804
+Samuel Fichtner
+Johann Gottlob Oetmann
+Johann Gotthelf Heger
+Johann Christian Gutsche
+Johann Christian Gauzsch
+Johann Gottfried Pfützner
+----------------
+Johann August Schröter
+Johann Gotthelf Legler
+David Gottlieb Weber
+Christian Gottlieb Fehrmann
+Johann Georg Jurke
+----------------
+1805
+Johann Gottfried Tennert
+Johann Gottfried Zocher
+Johann Friedrich Birkenfeld
+Johann Bärisch
+Johann Gottlieb Schumann
+----------------
+Johann Christoph Krause
+Johann Gottlieb Klunker
+Johann Gottfried Böhme
+Otto Carl Ludwig Rex
+----------------
+Johann Gottlieb Klemm
+Johann Christoph Schäfer
+1806
+Christian Gottfried Hermann
+Johann Gotthelf Richter
+----------------
+Johann Georg Hermann
+Johann Georg Kühne
+Johann Gottfried Sommer
+Johann Gottlieb Grafe
+Johann Gottfried Münch
+Johann Gotthelf Bürkner
+----------------
+1807
+Johann Gottlieb Thiele
+Johann Peter Dolch
+Johann Gottfried Großmann
+Johann Gottfried Stelzner
+Johann Gottfried Klemm
+----------------
+Johann Traugott Mehlig
+Johann Gottfried Gleisberg
+Johann Lorenz Vogel
+----------------
+1808
+Christian Stelzner
+Johann Adam Grille
+Johann Gottfried Thiele
+Johann Gottlob Stelzner
+Johann Gottlieb Schumann
+Johann Samuel Klunker
+----------------
+Johann Gottlieb Fischer
+Johann Christian Külker
+Christian Gottfried Dietze
+Johann Georg Milde
+----------------
+1809
+Johann Gotthelf Trobisch
+Johann Gottlob Melzer
+Ernst August Worm
+Johann Gottfried Klunker
+Johann Friedrich Traugott Haupt
+----------------
+Carl Gottlieb Böhme
+Benjamin Ludwig Gärtner
+Carl Gottfried Milde
+Johann Gottlieb Clauß
+----------------
+Christian Gottlieb Lindner
+Johann Gottfried Münch
