@@ -1,5 +1,5 @@
 Mohorn (Buch 3)
-Trauungen 1701-1799
+Trauungen 1701-1800
 https://www.archion.de/de/viewer/churchRegister/283160?pageId=39148949
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -12,6 +12,7 @@ Februar 2023
 Mai 2023
 Juni 2023
 August 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1332,3 +1333,5 @@ Johann Erdmann Gotthelf Lehmann
 Johann Friedrich Richter
 Johann Gottlieb Hartmann
 Johann Samuel Schumann
+1800
+Johann Jacob Lennhard
