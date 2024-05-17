@@ -1,14 +1,15 @@
 Röhrsdorf bei Wilsdruff (Buch 3)
-Trauungen 1782-1799
+Trauungen 1782-1809
 https://www.archion.de/de/viewer/churchRegister/289500?pageId=40231899
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Juni 2023
 August 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -170,3 +171,154 @@ Johann Gottlob Büttner
 ----------------
 Johann Georg Berner
 Johann Gottfried Hillig
+----------------
+1800
+Johann Gottfried Tamme
+Christian Ephraim Strohbach
+Georg Gottlob Gießmann
+Johann Gottlieb Schuster
+Johann Georg Gürtler
+Johann Christian Wagner
+----------------
+Johann Christian Ditrich
+Johann Georg Schumann
+Johann Gottlieb Döhring
+Johann Gotthelf Schiffel
+Johann Georg Pietzsch
+Johann Gottfried Weber
+----------------
+1801
+Johann Gottlieb Clauß
+Gottlob Müller
+Johann Gottfried Hunger
+Johann Gottlob Schönhals
+Johann Gottlieb Kost
+Friedrich Salomon Hempel
+Johann Gottlob Schulze
+----------------
+Gottlieb Gottschalck
+Johann Gottfried Wagner
+Johann Gottlob Fehrmann
+Johann Gottlieb Georgius
+Johann Gabriel Mieth
+Johann Gottlieb Küttner
+Johann Christian Winckler
+----------------
+Johann Georg Körner
+Johann Gottlob Schumann
+Johann Gottlob Fischer
+Johann Gottfried Grahl
+----------------
+1802
+Andreas Thronicke
+Johann Georg Gießmann
+Johann Adolph Kuntze
+Johann Gottfried Stelzer
+Johann Gottlob Grellmann
+----------------
+Christian Mieth
+Johann Gottfried Tamme
+Johann Ditrich
+Johann Gottlob Clauß
+Johann Gottlieb Schumann
+----------------
+1803
+Johann Gottlob Pfitze
+Johann Georg Ditrich
+Johann Gottlieb Winckler
+Johann Christian Gottlieb Siegert
+Johann Gottlob Schmidt
+Gottlob Ditrich
+----------------
+Johann Gottfried Schönhals
+Johann Christian Gießmann
+Johann Gottlob Starcke
+Johann Gottlob Kolbe
+Johann Gottlob Strehle
+----------------
+1804
+Johann Gottfried Pietzsch
+Johann Gottlieb Buntsch
+----------------
+1805
+Johann Gottlob Hoffmann
+Christian Gottlieb Stöckhardt
+Johann Georg Roetzsch
+Johann Gottlieb Hanitzsch
+Johann Gottlob Steude
+----------------
+Johann Gottfried Lotze
+Johann Gottfried Lehmann
+Johann Gottlieb Poppe
+Johann Petzold
+----------------
+1806
+Johann Georg Polling
+Johann Gottlieb Simon
+Johann Gottfried Scheibe
+Gottlieb Schubert
+Johann Georg Ranft
+Johann Christian Gottlieb Egert?
+Johann Gottlob Zimmermann
+----------------
+Carl? Gottlieb Bachmann
+Johann Gottfried Weise
+Johann Christoph Blasius
+Johann Gottlieb Schneider
+Johann Georg Naumann
+Johann Gottlob Lichtenstein
+Johann Gottlieb Georgius
+----------------
+Johann Gottlieb Müller
+Johann August Kippe
+Johann Gotthelf Keßler
+Johann Gottfried Wagner
+Johann Georg Winckler
+----------------
+1807
+Georg? Gottfried Weber
+Johann Gottlob Maune
+Johann Christian Tamme
+Johann Gottlob Rüdiger
+Johann Gottlob Wagner
+Johann Gottfried Glenzel
+Johann Gottlob Trepte
+----------------
+Johann Gottlieb Tamme
+Johann Christoph Fünstück
+Johann Christoph Grafe
+Gottfried Petrich
+----------------
+1808
+Johann Christoph Wagner
+Johann Gottlob Irmer
+Johann Christoph Jähnig
+Johann Georg Pietzsch
+Johann Georg Adam
+Johann Gottfried Schlicke
+----------------
+Johann Gottfried Hencker
+Gottfried Siegmund Gedult
+Johann Gottlob Schieritz
+Johann Gottlieb Schubert
+Johann Georg Fichtner
+Johann Gottlieb Traugott Ditrich
+----------------
+Johann Gottlob Weber
+Johann Gottlieb Jäger
+Carl? Gottlieb Partholdt
+Friedrich Wilhelm Joachim Theodor? Burgsdorf
+----------------
+1809
+Johann Gottlieb Säuber
+Johann Gottlieb Fichtner
+Johann Gottlob Hoyer
+Johann Gottlieb Jacob
+Gottlob Zschech
+Johann Christian Weber
+Johann Gottlob Friedrich Kirsch
+----------------
+Johann Gottfried Fischer
+Johann Gottfried Donat
+Johann Georg Palisch
+Johann Georg Schumann

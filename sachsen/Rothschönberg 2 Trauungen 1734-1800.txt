@@ -1,5 +1,5 @@
 Rothschönberg (Buch 2)
-Trauungen 1734-1799
+Trauungen 1734-1800
 https://www.archion.de/de/viewer/churchRegister/289505?pageId=40233042
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 0,5 Stunden
 Januar 2023
 Februar 2023
 Mai 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -338,3 +339,7 @@ Johann Gottlieb Köhler
 ----------------
 Johann Gottlob Triebe
 Gotthelf Wilsdorf
+1800
+Johann Gottfried Backofen
+Johann Gottfried Löwe
+Johann Gottfried Hahn

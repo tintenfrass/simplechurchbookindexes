@@ -1,12 +1,14 @@
 Obergruna (Buch 4)
-Trauungen 1787-1799
+Trauungen 1787-1809
 https://www.archion.de/de/viewer/churchRegister/289468?pageId=40224865
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
+Erstellt in ca. 0,5 Stunden
 September 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -142,3 +144,141 @@ August Gottlieb Ulbricht
 Johann Christian Peuckert
 ----------------
 Carl Gottlob Merkel
+----------------
+1800
+Johann Gottfried Lehmann
+Karl Gottlieb Leuschner
+Johann Georg Kunze
+Benjamin Büttner
+Gottlob Friedrich Schlicke
+----------------
+Johann Christian Gottlob Störl
+1801
+Christian Karl Gotthelf Uhlmann
+Johann Gottlob Paul
+----------------
+Daniel Straube
+Karl Gottlob Morgenstern
+Johann Gottfried Pietzsch
+Johann Gottlob Straube
+Georg Schenker
+Karl August Pfeiffer
+----------------
+Christian Friedrich Schlicke
+1802
+Johann Gottlieb Lützner
+Karl Gottlieb Wolf
+Johann Michael Hoffmann
+Johann Wilhelm Haußner
+----------------
+Christian Friedrich Franke
+Johann Gottlob Hennig
+Gotthelf Friedrich Berger
+Johann Gottlieb Imhof
+Johann Gottlieb Wolf
+----------------
+Johann Gottlieb Silbermann
+Johann Gotthelf Leberecht Franke
+Johann Gottfried Lantsch
+Georg Friedrich Lauenstein
+Johann Liebegott Schlicke
+----------------
+1803
+Johann Gotthelf Kayser
+Johann Adam Gödert
+Johann Gottfried Imhof
+Johann Karl Gottlob Imhof
+Johann Gottlob Paul
+Johann Michael Klausnitzer
+----------------
+Johann Gottlob Straube
+Johann Gottlob Gebhard
+Johann Gabriel Straube
+----------------
+1804
+Fürchtegott Leberecht Kunze
+Johann Gottlob Gottschalk
+Johann Salomon Donat
+Johann Gottlieb Straube
+Erdmann Friedrich Qalle
+----------------
+Karl Gottfried Butzhold
+Karl Gottlieb Franke
+Johann Gottlieb Eckardt
+Johann Gottlieb Lantsch
+----------------
+1805
+Gotthelf Traugott Hencker
+August Friedrich Sohr
+Johann Christoph Andrä
+Samuel Hallfart
+Johann Mattheus Mirisch
+Gotthelf Friedrich Berger
+Karl Gottlob Schuster
+----------------
+Johann Gottfried Israel Lantsch
+Johann Michael Schmidt
+1806
+Johann Gottfried Straube
+Johann Gottfried Lantsch
+Johann Salomon Wolf
+Johann Gottlieb Günther
+----------------
+Johann Gottlieb Lampe
+Karl Gottlob Krüger
+Johann Gottfried Finke
+Johann Gottfried Tämel?
+Johann Friedrich Grellmann
+Johann Gottlob Aehaelt?
+Johann Karl Christoph Weise
+Johann Friedrich Leberecht Wolf
+----------------
+1807
+Johann Gotthelf Lantsch
+Johann Karl Gottlob Erfurt
+Johann Heinrich Thümer
+Johann Christian Wahl
+Johann Gottlieb Kayser
+Johann Gottfried Frenzel
+Johann Sobe
+----------------
+Johann Adam Erdmann Hannemann
+Johann Gotthelf Peuckert
+Johann Gottlieb Beyer
+Karl Gottlob Beger
+Johann Gottlieb Wenzel
+Johann Gotthelf Kühnert
+----------------
+Georg Schenker
+Karl Gottlieb Wetzig
+Johann Gottlieb Wolf
+Karl August Berger
+Johann Gottlieb Steude
+Johann Gottfried Tämel
+Johann Michael Straube
+----------------
+1808
+Johann Gottfried Hänel
+Gottfried Wilhelm Moritz
+Christian Andreas Keltmann
+Johann Christian Schubert
+Karl David Meutzner
+Johann Gottlob Fleischer
+----------------
+Johann Gottlob Liebe
+Johann Gottlob Lantsch
+Johann Gottfried Weise
+Johann Wilhelm Martin
+1809
+Johann Salomon Hallfart
+Johann Christian Friedrich Wolf
+----------------
+Johann Gottlieb Starcke
+Johann Friedrich Baumhard
+Johann Georg Simon
+Christian Friedrich Günther
+Johann Georg Pfanne
+Johann Samuel Zimmermann
+----------------
+Karl Gottlob Krümmer
+Johann Gottlob Bretschneider
