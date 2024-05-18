@@ -1,14 +1,15 @@
 Taubenheim (Buch 4)
-Trauungen 1787-1799
+Trauungen 1787-1809
 https://www.archion.de/de/viewer/churchRegister/289600?pageId=40253276
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Studen
+Erstellt in ca. 1 Stude
 Juni 2023
 August 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -238,3 +239,211 @@ Johann Gottlieb Engelmann
 Johann Gottfried Drache
 Johann Christian Kießlich
 Johann Gottfried Dietze
+----------------
+1800
+Johann Gottlieb Grellmann
+Johann Gottlieb Beger
+Johann Gottfried Hennig
+Carl Friedrich Grundmann
+Johann Georg Faust
+----------------
+Johann Heinrich Wilhelm Batist
+Johann Gottlieb Metsching
+Johann Christian Wagner
+Johann Samuel Lange
+Christian Gottlieb Genau
+Christian Gottlob Löwe
+----------------
+Johann Gottlob Rost
+1801
+Friedrich Eusebius Deubel
+Johann Heinrich Hennig
+----------------
+Johann Gottfried Glauch
+Johann Gottfried Starcke
+Johann Gotthelf Eccard
+Johann Gottfried Thiele
+Johann Gottlob Thieme
+Johann Friedrich Keller
+----------------
+Johann Gottlieb Obermann
+Johann Christlieb Fehrmann
+Johann Gottlob Hoyer
+Johann Carl Gottlieb Kühne
+Johann Gottlob Förster
+----------------
+Johann Gottlieb Paul
+Johann August Carl Weise
+Gottfried Angermann
+Johann Gottlieb Stelzer
+Johann Gottfried Dietzig
+----------------
+Johann Gottlob Schumann
+Johann Gottlieb Schönert
+Johann Gottlob Wätzig
+----------------
+1802
+Johann Gottlob Beyer
+Johann Gottlob Döring
+Johann Gottfried Erfurt
+Johann Gottlob Obermann
+Gotthelf Adam
+----------------
+Johann Gottlob Lippert
+Johann Gottfried Schram
+Johann Gottlieb Müller
+Johann Gottlieb Brühl
+Johann Gottlieb Kluncker
+Johann Georg Gießmann
+----------------
+Johann Adolph Kunze
+Johann Gottlieb Voigt
+Johann Gottlieb Schumann
+Johann Carl Gotthelf Hänsel
+Johann Andreas Werner
+----------------
+Johann Gottlob Hinckler
+Johann Gottlieb Winckler
+1803
+Johann Gotthelf Steudte
+----------------
+Johann Samuel Kelber
+Johann Gottlob Görne
+Johann Georg Keller
+Samuel Thiele
+Johann Gottfried Adam
+Carl Gottlob Imhoff
+----------------
+Adolph Heinrich Hermann
+Johann Gottfried Grellmann
+Johann Christian Herzbach
+Johann Gottlieb Bechmann
+Carl Gottlieb Lommatzsch
+----------------
+Johann Gottfried Kießlich
+Johann Christian Beuchel
+Johann August Weber
+Johann Gottlob Schmidt
+Johann Friedrich Hoffmann
+----------------
+Johann Gottlob Thieme
+Johann Gotthelf Adam
+Johann Gottlob Merbitz
+Johann Gottlob Kolbe
+Johann Michael Kühne
+Johann Gottlob Weber
+----------------
+Johann Gottlieb Müller
+1804
+Johann Gottlieb Weber
+Johann Gottfried Felber
+----------------
+Johann Georg Keller
+Johann Georg Walther
+Johann Gottlieb Mercker
+Johann Gottfried Weber
+Johann Gottlieb Walther
+----------------
+Johann Gottfried Döring
+Johann Christian Lehrknecht
+Johann Gottfried Schulze
+Johann Gottlob Höltzig
+Johann Gottlieb Müller
+Johann Gottlob Hoeme
+----------------
+Gottlieb Friedrich Schenke
+Gottlob Hironimus Burckhart
+Carl Gottlieb Boerne
+Johann Gottlob Grellmann
+----------------
+Johann Georg Hennig
+Johann Michael Dietzig
+----------------
+1805
+Johann Christoph Gebhardt
+Johann Gottlieb Wolf
+Friedrich Wilhelm Sieber
+Carl Gottlieb Samuel Schröber
+----------------
+Johann Gottlieb Naumann
+Johann Christian Schlegel
+Johann Gottlieb Wittich
+Johann Christian Gumlich
+Johann Gottfried Zimmermann
+Carl Gottlieb Reif
+----------------
+Johann Gottfried Schubert
+Johann Gottlob Hennig
+Johann Traugott Loose
+Johann Gottfried Kohl
+Johann Gottlob Gleisberg
+----------------
+1806
+Johann Georg Ranft
+Johann Gottfried Kaltschmidt
+Johann Gottlob Zimmermann
+----------------
+Johann Gottlob Grellmann
+Carl Gottlieb Heyde
+Johann Gottlieb Pehgen
+Johann Gottlieb Döring
+Johann Gottfried Hänsel
+----------------
+Johann Gottfried Tamm
+Johann Gotthelf Döring
+Carl Gottlob Müller
+Karl Gottfried Schlechte
+Carl Gottlieb Kost
+1807
+Johann Gottfried Klauß
+----------------
+Johann Gottfried Schubert
+Johann Gottfried Clauß
+Gottlob Kießlich
+Johann Gottlob Funcke
+Johann Gottlob Friedrich Seyffert
+----------------
+Gottlieb Bennewitz
+Johann Gottfried Kennert
+Johann Gottlieb Kramer
+Carl Gottlieb Geißler
+Carl Gottlieb Steude
+Johann Gottlob Rost
+----------------
+Johann Gottlob Grellmann
+Johann Gottlob Kohl
+Johann Carl Gottfried Gebhardt
+1808
+Johann Gottfried Pinkert
+Johann Gottfried Henker
+Christian Gottlob Henker
+----------------
+Johann Carl Gottlob Hühnert?
+Johann Gottlob Mierisch
+Johann Gottlob Hentschel
+Carl Gottfried Bennewitz
+Johann Gottlieb Pinkert
+----------------
+Johann Gottfried Görne
+Johann Gottlieb Schmidt
+Johann Gotthelf Schmidt
+Johann Gottfried Lütz
+Johann Christian Wilhelm Rudolf
+Christian Gotthelf Dachsel
+----------------
+1809
+Gottfried Windschüttel
+Johann Gottfried Steude
+Johann Gottlob Merker
+Johann Gottlieb Kost
+Carl Gottlieb Gast
+Johann Gottlieb Adam
+----------------
+Johann Gottlob Kleber
+Johann Gottlob Palitsch
+Johann Gottlieb Hantzsch
+Johann Christoph Diezig
+Johann Gottfried Süß
+Johann Georg Schumann
+----------------
+Johann Carl Gottlieb Kluncker

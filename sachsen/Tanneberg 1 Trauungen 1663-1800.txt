@@ -1,5 +1,5 @@
 Tanneberg (Buch 1)
-Trauungen 1663-1799
+Trauungen 1663-1800
 https://www.archion.de/de/viewer/churchRegister/289592?pageId=40251345
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ Erstellt in ca. 3 Stunden
 Juni 2022
 Februar 2023
 Mai 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -772,3 +773,10 @@ Johann Michael Gottschalk
 1799
 Carl Friedrich Lindner
 Johann Christian Kießlich
+----------------
+1800
+Johann Gottlob Pietzsch
+Johann Georg Börner
+Christian Friedrich Lehmann
+Johann Gottlob Erfurth
+Johann Gottlieb Kahle
