@@ -1,5 +1,5 @@
 Wendischbora (Buch 2)
-Trauungen 1707-1799
+Trauungen 1707-1800
 https://www.archion.de/de/viewer/churchRegister/289652?pageId=40261875
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 1,5 Stunden
 Februar 2023
 Mai 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -555,3 +556,10 @@ Johann Gotthelf Moenert
 Johann Gottlieb Lippert
 Gotthelf Israel Henckel
 Johann Gottlob Naumann
+----------------
+1800
+Gottfried Fehrmann
+Traugott Leberecht Jähler
+Johann Gottlieb Haubold
+Johann Gottfried Hein
+Johann Christian Naumann
