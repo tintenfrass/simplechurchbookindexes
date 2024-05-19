@@ -1,13 +1,14 @@
 Zadel (Buch 3)
-Trauungen 1774-1799
+Trauungen 1774-1809
 https://www.archion.de/de/viewer/churchRegister/289666?pageId=40265768
 
 Das ist ein Index der Trauungen.
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Mai 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -269,3 +270,172 @@ Johann Gottfried Jahn
 Johann Adam Fritzsche
 ----------------
 Johann Gottfried Dürichen
+1800
+Johann Gottlieb Leitritz
+Johann Gottfried Dürichen
+Johann Gottfried Schlechte
+Johann Georg Löbe
+----------------
+Samuel Reinicke
+Johann Gottfried Leuteritz
+Johann Gottlob Edlich
+Johann Gottfried Nitzsche
+Johann Georg Sörnitz
+----------------
+1801
+Johann Christian Starcke
+Johann Gottfried Zocher
+Johann Christian Gottlieb Rühle
+Johann Gottlob Schneider
+Johann Gottlieb Zocher
+Johann Gottlieb Busch
+----------------
+Christian Gottlieb Schlechte
+Johann Gottlob Laurath?
+Gottlob Beger
+1802
+Gottfried Thamme
+Gottlieb Kieslich
+Johann Gottlieb Bischof
+----------------
+Johann Gottlieb Stein
+Johann Gotthelf Röger
+Johann Gottlieb Bischof
+Johann Friedrich Leibhold
+Johann Christoph Si? Hase
+----------------
+Johann Gottlob Zocher
+Johann Gottlieb Marwitzsch?
+Adam Klunker
+Christian Schönert?
+----------------
+1803
+Johann Gottlieb Bordsdorf
+Samuel Marcus Dürichen
+Christian Fischer
+Christian Stephan
+Johann Gottlob Jahn
+----------------
+Hans Ferdinand Golläufer?
+Johann Gottfried Lehmann
+Johann Christian Schlege
+Johann? Georg Zeiter
+----------------
+Johann Georg Gaschitz
+Johann Gottfried Schweigler
+Johann Gottlieb Seurich
+Johann Andreas Schumann
+1804
+Johann Gottlob Kretzschmer
+----------------
+Johann Georg Lehmann
+Christian Gottfried Hermann
+Johann Gottlieb Zocher
+Johann Friedrich Böttcher
+Johann Heinrich Hermann
+Johann Gottfried Andrich
+----------------
+Johann Gottlieb Jenichen
+Johann Adam Keil
+Christian Traugott Thielemann
+Johann Gottfried Weidemann
+----------------
+Johann Friedrich Wolf
+Samuel Marcus Dürichen
+Johann Gottlieb Nitzsche
+Johann Gottlieb Beyer
+----------------
+Christian Gottlieb Fehrmann
+1805
+Johann Samuel Heinze
+Johann Gottfried Zocher
+Christian Friedrich Mittag
+----------------
+Johann Gottfried Hermann
+Johann Gottfried Stephan
+Johann Gottlob Prarer?
+Johann Gottlob Seyffert
+Johann Carl Sommer
+----------------
+Johann Gottlieb Zeisler
+Johann Gottlieb Münnich
+1806
+Johann Gottfried Drache
+Gottlieb Heinze
+----------------
+Johann Christian Zocher
+Gottfried Grille
+Johann Gottfried Gelhaar
+Johann Martin Moritz
+Johann Gottfried Nicolaus
+Johann Georg Hermann
+----------------
+Johann Christian Traugott Zöllner
+Johann Gotthelf Schade
+Christian Sachse
+Johann Gottfried Richter
+Christian Gottlob Beulich
+----------------
+Johann Gotthelf Milde
+Christian Gottlob Zickler
+Christian Wilhelm Selig
+----------------
+1807
+Johann Christian Ziller
+Johann Gottlieb Schneider
+Johann Gottfried Schumann
+Johann Christian Beulich
+Johann Christian Sturm
+----------------
+Gottfried Opitz
+Johann Gottfried Carl Huhn
+Johann Gottlob Bischof
+Gottlob Sachse
+Johann Gotthelf Kluge
+Johann Gottfried Meyer
+----------------
+Johann Gottfried Sparmann
+Johann Gottlob Trentzsch
+Johann Christian Thiele
+Christian Gottlieb Beyer
+Johann Christian Deysig
+Gotthelf August Gürne
+----------------
+Johann Carl August Grose
+Johann Gotthelf Kieslich
+----------------
+1808
+Friedrich Christian Knüpfer
+Johann Gottlieb Melzer
+Johann Gottlob Leibhold
+Nicol Fürchtegott Jordan
+----------------
+Johann Christoph Sickert
+Johann Gottfried Münnich
+Carl Heinrich Preisker
+Johann Christian Hoyer
+Johann Georg Weishaar
+----------------
+Christian Gottlieb Schneider
+Johann Christian Rothe
+Christian Gottlob Beulich
+----------------
+1809
+Christoph Richter
+Johann Gottfried Mühlstädt
+Johann Gottlieb Zöllner
+Johann Gotthelf Jenig
+----------------
+Gottlieb Bischof
+Johann Gottlieb Knoblauch
+Johann Gottlieb Jacob
+Carl Friedlieb Adam
+----------------
+Johann Friedrich Traugott Hegewald
+Gottlieb Zocher
+Johann Christian Michael
+Christlieb Schuster
+Gottlob Wendisch
+----------------
+Johann Christian Gottlieb Sparmann
+Johann Gottlob Schneider
