@@ -155,8 +155,8 @@ func (h *searchComp) Render() app.UI {
 
 	grid[0][10] = "Obergruna"
 	grid[1][10] = "Bieberstein"
-	grid[2][10] = "Dittmannsdorf"
-	grid[3][10] = "Mohorn"
+	grid[2][10] = "Reinsberg"
+	grid[3][10] = "Dittmannsdorf"
 	grid[4][10] = "Herzogswalde"
 	grid[5][10] = "Döhlen"
 	grid[6][10] = "Plauen"
@@ -167,6 +167,7 @@ func (h *searchComp) Render() app.UI {
 	grid[0][11] = "Großschirma"
 	grid[1][11] = "Krummenhennersdorf"
 	grid[2][11] = "Niederschöna"
+	grid[3][11] = "Mohorn"
 	grid[4][11] = "Fördergersdorf"
 	grid[5][11] = "Tharandt"
 	grid[8][11] = "Lockwitz"
@@ -294,6 +295,7 @@ func (h *searchComp) Render() app.UI {
 						app.Label().Text(h.slideValueMax),
 						app.Br(),
 						app.Br(),
+						app.Label().Text("(Hinweis: Die Gebiete Freiberg und Dippoldiswalde sind derzeit nur bis 1799 erfasst)").Attr("style", "float:right").Style("color", "dimgrey"),
 						app.Br(),
 						app.Br(),
 					),
@@ -410,12 +412,12 @@ func (h *searchComp) Render() app.UI {
 		app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 		app.Br(),
 		app.Br(),
-		app.H3().Body().Text(" v1.7 (März 2024) latest updates:"),
-		app.Label().Text("Trauungen Kleinwaltersdorf 1599-1660"),
+		app.H3().Body().Text(" v1.8 (Mai 2024) latest updates:"),
+		app.Label().Text("Trauungen im Gebiet Dresden 1800-1809"),
 		app.Br(),
-		app.Label().Text("Trauungen Oberschöna 1633-1680"),
+		app.Label().Text("Trauungen im Gebiet Meißen 1800-1809"),
 		app.Br(),
-		app.Label().Text("Soundex als Suchalgorithmus hinzugefügt"),
+		app.Label().Text("Reinsberg in die Karte aufgenommen"),
 		app.Br(),
 		app.Label().Text("kleinere Fehlerkorrekturen"),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
