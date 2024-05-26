@@ -1,5 +1,5 @@
 Dorfchemnitz (Buch 63)
-Trauungen 1605-1799
+Trauungen 1605-1800
 https://www.archion.de/de/viewer/churchRegister/340882?pageId=47880848
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -11,6 +11,7 @@ Direkt aus dem Registerband erstellt, in der Reihenfolge wie es dort aufgeführt
 
 Erstellt in ca. 4 Stunden
 Oktober 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -515,6 +516,8 @@ Gottlieb Göhring
 1799
 Johann Gottlieb Griesbach
 Karl Gottlieb Griesbach
+1800
+Johann Gottlieb Glötz
 1733
 Hans Gottlob Heinrich
 1734
@@ -618,6 +621,8 @@ Christoph Daniel Hübler
 Christian Gotthold Hegewald
 1798
 Gotthold Herklotz
+1800
+Christian Gottlieb Herklotz
 1734
 Hans Christoph Illing
 1737
@@ -717,6 +722,9 @@ Traugott Leberecht Kunze
 Johann Gottfried Kobatzsch
 1797
 Gotthold Friedrich Kunze
+1800
+Gottlob Friedrich Kuhnert
+Christian Friedrich Klitzsch
 ----------------
 1735
 Johann Christian Lichtenberger
@@ -768,6 +776,8 @@ Johann Gottlieb Lippmann
 Daniel Friedrich Liebscher
 Christian Friedrich Lippmann
 Johann Reinhard Lippmann
+1800
+Daniel Liebscher
 1740
 Christian Mehnert
 1742
@@ -804,6 +814,8 @@ Johann Georg Morgenstern
 Christian Gottlieb May
 1799
 Johann Gottlieb Müller
+1800
+Johann Gottlob Müller
 ----------------
 1747
 Johann David Neuber
@@ -861,6 +873,8 @@ Karl Gottlieb Rauer
 Karl Gottlieb Riedel
 1798
 Christoph Friedrich Richter
+1800
+Christian Traugott Ringel
 1733
 Johann David Stiehl
 1734
@@ -979,6 +993,8 @@ Karl Gottlob Schramm
 Samuel Gottlieb Strauß
 1799
 Karl Gottlieb Stiehl
+1800
+Johann Gottfried Schram
 1734
 Johann Georg Trampe
 1735
@@ -1053,6 +1069,8 @@ Gotthelf Friedrich Trinks
 1798
 Christian Gottlieb Tanneberger
 Karl Friedrich Thiers
+1800
+Johann Gottlob Tanneberger
 1744
 Georg Adam Uhlmann
 1746
@@ -1073,6 +1091,8 @@ Karl Gottlieb Uhlmann
 Johann Christoph Uhlig
 1799
 Johann Gottlieb Vasold
+1800
+Christian Friedrich Valentin
 1734
 Hans Christian Weigold
 1737

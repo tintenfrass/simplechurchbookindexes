@@ -1,14 +1,18 @@
 Berthelsdorf (Buch 5)
-Trauungen 1759-1799
+Trauungen 1759-1809
 https://www.archion.de/de/viewer/churchRegister/340797?pageId=47865152
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
+Teil 1: Trauungen in Berthelsdorf
+Teil 2: Auswärtige Trauungen
 
-Erstellt in ca. 1 Stunde
+
+Erstellt in ca. 2 Stunden
 Oktober 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -420,3 +424,395 @@ Johann Christian Gottlieb Beyer?
 Johann Christian Zeller
 Carl Friedrich Bernhard
 Carl Traugott Hencker
+1800
+Johann Traugott Zimmermann //korrigiert
+Carl Adam Hadomovsky?
+----------------
+Gotthold Schiffel
+Gottlob Friedrich Kraft
+Johann Gottlieb Beyer
+Carl Gottfried Mäcke
+1801
+Carl Gottlieb Richter
+Johann Gottfried Arnold
+Adam Gottlieb Bellmann
+Johann Friedrich Köhler
+Carl Friedrich Niewand?
+Johann Gottfried Rommler
+1802
+Johann August Helbig
+Johann Gottlob Schneider
+Carl Gottlieb Samuel Stöhrr
+----------------
+Christian Carl Gotthelf Berger
+Carl Gottlob Wahl
+Carl Gottfried Heinzmann
+Carl Gottlieb Clausnitzer
+Carl Traugott Böhme
+Johann Chrysius Thomas Kunze
+1803
+Christian Friedrich Göhler
+Johann Michael Weychelt
+----------------
+Georg Gotthelf Gläßer
+Carl Gottlieb Zimmermann
+Samuel Friedrich Buze
+Johann Christian Gottlieb Zimmermann
+Carl Gottlieb Einert
+1804
+Carl Gottlieb Schiffel
+Carl Gottlob Arnold
+----------------
+Ernst Gottlieb Klemm
+Johann Gottlob Fritzsche
+Carl Gottfried Fritzsche
+Christian Friedrich Böhme
+Johann Gottlieb Nöbel
+August Friedrich Gläßer
+Carl Friedrich Fischer
+Carl Friedrich Liebscher
+Carl Friedrich Matthes
+----------------
+1805
+Carl Gotthelf Tittel
+Johann Gottfried Arnold
+Christian Friedrich Rothe
+Carl Gottlieb Geisler
+Christian Gottlieb Lotze
+Gottfried Pietzsch
+Carl Gottlieb Kraut
+Christian Friedrich Klemm
+Carl Gottlob Richter
+Carl Heinrich Walther
+----------------
+Johann Gottlieb Behr
+Carl Gottlob Voigt
+1806
+Johann Gottlieb Geisler
+Johann Samuel Zimmermann
+Carl Gottlob Maeke
+Johann Traugott Voigt
+Johann Ehregott Heber
+Carl Gottlieb Neubert
+Carl Gottlob Glauch
+----------------
+Carl Gottlob Horn
+Johann Samuel Winckler
+Johann Gottlieb Schulze
+1807
+Carl Traugott Haupt
+Gottlob Friedrich Uhlig
+Carl Gottlieb Fischer
+Johann Gottfried Gabriel
+Johann Heinrich Beyer
+Carl Gottfried Glas
+Carl Wilhelm Richter
+Gottlieb Benjamin Ihle
+----------------
+Carl Gottfried Kunze
+Carl Gottlieb Thümmel
+Carl Gottlob Schirmer
+Johann Traugott Hunger
+Johann Gottlieb Bellmann
+Carl Friedrich Fischer
+Carl Christian Gotthold Schiffel
+Johann Christian Berger
+1808
+Carl Christian Träger
+Johann Gottlieb Friedrich Starcke
+----------------
+Traugott Benjamin Weichelt
+Carl Christoph Helbig
+Carl Gottlieb Timmel
+Johann Carl Gottlob Götzelt
+Carl Gottlieb Gabriel
+Gotthelf Friedrich Neubert
+Carl Gottlieb Partsch
+Carl Friedrich Walther
+----------------
+Carl Gottlieb Wolf
+1809
+Johann Michael Kirbach
+Johann August Rötzsch
+Johann Christian Traugott Reichel
+Carl Christian Friedrich Schiffel
+Gottfried Heinrich Schwinger
+Johann Christian Berger
+Carl Friedrich Schneider
+----------------
+Carl Heinrich Dalwitz
+Christian Gottlieb Richter
+Johann Gottfried Erler
+Christian Friedrich Ruppert
+Johann Friedrich Küchler
+Johann Friedrich Wagner
+Johann Traugott Bellmann
+----------------
+Christian Gottfried Schubert
+Carl Friedrich Richter
+Carl Gottlieb Fröbel
+Heinrich Gotttrau Müller
+Christian Ehregott May
+---------------- x50
+1759
+Carl Gottlieb Zimmermann
+Christoph Böhme
+Johann Heinrich Freßdorf
+Gottlieb Glöckner
+Johann Gottlob Entzmann
+----------------
+Johann Gottlieb Wolf
+Johann Gottlieb Pflugbeil
+1760
+Johann Gottlieb Börner
+1761
+Johann Christian Einbcke?
+Johann Gottlieb Zeller
+Carl Gottfried Richter
+Johann Michael Weigelt
+Christian Fischer
+1762
+Johann Christoph Kraft
+Johann Gottfried Mehner
+1763
+Johann Siegmund Bohle
+Christlieb Leberecht Richter
+----------------
+Johann Gottlieb Seler
+Joseph Kühnel
+Johann August Linse
+1764
+Johann Friedrich Gottlob Fritzsche
+Johann Gottfried Andreas
+Carl Friedrich Glaß
+1765
+Adam Heinrich Richter
+Johann Gotthelf Hoffmann
+Benjamin Lindacher
+Johann Samuel Walther
+1766
+Carl August Börner
+Christoph Gottlob Fromm
+Johann Gottlieb Rost
+----------------
+1767
+Samuel Braune
+Johann Christoph Weise
+Johann? Gottfried Schneider
+Johann Gottlieb Fischer
+1768
+Johann Gottfried Haupt
+Georg Adam Richter
+Siegmund Traugott Rothe
+Johann Christian Richter
+Georg Gotthelf Gläser
+Carl Gottlob Lohse
+1769
+Carl Friedrich Göpfert
+Johann Gottfried Edelmann
+Carl Gottlob Schencke?
+----------------
+1770
+Johann Gottfried Kempe
+Johann Gottlieb Franke
+1771
+Carl Gotthelf Fischer
+1772
+Johann Christoph Beyer
+Johann Christian Beyer
+Friedrich Samuel Exner?
+Samuel Friedrich Lohse
+Carl Gottlob Bormann
+1773
+Johann Christian Richter
+Gottlob Zimmermann
+----------------
+1774
+Andreas Uhrich
+Johann Gottlieb Schneider
+Lorenz Fleischer
+Johann Gotthelf Vogel
+Benjamin Siegert
+Carl Gottfried Timmel
+Johann Gottfried Ulich
+1775
+Gottfried Zimmermann
+Johann Christian Zimmermann
+1776
+Carl Gottlieb Wolf
+Johann Gotthelf Grundmann
+----------------
+Joseph Renner
+Johann Michael Ficke?
+Georg Friedrich Ardner?
+Johann Christoph Höhler
+Samuel Erler
+Carl Samuel Zimmermann
+1777
+Johann Gottfried Mehner
+Carl Gotthelf Seidel
+Johann Gottlieb Matthäs
+Carl Christoph Schneider
+Johann Georg Müller
+Johann Gottfried Trincks
+Christian Gottlieb Rothe
+----------------
+Johann Christoph Goldmann
+Johann Gottlieb Böttger
+1778
+Johann Gottfried Wolf
+Johann Gottlieb Merckel
+1779
+Johann Gottlob Goldmann
+Gottfried Gruhl
+Carl Christian Vogel
+1780
+Carl Gottlieb Keller
+Carl Gotthelf Schiffel
+Carl Christian Friedrich Goldhahn
+----------------
+Johann Gottfried Liebe
+August Gottlob Hänig
+1781
+Johann Caspar Schneider
+Johann Michael Maucksch
+Carl Benjamin Würtzner
+Carl Friedrich Reichelt
+Adam Friedrich Gläßer
+1782
+Samuel Böhme
+Carl Wilhelm Wendeborn
+Carl Benjamin Heitzmann
+----------------
+Carl Friedrich Mey
+Christian Gottlieb Porstein
+1783
+Gottlieb Gemlich
+Johann Christoph Edelmann
+Carl Friedrich Förster
+Christian Gotthelf Porstein
+Johann Gottfried Grießbach
+1784
+Johann Gottfried Merckel
+August Friedrich Cröner
+----------------
+1785
+Johann Samuel Fischer
+Gottfried Schneider
+Christian Traugott Hähnel
+Johann Traugott Reichel
+Johann Gottfried Voigt
+1786
+Johann Christoph Wolf
+Christian Gotthold Eckert
+Gottlieb Häußler
+Carl Gottlieb Zimmermann
+1787
+Carl Friedrich Götzelt
+----------------
+Carl Gottlob Uhlig
+1788
+Johann Michael Bellmann
+Johann Benjamin Bieber
+Carl Traugott Güntzel
+1789
+Johann Gottlieb Heber
+Johann Gottfried Richter
+1790
+Christian Friedrich Eckert
+Christian? Kaden?
+Carl Friedrich? Köhler
+Christian Friedrich August Einhorn
+----------------
+1791
+August Friedrich Tittel
+August Friedrich Henig
+Christian Friedrich Hänig
+Johann Gottlob Walther
+1792
+Carl Christian Friedrich Zier
+Johann Georg Götzel
+Johann Gottfried Berger
+Carl Gottlob Voigtländer
+Carl Gottfried Leberecht Richter
+Johann Christoph Krarrnrumpf?
+----------------
+Johann Carl Kretschmann
+Johann Gottfried Bestel?
+1793
+Carl Gottlieb Weigelt
+Johann Gottlieb Pflugbeil
+Carl Wilhelm Riele
+Christian Gotthelf Sattler
+Carl Friedrich Fritzsche
+Johann Gottlieb Stiehl
+Johann Gottfried Neubert
+Christian Gotthold Lohse
+1794
+Carl Gottfried Kraft
+----------------
+Johann Christian Krumbiegel
+Johann Georg Göbelt
+Christian Friedrich Voigt
+Johann Gottfried Wunderwald
+Johann Gottfried Liebscher
+1795
+Carl Gotthelf Tittel
+Johann Gottfried Dinndorf
+Carl Adam Cloß?
+1796
+Traugott Schubert
+Johann Christian Friedrich Reichel?
+Carl Friedrich Schubert
+----------------
+1797
+Johann Gottfried Schulze
+Carl Gottfried Voigt
+Johann Gottlieb Pötzsch
+Carl Friedrich Größel?
+1798
+Christoph Adam Hähnig
+Johann Gottlieb Schmidt
+Carl Gottlob Muster
+Carl Friedrich Trautzeld
+1799
+Johann Gottlieb Lohse
+Johann Christian Mätzel
+Carl Traugott Kuntze
+----------------
+Gottfried Patzig
+Johann Samuel Muster
+Carl Gottlob Medner?
+1800
+Christian Friedrich Rothe
+Carl Gottlieb Lohchner?
+Carl Gottlieb Lauter?
+Carl Gottlieb Kraut
+1801
+Johann Georg Neubert
+Johann Gottlieb Mehner
+Johann Gottfried Timmler?
+Johann Gottlieb Hilbig
+----------------
+Johann Michael Bellmann
+Adam Heinrich Richter
+Johann August Helbig
+1802
+x
+Johann Gottlob Schneider
+Carl Gottlieb Samuel Stöhrr
+Carl Gottlob Einhorn
+Christian Carl Gotthelf Berger
+Carl Gottlob Wahl
+Carl Gottfried Heinzmann
+Johann Gottlob Börner
+Carl Traugott Böhme
+Carl Gottlieb Clausnitzer
+----------------
+Johann Chrysius Thomas Kunze
+1803
+Christian Friedrich Gehler
+Johann Michael Weichelt
+Carl Gottlieb Eulenberger
+Georg Gotthelf Gläßer
+Carl Gottlieb Zimmermann
