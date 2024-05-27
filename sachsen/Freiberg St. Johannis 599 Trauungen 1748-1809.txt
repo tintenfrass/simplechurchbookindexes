@@ -1,13 +1,14 @@
 Freiberg St. Johannis (Buch 599)
-Trauungen 1748-1799
+Trauungen 1748-1809
 https://www.archion.de/de/viewer/churchRegister/341064?pageId=47913243
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Oktober 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -624,3 +625,129 @@ Johann Christian Wittich
 Christian Gottlob Greiffenhagen
 Johann Gottlieb Lohse
 Carl Gottlob Schultz
+1800
+Johann Gottfried Kraft
+Carl Christian Kirbach
+----------------
+Johann Gottfried Erler
+Samuel Gottlieb Mehner
+Christian Gottfried Lempe
+Carl Gotthelf Kolditz
+Benjamin Büttner
+----------------
+Carl Gottlieb Haupt
+Carl Gottlob Opitz
+----------------
+1801
+Johann Christian Uhlemann
+Johann Gottfried Benjamin Richter
+Johann Gotthelf Kirbach
+Johann Gottlob Mühlberg
+Gottlob Lange
+Johann Carl Benjamin Liebe
+----------------
+Paul Gottfried Liebscher
+Johann Carl Gottlob Schüttauf
+Carl Samuel Fischer
+Johann Christian Daniel Botter
+Gottlob Friedrich Säuberlich
+----------------
+1802
+Johann Christoph Schmieder
+Carl Gottlieb Uhlig
+Carl Gottlob Gläßer
+Gottlieb Friedrich Ehregott Rüger
+Emanuel Friedrich Clausnitzer
+----------------
+Christian Friedrich Griesbach
+Christian Gottlieb Kayser
+Johann Gottfried Preußler
+Carl Christian Brückner
+----------------
+Johann Gottfried Fröbel
+----------------
+1803
+Carl Friedrich August Köhler
+Friedrich August Walther
+Christian Gottfried Johannis
+Johann Gottlob Franke
+----------------
+Christian Gottlob Müller
+Johann Christian Leberecht Haubold
+Gottlieb Wilhelm Schentzel
+Carl Christian Trampe
+Johann Georg Börner
+----------------
+Johann Gottfried Ringler
+Ernst Leberecht Kirchner
+----------------
+1804
+Carl Gottfried Glöß
+Immanuel Gottlob Schubert
+Johann Gottlieb Kunad
+Johann Georg Etzold
+----------------
+Johann Samuel Kirbach
+Johann Gottfried Hunger
+----------------
+1805
+Carl Samuel Fischer
+Johann Gottfried Opitz
+Johann August Richter
+Gottlieb Friedrich Hoffmann
+Carl Gottfried Goldbach
+----------------
+Traugott Friedrich Hencker
+Samuel Friedrich Müller
+Christian Friedrich Klemm
+Christian Friedrich Fritzsche
+Carl Gottlieb Lange
+----------------
+Johann Gottlieb Goldbach
+----------------
+1806
+Johann Gottfried Beyer
+Carl Friedrich Adler
+Johann Christian Schulze
+Benjamin Haucke
+----------------
+1807
+Friedrich Gottlob Werner
+Carl Gottlieb Reeh
+Gottlob Friedrich Scheunert
+Johann Carl August Forberg
+----------------
+Carl August Klemm
+Johann Christian Friedrich Wagner
+Johann Gabriel Rößiger
+Georg Siegmund Schubert
+----------------
+1808
+Johann Carl Gottlieb Schneider
+Johann Gotthelf Leberecht Schubert
+Johann Christian Friedrich Liebe
+----------------
+Johann Gottfried Erler
+Johann Traugott Hennig
+Johann Gottlieb Fischer
+Johann Samuel Franke
+----------------
+Jonathan Ludwig
+Carl Friedrich Hennig
+Johann Friedrich Wilhelm Erner
+Adolph Heinrich Barthel
+----------------
+1809
+Carl Gottlieb Neubert
+Carl Friedrich Schreckenbach
+Friedrich Immanuel Zeller
+Christian Friedrich Weichelt
+----------------
+Johann Gottlieb Lotze
+David Christian Heischkeil
+Carl Friedrich Franke
+Christian Gottlieb Richter
+----------------
+Carl Gottlob Schubert
+Christian Friedrich Goldhan
+Samuel August Schmidt

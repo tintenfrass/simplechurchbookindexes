@@ -1,5 +1,5 @@
 Freiberg Dom St. Marien (Buch 522)
-Trauungen 1708-1799
+Trauungen 1708-1800
 https://www.archion.de/de/viewer/churchRegister/340985?pageId=47899729
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Erstellt in ca. 3 Stunden
 Oktober 2023
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1922,3 +1923,26 @@ Georg Daniel Keßel?
 Johann Gottlob Böhme
 Johann Heinrich Silbermann
 Carl Gottlob Friedrich Schultz
+1800
+Traugott Wilhelm Mietz
+Johann August Bothe
+Carl Gottlob Weichelt
+----------------
+Christian August Thiele
+Johann Car? August Ziegnitz
+Eustachius Schneidewind
+Christian Friedrich Rothe
+Johann Gottfried Pollner
+Carl Heinrich Fischer
+Ambrosius Bethmann? Bernhardi
+----------------
+----------------
+Johann Gottlob Hauptmann
+Christian Ehrenfried Flade
+Carl Gottlob Ketzsche
+Johann Christian Burgk
+Johann Gottlob Müller
+August Gottlob Altmann
+Johann Friedrich Müller
+----------------
+Johann Gottfried Appelt
