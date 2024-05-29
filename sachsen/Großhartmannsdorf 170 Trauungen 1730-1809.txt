@@ -1,13 +1,14 @@
 Großhartmannsdorf (Buch 170)
-Trauungen 1730-1799
+Trauungen 1730-1809
 https://www.archion.de/de/viewer/churchRegister/359765?pageId=50654041
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stunden
+Erstellt in ca. 2 Stunden
 Januar 2024
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -786,3 +787,187 @@ Traugott Leberecht Matthes
 ----------------
 Johann August Neuber
 August Friedrich Flade
+----------------
+1800
+Franz Gotthold Hartwig
+Christoph Joseph Christian
+Carl Friedrich Haupt
+Johann Christian Adolph Schlegel
+----------------
+Carl Friedrich Einert
+Carl Samuel Storch
+Johann David Klemm
+Johann Gottlieb May
+Johann Gottfried Fischer
+----------------
+August Friedrich Lichtenberger
+Carl August Köhler
+August Friedrich Oehm
+Johann Carl Samuel Rüger
+----------------
+1801
+Gottlieb Friedrich Teuscher
+Carl Gottfried Neuber
+Carl Friedrich Hölzig
+Traugott Friedrich Fischer
+Gottlob Friedrich Gehlert
+David Friedrich Hauck
+----------------
+Christoph Friedrich Reuter
+Carl August Rößiger
+Christian Heinrich Schulze
+Carl Christian Schellenberger
+August Friedrich Mühl
+----------------
+Carl Gottlob Eilenberger
+Christian Gottlieb Schenke
+----------------
+1802
+Carl Friedrich Drechsel
+Carl Gottlob Glöckner
+Salomon Friedrich Weidensdorfer
+Christian Gottlieb Schenke
+Carl August Eilenberger
+----------------
+Carl Samuel Eilenberger
+Carl Gottlob Kaden
+Carl Gottlieb Sturm
+Carl Christoph Matthes
+----------------
+Carl Gottlob Hermann
+Carl Gottfried Richter
+Carl Friedrich Werner
+----------------
+1803
+Johann Gottfried Haubold
+Johann Gottfried Martin
+Samuel Friedrich Ulbricht
+Carl Gottlieb Otte
+----------------
+August Friedrich Krumbiegel
+Carl Gottlob Friedrich Rößiger
+Carl Friedrich Lange
+David Gottlob Fischer
+Johann Gottlieb Wilhelm Richter
+----------------
+Carl Friedrich Bräuer
+Traugott Friedrich Zimmermann
+Johann Georg Porstendorfer
+Carl Gottlob Göpfert
+----------------
+1804
+Johann Samuel Rösiger
+Johann Gottfried Seiffert
+Carl Gottfried Eilenberger
+Carl Gottlob Clausnitzer
+Carl Friedrich Oehm
+Carl Gottlob Fritzsche
+----------------
+Traugott Christoph Brückner
+Johann Gottfried Schneider
+Johann Michael Gottlob Müller
+Carl Gottfried Hauck
+Christian Friedrich Vogler
+Johann Gottlob Müller
+----------------
+Carl Gottlob Krumbiegel
+Christian Gottlieb Börner
+Johann David Träger
+Johann Gottlob Brückner
+Carl Friedrich Melzer
+Carl August Lichtenberger
+Traugott Friedrich Wirth
+----------------
+David Friedrich Matthes
+Georg Gottlieb Rudolf
+Traugott Friedrich Friedmann
+Johann Georg Bauer
+Carl Gottfried Loose
+----------------
+1805
+Carl Gottlob Fischer
+Carl August Fischer
+Gottlob Friedrich Teuscher
+Johann Gottlieb Werner
+Samuel Friedrich Anke
+Carl August Pretschendorfer
+Johann Christoph Richter
+----------------
+Johann Christian Traugott Werner
+Christian Friedrich Hezel
+Johann Gottfried Gözel
+Carl Friedrich Ditrich
+Carl August Glöckner
+August Träger
+Gottlob Friedrich Otte
+----------------
+August Friedrich Schreiber
+Johann Samuel Eilenberger
+August Friedrich Weidensdorfer
+1806
+Johann Joseph Buschbeck
+Carl Gottlob Börner
+----------------
+Johann Gottlob Weygand
+Carl Adolph Hezel
+Samuel Heinrich Pretschendorfer
+Johann Christoph Kirsch
+----------------
+1807
+Johann Gottfried Krumbiegel
+Johann Georg Kröner
+Samuel Friedrich Ditrich
+August Friedrich Clausnitzer
+Carl August Gehlert
+August Friedrich Oehm
+----------------
+Carl Gottlob Förster
+Carl Gottlieb Haubold
+August Immanuel Schlegel
+Traugott Friedrich Frey
+Johann Gottfried Tittel
+Christian Gottlob Krumbiegel
+----------------
+Johann Georg Müller
+Johann David Gottlob Kahl
+Christian Friedrich Fritzsche
+----------------
+----------------
+1808
+Gotthelf Friedrich Matthes
+Carl Friedrich Kaden
+Georg Friedrich Gehler
+Carl Gottlob Einert
+Christian Friedrich Müller
+Johann Heinrich Brückner
+August Friedrich Lichtenberger
+----------------
+Johann Christoph Schellenberger
+August Gottlob Schönlebe
+Johann Gottlieb Werner
+Georg Gottfried Schwartze
+Carl Friedrich Müller
+Traugott Friedrich Eilenberger
+----------------
+Johann Gottlieb Hohlfeld
+August Heinrich Müller
+Adolph Friedrich Sandig
+Johann Christian Helbig
+Samuel Friedrich Zimme
+Carl Friedrich Mühl
+----------------
+1809
+Salomon Friedrich Ulbricht
+Johann Georg Gottlob Otte
+Johann Daniel Rösiger
+Johann David Martin
+Johann Gottfried Franke
+Johann Gottlieb Tanneberger
+Johann Gotthold Köhler
+Johann Gottlieb Haselbachen
+----------------
+Johann Friedrich Ferdinand Winckler
+Friedrich Samuel Schönlebe
+Carl August Uhlig
+Carl August Günzel
+Carl August Träger

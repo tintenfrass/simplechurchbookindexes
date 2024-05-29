@@ -1,5 +1,5 @@
 Gränitz (Buch 157)
-Trauungen 1614-1799
+Trauungen 1614-1801
 https://www.archion.de/de/viewer/churchRegister/359752?pageId=50651810
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Erstellt in ca. 1 Stunde
 Januar 2024
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -348,3 +349,9 @@ Johann Michael Arnold
 Christian Gottlieb Hickel
 1799
 Johann Traugott Müller
+1800
+Johann Gottlieb Böttger
+Carl Gottlob Benjamin Noack
+1801
+Gottlob Heerklotz
+Carl Gottlob Arnold
