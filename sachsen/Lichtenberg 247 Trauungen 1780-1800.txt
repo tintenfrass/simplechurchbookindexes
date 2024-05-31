@@ -1,5 +1,5 @@
 Lichtenberg (Buch 247)
-Trauungen 1780-1799
+Trauungen 1780-1800
 https://www.archion.de/de/viewer/churchRegister/359979?pageId=50696524
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -11,6 +11,7 @@ Zum Kirchenbuch gibt es ein Registerband, welcher aber für diesen Index nicht b
 
 Erstellt in ca. 0,5 Stunden
 Januar 2024
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -422,3 +423,28 @@ Johann Gottfried Börner
 Carl Gottlob Männel
 ----------------
 Christian Friedrich Schubert
+1800
+Johann Gottlob Fröbel
+Johann Christoph Ditrich
+Johann Christoph Köhler
+----------------
+Johann Christlieb Helbig
+Johann Gottlieb Erler
+Carl Gottlieb Benjamin Richter
+Johann Georg Oehme
+Johann Gottfried Herklotz
+Johann Gottfried Eidner
+----------------
+Ehregott Friedrich Kröner
+Christian Gotthelf Wagner
+Carl Gottlieb Schneider
+Johann Gottlieb Sandig
+Johann Gottfried Fleischer
+----------------
+Johann Gottfried Scheinpflug
+Christian Gottlob Kaden
+Daniel Friedrich Hering
+Johann Gottlieb Böhme
+----------------
+Christian Gottlieb Scheinpflug
+Johann Gottfried Fischer

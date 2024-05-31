@@ -1,13 +1,14 @@
 Langhennersdorf (Buch 831)
-Trauungen 1789-1799
+Trauungen 1789-1802
 https://www.archion.de/de/viewer/churchRegister/359945?pageId=50687848
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunde
 Januar 2024
+Mai 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -552,3 +553,137 @@ Carl Gotthelf Beyer
 Friedrich Traugott Fehmel
 Johann Siegmund Liebe
 Gottfried Liebschner
+----------------
+1800
+Johann Christian Liebschner
+Traugott Leonhard
+Johann David Herold
+Johann Christoph Weichelt
+Carl Gottlob Feldmann
+Johann Conrad Wenzel
+Christian Friedrich Buze
+Carl Christian Bretschneider
+----------------
+Carl Gottlieb Berger
+Johann Gotthelf Braune
+Carl Gottlob Richter
+Carl Friedrich Naumann
+Carl Friedrich Martin
+Johann Salomon Leonhard
+Johann Gottlob Hammer
+Carl Gottlob Andräas
+----------------
+Johann Christoph Ziegenbalg
+Gotthelf Küttner
+Johann Gottlieb Raedel
+Johann Christian Richter
+Johann David Gehrich
+Johann Gottlob Apold
+Johann Michael Bläßer
+Johann Gottlob Friedrich Clausnitzer
+----------------
+Christian Friedrich Flatter
+Johann Georg Feldmann
+Johann August Schwalbe
+Christian Gottlob Küttner
+Johann Gottfried Sträubel
+Johann Christian Rößger
+Friedrich Wilhelm Fleischer
+Christian Gottlob Hiller
+Immanuel Händler
+----------------
+Gottlob Friedrich Schlicke
+Gotthelf Thiemer
+Johann Christian Gottlob Störr
+Johann Gottfried Zill
+Johann Christoph Uhlmann
+1801
+Johann Christian Metzler
+Christian Gottfried Tippmann
+Johann Gotthold Schmidt
+----------------
+Friedrich Gotthelf Pfeiffer
+Carl Gottlieb Weinhold
+Johann Gottfried Beyer
+Johann Andreas Hennig
+Ehregott Leberecht Kunze
+Johann Christian Schuster
+Gotthelf Scheinert
+----------------
+Carl Gottlob Weber
+Johann Gottfried Schüler
+Christoph Traugott Schmidt
+Johann Gottfried Krumbiegel
+Johann Gottfried Fleischer
+----------------
+Johann Traugott Leberecht Ohndorf
+Carl Heinrich Oeser
+Gottfried Polster
+Johann Gottlieb Reh
+Johann Gottfried Hennig
+Johann Michael Metzler
+Johann Gotthelf Wilhelm Winckler
+----------------
+Traugott Leberecht Wolf
+Johann Christoph Haupt
+Johann Gottlob Schmidt
+Carl Gottlieb Hahnisch
+Carl Gottlieb Fehmel
+Johann Heinrich Haupt
+----------------
+Johann Gottfried Merkel
+Johann Christoph Dienelt
+Johann Christoph Büttner
+Johann Georg Krumpfer
+Traugott Müller
+Carl Gottlob Richter
+1802
+Johann Gottfried Schmidt
+----------------
+Johann Michael Wolf
+Heinrich? Gotthelf Storerr //korrigiert
+Johann Christian Straube
+Carl Gottfried Forberg
+Johann Gottlieb Görner
+Carl Gottlieb Keller
+Johann Gottfried Felgner
+----------------
+Christian Friedrich Thieme
+Carl Gottfried Stoerr
+Carl Gotthelf Scheinert
+Gottlieb Froebe
+Gottfried Ulbrich
+Johann Christian Heerold
+----------------
+Carl Gottfried Schnecke
+Christian Friedrich Weichelt
+Johann Gottlieb Hammermüller
+Gottlieb Winckler
+Johann Gottlieb May
+Adam Friedrich Fleischer
+----------------
+Johann Gottfried Zill
+Christian Friedrich Walther
+Salomon Siegmund Seyderhelm
+Johann Gottlieb Dietze
+Johann Christian Köhler
+Johann Gottfried Leonhard
+Johann Gottlieb Schäfer
+Gottlob Samuel? Kunze
+----------------
+Johann Gotthelf Störr
+Christian Gotthelf Keller
+Johann Traugott Hoffmann
+Christian Adolph Claudius
+Traugott Ehrenfried Kunze
+Christian Friedrich Steiger
+Johann Gottlieb Franke
+Johann Gottlob Hammer
+Johann August Ulbricht
+----------------
+Abraham Kühn
+Johann Liebegott Schlicke
+Johann Christoph Schneider
+Traugott Salomon Halm
+Johann Gotthelf Hammermüller
+Carl Gottfried Ohndorf
