@@ -1,13 +1,14 @@
 Niederschöna (Buch 891)
-Trauungen 1780-1799
+Trauungen 1780-1809
 https://www.archion.de/de/viewer/churchRegister/360053?pageId=50708376
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Januar 2024
+Juni 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -417,3 +418,231 @@ Johann Gottlieb Uihle
 Johann Rudolph Lorentz
 Johann Heinrich Lützner
 Gotthelf Schmidt
+----------------
+1800
+Johann Christoph Richter
+Carl Christian Bretschneider
+Johann Gottlieb Ditrich
+Johann Michael Bernhard
+Carl Gottlieb Ludwig
+Johann Gottlieb Lantsch
+----------------
+Christian Wilhelm Blüher
+Carl Gottfried Lommatzsch
+Carl Gottlieb Ditrich
+Johann Samuel Scheinpflug
+Johann Christian Fischer
+Carl Friedrich Walther
+----------------
+Georg Lindner
+Carl Gottlob Kümmelberger
+Johann Adolph Winckler
+Carl Christian Kaden
+Carl Gottfried Heyde
+Carl Samuel Hase
+----------------
+Carl Gottlob Görlt
+Gotthelf Friedrich Müller
+1801
+Johann Georg Keller
+Carl Gotthelf Fehrmann
+Johann Traugott Borsdorf
+Carl Gottlieb Seyffert
+----------------
+Johann Christian Gottlieb Lange
+Johann Gotthelf Heede
+Carl Friedrich Baumgarten
+Carl Gottlieb Einert
+Johann Samuel Schubert
+Johann Gottlieb Böhme
+Johann Gottlieb Ditrich
+----------------
+Johann Christian Salomo
+Johann Gottlieb Nacke
+Johann Gottfried Seyffert
+Carl Gottfried Schubert
+Carl Friedrich Ditrich
+Gotthelf Leberecht Ludwig
+Carl Gotthelf Kühn
+Johann Gottlob Eckelt
+----------------
+1802
+Johann Gottlob Littig
+Benjamin Friedrich Gröllner
+Carl Gotthelf Scheunert
+Johann Gottlieb Fischer
+Traugott Gottlieb Imhof
+Johann Gottlieb Zimmer
+Christian Heyme
+Johann Gottlieb Ufer
+----------------
+Johann Gottfried Störl
+Johann Gottfried Fischer
+Johann Daniel Große
+Carl Gottlob Knebel
+Johann Gottfried Ramm
+Johann Gotthelf Schröter
+Johann Gottlieb Schubert
+Johann Gottlieb Hachenberger
+----------------
+Georg Gebler
+Carl Gottlieb Ditrich
+Carl Gottlieb Böhme
+Carl Gottfried Rost
+Johann Gottfried Lorentz
+Carl Gottlieb Ludwig
+Johann Michael Schubert
+----------------
+1803
+Johann Gottfried Richter
+Johann Gotthelf Müller
+Johann Christian Schubert
+Johann Gottlob Ranft
+Johann Gottfried Halfter
+Christian Gottlob Ludwig
+Johann Gottlob Naumann
+Johann Christian Schübe?
+----------------
+Johann Gottlieb Knebel
+Carl Gottlieb Salomo
+Carl Friedrich Zimmermann
+Johann Gottlob Eulenberger
+Johann Gottlob Teubner
+Carl Gottlieb Pfeiffer
+Christian Friedrich Döring
+Carl Gottlieb Heyde
+----------------
+1804
+Johann Michael Limbach
+Carl Gottfried Däne
+Johann Samuel Clausnitzer
+Carl Gotthold Weise
+Johann Gottfried Fischer
+Carl Gottlieb Ditrich
+Johann Gottlob Ficke
+Johann Georg Keller
+----------------
+Johann Gotthelf Döring
+Gottlieb Leberecht Walther
+Johann Gottfried Keppler
+Georg Kretzschmar
+Carl Gottlob Schlicke
+Johann Gottlieb Hoffmann
+Carl Gottlieb Böhme
+----------------
+Carl Gottlieb Künzelmann
+Johann Michael Meutzner
+Johann Gottfried Mühlberg
+1805
+Johann Gottlieb Goldammer
+Johann Traugott Clausnitzer
+Carl Gottlob Thomas
+Carl Gottlob Pinker
+----------------
+Carl Gottfried Philipp
+Carl Gottlieb Thielemann
+Samuel Gotthelf Heyde
+August Friedrich Edel
+Christian Friedrich Starcke
+Christian Gotthelf Heinrich
+Johann Gotthelf Börner
+Johann Gottlieb Böhme
+Carl August Tamm
+----------------
+1806
+Johann Hartmann
+Carl Gottfried Kühn
+Carl Gottlieb Schubert
+Johann Gottfried Gerolth
+Gotthelf Köhler
+Johann Gottlieb Friedrich
+Carl Gottfried Renkewitz
+----------------
+Johann Gottlieb Würzner
+Carl Gottlob Heyde
+Traugott Leberecht Krumbiegel
+Carl Gottlob Zeller
+Carl Gottlieb Heber
+Johann Traugott Schulze
+----------------
+Carl Samuel Fischer
+Carl Gottlieb Seiffert
+Carl Gottlob Streller
+Christian Friedrich Fischer
+----------------
+1807
+Carl Gotthelf Funcke
+Carl Gottlieb Gabriel
+Carl Gotthold Weise
+Carl Gottlieb Starke
+Johann Gottlieb Heber
+Johann Samuel Gottlieb Funcke
+Johann Samuel Traugott Bergmann
+----------------
+Johann Gottlob Rüdiger
+Gotthelf Leberecht Schmiedgen
+Johann Gottlieb Leuteritz
+Christian Gotthelf Rost
+Johann Gottlob Henker
+Carl Gottlieb Störl
+----------------
+Johann Christian Rötsch
+Johann Gottlob Seyffert
+Johann Gottlieb Birkner
+Carl Gottlieb Knebel
+Carl Gottfried Seyffert
+----------------
+Johann Gottlob Seering
+Carl Gottlob Kost
+Johann Michael Keller
+Carl Gottlob Böhme
+Johann Gottlieb Krause
+----------------
+Christoph Heinrich Krause
+Johann Gottlob Irmer
+----------------
+1808
+Johann Georg Pinker
+Christian Friedrich Krumbiegel
+Carl Gottlieb Winckler
+Johann Gottlob Roßberg
+Johann Christoph Herold
+Christian Heinrich Steinbock
+----------------
+Johann Gottfried Künzelmann
+Carl Christian Barthel
+Johann Traugott Heber
+Johann Gottfried Görlt
+Johann Gottlieb Seyffert
+----------------
+Johann Christian Müller
+Carl Gottlieb Ditrich
+Carl Friedrich Lehnert
+Johann Gottlieb Böhme
+----------------
+1809
+Johann Christoph Richter
+Carl Gottlob Ditrich
+Samuel Ehrenfried Büttner
+Carl Gottlieb Lotze
+Carl Gottlob Rost
+----------------
+Johann Gottlob Zimmermann
+Elias Wustlich
+Johann Gotthelf Heyde
+Johann Gottfried Lucius
+Johann Gotthelf Keppler
+Johann Christian Ludewich
+----------------
+Johann Adolph Schlicke
+Johann Gottlieb Ditrich
+Carl Gottfried Leberecht Kaden
+Johann Carl Gottlob Salomo
+Johann Gotthelf Eckert
+Carl Gottlob Liebert
+----------------
+Johann Gotthelf Ufer
+Carl Gottfried Löwe
+Christian Friedrich Fischer
+Johann Gottlieb Rost
+Johann Gottlob Fuhrmann

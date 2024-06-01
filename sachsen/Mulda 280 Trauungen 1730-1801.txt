@@ -1,5 +1,5 @@
 Mulda (Buch 280)
-Trauungen 1730-1799
+Trauungen 1730-1801
 https://www.archion.de/de/viewer/churchRegister/360012?pageId=50700206
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Erstellt in ca. 1 Stunde
 Januar 2024
+Juni 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -550,3 +551,33 @@ Friedrich Traugott Kuntze
 Carl Adolph Gotthelf Braune
 Johann Gottlieb Ditrich
 Johann Gottlieb Wolf
+1800
+Christian Gottfried Ditrich
+Christian Friedrich Burckhart
+Carl Friedrich Hähnel
+Carl Christoph Ditrich
+Johann Gottfried Kaden
+----------------
+Johann Traugott Riegel
+Carl Christoph Oehme
+Johann Gottfried Fischer
+Carl Gottlob Böhme
+Johann Gottlob Anders
+Johann Gottfried Schramm
+Johann Gottfried Fischer
+1801
+Johann Gottfried Grohmann
+----------------
+Johann Benjamin Wezel
+Christian Gottfried Ditrich
+Peter Lehmann
+Carl Friedrich Morgenstern
+Johann Christlieb Ditrich
+Johann Gotthelf Berthold
+Caspar Schubert
+Johann Christian Friedrich Richter
+Johann Christoph Mehnert
+Carl Gottlieb Hertel
+----------------
+Carl Gottlob Anders
+Johann Gottfried Thiele

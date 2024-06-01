@@ -1,12 +1,14 @@
 Oberschöna (Buch 910)
-Trauungen 1790-1799
+Trauungen 1790-1809
 https://www.archion.de/de/viewer/churchRegister/360090?pageId=50715458
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
+Erstellt in ca. 0,5 Stunden
 Januar 2024
+Juni 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -196,3 +198,195 @@ Friedrich August Uhlmann
 Christian Gottlob Berthold
 ----------------
 Friedrich August Rost
+1800
+Johann Samuel Feldmann
+Friedrich Gottlieb Kröher
+Johann Gottlieb Böttger
+Johann Friedrich Oehme
+----------------
+Conrad Pomsler
+Carl Samuel Kröhnert
+Martin Friedrich Reh
+Carl Gottlieb Hunger
+Daniel Friedrich Andreas
+Carl Gottlob Heinicke
+Johann Samuel Griesbach
+----------------
+Johann Gottfried Fritzsche
+Johann Gottlob Meyer
+Johann Traugott Mende
+----------------
+1801
+Johann Gottlob Lange
+Johann Gottfried Hellmuth
+Hans Georg Carlowitz
+----------------
+Carl Friedrich Weise
+Johann Gottlieb Silbermann
+Carl Friedrich Kahl
+----------------
+Johann Gottfried Kunze
+Johann Christian Gottlieb Märker
+Johann Friedrich Leberecht Rudolf
+Johann Gottlieb Rudolf
+----------------
+1802
+Christian Friedrich Schröter
+David Friedrich Henker
+Christian Gottfried Horn
+Christian Gotthelf Braune
+----------------
+Carl Gottfried Kunze
+Christian Gottlieb Menschel
+Christian Friedrich Wilhelm Zimm
+Christian Gottlob Wagner
+----------------
+Johann Gottfried Lange
+Samuel Zehl
+Johann Christoph Hubricht
+Johann Gottfried Richter
+----------------
+Gottlob Friedrich Horn
+Carl Gottlob Oehme
+Carl Friedrich Heinzmann
+Carl Israel Friedrich Otte
+----------------
+Carl Gottlob Börner
+Johann Georg Klemm
+Carl Gottlob Kühn
+Benjamin Meyer
+----------------
+1803
+Carl Adolph Haubold
+Johann Gottlieb Eichhorn
+Johann Gottfried Forwerg
+----------------
+Johann Gottlieb Börner
+Carl Reinhard Kröher
+Gottlieb Enderlein
+Samuel Heinrich Klemm
+----------------
+Johann Gottlob Krumbiegel
+Traugott Benjamin Mätzler
+Carl Friedrich Götze
+----------------
+Gottlob Friedrich Schneider
+Johann Georg Rothe
+----------------
+1804
+Johann Christian Tränkner
+Johann Gottlob Fritzsche
+Johann Gottlieb Schubert
+Johann Gottlob Lange
+----------------
+Johann Gotthelf Weigand
+Johann Martin Heiliggeist
+Christian Gottlieb Richter
+Christian Friedrich Brückner
+----------------
+Carl Friedrich Lange
+Paul Gottfried Fleischer
+Johann Samuel Herold
+Carl Friedrich Haucke
+----------------
+1805
+Carl Gotthold Fleischer
+Johann David Ludwig
+Gottlob Friedrich Teuscher
+Carl Heinrich Fürchtegott Reif
+----------------
+Carl Gottlieb Köhler
+Johann Gottlieb Straßberger
+----------------
+1806
+Christian Gottlob Oswald
+Carl Adolph Andreas
+Johann Georg Morgenstern
+Israel Fleischer
+Johann Gottlob Starcke
+----------------
+Johann Gottlob Weygand
+Samuel Gotthelf Seidel
+Johann Samuel Ruppert
+Carl Gotthold Kimmer
+----------------
+Carl Gottlob Haubold
+Johann Gottlieb Heinzmann
+Johann Christoph Lange
+Johann Ehregott Schüttauß
+Samuel Friedrich Höpfner
+----------------
+Carl Gottlieb Neubert
+Heinrich Hiskias Haubold
+Johann Friedrich Zehl
+Johann Christian Kirsch
+Johann Samuel Bellmann
+----------------
+Friedrich Adolph Liebe
+Benjamin Haucke
+Johann Gotthold Michaelis
+----------------
+1807
+Johann Samuel Laube
+Johann Gottlob Andreas
+August Gotthelf Maukisch
+Benjamin Köhler
+----------------
+Johann Christian Friedrich Kirchner
+Johann Georg Pomsler
+Carl Gotthelf Horn
+Carl Friedrich Haubold
+----------------
+Carl Gottfried Kunze
+Friedrich Ehregott Meutzner
+Jacob Johann Petasch //korrigiert
+Carl Friedrich Oehme
+----------------
+Johann Gottlieb Wiedemann
+Carl Traugott Rudolf
+Carl Gottlob Kretzschmar
+Benjamin Kretzschmar
+Immanuel Meutzner
+----------------
+1808
+Christian Friedrich Dähne
+Carl Gottlieb Otte
+Christoph Friedrich Höpfner
+Johann Gottfried Fokke
+Johann Christian Friedrich Liebe
+Christoph Friedrich Fischer
+----------------
+Johann Gottlieb Höpfner
+Christian Traugott Schulze
+Gottfried Siegmund Kind
+Johann Carl Gottlob Eydner
+Carl Friedrich Lange
+Carl Gottlieb Oswald
+----------------
+August Wilhelm Grösel
+Carl Friedrich Schreyer
+Carl Gottfried Tippmann
+Carl Christoph Ludwig
+Christian Gottlieb Mende
+Carl Gottlob Neubert
+----------------
+Carl Gottlieb Noak
+1809
+Wilhelm Pomsler
+Johann Gottfried Kind
+Carl Gottlieb Clausnitzer
+----------------
+Johann Gotthold Illgen
+Johann Paul Preißler
+Carl Gottlob Kaden
+Carl Friedrich Müller
+Traugott Friedrich Hünig
+Johann Samuel Friedrich Neubert
+----------------
+Johann Immanuel Eckart
+Friedrich Ehregott Kröhnert
+August Ferdinand Köhler
+Carl Gottfried Kunze
+Carl Gottlob Siegert
+----------------
+August Enderlein

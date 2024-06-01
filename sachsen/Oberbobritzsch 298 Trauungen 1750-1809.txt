@@ -1,13 +1,14 @@
 Oberbobritzsch (Buch 298)
-Trauungen 1750-1799
+Trauungen 1750-1809
 https://www.archion.de/de/viewer/churchRegister/360074?pageId=50712011
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Januar 2024
+Juni 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -806,3 +807,206 @@ Carl Gottfried Krumbiegel
 Carl Gottfried Franke
 Johann Gotthelf Ihle
 Johann Gottlieb Steinert
+1800
+Carl Gottfried Wolf
+Johann Gottlob Kästner
+Gottlob Friedrich Erler
+----------------
+Johann Christoph Ditrich
+Johann Christian Kerbach
+Johann Christoph Werner
+Johann Christoph Zimmermann
+Johann Christlieb Helbig
+Johann Gottfried Heerklotz
+Johann Gottfried Eydner
+Samuel Schmieder
+Johann Gottlieb Pflugbeil
+Johann Gottfried Grimmer
+Carl Gottlob Clausnitzer
+Carl Gottfried Fischer
+Johann Gottlieb Fröbe
+Gottlob Göhler
+----------------
+Carl Friedrich Schmidt
+Carl Gottlob Schneider
+Johann Gottlieb Böhme
+Johann Gottlob Ditrich
+Johann Gottlieb Köhler
+Johann Gottfried Franke
+1801
+Johann Gottfried Fischer
+Christoph Schlesiger
+Gottlob Friedrich Thiele
+Johann Christoph Weidensdörfer
+Carl Gottlob Ertelt
+Johann Christian Wintrich
+Christian Benjamin Fischer
+August Rümler
+----------------
+Christian Ehregott Büttner
+Christian Friedrich Bauer
+Christian Gottlieb Kaden
+Johann Gottlieb Lohse
+Carl Gottlob Glöckner
+Gottlieb Friedrich Fleischer
+Carl Gottlob Krauße
+Carl Gottlieb Grießbach
+Johann Leberecht Zimmermann
+Johann Christian Daniel Butter
+Carl Gottfried Sohr
+Carl Gottlob Horn
+Christian Gottlieb Glöckner
+Carl Gottlob Franke
+----------------
+Carl Gottlieb Ruprecht
+Georg Gottfried Zimmermann
+1802
+Johann Gottfried Maether
+Johann Gottfried Ehrlich
+Georg Michael Hauptvogel
+Georg Gottfried Wahl
+Johann Gottlob Köhler
+Carl Christian Püschel
+Johann Gotthelf Lempe
+Carl Gottlob Gläser
+Christian Gottlob Wolf
+Christian Gottlieb Fischer
+Carl Gottlob Kaden
+----------------
+Johann Georg Kaden
+Johann Gottlieb Schmieder
+Carl Gottlob Berger
+Carl Gottlieb Hoeler
+Johann Christian Berndt
+Carl Gottlieb Clausnitzer
+Christian Friedrich Scheinpflug
+Johann Gottlieb Glöckner
+Johann Gottfried Hegewald
+Carl Gottlieb Schmieder
+Carl Gottlob Neubert
+1803
+Christian Friedrich Gehler
+Georg Gottfried Böhme
+----------------
+Georg Gottlieb Glöckner
+Johann Traugott Fritzsche
+Christian Gottfried Straßberger
+Johann Samuel Lempe
+Carl Gottlieb Glöckner
+Johann Gottfried Weise
+Johann Christoph Schröter
+Johann Gottfried Hänel
+Christian Friedrich Glöckner
+Georg Gottlieb Ebelt
+Carl Gottlob Richter
+Carl Gottlieb Schmieder
+Carl Gottlob Geißler
+Christian Friedrich Eidner
+----------------
+Johann Gottfried Eckert
+1804
+Christian Friedrich Renkewitz
+Carl Gotthelf Scheinpflug
+Carl Gotthelf Stenzel
+Johann Gottlob Fischer
+Carl Gottlob Wetzel
+Johann Gottfried Schröter
+Immanuel Gottlob Schubert
+Christian Gottlob Weigelt
+Johann Gottfried Schneider
+Carl Gottlob Schmidt
+----------------
+Carl Gottlob Wahl
+Samuel Dietze
+Johann Georg Börner
+Carl Gottlob Helbig
+Johann Gotthelf Wolf
+Johann Gottlob Börner
+Georg Gottlieb Rudolf
+Carl Gottlieb Zimmermann
+Christian Gotthelf Schurich
+Carl Gottlob Horn
+1805
+Carl Gottfried Glöckner
+----------------
+Carl Gottlieb Berger
+Carl Gottlieb Grimmer
+Johann Gottfried Scheinpflug
+Johann Christoph Kaden
+Carl Friedrich Franke
+Carl Gottlieb Butze
+Christian Friedrich Schmidt
+Carl Gottlieb Zimmermann
+Johann Christoph Fischer
+Carl Gottlob Franke
+Gottlob Friedrich Erler
+1806
+Johann Gottfried Pförtner
+Carl Gottfried Müller
+----------------
+Carl Gottlieb Lehmann
+Johann Gottfried Fischer
+Gottlieb Richter
+Carl Gottlieb Fischer
+Johann Carl Kunad
+Carl Gottlieb Lohse
+Christian Friedrich Kaden
+Christian Gottlieb Köhler
+Carl Gottfried Lempe
+Carl Christian Schneider
+----------------
+1807
+Gottlob Friedrich Glöckner
+Johann Gottlieb Fischer
+Johann Christian Lotze
+Johann Gotthelf Erler
+Johann Christian Timmel
+Georg Samuel KEgel
+Gottlob Friedrich Scheunert
+Carl Gottlieb Schneider
+Johann Gottlob Walther
+Johann Gottfried Kaden
+Carl Gottlieb Lipmann
+Carl Gottlob Clausnitzer
+----------------
+Carl Gottlieb Richter
+1808
+Carl Gottlob Waldmann
+Johann Friedrich Schöfauer
+Carl Gottfried Fischer
+Johann Gottlieb Ertelt
+Georg Gottfried Richter
+Johann Gottlieb Troeger
+Johann Gottfried Glöckner
+Carl Gottlieb Baumgart
+Carl Gottlob Schneider
+----------------
+Carl Friedrich Walther
+Johann Gottlieb Lohße
+Christian August Otto
+Gottlieb Friedrich Hempel
+Carl Gottlieb Neubert
+Gottlieb Zimmermann
+Carl Gottlob Erler
+Christian Friedrich Reinhard Fleischer
+Friedrich Traugott Lohße
+Friedrich Gottlieb Berger
+Carl Gottlieb Brauer
+Carl Gottlieb Wolf
+1809
+Christian Friedrich Bormann
+----------------
+Carl Gottlob Franke
+Carl Gottfried Göpfert
+Johann Samuel Zeunert
+Carl Gottfried Jünger
+Carl Gottfried Erler
+Adam Ephraim Fritzsche
+Georg Gottlieb Hegewald
+Carl Gottlob Schmidt
+Carl Gottlob Franke
+Joseph Friedrich Wagner
+Carl Gottlob Henschel
+----------------
+Traugott Leberecht Zimmermann
+Friedrich Gottlob Franke
