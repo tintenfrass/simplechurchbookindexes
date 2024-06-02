@@ -1,5 +1,5 @@
 Weigmannsdorf (Buch 384)
-Trauungen 1794-1799
+Trauungen 1794-1800
 https://www.archion.de/de/viewer/churchRegister/360183?pageId=50734525
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -7,6 +7,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
 Januar 2024
+Juni 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -108,3 +109,24 @@ Johann Gottlob Neubert
 Johann Georg Göhler
 Georg Traugott Gläser
 Johann Gottlieb Sohr
+----------------
+1800
+Johann Gottfried Liebscher
+Carl Gottlob Böhme
+----------------
+Johann Carl Gottlob Klöß
+Carl Gottlob Grund
+----------------
+Johann Gottfried Thiele
+Gottlieb Friedrich Ölschlegel
+----------------
+Johann Gottlieb Ditrich
+Carl Gottlob Müller
+----------------
+Carl Gottlob Weidensdorfer
+Carl Gottfried Mäcke
+----------------
+Christian Gottlob Kaden
+Carl Gottlob Geyer
+----------------
+Johann Gottlob Fritzsche

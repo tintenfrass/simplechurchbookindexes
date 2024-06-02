@@ -1,5 +1,5 @@
 Zethau (Buch 410)
-Trauungen 1771-1799
+Trauungen 1771-1809
 https://www.archion.de/de/viewer/churchRegister/360209?pageId=50738851
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Erstellt in ca. 0,5 Stunden
 Januar 2024
+Juni 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -458,3 +459,176 @@ Christian Friedrich Walther
 Johann Christoph Börner
 Christian Friedrich Schmidt
 Christian Gottlob Börner
+----------------
+1800
+Johann Gottlieb Erler
+Christian Adolph Walther
+Christian Friedrich Götzel
+Johann Christian Helbig
+Samuel Schmieder
+Johann Traugott Rudolf
+Christian Gottlieb Walther
+----------------
+Christian Gottfried Gerold
+Christoph Keppler
+Christian Friedrich Richter
+Carl Friedrich Schubert
+Carl Gottlob Geyer
+Johann Georg Arnold
+Johann Gottlob Schneider
+----------------
+1801
+Johann Georg Fröbel
+Johann Gottfried Fischer
+Johann Gottfried Arnold
+Carl Gottlob Arnold
+Georg Friedrich Bellmann
+Johann Benjamin Wezel
+Christian Gottlob Bellmann
+----------------
+Christoph Schröter
+Gottlob Schmieder
+Sebastian Friedrich Walther
+Daniel Traugott Arnold
+Christian Friedrich Schwalbe
+Johann Christoph Kaden
+Carl Schellenberger
+Johann Wilhelm MArtin
+Gottlieb Friedrich Fleischer
+----------------
+Johann Michael Bellmann
+Carl Friedrich Helbig
+Carl Andreas Fröbel
+Carl Gottfried Lippmann
+Wilhelm Adam Horn
+Johann Carl Friedrich Erler
+Johann Gottfried Buschmann
+----------------
+1802
+Carl Christoph Walther
+Johann Gottfried Bellmann
+Adam Friedrich Krönert
+Christian Gottlieb Walther
+Benjamin Uhlig
+Carl Gottlob Kayser
+Johann Joseph Walther
+----------------
+1803
+Christoph Adam Heerkloz
+Carl Heinrich Friedmann
+Johann Gottfried Martin
+Carl Gottlob Ehrenfried Böhme
+Carl Gottlob Helbig
+Johann Gottfried Looß
+Carl 	Christian Richter
+----------------
+Carl Friedrich Leibner
+Johann Traugott Erler
+Christoph Schmieder
+Carl Gottlieb Benjamin Richter
+Johann Samuel Traugott Bormann
+Carl Friedrich Bach
+----------------
+Christian Gottfried Martin
+August Friedrich Oehme
+Johann Gottfried Matthes
+----------------
+1804
+Carl Friedrich Sandig
+Carl Gottlieb Brückner
+Johann Gottlieb Helbig
+Gotthelf Leberecht Neuhäußer
+Johann Gottfried Schneider
+Gottlob Schneider
+----------------
+Carl Gottlob Martin
+Carl Gottlieb Kandler
+Johann Christoph Jäncker
+Christian Friedrich Martin
+Johann Traugott Enold
+----------------
+1805
+Carl Friedrich Rabe
+Carl Friedrich Buschmann
+Gotthold Neubert
+Georg Friedrich Schneider
+Johann Gottlieb Leibner
+Christian Friedrich Bellmann
+----------------
+Johann Carl Gottlieb Pflugbeil
+Christian Gottlob Horn
+Christoph Friedrich Dietel
+Carl Friedrich Ditrich
+August Gotthold Seyler
+Adolph Benjamin Schmolke
+----------------
+Christian Friedrich Wenzel
+----------------
+1806
+Christian Gottlieb Walther
+Carl Liebegott Seyler
+Carl Gottlob Erler
+Johann Reinhardt Bellmann
+David Leberecht Seyler
+Christian Gottfried Erler
+Christian Friedrich Drechsel
+----------------
+Curt Heinrich Schönberg
+Christoph Adam Martin
+Johann August Jäncker
+August Friedrich Thiele
+Johann Gottlob Reichelt
+Carl Friedrich Fischer
+Carl Gottlob Buschel
+----------------
+1807
+Johann Gottlieb Franke
+Johann August Lorentz
+Georg Samuel Kegel
+Carl Friedrich Heerklotz
+August Heinrich Meyer
+----------------
+Carl Gottlieb Bellmann
+Johann Christoph Drechsel
+----------------
+1808
+Carl Gottlieb Fischer
+Carl August Partzsch
+Johann Gottlob Friedrich Wolf
+Carl Gottlob Frenzel
+Christian Gottlob Hunger
+----------------
+Carl Friedrich Fritzsche
+Carl Friedrich Helbig
+Christian Gottlieb Börner
+Carl Gottfried Lippmann
+Johann Christoph Göthel
+Adolph Benjamin Schmolke
+----------------
+Johann Gottlieb Krönert
+Donat Störl
+Johann Gottlob Franke
+----------------
+1809
+Carl Gottlieb Neubert
+Carl Gottlob Leonhardt
+Gottlob Benjamin Partzsch
+Johann August Franke
+Carl Friedrich Richter
+Johann Gottlob Brückner
+Christian Gottlieb Zänker
+----------------
+Traugott Leberecht Porstendorfer
+Johann Gottlieb Klemm
+Carl Gottlob Erler
+Christoph Adam Schneider
+Johann August Clausnitzer
+Carl Gottlieb Fischer
+Christoph Adam Hegewald
+----------------
+Johann Traugott Zäncker
+Johann Gottfried Erler
+Johann Traugott Bellmann
+Christian Friedrich Müller
+Friedrich August Vogler
+Johann Christoph Zäncker
