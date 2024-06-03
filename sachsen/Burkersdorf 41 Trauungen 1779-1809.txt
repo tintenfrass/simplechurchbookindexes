@@ -1,13 +1,14 @@
 Burkersdorf (Buch 41)
-Trauungen 1779-1799
+Trauungen 1779-1809
 https://www.archion.de/de/viewer/churchRegister/294143?pageId=40852222
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Oktober 2023
+Juni 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -290,3 +291,137 @@ Johann Gottfried Börner
 Carl Gottlob Menzer
 Carl Friedrich Wolf
 Johann Gottfried Wolf
+1800
+Christian Friedrich Weise
+Johann Christoph Göhler
+Johann Christoph Schmidt
+Johann Gottfried Göhler
+Carl Samuel Kröhner
+Johann Andreas Börner
+Friedrich Gottlob Braune
+----------------
+Johann Gottlob Börner
+Georg Gottlieb Schmieder
+Johann Gottlob Bellmann
+Johann Gottfried Franke
+Franz Gottlieb Lippmann
+Carl Christian Göhler
+1801
+Christian Friedrich Heinrich
+Friedrich Gottlieb Bernd
+Johann Gottlob Friedrich Mehner
+Georg Christoph Erler
+Carl Gottlob Dienel
+Johann Georg Erler
+Johann Gottlob Kaden
+----------------
+Georg Friedrich Barth
+Christian Friedrich Neubert
+Johann Leberecht Zimmermann
+Johann Gottlieb Weigelt
+Friedrich Gottlieb Wolf
+Daniel Kästner
+Christian Friedrich Göpfert
+Carl Gottlob Anders
+Carl Gottlieb Rupprecht
+1802
+Carl Gotthelf Wetzel
+Friedrich Gottlieb Kretzschmar
+Georg Gottfried Wahl
+Gotthelf Friedrich Richter
+Johann Gottlieb Kretzschmar
+----------------
+Carl Christoph Fischer
+Christian Friedrich Tittel
+Carl Friedrich Wagenzinck
+Johann Gottfried Fischer
+Johann Gottlieb Heinrich
+Johann Gottlieb Lohse
+1803
+Johann Christoph Fischer
+August Friedrich Fischer
+Johann Gottfried Göhler
+Johann Gottfried Wolf
+Carl Gottlieb Glöckner
+Carl Gottlob Braune
+----------------
+1804
+Johann Gottlieb Richter
+Friedrich Gottlieb Menzer
+Carl Gottlieb Goldmann
+Johann Gottlob Lippmann
+Johann Gottlieb Weigelt
+Johann Gottlieb Illigen
+Friedrich Gotthold Wagenzinck
+Carl Gottlieb Riegel
+Dittrich Benedikt Wilhelm Lochmann
+Friedrich Gottlieb Kretzschmar
+Johann Gottlob Liebscher
+Johann Georg Börner
+Carl Gottlob Börner
+Carl Gottlob Helbig
+----------------
+Johann Gottlieb Erler
+Johann Gottfried Börner
+Johann Gottfried Weigelt
+1805
+Carl Gottlieb Berger
+Carl Gottlob Heinrich
+Friedrich Gottlob Wetzel
+Johann Christoph Wolf
+Johann Carl Gottlob Rietzschel
+Carl Gottfried Walther
+Johann Michael Friebel
+Johann Gottfried Wolf
+Johann Carl Gottlieb Heinrich
+----------------
+Johann Gottlieb Polster
+Johann Gottlieb Böhme?
+1806
+Johann Gottlob Göpfert
+Carl Gottlieb Göhler
+Johann Gottlieb Heinrich
+Christian Friedrich Liebscher
+Christian Gottlieb Richter
+Johann Gottfried Aehnelt
+----------------
+1807
+Christian Friedrich Schiller?
+Johann David Loß?
+Christian Friedrich Rupprecht
+Christian Heinrich Walther
+----------------
+Christian Friedrich Schulze
+Carl Gottfried Kunze
+Johann Gottfried Gläser
+Franz Müller
+----------------
+Johann Gottfried Schiller
+----------------
+1808
+Johann Gottlieb Träger
+Gottlob Friedrich Hegewald
+Friedrich Gotthold Kaden
+Gotthold Friedrich Kempe
+----------------
+Friedrich Gottlieb Schindler
+Carl Gottlieb Bernd
+Johann Gottlieb Lohse
+Johann Gottlob Preuß
+Carl Gottlob Gläser
+August Friedrich Hegewald
+----------------
+1809
+Friedrich Gottlieb Göpfert
+Carl Gottlob Berndt
+Johann Traugott Friedrich Glös
+Johann Christoph Lohse
+Johann Gottfried Höbelt
+----------------
+Johann Friedrich Gottlieb Walther
+Carl Gottlieb Richter
+Carl Christoph Böhme
+Carl Gottlieb Gleser
+Carl Gottlieb Lippmann
+Friedrich Gottlieb Wolf
+Carl Friedrich Arnold

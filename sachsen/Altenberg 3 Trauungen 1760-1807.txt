@@ -1,13 +1,14 @@
 Altenberg (Buch 3)
-Trauungen 1760-1799
+Trauungen 1760-1807
 https://www.archion.de/de/viewer/churchRegister/294113?pageId=40847233
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stunden
+Erstellt in ca. 2 Stunden
 Oktober 2023
+Juni 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -573,3 +574,187 @@ Johann Christian Hoffmann
 Carl Daniel Küchler
 Johann Christian Köllner
 Gottlob Daniel Grahl
+----------------
+1800
+Gottlob Ehrenreich Meisner
+Johann Gotthelf Gempler
+Johann Christoph Petri
+Johann Gottlieb Heyne
+Carl Siegmund Zienert
+Carl August Beschorner
+----------------
+Carl Gotthelf Lippelt
+Carl Gottlob Stentzel
+Christian Gottlieb Sommerschuch
+Wilhelm Benjamin Kästner
+August? Benjamin Kerner?
+Carl Gottlob Berger
+Johann Benjamin Richter
+----------------
+1801
+Johann Christoph Fischer
+Johann Gottfried Kirsten
+Johann Gottlieb Mende
+Christian Heinrich Morgenstern
+Carl Christoph Zienert
+Carl Gottlieb Mende
+Gottlob Siegmund Ehrenfried
+Christian Gottlieb Kaden
+----------------
+Johann Gotthold Hoffmann
+Gotthelf Siegmund Querner
+Carl Friedrich Clauß
+Carl Christlieb Kerzendörfer
+Johann Christlieb Fischer
+Carl Gottlieb Richter
+Carl Friedrich Merckel
+----------------
+Daniel Friedrich Ehrhard
+Johann Georg Herfert
+Gotthelf Siegmund Walther
+Friedrich Traugott Kirsten
+Johann Christoph Köllner
+Friedrich Gottlob Behr
+Friedrich Gotthelf Richter
+----------------
+Carl Gottlieb Böhme
+1802
+Christian Friedrich Schencke
+Christian Gabriel S?
+Johann Christoph Thömel?
+Carl? Gotthelf Mutze?
+----------------
+Heinrich Traugott Ölschlegel
+Johann Christoph Grahl
+Johann Carl Traugott Müller
+Carl Gottlieb Meyer
+August Gottlob Thömel
+Carl Gottlieb Keitzsch
+Carl Gottfried Richter
+----------------
+Carl August Behr
+Christian Friedrich Seitenmacher
+Johann Christoph Schulze
+Carl Gottlieb Seyffert
+Johann Schnöbel
+Wilhelm Gottlob Ernst Becker
+Carl? Gotthelf Ehrhard
+----------------
+Christian Friedrich Schröer
+Carl Gotthelf Benjamin Kayser
+Gotthelf Siegmund Haymann
+Gottfried August Hirsch
+Wilhelm Benjamin Kästner
+Johann Gottlieb Lincke
+Johann Georg Knauthe
+Christian Friedrich Valentin
+----------------
+Gotthelf Benjamin Pfizner
+Johann Christian Wenzel
+1803
+Carl Gottfried Köhler
+Christian Gottlieb Kaden
+Carl Gottfried Asmann
+Friedrich Gotthelf Kadner
+----------------
+Friedrich Wilhelm Hübler
+Carl Gottfried Lumm
+Carl Gotthelf Mühle
+Carl Gottfried Seyffert
+Johann Traugott Kind
+Johann Daniel Roß
+----------------
+Christian Benjamin Straßberger
+Gotthelf Heinrich Richter
+Johann Conrad Behr
+Carl Gottlieb Bachmann
+Gottlob Benjamin Mühle
+Carl Gottlieb Eichler
+----------------
+1804
+Christian Gottlob Schmidt
+August Benjamin Büttner
+Gotthelf Schönberger
+Gotthelf Benjamin Lippelt
+Johann Christian Angermann
+Christian Daniel Käster
+----------------
+Carl Friedrich Kind
+Christian Leberecht Richter
+Christian Traugott Mütze
+Gotthelf Benjamin Clauß
+Gottlieb? Siegmund Wilsch
+Johann Christian Scharfe?
+----------------
+Carl Gottlob Kästner
+Carl Gottlob Immanuel Fiedler
+Johann Michael Gottlob Müller
+Carl Gottlob Hoffmann
+Gotthelf Siegmund Ehrenfried?
+----------------
+Carl Gottlieb Seyffert
+Johann Carl Gottlob Morgenstern
+Christlieb Friedrich Schneider
+August Benjamin Fischer
+Carl Friedrich Schlegel
+Carl Gottlieb Büttner
+Carl Christoph Zienert
+----------------
+Gotthelf August Mütze
+Carl Friedrich Bierich
+1805
+August Ehregott Nicolai
+Johann Friedrich Schönfelder
+Carl Gottlieb Ehrlich
+Gottlob Friedrich Ölschlegel
+----------------
+Johann Carl Reinhold Krause
+Gotthelf August Sieber
+Carl Christoph Büttner
+Johann Gottfried Fischer
+Carl Gabriel Kempfe
+Christian Friedrich Adolph Annisius?
+----------------
+Gotthelf August Walther
+Heinrich Traugott Hösel
+Carl Gottlieb Fischer
+Johann Michael Gottlob Müller
+Friedrich August Schulze
+Carl Gottlieb Tischer
+Johann Gottlieb Müller
+----------------
+Johann Gottfried Wolf
+Carl Gottlieb Stetter
+Christian Friedrich Förster
+1806
+August Friedrich Ehrenfried Weiner
+Carl Gotthelf Mösche
+Johann August Ehrenreich? Nacke
+----------------
+Carl Christoph Kempfe
+Friedrich August Stumpf?
+Johann Friedrich Gottlieb Grellmann
+1807
+Joseph Anton Stöckel
+Heinrich Friedrich August Büttner?
+----------------
+Carl Gotthelf Göbel
+Johann Gottfried Fischer
+Carl Gottfried Büttner
+Carl August Helwig
+Carl? Gotthelf Geisdorf
+Carl? Gotthelf Richter
+----------------
+Heinrich Gottlob Lieber
+Carl Siegmund Behr
+Michael Lehmann
+Carl Friedrich Grumpt
+Christian Benjamin Seitenmacher
+Christian Ehrenreich Mühle
+----------------
+Friedrich Wilhelm Gäbler
+Carl Gottlob Börner
+Carl Gottlieb Eichler
+Friedrich August Tittel
+Johann Traugott Weidner
+Carl Gottlob Klieber
