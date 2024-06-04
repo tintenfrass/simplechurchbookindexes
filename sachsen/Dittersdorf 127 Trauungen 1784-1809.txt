@@ -1,12 +1,14 @@
 Dittersdorf (Buch 127)
-Trauungen 1784-1799
+Trauungen 1784-1809
 https://www.archion.de/de/viewer/churchRegister/294215?pageId=40868969
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
+Erstellt in ca. 0,5 Stunden
 Oktober 2023
+Juni 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -195,3 +197,142 @@ Johann David Seyffert
 Johann Gottlob Reichert
 Johann Gottlieb Renner
 Johann Ehrenfried Lotze
+1800
+Georg Friedrich Heße
+Karl Gottlieb Reichert
+Johann Christlieb Gößel
+Johann Gottlob Richter
+Johann Christoph Schloßer
+----------------
+Johann Christian Gößel
+Johann Gottlieb Haaser
+Johann Christlieb Heße
+Johann Georg Donat
+Karl Gottlieb Herzog
+Johann Christlieb Gößel
+----------------
+1801
+Elias Gerlach
+Karl Christian Großer?
+Christoph Gottlob Mühle
+Johann Siegmund Tittel
+Johann Gottfried Richter
+----------------
+Elias Christoph Schwanke
+Johann Gottlieb Mühle
+Johann Samuel Schwanke
+Johann Gottlieb Gladitsch
+Johann David? Schneider?
+1802
+Johann Gottlieb Böhme
+Johann Daniel Schiffel
+----------------
+Karl Christlieb Böhme
+Christoph Göpel
+Johann Samuel Grahl
+Christlieb Harnisch
+Johann Samuel Weinhold
+Johann Christoph Zillger?
+Johann Gottfried Helbig
+Johann Gottlieb Löwe
+----------------
+1803
+Karl Gotthelf Liebschner
+Johann Christian Haucke
+Johann Friedrich Wekbrod
+Johann Gottfried Gleimann?
+Christian Franz
+Johann Klaigst?
+Johann Gottfried Ehrlich
+Johann Gottlob Huhle
+----------------
+Johann Karl Gottlieb Bretschneider
+Karl Christlieb Herzog
+Johann Georg Kleinert
+Johann Karl August Zinner
+Johann Georg Seidewitz?
+----------------
+Johann Gottlieb Köhler
+Johann Samuel Galle
+Johann Christlieb Mende
+1804
+Johann David Kuhlig
+Johann Gottlieb Golsche
+----------------
+Johann Samuel Müller
+Johann Gottlieb Ehrlich
+Karl Christlieb Rau
+Karl Gottlieb Ebert
+Johann Gottfried Geißler
+Johann Gottlieb Hauschild
+----------------
+Johann Gottfried Galle
+Karl Gottfried Schloßer
+Johann Gottlob Schütze
+Karl Gottlob Richter
+Johann Gottlob Riedel?
+1805
+Johann Christian Schaffrath
+Carl Gottfried Hoffmann
+----------------
+Johann Gottlob Hesse
+Johann Gottfried Köhler
+Johann Gottlob Gemeinert
+Carl Gottlieb Büttner
+Johann Heinrich Samuel Schröter
+Gottlob Friedrich Liebschner
+Gottlieb Klepsch
+----------------
+Johann Christlieb Bretschneider
+Johann Samuel Gössel?
+Johann Christlieb Galle
+Christian Gottlob Weicheld
+Carl Gotthelf Erhard
+Johann Gottlob Müller
+----------------
+1806
+Carl Christlieb Schönberger
+Johann Gottlieb Kühnel
+Carl Friedrich Batzner
+Johann Gottlieb Böhme
+Johann Heinrich Köhler
+Johann Gottlob Mende
+----------------
+Carl Gottlob Mühle
+Johann Christlieb Grahl
+1807
+Carl Gottlob Hempel
+Johann Gottlieb Mitzscherling
+Gottfried Kreyser
+Johann Gottlieb Heymann
+----------------
+Johann Gottlieb Schönberger
+Johann Gottfried Ebert
+Johann Christoph Schwencke
+1808
+Johann Gottfried Hesse
+Johann Gottlieb Schwencke
+Carl Gottlieb Büttner?
+----------------
+Johann Gottlob Tittel
+Johann Christoph Gäpel
+Carl Heinrich Gottfried Scherber
+Johann Gottfried Bräuer
+Carl Gottlieb Herzog
+Johann Gottfried Lehmann
+Johann Gottfried Estler
+Johann Georg Kunad
+----------------
+1809
+Johann Friedrich Weckbrod
+Johann Gottlob Schwencke
+Johann Georg David Seyffert
+Johann Carl Gottlieb Schmidt
+Johann Christlieb Zillger
+Johann Gottlieb Hanke
+Carl Friedrich Grahl
+Johann Gottlob Knauthe
+Johann Gottlieb Made
+----------------
+Fürchtegott Christlieb Leberecht Fiedler
+Carl Gottlob Stimpel

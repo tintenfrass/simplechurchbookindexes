@@ -1,14 +1,15 @@
 Fördergersdorf (Buch 199)
-Trauungen 1778-1799
+Trauungen 1778-1809
 https://www.archion.de/de/viewer/churchRegister/294274?pageId=40884243
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunden
 Juni 2023
 August 2023
+Juni 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -313,3 +314,174 @@ Johann Gottlieb Dreßler
 Johann Heinrich Christoph Halve
 Johann Gottlob Huhn
 Johann Christian Irmer
+1800
+Johann Gottlieb Starcke
+Johann Christian Friedrich Stüloner
+Johann Christian Schubert
+Johann Gottlieb Irmer
+Johann Michael Mögel
+Johann Gottlieb Räntsch
+Traugott Friedrich Halm
+Johann Gottlieb Büttner
+Johann Gottlob Irmer
+Johann Christian Pietzsch
+Johann Gottfried Palitsch
+Georg Lindner
+Johann Georg Rumrich
+Johann Gottfried Grahl
+----------------
+Johann Georg Börner
+Johann Gottfried Fleischer
+1801
+Johann Gottfried Fritzsche
+Johann Gottlieb Ritter
+Johann Christian Schubert
+Carl Friedrich Sinz
+Johann Gottfried Müller
+Johann Christian Kühn
+Johann Gottfried Jahn
+Carl Samuel Schmohl
+Johann Adolph Schöne
+Johann Gottlob Sohr
+Johann Friedrich Bäßler
+Johann Gottlob Schulze
+Johann Gottlieb Pietzsch
+Johann Gottlob Beuchel
+Johann Georg Pietzsch
+----------------
+Johann Georg Büttner
+1802
+Johann Gottlob Baumgarten
+Johann Gottlob Wagenknecht
+Carl Gottlieb Löwe
+Johann Gottlob Giere
+Johann Christian Junke
+Johann Gottlob Andrä
+1803
+Carl Gottlieb Jungnickel
+Gottlieb Köhler
+Gottlieb Köhler
+Johann Gottfried Brühl
+Johann Gottlob Clemm
+Johann Gottfried Kühn
+Johann Gottlieb Neidhard
+Johann Gottlieb Bögen
+----------------
+Johann Gottlieb Ditrich
+Johann Gottlob Döling
+Johann Christian Schumann
+Carl Gottlieb Döhnert
+Georg Gottlob Löwe
+Christian Gottlieb Streubel
+Johann Gottlob Irmer
+1804
+Christian Gottlieb Funke
+Johann Gottlieb Schiffel
+Johann Gottlieb Hauptvogel
+Carl Gotthelf Richter
+Johann Gotthelf Räntsch
+Johann Gottlob Tribel
+Johann Friedrich Traugott Irmer
+Johann Gottlob Bachmann
+Carl Gottlieb Patzig
+Johann Gottlob Funcke
+----------------
+Johann Gottlob Glöckner
+Carl Gottlob Schlick
+Friedrich Wilhelm Theodor Gautsch
+Johann Friedrich Röthig
+Johann Gottlieb Romberg
+Carl Friedrich Böhme
+Christian Gottlieb Winckler
+1805
+Friedrich Gottlieb Prüfer
+Johann Georg Rüdiger
+Johann Christoph Fischer
+Johann Traugott Lützner
+Johann Gottlob Becker
+Johann Christoph Herzog
+Johann Christian Romberg
+Johann Gottlob Günther
+Johann Liebel
+Carl Gottlob Erler
+Carl Gottlob Lehmann
+----------------
+Christian Gottlieb Schmidt
+Gottlob Müller
+Johann Gottlieb Reichard
+Christian Salomon Müller
+Christian Köhler
+Johann Gottlieb Starcke
+1806
+Johann Gottlob Steudte
+Carl Gottlieb Kleinert
+Traugott Polycarp Gautsch
+Carl Gottfried Görner
+Johann Gottfried Patzig
+Johann Gottlieb Strohbach
+Johann Christian Ehrenfried Freudenberger
+Johann Gottlieb Strohbach
+Johann Gottlob Irmer
+Johann Gottfried Künzel
+Johann Christoph Reiche
+Johann Gottlob Richter
+Christian Gotthelf Ebert
+Johann Georg John
+----------------
+1807
+Johann Christlieb Funcke
+Johann Gottlieb Brochlitz
+Christian Friedrich August Gebler
+Johann Gottlieb Hennig
+Johann Gotthelf Sohr
+Carl Gotthelf Engelhardt
+Johann Gottlieb Koschel
+Carl Friedrich Groll
+Johann Gottlieb Maul
+Johann Gottfried Ritter
+Johann Heinrich Zehl
+Johann Gottlob Frölich
+Johann Gottlob Hillig
+Adolph Friedrich Anton Pietzsch
+Johann Gotthelf Schulze
+Johann Gottlieb Thamm
+Carl Gottlob Ryßel
+Johann Georg Schindler
+Friedrich Daniel Junold
+----------------
+1808
+Johann Gottlob Kleber
+Johann Gottfried Wiegand
+Johann Gottlieb Irmer
+Johann Gottlob Hübler
+Johann Georg Ehrlich
+Johann Gottlob Zschoche
+Johann Gottlieb Irmer
+Johann Georg Weikert
+Johann Gottlob Sparmann
+Johann Christian Zumpe
+Johann Gottlieb Strohbach
+Johann Christoph Lehmann
+Johann Traugott Räntsch
+Johann Gottlob Züchner
+Johann Gottlob Hauptvogel
+Johann Friedrich Schütze
+Johann Gottlieb Traugott Ditrich
+Christian Friedrich Opitz
+----------------
+1809
+Johann Ehrenfried Opitz
+Johann Gotthelf Kleinert
+Carl Christoph Sohrmann
+Carl Gottlob Perles
+Johann Gottlob Schuster
+Johann Adolph Schlick
+Carl Friedrich Funcke
+Johann Gotthelf Irmer
+Christian Daniel Partsch
+Carl Traugott Sohr
+Carl Christian Kühnel
+Johann Georg Wusch
+Johann Gottlieb Irmer
+Johann Gottfried Wähner
+Friedrich Gotthelf Bräunert
