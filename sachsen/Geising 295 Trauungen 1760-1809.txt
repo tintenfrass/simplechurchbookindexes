@@ -1,13 +1,14 @@
 Geising (Buch 295)
-Trauungen 1760-1799
+Trauungen 1760-1809
 https://www.archion.de/de/viewer/churchRegister/294359?pageId=40898420
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunde
 Oktober 2023
+Juni 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -584,3 +585,289 @@ Carl Christian Wenzel
 ----------------
 Carl Gottlob Stübner
 Carl Gottlob Gäbler
+----------------
+1800
+Johann Georg John
+Johann Gotthelf Gämbler
+Friedrich Gotthelf Wolf
+Gotthelf Siegmund Liebert
+Gottlob Friedrich Parzsch
+Johann Gottlieb Richter
+David? Walther
+----------------
+Carl Liebscher
+Carl Gottfried Hesse
+Friedrich Ludwig Bähr
+Carl Benjamin Weise
+Carl Gottlieb Kretschel
+August Benjamin Kerzendörfer
+----------------
+Johann Immanuel Liebert
+Gotthelf Friedrich Enzmann
+Johann Gottlieb Scheuffler
+Friedrich Gotthelf Ölschlegel
+Immanuel Heinrich Langbein
+----------------
+Friedrich Gottlieb König
+Christian Friedrich Weichelt
+Carl Gottlieb Nestler
+----------------
+1801
+Friedrich August Richter
+Christian Gotthold Hetze?
+Carl Gottlob Büttner
+----------------
+Johann Gottfried Kirsten
+Johann Andreas Walther
+Johann Gottlieb Räder
+Carl Gottlieb Traugott Heymann
+Johann August Ditrich
+----------------
+Carl Christian Uhlmann
+Carl Gottlob Benjamin Clausnitzer
+Carl Gottlob Schubert
+Johann Gottlob Hering
+Carl Gottlieb Bellmann
+----------------
+Johann Gottlieb Trescher
+Carl Gottfried Gäbler
+Georg Heinrich Krügner
+Carl Gottlieb Stetter
+Daniel Friedrich Ehrhardt
+----------------
+Johann Gotthelf Krügner
+Carl Heinrich Mutze
+Christian Friedrich Richter
+Traugott Friedrich Kirsten
+Johann Christoph Köllner
+----------------
+Immanuel Friedrich Eichler
+Carl August Kraus
+Johann Traugott Schelle
+----------------
+1802
+Christian Gottlieb Gäbler
+Carl Siegmund Kunze
+Carl Gottlieb Kirsten
+Carl Florian Pezolt
+Heinrich Traugott Ölschlegel
+Salomon Bretschneider
+----------------
+Carl Gottlieb Walther
+Christian Gottlieb Thorandt
+Christian Friedrich Schroeer
+Carl Gottlob Walther
+Johann Gottlieb Sieber
+----------------
+Johann Gotthelf Tittel
+Johann Emanuel Eichler
+Carl Benjamin Kirsten
+Friedrich August Eichler
+----------------
+August Immanuel Querner
+Carl Gottlieb Grummt
+Carl Gottlieb Sturm
+----------------
+Carl Gotthelf Liebscher
+Christoph Daniel Bähr
+Friedrich Conrad Ölschlegel
+Christian Gotthelf Walther
+----------------
+Johann Christian Wenzel
+Carl Gottlieb Walther
+Johann Gotthelf Grumpelt
+----------------
+Gotthelf Benjamin Pfützner
+----------------
+1803
+Carl Gottfried Köhler
+Johann Andreas Walther
+Carl Gottlob Fischer
+Johann Gottlob Eichler
+Christian Gottlob Mauksch
+----------------
+Friedrich Gotthelf Kadner
+Carl Benjamin Hirsch
+Friedrich August Schwartze
+Johann David Seyffert
+----------------
+Heinrich Benjamin Schelle
+Friedrich Traugott Hesse
+Friedrich August Fischer
+Johann Daniel Voß
+Johann Gotthelf Schabenstiehl
+----------------
+Carl Benjamin Schotte
+Johann Christian Hund
+Johann Gottlieb Ehrhard
+Johann Gottlob Gäbler
+----------------
+Christian Friedrich Fischer
+Johann Georg Preußner
+Johann Christian Friedrich Grund
+Carl Friedrich Heymann
+----------------
+Gottlob Benjamin Mühle
+Johann Gottfried Rüdiger
+Gottlob Siegmund Schelle
+----------------
+----------------
+1804
+Johann Gottlieb Schmelzer
+Christian Daniel Kästner
+Carl Gottlieb Gutte
+Carl Friedrich Schildbach
+Carl August Schildbach
+----------------
+Johann Gottlieb Lange
+Carl Gottlieb Göhlert
+Carl Gottlieb Seyffert
+Emanuel Gottfried Walther
+Carl Gottfried Böhme
+Gotthold Benjamin Grundig
+----------------
+Friedrich Gottlieb Seyffert
+Gotthelf Nitzsche
+Carl Gottlieb Hirsch
+Emanuel Gottlieb Ölschlegel
+Carl Friedrich Schlegel
+----------------
+Daniel Benjamin Hirsch
+Johann Christian Kadner
+August Heinrich Böhme
+Carl Gottlieb Bergert
+Johann August Kloß
+----------------
+Johann Christoph Köllner
+Felix Köllner
+Carl Heinrich Fischer
+----------------
+1805
+Friedrich Gottlieb Knauthe
+Carl Benjamin Eichler
+Carl Gottlieb Ehrlich
+Gottlob Frölich Ölschlegel
+Heinrich Christoph Pirnbaum
+Emanuel Gottlieb Ölschlegel
+Carl Gottlob Häcker
+----------------
+Carl Benjamin Schlinzig
+Christian Gotthelf Grumbt
+Heinrich Traugott Knauthe
+Carl Gottlieb Büttner
+Gotthelf August Sieber
+Carl Gabriel Kämpfe
+----------------
+Carl David Friedrich Uhlmann
+Johann Gottlieb Geißler
+Friedrich Gottlieb Gäbler
+Johann Michael Gottlob Müller
+Johann Gottlob Müller
+Friedrich Gottlieb Bergert
+----------------
+----------------
+1806
+Johann Georg Friebel
+Daniel Friedrich Langbein
+Carl Gottfried Reinhard Liebscher
+Johann Siegmund Grundig
+Johann Gottlieb Kühnel
+Elias Friedrich Richter
+----------------
+Carl Gotthelf Oderich
+Carl Christoph Kämpfe
+Johann Gottfried Ölschlegel
+Friedrich Traugott Böttcher
+Johann Gottlieb Siegmund Ölschlegel
+Johann Gottfried Böhme
+----------------
+Heinrich August Mittag
+----------------
+1807
+Joseph Anton Stöckel
+Gotthelf August Kirsten
+Carl Gottlob Kleinpaul
+Daniel Heinrich Pfützner
+Gotthelf Benjamin Seyffert
+----------------
+Carl Heinrich Ölschlegel
+Carl Heinrich Mutze
+Carl Leberecht Stätter
+Carl Gottlob Geisdorf
+Carl Gottlieb Hülle
+Carl August Weichelt
+Carl Friedrich Grumbt
+----------------
+Gotthelf Benjamin Böhme
+Emanuel Heinrich Heße
+Carl Christian Friedrich Lotze
+Carl Friedrich Uhlmann
+Christian Gottlieb Gäbler
+----------------
+Carl Gottlieb Kretschel
+Johann Gottfried Böhme
+Traugott Leberecht Weiße
+Gotthelf Daniel Ölschlegel
+Emanuel Friedrich Eichler
+Johann Gottlieb Mänzer
+----------------
+----------------
+1808
+Friedrich Gottlieb Eichler
+Johann Christoph Füßel
+Johann Gottfried Hirsch
+Johann Gotthelf Preußner
+Carl Heinrich Hesse
+Johann Gottlob Mende
+----------------
+Johann Gotthelf Tittel
+Carl Gottlieb Querner
+Gotthelf Benjamin Fischer
+Johann Gottlieb Heße
+Johann Gottlieb Pfeiffer
+Johann Georg Göhler
+Heinrich Gottlieb Glaß
+----------------
+Carl Traugott Heymann
+Carl Gotthelf Behr
+Christian Gotthelf Heinze
+Christian Daniel Eichler
+----------------
+1809
+Friedrich Emanuel Kauderbach
+Carl Samuel Knauthe
+Adam Friedrich Schneider
+Christoph Gottlob Mühle
+Christian Gottlieb Hartmann
+Emanuel Gottlob Morgenstern
+Carl Gottfried Meißner
+Johann Friedrich Franke
+Johann Carl Gottlieb Schmidt
+----------------
+Heinrich Ehrenreich Schlegel
+Carl August Fischer
+Friedrich August Seyffert
+Friedrich Gottlieb Eichler
+Friedrich Gottlob Kühnel
+Johann Christian Gottlieb Pellmann
+Carl Gottlieb Köhler
+----------------
+Carl Gottfried Preußner
+Johann Gottlieb Räder
+Carl Gottlieb Junghans
+Joseph Ritzschel
+Friedrich Ehregott Zechel
+Anton Gottlieb Damm
+Samuel Knauthe
+Johann Georg Gottlieb Rülke
+----------------
+Friedrich Daniel Liebscher
+Carl Gottlieb Bähr
+Carl Gottlieb Ehrhardt
+Johann Georg Irmler
+Carl Gottlieb Knauthe
+Friedrich Gotthelf Kästner
+Carl Christoph Kretschel
+----------------
+Carl Gottfried Langbein
+Friedrich August Liebscher

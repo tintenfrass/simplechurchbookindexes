@@ -1,5 +1,5 @@
 Hartmannsdorf (Buch 322)
-Trauungen 1764-1799
+Trauungen 1764-1809
 https://www.archion.de/de/viewer/churchRegister/294383?pageId=40903926
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -11,8 +11,9 @@ Teil 2: Aufgebote
 Teil 3: Trauungen
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunde
 Oktober 2023
+Juni 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -105,7 +106,44 @@ Johann Gottlieb Börner
 Johann Gottlob Zimmermann
 Johann Christoph Göpfert
 Johann Gottlieb Lippman
+1800
+Friedrich? Liebscher
+? Lippman
+? Göpfert
+1801
+Christian? Gottlieb Göhler
+Johann Gottlob Friedrich Möske?
+Samuel? Friedrich Arnold
+1802
+Carl Gottlob Bitz?
+Johann? Gottfried Schütze?
+Christian? Gottlob Hanitz?
+Johann Georg? Friedrich L?
 ----------------
+Gottlieb Arnold
+Johann Gottlieb ?
+Johann Friedrich Rechel?
+1803
+Carl Gotthelf Hähnel
+Gottlieb Müller
+Samuel Zinke
+1804
+Johann Christoph Richter?
+Johann Gottfried Beger?
+Christian Gottlieb Klemm
+Samuel Ditrich
+1805
+1806
+Carl Gottlieb Kästner?
+1807
+Gottfried Lehmann
+Johann Gottlieb Lehmann
+Samuel Friedrich Zimmermann
+1808
+Gotthelf Bretschneider
+Friedrich Gotthelf Loose
+1809
+Johann Gottlob K?
 1764
 Christoph Zimmermann
 Johann Christian Götzelt
@@ -389,7 +427,97 @@ Carl Gottfried Arnold
 Daniel Triger?
 Johann Christian Beyer?
 Gottlieb Börner
----------------- x38
+----------------
+1800
+Carl Gottlieb Müller
+Christian Carl Friedrich Loose
+Johann Christoph Göpfert
+Samuel Friedrich Arnold
+Johann Gottlieb Lippman
+Gotthelf Friedrich Liebscher
+Johann Gottlob Zimmermann
+Carl Adolph Wilhelm Clausnitzer
+Friedrich Gottlieb Lippmann
+Gottfried Andreas Müller
+----------------
+1801
+Johann Gottlieb Göpfert
+Johann Gottlieb Arnold
+Johann Gottfried Hempel
+Christlieb Börner
+Christian Gottlieb Göhler
+Johann Gottlob Friedrich Mößer
+Carl Gottfried Bernhardt
+Georg Gottlieb Hennig
+1802
+Carl Gotthelf Wetzel
+Gottlieb Friedrich Göhler
+Samuel Friedrich Arnold
+Johann Gottfried Schröter
+Carl Gottlob Bilz
+Gotthold Friedrich Kung?
+Christian Gottlob Hennig
+Gottlieb Arnold
+Johann Georg Friedrich Wolf
+Johann Georg Hähnel
+----------------
+1803
+Johann Gottlieb Kästner
+Carl Gottfried Scheinpflug
+Carl Gottlob Kästner
+Johann Friedrich Rechel?
+Johann Gotthelf Hartel
+Johann Heinrich Walther
+Johann Gottlieb Müller
+Samuel Zinke
+Carl Gotthelf Hähnel
+1804
+Johann Gottfried Ernst
+Georg Friedrich Kästner
+Johann Carl Gottfried Berndt
+Johann Gottfried Schmidt
+Georg Gottlieb Richter
+Christoph Richter
+Johann Georg Lehmann
+Johann Samuel Bierig
+Johann Christoph Hähnel
+Johann Gottfried Beger
+----------------
+1805
+Johann Christoph Göpfert
+Johann Emanuel Hollferth
+Christian Gottlieb Klemm
+Samuel Ditrich
+Johann Gottfried Krell
+Christian Salomon Dankegott Müller
+1806
+Friedrich Gotthelf Walther
+Carl Gottlieb Richter
+1807
+Carl Gottlieb Kästner
+Friedrich Gotthelf Kästner
+Johann Friedlieb Richter
+Johann Gottlieb Lehmann
+Johann Daniel Braune
+Gottfried Lehmann
+Johann Gottlieb Lehmann
+----------------
+1808
+Johann Gottlieb Loose
+Georg Friedrich Göhler
+Johann Gottlob Wächter
+Samuel Friedrich Zimmermann
+Gotthelf Bretschneider
+Johann Gottlieb Richter
+1809
+Georg Caspar Göhler
+Friedrich Gotthelf Loose
+Gottlob Kaden
+Johann Gottlieb Kästner
+Johann Christian Ebert
+Johann Gottfried Richter
+Carl Friedrich Arnold
+---------------- x33
 1764
 Johann Christian Götzelt
 Christoph Zimmermann
@@ -557,3 +685,9 @@ Samuel Friedrich Schröter
 Johann Michael Braune
 Carl Gottfried Arnold
 Daniel Träger
+1800
+Johann Christoph Göpfert
+Johann Gottlieb Lippmann
+Johann Gottlob Zimmermann
+Friedrich Gottlieb Lippmann
+Gottfried Andreas Müller
