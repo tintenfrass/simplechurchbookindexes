@@ -1,13 +1,14 @@
 Nassau (Buch 482)
-Trauungen 1700-1799
+Trauungen 1700-1809
 https://www.archion.de/de/viewer/churchRegister/305499?pageId=42942693
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 2 Stunden
+Erstellt in ca. 2,5 Stunden
 Oktober 2023
+Juni 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1998,3 +1999,245 @@ Johann Christoph Zincke
 Carl Gottlob Friedrich Hennig
 Carl August Meyer
 Traugott Friedrich Wolf
+1800
+Johann Gottfried Krause
+Johann Gottlieb Göhler
+Carl Friedrich Liebscher
+Johann Gotthelf Neubert
+Johann Gottlob Rudolf
+Johann Gottlob Hengst
+----------------
+Johann Gottfried Böhme
+Christian Gotthold Wagner
+Johann Gottlob Ditrich
+----------------
+1801
+Georg Gottlieb Kaden
+Gotthelf Friedrich Schubert
+Johann Georg Walther
+Johann Christoph Göhler
+----------------
+Gottlob Friedrich Thiele
+Carl Christoph Fischer
+Johann Gottlob Friedrich Mehner
+Johann Gottlob Müller
+Christian Friedrich Müller
+Wilhelm Friedrich Wolf
+Johann Gottlob Friedrich Schmieder
+Johann Christian Wolf
+Carl Gottlob Ertelt
+Johann Georg Schmieder
+Carl Gottlob Ulbrig
+----------------
+Gotthelf Friedrich Schneider
+Carl Gottlieb Weh
+Johann Gottlieb Dietrich?
+Christian Friedrich Göhler
+Johann Christoph Lohse
+Carl Friedrich Göhler
+Johann Gottlieb Böhme
+Christian Friedrich Göpfert
+Johann Gottlieb Göhler
+Johann Heinrich Thiele
+Johann Gottfried Fischer
+----------------
+1802
+Traugott Friedrich Glöckner
+Christian Friedrich Fischer
+Johann Gottlieb Böhme
+Johann Gottlob Rudolf
+Carl Gottfried Rupprich
+Carl Gottlob Fischer
+Johann Gottfried Liebscher
+Johann Christoph Richter
+Gotthelf Friedrich Tittel
+Johann Gottfried Böhme
+Gottlieb Fischer
+Carl Gottlieb Börner
+----------------
+Carl Gottlob Liebscher
+Johann Gottfried Richter
+Friedrich Ehregott Preußler
+Christian Friedrich Häusler
+Johann Gottlieb Liebscher
+Gottfried Augustin
+Johann Georg Ihle
+Johann Christian Traugott Fischer
+August Friedrich Wolf
+Carl Gottlob Helmert
+Johann Gottlieb Zinke
+----------------
+David Heinrich Böhme
+Georg Friedrich Ihle
+Johann Christian Fischer
+Johann Gottlieb Hauschild
+Johann Gottlieb Göhler
+Carl Gottlob Winckler
+Johann Christoph Kempe
+Carl Gottlob Neubert
+Johann Benjamin Schröter
+1803
+Carl Gottlieb König
+Christian Gottlob Heerklotz
+----------------
+Johann Gottfried Wolf
+Johann Heinrich Zemmrich
+Johann Christoph Fischer
+Christian Friedrich Erler
+Christoph Richter
+Traugott Friedrich Horn
+Carl Friedrich Samuel Gottlob Wolf
+Georg Friedrich Richter
+Johann Christoph Schröter
+Johann Georg Rülke
+Johann Georg Ditrich
+----------------
+Johann Gottlob Rose
+Johann Friedrich Göhler
+Gottfried Augustin
+Christian Benjamin Strasberger
+Gotthelf Friedrich Lohse
+Johann Gottlieb Pohler
+Johann Friedrich Wolf
+Gottfried Renner
+Carl Gottlieb Weise
+Carl Gottlob Friedrich Bär
+Carl Gottlob Erler
+----------------
+Christian Friedrich Kempe
+Christian Gottfried Liebscher
+Johann Christoph Wagner
+Johann Gottlob Friedrich Göhler
+Johann Michael Böhme
+1804
+Christian Friedrich Kempe
+Gottfried Fischer
+Christian Friedrich Preußler
+Christian Friedrich Wiegand
+Johann Gottlieb Mehnert
+Johann Friedrich Rabe
+----------------
+Johann Christian Friedrich Ditrich
+Georg Friedrich Göhler
+Christian Friedrich Böhme
+Johann Gottlieb Zennich
+Christian Gottlieb Kaden
+Georg Friedrich Göhler
+Johann Gottfried Fischer
+Johann Christoph Hähnel
+August Christian Flemming
+Traugott Friedrich Wolf
+Georg Ditrich
+----------------
+Christian Friedrich Göhler
+Carl Gottlieb Weise
+1805
+Carl Gottlob Friedrich Uhlich
+Johann Gottlieb Göhler
+Samuel Ditrich
+Johann Ludwig Lindner
+Johann Gottfried Richter
+Johann Gottfried Lindner
+Carl Friedrich Kempe
+Carl Gottlob Hauschild
+Georg Friedrich Göhler
+----------------
+Johann Gottlob Friedrich Oehme
+Carl Gottlob Heerklotz
+Samuel Friedrich Clausnitzer
+Christian Friedrich Göhler
+Johann Gottlieb Göhler
+Johann Gottfried Göhler
+Johann Gottlob Friebel
+Gottlob Friedrich Rabe
+Gottlieb Friedrich Wolf
+Johann Gottlob Böhme
+----------------
+1806
+Ehrenfriedrich Liebscher
+Gottlob Friedrich Wiegand
+Johann Georg Göhler
+Johann Christoph Kempe
+Johann Christian Friedrich Schmieder
+Gottlob Friedrich Liebscher
+Christoph Kempe
+Georg Friedrich Böhme
+Carl Gottlieb Göhler
+Georg Friedrich Ihle
+----------------
+Carl Friedrich Ihle
+Johann Christoph Göhler
+Carl Friedrich Wolf
+1807
+Carl Gotthelf Wolf
+Christian Friedrich Liebscher
+Johann Christoph Rabe
+Christian Friedrich Schulze
+Carl Gottlob Schönherr
+Carl Gottlob Friedrich Heinrich
+Johann Gottfried Ditrich
+----------------
+Johann Gottlieb Hahmann
+Tomotheus Ehregott Albani
+Gottlob Friedrich Wiegand
+Johann Gottlob Friedrich Schmieder
+Christian Ehregott Brödner
+Johann Gottlieb Schmieder
+Johann Samuel Bellmann
+Johann Gottfried Wolf
+Johann Gottlob Hoffmann
+Georg Friedrich Ditrich
+----------------
+Christian Friedrich Hunger
+Christian Friedrich Fischer
+Georg Gottlob Kempe
+Traugott Friedrich Wolf
+1808
+Johann Christoph Kempe
+Christian Wilhelm Strasberger
+Johann Georg Friedrich Göhler
+Johann Christian Winckler
+Christian Friedrich Richter
+Christian Friedrich Göpfert
+----------------
+Carl Gottlieb Kaden
+Christian Friedrich Mende
+Johann Gottlieb Ditrich
+Carl Friedrich Schneider
+Carl Friedrich Schickel
+Johann Christian Walther
+Gottlob Friedrich Kempe
+Georg Karl Göhler
+Carl Gottlob Göhler
+Gottlob Friedrich Mende
+----------------
+Carl Gottlieb Wiegand
+Christian Friedrich Göhler
+1809
+Johann Gottfried Berndt
+Johann Gottlob Glaser
+Christian Friedrich Kaden
+Christian Friedrich Fischer
+Johann Gottlob Bellmann
+Carl Gottlob Berndt
+Johann Gottlieb Liebscher
+----------------
+Christian Friedrich Liebscher
+Gottlob Friedrich Tippmann
+Johann Christian Göhler
+Johann Friedrich Paul
+Carl Gotthelf Fischer
+Johann Gottfried Köhler
+Johann Traugott Göhler
+Gottlieb Siegmund Wiegand
+Johann Karl Gottlieb Strasberger
+Carl Gottlob Zimmermann
+----------------
+Carl Christian Teuchert
+Christian Gotthelf Heinzmann
+Friedrich Ernst Seidel
+Gottfried Kaden
+Gotthelf Friedrich Zemmrich
+Carl Joseph Rose
+Carl Gotthelf Böhme
+Georg Friedrich Böhme

@@ -1,5 +1,5 @@
 Johnsbach (Buch 397)
-Trauungen 1741-1799
+Trauungen 1741-1802
 https://www.archion.de/de/viewer/churchRegister/294443?pageId=40914812
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Erstellt in ca. 0,5 Stunde
 Oktober 2023
+Juni 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -447,3 +448,50 @@ Johann Gottlieb Büttner
 Johann Gottfried Qverner
 Johann Gottlieb Büttner
 Johann Christoph Bobe
+----------------
+1800
+Gottlob Mühle
+Carl Gottlob Walther
+Johann Gottlob Baumgarten
+Johann Christian Lohse
+Johann Gottlob Morgenstern
+----------------
+Johann Christoph Eichler
+1801
+Johann Gottfried Pretschner
+Carl Gottlob Eichhorn
+----------------
+Johann Gottlieb Philipp
+Johann Gottlob Büttner
+Johann Gottlieb Bobe
+Gottlob Friedrich Scheinpflug
+----------------
+x
+x
+x
+x
+Johann Gottlieb Hänel
+----------------
+Johann Gottlieb Büttner
+Carl Gottlob Träger
+Johann Gottfried Fischer
+Johann Christoph Tietze
+Gottlob Leberecht Eißrich
+Johann Gottlob Winckler
+----------------
+Johann Gottlieb Baumgarten
+Johann Gottlob Reichel
+Johann Gottlob Ehrhardt?
+Johann Gottfried Träger
+----------------
+1802
+Carl Gottlob Wittig
+Johann Gottfried Lohse
+Christian Gotthelf Büttner
+Carl Gotthelf Kästner
+Carl Ephraim Gößel
+----------------
+Johann Gottfried Richter
+Johann Gottlieb Gebhardt
+Christian Gottlob Kröberg?
+Christian Friedrich Bobe

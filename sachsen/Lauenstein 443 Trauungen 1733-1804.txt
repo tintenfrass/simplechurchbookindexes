@@ -1,5 +1,5 @@
 Lauenstein (Buch 443)
-Trauungen 1733-1799
+Trauungen 1733-1804
 https://www.archion.de/de/viewer/churchRegister/305468?pageId=42936104
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 Erstellt in ca. 1,5 Stunden
 Oktober 2023
+Juni 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -714,3 +715,64 @@ Carl Gottlob Schütze
 Carl Gottlieb Lehmann
 Johann Gottlieb Rehn
 Carl Gottlieb Lose
+1800
+Christian Friedrich Schreiber
+Johann Elias Zimmerheckel
+Johann Samuel Gotthelf Scharf
+Carl Gottfried Eßler?
+Johann Christian Gottlob Jäpel
+Friedrich Traugott Eichler
+Johann Gottlieb Richter
+Johann Gottlieb Mager
+Johann Gottlob Bräuer
+Heinrich Samuel Eichler
+Johann Gotthelf Börner
+1801
+Karl Christian Großer
+Carl Gottlob Schöder
+Johann Georg Lose
+Christian Gottlieb Schulze
+Johann Gottlob Schulze
+Friedrich Ehregott Schwencke
+Johann Gottlieb Loose
+----------------
+Carl Friedrich Zimmerheckel
+Johann Friedrich August Krebs
+Johann Georg Eichler
+Heinrich Samuel Scharfe
+Johann Gottlieb Gößel
+1802
+Johann Gottfried Holfeld
+Salomon Bretschneider
+Johann Gottfried Schlinzig
+Daniel Ehregott Fanghänel
+Johann Gottfried Schütze
+1803
+Johann Georg Eichler
+Johann Carl Gottlob Eichler
+Carl Gottlieb Eichler
+Traugott Leberecht Stumpf
+Johann Friedrich Jäpel
+Carl Friedrich Ebert
+Johann Gottlob Eichler
+Johann Klingst
+Johann Gottlob Bräuer
+Johann Heinrich Pfanne
+Johann Christian Friedrich Grummd
+Heinrich Friedemann Eichler
+Christian Gottlob Schmidt
+Carl Gottlieb Jäpel
+1804
+Carl Traugott Schütze
+Johann Samuel Gößel
+Christian Gottlob Heße
+Gotthold Leberecht Schencke
+Friedrich Gottlieb August Schmeltzer
+Carl Emanuel Willmersdorf
+----------------
+Christian Gottlieb Seydel
+Johann August Gottpreiß Reichard
+Johann Gottlieb Samuel Heymann
+Carl Gottlieb Gößel
+Carl Friedrich Alex
+Carl Gottlieb Bürger

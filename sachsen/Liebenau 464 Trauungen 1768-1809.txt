@@ -1,5 +1,5 @@
 Liebenau (Buch 464)
-Trauungen 1768-1799
+Trauungen 1768-1809
 https://www.archion.de/de/viewer/churchRegister/305485?pageId=42939248
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Erstellt in ca. 1 Stunde
 Oktober 2023
+Juni 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -315,3 +316,118 @@ Johann Christoph Schwencke
 Johann Traugott Leberecht Mühle
 Johann Christoph Götze?
 Christoph Heinrich Lehmann
+----------------
+1800
+Johann Elias Zimmerheckel
+Johann Gottlieb Friedrich Nitzsche
+Gottlob Mühle
+Johann Gottlob Tiebel
+Johann Gottlob Bretschneider
+Gottlieb Benjamin Walther
+----------------
+Johann Christoph Eichler
+Karl Gottlieb Herzog
+Johann Christoph Gottlieb Peuckert
+1801
+Johann Gottlob Tiebel
+Johann Georg Küchler
+Johann Gottlob Hellwig
+----------------
+Johann Gottlieb Eichler
+Christoph Gottlob Mühle
+Johann Gottlob Mühle
+Johann Gottfried Zeibig
+Johann Christoph Gottlob Lehmann
+Carl Gottlieb Richter
+Johann Georg Eichler
+----------------
+Johann Gottlob Tiebel
+Elias Schwencke
+Johann Christoph Fraulob
+1802
+Johann Gottfried Thomer?
+Johann Christoph Mühle
+Christoph Gottlieb Lehmann
+Christoph Jäpel
+Johann Gottlieb Lincke
+Johann Gottfried Schütze
+----------------
+Johann Georg Gößel
+Johann Georg Hickmann
+Anton Wagner
+x
+Johann Christoph Gottlob Mühle
+Karl Gottlob Hauswald
+Johann Christlieb Mende
+----------------
+Christoph Gottlob Mühle
+Christoph Gottlob Franke
+Johann Gottlob Pech
+Johann Georg Mühle
+Johann Gottlob Samuel Mende
+Johann Gottlieb Hauschild
+----------------
+Johann Gottlieb Samuel Heymann
+Karl Gottlieb Gößel
+1805
+Karl Samuel Hönichen
+Johann Christian Herzog
+Johann Gottlieb Bretschneider
+Johann Christoph Peuckert
+----------------
+Johann Gottlieb Hellwig
+Johann Gottlieb Reichert
+Johann Christoph Gottlieb Wald
+Johann Gottlob Scharfe
+Elias Kadner
+Johann Gottfried Ehrlich
+Johann Gottfried Riedel
+----------------
+Johann Samuel Gößel
+Johann Traugott Ernst Kühnel
+1806
+Johann Traugott Gottlob Kühnel
+Johann Gottlieb Tiebel
+Johann Georg Bretschneider
+Christoph Gottlieb Fischer
+----------------
+Johann Gottlieb Mühle
+Christoph Gottlieb Mühle
+Christoph Gottlieb Heinrich Lehmann
+1807
+Johann Gottlieb Ditrich
+Christoph Gottlieb Jäpel
+Johann Gottlieb Ebert
+----------------
+Christoph Gottfried Lehmann
+Johann Georg Kühnel
+Johann Georg Schwencke
+Johann Heinrich Holfert
+Christoph Gottlieb Heinrich Schwencke
+----------------
+Johann Samuel Holfert
+Johann Gottfried Schlenckrich
+Johann Christoph Schwencke
+1808
+Johann Wilhelm Hickmann
+Karl Gottlieb Neumann
+Gottlieb Friedrich Pellmann
+----------------
+Johann Christoph Jäpel
+Johann Georg Bretschneider
+Johann Christian Hauswald
+Christoph Gottlieb Bretschneider
+Johann Christoph Mühle
+1809
+Christian Friedrich Schulze
+----------------
+Johann Christian Gottlieb Schiebel
+Johann Gottlieb Hartmann
+Karl Gottlob Ehrhardt
+Johann Gottlieb Mühle
+Christoph Heinrich Mühle
+Karl August Schütze
+Johann Gottlieb Grumpelt
+----------------
+Karl Christlieb Fischer
+Karl Gottlob Fischer
