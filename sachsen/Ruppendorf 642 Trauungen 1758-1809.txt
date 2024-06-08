@@ -1,13 +1,14 @@
 Ruppendorf (Buch 642)
-Trauungen 1758-1799
+Trauungen 1758-1809
 https://www.archion.de/de/viewer/churchRegister/305630?pageId=42972367
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 September 2023
+Juni 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -562,3 +563,169 @@ Johann Gottlieb Köhler
 Gottlieb Berthold
 Christian Gottlieb Lieber
 Ehrenfried Lieber
+----------------
+1800
+Johann Emanuel Reichelt
+Samuel Gottlob Schäfer
+Johann Gottlieb Baumgart
+Carl Gottlob Baumgart
+Christian Gottlieb Kirchhübel
+Johann Franz Hille
+Carl Gottlieb Schneider
+----------------
+Friedrich August Hermann
+Carl Gottlob Fleischer
+Christian Gottlieb Näcke
+Johann Gottlob Lieber
+Johann Gottlieb Geißler
+Emanuel Gottlieb Michaelis
+----------------
+1801
+Johann Samuel Holfert
+Christian Gottlieb Richter
+Emanuel Gottlieb Heber
+Johann Gottlieb Zimmermann
+Carl Gottlob Hoffmann
+Friedrich Moritz Poltermann
+----------------
+Christoph Fischer
+Christian Carl Gottlieb Baumgart
+Johann Heinrich Baumgart
+Johann Gottlob Weinhold
+Carl Gottlob Richter
+----------------
+Johann Samuel Gottlieb Lohse
+Christian Michael Richter
+Christian Gottlieb Berthold
+----------------
+1802
+Johann Gottlieb Wustemann
+Ehrenfried Lohse
+Adam Carl Gottlieb Heber
+Siegmund Friedrich Lohse
+----------------
+Christian Gottlieb Lotze
+Gottlob Hauptmann
+Samuel Friedrich Schweinger
+Johann Heinrich Holfert
+Carl Gottlieb Schäfer
+----------------
+Gabriel Gottlob Klinkicht
+Johann Heinrich Lieber
+Gottlieb Heinrich Heber
+Johann Traugott Berthold
+----------------
+Johann Gottlob Holfert
+Johann Samuel Reichelt
+Johann Gotthelf Holfert
+Michael Reichelt
+----------------
+1803
+Heinrich Gottlob Berthold
+Christian Gottfried Wintrich
+Johann Friedrich Neuberth
+Carl Gottlieb Polst //Putze?
+Samuel Buchmann
+----------------
+Carl Christian Richter
+Christian Gottfried Münzer
+Daniel Gottlieb Panzer
+Johann Traugott Heber
+Johann Andreas Lippisch
+----------------
+Johann Gotthelf Holfert
+Carl Gotthelf Stephan
+Ehrenfried? Heinrich Roßburg //Johann Friedrich
+Johann Gotthelf Hühnich
+Johann Gottlieb Böhme
+----------------
+Johann Gottlieb Richter
+Johann Gottfried Engermann
+----------------
+1804
+Traugott Leberecht Berthold
+Johann Gottlob Heber
+Johann Gottfried Holfert
+Johann Gottlieb Reichelt
+Johann Samuel Müller
+Carl Heinrich Wenzel
+----------------
+Immanuel Gottlieb Holfert
+Johann Daniel Schneider
+Johann Samuel Grimmer
+Carl Gottlieb Roßburg
+Johann Samuel Schubert
+Carl Gottlieb Kirchner
+Carl Gottlob Wintrich
+----------------
+1805
+Johann Gottlieb Rodhardt
+Carl Gottlieb Zimmermann
+Johann Christian Gottlieb Neuberth
+Daniel Müller
+Gotthelf Immanuel Göbel
+Christlieb Heinrich Heber
+----------------
+Friedrich Benjamin Heber
+Johann Heinrich Schneider
+Johann Gottlieb Holfert
+Carl Gottlob Berger
+Immanuel Gottlieb Grahl
+Johann Traugott Berthold
+Johann Daniel Kästner
+Johann Gottlob Legler
+----------------
+1806
+Carl Gottfried Menzel
+Johann Daniel Gemeiner
+Carl Gottfried Just
+Carl Gotthelf Holfert
+Carl Christoph Baumgart
+Carl Friedrich Ehrlich
+Daniel Geißler
+----------------
+1807
+Carl Gottlieb Heinrich Schubert
+Johann Gottfried Richter
+Johann Daniel Roßburg
+Daniel Gottlieb Baumgart
+Johann Ehrenfried Richter
+Samuel Gottlieb Richter
+----------------
+Johann Gottlob Gutte
+Johann Samuel Holfert
+Carl Gottlieb Jähnich
+Gottlieb Heinrich Heber
+Christian Gottlieb Mänzer
+Gottlob? Heinrich Bormann //korrigiert
+----------------
+Carl Gottlieb Zimmermann
+1808
+Johann Gottfried Lange
+Johann Gottlob Hoffmann
+Carl Gottlieb Zimmermann
+Johann Salomon Bormann
+----------------
+Johann Gottlieb Müller
+Immanuel Gottlieb Schmieder
+Johann Georg Bretschneider
+Carl Gottlieb Zöller
+Carl Gottlob Holfert
+----------------
+Christian Gottlieb Berthold
+Johann Samuel Hoffmann
+Johann Gottlieb Baumgart
+Johann Heinrich Lotze
+1809
+Carl Gottlieb Panzer
+----------------
+Johann Friedrich Maul
+Johann Gottlieb Gutte
+Daniel Gottlieb Pöschel
+Carl Gottlieb Schubert
+Johann Daniel Michaelis
+Carl Samuel Michaelis
+----------------
+Johann Georg Gottlob Kunath
+Gottlob Zimmermann
+Johann Immanuel Gottlieb Richter
