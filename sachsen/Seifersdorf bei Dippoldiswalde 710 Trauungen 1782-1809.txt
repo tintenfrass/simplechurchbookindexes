@@ -1,13 +1,14 @@
 Seifersdorf bei Dippoldiswalde (Buch 710)
-Trauungen 1782-1799
+Trauungen 1782-1809
 https://www.archion.de/de/viewer/churchRegister/305682?pageId=42982170
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 September 2023
+Juni 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -240,3 +241,195 @@ Johann Gottlieb Köhler
 Carl August Wünschmann
 Johann Christoph Illigen
 Johann Gottlieb Illigen
+1800
+Christian Gottlieb Schumann
+Johann Gottlob Müntzel
+Johann Gottlieb Mentzel
+Johann Gottfried Holfert
+----------------
+Christian Schiffel
+Christian Gotthelf Inckermann
+Carl Gottlob Keppler
+Johann Ehrenfried Bellmann
+Johann Gottlieb Seifert
+Johann Daniel Hoffmann
+Johann Gottfried Stephan
+Carl Gottlob Schumann
+Georg Gottfried Börner
+Gottfried Gottlieb Selter
+Johann Gottlieb Bach
+----------------
+1801
+Christian Gottlieb Richter
+Carl Gottlieb Silbermann
+Johann Gottlob Made
+Christian Gottlieb Ebert
+Johann Gottlob Legler
+Daniel Gottlob Bormann
+Johann Gottlieb Just
+Carl Gottlieb Mohr
+Johann Gottlieb Köhler
+Carl Gottlieb Zimmermann
+----------------
+Johann Andreas Wolf
+Carl August Schumann
+Johann August Bormann
+Johann Samuel Bormann
+Christian Michael Kummer
+Johann Gottfried Orgus
+Johann Samuel Gottlieb Lohse
+Johann Gottlieb Menzel
+----------------
+1802
+Johann Gottfried Wolf
+Johann Gottlieb Aelich
+Johann Samuel Steinig
+Adam Carl Gottlieb Heber
+Johann Gottlob Seiffert
+Christian Gottlob Bellmann
+Carl Christian Seiffert
+Johann Gottfried Schumann
+Johann Gottfried Helbig
+Carl Leberecht Grell
+----------------
+Gottlob Hauptmann
+Johann Gottfried Grafe
+Johann Christoph Zeibig
+Johann Gottfried Glauch
+Friedrich Kummer
+Johann Georg Schröter
+----------------
+1803
+Christoph Heinrich Preißker
+Carl Gotthelf Pretzschner
+Christian Gottlieb Lotze
+Johann Gottlob Wünschmann
+Carl Hoffmann
+Johann Georg Schöne
+Carl Gottlob Kunath
+Carl Gottlieb Pohst
+Carl Gottfried Aßmann
+----------------
+Samuel Carsch
+Christian Gotthelf Zinner
+Christian Gottfried Horn
+Johann Christian Gärtner
+Johann Gottfried Kunath
+Carl Gottlieb Helbig
+Johann Gottlieb Ehrhard
+Carl Gottlieb Rüdiger
+Gottfried Hoffmann
+Christian Gottfried Junold
+----------------
+Johann Gottlieb Zimmermann
+Carl Gottfried Berger
+Johann Christian Eubig
+Johann Gottlob Jungnickel
+Johann Christian Geyer
+----------------
+1804
+Carl Gottlob Reichel
+Johann Gottlob Näcke
+Carl Gottlieb Jänich
+Christian Gottlieb Lotze
+Gottfried Lotze
+Samuel Christoph Bormann
+Carl Friedrich Reichard
+Johann Samuel Hamann
+Johann Georg Gamig
+Johann Traugott Frölich
+----------------
+Johann Christian Winckler
+Johann Christian Grahl
+Johann Gottfried Nitzsche
+Carl Gottlob Hoffmann
+Johann Samuel Walther
+Carl Gottfried Göpfert
+Johann Christlieb Schumann
+Carl Christian Geißler
+----------------
+1805
+Carl Gotthelf Funcke
+Johann Carl Gottfried Götze
+Carl Gottlieb Püschel
+Gottlieb Kunath
+Johann Gottfried Krell
+Carl Gottlieb Franke
+Johann Samuel Zimmermann
+Johann Gottfried Stentzel
+Johann Christlieb Kästner
+Johann Gottlob Nitzsche
+----------------
+Gotthelf Immanuel Göbel
+Christian Gottlob Müller
+Johann Gottlob Geyer
+1806
+Johann Christoph Haußwald
+Christian Gottlieb Hamann
+Johann Gottlob Holfer
+Johann Gottlieb Grahl
+----------------
+Johann Ehrenfried Hauptvogel
+Carl Friedrich Giezelt
+Christian Gottlieb Kunath
+Johann Christian Bellmann
+Johann Gottfried Neubert
+Johann Christian Mantsch
+Johann Gottlieb Loßner
+----------------
+Friedrich Wilhelm Uhlemann
+Johann Georg Tronicke
+Johann Christian Weise
+----------------
+1807
+Christian Friedrich Qverner
+Carl Gottlieb Münzel
+Johann Gotthold Leberecht Tiebel
+Gotthelf Ehregott Schröter
+Christian Heinrich Qverner
+Johann Christoph Hauptmann
+----------------
+Johann Christian Bobe
+Johann Christian Irmer
+Samuel Gottlieb Richter
+Johann Christoph Leischke
+----------------
+1808
+Carl Gottlob Hosemann
+Andreas Göpfert
+Carl Gottlieb Zimmermann
+Johann Gottlob Müller
+Christian Gottlob Kunath
+----------------
+Christian Gottlieb Walther
+Christoph Lotze
+Carl Gottlob Schlicke
+Johann Georg Hönel
+Johann Gottfried Röhringer
+Johann Samuel Illigen
+----------------
+Johann Gottlob Rüdger
+Johann Samuel Merkel
+Johann Gottlob Funcke
+----------------
+1809
+Johann Gottfried Zimmermann
+Carl Gottlob Klemm
+Johann Gottlieb Püschel
+Carl Gottlob Lohse
+Ehrenfried Traugott Erler
+Wilhelm Gottlieb Grimmer
+----------------
+Johann Christian Böhmel
+Carl Christian Sparmann
+Carl Gottlob Mühle
+Siegmund Gottlieb Ebert
+Johann Christian Stock
+Carl Gottlieb Jänicke
+----------------
+Johann Georg Pretzschner
+Christian Gottlieb Göpfert
+Johann Gottlieb Hoffmann
+Johann Gottlob Träger
+Johann Christian Nitzold
+Gotthelf Böhme

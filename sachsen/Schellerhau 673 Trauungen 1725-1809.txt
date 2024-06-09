@@ -1,13 +1,14 @@
 Schellerhau (Buch 673)
-Trauungen 1725-1799
+Trauungen 1725-1809
 https://www.archion.de/de/viewer/churchRegister/305654?pageId=42977057
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Oktober 2023
+Juni 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -428,3 +429,105 @@ Karl Gottlieb Endmann
 1799
 Johann Karl Gottlob Gutte
 Adam Christian Renner
+----------------
+1808
+Georg Friedrich Göhler
+Karl Gottlob Ramft
+Karl Gottlieb Grumbd
+Karl Gottlieb Walther
+Johann Adolph Klitzsch
+Karl Gottlieb Walther
+Johann Christian Friebel
+----------------
+1809
+Friedrich Wilhelm Rönisch
+Traugott Sturm
+Gotthelf Walther
+Friedrich Ernst Seydel
+Johann Gottlob Jäckel
+Johann Gottfried Clausnitzer
+----------------
+Johann Gottlob Nagler?
+Johann Christian Scharfe
+---------------- x19
+1800
+Johann Gottfried Scharfe
+Karl Gottlieb Reichert
+Johann Gottfried Schmieder
+Karl Gottlob Clausnitzer
+Johann David Lohse
+----------------
+Johann Gottfried Hoffmann
+David Gotthelf Walther
+Karl Gottlob Berger
+Johann Karl Gottlieb Jäckel
+Johann Gottfried Schramm
+Gottlob Friedrich Kempe
+----------------
+Johann Michael Walther
+1801
+Johann Christoph Horn
+Karl Gottlob Schramm
+Karl Gottlob Büttner?
+Johann Andreas Walther
+Johann Gottlob Weckbrodt
+----------------
+Johann Gottlob Walther
+Karl Gottlob Wolf
+Johann Andreas Walther
+1802
+Karl Gottlieb Brotze
+Karl Gottlob Püttner?
+Johann Christian Friedrich Kästner
+----------------
+Gotthelf Friedrich Hosemann
+Georg Gottlieb Liebscher
+Johann Gottlob Wiesner
+Johann Gotthelf Grumpelt
+1803
+Karl Gottlieb Wiese
+Johann Gottlieb Made
+----------------
+Johann Friedrich Weckbrodt
+Christian August Stencke
+Karl Richter
+Karl Gottlob Klotze
+Johann Gottlob Walther
+Johann Michael Richter
+----------------
+Johann Gottlieb Walther
+1804
+Friedrich Gotthelf Kästner
+Johann Gottfried Püschel
+Johann Gottfried Seyffert
+Johann Christian Kästner
+Gottlob Busch
+Johann Christian Scharfe
+----------------
+Karl Gottlob Friedrich Kästner
+Johann Gottlob Liebscher
+Johann Gottlieb Walther
+Johann Gottfried Rudolf
+Adam Friedrich Zennig
+1805
+Karl Gottlieb Weise
+Karl Gottlob Göhler?
+----------------
+Johann Gottlob Heße
+Karl Gottlob Sommerschuch
+Gottfried Böhme
+Johann Gottlieb Schramm
+1806
+Gottlob Reichel
+Johann Christian Renner
+Johann Gottlob Hahmann
+Georg Philip Wiesner
+----------------
+Karl Gottlieb Reichert
+Johann Christoph Lehmann
+1807
+Gottlob Friedrich Renner
+Johann Gabriel Krebs
+Johann Georg Friebel
+Johann Gottlob Fleischer
+Christian Friedrich Renckwitz
