@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta content name="author">
+<meta name="author" content>
 <meta content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde" name="description">
 <meta name="keywords" content>
 <meta name="theme-color" content="#2d2c2c">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover">
-<meta property="og:url" content="http://127.0.0.1:59173/">
+<meta property="og:url" content="http://127.0.0.1:57125/">
 <meta property="og:title" content="Trau-Index Dresden-Meißen">
 <meta property="og:description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
 <meta property="og:type" content="website">
@@ -35,7 +35,7 @@ Trau-Index Dresden-Meißen
 <div>
 <aside id="app-wasm-loader" class="goapp-app-info">
 <img id="app-wasm-loader-icon" class="goapp-logo goapp-spin" src="https://storage.googleapis.com/murlok-github/icon-192.png">
-<p id="app-wasm-loader-label" class="goapp-label">
+<p class="goapp-label" id="app-wasm-loader-label">
 0%
 </p>
 </aside>
@@ -54,7 +54,7 @@ Dresden-Meißen-Freiberg-Dippoldiswalde
 <label>
 Jahr Min 
 </label>
-<input type="range" min="1545" max="1809" value="0" style="width: 600px;">
+<input min="1545" max="1809" value="0" style="width: 600px;" type="range">
 <label>
 0
 </label>
@@ -68,16 +68,12 @@ Jahr Max
 </label>
 <br>
 <br>
-<label style="float:right;color:dimgrey;">
-(Hinweis: Die Gebiete Freiberg und Dippoldiswalde sind derzeit nur bis 1799 erfasst)
-</label>
-<br>
 <br>
 </div>
 </td>
 <td>
 <div style="margin-left:60px;color:dimgrey;">
-<div title="Bestimmt wie schnell und genau die Ähnlichkeitssuche funktioniert, je nach Algorithmus können die Ergebnisse leicht abweichen. Im Zweifelsfall einfach so lassen." style="font-weight:bold;">
+<div style="font-weight:bold;" title="Bestimmt wie schnell und genau die Ähnlichkeitssuche funktioniert, je nach Algorithmus können die Ergebnisse leicht abweichen. Im Zweifelsfall einfach so lassen.">
 Erweiterte Einstellung zum Suchalgorithmus (experimentell):
 </div>
 <br>
@@ -92,17 +88,17 @@ Jaro + Soundex + DamerauLevenshtein
  ----&gt; mehr Treffer, sehr langsam, nicht für große Suchen geeignet
 </div>
 <div title="Die OSA-Variante von DamerauLevenshtein, ohne Vorfilterung">
-<input type="radio" checked="false" name="algo">
+<input name="algo" type="radio" checked="false">
 OSA
  ----&gt; einfacher und schneller als DamerauLevenshtein, für schwächere Geräte
 </div>
 <div title="einfachere Version von DamerauLevenshtein, ohne Vorfilterung">
-<input type="radio" title="einfachere Version von DamerauLevenshtein" checked="false" name="algo">
+<input checked="false" name="algo" type="radio" title="einfachere Version von DamerauLevenshtein">
 Levenshtein
  ----&gt; einfacher und schneller als OSA, für schwache Geräte
 </div>
 <br>
-<a style="color:grey;" href="https://de.wikipedia.org/wiki/Levenshtein-Distanz">
+<a href="https://de.wikipedia.org/wiki/Levenshtein-Distanz" style="color:grey;">
  (Damerau-)Levenshtein-Distanz
 </a>
 <br>
@@ -386,7 +382,7 @@ Nichts
 </div>
 </table>
 <p>
-<input autofocus="true" style="width: 250px;" type="text" placeholder="Vorname Nachname">
+<input type="text" placeholder="Vorname Nachname" autofocus="true" style="width: 250px;">
  
 <button style="width: 100px;">
 Search
@@ -448,22 +444,22 @@ https://github.com/tintenfrass/simplechurchbookindexes
 <br>
 <br>
 <h3>
- v1.8 (Mai 2024) latest updates:
+ v1.8 (Juni 2024) latest updates:
 </h3>
 <label>
-Trauungen im Gebiet Dresden 1800-1809
+Trauungen im Gebiet Freiberg 1800-1809
 </label>
 <br>
 <label>
-Trauungen im Gebiet Meißen 1800-1809
+Trauungen im Gebiet Dippoldiswalde 1800-1809
 </label>
 <br>
 <label>
-Reinsberg in die Karte aufgenommen
+Fürstenwalde in die Karte aufgenommen
 </label>
 <br>
 <label>
-kleinere Fehlerkorrekturen
+Fürstenau in die Karte aufgenommen
 </label>
 </div>
 </div>

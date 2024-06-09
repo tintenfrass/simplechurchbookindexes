@@ -239,11 +239,13 @@ func (h *searchComp) Render() app.UI {
 	grid[6][19] = "Schellerhau"
 	grid[7][19] = "Altenberg"
 	grid[8][19] = "Geising"
+	grid[9][19] = "Fürstenwalde"
 
 	grid[1][20] = "Voigtsdorf"
 	grid[2][20] = "Sayda"
 	grid[3][20] = "Clausnitz"
 	grid[4][20] = "Cämmerswalde"
+	grid[8][20] = "Fürstenau"
 
 	raw := "https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/"
 
@@ -295,8 +297,8 @@ func (h *searchComp) Render() app.UI {
 						app.Label().Text(h.slideValueMax),
 						app.Br(),
 						app.Br(),
-						app.Label().Text("(Hinweis: Die Gebiete Freiberg und Dippoldiswalde sind derzeit nur bis 1799 erfasst)").Attr("style", "float:right").Style("color", "dimgrey"),
-						app.Br(),
+						//app.Label().Text("(Hinweis: Die Gebiete Freiberg und Dippoldiswalde sind derzeit nur bis 1799 erfasst)").Attr("style", "float:right").Style("color", "dimgrey"),
+						//app.Br(),
 						app.Br(),
 					),
 				),
@@ -412,14 +414,14 @@ func (h *searchComp) Render() app.UI {
 		app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 		app.Br(),
 		app.Br(),
-		app.H3().Body().Text(" v1.8 (Mai 2024) latest updates:"),
-		app.Label().Text("Trauungen im Gebiet Dresden 1800-1809"),
+		app.H3().Body().Text(" v1.8 (Juni 2024) latest updates:"),
+		app.Label().Text("Trauungen im Gebiet Freiberg 1800-1809"),
 		app.Br(),
-		app.Label().Text("Trauungen im Gebiet Meißen 1800-1809"),
+		app.Label().Text("Trauungen im Gebiet Dippoldiswalde 1800-1809"),
 		app.Br(),
-		app.Label().Text("Reinsberg in die Karte aufgenommen"),
+		app.Label().Text("Fürstenwalde in die Karte aufgenommen"),
 		app.Br(),
-		app.Label().Text("kleinere Fehlerkorrekturen"),
+		app.Label().Text("Fürstenau in die Karte aufgenommen"),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
 }
 
