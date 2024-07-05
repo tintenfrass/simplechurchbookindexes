@@ -1,4 +1,4 @@
 package config
 
-const YearMin = 1545
+const YearMin = 1541
 const YearMax = 1809

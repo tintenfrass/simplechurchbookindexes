@@ -414,14 +414,10 @@ func (h *searchComp) Render() app.UI {
 		app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 		app.Br(),
 		app.Br(),
-		app.H3().Body().Text(" v1.8 (Juni 2024) latest updates:"),
-		app.Label().Text("Trauungen im Gebiet Freiberg 1800-1809"),
+		app.H3().Body().Text(" v1.8 (Juli 2024) latest updates:"),
+		app.Label().Text("Trauungen Dresden Sophienkirche 1541-1659 hinzugefügt"),
 		app.Br(),
-		app.Label().Text("Trauungen im Gebiet Dippoldiswalde 1800-1809"),
-		app.Br(),
-		app.Label().Text("Fürstenwalde in die Karte aufgenommen"),
-		app.Br(),
-		app.Label().Text("Fürstenau in die Karte aufgenommen"),
+		app.Label().Text("Trauungen Dresden Sophienkirche 1660-1710 überarbeitet"),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
 }
 

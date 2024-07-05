@@ -3,11 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="author" content>
-<meta content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde" name="description">
+<meta name="description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
 <meta name="keywords" content>
-<meta name="theme-color" content="#2d2c2c">
+<meta content="#2d2c2c" name="theme-color">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover">
-<meta property="og:url" content="http://127.0.0.1:57125/">
+<meta property="og:url" content="http://127.0.0.1:50079/">
 <meta property="og:title" content="Trau-Index Dresden-Meißen">
 <meta property="og:description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
 <meta property="og:type" content="website">
@@ -19,7 +19,7 @@ Trau-Index Dresden-Meißen
 <link rel="apple-touch-icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
 <link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
 <link type="text/css" rel="stylesheet" href="/simplechurchbookindexes/app.css">
-<script defer="true" src="/simplechurchbookindexes/wasm_exec.js"></script>
+<script src="/simplechurchbookindexes/wasm_exec.js" defer="true"></script>
 <script defer="true" src="/simplechurchbookindexes/app.js"></script>
 <!-- Google tag (gtag.js) -->
 			<script async src="https://www.googletagmanager.com/gtag/js?id=G-S2D2V6SHXE"></script>
@@ -35,7 +35,7 @@ Trau-Index Dresden-Meißen
 <div>
 <aside id="app-wasm-loader" class="goapp-app-info">
 <img id="app-wasm-loader-icon" class="goapp-logo goapp-spin" src="https://storage.googleapis.com/murlok-github/icon-192.png">
-<p class="goapp-label" id="app-wasm-loader-label">
+<p id="app-wasm-loader-label" class="goapp-label">
 0%
 </p>
 </aside>
@@ -54,7 +54,7 @@ Dresden-Meißen-Freiberg-Dippoldiswalde
 <label>
 Jahr Min 
 </label>
-<input min="1545" max="1809" value="0" style="width: 600px;" type="range">
+<input max="1809" value="0" style="width: 600px;" type="range" min="1541">
 <label>
 0
 </label>
@@ -62,7 +62,7 @@ Jahr Min
 <label>
 Jahr Max
 </label>
-<input type="range" min="1545" max="1809" value="0" style="width: 600px;">
+<input type="range" min="1541" max="1809" value="0" style="width: 600px;">
 <label>
 0
 </label>
@@ -78,12 +78,12 @@ Erweiterte Einstellung zum Suchalgorithmus (experimentell):
 </div>
 <br>
 <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.4 werden danach mit DamerauLevenshtein genau berechnet. Dieses zweistufe Vorgehen macht die Suche schnell und trotzdem genau.">
-<input name="algo" type="radio" checked="true">
+<input type="radio" checked="true" name="algo">
 Jaro + DamerauLevenshtein
  ----&gt; best Kombination aus Geschwindigkeit und Komplexität
 </div>
 <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.3 werden danach mit Soundex umgewandelt und diese dann mit DamerauLevenshtein berechnet. Das ist sehr langsam aber findet viel mehr Treffer. Große Suchen brechen manchmal ab.">
-<input type="radio" checked="false" name="algo">
+<input name="algo" type="radio" checked="false">
 Jaro + Soundex + DamerauLevenshtein
  ----&gt; mehr Treffer, sehr langsam, nicht für große Suchen geeignet
 </div>
@@ -93,7 +93,7 @@ OSA
  ----&gt; einfacher und schneller als DamerauLevenshtein, für schwächere Geräte
 </div>
 <div title="einfachere Version von DamerauLevenshtein, ohne Vorfilterung">
-<input checked="false" name="algo" type="radio" title="einfachere Version von DamerauLevenshtein">
+<input title="einfachere Version von DamerauLevenshtein" checked="false" name="algo" type="radio">
 Levenshtein
  ----&gt; einfacher und schneller als OSA, für schwache Geräte
 </div>
@@ -106,7 +106,7 @@ Levenshtein
  Jaro-Winkler vs. Levenshtein
 </a>
 <br>
-<a href="https://de.wikipedia.org/wiki/K%C3%B6lner_Phonetik" style="color:grey;">
+<a style="color:grey;" href="https://de.wikipedia.org/wiki/K%C3%B6lner_Phonetik">
  Soundex (Kölner Phonetik)
 </a>
 </div>
@@ -444,22 +444,14 @@ https://github.com/tintenfrass/simplechurchbookindexes
 <br>
 <br>
 <h3>
- v1.8 (Juni 2024) latest updates:
+ v1.8 (Juli 2024) latest updates:
 </h3>
 <label>
-Trauungen im Gebiet Freiberg 1800-1809
+Trauungen Dresden Sophienkirche 1541-1659 hinzugefügt
 </label>
 <br>
 <label>
-Trauungen im Gebiet Dippoldiswalde 1800-1809
-</label>
-<br>
-<label>
-Fürstenwalde in die Karte aufgenommen
-</label>
-<br>
-<label>
-Fürstenau in die Karte aufgenommen
+Trauungen Dresden Sophienkirche 1660-1710 überarbeitet
 </label>
 </div>
 </div>
