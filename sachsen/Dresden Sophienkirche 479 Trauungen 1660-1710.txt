@@ -6,9 +6,13 @@ Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Zusätzlich ist das Kirchenbuch nur schwer lesbar und viele Namen unklar.
 
+Dieser Index später überarbeitet auf der Grundlage des Werkes "Die Dresdner Schlosskirchenbücher" von Christa Maria Richter erstellt:
+https://slub.qucosa.de/landing-page/?tx_dlf[id]=https%3A%2F%2Fslub.qucosa.de%2Fapi%2Fqucosa%253A74092%2Fmets
 
-Erstellt in ca. 2,5 Stunden
-Januar 2023
+
+Erstellt in ca. 3,5 Stunden
+Januar 2023 (erstellt)
+Juli 2024 (überarbeitet)
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -17,507 +21,512 @@ https://github.com/tintenfrass/simplechurchbookindexes
 1660
 Hans-Dietrich Schleinitz
 ----------------
-Herman Wolframsdorf
-Bastian Gemnitius?
+Herman WolfRamsdorf
+Basilius Chemnitius
 Johann Fincke
-Georg Rempa?
-Friedrich Schönberg
+Georg Rompe
+Gottlob Friedrich Schönberg
 Johann-Georg Schleinitz
-Johann-Ernst Malzen?
+Johann-Ernst Molzan
 Dietrich Schleinitz
 ----------------
-Johann-Friedrich Suge?
+Johann-Friedrich Sulze
 Melchior Boß
-Christian Backpup?
+Christian Backpusch
 Johann Müller
-Johann-Paul Laden?
-Hans-Jochen? Steinhaus?
-Hans ?
+Johann-Paul Caden
+Hans Jaochim Steinheüser
+Hans Siegmund Miltitz
 1661
-Andreas ?
-Johann Sebon?
+Andreas Winckler
+Johann Sebott?
 Georg-Peter Heyde
-Georg Honnitzky
+Christoph Melchior Neitschiz
+Georg Konnitzky
 Johann Schumann
-Georg Pepe?
-? Wibel?
+Georg Pape
+Centurio Wiebel
 ----------------
 Christian Schneider
-Martin Körter
-Abraham Freißlöbe?
-Wolfgang-Heinrich Dering?
-Johann-Barthel Böhm?
+Martin Köckeritz
+Abraham Freißlöben
+Wolfgang-Heinrich Dreier
+Johann-Barthel Buhler
 Simon Gärtner
 Hans-Heinrich Rohr
 Mattheus Erlman
-Paul Rose?
+Paul Dieze
 Johann ?
 1662
 Andreas Nacke
-Daniel Lenter?
-Johann-Georg Kelerhein?
+Daniel Centner
+Johann-Georg Hildesheim
 Andreas-Adrian Burgk
-Balthasar-Abraham Taubedel?
-Wolf-Caspar Klegel?
+Balthasar-Abraham Taubadel
+Wolf-Caspar Klengel
 Johann Jäger
-Johann-Heinrich Ruhler
-? ?
-Jacob Suhle?
+Johann-Heinrich Buhler
+Gideon Gellius
+Jacob Sulze
 ----------------
 Werner-Theodor Martini
-Christian Erler
+Christian Eckard?
 1663
-Paul Zorn?
-Christian? Vogel?
-Johann-Gottfried Haupt?
-Georg? Löbenau?
-Johann Tietze
-Johann-Georg Pause?
+Paul Agrer?
+Christian? Vogelheüpt?
+Johann-Gottfried Hanitzsch
+Hans Georg Liebenau
+Johann Thilo
+Johann-Georg Peutschki?
 Georg Jahn
 Wolf-Rudolf Ende
-Johann-Andreas Löwe?
-Johann Kunutz
-Christian-Gottlob Scheibesdorf?
-? Hoffmann
-Johann Raß?
-Peter? Wille?
-Wolf-Ditrich? Carlowitz
+Johann-Andreas Lucius
+Johann Kunitz?
+Christian-Gottlob Scheibersdorf
+Paul Hoffmann
+Johann Ross
+Peter Seyfert Pille
+Wolf-Günther Carlowitz
 ----------------
 1664
 Johann-Heinrich Steinert
 Wilhelm Pisotris
 Caspar Hütter?
-Martin Dutman?
-Johann Gräbe?
-Georg Beudner?
-? Högesen?
-Johann Arol?
+Martin Ditmär
+Johann Gräbe
+Georg Bundman
+Siegmund Adolph Zigeser
+Johann Arnold
 1665
-Samuel Clem?
-Ulrich Kiezky?
-Christoph Linder?
-Georg Löbe?
-Johann-Georg Behb?
-? Stende?
-Heinrich Erndel?
+Samuel Klemm
+Ulrich Kinzky
+Christoph Lindner
+Georg Löbe
+Gottfried Rothe
+Johann-Georg Behle
+Urban Starcke
+Heinrich Erndl
 Paul Hoffmann
-Johann-Sigmund Löse?
+Johann-Sigmund Leister
 Johann-Martin Richter
-Caspar ?
+Caspar Klipgen
 ----------------
-Gottlob Warhen?
-Nicol Hersdorf?
+Gottlob Werthern
+Nicol Gersdorf
 1666
 Abraham Riese
-Wiegand? Löse?
-Barthel Lönig?
-Adolf Lorentz
-Christoph ?
+Wiegand Lüzelburg
+Barthel König
+Wolf Lorentz
+Christoph VizthumEckstädt
 Daniel-Samuel Hebestreit
-Hans-Christoph Rothleben?
+Hans-Christoph Rothleben
 Mattheus Schumann
-Michael Schmieter?
-Johann-Ernst Pyrer?
-Rudolph Setat?
-Job? Pomsdorf?
-Georg-Jacob Löbner?
+Michael Schmieder
+Johann-Ernst Pyrner
+Rudolph Gast
+Gottfried Seyffert
+Job Pomsdorf
+Georg-Jacob Göber
 ----------------
 Christoph Ritter
-Michael Lechß?
+Michael Lohß
 1667
-Heinrich Wichard?
-Sigmund Miltitz
-Johann Lieckler?
+Heinrich Wichard
+Hans Sigmund Miltitz
+Johann Lieckler
 Johann-Christoph Schimpf
 Christoph-Bernhard Waldau
-Johann-Adolf ?
+Johann Wolfgang Knackfuß
 Barthel Müller
 Daniel Töpfer
 Elias Fischer
 Johann-Paul Bucher?
 Hans-Georg Rauchfuß
-Donat Armadecci?
-Andreas Wieger?
+Donat Armaducci
+Andreas Wagner
 Heinrich Schramm
-David Köpfer
+David Kupfer
 Christoph Richter
 Johann-Heinrich Kramer
 ----------------
 1668 [Teil 1]
 Mattheus Vogel
-David Rasch?
-Georg Faffer?
-Johann-Ernst Knof?
+David Rasch
+Georg Fesser
+Johann-Ernst Knoche
 Gottfried Hermann
 Georg Kurze
-Johann-Friedrich Trautab?
+Johann-Friedrich Trautel
 Christian Herold
-Felix Jerichorig
-Philip Max
-Cai? Römer
-Nicol Mager?
+Felix Jerichovig
+Philip Mey
+Caj Rumor
+Nicol Maxen
 Noah Schade
-Andreas Volprecht
+Sebastian Andreas Volprecht
 Jonas Schrader
 Johann Grahl
-Johann Fester
-Christian Clemm?
+Johann Förster
+Christian Klemm
 ----------------
 1670
 Christian Meyer
 Lorenz Helmreich
-Otto Holthoff
+Otto Hölthoff
 Friedrich-Wilhelm Römer
 Johann-Ernst Schumann
-Hans Bullenhaim
-Erhard Plachschmid
+Hans Bullenheim
+Erhard Plechschmid
 Wolf-Carl Braun
-David Frietzsche
-August Egenolt?
-Christian-August Eigsen?
+David Frietsche
+Johann August Egenolphus
+Christian-August Friesen
 Christian Schmidt
-Rudolph-Barthel Klocken?
+Rudolph Haubold Göckeriz
 Christoph Richter
-Johann-Dietrich Mendel?
-Mattheus Zenigtz?
-Jacob Wigend?
+Johann-Dietrich Mendel
+Mattheus Zeitz
+Jacob Wigand
 Johann-Abraham Birnbaum
 Nicol Lütke
-Christian Leite?
-Christian Höcksch?
+Christian Kreische
+Christian Häckisch
 David Faber
-Christian Erigsen
-Johann-Georg ?
+Christian Erixsen
+Johann-Georg Mohr
 ----------------
 1671
 Herman Wolframsdorf
-? Schönberg
+Johann Georg Schulze
 Johann-Christoph Hartman
 Johann-Michael Krause?
 Johann Albhard?
-Bernhard Luwitz?
+Bernhard Könderiz
 Christian Fabian
-Heinrich Rahninger
-Peter-Ernst Hermann?
-Nicol ?
+Heinrich Rehmingen
+Peter-Ernst Kramer
+Nicol Schwartze
 Johann-Georg Koch
-Joachim Lener?
-Mattheus Holzbaudner
-Balthasar Sadanack
+Joachim Kramer?
+Mattheus Holzleudner
+Balthasar Sedeneck
 Carl Meniel
-Gottfried Jenertscjy?
+Gottfried Janetzschky
 1672
-Ludwig ?
+Ludwig Münter
 Caspar Kieseling
 Johann-Heinrich Nietzsche
-Johann ?
-Johann-Georg Löebenau
-Abraham Ulbein?
-Michael Schmieder?
+Johann Torian
+Johann-Georg Liebenau
+Abraham Weber
+Michael Schmieder
 Barthel Münch
 Nicol Gersdorf
 ----------------
-Hans-Heinrich Malzag
+Hans-Heinrich Malzan
 Johann-Georg Schleinitz
-Gottfried Schmidt?
-Christoph Hetel?
-Lorenz Denet
-Georg-Ludwig Dümbler?
-Wolf-Friedrich Thumbthieren?
+Gottfried Schmidt
+Christoph Hekel
+Lorenz Demet
+Georg-Ludwig Dümbler
+Wolf-Friedrich Thumbshiern
 Christian Richter
 1673
-Johann-Georg Jierback?
+Johann-Georg Ziebeck
 Georg Alter
 Johann Goldhahn
 Johann-Christoph Günther
 Johann Lorentz
-Daniel Könnslofsky?
-Caspar-Heinrich Grünerd?
-Johann-Georg Götze?
-Johann-Christian ?
+Daniel Krumslofsky
+Caspar-Heinrich Grünrod
+Johann-Georg Göze
+Johann Gresse?
+Johann-Christian Arnheim
 Johann-Jacob Otto
 Christian Gebauer
-David Frommer?
-Christian Zanheim?
-Gustav-Wilhelm Kochau?
+David Trommer
+Gustav-Wilhelm Rochau
 ----------------
 Johann Pillier
-Daniel Cartner?
-? Kallengerg
+Daniel Centner
+Curd Reinigk
 1674
 Paul-Christian Schindler
 Nicol Schneider
-Johann-Georg Keuzman?
+Johann-Georg Heunzman?
 Christoph Zimmermann
 Rudolph Körbitz
 Christoph Degenfeld
-Johann-Georg Brumer
+Johann-Georg Brunner
 Hans-Georg Schleinitz
-Johann Gallenbach
-Johann-Heinrich ?
-Reichard Woltersdorf
-Christoph Feunige?
+Isaac Hallbruck
+Johann-Heinrich Kittel
+Reichard Woltfersdorf
+Christoph Fröminger
 ----------------
-Johann-Friedrich ?
-Wolfgang-Chrisoph Männering?
+Johann-Friedrich Vollprecht
+Wolfgang-Chrisoph Memmingen
 1675
 Georg Reißwitz
 Friedrich Erdmansdorf
-Mattheus Kiebel?
+Mattheus Kriebel
 Salomon-Friedrich Lincke
-Adam-Friedrich ?
-Gregor Lichtner?
+Adam-Friedrich Döhlau
+Gregor Lichwer
 Wolfgang Richter
-Johann Bitten?
+Johann Büttmer
 1676
 Heinrich-Gebhard? Miltitz
-Georg? Reinwitz?
-Alex Chratman?
+Georg Theodor Reineccius
+Alex Grabner
 Hans-Siegmund Pflug
-Dietrich Schleinitz
+Andreas Dietrich Schleinitz
 ----------------
 Hans-Georg Carlowitz
-Jeremias Gißler?
-Peter Werhau?
+Jeremias Geißler
+Peter Werchaz
 Franz Gotthausen
-Johann Räcke?
+Johann Elias Radecker
 Christian Richter
-Stephan Mowitz
-Joachim-Conrad Nesch?
+Stephan Moritz
+Joachim-Conrad Nagel
 1677
-Georg-Heinrich Carlowitz
-Michael? Miltitz
-Michael Petsch?
-David Hannegun?
-Johann Neschich?
-Johann-Rudolph Thüme?
-Johann-Christian Stißer?
-Cor? Mel?
-Johann-Christian ?
-Johann-Jacob Treter?
-Nicol ?
-Johann-Heinrich ?
-Daniel Crubfate?
-Ludwig Langenach
-Caspar-Heinrich Schütze
+Georg-Heinrich Carlwitz
+Johann Abraham Sebottendorf
+Michael Persch
+David Hennequin
+Johann Mehlich
+Johann-Rudolph Thünau
+Johann-Christian Stißer
+Cornelius Melde
+Johann-Christian Wißhun
+Johann-Jacob Trautman
+Nicol Hein?
+Johann-Heinrich Martius
+Daniel Crubsatius
+Ludwig Langemach
+Caspar-Heinrich Schuster
 ----------------
 1678
 Christian Haman
 Hans-Christoph Ponickau
 Hans-Georg Pflug
-Johann-Wolf Rese
-Johann Griß?
+Johann-Wolf Riese
+Johann Geiß
 Georg Dönnert
 Johann-Georg Börner
 1680
-Emanuel Allweg
+Emanuel Allmoy
 1681
 David Töpfer
-Rudolph-Christian Marcke
+Rudolph-Christian Marche
 1682
-Hans-Wilhelm ?
+Hans-Wilhelm Seebach
 Heinrich Frietzsche
 Caspar Schönberg
-? Biberstein
-Dietrich Otteling?
+Moritz Dam? Biberstein
+Dietrich Kottelinsky
 ----------------
 1683
-? ?
-Christian Landbeger?
-? Günther
+Green David Gnebeko
+Christian Landsberger
+Ernst Günther
 Christian Gebauer
-Elias Rase?
+Elias Rose?
 1684 [Teil 1]
-Rudolph Jingle?
-Gottfried Gloatz?
-Gebhard? Hagen?
+Ferdinand Rudolph Ziegler
+Gottfried Gloatz
+Ludwig Gebhard Hoymb
 1668 [Teil 2]
 Peter Schaup
-Martin ?
-Gottfried ?
-Martin Rohracher
-Heinrich-Wilhelm ?
-Friedrich ?
+Martin Bamer?
+Gottfried Zschenderling
+Martin Rohrwacher
+Heinrich-Wilhelm Schober
+Friedrich Sulzr
 Christoph Lieberman
-Albrecht-Christian Hennersdorf?
+Albrecht-Christian Kromsdorf
 Gottfried Arnold
 ----------------
 1669
-Christoph ?
+Christoph Fischer
 Jeremias Seiffert
 Johann Ponickau
-Christoph-Bernhard Wolpen?
-Michael Farco?
-Johann-Peter ?
-Johann ?
+Christoph-Bernhard Wahren?
+Michael Farco
+Johann-Peter Kurz
+Johann Schulze
 Wolf-Heinrich Schönberg
-Christian ?
-Christian Pirnsig
-Christoph Thernehl?
+Christian Gehe
+Christian Piersig
+Christoph Thormehl
 1684 [Teil 2]
-Friedrich-Ernst Delan?
+Friedrich-Ernst Delau
 Tobias Unruhe
 1685
-Georg Green?
+Franz Croll
 Johann-Georg Berger
 1686
-Pierre Hermequin?
-Franz Lutzelburg?
+Pierre Hennequin
+Johann Christoph Kunßberg
 Adam Rachenberger
 ----------------
 1687
 Johann-Georg Wehle
 Hans-Caspar Loß
-Ernst-Dietrich Laube
+Ernst-Dietrich Taube
 1688
 Christian-Friedrich Ratiborsky
 Anton Wolf
 Christian-Gotthelf Birnbaum
 1689
-Peter Raisny?
+Peter Rousaux
 Caspar-Ditrich Schönberg
 1690
-Johann Croie
+Johann Croje
 1691
-Johann-Gottlieb Thilan?
-Christoph Miltau
+Johann-Gottlieb Thilau
+Christoph Dam Jahn Milkau
 Philip-Ferdinand Reulbold
 ----------------
 1692
-Johann-Georg Wierte?
-Johann-Gottlieb Lupius
+Johann-Georg Vierte
+Johann-Gottlieb Lucius
 Hans-Ditrich Schönberg
-Hans-Georg Jehnen?
-Georg-Rudolf Speir?
+Hans-Georg Zehmen
+Georg-Rudolf Spoor
 1693
-Georg-Siegmund Marge?
-Hironimus-August Aßeburg?
-Christoph-Gottlob Cutlitz
-Wilhelm-Ernst-Bernhard Witzthumb
-Otto-Heinrich Seizendorf
+Georg-Siegmund Marge
+Hironimus-August Aßeburg
+Christoph-Gottlob Luttitz
+Wilhelm-Ernst-Bernhard VizthumEckstädt
+Otto-Heinrich Sinzendorf
 ----------------
-Carl-Zelissan? Bose
-Melchior-Otto Bedenhausen
+Carl-Zdislan Bose
+Melchior-Otto Bodenhausen
 Gottfried Strauß
 Johann-Andreas Ziegler
 Philip-Ferdinand Reubold
-Heinrich-Hildebrand ?
+Heinrich-Hildebrand Einsiedel
 1694
-Georg-Wolf Barlißdorf
-Florenz Riviag?
+Georg-Wolf Berbißdorf
+Florenz Rivin
 1695
-Hans-Adolph Pangwitz
+Hans-Adolph Haugwitz
 Thomas-Friedrich Bornstädt
 Georg-Gottlieb Ritter
 1696
-Friedrich Görner
+Friedrich Görne
 ----------------
-Carl-Gottfried Böse
+Carl-Gottfried Bose
 Georg-Rudolf Schönberg
-Hanibal-Johann Schwertzig
-Hans-Caspar Botmer?
+Hanibal-Johann Schmerzing
+Hans-Caspar Bottmar
 1697
-Abraham-Gottfried Pentzig
+Abraham-Gotthard Pentzig
 Johann-Andreas Gleich
-Christoph-Friedrich Kloßdorf
-Adof-Heinrich Werherm
+Christoph-Friedrich Gerßdorf
+Adof-Heinrich Werhern
 Johann-Michael Findekeller
 ----------------
-Wolfgang-Heinrich Dewer?
+Wolfgang-Heinrich Drewer
 1698
-Johann-Ernst ?
-? ?
-Carl-Gottlob Neuzschiz
-Gottfried Jeppel
-Job-Ernst Berndorf
+Johann-Ernst Osterhaußen
+Johann Daniel Geier
+Carl-Gottlob Neizschiz
+Gottfried Zeppel
+Job-Ernst Bomsdorf
 1699
 Balthasar Müller
 Johann-Christoph Leonhart
 Georg-Haubold Seiffertitz
-Johann-Haubold Grunwod
+Johann-Haubold Grunrod
 Ernst-Gotthard-Adolph Wahrensdorf
 1700
-Carl Küster
+Carl Gustav Rägkniz
 Caspar-Heinrich Benckendorf
 ----------------
 Johann-Bernhard Heinechen
-? ?
+Georg Siegmund Green
 Adolph-Friedrich Bölau
 Johann-Christian Caspari
 Hans-Georg-Haubold Schleinitz
 1701
-Hans-Adam Seiffert
+Hans-Adam Seyffertiz
 Carl-Hildebrand Dießkau
 1702
 Wilhelm-Heinrich Görz
 Johann-Georg Birckholz
 Gottlob-Rudolph Heynitz
-Carl-Ludwig Graf
-Friedrich-Wilhelm Marschal
+Carl-Ludwig Lainingen
+Friedrich-Wilhelm Marschall
 ----------------
 1703
 Moritz-Friedrich Milckau
 Christoph-Heinrich Miltitz
-Adolph-Gottlob Pertzig
+Adolph-Gottlob Penzig
 Christoph-Ernst Gersdorf
 Nicol Krug
-Beret? Wegner
-Ernst-Salomon Dietze
+Friedrich Ambrosius Francke
+Ernst-Salomon Dietzscher
 Ernst-Ferdinand Knoch
 1704
-Johann-Gottfried Peckbusch?
-Caspar Seydlig?
-Dionysig Baum
-Hans-Herold Schlainig
-Johann-Friedrich Stammen
-Gottfried Jung
+Johann-Gottfried Pockbusch
+Caspar Seydliz
+Dionysius Baum
+Hans-Herold Schleiniz
+Johann-Friedrich Stammer
+Haubold Gottfried Jung
 Johann-Michael Becker
-Burker? Wrangel
+Burkard Wrangel
 1705
-Johann-Bernhard Baßer
-Nicol Jerre?
+Johann-Bernhard Basser
+Nicol Jerre
 ----------------
 Christian-Heinrich Dreuer
-Franz-Christoph Creunehafen?
-Michael Mehnitz
+Franz-Christoph Heinrichshofen
+Michael Nehmiz
 Friedrich Golde
 1706
 Christian Frietzsche
 Rupert Brown
 Johann-Christoph Günther
-Friedrich-Albrecht? Wolfersdorf
-Georg-Siegmund Marge?
-Ludwig-Brand? Irnstadt?
-David Höser
+Friedrich-Albrecht Wolfersdorf
+Georg-Siegmund Marge
+Ludwig-Brand Arnstädt
+David Höfer
 1707
 Benno-Siegmund Gersdorf
-Johann-Heinrich Ristig?
-Ferdinand Ulig
+Johann-Heinrich Nostiz
+David Ulig
 Christian Rabe
 1708
 x
 ----------------
 Christian Kühn
-Samuel Heiselt?
+Samuel Heifelt
 Johann-Christoph Heinsius
 Johann-Jacob Janzen
 Bernhard Zech
+Christian Bude
 Christian-Gottlob Lüttitz
 Christian-Ludwig Oppermann
-Hans-Wilhelm Kößnitz
+Hans-Wilhelm Gößnitz
 1709
-Johann-Adoph Wenbeck
-Adolph-Wilhelm Schönberg
-Johann-Adolph Ruaer?
+Johann-Adoph Allenbeck
+Gottlieb ?
+Adolph-Wilhelm Stubenberg
+Johann-Adolph Rumor?
 Gottlob-Heronymus Leipzig
 Philip-Fridrich Müller
 1710
-Caspar-Christoph Nototz
+Caspar-Christoph Nostitz
 Levin Lindemann
 Johann Gebauer
-Johann-Friedrich Erichsohn
+Johann-Friedrich Ericksohn
 Christian ?
 ----------------
-Egidius-Heinrich Deßau
-? ?
-Jacob Arnold
+Egidius-Heinrich Doßau
+Christian Adam Hänel
+Johann Jacob Arnold
