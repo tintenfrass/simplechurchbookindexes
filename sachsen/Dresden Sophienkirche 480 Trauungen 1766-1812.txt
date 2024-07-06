@@ -1,5 +1,5 @@
 Dresden Sophienkirche (Buch 480)
-Trauungen 1766-1809
+Trauungen 1766-1812
 https://www.archion.de/de/viewer/churchRegister/280095?pageId=38533652
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ Erstellt in ca. 2 Stunden
 Mai 2023
 August 2023
 April 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -491,3 +492,43 @@ Johann Gottlieb Steglich
 Johann Samuel Gottschalch?
 Johann Georg Neumeister
 Friedrich Gotthelf Tümpling
+----------------
+1810
+Carl Gotthelf Blöde
+Traugott Nathanael Bieler
+Georg Schleinitz
+Carl Gottlob Siedel
+Heinrich Einsiedel
+Christoph Heinrich Immanuel Oettler
+Carl Friedrich Christian Almer
+Benjamin Gottlob Leberecht Haberkorn
+----------------
+Ernst Wilhelm Walther
+Martin Stephan
+Gottlieb Schmager
+1811
+Johann Friedrich Hänisch
+Christian David Willweber
+Claus Moritz Taube
+Johann Friedrich Kindler
+Johann Samuel Cammerad
+----------------
+Friedrich Gottlob Lauermann
+Christian Ferdinand Kaiser
+Friedrich Wilhelm Fischer
+Johann Franz Rall
+Hermann Carl Gehe
+Gustav Friedrich Wilhelm Bucher
+Wilhelm Heinrich Moritz Leipziger
+----------------
+1812
+Johann Gottlob Judeich
+Wilhelm Gutschmidt
+Christoph Podemanitzky
+Carl Heinrich Rheinwald
+Friedrich August Heinrich Oppen
+----------------
+Johann Heinrich Hübler
+Carl Gottlob Beyer
+Carl Gottlieb Ferdinand Wiesand
+Adolph Moritz Prohs
