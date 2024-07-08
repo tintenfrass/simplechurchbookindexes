@@ -1,5 +1,5 @@
 Dresden Frauenkirche (Buch 231)
-Trauungen 1800-1809
+Trauungen 1800-1810
 https://www.archion.de/de/viewer/churchRegister/264554?pageId=36976582
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Erstellt in ca. 5 Stunden
 April 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1145,3 +1146,146 @@ Georg Schönhammer
 Carl Gottlieb Faust
 Friedrich August Kahle
 ----------------
+1810
+Friedrich August Freudemann
+Johann Gottlob Müller
+Jacob Rattel
+Johann Friedrich Reuter
+Gottlieb Zimmermann
+----------------
+Johann Gottlieb Wehle
+Johann Traugott Tentler
+Johann Georg Vogel
+Johann Gottlob Götze
+Johann Gottlieb Hermsdorf
+----------------
+Carl August Kornmann
+Johann Gottfried Stange
+Johann Wilhelm Oehme
+Johann Gottlob Götze
+Johann Gottfried Freudenberg
+----------------
+Johann Georg Kuschmann
+Christian Georg Kürbis
+Johann Christoph Schmidt
+Johann Gottfried Guhr
+Johann Gottlieb Noack
+----------------
+Johann Gottfried Cramer
+Johann Christoph Loos
+Johann Gottfried Trusch
+Carl August Lorentz
+Gottfried August Enger
+----------------
+Johann Andreas Schäfer
+Friedrich August Wehnert
+Friedrich Gotthold Silbermann
+Johann Georg Jähnich
+Johann Gottfried Schäme
+Carl August Jensch
+----------------
+Carl Wilhelm Weber
+Johann Georg Wendler
+Johann Franz Lauck
+Friedrich Christian Braune
+Johann Friedrich Krüger
+Johann Christlieb Hartmann
+----------------
+Johann Christian Teetzmann
+Johann August Vorwerk
+Johann Gottfried Sengeboden
+Johann Gottlob Dietzsch
+Immanuel Traugott Benjamin Pollner
+----------------
+Carl Gottlieb Clauß
+Carl Gottlob Thomas
+Johann Gottfried Mütze
+Johann Christian Gottlieb Franz
+----------------
+Gotthelf Thränert
+Johann David Zencker
+Carl Gottlieb Rietzschel
+Carl Gottfried Ranft
+Johann Georg Schingitz
+----------------
+Johann Carl Schmidt
+Carl Ludwig Böttger
+Johann Georg Clauß
+Johann Georg Patzig
+Christian Wilhelm Mosel
+----------------
+Johann Gottlob Fischer
+Johann Gottlob Hauptmann
+Johann Gottlieb Hahnewald
+Friedrich Wilhelm Weber
+Christian Friedrich Müller
+Christian Friedrich Freudemann
+----------------
+Johann Adolph Hartmann
+Johann Gottlob David Schelze
+Adam Friedrich Schlumberger
+Wilhelm Kühn
+Johann Philip Schulze
+Johann Gottfried Seibt
+----------------
+Gottlob Friedrich Dolze
+Johann Christoph Bellmann
+Johann Christoph Meißner
+Christian Benjamin Schüttig
+Johann August Ludwig
+----------------
+Johann Christlieb Galle
+Johann Gottlob Pfützner
+Christian Mielecke
+Johann Christian Friedrich Rühlemann
+Johann Gottlob Stiehl
+----------------
+Carl August Abicht
+Johann Gottfried Sahrig
+Carl Bernhard Krause
+Carl Gottlob Mattey
+Johann August Börner
+----------------
+Johann Heinrich Scheibe
+Johann Ernst Rudlof
+Johann Gottlob Kürbis
+Johann Samuel Lange
+Johann Gottfried Schuster
+----------------
+Johann Traugott Müller
+Friedrich August Haase
+Johann Gottlieb Schrempel
+Johann Adam Tröger
+Christian Gottfried Nestler
+----------------
+Johann Georg Schliwin
+Johann Gottlieb Fehrmann
+Johann Gottlob Naumann
+Carl Friedrich Friese
+----------------
+Johann Gottlob Riemscheider
+Johann Georg Matzger
+Johann Friedrich Traugott Specht
+Johann Gottlieb Eisberg
+----------------
+Johann Gottlieb Nitzsche
+Georg Frenzel
+Johann Mattheus Fuchs
+Carl Gottfried Müllerstein
+Johann David Künzelmann
+----------------
+Johann Michael Noack
+Johann Georg Gärtner
+Christian Gottlob Richter
+Carl Traugott Busch
+Christian Gotthelf Grämer
+Johann Gottfried Dietzmann
+----------------
+Johann Friedrich Heinrich Brunst
+Johann August Kade
+Johann Andreas Müller
+Johann Gottlob Richter
+Christian Ferdinand Bellmann
+----------------
+Johann Gottfried Wustlich
+Johann Christian Gottlieb Kopitz
