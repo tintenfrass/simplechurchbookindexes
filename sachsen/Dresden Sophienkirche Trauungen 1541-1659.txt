@@ -3,7 +3,7 @@ Trauungen 1541-1659
 https://www.archion.de/de/viewer/churchRegister/280099?pageId=38535018
 
 Das ist ein einfacher Index aller Trauungen.
-Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch, adelige Nachnamen wurde verkürzt.
+Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch, adelige Nachnamen wurden verkürzt.
 
 Dieser Index wurde auf der Grundlage des Werkes "Die Dresdner Schlosskirchenbücher" von Christa Maria Richter erstellt:
 https://slub.qucosa.de/landing-page/?tx_dlf[id]=https%3A%2F%2Fslub.qucosa.de%2Fapi%2Fqucosa%253A74092%2Fmets
@@ -108,7 +108,7 @@ Hermann Barrleben | Magdalena Leutzschen
 ----------------
 ----------------
 1603
-Hans Georg OSterhaus | Maria Carlowitz
+Hans Georg Osterhaus | Maria Carlowitz
 Walther Haubitz | Brigitta Grünrad
 Centurio Pflug | Sara Starrstedel
 Christoph Schliben | Elisabeth Grünrad
