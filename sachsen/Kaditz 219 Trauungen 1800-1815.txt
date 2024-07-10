@@ -1,13 +1,14 @@
 Kaditz (Buch 219)
-Trauungen 1800-1809
+Trauungen 1800-1815
 https://www.archion.de/de/viewer/churchRegister/264542?pageId=36972718
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 April 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -307,3 +308,218 @@ Johann Gottfried Taschenberger
 Carl August Bormann
 Johann Gottlob Vogel
 Johann Gottlieb Schumann
+---------------- x22
+1810
+Johann Gottlob Hennersdorf
+Johann Gottlieb Damme
+Johann Gottlieb Rump
+Johann Christian Vogel
+Johann Gottfried Vogel
+Johann Gottlieb Franz
+Advocat? Friedrich Ehregott Hoyer
+Johann Gottlieb Fritzsche
+Johann Gotthelf Schmidt
+Johann Gottlob Heinze
+Johann Gottlieb Bürger
+----------------
+Johann Gottlob Hübner
+Johann Christian Berger
+Johann Gottfried Boden
+Johann Gottlieb Gärtner
+Johann Gottlob Findeisen
+Johann Christian Thalheim
+Johann Gottfried Schnabel
+Carl August Arnhold
+Johann Georg Ratrisch
+Johann Christoph Umlauft
+Johann Friedrich August Ende
+Johann Gottlob Münch
+----------------
+Johann Christian Herzschuh
+Johann Gottlob Berthold
+Johann Christian Jacob
+Johann Carl Gotthelf Hager
+Christian August Graf
+Johann Wilhelm Koch
+Johann August Poscharsky
+Johann Gottfried Franz
+Johann Gottlob Winckler
+---------------- x26
+1811
+Johann Gottlieb Schumann
+Johann Gottfried Vogel
+Johann Gottlieb Brückner
+Johann Gottlob Hund
+Johann Georg Pietzsch
+Johann August Braune
+Johann Gottfried Seiler
+Johann Georg Werner
+Johann Christoph Kuntzsch
+Johann Christian Höhnisch
+Johann Gottlieb Adam
+Johann Georg Adam
+----------------
+Johann Gottlob Engelmann
+Johann Gottlieb Furkert
+Carl Gottfried Küchler
+Johann Gottfried Angermann
+Johann Gottlob Beuhne
+Johann Gottfried Schumann
+Johann Carl Gottlieb Götze
+Johann Gottlieb Hartmann
+Carl Gotthelf Wagner
+Johann Gottlieb Fischer
+Johann Gottlob Beuhne
+----------------
+Johann Christian Kuntzsch
+Johann Gottlob Trentzsch
+Johann Christlieb Dreßler
+Johann Gottlob Zumpe
+Johann Gottlob Griesbach
+Johann Christoph Dorn
+Johann Gottlieb Griesbach
+Johann Andreas Vogel
+Johann Gottlieb Lehmann
+Johann Gottlieb Hantzsch
+Johann Georg Ringel
+----------------
+Johann Gottlob Findeisen
+---------------- x22
+1812
+Johann Gottlob Tränkner
+Johann Gottlieb Rothe
+Johann Gottlieb Hübler
+Gottfried Tießler
+Johann Christian Damm
+Johann Gottlob Herzschuh
+Johann Georg Adam
+Johann Gottfried Beuhne
+Johann Georg Tränkner
+Johann Gottlob Schneider
+Johann Gottlieb Kannegießer
+----------------
+Johann Gottlob Kluge
+Johann Gottfried Schubert
+Johann Christoph Bink
+Johann Gottlob Boden
+Johann Wilhelm Reinhardt
+Johann Gottlieb Bink
+Johann Christoph Nitzsche
+Johann Georg Pöschel
+Johann Gottlieb Ruster
+Johann Georg Herzschuh
+Johann Gottfried Adam
+Johann Gottlob Klotzsche
+----------------
+Carl August Arnhold
+Johann Christian Vogel
+---------------- x20
+1813
+Johann Gottlieb Schumann
+Carl Gottlob Schmidt
+Johann Christian Herzschuh
+Johann Gottlob Klotzsche
+Johann Gottlieb Häbold
+Georg Gottlieb Morgenstern
+Johann Gottlob Heinrich Vogel
+Johann Gottlob Kiesling
+Johann Christian Giersbach
+Johann Gottlieb Woog
+Johann Gottlieb Zscheile
+Johann Gottlob Franz
+----------------
+Johann Christian Friedrich Schnabel
+---------------- x24
+1814
+Friedrich Traugott Gladewitz
+Johann Gottlieb Griesbach
+Johann Gottfried Hauke
+Johann Gottlob Angermann
+Johann Gottlob Adam
+Johann Gottfried Findeisen
+Johann Gottlieb Findeisen
+Johann Gottlob Vogel
+Johann Gottlob Heinze
+Johann Gottlob Müller
+Johann Gottfried Vetters
+Johann Samuel Grafe
+Johann Christian Oehme
+Johann Gottlieb Vogel
+Johann Gottlob Griesbach
+----------------
+Johann Gottlieb Haufe
+Johann Gottlob Heckelt
+Johann Samuel Schumann
+Johann Gottlob Schumann
+Johann Gottlieb Zocher
+Johann Gottfried Vogel
+Johann Gottlieb Adam
+Johann Samuel Schumann
+Ernst Heinrich Krippendorf
+Johann Christoph Kuntzsch
+Johann Wilhelm Richter
+Johann Samuel Gepphardt
+Carl Gottfried Küchler
+Johann Gottfried Weidel
+Carl August Bormann
+Johann Gottfried Kretzschmar
+----------------
+Johann Gottfried Vogel
+Johann Gottlieb Klare
+Johann Gottlieb Herzschuh
+Johann Christian Beuhne
+Johann Gottlieb Würdgen
+Johann Friedrich Christoph Schütze
+Carl August Günther
+Gottlieb Leberecht Stübler
+Johann Georg Beuhne
+Johann Gabriel Mutzschke
+Johann Georg Adam
+Johann Christian Ilzsche
+Gottlieb Keller
+Johann Gottfried Menzel
+Carl Christian Klotzsche
+Samuel Häntzsch
+Johann Christoph Damme
+---------------- x26
+1815
+Carl Gotthelf Nitzsche
+Johann Georg Hoffmann
+Johann Gottfried Bink
+Johann Gottlieb Adam
+Johann Gottlob Adam
+Johann Georg Heckelt
+Johann Gottlob Scheibe
+Johann Georg Schulze
+Johann Gottfried Heinze
+Johann Heinrich Gottfried Reichert
+Johann Gottlob Wilhelm Thier
+Johann Gottfried Herzschuh
+Johann Gottfried Michael
+Johann Gottfried Schumann
+----------------
+Johann Georg Franz
+Johann Gottlieb Küchler
+Johann Gottlob Döring
+Johann Gottfried Vogel
+Johann Friedrich Hamann
+Johann Christian Milde
+Johann David Unger
+Johann Gottlob Heyne
+Johann Gottfried Preußer
+Johann Christian Adam
+Johann Georg Gebauer
+Johann Christian Benjamin Knötzsch
+Johann Samuel Grellmann
+Johann Gottlob Findeisen
+----------------
+Johann Carl Gottlieb Weber
+Johann Christoph Wenzel
+Johann Gottfried Börner
+Johann Christian Schnabel
+Johann Gottfried Ditrich
+Johann Gottlieb Vogel
+Johann Gottfried Weinhold
+Johann Christian Vogel
+Johann Gottlob Fickler
+Johann Christian Fickler

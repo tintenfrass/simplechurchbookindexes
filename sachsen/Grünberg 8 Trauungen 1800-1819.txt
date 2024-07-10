@@ -1,5 +1,5 @@
 Grünberg (Buch 8)
-Trauungen 1800-1809
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/279927?pageId=38496725
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -7,6 +7,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
 April 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -74,3 +75,71 @@ Johann August Schubert
 Johann Gottlob Lösche
 Johann Heinrich Opitz
 Johann Gottfried Schmidt
+----------------
+1810
+Johann August Erdmann
+Johann Gottfried Förster
+Johann Christian Trensch
+Johann Gottfried Grundmann
+Johann Gottlieb Kreutz
+Johann Gottfried Jenichen
+----------------
+Johann Gottlob Damm
+Gottlieb Ernst Klotzsche
+Johann Gottlob Trepte
+Johann Gottfried Damm
+----------------
+1811
+Johann Georg Kotte
+----------------
+1812
+Johann Adam Gottfried Beeg
+Johann Gottlob Schütze
+Johann Koban
+Johann Gottlob Grafe
+----------------
+1813
+Johann Gottfried Schöne
+Johann Christoph Schütze
+Johann Christian Gottlob Naumann
+Johann Gottfried Opitz
+Johann Gottlob Klare
+Johann Gottlieb Koitzsch
+----------------
+1814
+Karl Friedrich Bretschneider
+Johann Gottlieb Krestner
+----------------
+1815
+Johann Gottfried Menzel
+Johann Gottlieb Grafe
+Johann Gottfried Jakob
+----------------
+1816
+Gottlob Damme
+Johann Gottlieb Trentsch
+Johann Georg Kühne
+----------------
+1817
+Johann Gottfried Gommlich
+Johann Gottlob Hermann
+----------------
+1818
+Johann Gottlieb Leunert
+Franz Theodor Gotthold Zscheile
+Johann Gottfried Betzold
+Johann Christian Schäfer
+Johann Gottlob Fleischer
+Johann Gottfried Lösche
+Johann Gottlieb Trepte
+Johann Georg Friedrich Dreßler
+----------------
+1819
+Johann Gottlob Vetter
+Johann Gottlob Koitzsch
+Gottfried Trentzsch
+Carl Gottlob Lippert
+Johann Gottfried Koitzsch
+Johann Christian Trepte
+Johann Christoph Trepte
+Johann Gottfried Schumann

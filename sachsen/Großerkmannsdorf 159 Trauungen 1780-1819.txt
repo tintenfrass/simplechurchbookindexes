@@ -1,13 +1,15 @@
 Großerkmannsdorf (Buch 159)
-Trauungen 1780-1809
+Trauungen 1780-1819
 https://www.archion.de/de/viewer/churchRegister/280079?pageId=38530316
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
+Erstellt in ca. 0,5 Stunden
 September 2023
 April 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -250,3 +252,110 @@ Carl Traugott Neumann
 Johann Georg Müller
 Johann Gottfried Hempel
 Johann Samuel Rößler
+1810
+Johann Christoph Schöne
+Johann Gottfried Medger
+Christian Leberecht Merkel
+Johann Christoph Schöne
+----------------
+Johann Christian May
+Johann Georg Sicker
+Johann Gottlob Rosenkranz
+Carl Friedrich Pommrich
+Johann Gottlieb Kößler
+1811
+Johann Gottfried Müller
+Johann Christian Angermann
+Johann Carl Gottfried Bähr
+Johann Andreas Müller
+Johann Georg Heinrich Jähnichen
+Johann Gottlob Medger
+Johann Gottlieb Medger
+Johann Gottlieb Hennig
+Johann Michael Hermann
+Johann Gotthelf Boden
+Johann Carl Schott
+Johann Georg Jähnichen
+----------------
+Johann Georg König
+Johann Paul
+Johann Michael Tittel
+1812
+Johann Christian Müller
+Johann Gottlob Schäfer
+Johann Gottfried Göppner
+Wilhelm Heinrich Rüling
+Johann Christian Opitz
+Johann Gottlieb Leberecht Forke
+Johann Gottfried Müller
+Johann Gottlieb Hermann
+1813
+Johann Gottlob Hermann
+Johann Christoph Jähnichen
+Carl Gottlieb Mädiger
+Johann Georg May
+Johann Gottlob Fritzsche
+----------------
+1814
+Johann Adolph Truba
+Johann Gottfried Näther
+Johann Christoph Schöne
+Johann Gottfried Kößler
+Johann Christian Müller
+Carl Egidius Lucas Meitzner
+Johann Christoph Hermann
+Johann Gottlieb Schletter
+Johann Gottlob Koch
+Johann Gottfried Kluge
+Johann Gottlob Irmisch
+Johann Heinrich Müller
+1815
+Johann Georg Henker
+Johann Christoph Schäfer
+Johann Gottlieb May
+Johann Christoph Jähnichen
+Johann Christoph Schütze
+Johann Gottlieb Leder
+Johann August Fürchtegott Müller
+Johann Gottfried Müller
+Johann Gottlieb May
+Johann Gottlob Janke
+Johann Gottlieb Müller
+Johann Christoph May
+----------------
+Johann Christoph Knackfuß
+Johann Georg Müller
+1816
+Johann Georg Müller
+Johann Gottlieb May
+Carl Gottlob Ulbrich
+Christian Gottlieb Müller
+Johann Gottlieb Schmidt
+Gustav Friedrich Wöhler
+Johann Gottfried Schäfer
+Johann Gottlob Müller
+Johann Traugott Pötsch
+Johann Christoph Heinze
+Johann Gottlieb Schöne
+Johann Gottfried Gebauer
+Johann Gottfried Medger
+Johann Gottfried Müller
+Johann Gottlieb Müller
+1817
+Johann Traugott Janke
+Gottlob Huhle
+----------------
+Gottfried Leberecht Müller
+Johann Gottfried Schidrig
+Johann Ephraim Schön
+1818
+Johann Georg Müller
+Johann Gottfried May
+Gottfried August Leschke
+Johann Gottfried Körnert
+1819
+Johann Samuel Müller
+Johann Gottfried Müller
+Johann Christoph Schütze
+Johann Gottfried Müller
+Johann Gottfried Körnert
