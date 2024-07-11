@@ -1,12 +1,14 @@
 Langebrück (Buch 48)
-Trauungen 1800-1809
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/279967?pageId=38504680
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
+Erstellt in ca. 0,5 Stunden
 April 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -127,3 +129,113 @@ Johann Gottlieb Schöne
 Johann Friedrich Kuntzsch
 Johann Christoph Trepte
 Johann Christian Schütze
+1810
+Johann Christoph Schöne
+Johann Gottlob Kunath
+Johann Christian Haufe
+Johann Gottlieb Dreßler
+----------------
+Johann Gottlob Schmidt
+Johann Heinrich Trepte
+Johann Georg Trepte
+Johann Christoph Saitmacher
+1811
+Johann Christian Sickert
+Johann Gottlob Stiehler
+Johann Heinrich Trepte
+Johann Christoph Philipp
+Johann Gottlob Bergmann
+----------------
+Gottfried Trepte
+Gottfried Clauß
+Johann Gottfried Clauß
+Johann Christoph Thomas
+1812
+Johann Gottlieb Stäglich
+Johann Christoph Bürger
+Johann Gottlob Schäfer
+Johann Gottlob Kühne
+Johann Gottlob Kotte
+Christian Gottlieb Hamann
+Johann Christian Pohle
+Christian Heinrich Creutz
+----------------
+Carl Adolph Bruhm
+Johann Gottlob Schneider
+1813
+Johann Heinrich Schäfer
+Johann Samuel Wagner
+Johann Georg Stiehler
+Johann Georg Partzsch
+Wilhelm Ehregott Dreßler
+1814
+Johann Gotthelf Freudenberg
+Johann Christoph Wagner
+----------------
+Johann Heinrich Hildebrandt
+Johann Gottlieb Grumbt
+Johann Gotthelf Merker
+Johann Gottfried Kuntsch
+Johann Christoph Strauß
+Johann Georg Pietzsch
+Johann Gottfried Partzsch
+Johann Traugott Schöne
+Johann Christoph Kuntzsch
+----------------
+1815
+Johann Gottfried Partzsch
+Johann Heinrich Kunath
+Johann Gottlieb Zichner
+Johann Gottlob Nazsch
+Johann Traugott Stelzer
+Johann Christoph Küchler
+Carl Gottfried Riehmer
+Johann Christian Lotze
+Johann Christoph Richter
+----------------
+Christian Benjamin Schumann
+Johann Carl Haase
+Christian Huhle
+1816
+Johann Gottlieb Kunath
+Christian Gottlieb Müller
+Johann Gottlieb Clauß
+Johann Gottlob Zimmermann
+Johann Gottlob Stiehler
+----------------
+Johann Gottlob Niedner
+Johann Georg Dreßler
+Carl Christoph Böhme
+1817
+August Benjamin Auerswald
+Carl Friedrich Stelzer
+Gottlob Trepte
+Johann Heinrich Böhme
+Johann Georg Opitz
+Johann Christoph Knoll
+----------------
+Johann Gottfried Trepte
+Johann Georg Blüthig
+Friedrich August Opitz
+Johann Christian Blüthig
+1818
+Johann Gottfried Sickert
+Johann Christian Gottlob Schütze
+Johann Christoph Schmidt
+Johann Gottfried Haufe
+Karl Friedrich Clauß
+----------------
+Johann Gottlieb Höll
+Johann Gottfried Pietzsch
+Johann Gottlob Trepte
+Johann Carl Gottlob Klengel
+1819
+Johann Christoph Kluge
+Johann Gottfried Ziechner
+Johann Gottfried Gebauer
+Johann Friedrich Ziechner
+Johann Georg Grünberg
+Johann Christian Grünberg
+----------------
+Christian Carl Creutz
+Johann Heinrich Harnisch

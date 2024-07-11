@@ -1,5 +1,5 @@
 Kleinwolmsdorf (Buch 165)
-Trauungen 1770-1809
+Trauungen 1770-1819
 https://www.archion.de/de/viewer/churchRegister/264497?pageId=36954139
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 0,5 Stunden
 September 2023
 April 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -283,3 +284,89 @@ Johann Joseph Floßmann
 Johann Gottfried Hämpel
 Johann Christoph May
 Johann Samuel Rößler
+1810
+Johann Gottlieb Forke
+Johann Christoph Klahre
+Johann Gottlob Rosencranz
+Johann Gottlieb Walther
+Traugott Gottlieb May
+Johann Gotthelf Zeibig
+----------------
+Johann August Berger
+Johann Gottfried Boden
+1811
+Johann Gottlob Feller
+Johann Gottfried Karsch
+Johann Samuel Müller
+----------------
+Johann Andreas Hübner
+Johann Christoph Gräfe
+Friedrich Leberecht Golde
+1812
+Johann Gottfried Wendt
+Johann Christoph Scheibe
+Christian Gottlob Eisprich
+Johann Gottfried Gröber
+1813
+Johann Gottfried Roch
+----------------
+Johann Christoph Günther
+Johann Gottlieb Gröber
+Carl Gottlieb Mädiger
+Johann Gottfried Rüderich
+Johann Gottlob Reichart
+Johann Gottlob Philipp
+Johann Gottfried Leunert
+Johann Christoph Roch
+1814
+Johann Gottfried Walther
+Johann Georg Peukert
+----------------
+Johann Gottfried Haase
+Johann Gottlieb Fasoldt
+Johann Christoph Forke
+Johann Gottfried Großmann
+Johann Georg Mädiger
+Johann Christoph Henker
+Johann Gottlob Schöne
+Johann Christoph May
+Johann Gottlob Wilhelm Hoffmann
+1815
+Johann Gottlob Lunze
+Johann Gottlieb Großmann
+Johann Christoph Gröber
+----------------
+Anton Wende
+Gottlob Hantsche
+Johann Gottlieb Lange
+Carl Gottlieb Fritzsche
+Johann Christoph Knackfuß
+Johann Georg Walther
+1816
+Carl Gottlob Gröber
+Johann Georg Großmann
+Carl Gottlieb Mitzscherlich
+Johann Gottlieb Michel
+Johann Gottlieb Müller
+Christian Benjamin Schumann
+----------------
+1817
+Christian Kaiser
+Johann Georg Hörnig
+Carl Gottfried Schöne
+Carl Heinrich Adolph Anton Leipziger
+Johann Gottfried Wustmann
+1818
+Johann Carl Traugott Henker
+Johann Gottlieb Forke
+Johann Carl Gottlieb Koch
+Carl August Mißbach
+----------------
+Johann Christoph Höfgen?
+1819
+Johann Gottfried Leberecht Förster
+Johann Gottlieb Walther
+Johann Gottlob Hantzsche
+Heinrich Clemens Peter
+Johann Georg Großmann
+Johann Christoph Karisch

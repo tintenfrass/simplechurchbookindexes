@@ -1,13 +1,14 @@
 Leuben bei Dresden (Buch 241)
-Trauungen 1800-1809
+Trauungen 1800-1815
 https://www.archion.de/de/viewer/churchRegister/264565?pageId=36978775
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 April 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -272,3 +273,178 @@ Christian Wilhelm Egidius Hochheim
 Heinrich Carl Jeppelt
 Johann Georg Goschmann
 Johann Gottlob Dürigen
+----------------
+1810
+Johann Christian Zeiler
+Johann Gottlieb Eger
+Mattheus Wurtick
+Christian Kürbß
+----------------
+Johann Gottlieb Brocksch
+Johann Gottfried Bernsdorf
+Johann Christoph Gube
+----------------
+Christian Friedrich Seyffert
+Johann Gottlob Löser
+Johann Christian Reinfeld
+Johann Andreas Kohlstrunk
+----------------
+Carl Gottlob Heger
+Johann Christoph Jentzsch
+Michael Leschke
+----------------
+Johann Gottlob Wagner
+Johann Samuel Patzig
+Johann Gotthelf Harz
+----------------
+1811
+Carl Traugott Hoppe
+Friedrich Wilhelm Gandtner
+Johann Gottfried Klauß
+----------------
+Carl August Jentzsch
+Johann Gottlieb Leschke
+Johann Gottlieb Bähr
+----------------
+Johann Gottfried Kunze
+Johann Gottlob Gärtner
+Johann Gotthard Müller
+----------------
+Johann Traugott Mickel
+Traugott Ferdinand Eppert
+Johann Gotthelf Petermann
+----------------
+Johann Gottlob Schumann
+Johann Gottfried Adam Leonhardt
+Christian Friedrich Standfuß
+----------------
+Johann Gottfried Steglich
+Johann Gottfried Wähnert
+Christian Fürchtegott Hauswald
+----------------
+Johann Gottfried Wolf
+Johann Georg Rudolph
+Johann Heinrich Fuchs
+Johann Christian Nake
+----------------
+Michael Witschasche
+Johann Gottlieb Mager
+Johann Wilhelm Rüger
+Carl Gottlob Schramm
+Johann Gottlob Gerber
+----------------
+1812
+Johann Gottlieb Leischner
+Abraham Scherz
+Johann Gotthold Patzig
+Johann Samuel Fähre
+----------------
+Johann Christian Gottlob Eisprich
+Johann Heinrich Ferdinand Kluge
+Johann Samuel Zschetsch
+----------------
+Johann Gottlieb Höhnichen
+August Ludwig Fränzel
+Christian Gottlieb Hoffmann
+Friedrich Gottlob Haan?
+----------------
+Friedrich August Hempel
+Gottlob Heinrich Carl Speck
+Johann Gottlieb Walther
+----------------
+Johann Gottfried Pfocke
+Johann Christoph Friebel
+Johann Carl Seibig
+----------------
+Johann Gottfried Matthäi
+Friedrich August John
+Carl Traugott Donai
+----------------
+Johann Gottfried Reisig
+Johann Gottfried Lehmann
+Gotthelf Traugott Höhne
+----------------
+1813
+Georg Heinrich Agner
+Johann Gottlieb Schütze
+Johann Georg Augustin
+----------------
+Johann Gottlieb Scherz
+Johann Georg Hähnichen
+Gottlieb Adam Gerhardt
+----------------
+Andrä Juann LemmerzDanforth
+Johann Christian Kliebert
+Johann Georg Hermann
+----------------
+Johann Gottfried Polack
+Johann Gottlob Hempel
+Johann Christian Strauch
+Johann Gottlieb Rietzschel
+----------------
+Johann Gottlob Schütze
+1814
+Carl Adolph Findeisen
+Friedrich August Bartsch
+----------------
+August Wilhelm Eckholdt
+August Gottlob Wirthgen
+Christian Friedrich Wilhelm Hauswald
+Johann Georg Noack
+Johann Georg Augustin
+----------------
+Johann Gottlieb Knoll
+Carl August Nake
+Johann Gottfried Klotzsche
+Johann August Setner
+Carl Igantius Caßari
+----------------
+Johann Gottlieb Allbrecht
+Christian Benjamin Gampe
+Johann Traugott Nentel
+Johann Gottlob Wilhelm Pribus
+Carl Gottfried Frauenlob
+----------------
+Johann Friedrich Cod?
+Franz Seige
+Carl August Speck
+Carl Traugott Schindler
+Johann Christoph Friedrich Pressel
+----------------
+Christian Friedrich Claußner
+Johann Gottlob Klemm
+Johann Carl Krumpholz
+Johann Gottlob Mende
+Johann Andreas Gliemann
+----------------
+1815
+Johann Christian Gäbel
+Carl Wilhelm Bernhardt Zirkenbach
+Johann Christoph Hermann
+Carl Heinrich Gärtner
+Johann Gottlob Gäbel
+----------------
+Johann Gottlieb Hoppe
+Paul Koch
+Johann Georg Leonhardt
+Carl August Gottlob Krause
+Johann Gottfried Zeibig
+Johann Gottlob Kunath
+----------------
+Johann Gottlieb Gäbel
+Johann Gotthelf Pfützner
+Johann Gottfried Dünnebier
+Johann Christian Kämpfe
+Johann Gottlob Zeiler
+Johann Georg Walther
+Johann Christian Gottlieb Lindner
+----------------
+Johann Gottlieb Hahn
+Johann August Kämpfe
+Johann Gottlieb Schlenkrich
+Johann Gottfried Gottschalk
+Johann Gottfried Jentzsch
+----------------
+Johann Gottfried Leischke
+Carl Heinrich Fichenwith
+Johann Gottlob Kürbis
