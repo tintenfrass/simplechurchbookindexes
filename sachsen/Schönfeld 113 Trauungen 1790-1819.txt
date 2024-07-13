@@ -1,14 +1,15 @@
 Schönfeld (Buch 113)
-Trauungen 1790-1809
+Trauungen 1790-1819
 https://www.archion.de/de/viewer/churchRegister/280033?pageId=38521237
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 August 2023
 April 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -768,3 +769,449 @@ Johann Gottlob Nacke
 Johann Gottlob Petzold
 Carl Gottlieb Zeibich
 Johann Gottfried Bär
+----------------
+1810
+Johann Gottlob Krause
+Johann Gottlob Thieme
+Johann Gottlieb Kretsch
+Carl Gottlieb Lehnert
+Johann Gottfried Angermann
+Johann August Grafe
+Johann Gottlob Gierth
+----------------
+Johann Christian Schöne
+Johann Samuel Schröter
+Johann Gottlieb Marbach
+Johann Gottlieb Thämelt
+Johann Gottlob Kayser
+Johann Georg Walther
+----------------
+Johann Gottlieb Keßler
+Johann Gottlob Giebe
+Johann Gottlieb Henker
+Johann Christian Sahre
+Johann Gottlob Trepte
+Johann Gottlieb Schnabel
+Johann Christian Petzold
+----------------
+Carl Gottfried Schütze
+Johann Gottlob Hebig
+Johann Gottlob Kegel
+Johann Gottlieb Fuchs
+Johann Gotthelf Jänichen
+Johann Gottlieb Fehre
+----------------
+1811
+Johann Traugott Thieme
+Johann Christian Haufe
+Johann Gotthelf Tittel
+Johann Gottfried Angermann
+Johann Gottfried Haase
+Johann Gottlieb Bretschneider
+----------------
+Friedrich Gotthelf Felgner
+Johann Gottlob Richter
+Johann Gottlieb Leinert
+Johann Gottlob Bräunig
+Johann Gottlieb Fiedler
+Johann Christoph Schößig
+----------------
+Johann Gotthelf Scheithauer
+Carl Gotthelf Ditrich
+Johann Gottfried Maatz
+Johann Gottlob Thämelt
+Johann Christoph Göbel
+Johann Gottlob Wehner
+----------------
+Johann Gottfried Faust
+Johann Gottlob Graf
+Johann Christoph Giebe
+Johann Gottlieb Taschenberger
+Johann Gottlieb Knauck
+Johann Gottlob Tittel
+Johann Traugott Leberecht Gößel
+Johann August Jakob
+Johann Gottlob Mäcke
+Johann Gottlob Berger
+----------------
+Johann Christian Schützel
+Christoph Huhle
+Karl Gottfried Angermann
+Johann Gottlieb Roßig
+Johann Gottfried Hörnich
+Johann Samuel Huhle
+Johann Gottlob Angermann
+Johann Gottlob Leithold
+Johann Christoph Herr
+----------------
+Johann Christoph Leischke
+Johann Daniel Sachse
+Johann Traugott Leischke
+Johann Gottfried Dietze
+Johann Georg König
+Johann Gottlieb Hilme
+----------------
+Johann Strehle
+Johann Gottlob Haase
+Christian Gottlieb Pfeiffer
+Johann Gottlieb Sieber
+Johann Gottlieb Bräunich
+Johann Gottlieb Huhle
+----------------
+1812
+Johann? Karl Gottlieb Trefkorn
+Johann Gottfried Prietzel
+Johann Gottfried Wendt
+Johann Samuel König
+Christian Gottlob Conrad
+Johann Christoph Hauptmann
+Johann Christoph Haußstein
+Johann Gottfried Sahre
+----------------
+Johann Gottlieb Keßler
+Johann Georg Kreye
+Johann Gottlieb Barthel
+Johann Gottlieb Werner
+Johann Gottfried Göbel
+Johann Gottfried Hauswald
+Johann Gottlieb Karl Arnold
+Johann Gotthelf Jentzsch
+----------------
+Johann Gottfried Meschke
+Johann Christian Angermann
+Johann Christoph Bär
+Johann Gottfried Schmidt
+Johann Christoph Kegel
+Johann Christoph Gäbler
+Johann Gottlieb Grafe
+Karl Christian Lindemann
+Johann Georg Jannak
+----------------
+Johann Gottfried Naumann
+Johann Gottfried Kreye
+Johann Gottlieb Bräunich
+Johann Samuel Huhle
+Johann Christian Petzold
+Johann Gottlob Jänichen
+Christian Gottlob Harnisch
+Johann Georg Teichmann
+----------------
+Johann Gottlieb Richter
+Gottfried Huhle
+1813
+Johann Christian Kuhnert
+Johann Gottlieb Ryßel
+Johann Christoph Hempel
+Johann Gottlob Dietze
+Johann Gottlieb Lorentz
+Johann Gottfried Kohl
+----------------
+Johann Gottlob Naake
+Johann Gottfried Gößel
+Friedrich Günther
+Karl Gottfried Hoffmann
+Johann Gottlieb Rößler
+Christoph Werner
+Gottlob Scheidthauer
+Johann Gottlob Haase
+Johann Gottlob Hentzschel
+----------------
+Johann Karl Gottfried Pinkert
+Johann Gottfried Fiedler
+Johann Gotthelf Schmidt
+Johann Karl Friedrich Paul
+Johann Karl Gottlob Schneider
+Johann Gottfried Haase
+Johann Gottlieb Gößel
+Johann Gottfried Müller
+Johann Gottlieb Schräger
+Johann Christoph Haase
+----------------
+Johann Gottlieb Petzold
+Johann Gottfried Roch
+Johann Georg Schmidt
+Johann Gottlieb Gierth
+Karl August Leischke
+Johann Gottfried Huhle
+Johann Gottfried Angermann
+Johann Gottlieb Leubert
+----------------
+1814
+Johann Christoph Roch
+Johann Gottfried Zeibich
+Johann Gottlieb Mildner
+Johann Gottfried Schmidt
+Johann Christian Schuster
+Johann Christian Wehner
+Johann Gottlob Keßler
+Johann Georg Philipp
+Karl Gottlieb Ditrich
+Johann Christoph Leuschke
+----------------
+Johann Gottlob Seyde
+Johann Christoph Müller
+Johann Gottlob Wehner
+Johann Christian Hörnich
+Johann Gottlob Jentzsch
+Johann Gotthelf Sieber
+Johann Gottlieb Schietzelt
+Johann Gottfried Ryßel
+Johann Gottfried Schmidt
+Johann Samuel Franke
+----------------
+Johann Christoph Wehner
+Johann Gottlob Naake
+Johann Gottlieb Gierth
+Johann Georg Pietzsch
+Johann Gottfried Schröter
+Johann Gottlieb Müller
+Johann Gottlob Sahre
+Johann Gottlieb Mörbitz
+Johann Gottfried Kuntze
+----------------
+Johann Gottlieb Haase
+Johann Gottlieb Keßler
+Karl Gottlieb Schwarze
+Johann Christoph Henker
+Johann Gottfried Furkert
+Johann Christian Wolf
+Johann Christian Jähnigen
+Karl Gottlieb Roch
+Johann Gotthelf Schnabel
+Johann Gottlob Sperling
+----------------
+Johann Gottlieb Körnert
+Johann Gottfried Leischke
+Johann Gottlieb Lehnert
+Johann Christian Mörbitz
+Johann Christian Franke
+Johann Gottlieb Roßig
+Johann Georg Johne
+Johann Gottlob Keßler
+Johann Gottlieb Eyßold
+----------------
+Johann Karl Gottfried Müller
+Karl Gottlob Köhler
+Johann Anton Kinnert
+Johann Christian Leithold
+Johann Gottlieb Schnabel
+Johann Christlieb Petzold
+Johann Gottlieb Lehnert
+Karl August Gehre
+Karl August Meinhardt
+Christian Ehrenfried Schletter
+Johann Peter Huhle
+----------------
+1815
+Johann Gottlob Richter
+Johann Gottlieb Roßig
+Johann Gottfried Hauptmann
+Johann Christian Huhle
+Johann Gottlob Grafe
+Johann Karl Gottlieb Traugott Bär
+Johann Georg Keßler
+Johann Georg Müller
+Johann Gottfried Liebusch
+----------------
+Friedrich August Hesse
+Johann Gottlieb Naake
+Johann Gottlieb Schräger
+Johann Gottlob Leuschke
+Johann Gottfried Haase
+Johann Gottlob Richter
+Jacob Leder
+Johann Gotthelf Petzold
+Johann Gottlieb Roßig
+----------------
+Johann Gottlieb Giebe
+Johann Gottfried Maukisch
+Johann Gottfried Roch
+Johann Gotthelf Ulbrich
+Johann Gottlieb Petzold
+Johann Gottfried Hantzsche
+Johann Gottlieb Lehmann
+Johann Gottfried Giere
+Johann Gottlieb Henker
+Johann Gottlieb Grafe
+----------------
+Johann Christian Sperrhaaken
+Johann Karl Gottlieb Franke
+Johann Christoph Küchler
+Johann Gottfried Petzold
+Johann Georg Schmidt
+Johann Gottlieb Kegel
+Johann Christoph Leithold
+Johann Christian Haubold
+Johann Gottlob Kuntze
+Johann Gottlieb Lange
+----------------
+Johann Friedrich Biedermann
+Johann Gottfried Mäcke
+Johann Gottlieb Leuschke
+Johann Gottlieb Sachse
+Johann Christian Sperling
+Johann Christoph Kannegießer
+Johann Gottlob Schöne
+Karl Gottlieb Wendig
+Johann Gottlieb Müller
+----------------
+Johann Gottlob Füßel
+Johann Gottfried Willkommen
+Christian Huhle
+Johann Gottlieb Lehnert
+Johann Gottlieb Huhle
+1816
+Johann Gottlieb Schreiber
+Johann Ehregott Ulbrich
+Johann Gottlob Jäckel
+Johann Gottlob Grohmann
+----------------
+Johann Gotthelf Göbel
+Johann Gottfried Tittel
+Karl Gottfried Pohle
+Johann Gotthelf Hähnel
+Johann August Schertze
+Johann Gottlieb Kegel
+----------------
+Johann Georg Demnitz
+Johann Gottlieb Schmidt
+Johann Gottlieb Heinrich Hennig
+Johann Gottfried Röllig
+Johann Christoph Müller
+Johann Gottfried Schäfer
+----------------
+Johann Gottlob Leithold
+Johann Gottlieb Grafe
+Karl Gottlieb Michael
+Johann Gottlieb Nacke
+Johann Gottlieb Kretzschmar
+Johann Gottfried Furkert
+----------------
+Johann Gottlieb Leibert
+Johann Christian Müller
+Johann August Walther
+Johann Gottlob Päperer
+Johann Gottlob Arnold
+Johann Christoph Heße
+----------------
+Karl August Graf
+Christian Gottlob Harnisch
+Johann Gottfried Rüßel
+Samuel Angermann
+Johann Georg Gehre
+Johann Traugott Friedrich Wilhelm Leberecht Günther
+----------------
+Johann Christian Menzel
+Johann Gottfried Schlesier
+Johann Gottfried Wächter
+Johann Gottfried Ebert
+Johann Gottlob Fehre
+----------------
+1817
+Johann Karl Gotthelf Heinicke
+Johann Gottfried Kunath
+Johann Gottfried Richter
+Johann Gottfried Schmidt
+Johann Gottfried Lehmann
+Karl Gottfried Schäfer
+Johann Georg Hörnig
+----------------
+Johann Gottlieb Mißbach
+Johann Christian Schröter
+Johann Christoph Hase
+Carl Gottlieb Huhne
+Johann Christoph Naumann
+----------------
+Johann Gotthelf Keulicht
+Jacob Jurk
+Gottlieb Kunze
+Carl Gottlieb Benjamin Weißgerber
+Johann Gottfried Zeibig
+Johann Gottlob Koch
+Johann Christoph Richter
+----------------
+Johann Traugott Jentzel
+Johann Gottlob Grafe
+Johann Gottfried Roch
+Johann Gottfried Rosenkranz
+Johann Christian Böhme
+Johann Christian Nake
+Friedrich Wilhelm Gandtner
+----------------
+Johann Christian Greue
+Johann Christoph Müller
+Johann Gottfried Trefkorn
+Johann Gottlob Schäfer
+1818
+Johann Gottlieb Beil
+Johann Georg Schreeger
+----------------
+Carl Traugott Schneider
+Johann Gottlieb Henker
+Johann Christoph Keulicht
+Johann Traugott Ringel
+Johann Gottlieb Eger
+Johann Gottlob Patzig
+Johann Gottfried Zeibig
+----------------
+Johann Gottlob Barthel
+Johann Gottlieb Hippe
+Johann Carl August Barthel
+Johann Gottfried Trompler
+Johann Gottlob Opitz
+Carl August Mißbach
+Johann Hille
+----------------
+Johann Gottfried Mai
+Johann Gottlieb Müller
+Johann Gottlob Jänichen
+Johann Gottlob Giebe
+Johann Christian Lehnert
+Johann Christian Böhme
+Johann Gottlieb Franke
+Johann Traugott Leberecht Mai
+Johann Christoph Bär
+----------------
+Johann Gottlob Sator
+Carl Gottlieb Mauksch
+Johann Gottlieb Franke
+Johann Daniel Dieme
+Johann Samuel Mißbach
+Carl Gottlieb Fritzsche
+----------------
+1819
+Johann Carl Gottlob Gierth
+Johann Christian Richter
+Carl Gottlieb Kegel
+Johann Carl Samuel Seibig
+Johann Christoph Furkert
+Johann Gottlieb Müller
+Johann Christian Füßel
+Johann Carl Gottlieb Klare
+Johann Christoph Nake
+----------------
+Johann Gottlieb Frauenlob
+Johann August Leuschke
+Johann Gotthelf Leberecht Nake
+Johann Gottlob Huhle
+Carl Wilhelm Nake
+Johann Gotthelf Franz
+Johann Gottlob Felsner
+Johann Gottlieb Philipp
+Johann Gottlieb Leinert
+----------------
+Johann Christoph Knackfuß
+Friedrich Gottlob Koch
+Johann Gottfried Hauke
+Johann Carl Jacob
+Johann Gottlob Köhler
+Johann Gottlieb Räpe
+Johann Gottfried Sahre
+Johann Gottlob Haufe
+Johann Gotthelf Jacob
+----------------
+Johann Christian Angermann
+Georg Christoph Schulze
+Carl? Gottlieb Klare //korrigiert
+Johann Christoph Hempel
+Johann Gottlob Blankenstein

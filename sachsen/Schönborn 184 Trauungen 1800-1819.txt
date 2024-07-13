@@ -1,5 +1,5 @@
 Schönborn (Buch 184)
-Trauungen 1800-1809
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/264515?pageId=36960284
 
 
@@ -7,7 +7,9 @@ Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
+Erstellt in ca. 0,5 Stunden
 April 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -87,3 +89,83 @@ Karl Gottfried Seyffert
 Johann Gottfried Stein
 Johann Christian Ettrich
 Carl Gottlob Meißner
+1810
+Johann Georg Tamm
+Johann Gottfried Niese
+Johann Gottlob Schmidt
+Johann Gottlieb Wagner
+Johann Gottlob Werner
+Johann Gottfried Meißner
+Johann Gottlob Tamm
+----------------
+Johann Gottlob Tamm
+Johann Gottlob Trepte
+Johann Gottlob Höfgen
+Johann Gottfried Tamm
+Johann Christoph Hoffmann
+1811
+Traugott Leberecht Kunadt
+Heinrich Kühne
+Johann Georg Drogoin
+Johann Christoph Klare
+Johann Heinrich Trepte
+----------------
+Johann Gottlob Gärtner
+Johann Heinrich Schmidt
+1812
+Johann Gottfried Zumpe
+Johann Christoph Schmidt
+Johann Gottlieb Biese
+Johann Gottlieb Biese
+Johann Samuel Ringel
+Johann Christian Thalheim
+Johann Samuel Mißbach
+1813
+Johann Gottfried Opitz
+Johann Gottlieb Ende
+Johann Gottlob Klare
+----------------
+Johann Gottlob Hoffmann
+Johann Gottfried Clauß
+1814
+Johann Gottfried Klahre
+Johann Friedrich Arnold
+Johann Georg Pietzsch
+Johann Gottlob Müller
+Johann Christoph Meißner
+1815
+Johann Christoph Johne
+----------------
+1816
+Johann Georg Vogel
+Johann Christoph Heinze
+Johann Gottlob Gärtner
+Johann Gottlob Bärisch
+Johann Gottfried Thalheim
+Carl Christoph Böhme
+Johann Gottlob Stöltzer
+1817
+Carl Gottlob Stein
+Johann Gottlob Fritzsche
+Gottlob Leberecht Kluge
+----------------
+Johann Gottlob Schmidt
+Johann Georg Blüthig
+1818
+Johann Carl Gottlob Hoffmann
+Johann Christoph Großmann
+Carl Friedrich Gumlich
+Johann Carl Gottlieb Michael
+Johann Gottfried Pietzsch
+Johann Gottlob Pietzsch
+1819
+Johann Gottlieb Heinrich? Loreck
+----------------
+Johann Gottlob Bormann
+Johann Gottlob Menzel
+Johann Gottlieb Leinert
+Johann Christoph Biese
+Johann Gottlob Großmann
+Carl Traugott Rumpelt
+Johann Gottfried Schmidt
+Gottlob August Tamme

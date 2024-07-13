@@ -1,10 +1,11 @@
 Plauen (Buch 87)
-Trauungen 1800-1809
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/263414?pageId=36748773
 
 
-Erstellt in ca. 0,5 Stunde
+Erstellt in ca. 1 Stunde
 April 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -170,3 +171,163 @@ Johann Gottlob Müller
 ----------------
 Johann Gotthelf Böttcher
 Carl Gottlob Rülke
+---------------- x14
+1810
+Heinrich Gottlieb Zacharrias
+Johann Gottfried Frenzel
+Johann Gottlob Ruhland
+Johann Gottlob Grosmann
+Christian Gottlieb Spieß
+Anton Wilhelm Stannis
+Johann Gottfried Boden
+Christian Friedrich Teuchert
+Johann Gottfried Naumann
+----------------
+Carl Friedrich Olbricht
+Johann August Hänisch
+Johann Gottfried Bormann
+1811
+Johann Gottlieb Kunde
+Johann Gottlob Marx
+Johann Gottfried Strohbach
+Carl Traugott Reinhardt
+----------------
+Johann Gottlob Möbius
+Traugott Leberecht Hildebrand
+Johann Gottlieb Gerlach
+Carl Adolph Schmieder
+Johann Georg Bräuer
+---------------- x8
+1812
+Carl Wilhelm Weiser
+Johann Gottfried Lindner
+Carl Friedrich Reppe
+Friedrich Wilhelm Reth
+Johann Christian Winckler
+Johann Gottlieb Lahemann?
+Christian Gottlieb Hermsdorf
+Johann Gotthelf Kiesling
+Johann Gottlob Heyne
+Gottlieb Leberecht Vogel
+Andreas Barth
+---------------- x11
+1813
+Johann Christian Schäfer
+Carl Gottlieb Koch
+Friedrich Christlieb Wahle
+Carl Heinrich Ferdinand Teuben
+Immanuel Tobias Unger
+Johann Gottlob Aehlig
+Johann Gottlob Hübler
+----------------
+1814
+Gottlob Friedrich Lindner
+Christian Friedrich Liebscher
+Johann Gotthelf Fährmann
+Johann Gottlieb Feind
+Gottfried Wilhelm Lange
+----------------
+Johann Gottlob Hübler
+Johann Christian Wolf
+Johann Wilhelm Portuleck
+Johann Christoph Schröter
+Carl Gottlieb Rielke
+Johann Christian Vicktor
+Carl Gotthelf Heine
+----------------
+Johann Gotthelf Weber
+Friedrich Nathanael Hönicke
+Carl Gottlieb Loose
+Carl Gottlieb Räppe
+Johann Christoph Lorenz Unglaub
+Johann Georg Kirsten
+Johann Gottlob Ehrlich
+----------------
+Gottlob Leberecht Pfitzmann
+---------------- x22
+1815
+Johann Gottlob Uhlich
+Johann Christian Rommberg
+Johann Christian Henker
+Christian Traugott Kietzschmann
+Heinrich Traugott Ferdinand Klemm
+Johann Gottfried Werner
+----------------
+Christian August Keßinger
+August Balthasar Roch
+Johann Georg Gräfe
+Johann Gottfried Gallasch
+Johann Georg Bachmann
+Carl Friedrich Mannfeld
+----------------
+Martin Ludwig Wießner
+Carl August Habbert
+Christian Gottfried Höck
+Theodor Friedrich Hellwig
+Johann Gottlob Stirl
+Johann Christian Winckler
+Friedrich Pückenburg
+---------------- x14
+1816
+Johann Gottlieb Bruchmann
+Johann Gottlob Seliger
+Johann Gottfried Straus
+Johann Gottlieb Müller
+Johann Christian Keppler
+Johann Gottlieb Merbitz
+----------------
+Christian Gottfried Krause
+Carl Gottfried Reppe
+Johann Gottfried Küchenmeister
+Johann Georg Dommnig
+Christian August Graf
+Carl Ludwig Gebhardt
+----------------
+Friedrich Traugott Lucas
+Carl Gottlieb Reppe
+Carl Gottlob Wustlich
+Johann Samuel Hübner
+Gottfried Wilhelm Zinke
+---------------- x10
+1817
+Gottlieb Wilhelm Leuteritz
+Christian Erdmann Petersen
+Johann Gottlieb Kirsten
+Carl August Hahmann
+Friedrich August Schulze
+Carl Gottlob Klepperbein
+----------------
+Gotthelf Schmidt
+Christian Friedrich Schmidt
+Johann Christian Dietze
+Friedrich Samuel Jentzsch
+Christian August Strenger
+Johann Gottlieb Schwarze
+Johann Gottlieb Starcke
+Gustav Heinrich Schulze
+---------------- x13
+1818
+Johann Christoph Birke
+Gottlob Traugott Hering
+Johann Gottlob Traugott Leuteritz
+Carl Gottlieb Hartmann
+Gottfried Moritz Kotsch
+Johann Gottlieb Löthlich
+Carl Gottlob Schäfer
+Wilhelm Ferdinand Binder
+----------------
+August Benjamin Eduard Redlich
+Christian Wilhelm Horn
+Heinrich Carl Heldreich
+Christian Gottlob Gahmig
+---------------- x8
+1819
+Johann Gottlieb Ockert
+Carl Friedrich Tenz
+Joachim Heinrich Carl Friedrich Dürfeld
+Johann Gottlob Quandt
+Christian Friedrich Bredow
+Johann Gottlob Nieschalky
+Johann Christoph Wolf
+----------------
+Wilhelm Ludwig Tousaint

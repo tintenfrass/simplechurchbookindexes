@@ -1,12 +1,14 @@
 Wachau (Buch 198)
-Trauungen 1801-1809
+Trauungen 1801-1819
 https://www.archion.de/de/viewer/churchRegister/264529?pageId=36969455
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
+Erstellt in ca. 0,5 Stunden
 April 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -119,3 +121,107 @@ Johann Gottlob Bergmann
 Johann Christoph Misbach
 Johann Christian Kuntze
 Johann Christoph Müller
+----------------
+1810
+Johann Georg Just
+Johann Friedrich Preller
+Johann Gottfried Kretschel
+Johann Gottlieb Misbach
+----------------
+1811
+Carl Gottlob Völkel
+Friedrich Samuel Glöckner
+Johann Christoph Grünberg
+----------------
+Johann Gottfried Haase
+1812
+Johann Gottfried August Prietz
+Johann Christian Rosenkranz
+----------------
+Johann Christoph Hempel
+Johann Christian Rosenkranz
+Johann Gottlob Großmann
+Johann Georg Keiling
+----------------
+Johann Georg Rosenkranz
+Carl Gottlob Haubold
+Johann Christoph Dietzmann
+----------------
+1813
+Johann Christoph Görner
+Johann Gottfried Tübel
+Johann Gottlieb Völkel
+Johann Traugott Bienert
+----------------
+1814
+Johann Traugott Gäbler
+Johann Gottfried Kiesling
+Johann Christoph Forke
+----------------
+Christian Friedrich Dümler
+Johann Gottfried Burscher
+Johann Gottfried Clauß
+----------------
+Johann Christoph Lehmann
+Johann Christian Känner
+----------------
+1815
+Johann Gottfried Hörnig
+Johann Gottlieb Stelzer
+Johann Traugott Epner
+Johann Gottlob Petermann
+----------------
+Johann Gottlieb Hentzschel
+Johann Gottfried Müller
+Johann Gottfried Müller
+Johann Gottlob Klengel
+----------------
+Johann Gottlieb Roch
+1816
+Johann Georg Petzold
+Johann Gottlieb Schöne
+----------------
+Johann Christoph Misbach
+Johann Gottlieb Stieler
+Johann Christoph Görner
+Johann Samuel Heinrich Heine
+----------------
+Johann Gottfried Traugott Kösche
+Johann Christoph Görner
+Johann Georg Kühn
+----------------
+1817
+Johann Gottlob Grosmann
+Johann Gottlob Thieme
+Johann Christian Görner
+Georg König
+----------------
+Johann Christoph Gärtner
+----------------
+1818
+Johann Georg Cunath
+Johann Gottfried Görner
+Johann Traugott Rosenkranz
+----------------
+Johann Gottlob Kästner
+Johann Gottlob Gärtner
+Johann Christoph Sonntag
+Johann Gottfried Großmann
+Johann Christian Görner
+----------------
+Johann Samuel Misbach
+Johann Traugott Ehrig
+----------------
+1819
+Carl Böhme
+Johann Gotthelf Wagner
+Johann Gottfried Knolle
+----------------
+Johann Gottlieb Kleinstück
+Johann Gottlob Löscher
+Johann Christoph Böhme
+----------------
+Johann Gottfried König
+Johann Georg Görner
+Johann Christoph Trepte
+Johann Gottlob König

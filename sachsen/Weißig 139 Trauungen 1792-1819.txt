@@ -1,5 +1,5 @@
 Weißig (Buch 139)
-Trauungen 1792-1809
+Trauungen 1792-1819
 https://www.archion.de/de/viewer/churchRegister/280059?pageId=38527141
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -7,9 +7,10 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 August 2023
 April 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -363,3 +364,215 @@ Johann Christian Pappe
 Carl Gotthelf Schmidt
 Johann Christian Hencker
 Johann Gottlieb Schöne
+----------------
+1810
+Johann Gottlieb Eger
+Johann Gottfried Schletter
+Johann Gottlieb Schmidt
+Johann Christian Huhle
+Johann Gottfried Franke
+----------------
+Johann Georg Leuschke
+Johann Christian Schöne
+Johann Gottlieb Marbach
+Johann Gottlieb Thämelt
+Johann Carl Gottfried Clauß
+Johann Gottfried Schöne
+----------------
+Johann Christian Petzold
+Traugott Gottlieb May
+Carl Gottlob Felgner
+Johann Christoph Schleßier
+----------------
+1811
+Johann Christian Haase
+Johann Christian Angermann
+Johann Gottlieb Angermann
+Johann Gottlieb Leinert
+Christian Friedrich Schaller
+----------------
+Johann Christoph Schossig
+Johann Gottlob Thänelt
+Gottlieb Roch
+Johann Gotthelf Hantsche
+Christian Gottlieb Kellner
+----------------
+Johann Gottlieb Hennig
+Johann Gottlieb Angermann
+Johann August Jacob
+Johann Gottlieb Grützner
+Johann Gottlob Bräunich
+----------------
+Johann Gottlieb Preußler
+Johann Georg Jänichen
+Johann Gottlieb Bräunich
+1812
+Carl Gottlieb Trefkorn
+----------------
+Carl Gottlieb Jacob
+Johann Christian Müller
+Johann Christoph Nacke
+Johann Gottfried Angermann
+Johann Gottlob Zirkel
+----------------
+Johann Christoph Hauptmann
+Johann August Theile
+Johann Christian Mittag
+Johann Christoph Huhle
+Johann Gottlieb Keßler
+Johann Christoph Schrödter
+----------------
+Johann Carl Gottlieb Arnold
+Johann Christian Angermann
+Johann David Felßner
+Johann Gottfried Naumann
+Johann Gottfried Greue
+Johann Gottfried Nacke
+----------------
+Johann Gotthelf Gäbisch
+Johann Christian Petzold
+Johann Gottfried Gierth
+Johann Gottlieb Köckritz
+Johann Gottfried Räpe
+----------------
+Johann Gottlieb Richter
+1813
+Johann Gottlob Ebert
+Johann Gottlob Hermann
+Johann Gottlieb Rößler
+Johann Gottlob Karsch
+----------------
+Johann Gotthelf Schmidt
+Johann Gottlieb Wend
+Johann Gottfried Zocher
+Johann Gottfried Bräunich
+Johann Gottlieb Petzold
+Johann Gottfried Angermann
+----------------
+Johann Gottlieb Glöckner
+1814
+Carl Gottlob Böge
+Johann Gottlieb Mildner
+Johann Gottlob Patzig
+Johann Gottlob Keßler
+Johann Georg Philipp
+----------------
+Christoph Ehrenfried Mittag
+Johann Helaß
+Carl Friedrich Quinque
+Christian Gottlieb Schuster
+Johann Gottfried Richter
+Johann Christian Müller
+----------------
+Johann Gottfried Schrödter
+Johann Gottlieb Müller
+Johann Gottlieb Keßler
+Johann Gottfried Klotzsche
+Johann Gottlieb Schröter
+Johann Gottlob Keßler
+Johann Gottlieb Hennig
+----------------
+Johann Carl Gottfried Müller
+Johann Christian Gäbler
+Carl Gotthelf Littner
+1815
+Johann Gottfried Papperitz
+Johann Christoph Schäfer
+Johann Georg Müller
+----------------
+Johann Gottfried Liebasch
+Johann Gottlob Müller
+Johann Gottlob Schöne
+Johann Gottfried Hennig
+Johann Christian Hoffmann
+Johann Christian Nacke
+Johann Gottlob Richter
+----------------
+Johann Gottfried Hantsche
+Johann Gottlieb Grafe
+Johann Christian Fehrmann
+Johann Gottfried Mögel
+Johann Gottlob Kunze
+Christian Leberecht Müller
+----------------
+Johann Gottlieb Köhler
+Johann Gottlob Schöne
+Johann August Hanitsch
+Johann Gottfried Klotzsche
+Johann Gottlob Angermann
+----------------
+Johann Samuel Ilschner
+Emanuel Gottlob Mieth
+Johann Christoph Tittel
+Johann Gottlieb Huhle
+1816
+Johann Gottlieb Schreiber
+Johann Ehregott Ullbrich
+----------------
+Gottfried Hoffmann
+Johann Gottlob Henker
+Friedrich August Schmidt
+Johann Gottlieb Schöne
+Johann Gottfried Henker
+Johann Gottlob Gäbler
+Johann Gottfried Kerbs
+----------------
+Carl August Ludwig Heyne
+Johann Gottfried Wächter
+Johann Gottfried Schleßier
+1817
+Anton Wenzel
+Johann Gottlob Kletsch
+Johann Gottlob Papperitz
+----------------
+Johann Christian Schröter
+Johann Christoph Eger
+Johann Gottlob Koch
+Johann Gottlob Huhle
+Johann Gottlieb Kegel
+Johann Gottlieb Barthel
+----------------
+Johann Gottfried Leberecht Müller
+Carl Gottlob Walther
+Johann Gottlob Richter
+1818
+Johann Gottlob Grützner
+Johann Christian Schöne
+Johann Christoph Zöllner
+----------------
+Johann Christian Wolf
+Johann Gottfried Zeibig
+Johann Gottfried Gäbel
+Samuel Scherz
+Johann Gottfried Kegel
+Carl Gottlieb Großmann
+Carl August Mißbach
+----------------
+Johann Gottlieb Klotzsche
+Johann Gottlieb Grafe
+Johann Christian Lehnert
+Johann Christoph Müller
+Johann Gottlieb Fiedler
+1819
+Christian Gottlob Kühne
+Johann Gottlieb Schaler
+----------------
+Johann Christoph Forkert
+Johann Gottlieb Müller
+Johann Gottlieb Schmidt
+Carl August Kirsten
+Johann Gottfried Müller
+Johann Samuel Müller
+Johann Samuel Schanz
+----------------
+Johann Christian Weiße
+Johann Christoph Knackfuß
+Johann Christoph Nacke
+Johann Ehrenfried Benjamin Müller
+Johann Gottlieb Michel
+Johann Gotthelf Eger
+Johann Gottlieb Räpe
+----------------
+Johann Gottfried Sahre
+Johann Christoph Hempel
+Johann Christian Behr

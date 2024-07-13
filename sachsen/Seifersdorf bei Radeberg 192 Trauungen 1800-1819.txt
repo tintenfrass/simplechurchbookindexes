@@ -1,12 +1,14 @@
 Seifersdorf bei Radeberg (Buch 192)
-Trauungen 1800-1809
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/264523?pageId=36963541
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
+Erstellt in ca. 0,5 Stunden
 April 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -107,3 +109,86 @@ Hans Zumpe
 Johann Gottlob Grosmann
 ----------------
 Johann Gottfried Schmidt
+1810
+Johann Gottlieb Großmann
+Johann Gottfried Zimmermann
+Esaias Gustav Zumpe
+Georg Friedrich Kummer
+----------------
+Johann Gottfried Kunath
+Johann Friedrich Clauß
+1811
+Johann Georg Gärtner
+Carl Gottlob Schade
+Gottlob Zumpe
+Johann Gottfried John
+Johann Schneider
+----------------
+Carl Christian Benjamin Morgenstern
+1812
+Johann Gottfried Zumpe
+Johann Georg Zimmermann
+Johann Gottlob Völke
+Johann Christoph Zumpe
+Karl Gottlob Eichler
+Johann Christoph Wehnert
+----------------
+Johann Gottlob Philipp
+Christoph Dalheim
+1813
+Johann Gottlob Peschel
+Johann Gottfried Kluge
+Johann Gottfried Tamm
+Carl Gottfried Zimmermann
+----------------
+1814
+Johann Gottlob Löderich
+Johann Gottlob August Geißler
+Johann Gottfried Partzsch
+Carl Friedrich Moritz Paul
+Johann Georg Rosenkranz
+Friedrich Wilhelm Jähnichen
+----------------
+Johann Gottlob Lödrich
+Johann Gottlob ?
+1815
+Johann Gottfried Knoblich
+Johann Gottlob Sattler
+Carl Friedrich Gebauer
+Johann Gottfried Zimmermann
+Carl Gotthelf Böttger
+Carl Gottfried Fichtner
+----------------
+Johann Leberecht Jähnichen
+Carl Gottlob Drescher
+Johann Gottlieb Roch
+1816
+Johann Carl Christian König
+Gotthelf Friedrich Reinsch?
+----------------
+1817
+Johann Gottlob Großmann
+Christian Friedrich Pfitzner
+Johann Gottlob Schellig
+Carl Friedrich Trübsbach
+Johann Gottlob Gärtner
+Johann Heinrich Böhme
+----------------
+1818
+Johann Gottfried Großmann
+Johann Christoph Wehse
+Johann Christoph Zimmermann
+Johann Georg Großmann
+Johann Gottfried Grützner
+Johann Gottlieb Graf
+Johann Gottlob Schmidt
+Johann Gottlob Großmann
+Johann Christoph Zumpe
+----------------
+1819
+Johann Christian Carl Roch
+Carl August Kaltofen
+Carl Gottlob Scheibe
+Johann Gottlob Großmann
+Johann Gottlob Zimmermann
+Johann Gottlob Zumpe

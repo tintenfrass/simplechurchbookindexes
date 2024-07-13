@@ -1,5 +1,5 @@
 Wilschdorf (Buch 150)
-Trauungen 1776-1809
+Trauungen 1776-1819
 https://www.archion.de/de/viewer/churchRegister/280070?pageId=38528794
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 0,5 Stunden
 Mai 2023
 April 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -201,3 +202,80 @@ Johann Gottlieb Bergmann
 Johann Gottlob Gommlich
 Johann Gottlieb Fleischer
 Johann Gottlieb Gommlich
+----------------
+1810
+Johann Christian Zichner
+Johann Gottfried Eichhorn
+Johann Gottfried Bergemann
+Johann Georg Kuntsch
+Traugott Weinhold
+----------------
+Samuel Gottfried Klotzsche
+Johann Georg Pappritz
+Johann Gottlob Werner
+----------------
+----------------
+1811
+Johann August Klemm
+August Wilhelm Naumann
+Johann Andreas Schulze
+Johann Gottfried Naumann
+Johann Gottfried Hantzsch
+----------------
+1812
+Johann Christoph Eichhorn
+Carl Gottlieb Fleischer
+Johann Samuel Gärtner
+Johann Georg Gommlich
+Johann Georg Gommlich
+----------------
+Johann Christoph Kuntsch
+Johann Gottlieb Meißner
+Johann Gottlob Schmiedchen
+1813
+Johann Gottfried Fickler
+----------------
+Gottlieb Meißner
+Johann Gottlob Lange
+Johann Gottlob Ringel
+Johann Gottlieb Fuchs
+Johann Samuel Angermann
+----------------
+1814
+Johann Georg Meßer?
+Johann August PEtzold
+Johann Gottlieb Pählich
+Johann Gottfried Gommlich
+----------------
+Johann Gottfried Wenzel
+1815
+Johann Samuel Rößel
+Johann Samuel Mehlig
+Johann Christoph Hennersdorf
+----------------
+1816
+Johann Gottlieb Türke
+Johann Gottlieb Philipp
+Johann Georg Gommlich
+Daniel Erdmann Trenzsch
+Johann Gottlieb Menzel
+----------------
+Johann Christoph Rarisch
+Johann Samuel Rarisch
+----------------
+1817
+Johann Christoph Naumann
+Johann Gottfried Eger
+Johann Gottlob Fischer
+Johann Gottfried Damm
+----------------
+1818
+Johann Gottfried Beune
+Johann Gottlob Fleischer
+----------------
+1819
+Johann Gottlieb Zumpe
+Johann Christoph Hennersdorf
+Johann Georg Schröder
+Johann Christoph Hoffmann
+Johann Georg Hermann
