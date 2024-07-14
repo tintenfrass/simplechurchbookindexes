@@ -1,13 +1,14 @@
 Bieberstein (Buch 3)
-Trauungen 1800-1809
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/281005?pageId=38763374
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -230,3 +231,178 @@ Johann Gottlob Palitsch
 Georg Scholze
 Carl Gottlieb Krümmer
 Johann Friedrich Leberecht Köhler
+----------------
+1810
+Carl Gottlieb Richter
+Johann Gotthelf Erler
+Gottlob Friedrich Sparmann
+Johann Samuel Bellmann
+Johann Gottlob Beyer
+Carl Gottlieb Eckelt
+Carl Gottfried Neubert
+----------------
+Gottlob Friedrich Ilgen
+Gotthold Friedrich Scheunert
+Johann Gottlieb Hahnig
+Carl Gottlob Goldammer
+Carl Gottlieb Matthes
+Gottlob Weigelt
+Gotthelf Leberecht Köhler
+----------------
+Gottlieb Ebert
+----------------
+1811
+Johann Gottlieb Leuteritz
+Johann Gottlob Erler
+Gotthelf Leberecht Braune
+Carl Gottlob Kießlich
+Johann Christoph Kurtz
+Gottlieb Friedrich Gretschel
+----------------
+Christlieb Leberecht Böhme
+Carl Gottlob Fritzsche
+Carl Gottlieb Stein
+Johann Christlieb Herfter
+Johann Christian Friedrich Kadner
+Johann Gottfried Frauenstein
+----------------
+Johann Gottlieb Stein
+Johann Gottlob Dalkenberger
+Johann Gottlieb Mühlberg
+Johann Gottlob Batzer
+Johann Christian Köhler
+----------------
+1812
+Carl Gottlob Krätzer
+Johann Andreas Richter
+Johann Georg Thieme
+Johann Gottfried Erler
+Carl Gottlob Caden
+Christian Friedrich Leberecht Dienelt
+Carl Gottlob Weinhold
+----------------
+Carl Gottfried Wüstner
+Johann Carl Gottfried Hermann
+Johann Daniel Scheumann
+Johann Traugott Zärtner
+Carl Friedrich Unger
+----------------
+1813
+Carl Samuel Eckelt
+Gottlieb Abraham Weise
+Johann Samuel Schiffel
+Johann Georg Scheumann
+Carl Gottfried Dietze
+Johann Carl Gottlob Schneider
+Gottlob Friedrich Döbler
+----------------
+Carl Gottlob Leuteritz
+Johann Daniel Leupold
+----------------
+1814
+August Friedrich Büttner
+Johann Gottlieb Krumbiegel
+Johann Gotthelf Lantsch
+Carl Gottlob Bormann
+Carl Gottlieb Ficke
+Carl Gottlieb Rüdiger
+----------------
+Johann Gotthelf Sterl
+Carl Gottlob Weinhold
+Carl Gottlieb Keller
+Traugott Leberecht Krause
+Gottlob Israel Voigt
+Johann Gottlob Friedrich
+Johann Gottlob Weinhold
+Johann Traugott Aurich
+----------------
+Johann Gottlob Friedrich
+Christoph Friedrich Schäfer
+Johann Gottlieb Friedrich Sohr
+Johann Friedrich Thiele
+Friedrich August Vogel
+----------------
+1815
+Carl Gottfried Böhme
+Johann Gotthelf Leonhardt
+Johann August Pfeifer
+Johann Gottfried Leberecht Heydrich
+Martin Gottlob Pinkert
+Carl Friedrich Wolf
+Johann Georg Winterlich
+Carl Gottlieb Lantsch
+----------------
+Johann Gottfried Kreisig
+Gottfried Daniel Haupt
+Johann Gottfried Beger
+Johann Gottlieb Schmidt
+----------------
+1816
+Johann Gottlieb Schüttoff
+Johann Michael Mildner
+Johann Friedrich Voigt
+Carl Gottlieb Döring
+Johann August Findeisen
+Johann Gottfried Mühlberg
+Johann Melchior Kasler
+----------------
+Carl Gottlieb Hackenberger
+Johann Michael Fischer
+Gotthelf Friedrich Goldammer
+Johann August Caden
+Carl Gottlob Caden
+Joseph Friedrich Eilzer
+Johann Gottlob Iltsche
+----------------
+Johann Traugott Richter
+Johann Ernst May
+Carl Friedrich Küttner
+Johann Gottfried Horn
+Carl Gottlieb Lößnitz
+----------------
+1817
+Johann Gotthold Ulbricht
+Carl Gottlieb Starcke
+David Theodor Lobegott Zenker
+Friedrich Lobegott Schubert
+Johann August Mühlberg
+Johann Georg Schulze
+Carl Gottlob Naumann
+----------------
+Johann Daniel Lantsch
+Johann Daniel Leupold
+Johann Carl Gottlob Wolf
+Johann Gottlieb Hantschmann
+Carl Gottlob Helm
+Johann Gottlieb Ficke
+Gottlob Friedrich Ilgen
+Johann Gottlieb Wittig
+----------------
+1818
+Johann Gotthelf Schöne
+Johann Gotthelf Liebmann
+Johann Samuel Schiffel
+Johann Adolph Findeisen
+Johann Christian Hackenberger
+Johann Wilhelm Aurich
+Carl Gottlieb Krümmer
+Traugott Friedrich Busch
+----------------
+Johann Gottfried Ditrich
+Carl Gottlieb Löwe
+----------------
+1819
+Carl Gottlieb Lehnhardt
+Johann Gottlob Kandler
+Johann Gottlieb Backofen
+Samuel Andreas Böhme
+Johann Gottlieb Leberecht Götze
+August Friedrich Unger
+Carl Michael Böhme
+Carl Gottlieb Winterlich
+----------------
+Carl Gottlob Köhler
+August Friedrich Dienelt
+Johann Gottfried Kost
+Wilhelm Friedrich Weinhold
+Carl Gottlob Lantsch

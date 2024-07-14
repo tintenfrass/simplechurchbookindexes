@@ -1,14 +1,15 @@
 Grumbach (Buch 7)
-Trauungen 1792-1809
+Trauungen 1792-1819
 https://www.archion.de/de/viewer/churchRegister/282518?pageId=39024349
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 August 2023
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -410,3 +411,217 @@ Johann Georg Starcke
 Johann David Hauptvogel
 Friedrich August Hoyer
 Johann Georg Irmer
+1810
+Johann Gottlieb Lehmann
+----------------
+Johann Georg Mütterlein
+Carl Gottfried Andrä
+Carl Gottfried Günther
+Johann Gottlob Ditrich
+Johann Gotthelf Wahl
+Johann Christian Kühne
+Carl Friedrich Crönert
+Carl Gottlob Amboßeck
+Johann Gottlieb Steltzer
+Johann Samuel Walther
+Johann Gottlieb Schulze
+----------------
+Johann Gottlieb Seyffert
+Johann Georg Kühn
+Johann Gottlieb Rüdiger
+Johann August Werner
+Johann Gottfried Schuster
+Carl Gottfried Jäckel
+Johann Gottfried Rost
+Johann Friedrich Heyde
+Johann Gottlieb Rülcker
+Johann Gottlob Dönert
+1811
+Johann Gottfried Bader
+----------------
+Johann Christian Ditrich
+Johann Georg Ditrich
+Johann Friedrich Starcke
+Johann Christian Philipp
+Carl Gottlieb Standfuß
+Johann Gottlob Käastner
+Johann Georg Ziegenbalg
+Carl Gottfried Naumann
+Johann Gottfried Berger
+Johann Gottlob Starcke
+Karl Gottlob Kühne
+----------------
+1812
+Johann Christian Leuschner
+Johann Gottlieb Schütze
+Johann Gottlob Kunze //korrigiert
+Joseph Dietze
+Johann Gottfried Büttner
+Johann Gottlieb Götze
+Johann Gottfried Hauptvogel
+Johann Gottlieb Funke
+Johann Gotthelf Büttner
+Johann Gottlieb Bräunert
+Johann Christoph Treppte
+Johann Georg Siede
+----------------
+Johann Gottlob Bormann
+Carl Gottlob Naumann
+Johann August Kühne
+Johann Georg Samuel Schütze
+Johann Christian Köhler
+Johann Samuel Kühne
+Johann Gotthelf Richter
+Christian? Gottlieb Hauptmann //korrigiert
+Johann Christoph Leopold
+----------------
+1813
+Johann Gottfried Büttner
+Johann Georg Schaarschuh
+Johann Gottfried Nitzsche
+Johann Gottfried Horn
+Johann Gottlieb Hermann
+Johann Gottlieb Irmer
+Johann Christian Bruchlitz
+Carl Gottfried Zieger
+----------------
+Gottlob Schiefner
+Johann Georg Richter
+1814
+Carl Gottlob Bretschneider
+Johann Georg Graupitz
+Johann Gottlieb Kühne
+Johann Gottfried Haase
+Joseph Dietze
+Johann Gottfried Höntsch
+Johann Gottlob Kästner
+----------------
+Johann Christoph Leopold
+Johann Andreas Dülßner
+Johann Gottlob Wustlich
+Friedrich Wilhelm Gautsch
+Johann Adolph Kuhnert
+Carl Gottlieb Schütze
+Johann Gottlob Vogel
+Gottlieb Benjamin Horn
+Johann Christian Glöckner
+Johann Gottfried Dachsel
+----------------
+Johann Gottlob Schumann
+Johann Michael Hanns
+Carl Gottlob Roch
+Johann Gottlieb Maul
+Johann Christian Strohbach
+1815
+Johann Gottlieb Naumann
+Johann Gottlieb Begen
+Johann Daniel Döring
+Friedrich Gottlob Demmnitz
+----------------
+Carl Gottlieb Höhle
+Carl Gottlieb Teppt
+Johann Gottlieb Treppt
+Johann Gottlieb Hennig
+Carl Gottlieb Mütterlein
+Johann Christoph Treppt
+Johann Gottlob Hocke?
+Carl Gottlob Zimmermann
+Johann Gottlob Fritzsche
+Carl Gottlieb Maul
+----------------
+Carl Gottlieb Weber
+Carl Gottlieb Goltzsche
+Johann Gottlob Lehmann
+Johann Gottlob Lucius
+Johann Gottfried Simon
+Carl Engelschall
+Johann Christian Röger
+Johann Gottlob Hättenius
+Carl Gottlieb Lützner
+----------------
+August Irmer
+Johann Gottlieb Henker
+Christian Friedrich Ehregott Schlegel
+Johann Gottlieb Traugott Röthig
+Johann Georg Wend
+1816
+Carl? Gottlieb Wagner //korrigiert
+Johann Christian Friedrich Albrecht
+Johann Gottlieb Körner
+Johann Gottlob Schumann
+Johann Gotthelf Kühn
+----------------
+Johann Gottlieb Kleine
+Johann Gottlieb Kurze
+Johann Gottlieb Schmidt
+Christian Irmer
+Johann Gottlob Schumann
+Johann Gottlob Müller
+Johann Gottlieb Eger
+Johann Carl Friedrich Rollbusch
+Johann Gottlieb Nacke
+Johann Gottfried Lange
+Johann Christian Hillmann
+Carl Gottlieb Lucius
+----------------
+Johann Gottfried August Ditrich
+Johann Carl Gottlob Mögel
+Johann Gottlob Schubert
+Johann Traugott Kießlich
+Johann Christian Romberg
+Christian David Streubel
+Carl Friedrich Crönert
+----------------
+1817
+Johann Gottlieb John
+Johann Gottlieb Lützner
+Johann Gottlob Gabriel
+Johann Gottlob Köhler
+Johann? Gottfried Dachsel
+Christian Gottlieb Scheuer
+Johann Christian Kleine
+Christian Gottlob Gündel
+Johann Gottlob Bernhardt
+----------------
+Johann Carl Gottlob Fischer
+Johann Gottfried Ludwig
+1818
+Carl Gottlieb Kobisch
+Johann Gottfried Barth
+Johann Christian Brendel
+Friedrich Gotthelf Amboßeck
+Johann Gotthelf Hauptvogel
+Gottlieb Fritzsche
+----------------
+Johann Gottlob Kirsten
+Johann Carl August Kießlich
+Johann Gottlob Schubert
+Johann Gottlob Nacke
+Johann Gotthelf Ditrich
+Carl? Gottlieb Schumann //korrigiert
+Johann Gottfried Damm
+----------------
+1819
+Johann Gottlieb Lehmann
+Johann Gottfried Roch
+Carl Gottlob Winckler
+Carl Gottlob Lehmann
+Johann Gottfried Weber
+Johann Gotthelf Romberg
+Johann Christian Eger
+Johann Gottlieb Thomas
+Johann Gottlieb August Grünberg
+----------------
+Johann Gottfried Hermann
+Johann Gottlieb Irmer
+Carl Gottlob Pfützner
+Johann Carl Gottfried Reiche
+Johann Friedrich Gottlob Lange
+Johann Gottlieb Küttner
+Johann Gottfried Thiele
+Johann Christian Gottfried Lehmann
+Johann Christian Pätzold
+Johann Christian Eger
+----------------
+Johann Gottlieb Lehmann
+Christian Gottlob Kießlich

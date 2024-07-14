@@ -1,12 +1,9 @@
 Großdobritz (Buch 1)
-Trauungen 1638-1809
+Trauungen 1638-1819
 https://www.archion.de/de/viewer/churchRegister/282509?pageId=39021453
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
-
-Teil 1: Großdobritz
-Teil 2: Marschau
 
 
 Erstellt in ca. 1,5 Stunden
@@ -14,6 +11,7 @@ Januar 2023
 Februar 2023
 Mai 2023
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -737,17 +735,76 @@ Johann Gottlob Zocher
 Johann Christian Tutzsch
 Johann Gottfried Niese
 Johann Gottfried Bahrmann
----------------- x109
-1799
-Johann Gottfried Bärwald
-1800
-1801
-1802
-1803
-1804
-Johann Gottlob Kührig
-1805
-1806
-1807
-1808
-1809
+----------------
+1810
+Johann Gottlieb Krille
+Johann Gottfried Gärtner
+Johann Gottlieb Haase
+Johann Gottlob Niese
+Johann Müller
+Johann Gottlob Wachtel
+Gottfried Eichler
+Johann Gottfried Jedermann
+1811
+Johann Gottfried Zietzschmann
+Johann Gottlob Ranft
+Johann Gottlieb Kretzschmar
+Johann Gottfried Helbig
+Johann Gottfried Hembold
+----------------
+Johann Gotthelf Hörig
+Johann Gottfried Heinrich
+Gottlob Leberecht Gebhard
+Johann Christoph Hermann
+1812
+Johann Christian Richter
+Johann Gottlieb Trobisch
+Samuel Naumann
+Johann Gottlob Haase
+1813
+Johann Gottfried Döring
+Johann Georg Körnigen
+1814
+Johann Gottlob Maye
+----------------
+Johann Gottfried Hollmann
+Christian Andreas Jentsch
+Christian Ludwig August Kirchner
+Johann Gottlieb Bärwald
+Johann Gottlob Niese
+Johann Gottfried Steltzer
+Johann Christoph Gruhne
+Johann Christian Dürichen
+Johann Gottfried August Pinkert
+Johann Traugott Dienß
+1815
+Johann Gottlob Schlechte
+Johann Gottlieb Haupt
+Johann Christoph Grundmann
+Johann Christian Heinrich Fleischer
+----------------
+Gottfried Hertzog
+Johann Gotthelf Trepte
+Johann Gottlob Zocher
+Johann Christlieb Teichmann
+Christian Mantzsch
+Johann Gottlob Angermann
+1816
+Johann Gottlieb Gomlich
+Johann Christoph Walther
+Carl Joseph Schubert
+Johann Gottlob Grütze
+1817
+Johann Gottfried Pfützner
+Johann Gottlob Polenz
+Johann Gottlob Mäser
+----------------
+Johann Gottfried Niese
+Johann Christian Gomlich
+1818
+Johann Gottlob Bahrmann
+Christian Gotthelf Beulig
+1819
+Johann Gottlob Niese
+Johann Gottfried Klunker
+Johann Gottfried Steltzer

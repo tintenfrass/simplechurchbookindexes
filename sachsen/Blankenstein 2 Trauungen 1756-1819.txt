@@ -1,16 +1,17 @@
 Blankenstein (Buch 2)
-Trauungen 1756-1809
+Trauungen 1756-1819
 https://www.archion.de/de/viewer/churchRegister/281020?pageId=38765994
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 2 Stunden
+Erstellt in ca. 2,5 Stunden
 Mai 2023
 Juni 2023
 August 2023
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -587,3 +588,141 @@ Carl Gottlieb Rüdiger //korrigiert
 Johann Adolph Dietze
 Johann Christian Goltzsch
 Johann Gottlieb Uhlmann
+1810
+Johann Gottlieb Lehmann
+Carl Gotthelf Grahl
+Johann Gottlob Schlicke
+----------------
+Christian Gottfried Uhlig
+Johann Georg Böhme
+Johann Georg Sonntag
+Carl Gottlob Wüßner
+Johann Gottfried Schubert
+Carl Gottlob Dietze
+1811
+Johann Gottfried Harich
+Johann Gottlob Seiffert
+----------------
+Johann Gottlob Pötzsch
+Johann Georg Kühne
+Carl Gottfried Mohrig
+Johann Christian Süring
+Johann Gottfried Berger
+Georg Welt
+Carl Friedrich Bellmann
+Johann Gottlob Leumer
+Johann Gottlieb Faust
+Johann Gottfried Fröbe
+----------------
+Johann Carl Gottlieb Ebert
+Johann Gottfried Teichmann
+Johann Carl Gottlob Winckler
+1812
+Johann Georg Stelzner
+Johann Gottlieb Kirsten
+Johann Gottfried Kieslich
+Johann Gottlieb Müller
+Johann Martin Lenz
+----------------
+Johann Adolph Schubert
+Johann Gottlieb Körner
+Johann Christian Borsch
+1813
+Carl Gottlob Böhme
+Johann Gotthelf Kühne
+Johann Gottlob Schmidt
+----------------
+1814
+Carl Gottlob Böhme
+Johann Gottlieb Brendel
+Johann Traugott Schwengler
+Franz Xaver Dautze
+Traugott Ehrenfried Kühne
+Johann Gottlob Schierz
+Carl August Thomas
+Johann Gottlieb Kleber
+Carl Gottlob Ranft
+----------------
+Carl Gottlob Preußer
+Georg Carl Otto
+Johann Gottl? Grellmann
+Johann Gottfried Döring
+Johann Gottlieb Legler
+Johann Gottlob Knaut
+Ernst Gottfried Helbig
+Peter Pöttke
+----------------
+1815
+Johann Christian Fritzsche
+Carl Gotthelf Märker
+Johann Gottfried Ebert
+Johann Gottlob Franze
+Gottfried Heinrich Beuchel
+Johann Gottfried Rappe
+Johann Gottlieb Melzer
+Johann Gottlieb Pötzsch
+Johann Gottlob Birkner
+----------------
+Carl Gottlob Störl
+Carl Gottlieb Philipp
+Johann Gotthelf Rüdiger
+Johann Georg Ditrich
+Johann Gottlieb Schubert
+Johann Gottfried Rost
+Johann Christian Borschdorf
+Johann Gottfried Haubold
+August Birkner
+1816
+Johann Gottlieb Leuschner
+----------------
+Johann Gottlieb Kleber
+Carl Gottfried? Rüdiger //korrigiert
+Carl Gottfried Fehrmann
+Johann Gotthelf Fehrmann
+Johann Gottfried Gauschütz
+Johann Carl Gottlob Kohlsdorf
+Carl Gottlob Teichmann
+Johann Gottfried Henker
+Johann Gottlob Kayser
+Carl Gottlob Johne
+Johann Gotthelf Voigt
+----------------
+Carl Gottlieb Stange
+Gottlob Liebe
+Johann Gottlob Lützner
+1817
+Johann Gottlieb Funke
+Johann Gottlieb Richter
+Johann Gottlob Strohbach
+----------------
+Johann Gottlieb Kade
+Christian Friedrich Pilz
+Johann Gottlob Rose
+1818
+David Richter
+Johann Gotthelf Rantsch
+Johann Gottlieb Fischer
+Karl Friedrich Neubert
+----------------
+Karl Gottlob Zschiederich
+Johann Gottfried Becker
+Johann Gottfried Ehrlich
+Johann Gottlob Ditrich
+Johann Gottlob Opitz
+Johann Gottfried Gaschütz
+1819
+Johann Gottlieb Lehmann
+Carl Christian Heyne
+----------------
+Carl Gottlob Böhme
+Johann Christian Schumann
+Carl Gottlob Crasselt
+Carl Gotthelf Becker
+Carl Gottlob Schubert
+Christian Börner
+Johann Gottfried Diersche
+Johann Georg Scheffler
+----------------
+Carl Gottlob Döring
+Carl Gottlob Preußer
+Friedrich Gottlieb Weigelt

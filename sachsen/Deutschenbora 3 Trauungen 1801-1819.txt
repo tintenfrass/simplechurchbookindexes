@@ -1,12 +1,14 @@
 Deutschenbora (Buch 3)
-Trauungen 1801-1809
+Trauungen 1801-1819
 https://www.archion.de/de/viewer/churchRegister/281068?pageId=38776650
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
+Erstellt in ca. 0,5 Stunden
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -93,3 +95,88 @@ Johann Georg Barthol
 Johann Gottfried Kretzschmer
 ----------------
 Johann Gottfried Ditrich
+1810
+Johann Gottlob May
+Johann Gottfried Uhlich
+Johann Gottfried Ulbrig
+Johann Gottfried Zschoche
+Johann Förster
+Johann Gottlob Wachsmuth
+Johann Gottlieb Ebert
+----------------
+1811
+Gottlob Albrecht
+Johann Gottlieb Hahnefeld
+Johann Gottlieb Ditrich
+Johann August Schäfer
+Johann Gottlob Leuteritz
+----------------
+1812
+Johann Gottlieb Schubert
+Johann Gottfried Achermann
+Johann Gottfried Schröter
+Johann Rudolph Hänsel
+Johann Gottlob Wiegand
+Carl Gottlob Lutzner
+Johann Gottlob Förster
+Johann Gottfried Haubold
+----------------
+Johann Joseph Starcke
+Carl Gottlob Felgner
+1813
+Gottfried Heinrich Graf
+Johann Christoph Thummig
+Johann Gottfried Baum
+Johann Gottlob Schubert
+----------------
+1814
+Johann Gottlob Grannig
+Heinrich Gottlieb Kretzschmar
+Samuel Kühne
+Johann Gottfried Göppert
+Johann Gottlob Hentschel
+Johann Gottfried Döring
+1815
+Gottfried Raul?
+----------------
+Johann Gottlob Barisch
+Carl August Kirchner
+Johann Gottlieb Schubert
+Johann Gottfried Tamm
+Johann Gottlob Wachsmuth
+Johann Gottlob Reymann
+Johann Carl Gottlob Krüger
+----------------
+1816
+Carl Gottlob Walther
+Friedrich Siegmund Vogel
+Johann August Wachs
+Johann Gottlieb Haubold
+Johann Gottlieb Keller
+Johann Gottlieb Winckler
+Gottfried Horn
+Christian Gottfried Höfer
+----------------
+1817
+Johann Gottlob Ranft
+Johann Gottlob Dietze
+Johann Christian Kühne
+Johann Christian Müller
+1818
+Johann David Krumbiegel
+Georg Wolf
+Traugott Leberecht Welschel?
+Johann Gottlob Horn
+Johann Gottfried Mai
+----------------
+Johann Gottlob Vogel
+1819
+Christian Kümmelberg
+Johann Georg Ditrich
+Johann Gottfried Dietze
+Carl Gottfried Liebmann
+Johann Heinrich Traugott Köhler
+Carl August Friedrich Kühlich
+----------------
+Johann Gottfried Hanschmann
+Johann Gottlieb Görnert

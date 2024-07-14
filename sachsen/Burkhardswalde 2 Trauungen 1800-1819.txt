@@ -1,12 +1,14 @@
 Burkhardswalde (Buch 2)
-Trauungen 1800-1809
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/281045?pageId=38771972
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
+Erstellt in ca. 0,5 Stunden
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -154,3 +156,148 @@ Johann Christian Goltzsch
 Johann Gottfried Ditrich
 Johann Gottfried Fischer
 Johann Benjamin Günther
+1810
+Gottlieb Johne
+Johann Carl Gottlieb Becker
+Johann Christian Gottlob Kieslich
+----------------
+August Ferdinand Wackwitz
+Johann Gottlieb Schmiedgen
+Johann Gotthelf Starcke
+Carl Gottlieb Müller
+1811
+Johann Gottlieb Hänsel
+----------------
+Johann Gottlob Börtzsch
+Johann Gottfried Simon
+Johann Gottlob Rietschel
+Johann Georg Zietschmann
+Johann Gottfried Hermann
+Carl Friedrich Steller
+----------------
+Carl Gottlob Poppe
+Johann Gottlob Stange
+Johann Gottfried Leuschner
+Johann Gottlob Menzel
+1812
+Johann Gottfried Heyde
+Johann Gotthelf Hammer
+Johann Gotthelf Eckert
+----------------
+Johann Gottlob Starcke
+Johann Gottlieb Heerklotz
+Johann Christian Netzel
+Johann Christoph Rühle
+Johann Christian Kuntze
+Johann Gottfried Zimmermann
+----------------
+Johann Gottfried Fischer
+Johann Gottlieb Schlicke
+Johann Gotthelf Rosberg
+Johann Georg Tamme
+Johann Gottfried Pönisch
+Gottfried Hänsel
+Johann Traugott Leberecht Leuschner
+----------------
+1813
+Johann Gotthelf Zocher
+Johann Gottlob Heyde
+Carl Gottlob Göpfert
+Christian Gottlieb Kretzschmar
+Johann Wilhelm Dresler
+Johann Christoph Voigt
+----------------
+Johann Gottlob Kobsen
+Carl Gottlob Leonhard
+Johann Gottlieb Lommatzsch
+1814
+Johann Gottlob Scope
+Johann Georg Haschack
+Johann Gottlob Töpper
+----------------
+Johann Gottlob Münch
+Johann Gottlob Steltzer
+Johann August Kippe
+Carl Gottlob Beuchel
+Johann Gottlob Geisler
+Johann Gottfried Schütze
+----------------
+Johann Gotthelf Timmel
+Carl Gottlieb Schönberg
+Johann Gotthelf Zscherper
+Johann Gottfried Riemer
+Carl Gottlob Fischer
+----------------
+Carl Gottlob Rost
+Carl Gottlob Schröder
+Johann Christian Gottfried Kolbe
+Johann Gottlob Sämann
+----------------
+1815
+Johann Gottlob Goldbach
+Johann Christian Fritzsche
+Johann Gottlob Lesch
+Johann Samuel Zennich
+Johann Gottlieb Nake
+----------------
+Gottlieb Hoyer
+Johann Gottlob Barth
+Johann Gottfried Rappe
+Johann Christian Klem
+Johann Gottlob Gaschütz
+Gotthelf Leberecht Geisler
+----------------
+Johann Gottlieb Koch
+Gottlieb König
+Johann Gottlob Geisler
+Carl Gottlieb Dretler
+Johann Gottfried Mau
+Johann Gottlieb Zabelt
+----------------
+Johann Gottlieb Gabrig
+1816
+Johann Georg Tauchert
+Johann Gottfried Gaschütz
+Johann Christian Gotthelf Winckler
+Johann Gottfried Dachsel
+Johann Ultrich Liebel
+----------------
+Johann Carl Gottfried Kretzschmar
+Johann Gotthelf Voigt
+Carl Friedrich Diersche
+Johann Gottlob Zscherper
+Johann Samuel Fritzsche
+Gottfried Mögel
+----------------
+Johann Gottfried Rosberg
+Johann Christian Lehmann
+1817
+Johann Gottlob Becker
+Johann Gottfried Becker
+Johann Georg Sämann
+Johann Gottlob Kippe
+Johann Gottlieb Kitscher
+----------------
+August Friedrich Reh
+Johann Gottlieb Geisler
+Carl August Porsdorf
+1818
+David Richter
+Carl Samuel Lorentz
+----------------
+Johann Gotthelf Götze
+Johann Christian Zschocke
+Carl Gottlob Donat
+1819
+Johann Gottlieb Tamme
+Johann Gottlieb Schantze
+Carl Gottlob Hennig
+----------------
+Johann Gottlieb Zocher
+Johann Georg Schefler
+Johann Gotthelf Hermann
+Johann Gotthelf Hillig
+Johann Christian Netzel
+Christian Friedrich Lange
+----------------
+Carl Friedrich Langenach
