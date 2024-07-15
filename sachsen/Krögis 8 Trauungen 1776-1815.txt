@@ -1,16 +1,17 @@
 Krögis (Buch 8)
-Trauungen 1776-1809
+Trauungen 1776-1815
 https://www.archion.de/de/viewer/churchRegister/282580?pageId=39037878
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stunde
+Erstellt in ca. 2 Stunden
 Mai 2023
 Juni 2023
 August 2023
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -553,3 +554,154 @@ Johann Gottfried Jahn
 Johann Christlieb Junghans
 Johann Gotthelf Rautenstrauch
 Carl Gottlob Roitzsch
+----------------
+1810
+Johann Gottlieb Steude
+Carl Gotthelf Grahl
+Christian Gottlob Weber
+Carl Christoph Fischer
+----------------
+Johann Gottfried Berger
+Johann Franz Hipner
+Johann Gottfried Gühne
+Johann Gottfried Fischer
+Carl Gottlob Humbsch
+----------------
+Johann Traugott Schmidt
+Carl Gottlob Hombsch
+Johann Gottlob Mirisch
+Johann Gottlob Krötzsch
+Johann Gottlieb Zieger
+----------------
+Johann Carl Gottlob Borschdorf
+Johann Gottfried Haufe
+Peter Christoph Wäckwitz
+Christian Metzsch
+Gottlieb Damme
+----------------
+Johann Gottlieb Stubenrauch
+Johann Gottlob Kubasch
+1811
+Johann Gottlieb Geneiß
+----------------
+Friedrich August Vetters
+Johann Gottlob Lutze
+Johann August Parmann
+----------------
+Johann Gottlob Rosencranz
+Johann Gottlob Klem
+Johann Traugott Porschdorf
+Johann Gottlieb Uhlmann
+----------------
+Johann Gottlieb Horn
+Johann David Jensch
+Johann Gotthelf Richter
+Johann Gottlieb Lose
+----------------
+Johann Gottfried Kirstein
+Johann Gottlob Bautzmann
+Carl Gottlob Poppe
+Johann Gottlob Große
+----------------
+Johann Gottfried Kühne
+Johann Gottfried Roitzsch
+----------------
+1812
+Johann Christoph Faust
+Johann Gottlieb Poppe
+Wilhelm Fürchtegott Hermann
+----------------
+Johann Traugott Arnhold
+Johann Gottlob Starcke
+Johann Gottlieb Richter
+Johann Gottlieb Kirstein
+----------------
+Johann Christoph Schmiedgen
+Elias Ranft
+Johann Gottfried Weber
+Johann Gottlieb Lehmann
+----------------
+Johann Traugott Walther
+Johann Gottfried Fichtner
+Johann Gottlob Förster
+Carl Gottlieb Roitzsch
+Johann Gottfried Zabeld
+----------------
+Carl Gottlob Haufe
+Johann Christian Gierisch
+Johann Gottfried Mehner
+----------------
+1813
+Carl Gottlob Tittmann
+Johann Gotthelf Zocher
+Johann Gottlob Seyfert
+----------------
+Johann Christian Gotthelf Faust
+Johann Gottfried Wackwitz
+Johann Gottfried Wagner
+Johann Gottlieb Barth
+----------------
+Johann Christian Leberecht Möser
+Johann Gottlob Kobsch
+Johann Gottlieb Faust
+Carl Friedrich Samuel Gritzner
+----------------
+Johann Gottlob Gühne
+1814
+Johann Christian Mierisch
+Friedrich David Ruppert
+----------------
+Carl Gottlob Junghans
+Johann Gottlob Zschoche
+Johann Gottlieb Hermann
+Johann Gottlieb Mehner
+Johann Gottlieb Wustlich
+----------------
+Johann Carl Gottlob Böhme
+Johann Gottlob Förster
+Johann Gotthelf Gäbisch
+Johann August Kretzschmar
+----------------
+Johann Gottfried Wachsmuth
+Johann Gotthelf Eichhorn
+Johann Carl Heinrich Sommer
+Johann Traugott Pinker
+----------------
+Johann Christian Naumann
+Johann Christian Lutze
+Johann Gotthelf Merker
+Johann Gottfried Müller
+Johann Carl Gottlieb Hamitzsch
+----------------
+Johann Traugott Merkel
+Johann Gottfried Leberecht Steller
+----------------
+1815
+Carl Gottlob Hoffmann
+Johann Christian Carl Gottlieb Thielemann
+Johann Gottlob Borschütz
+----------------
+Johann Gottfried Hahn
+Johann Gottfried Naumann
+Carl Gottlob Granert
+Johann Gottlob Schuster
+----------------
+Johann Gottlieb Gebhard
+Johann Gottlob Busch
+Johann Georg Roßberg
+Johann Carl Gottlob Adam
+----------------
+Christian Leberecht Clauß
+Gottlieb Leberecht Teichmann
+Johann Carl Cornelius Klemm
+Johann Gottfried Mierisch
+----------------
+Johann Gotthelf Möhler
+Carl Gottlieb Clauß
+Christian August Heinrich Horn
+----------------
+Friedrich Alexeis Dazur
+Johann Gottlieb Naumann
+Johann Carl Gottlob Steude
+Carl Gotthelf Hermann
+Christian Gotthelf Kiesling

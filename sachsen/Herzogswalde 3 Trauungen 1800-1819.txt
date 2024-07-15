@@ -1,12 +1,14 @@
 Herzogswalde (Buch 3)
-Trauungen 1800-1809
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/282528?pageId=39025810
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
+Erstellt in ca. 0,5 Stunden
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -141,3 +143,142 @@ Johann Gottfried Donat
 August Friedrich Hoyer
 Johann Christoph Lindner
 Johann Gottlob Adam
+----------------
+1810
+Michael Ganßauge
+Johann Gotthelf Lange //korrigiert
+----------------
+Hildebrand Einsiedel
+Johann Christian Funert
+Johann Christian May
+Johann Georg Käschke
+Johann Gotthelf Ganßauge
+----------------
+Johann Gotthelf Irmer
+Johann Gottlob Ryßel
+Johann Gottlieb Rost
+1811
+Johann Gottlob Hänsel
+Carl Gottfried Mohrig
+Carl Gottlieb Döhnert
+----------------
+Christian Rüdiger
+Johann Gottfried Berger
+Johann Gottlieb Werner
+Johann Gottlieb Sonntag
+1812
+Johann Gottlob Ebert
+Johann Georg Steher
+----------------
+Johann Gottlieb Starcke
+Johann Gotthelf Starcke
+Johann Gottfried Böhme
+Johann Gottlieb Schmohl
+Johann Gottlieb Stange
+Johann Christoph Böhme
+----------------
+Johann Gottlieb Timmel
+Johann Adolph Schubert
+Johann Gottlieb Liezner
+Johann Gotthelf Müller
+Johann Carl Gottlob Kirbach
+----------------
+1813
+Carl Friedrich Ditrich
+Johann Christian Forner
+Johann Friedrich Christian Hubenthal
+Christian Friedrich Günther
+Carl Gottlob Thomas
+Johann Gotthelf Kandler
+----------------
+1814
+Johann Gottlieb Tamm
+Johann Gottlob Winckler
+Carl Gottlob Jäger
+Johann Georg Gottfried Döring
+Johann Gotthelf Timmel
+Johann Gottlob Wüstlich
+Johann Georg Schubert
+----------------
+Johann Adolph Kühnert
+Carl August Fischer
+Johann Gottlob Raphael
+Gotthelf Reif
+Gottlieb Leberecht Müller
+Johann Gottlob Andreä
+Johann Gotthelf Wädler
+----------------
+Johann Gottlieb Pfiezner
+Johann Gottlob Rothe
+Johann Michael Hanns
+1815
+Johann Gottfried Bruchholz
+Johann Gottlieb Naumann
+Johann Gottlieb Böhme
+----------------
+Christian Gottlob Hencker
+Johann Gottlieb Döring
+Gottlieb Hoyer
+Johann Gotthelf Böhme
+Johann Gottlieb Starcke
+Johann Gotthelf Knöbel
+----------------
+Johann Gottlob Johne
+Johann Gottlieb Schmohl
+Carl Gottlob Stirl
+Johann Christian Zschunke
+Johann Gottfried Gabriel
+August Birckner
+Johann Gottlieb Böhme
+Johann Carl Gottlieb Nacke
+----------------
+1816
+Johann Gottlob Rudolph
+Johann Gottlob Winckler
+Carl Gottfried Fritzsche
+Carl Gottlob Teichmann
+Johann Gottlieb Wüstlich
+Carl Gottlob Johne
+----------------
+Johann Georg Rüdiger
+Gottlob Liebe
+1817
+Christian Gottlob Schelfich
+Christian Gottfried Müller
+Gottfried Siegmund Wilhelm König
+----------------
+Carl Gottlieb Knöbel
+Johann Daniel Leipold
+Gottfried Krönert
+Johann Gottlieb Pohle
+Johann Gottlieb Maune
+Johann Gottfried Keller
+----------------
+1818
+Johann Gottlieb Hamann
+Johann Gottlieb Böhme
+Johann Gottlob Jacob Rösig
+Johann Gottlieb Fischer
+Johann Gottlieb Rülker
+Gotthelf Zimmermann
+Carl Gottlieb Ditrich
+----------------
+1819
+Johann Adolph Wachsmuth
+Johann Gottlieb Böhme
+Johann Gottlieb Leberecht Lotze
+Johann Gottlieb Lindig
+Friedrich August Lange
+----------------
+Christian Börner
+Johann Carl Gottlob Seifert
+Johann Gottlieb Küttner
+August Friedrich Simon
+Christian August Rüdiger
+Johann Traugott Müller
+----------------
+Carl Gottfried Beckert
+Adolph Friedrich Ihle
+Christian Jacob Philipp
+Carl Gottlob Damm
+Carl Gottfried Schlicke

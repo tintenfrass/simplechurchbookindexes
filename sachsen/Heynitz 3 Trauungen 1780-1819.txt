@@ -1,5 +1,5 @@
 Heynitz (Buch 3)
-Trauungen 1780-1809
+Trauungen 1780-1819
 https://www.archion.de/de/viewer/churchRegister/282535?pageId=39027344
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -15,10 +15,11 @@ Der Index ist nicht chronologisch sondern entspricht der Reihenfolge im Buch. Es
 -Neuwunschwitz
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Juni 2023
 August 2023
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -116,7 +117,52 @@ Johann Gottlob Kühne
 Carl Gottlieb Thielemann
 Johann Gottlob Sachse
 Johann Gottfried Arnold
----------------- x42
+1810
+Johann Gottlob May
+Christian Gottfried Uhlig
+Georg Fischer
+Karl Gottlieb Naumann
+1811
+Johann Gottfried Simon
+Johann Gottlob Rietschel
+Christian Traugott Opitz
+Gottlieb Hoffmann
+----------------
+1812
+Johann Gotthelf Eckert
+Johann Gottlob Kieslich
+Johann Gotthelf Börner
+Johann Gotthelf Lommatzsch
+Carl Gottlob Conrad
+Johann Gottlieb Krieger
+Johann Gotthelf Steude
+Johann Martin Lenz
+1813
+Johann Samuel Fischer
+Johann Gotthelf Fischer
+----------------
+1814
+Christian Gottlob Simon
+Christian Carl Gottlob Schmiedgen
+Franz Xaver Dautz
+1815
+Johann Gottlieb Gabrig
+Carl Gottlob Gabrig
+1816
+Johann Christian Buchert
+Christian Gottlieb Uhlemann
+1817
+Johann Gottlieb Richter
+Johann Gottlieb Köde
+----------------
+Johann Gottlob Leberecht Gläsche
+1818
+Johann Gottfried Apelt
+Christian Gottlob Opitz
+Carl Gottlieb Naumann
+1819
+Johann Gottlieb Schröter
+---------------- x39
 1781
 Johann Gottlieb Patzig
 1782
@@ -194,7 +240,37 @@ Georg Gaschütz
 Gotthelf Schmiedgen
 1809
 Gottlieb Hahn
----------------- x36
+----------------
+1810
+Gottlob Papert
+Gottlob Höscher
+Gottfried Redling
+1811
+Gottlob Erfurt
+Gottfried Leischner
+1812
+Gottfried Heyde
+Johann Gottfried Ackermann
+Johann Gottlieb Gaschütz
+Carl Gottlob Tutzschky
+Johann Christian Gierisch
+1813
+Christian Gotthelf Pietzsch
+----------------
+Carl Gottlieb Mühlberg
+1814
+Johann Gotthelf Weber
+1815
+Johann Carl Friedrich Hachenberger
+Carl Gottlieb Viertel
+1816
+Johann Gottlob Erfurt
+1817
+Carl Gottlob Schmidt
+Johann Gotthelf Gappisch
+1818
+Johann Gottlob Berger
+---------------- x34
 1781
 Gottlieb Fischer
 Johann Gottfried Franze
@@ -263,7 +339,33 @@ Johann Christoph Wachsmuth
 Johann Gottlieb Leberecht Lotze
 1809
 Christian Gottlob Höltzig
----------------- x33
+1810
+Johann Gottlieb Wachsmuth
+1811
+Johann Gottlieb Horn
+Johann Georg Wachsmuth
+Johann Gottfried Sorge
+Johann Christian Zschuncke
+1813
+Carl Gottlob Tittmann
+Johann Gottlob Ditrich
+1814
+Johann Christian Starcke
+Carl Gottlieb Klunker
+----------------
+Johann August Rüdiger
+1815
+Johann Gotthelf Arnhold
+Johann Gotthelf Naumann
+1816
+Johann Gottfried Dachsel
+Carl Gottlieb Klunker
+1818
+Johann Gotthelf Schütze
+1819
+Johann Gottlob Saupe
+Johann Samuel Sorge
+---------------- x32
 1782
 Johann Georg Döring
 1783
@@ -315,7 +417,35 @@ Gottlieb Scheffler
 1808
 Christian Spargen
 Johann? Gottlieb Kühn
----------------- x19
+1810
+Gottlieb Weinert
+Johann Christoph Barthel
+Johann Gottlieb Arnhold
+1811
+Johann Gottlieb Ditrich
+Johann Gottfried Naumann
+1812
+Johann Gottfried Fischer
+Johann Gottlieb Uhlemann
+Johann Georg Gotthelf Horn
+1813
+Traugott Israel Naumann
+----------------
+Johann Gottlieb Gierisch
+Johann Gottlob Becker
+1814
+Carl Gottlob Richter
+Johann Gottlob Vetter
+Gottlob Siegmund Lindner
+1815
+Johann Gotthelf Panier
+Johann Gottlob Schmidt
+1817
+Carl August Richter
+1819
+Carl Gottlob Richter
+Johann Gottlieb Scheffler
+---------------- x18
 1787
 Hans Georg Schubert
 1792
@@ -332,7 +462,13 @@ Johann Gottlob Faust
 Johann Christian Gottlieb Lange
 1803
 Johann Gottlob Opitz
----------------- x13
+1817
+Johann Gottfried Scheuer
+----------------
+1819
+Johann Gottfried Gierisch
+Johann Gottlieb Döring
+---------------- x12
 1791
 Georg Baum
 Johann Gottfried Lehmann
@@ -354,3 +490,12 @@ Johann Gottlob Möbius
 Johann Gottfried Benedix
 1809
 Johann Heinrich Möbius
+1812
+Johann Gottfried Lehmann
+1813
+Johann Gottfried Baum
+1814
+Johann Gottlieb Kronbiegel
+Johann Christian Kuntzschler
+1818
+Johann Gotthelf Böttger

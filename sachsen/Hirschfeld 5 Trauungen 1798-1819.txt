@@ -1,11 +1,12 @@
 Hirschfeld (Buch 5)
-Trauungen 1798-1809
+Trauungen 1798-1819
 https://www.archion.de/de/viewer/churchRegister/282543?pageId=39029168
 
 
 Erstellt in ca. 0,5 Stunden
 August 2023
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -147,3 +148,106 @@ Johann Gotthelf Leberecht Dierse
 ----------------
 Johann Gottlob Bretschneider
 Christian Friedrich Fischer
+----------------
+1810
+Johann Georg Weinhold
+Carl Lorenz Walther
+Johann Georg Dippmann
+Johann Gottfried Naumann
+----------------
+Gotthelf Friedrich Schmieder
+Johann Gottlob Wachsmuth
+----------------
+1811
+Johann Gotthelf Tamm
+Johann Gottlieb Damm
+Johann Gottlieb Berger
+Johann Georg Wachsmuth
+----------------
+1812
+Johann Heinrich Böhme
+Johann Gottfried Bardt
+Johann Gottlieb Schröder
+Friedrich Traugott Fritzsche
+----------------
+Johann Gottlieb Bäßler
+Johann Gottlob Lützner
+Johann Joseph Starcke
+Johann Gotthelf Roßberg
+----------------
+1813
+Johann Gottfried Altmann
+Johann Gottfried Wagner
+Johann Gottfried Zschoge
+Johann Gottlob Becker
+----------------
+Johann Daniel Leupold
+1814
+Carl Gottlob Kühn
+Johann Friedrich Zeiger
+----------------
+Carl Gottlieb Keller
+Johann Gottfried Jost
+Johann Gottlieb Lutze
+Christian Friedrich Dinndorf
+----------------
+Carl Gottlob Fischer
+Johann Gottlob Johne
+Johann Gottfried Müller
+Johann Christian Jost
+----------------
+Carl Gottlieb Wencke
+1815
+Johann Gottlob Weber
+Johann Gottlob Richter
+----------------
+August Heinrich Richter
+Johann Friedrich August Barthold
+Carl Christian Hennig
+----------------
+Johann Gottlob Schubert
+----------------
+1816
+Johann Gottlob Patzig
+Johann Gottfried Schubert
+Johann Gottlob Weinert
+Johann Gotthelf Damm
+----------------
+Johann Carl Pohl
+Johann Carl Gottlieb Schnee
+Gotthold Benjamin Zweiniger
+Johann Gottlob Zilchner
+----------------
+Johann Gottfried Lützner
+Carl Leberecht Klemm
+Carl Friedrich Dierse
+Johann Gottlieb Johne
+----------------
+Carl Gottlob Lindner
+----------------
+1817
+Carl Friedrich Hummitzsch
+Johann Friedrich Schödel
+Gotthelf Friedrich Schmieder
+Carl Gottfried Schmidt
+Carl Gottlob Krahl
+----------------
+Johann Gottfried Ditrich
+Gottlieb Friedrich Sohr
+----------------
+1818
+Johann Gottlieb Wilsdorf
+Johann Gottlob Döring
+Johann Gottlob Kaiser
+Carl Gottlob Jäpel
+----------------
+Carl Friedrich Gierse?
+Traugott Friedrich Käppler
+Johann Gottfried Ehrlich
+Johann Samuel Scholberg?
+----------------
+1819
+Johann Gottlieb Leberecht Lotzr
+Johann Gottfried Damm
+Johann Gottlieb Damm
+Carl Gottlob Kunath
