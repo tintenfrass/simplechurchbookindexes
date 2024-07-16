@@ -1,13 +1,14 @@
 Meißen Frauenkirche (Buch 27)
-Trauungen 1804-1809
+Trauungen 1804-1811
 https://www.archion.de/de/viewer/churchRegister/282635?pageId=39051500
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -615,3 +616,227 @@ Simon Gottfried Schröder
 ----------------
 Johann August Baumann
 Georg Schönhammer
+----------------
+1810
+Benjamin Gotthold Weiske
+----------------
+Franz Dörfling
+Carl Gottlob Vogel
+----------------
+Jacob Rattel
+Joseph Friedrich Weygang
+----------------
+Carl Gottlieb Liesche
+Johann Gottfried Hohnstein
+----------------
+David Benjamin Weiße
+Johann Gottlieb Richter
+----------------
+Johann Gottlieb Sickert
+Johann Gottlob Bernstein
+----------------
+Johann Christoph Schmidt
+Johann August Gericke
+----------------
+Johann Heinrich Böhme
+Carl Friedrich Gottlieb Merkel
+----------------
+Traugott Ludwig Heinrich Adam
+Carl Gottfried Möser
+----------------
+Carl Gottlieb Clauß
+Johann Christian Gottlieb Göttlich
+----------------
+Leberecht Traugott Köhler
+Friedrich Salomon Pauli
+----------------
+Johann Franz August Belin
+Johann Traugott Jacob
+----------------
+Johann Gottfried Rostig
+Johann Daniel Komm
+----------------
+Georg Gottlieb Züchner
+Johann Gottlieb Grundmann
+----------------
+Johann Gottlieb Schlechte
+Johann Gottlieb Brückner
+----------------
+Friedrich Ehregott Sparmann
+Gottlob Friedrich Seyffert
+----------------
+Friedrich Gottlieb Eilitz
+Fürchtegott Wilhelm Otto
+----------------
+Johann Gottlob Hoffmann
+Gottfried Leberecht Grundmann
+----------------
+Carl Gottlob Krause
+Johann Georg Bege
+----------------
+Adolph Leberecht Lindner
+Friedrich Gottlieb Schmidt
+----------------
+Carl Gottlob Rentzsch
+Johann Gottlob Haußdorf
+----------------
+Johann Gottlieb Winckelmüller
+Johann Gottfried Schurig
+----------------
+Johann Gottlob Böhme
+Johann Friedrich Glaser
+----------------
+Carl August Mühlmann
+Gottlob Wilhelm Naucke
+----------------
+Christian Friedrich Kühnel
+Carl Heinrich Aster
+----------------
+Johann Gottlieb Göpel
+Johann Gottfried Ilgner
+----------------
+Wilhelm Ludwig König
+Johann Gotthelf Seyffert
+----------------
+Gottlob Benjamin Richter
+Friedrich Wilhelm Nagel
+----------------
+Johann Gottlob Vogel
+Christian Gottlob Grundmann
+----------------
+Johann August Richter
+Johann Gottfried Erler
+----------------
+Friedrich August Rahm
+Johann Gottfried Klemm
+----------------
+Johann Gottfried Haase
+Gottfried Schultze
+----------------
+Johann Ernst Klemm
+Gottfried Delling
+----------------
+Johann Gottfried Leonhardt
+Johann Friedrich Heinrich Brunst
+----------------
+Carl August Arndt
+Carl August Günther
+----------------
+Johann Traugott Troischt
+Johann Gottlieb Marcus
+----------------
+Paul Friedrich Wilhelm Thiele
+----------------
+1811
+Johann Gottfried Noche
+Johann Carl August Hempel
+----------------
+Johann Gottlieb Krause
+Carl Gottlob Döring
+----------------
+Johann Gottlob Carl Eliser
+Adolph Heinrich Preißker
+----------------
+Carl Gottfried Nacke
+Johann Christian August Gülle
+----------------
+Heinrich Friedrich Fichtler
+Carl Friedrich August Ditrich
+----------------
+Carl Gottfried Alberti
+Johann Ludwig Dimde
+----------------
+Gotthelf Wendt
+Johann Gottlob Postel
+----------------
+Johann Gottlieb Geitner
+Christian Gottlieb Mäser
+----------------
+Heinrich Eduard Otto
+Paul Reinhard
+----------------
+Johann Friedrich Lindemann
+Johann Gottfried Steuer
+----------------
+August Benjamin Görne
+Johann Gottlieb Grießbach
+----------------
+Johann Christian Barth
+Carl Friedrich Schultze
+----------------
+Johann Gottlieb Köhler
+Johann Georg Pönicker
+----------------
+Johann Gottfried Pfützner
+Johann Christoph Schwartze
+----------------
+Friedrich Samuel Gläntzel
+Johann Ludwig Klein
+----------------
+Gottlieb August Rößner
+Gottlob Dunckel
+----------------
+Carl August Fiedler
+Gottfried Weber
+----------------
+Johann Gottlob Weser
+Johann Gottfried Säurig
+----------------
+Friedrich Wilhelm Rost
+Johann Traugott Döring
+----------------
+Ernst Gottlob Eckhold
+Johann Gottlieb Pöschel
+----------------
+Friedrich Gottlieb Fritzsche
+Johann Carl Böttger
+----------------
+Johann Wollenhaupt
+Johann Gottlieb Thiele
+----------------
+Johann Gottlieb Francke
+Johann Christian Thieme
+----------------
+Johann Andreas Schurich
+Johann Gottlieb Leberecht Zschocke
+----------------
+Carl Heinrich Freyer
+Johann Gottfried Lange
+----------------
+Friedrich Jacob Goldberg
+Johann Gottfried George
+----------------
+Johann Georg Klanck
+Johann David Zeibig
+----------------
+Johann Christian Gotthelf Gommlich
+Samuel Gottfried Hühndorf
+----------------
+Johann Gottfried Baum //korrigiert
+Johann Gottlieb Kießlich
+----------------
+Johann Gotthelf Starcke
+Carl Christlieb Hermann
+----------------
+Christian Friedrich Metzner
+Johann Gottlieb Iltzschner
+----------------
+Johann Gottlob Schierschmidt
+Carl Gottlob Benjamin Marcus
+----------------
+Carl August Gamick
+Johann Gottfried Zocher
+----------------
+Johann Gottfried Korth
+Christian Gottlieb Augustin
+----------------
+Johann Gottfried Hännsgen
+Ernst Friedrich Thiele
+----------------
+Christian Tenny
+Johann Gotthelf Nagel
+----------------
+Johann Carl Gottfried Grellmann
+Johann Gottfried Roitzsch
+----------------
+Johann Andreas Usinger
