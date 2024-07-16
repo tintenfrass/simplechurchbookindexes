@@ -1,14 +1,15 @@
 Lommatzsch (Buch 18)
-Trauungen 1790-1809
+Trauungen 1790-1812
 https://www.archion.de/de/viewer/churchRegister/283130?pageId=39142583
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 2 Stunden
+Erstellt in ca. 2,5 Stunden
 August 2023
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -794,3 +795,175 @@ Christian Gottfried Richter
 Christian Gottlieb Schober
 ----------------
 Johann Gottlob Mehner
+1810
+Johann Gottlob Wolf
+Carl August Scheuffler
+Johann Gottfried Pinkert
+Johann Gottlieb Voigt
+Christian Friedrich Becker
+Johann Christian Greßler
+----------------
+Johann Christian Beulich
+Johann Gottlieb Thielemann
+Dominic Wurm
+Johann Christlieb Meißner
+Christian Gottlieb Zschimmer
+Carl Gottlob Heller
+Johann Christian Böhme
+Carl Friedrich Gautzsch
+----------------
+Christian Gottlob Spreßig
+Johann Gottlob Mann
+Karl Gottlob Ruhland
+Johann Gottlieb Beckert
+Johann Gottfried Hennig
+Johann Gottlieb Pinkert
+Johann Gottlieb Stuhmer
+Johann Christoph Mirsch
+----------------
+Johann Gottlieb Schmidt
+Christian Gotthelf Roch
+Carl Heinrich Arras
+Johann Georg Paulisch
+Johann Gottlob Prater
+Johann Carl Gottlob Leischnig
+Johann Gottlob Schulze
+----------------
+Johann Christian Gottlieb Jäger
+Johann Christian Gottlieb Scheuer
+Johann Gottlob Maune
+Carl Friedrich Klemm?
+Johann Gottlob Schwempel?
+Friedrich Gottlob Wusing
+----------------
+Johann Gottlieb Däberitz
+Christian Gottfried Möbius
+Johann Georg Weber
+Carl Gottlob Zennich
+Johann Karl Friedrich Lange
+Johann Traugott Bersch
+----------------
+Johann Gottlieb Damme
+Johann Gottfried Ditrich
+Carl Gottlob Rentzsch
+Johann Gottlieb Stubenrauch
+1811
+Johann Christoph Leberecht Leonhard
+Johann Gottlob Karl Fleischer
+Johann Gottlob Thomas
+----------------
+Christian Benjamin Liebert
+Johann Gottlieb Frohberg
+Johann Gottlob Glansberg
+Johann Christian Gottlieb Röber
+Johann Gottfried Poitz
+Karl Gottlob Becker
+Carl Friedrich August Ditrich
+----------------
+Heinrich Gottlob Werner
+Christian Gottlieb Komm
+Johann Gottlob Klingner
+Johann Gottlob Weinert
+Johann Gottlob Thielemann
+Johann Christian Liesche
+Johann Gottfried Schubhan
+----------------
+Johann Gottfried Werner
+Christian Gottfried Richter
+Johann Gottfried Junghans
+Johann Gottlob Möbius
+Johann Gottlieb Fleischer
+Johann Gottlob Zimmermann
+----------------
+Johann Christian Möbius
+Johann Gottfried Winckler
+Johann Wölfel
+Johann Christian Schulze
+Johann Gottfried Zabelt
+Johann Gottlieb Richter
+Christian Gottfried Fischer
+----------------
+Johann Erdmann Lehmann
+Christian August Roland
+Christian Gottlob Görler
+Siegmund Gottlieb Klotzsche
+Samuel Gottfried Huhndorf
+Friedrich Wilhelm Knoblauch
+----------------
+Johann Gotthelf Starcke
+Johann Christian Friedlieb Beger
+Franz Joseph Schäudler
+Johann Gottfried Merzdorf
+Christian Gottfried Merzdorf
+Johann Gottlob Fiedler
+----------------
+Gottfried Leberecht Naumann
+Johann Gottfried Schneider
+Christian Gottlob Kühne
+Johann Gottlob Humbsch
+1812
+Carl Gottlob Becker
+Christian Gottlob Kretzschmar
+----------------
+Johann Gotthelf Ranft
+Johann Christian Riemer
+Gottfried Kegel
+Johann Gottlob Müller
+Johann Gotthelf Lindner
+Johann Gottlob Schreiber
+Friedrich Gottlob Arnold
+Christian Friedrich Lantzsch
+----------------
+Johann August Christoph Müller
+Christian Gottlieb Heyde
+Johann Christian Voigt
+Carl Gottlieb Starcke
+Johann Gottfried Kessel
+Gottfried Zobeld
+Johann Gottlob Hempel
+----------------
+Johann Christian Kühne
+Gotthelf Birkner
+Johann Gottlieb Kuntze
+Gotthelf Traugott Seydewitz
+Georg Kochte
+Johann Gottlieb Kürbs
+Johann Gottlieb Wolf
+----------------
+Johann Albrecht Decker
+Johann Gottlob Müller
+Johann Gottfried Ehrlich
+Johann Gottlob Reinhardt
+Friedrich Gotthelf Gautzsch
+Johann Gottfried Preiß
+Johann Gottfried Klingner
+----------------
+Johann Paul Lehmann
+Carl Friedrich Pilz
+Carl Gottlob Weiner
+Johann Gotthelf Höltzig
+Johann Christian Rolle
+Johann Gotthelf Bugge
+Friedrich Gottlob Limbach
+----------------
+Johann Friedrich Gotthelf Zäncker
+Johann Andreas Gersten
+Carl Wilhelm Dörfel
+Johann Carl Gottlob Wolf
+Johann Gottlob Schleising
+Johann Gottlieb Hentschel
+Traugott Ehrenfried Weiner
+----------------
+Christian Gottfried Müller
+Hans Wilhelm Scheufler
+Friedrich Gotthelf Heimbold
+Johann Heinrich Gottlob Gantzsch
+Christian Gottlieb Münch
+Johann Christian Wolf
+Johann Gottlob Becker
+----------------
+Johann Christian Ditrich
+Johann Gottlieb Fellwock
+Johann Christoph Stelzner
+Johann Gottlieb Pfeiffer
+Christian Ehrenfried Gantzsch
