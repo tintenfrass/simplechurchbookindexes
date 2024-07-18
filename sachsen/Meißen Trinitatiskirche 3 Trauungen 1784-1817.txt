@@ -1,14 +1,15 @@
 Meißen Trinitatiskirche (Buch 3)
-Trauungen 1784-1809
+Trauungen 1784-1817
 https://www.archion.de/de/viewer/churchRegister/281153?pageId=38796254
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunden
 Mai 2023
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -263,3 +264,122 @@ Johann Gottlieb Clauß
 ----------------
 Christian Gottlieb Lindner
 Johann Gottfried Münch
+1810
+Johann Gottlieb Zocher
+Johann Christian Klem
+----------------
+Christian Heinrich Jehmlich
+Johann Georg Peißig
+Johann Christian Heinze
+Christian Friedrich Gerstäcker
+Johann Gottfried Haupt
+----------------
+Johann Gottfried Clauß
+Johann Gottlob Hausdorf
+Johann Georg Dähne
+Johann Christian Kunat
+Carl August Mühlmann
+----------------
+Johann Gottlieb Franke
+Johann Gottfried Richter
+Johann Gottfried Rühle
+Johann Gottfried Bode
+----------------
+1811
+Johann Gottfried Beulig
+Johann Gottlob Riemer
+Christian Traugott Dürichen
+Johann Gottfried Schubert
+Johann Gottlieb Adam Jäger
+----------------
+Johann Gottfried Betzhold
+Johann Gottlob Peger
+Johann Christian Trobisch
+Johann Gottlob Hermann
+Johann Gottlieb Münch
+Samuel Mäser
+Johann Gottlieb Beulich
+----------------
+Christian Gottlieb Gnepper
+Johann Gottlieb Kluncker
+Friedrich August VietzthumEgersberg
+----------------
+1812
+Johann Gottlieb Trobisch
+Johann Gottfried Hottewitz
+Johann Gottlieb Lange
+Johann Gottfried Göthe
+----------------
+Johann Gottlob Hempel
+Adam Beulich
+Friedrich August Marlott
+----------------
+Johann Gottlob Beuchel
+Johann Gottfried Grille
+----------------
+1813
+Johann Christian Kluge
+Gottlob Beck
+Johann Gottlieb Weise
+----------------
+1814
+Johann Gottlieb Hermann
+Johann Gottlieb Fiedler
+Johann Gottlob Hebelt
+Johann Gottlob Rühle
+----------------
+Johann Gottfried Preis
+Johann Christian Leuteritz
+Christian Gottlieb Gehre
+----------------
+1815
+Johann Gottlob Hanitzsch
+Christian Baarmann
+----------------
+Johann Friedrich Rahrisch
+Christian Baarmann
+Johann Kirsten
+Johann Christian Hausmann
+----------------
+Johann Gottfried Tenner
+Carl Eduard Schmorl
+Carl Gottlob Naumann
+Johann Gottfried Adam Jäger
+----------------
+Carl Friedrich Traugott Ditrich
+Johann Gottlieb Hebold
+Christoph Starcke
+----------------
+1816
+Johann Carl Gottlob Hüttich
+Johann Gottlob August Reichel
+Carl Gottlob Dieneld
+Johann Friedrich August Lehmann
+----------------
+Clemens Franz Xaver Scherrini
+Johann Gottlob Opitz
+Johann Gottlob Hermann
+----------------
+Johann Gottlob Rüdrich
+Johann Gottlob Jenichen
+Johann Gottlob Koch
+Christian Gottlieb Scheublich
+Johann Christoph Jacob
+----------------
+1817
+Johann Traugott Richter
+Christian Gottlieb Reger
+Johann Traugott Markus
+Johann Gottlob Umlauft
+Christian Gottlieb Siegel
+----------------
+Johann Gottfried Dorn
+Johann Gotthelf Beuchel
+Johann Friedrich Kraft
+Johann Gottfried Münch
+----------------
+Johann Gottlieb Güldner
+Johann Gotthelf Dürichen
+Christian Traugott Plötz
+Johann Gottfried Bellmann
+Johann Samuel Rühle

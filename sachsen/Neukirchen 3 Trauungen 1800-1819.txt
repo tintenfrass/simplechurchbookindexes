@@ -1,5 +1,5 @@
 Neukirchen (Buch 3)
-Trauungen 1800-1809
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/283198?pageId=39156722
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Erstellt in ca. 0,5 Stunden
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -150,3 +151,143 @@ Johann Gotthelf Pinkert
 Ernst Leopold Zeugfang
 Johann Gottfried Mühlberg
 Johann Gottlob? Schubert
+----------------
+1810
+Johann Friedrich Heiße
+Johann August Heyde
+Friedrich August Otto
+Christian Gottlob Weisbach
+----------------
+Johann Gottlieb John
+Johann Gottfried Böhme
+Johann Carl  Gottlieb Naumann
+Johann G? Philipp
+----------------
+1811
+Carl Gottlieb Damme
+Friedrich Traugott Vetter
+Johann Traugott Haßbecher
+Carl Gottlob Leuschner
+----------------
+Johann Gottlieb Sonntag
+Gottlob Schubert
+Johann Gottfried Reinhard
+Johann Gottfried Teichmann
+----------------
+1812
+Johann Gottfried Stelzer
+Johann Jacob Schubert
+Johann Gottlieb Pinkert
+Carl Christian Reichel?
+----------------
+Carl August Kandler
+Johann August Böhme
+Johann Gottlob Giesmann
+Johann Gottfried Dachsel
+----------------
+Johann Gottfried Franke
+Johann Gottlieb Leuchert
+Johann Christian? Borsdorf
+Johann Georg Schirmer
+----------------
+1813
+Johann Gottlob Pfütze
+Franz Joseph Lösel
+Johann Gottfried Trautmann
+Johann Christoph Voigt
+Carl Gottlob Heyme
+----------------
+Johann Traugott Molker
+Carl Gottlob Scheumann
+Johann Gottlieb Gießner
+1814
+Johann Carl Gottlob Hagenberger
+Carl Gottlob Heide
+----------------
+Carl Gottlieb Geißler
+Johann Gottlieb Fehrmann
+Johann Gottlieb Ebert
+Johann Michael Kühne
+Gottlieb Christian Friedrich Deßauer
+----------------
+Carl Gottlieb Richter
+Johann Gottlieb Lotze
+Johann Christian Sparmann
+Johann Gottlob Teichmann
+Johann Christian Sparmann
+Johann Gottlieb Rost
+----------------
+Johann Gottlob Rotzsch
+1815
+Carl? Gotthelf Reichelt //korrigiert
+Johann Gottlieb Küchenmeister
+Johann Christian Carl
+----------------
+Johann Gottfried Johne
+Carl August Döring
+Johann Gottlob Fritzsche
+Johann Gottlob Schumann
+Johann Gottfried Rost
+Carl Gottlieb Hase
+----------------
+Johann Gottlob Lucius
+Martin Gottlob Pinkert
+Johann Gottfried Gabriel
+Carl Traugott Hoffmann
+----------------
+Johann Gottfried Günther
+1816
+Carl Gottlieb Rüdiger
+Johann Gottfried Hermsdorf
+Johann Gottfried Beuchel
+----------------
+Johann Gottlob Naumann
+Johann Christian Börner
+Johann Gottfried Thiemig
+Georg Pisch
+Johann Gottfried Dachsel
+----------------
+Johann Gottlob Kaiser
+Johann Gottlob Müller
+Johann Gottlob Reinhard
+Carl Gotthelf Günther
+Carl Gottlieb Lucius
+Johann August Rost
+----------------
+Johann Gottfried Lützner
+Friedrich Fürchtegott Fischer
+Johann Gottlob Kirbach
+Johann Gotthelf Fehrmann
+1817
+Johann Gottfried Damme
+Johann Gottlieb Johne
+----------------
+Johann Gottlieb Eckelt
+Johann Gottfried Ranft
+Johann Gottlob Dietze
+Johann Christfried Kirsten
+Carl August Richter
+----------------
+1818
+Johann Gotthelf Rantsch
+Johann Gottlieb Heide
+Johann Gottlob Gießner
+Johann August Schubert
+Johann Gottlieb Gießner
+Johann Gotthelf Ditrich
+----------------
+Johann Gottlieb Ditrich
+1819
+Johann Gottlob Just
+Johann Friedrich Heinrich Wachtler
+Johann Gottlieb Leberecht Lotze
+Johann Gottlieb Klengel
+----------------
+Johann Gottlieb Leberecht Krüger
+Johann Gottfried Dietze
+Johann Gottfried Just
+Friedrich August Schoppe
+Johann Gottlob Grellmann
+Carl Gottlieb Gebauer
+----------------
+Friedrich August Hörig
