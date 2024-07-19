@@ -1,12 +1,14 @@
 Reinsberg (Buch 2)
-Trauungen 1800-1809
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/289497?pageId=40272581
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
+Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -129,4 +131,112 @@ Johann Gotthelf Eckert
 ----------------
 Carl Gottlieb Leopold
 Johann Gottlieb Krüger
-Johann Gottlob Tutzmann?
+Johann Gottlob Butzmann?
+1810
+Johann Gottfried Hennig
+Johann Gottlob Hennick?
+Gottfried Mann
+Johann Gotthelf Fischer
+Johann August Damm
+----------------
+Johann Gottlieb Löwe
+Johann Gottlieb Rosenbaum
+Johann Christian Rudolph
+Gotthelf Birkcner
+Gottlieb Götze
+Johann Wendelius? Löwe
+Johann Carl Gottlob Rosch
+Carl Friedrich August Techenbrecher?
+Johann Gotthelf Leberecht Schmiedgen?
+----------------
+Johann Gottlob Lotze
+1811
+Johann Gottfried Haarig
+Carl? Gottlob Starcke
+Carl Gottlieb Harzbecker
+Johann Gottlob Naumann
+Johann Christian Leberecht Fischer
+Gotthelf Leberecht Jochen?
+Johann Carl Gottlob Wollus
+----------------
+1812
+Gotthelf Z?
+Carl Gottlieb Dachsel?
+Johann Gottlieb Schubert
+Christian Friedrich Leberecht Dienelt
+Johann Gottfried Dachsel
+1813
+Johann Christian Lehmann
+Johann Gottlob Leupold
+Johann Gottfried Altmann
+----------------
+Gotthelf Birckner
+Johann Gottlob Steude
+Johann Gottlieb Z?
+Johann Daniel Leupold?
+Johann Gottlob Klinkiz?
+Johann August Grünberg
+1814
+Johann Gottlieb Sterl?
+Carl Gottlob Limbach
+----------------
+Johann Gottlob Kügel
+Johann Christoph Backofen
+Johann Reinhard Ringel?
+Johann Gottlieb Scheumann?
+Johann Gottlieb Bellmann
+Heinrich August Wolf
+Johann Gottlob Sparmann
+Johann Friedrich Thiele
+----------------
+1815
+Johann Gottlieb Böhme
+Friedrich Küchenmeister
+August Heinrich Richter
+Carl Friedrich Bernhard
+Carl Gottlieb Reinhard
+Johann Gottlieb Köhler
+Johann Gottlieb Schmol
+Johann Friedrich August Bertold?
+Johann Gottfried tsch?
+----------------
+1816
+Carl Gottlob Henckel
+Johann Christian Heine
+Johann Gottlieb Batliz?
+Christian Friedrich Berthold
+Johann Gottlob Rudolph
+Carl August Steiger
+Johann Gottlieb Günther
+Johann Gottlieb Iltsche
+Johann Friedrich? Benedorf?
+Johann Gottlob Leberecht Damm
+----------------
+1817
+Johann Gottlieb Funcke
+Carl August Damm
+Friedrich Wilhelm Schröter
+Carl Gottlieb Tetart?
+Carl Gottlob Grahl
+1818
+Gottlieb Ehregott Fischer
+Johann Heinrich Kunatt
+Carl Friedrich Christoph Schönberg
+----------------
+Johann Gottlieb Starcke
+Johann Traugott Raschke
+Johann Gottfried Döring
+1819
+Carl August Damm
+Johann Gottlob Kandler
+Carl Gottlieb Ryßel
+Johann Gottfried Riedel
+Johann Carl Gottlob Vetter
+Johann Gotthelf Borsberg?
+----------------
+Carl Gottlob Stenzel
+Johann Gotthelf Ficke
+Johann Carl Friedrich Teuchert
+Johann Traugott Damm
+Gottlob Friedrich Steinbock
+Samuel Gottlob Flade

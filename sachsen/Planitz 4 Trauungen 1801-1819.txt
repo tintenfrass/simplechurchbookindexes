@@ -1,12 +1,14 @@
 Planitz (Buch 4)
-Trauungen 1801-1809
+Trauungen 1801-1819
 https://www.archion.de/de/viewer/churchRegister/289474?pageId=40226145
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
+Erstellt in ca. 0,5 Stunden
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -150,3 +152,124 @@ Johann Gottlob Hönich?
 Johann Christoph Lindner
 Johann Gottfried Hebestreit
 Johann Gottlob Sorge
+----------------
+1810
+Johann Gottlieb Roßberg
+Johann Georg Gast
+Johann Christian Rost
+Karl Gottlob Klemm
+----------------
+Gotthelf Fürchtegott Höger
+Christoph Wilhelm Schumann
+Christian Gottlieb Funke
+----------------
+Johann Gottlieb Leonhardt
+Johann Gottlob Erler
+Johann Gottlieb Knaut
+Johann Gottfried Starcke
+----------------
+1811
+Johann Gottlob Klemm
+Christian Wilhelm Schröter
+Johann Gotthelf Zabelt
+Johann Gottlieb Lößner
+----------------
+Johann Gottlieb Loose
+Johann Gottfried Rost
+Johann Gottfried Zschäbitz
+----------------
+Friedrich August Tanneberger
+Karl Gotthelf Öhmigen
+----------------
+1812
+Johann Gottlob Burckhart
+Christian Gottlob Wolf
+Johann Gottlob Schubert
+----------------
+Johann Nicol Oby
+Johann Gotthelf Starcke
+Johann Christian Thierbach
+Johann Traugott Walther
+----------------
+Johann Gottfried Kirstein
+Johann Karl Gottlob Lehmann
+Johann Gottlieb Fellwock
+Johann Gottfried Zieger
+----------------
+1813
+Johann Gottlob Ditrich
+Karl Gotthelf Goldammer
+Christian Adolph Leberecht Steiger
+----------------
+Karl Friedrich Samuel Krützner
+Johann Gottlob Hanzschmann
+----------------
+1814
+Johann Christian Gottlieb Rentzsch
+Johann Gotthelf Weinert
+Johann Gottlieb Rost
+----------------
+Christian Gottlieb Schalig
+Johann Gottfried Fisse
+Christoph Kutsche
+----------------
+1815
+Johann Gottfried Kühne
+Johann Gottlieb Harnisch
+Johann Gotthelf Görne
+Christian Wilhelm Harzbecker
+----------------
+Johann Gottlieb Becker
+Gottlob Friedrich Kurt
+Johann Gottlieb Zieger
+Johann Gottfried Conrad
+----------------
+Johann Gottlieb Risse
+Christian Wilhelm Schumann
+Karl Gottlob Lange
+Johann Gottlob Korn
+----------------
+Johann Traugott Ganßauge
+1816
+Johann Michael Mildner
+Johann Christian Friedrich Horn
+----------------
+Gottlob Friedrich Leberecht Martin
+Johann Gottlob Vogel
+Christian Gottfried Görne
+----------------
+Christian Gottfried Reinhardt
+Johann Gottfried Mende
+Karl Gottlob Adam
+----------------
+1817
+Johann Gotthelf Rost
+Johann Hauschting
+Johann Gottfried Gottschalld
+Johann Gottlieb Heinze
+----------------
+Johann Gottfried Winckler
+1818
+Johann Gottfried Lehmann
+----------------
+Johann Gottlieb Jänigen
+Johann Karl August Schröter
+Christian Gottlieb Hummel
+----------------
+Johann Gottlieb Reinhardt
+Johann Gottlieb Gühne
+Johann Christian Gottlieb Krauspe
+----------------
+Karl Gottlob Clauß
+Johann Gottlob Vogel
+Friedrich August Rudolph
+----------------
+1819
+Johann Gottlob Kleibe
+Gottlieb Traugott Schulze
+Johann Gottlieb Barth
+Johann Gottlieb Wittig
+----------------
+Karl Gottlieb Nestler
+Georg Christoph Reitzenstein
+Johann Gottlieb Golde

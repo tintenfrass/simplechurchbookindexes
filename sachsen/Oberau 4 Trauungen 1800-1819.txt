@@ -1,5 +1,5 @@
 Oberau (Buch 4)
-Trauungen 1800-1809
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/289461?pageId=40223208
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -7,6 +7,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -83,3 +84,72 @@ Karl August Wilhelm Täger
 Johann Gottfried Bischof
 Johann Gottfried Stephan
 Johann Christian Schramm
+1810
+Johann Christian Baarmann
+Johann Gottfried Pottig
+Johann Gottfried Haupt
+----------------
+Johann Gottlob Richter
+1811
+Johann Christian Milde
+Johann Christian Zätzsch
+Johann Gottfried Hempold
+Johann Christlieb Niese
+Johann Christian Rühle
+1812
+Johann Gottlob Heller
+----------------
+Christian Friedrich Täger?
+Samuel Mügel
+Johann Gottlob Starcke
+Johann Christian Schlechte
+Johann Drache
+Johann Gottlob Müller
+Johann Gottfried Mäser
+----------------
+1813
+Johann Gottlob Rühle
+Johann Gottlieb Teichmann
+Johann Gottfried Rühle
+Johann Christian Starcke
+Johann Christian Richter
+----------------
+1814
+Johann Traugott Andrich
+Johann Christian Hase
+Johann Georg Pörner
+Johann Gottfried Grimmer
+----------------
+1815
+Christian Barmann
+Johann Gottfried Rendler
+Johann Christian Schade
+Samuel Scheublich
+Johann Christian Rüle
+Johann Christian Thieme
+Johann Gottfried Wendisch
+----------------
+1816
+Johann Gottfried Luther
+Michael Rorz?
+Johann Daniel Sohr
+Georg Hennig
+Johann Christian Kunze
+Johann Gottfried Hausmann
+Johann Gottlob Müller
+Johann Gottlob Walther
+----------------
+1817
+Johann Gottlieb Pötschke
+Johann Christian Johne
+Johann Gottlob Marx
+1818
+Carl August Füszer?
+Johann Gotthelf Rentsch
+----------------
+1819
+Johann Gottfried Rothe
+Johann Gottfried Ockert
+Johann Gottfried Müller
+Georg Franz
+Johann Gottlob Köhler

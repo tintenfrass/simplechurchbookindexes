@@ -1,15 +1,16 @@
 Röhrsdorf bei Wilsdruff (Buch 3)
-Trauungen 1782-1809
+Trauungen 1782-1819
 https://www.archion.de/de/viewer/churchRegister/289500?pageId=40231899
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunde
 Juni 2023
 August 2023
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -322,3 +323,149 @@ Johann Gottfried Fischer
 Johann Gottfried Donat
 Johann Georg Palisch
 Johann Georg Schumann
+----------------
+1810
+Johann Christoph Finke?
+Johann Georg Simon
+Gottfried Löwe
+Carl? Friedrich Gottschalck
+Johann Gottlob Klotz
+Johann Gottlieb Steltzer
+----------------
+Johann Georg Sonntag
+Christian Friedrich Andrä
+Johann Gotthelf Grosche
+Johann Gottlieb Traugott Die?
+Johann Carl Gottlieb Zschoche
+----------------
+Christian Gottfried Wünschmann
+Johann Carl Gottlob Huhle
+----------------
+1811
+Johann Gottfried Kluge
+Johann Friedrich Carl Dietze
+Johann Gottlob Fichtner
+Johann Gottlob Rosenkrantz
+Johann Gottfried Reuter
+----------------
+Johann Gottlob Simon
+Johann Wendler
+Johann Gottlieb Faust
+Johann Gottlob Pietzsch
+Friedrich Gottlob Tögel
+----------------
+1812
+Johann Gottfried Goldbach
+? Pötschke
+Johann Gottlieb Burckhart
+Johann Gottfried Naumann
+Johann Christian Zschech
+Johann Gottlieb Poppe
+----------------
+Gotthold Traugott Kuppe
+Johann August Pietzsch
+Johann Gottlob Sohrmann
+Johann Gottlieb Lehmann
+Johann Gotthelf Meißner
+Carl Gottlob Tamme
+----------------
+Johann Georg Tamme
+Johann Gottlob Gehrold
+----------------
+1813
+Johann Gottlieb Ludwig
+Johann Gottfried Weber
+Gotthelf Engelmann
+Johann Gottlieb Mercker
+Johann Friedrich Christian Hübenthal
+----------------
+Johann Gottfried Starcke
+Gottfried Petrich
+Johann Gottlob Steltzer
+Johann Georg Gießmann
+Christian Seiffert
+----------------
+1814
+Johann Gottlieb Füßler
+Johann Gottlob Grötzsch
+Johann Gottlob Thieme
+Johann Gottlob Gießmann
+Johann Gottfried Simon
+Johann Gottlob Georgiuß
+----------------
+Carl Gotthold Tamme
+Gottlieb Pietzsch
+Johann Gottfried Schönhalß
+Johann Gottlieb Ruschig
+Johann Gottlob Raphael
+----------------
+Johann Gottlieb Jenzsch
+Johann Gottfried Wittig
+Johann Gottfried Wagner
+Carl Gottlob Pietzsch
+----------------
+Johann Gottfried Schumann
+Johann Georg Simon
+----------------
+1815
+Johann Gottlob Goldbach
+Johann Traugott Rautenstrauch
+Johann Gottfried Bruchloß //Bruchholz
+Johann Gottlieb Fichtner
+Johann Gottlieb Döhring
+----------------
+Johann Christian Zschech
+Johann Gottlob Schubert
+Johann Gottfried Kahnert
+Carl Gottlob Bormann
+Johann Gottlieb Heinrich
+----------------
+Carl Gotthelf Adam
+Johann Gottlieb Gießmann
+Johann Gottfried Wetsching
+Johann Gottlieb Ranft
+----------------
+1816
+Carl Gottlob Kippe
+Andreas Zieschan
+Christian Liselt
+Johann Gottlob Gottschalck
+Johann Gottlieb Burckhart
+----------------
+Johann Gottfried Gottschalck
+----------------
+1817
+Johann Gottlob Bruchloß //Bruchholz
+Johann Gottfried Kahnert
+Johann Gotthelf Weber
+Johann Christian Gottfried Krüger
+Johann Georg Lehmann
+----------------
+Johann Gottlob Scherf
+Andreas Röder
+Johann Gottlieb Fischer
+Friedrich Wilhelm Geßner
+Johann Georg Fischer
+----------------
+1818
+Johann Gottlieb Philipp
+Johann Gottlieb Dreßler
+Johann Gottfried Weber
+Johann August Simon
+Johann Gottlieb Wagner
+----------------
+Johann Gottlieb Starcke
+Johann Gottlieb Flemming
+Johann Gottfried Burckhart
+----------------
+1819
+Christian Kümmelberger
+Friedrich Preißker
+Johann Gottlieb August Grünberg
+Johann Christian Gottlob Fleischer
+Carl Gottlieb Bruchlos //Bruchholz
+Carl Gottlob Krauße
+----------------
+Johann Gottlieb Gehrold
+Johann August Gießmann
+Georg Friedrich Sohrmann

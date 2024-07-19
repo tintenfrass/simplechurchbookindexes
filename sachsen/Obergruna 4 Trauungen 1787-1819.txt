@@ -1,14 +1,15 @@
 Obergruna (Buch 4)
-Trauungen 1787-1809
+Trauungen 1787-1819
 https://www.archion.de/de/viewer/churchRegister/289468?pageId=40224865
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 September 2023
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -282,3 +283,150 @@ Johann Samuel Zimmermann
 ----------------
 Karl Gottlob Krümmer
 Johann Gottlob Bretschneider
+1810
+Johann Gotthelf Kunze
+Karl Samuel Weise
+Gottlob Friedrich Spaarmann
+Christoph Naumann
+Karl Gottlieb Böhme
+----------------
+Karl Gottlob Bachmann
+Johann Karl Gottlob Lommatzsch
+Johann Gotthelf Birkner
+Karl Gottlob Lantsch
+Johann Gottfried Wolf
+Johann Christian Brendel
+----------------
+1811
+Johann Gottlob Erler
+Johann Gottfried Weise
+Johann Gottlob Jahne
+Karl Gottfried Wagner
+Karl Gottlieb Stein
+Johann Borsdorf
+----------------
+Johann Samuel Krumbiegel
+Karl Gottlob Donat
+Johann Christian Friedrich Kadner
+Johann Christian Franz
+Karl Traugott Sterl
+Karl Gottfried Ufer
+----------------
+Johann Gottlob Talkenberger
+Johann Gottlieb Pietzsch
+Karl Gottlob Kühnel
+Johann Gottfried Hallfart
+Karl Friedrich Dietze
+----------------
+1812
+Johann Michael Hoffmann
+Johann Traugott Zschumler
+Johann Gottlob Beyer
+Johann Gotthelf Wolf
+Johann Gottfried Seidel
+----------------
+Christian Gottlob Lentsch
+Johann Gotthelf Moritz
+Karl Friedrich May
+Johann Karl Gottlieb Fleischer
+----------------
+1813
+Johann Christian Fehrmann
+Johann Gottlob Kraut
+Johann Daniel Straube
+Karl Benjamin Löwe
+Johann Gottlob Mietsch
+Karl Gottlob Paul
+----------------
+August Friedrich Klaußnitzer
+Johann? Karl Gottlieb Weigold
+1814
+Karl Gotthelf Peuckert
+Karl Gottlob Ringler
+----------------
+Johann Gottlieb Geißler
+Karl Gottlob Kretzschmar
+Johann Gottlieb Böhme
+Ernst Gottlieb Bachmann
+Karl Gottlob Frenzel
+Johann August Seigert
+Johann Gotthelf August Nestler
+----------------
+Johann Heinrich Hermann
+Traugott Leberecht Löwe
+Johann Gottlob Weinhold
+Karl Gottfried Plattner
+Johann Daniel Straube
+----------------
+Gottlob Friedrich Spahrmann
+Gotthelf Friedrich Berger
+Johann Christian Simon
+Friedrich Wilhelm Mahler?
+1815
+Johann Gottfried Schäfer
+Johann Samuel Zimmermann
+Johann Gotthelf Peuckert
+----------------
+Johann Israel Beyer
+Johann Karl Gottlob Bachmann
+Johann Gottfried Imhof
+Johann Gottlieb Illgen
+Johann Gottlob Schubert
+Traugott Friedrich Matthes
+----------------
+Daniel Gottfried Fickert
+1816
+Friedrich Gottlob Andre
+Johann Gottlieb Hoffmann
+Johann Christian Richter
+----------------
+Karl Friedrich Kehrbach
+Johann Salomon Weise
+Gottlob Liebe
+August Wilhelm Erfurth
+Johann Gottlieb Bachmann
+----------------
+Herrmann Jacob Zerras
+Johann Christian Peuckert
+Johann Ernst May
+Johann Leberecht Schödel
+----------------
+1817
+Karl Johann Friedrich Schödel
+Johann Traugott Hallfarth
+Karl Gottlob Bohnefeld
+Johann Daniel Lantsch
+Johann Gottlob Barmann
+Johann Gottlob Kadner
+----------------
+Johann Christian Thümmel
+Johann Gottlob Schmidt
+Johann August Pötsch
+Johann Michael Schmidt
+Johann Gottlob Straube
+Johann Georg Ebert
+----------------
+Johann Gottlieb Spahrmann
+Johann Karl Gottlob Gebhard
+1818
+Karl Gottlieb Hammermüller
+Johann Gottfried Donat
+----------------
+August Karl Friedrich Walther
+Karl Friedrich Ludwig Straube
+Karl Gottfried Steyer
+Johann Traugott Leberecht Schlick
+Johann Gottlieb Schlechte
+Johann Gottlieb Reinhard
+----------------
+Karl Friedrich Tittmann
+Johann Karl Tittschendorf
+1819
+Johann Gottlob Heine
+Johann Gottfried Salomon Imhof
+Johann Karl Gottlob Eckold
+----------------
+Karl Friedrich Barthold
+Karl Gottlob Paul
+Johann Gottfried Häußner
+Karl Gottlieb Schlick

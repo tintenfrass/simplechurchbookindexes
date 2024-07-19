@@ -1,5 +1,5 @@
 Rothschönberg (Buch 3)
-Trauungen 1801-1809
+Trauungen 1801-1819
 https://www.archion.de/de/viewer/churchRegister/289506?pageId=40233324
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -7,6 +7,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -64,3 +65,64 @@ Carl August Kretzschmer
 Johann Gottlob Möbius
 Johann Christian Prasch
 Johann Gottfried Prasch
+1810
+Johann Gottlieb Tzschope
+Johann Gottlob Berge
+Johann Gottlob Beuchel
+Carl Gottlob Kohl
+Christian Traugott Tauscher
+Johann Gottfried Schubert
+1811
+Johann Gottlob Hachenberger
+----------------
+Johann Christoph Hammer
+Johann Christoph Großmann
+Johann Gottfried Hermann
+1812
+Gotthelf Hoffmann
+Johann Christian Netzel
+Gottlob Ebert
+1813
+Traugott Israel Naumann
+Johann Gottlieb Fritzsche
+Johann Gottfried Steude
+Johann Gottlieb Zschoge
+----------------
+1814
+Johann Gottlob Weichold
+Johann Gottlob Töpper
+Johann Gottlieb Hammer
+Johann Christoph Ellger
+1815
+Johann Gotthelf Friedrich
+Johann Gotthelf Kolbe
+Carl Gotthelf Conrad
+Johann Gottlob Porschütz
+Christian Wilhelm Harzbecker
+Johann Traugott Lauteley?
+----------------
+Christian Heinrich Clauß
+1816
+Johann August Johne
+Carl Gotthelf Schützel
+Johann Gottlob Vogel
+Carl August Steiger
+Johann Gottlob Rösiger
+Carl Gottlieb Stange
+Johann Gottlieb Rothenburg
+Johann Gottlob Henschel
+Carl Friedrich Küttner
+----------------
+1817
+Johann Gotthelf Arnhold
+Heinrich August Schneider
+Johann Gottfried Kretzschmar
+Carl August Porsdorf
+1818
+Johann Gottlob Schützel
+Friedrich Hempel
+Carl Gotthelf Conrad
+----------------
+1819
+Gottlieb Heinrich
+Carl August Hauptmann
