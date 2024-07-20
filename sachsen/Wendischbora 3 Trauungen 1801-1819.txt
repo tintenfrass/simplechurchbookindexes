@@ -1,5 +1,5 @@
 Wendischbora (Buch 3)
-Trauungen 1801-1809
+Trauungen 1801-1819
 https://www.archion.de/de/viewer/churchRegister/289653?pageId=40262133
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -7,6 +7,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -109,3 +110,89 @@ Carl Gottlob Schröter
 Johann Michael Ritter
 ----------------
 Carl Christian Knöfel
+1810
+Johann Gottfried Zschoche
+Johann Gottlieb Riemer
+Johann Gottlob Wackwitz
+Johann Gottlieb John
+Friedrich Gottlob Hennig
+----------------
+1811
+Carl Gottlieb Hassbecher
+Johann Gottlieb Horn
+Johann Christian Zschunke
+1812
+Johann Carl Gottfried Eckelmann
+----------------
+Johann Gottfried Bardts?
+Johann Gottlob Günther
+Johann Gotthelf Görne
+Johann Rudolph Hänsel
+Johann Gottfried Borsdorf
+Christian Gottfried Borsdorf
+----------------
+Johann Gottfried Lehmann
+Johann Gottlieb Uhlmann
+Johann Gottlob Fischer
+----------------
+1813
+Johann Gottlob Ditrich
+Carl Gottfried Dietze
+Johann Gottlieb Barth
+August Friedrich Heinrich Röder
+----------------
+1814
+Carl Gottlob Döring
+Johann Gottlob Wittig
+Johann Gotthelf Lindner
+Johann Gotthelf Starcke
+----------------
+Johann Gottlob Schulze
+Johann Gottlob Opitz
+Johann Gottlob Stange
+Johann Gottlob Naumann
+----------------
+Johann Gotthelf Zscherper
+Johann Gottfried Marx
+Johann Gottlob Herzbecker
+Johann Gottlob Stephan
+----------------
+Johann Gottlob Schlicke
+Johann Gotthelf Wackwitz
+Johann Gottlob Steude
+----------------
+1815
+Johann Gottlob Rudolph
+Johann Gottlob Hachenberger
+Johann? Carl Friedrich Hachenberger
+----------------
+Johann Georg Ditrich
+Johann Gottlieb Barth
+Johann Gottlieb Opitz
+Johann Carl Gottlob Krüger
+----------------
+1816
+Johann Gottlob Patzig
+Gotthelf Damm
+Johann Gottfried Döring
+Johann Gottfried Rost
+----------------
+1817
+Johann Gottfried Horn
+1818
+Johann Gotthelf Görne
+Johann Gottlob Eulitz
+----------------
+Johann Gottlob Paul
+Johann Georg Puschmann
+Karl Gottlieb Döring
+Johann Gottlob Uhlmann
+----------------
+1819
+Johann Gottlob Borsdorf
+Johann Gottfried Müller
+Karl Gottlob Richter
+Johann Georg Schulze
+Johann Gottlieb Hennig
+Johann Georg Ditrich
+Christian Schlechte
