@@ -1,19 +1,69 @@
 Ziegenhain (Buch 3)
-Trauungen 1781-1809
+Trauungen 1781-1819
 https://www.archion.de/de/viewer/churchRegister/289689?pageId=40270756
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Juni 2023
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
----------------- x240
+---------------- x214
+1816
+Johann Gotthelf Ebert
+Christlieb Clauß
+Carl Gottlieb Richter
+Carl Gottfried Fritzsche
+----------------
+Johann Carl Gottlieb Friedrich
+Johann Gottlob Gühne
+Johann Carl Gottlob Wackwitz
+Johann Gottlieb Schnee
+----------------
+Johann Gottfried Hempel
+Johann Carl Gottlob Barth
+1817
+Johann Gottlob Ziller
+Johann Gottlob Becker
+----------------
+Johann Christian Schmidt
+Johann Gottlieb Grille
+Johann Gotthelf Richter
+Johann Gottfried Lantzsch
+----------------
+Johann Christian Fichtner
+Johann Carl Friedrich Barth
+Johann Gottlieb Traugott Thielemann
+Friedrich Wilhelm Beyrich
+----------------
+Johann August Münch
+1818
+Johann Georg Zieger
+Johann Gottlieb Gappisch
+----------------
+Johann Gotthelf Wustlich
+Johann Gotthelf Rost
+Carl Gottlob Clauß
+Johann Gottfried Roßberg
+----------------
+Carl Gottlob Schulze
+Friedrich August Rudolph
+1819
+Johann Gottlieb Schulze
+----------------
+Johann Gottfried Rost
+Johann Christian Grötzsch
+Johann Gottfried Richter
+Carl Gottlieb Frohberg
+----------------
+Johann Christian Willsdorf
+---------------- x17
 1781
 Johann Georg Hermann
 Johann Gottlob Sorge
@@ -283,3 +333,87 @@ Johann Gottlieb Hausch
 ----------------
 Johann Gottfried Möbius
 Johann Gottlob Haubold
+1810
+Johann Gottlob Sorge
+Johann Christian Fährmann
+Johann Georg Zschäbitz
+----------------
+Johann Gottfried Gühne
+August Wilhelm Beyer
+Johann Christoph Sorge
+Johann Gottfried Fischer
+Johann Carl Gottlob Krause
+----------------
+Johann Gottfried Hempel
+Johann Benjamin Zschellezky
+Johann Gottlieb Ehrlich
+Johann Joseph Conrad
+----------------
+Johann August Kretzschmar
+Johann Traugott Berisch
+Johann Gottlieb Richter
+Johann Gottfried Heyde
+----------------
+1811
+Johann Gottlieb Klemm
+Johann Gotthelf Moriz
+Johann Gottlob Rost
+Johann Gottfried Haase
+Johann Gottfried Bernhart
+Johann Gotthelf Voigt
+----------------
+Johann Gottlob Richter
+Johann Carl Gottlieb Ebert
+1812
+Johann Gottlob Schreiber
+Johann Gottlob Günsel
+----------------
+Fürchtegott Leberecht Märker
+Christoph Friedrich Niederführer
+Carl Gottlob Pietzsch
+Johann Gottlieb Voigt
+1813
+Wilhelm Gottlob Schaber
+----------------
+Ernst Adolph Otto
+Carl Gottlob Schober
+Johann Gottlob Fritzsche
+Johann Gottlieb Gerbegroß
+----------------
+Johann Gotthelf Sorge
+Johann Joseph Zschellerzky
+Carl Friedrich Röhle
+Johann Georg Schuster
+Johann Christian Benedix
+----------------
+Christian Gotthelf Hahn
+Johann Gottfried Schulze
+1814
+Johann Gottlob Dammig
+Adolph Ferdinand Starck
+----------------
+Moritz Wilhelm Beyer
+Johann Gottlieb Fischer
+Johann Gottlieb Pinker
+Johann Gottlob Schulze
+Johann Christian Eulitz
+----------------
+Johann Michael Ilgen
+Johann Joseph Wilhelm
+Johann Gottlob Niederführer
+Johann Gotthelf Fellbogk
+Johann Christian Künzler?
+----------------
+Johann Gottlieb Vorack
+Johann Gottlob MAune
+1815
+Johann Christian Wackwitz
+----------------
+Johann Gottfried Conrad
+Christian Heinrich Clauß
+Carl Gottlieb Clauß
+----------------
+Christian Andreas Kleeberg
+Johann Gottlob Schnee
+Johann Christoph Schufner?
+Carl Gotthelf Hermann

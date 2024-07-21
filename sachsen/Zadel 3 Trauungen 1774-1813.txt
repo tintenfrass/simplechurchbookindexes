@@ -1,5 +1,5 @@
 Zadel (Buch 3)
-Trauungen 1774-1809
+Trauungen 1774-1813
 https://www.archion.de/de/viewer/churchRegister/289666?pageId=40265768
 
 Das ist ein Index der Trauungen.
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 1 Stunde
 Mai 2023
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -439,3 +440,82 @@ Gottlob Wendisch
 ----------------
 Johann Christian Gottlieb Sparmann
 Johann Gottlob Schneider
+1810
+Johann Gottlieb Sicker
+Johann Christoph Weisert
+----------------
+Johann Gottfried Schöne
+Gottlob Benjamin Winckler
+Johann Gottfried Bischoff
+Johann Christian Hänsel
+Johann Gottlieb Marcus
+Johann Gottlieb Weishaar
+----------------
+Johann Gottlob Mäser
+Johann Gottfried Meister
+Christian Troischitz
+Christian Gottlieb Beulich
+Johann Gottfried Adam Niese
+----------------
+Johann Gotthelf Poppe
+Johann Georg Dürchen
+Johann Traugott Lange
+Christian Gottfried Beyer
+Johann Gottlieb Knaut
+----------------
+1811
+Heinrich Gottlob Werner
+Johann Gottlob Voigt
+Gottfried Kiesling
+Johann Gottlob Sorge
+----------------
+Johann Gottlob Kiesling
+Johann Christian Gießmann
+Johann Gottlob Meister
+Johann Gottlieb Schuster
+Johann Gottfried Hüttig
+----------------
+Johann Gottlieb Richter
+Franz Gottlieb Fritzsche
+Johann Gottlieb Sturm
+Johann Gottlob Pinkert
+Johann Traugott Schreiber
+----------------
+Friedrich August Knüpfer
+Johann Gottfried Hummitzsch
+Johann Christoph Dürchen
+Christian Gottlieb Hoyer
+----------------
+1812
+Johann Gottlieb Günther
+Carl Gottlob Uischner
+Johann Gottfried Münnisch
+Carl Gottlob Richter
+Johann Gotthelf Salbach
+----------------
+Johann Gottlob Lösche
+Gottlieb Hermann
+Christian Gottfried Beege
+Johann Christian Wagner
+----------------
+Johann Gottlieb Flade
+Johann Gottlob Thiele
+Johann Gottfried Fiedler
+Johann Gottlieb Mürsch
+Johann Gottlieb Räder
+----------------
+Johann Gottfried Büttner
+Johann Gottfried Schöinberg?
+Christian Helmig
+Johann Gottlieb Pfeiffer
+----------------
+----------------
+Johann Georg Hoyer
+Gotthelf Leuteritz
+Johann Christoph Züchner
+Gottlieb Beulich
+1813
+Johann Christian Jucknickel
+----------------
+Johann Christoph Hermann
+Johann Gottfried Polster
