@@ -1,13 +1,14 @@
 Clausnitz (Buch 38)
-Trauungen 1800-1809
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/340836?pageId=47871545
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -153,3 +154,133 @@ Gotthelf Friedrich Zemrich
 Christian Gottlieb Loose
 ----------------
 Karl Joseph Rose
+1810
+Christian Gottlob Loose
+Georg Friedrich Schlegel
+Gottlob Friedrich Mende
+Karl Gottlob Göpfert
+Johann Heinrich Meyer
+Karl Friedrich Tippman
+----------------
+Christian Traugott Gehmlich
+Karl Friedrich Lippmann
+Gotthelf Friedrich Lippmann
+Wilhelm Leberecht Herklotz
+Karl Friedrich Müller
+1811
+Johann Gottlob Seifert
+Christian Gottlieb Köhler
+Christian Gottfried Müller
+----------------
+Christian Gottlob Müller
+Johann Karl August Naumann
+Traugott Friedrich Zemrich
+Christian Gottlieb Müller
+Karl Gottlob Schmieder
+Karl Friedrich Traugott Burckhart
+Christian Friedrich Neubert
+Johann Gottfried Müller
+----------------
+1812
+Gotthelf Friedrich Gehmlich
+Karl Friedrich Rupprecht
+Johann Gottlieb Müller
+Johann Gottlieb Fischer
+Karl Gottlob Gehmlich
+Gottlieb Siegmund Wiegand
+Christian Gottlieb Kaden
+Karl Gotthold Helbig
+----------------
+Karl Gottlob Müller
+Christian Gottlieb Tanneberger
+Karl Friedrich Erler
+1813
+Christian Gottlob Rupprecht
+Friedrich Fürchtegott Müller
+Johann Gottlob Herklotz
+Karl Gottlob Müller
+Christian Traugott Erler
+----------------
+Joel Herklotz
+Christian Friedrich Müller
+Karl Leberecht Barwaßer
+Johann Georg Böhme
+Christian Friedrich Kaden
+Karl Gottlob Müller
+1814
+Christian Gottlob Schmidt
+----------------
+Timotheus Liebegott Albani
+Friedrich Fürchtegott Müller
+Johann Gottfried Bär
+Karl August Fritzsche
+Carl Gottlieb Püschel
+Gottlieb Herklotz
+Traugott Friedrich Hänel
+----------------
+Carl Gotthold Herklotz
+1815
+Johann Georg Walther
+Carl Wilhelm Wilsdorf
+Carl Gottlob Köhler
+August Friedrich Müller
+Johann Gottlob Neuber
+----------------
+Johann Gottfried Hänel
+Carl Friedrich Müller
+Carl Friedrich Loose
+Friedrich Fürchtegott Lippmann
+Johann Adolph Leberecht Fritzsche
+----------------
+1816
+Christian Friedrich Lohse
+Christian Traugott Loose
+Gotthelf Friedrich Fischer
+Christian Friedrich Weindt
+Christian Gottlob Müller
+Traugott Friedrich Gehmlich
+----------------
+1817
+Christian Friedrich Hebert
+Christian Gottlob Loose
+Carl Gottlob Gehmlich
+Christian Friedrich Müller
+Gottlob Friedrich Herklotz
+Gotthelf Friedrich Müller
+----------------
+Gotthelf Friedrich Loose
+Christian Gottfried Fischer
+Christian Gottlob Müller
+Christian Friedrich Lippmann
+1818
+Traugott Friedrich Merkel
+Carl Gottlob Fritzsche
+Gotthelf Friedrich Schmieder
+----------------
+Traugott Kaden
+Carl Gottlob Tottewitz
+Christian Gottlob Morgenstern
+Christian Traugott Bernhard
+Carl Gottlieb Glöß
+Christian Friedrich Köhler
+----------------
+Joseph Walther
+Traugott Friedrich Müller
+1819
+Christian Friedrich Herklotz
+Christian Gottlieb Müller
+Johann Gottlob Neuber
+Gottlieb Traugott Walther
+Friedrich Gottlieb Griesbach
+----------------
+Johann Traugott Kaden
+Gottlob Friedrich Stiehl
+Traugott Friedrich Müller
+Carl Friedrich Matthes
+Carl Gottlob Wagner
+Traugott Friedrich Schneider
+Carl Gottlieb Strauß
+Christian Gottlieb Loose
+----------------
+Carl Gottlieb Gehmlich
+Carl Friedrich Müller

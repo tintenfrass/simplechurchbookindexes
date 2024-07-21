@@ -10,9 +10,10 @@ Teil 1: Trauungen in Berthelsdorf
 Teil 2: Auswärtige Trauungen
 
 
-Erstellt in ca. 2 Stunden
+Erstellt in ca. 2,5 Stunden
 Oktober 2023
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -553,7 +554,171 @@ Carl Friedrich Richter
 Carl Gottlieb Fröbel
 Heinrich Gotttrau Müller
 Christian Ehregott May
----------------- x50
+1810
+Johann Ehregott Seyffert
+----------------
+Carl Gottlob Lichtenberger
+Johann Gottlieb Forberg
+Johann Heinrich Holfert
+Johann Gottfried Seyffert
+Christian Friedrich May
+Johann Gottfried Köhler
+Carl Gottlob Kaden
+Christian Friedrich Zimmermann
+----------------
+Carl Gottlieb Böhme
+Samuel Friedrich Weber
+Carl Friedrich Richter
+Samuel Friedrich Heinrich
+Johann Leberecht Weise
+Christian Friedrich Voigt
+1811
+Benjamin Gottlieb Wolf
+Christian Carl Gotthelf Berger
+----------------
+Johann Gotthelf Döring
+Christian Friedrich Tröger
+Johann Gottlob Wolf
+Carl Christian Friedrich Goldhahn
+Gotthelf Friedrich Börner
+Traugott Leberecht Friedrich Köhler
+Carl Gottlob Mattuch
+Samuel Friedrich May
+Carl Gottlieb Schiffel
+----------------
+Carl Gottlieb Zimmermann
+Johann Gottfried Wolf
+Johann Traugott Schmidt
+Johann Gottlieb Kraut
+Christian Friedrich Richter
+Carl Friedrich Richter
+1812
+x
+Johann Christian Schmieder
+Carl Friedrich Niewand
+Johann Samuel Muster
+----------------
+Carl Gottlieb Kunze
+Carl Gottlob Heinrich
+Carl Gottlob May
+Johann Gottlieb Schneider
+Carl Gottlob Voigt
+Carl Gotthelf Friedrich Reichel
+1813
+Carl August Bellmann
+Traugott Friedrich Wolf
+----------------
+Johann Georg Helbig
+Johann Gottlieb Zimmermann
+Carl Gottlob Seidel
+Carl Gottlob Liebscher
+Christian Traugott Frohs
+Daniel Bernhardt
+Christian Friedrich Thümmel
+----------------
+Christian Gottlieb Lotze
+Gottlob Friedrich Kraft
+1814
+Christian Friedrich Richter
+Carl Traugott May
+Traugott Leberecht Zimmermann
+Carl Gottlieb Timmel
+Johann Gottlob Klemm
+----------------
+Carl Gottfried Scheimann
+Christian Carl Gotthelf Berger
+Carl Friedrich Walther
+Johann Traugott Aurich
+Friedrich Benjamin Uhlemann
+Johann Gottfried Rößger?
+Carl Gottlob Heinzmann
+Johann Gottlieb Lohse
+----------------
+1815
+Carl Gottlieb Zimmermann
+Carl Christian Gotthold Schiffel
+Carl Traugott Hänel
+Carl Gottlob Scheinpflug
+Carl Friedrich Köhler
+Johann Carl Gotthold Rößler
+Carl Friedrich Schmieder
+----------------
+Johann Gottlob Nestler
+Carl Gottlieb Kunze
+Carl Gottlob Lohse
+Carl Friedrich Heinzmann
+Carl Gottlob Erler
+Carl Friedrich Leberecht Kaden
+----------------
+Christian Gottlieb Ziller
+Carl Friedrich Lippmann
+Johann Gottfried Beyer
+August Friedrich Träger
+Johann Gottlob Neubert
+Christian Friedrich Pietzsch
+Johann Gottfried Rothe
+----------------
+1816
+Johann Gottfried Beyer
+Christian Gottlob Zimmermann
+Carl Gottlob Mäcke
+Christian Gottlieb Richter
+Traugott Friedrich Thümmel
+Johann Samuel Nestler
+Johann Joseph Enzmann
+----------------
+Carl Friedrich Wolf
+Carl August Liebscher
+Johann Gottfried Walther
+1817
+Joseph Michael Andreas
+David Benjamin Preisler
+Johann Gottfried Träger
+----------------
+Johann Gottlob Göhler
+Christian Friedrich Günther
+Carl Gottlob Venus
+Georg Gottlob Ditrich
+Carl Gottlieb Lange
+Carl Friedrich Fischer
+----------------
+Carl Benjamin Hoffmann
+Johann Gottlieb Sandig
+Carl Friedrich Ziller
+1818
+Carl Benjamin Hoffmann
+Johann Gottlieb Sandig
+Carl Friedrich Ziller
+Johann Christoph Neubert
+Christian Friedrich Lormann
+Carl Gottlob Kröhnert
+----------------
+Johann Friedrich Schmidt
+Carl August Reinhold
+Carl Gottlob Lorman
+Christian Wilhelm Linse
+Johann Christoph Adam Rechenberger
+Carl Gottlieb Träger
+Johann Friedrich Köhler
+Bernard Perner
+----------------
+1819
+Carl Gottlob Zeller
+Christian Gottlob Hengst
+Christian Friedrich Koch
+Carl Friedrich Schneider
+Carl Gottfried Beckert
+Johann Gottfried Wolf
+Carl Friedrich Schubert
+----------------
+Johann Gottlob Dreßel
+Johann Gottlob Lehmann
+Carl Friedrich Gotthold Reichel
+Friedrich Benjamin Stiehl
+Johann Traugott Kaden
+Carl Gottlieb Philipp
+Carl Gottlob Hermann
+---------------- x31
 1759
 Carl Gottlieb Zimmermann
 Christoph Böhme

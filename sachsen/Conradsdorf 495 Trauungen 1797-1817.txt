@@ -1,14 +1,15 @@
 Conradsdorf (Buch 495)
-Trauungen 1797-1809
+Trauungen 1797-1817
 https://www.archion.de/de/viewer/churchRegister/340858?pageId=47876797
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Oktober 2023
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -315,3 +316,175 @@ Carl Gottlob Krause
 ----------------
 Carl Gottlob Siegert
 Johann Georg Hantschmann
+----------------
+1810
+Christoph Friedrich Ihle
+Carl Gottlob Franke
+Johann August Damm
+----------------
+Johann Gotthelf Wolf
+Carl Gottlieb Leuschner
+Gotthelf Friedrich Oppelt
+----------------
+Carl Gottfried Stange
+Carl Christian Gießmann
+Carl Gottlob Franke
+Christian Traugott Ufer?
+----------------
+Carl Friedrich Wilhelm Neubert
+Johann Gottfried Heße
+Johann Heinrich Göhler?
+Johann Gottlob Neubert
+----------------
+Carl Traugott Hoffmann
+Johann Christian Wahl
+----------------
+1811
+Carl Gottlob Horn
+Carl Gotthelf Ludwig
+Johann Traugott Haßbacher
+----------------
+Johann Gottlob Reiche
+Johann Gottlieb Reiche
+x
+Carl Gottfried Felgner
+----------------
+Johann Gottlieb Priebs
+Carl Christoph Friedrich Walbert?
+Johann Gottlieb Krause
+----------------
+Johann Gottlieb Nestler
+Gotthelf Priebs
+Johann Samuel Tutschky
+Christian Salomon Pretzsch
+----------------
+Johann Gottfried Gabriel
+Johann Gottfried Siegert
+----------------
+1812
+Carl Gottlob Krätzer
+Johann Christian Heßel
+Johann Carl Samuel Zimmer
+----------------
+Christian Gottlieb Heyde
+Johann Gottfried Fischer
+Carl Gottfried Hafacher?
+----------------
+Ehregott Leberecht Friedrich
+Johann Gottlieb Fagner?
+Johann Gottlob Beyer
+----------------
+Carl Gottlieb Dachsel
+Carl Gotthelf Schubert
+Georg Friedrich Jünger
+----------------
+Carl Adolph Krätzer
+Christian Carl Scharschmidt
+----------------
+Johann Gottlieb Fischer
+Johann Gottfried Wahl
+Johann Christian Wagner
+----------------
+Johann Samuel Dachsel
+Carl Wilhelm Eltner
+Johann Gotthelf Moritz
+----------------
+Johann Gottlieb Ficke
+Johann Christoph Helnig
+Christlieb Leberecht David Kretzschmar
+----------------
+Johann Gottlieb Liezner
+Johann David Hammer
+Carl Gottlieb Mende
+----------------
+1813
+Johann Gabriel Ihle
+Johann Traugott Gottlob Zimmer
+Johann Gottfried Hamann
+----------------
+Johann Traugott Schmidt
+Johann Daniel Mehnert
+Johann Gottfried Frey
+Carl Friedrich Hachenberger
+----------------
+Johann Gotthelf Richter
+Johann Gottfried Krahmer
+Georg Gottlob Ebelt
+Carl Gottlieb Büttner
+----------------
+1814
+Johann Gottlieb Franz
+Johann Gottfried Schulze
+Carl Gottlieb Rüdiger
+----------------
+Johann Carl Gottlieb Müller
+Johann Gotthelf Beyer
+Carl Gottlieb Rudolph
+----------------
+Johann Ehregott Schubert
+Christian Friedrich Bernhardt
+Johann Gotthelf Schulze
+Carl Gottlieb Garbe
+Carl Gottfried Schleßger
+Johann Gottlob Störl
+----------------
+Johann Christoph Rumpelt
+Christian Carl Schaarschmidt
+1815
+Johann Gottlieb Störl
+Carl Gottlob Dachselt
+Carl Traugott Hänel
+Carl Gotthelf Richter
+Carl Gottlieb Zimmermann
+----------------
+Johann Gottfried Köhler
+Carl Gotthelf Baumann
+Johann Gottfried Schubert
+Carl Gotthelf Drechsler
+Johann Gottfried Liebert
+----------------
+Ernst Gotthold Müller
+Gottlob Wilhelm Limbach
+Gottfried Benjamin Jünger
+Johann Gottlieb Liebscher
+Johann Traugott Finsterbusch
+Johann Gottfried Walther
+----------------
+Johann Gottlob Kirsten
+Carl Gottfried Chemnitzer
+Johann Carl Gottlob Naumann
+Johann Gottlob Henker
+Johann Gottlieb Schubert
+Paul Gotthelf Oppelt
+----------------
+Gottlieb Leberecht Nestler
+1816
+Carl August Störzel
+Gotthelf Friedrich Köhler
+Carl Gotthelf Büttner
+----------------
+Carl Gottlieb Kühn
+Carl Gottlieb Uhlig
+Johann August Hanike
+Johann Gottfried Starcke
+Johann Gottlob Reiche
+----------------
+Carl Gotthelf Oppelt
+August Gotthold Götze
+1817
+Carl Gottfried Wagner
+Gotthelf August Schiebold
+----------------
+Johann Gottlob Schulze
+Johann Gottlob Gabriel
+Carl Gottlob Rumpelt
+Johann Gottlieb Wittig
+----------------
+Johann Gottlieb Schmol
+Johann Gottfried Schubert
+Johann Gottfried Kühn
+Carl Friedrich Löscher
+----------------
+Johann Gottlieb Weichhold
+Carl Gottfried Fischer
+Traugott Leberecht Götze

@@ -1,14 +1,15 @@
 Erbisdorf (Buch 112)
-Trauungen 1774-1809
+Trauungen 1774-1813
 https://www.archion.de/de/viewer/churchRegister/340925?pageId=47886895
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 3,5 Stunden
+Erstellt in ca. 4 Stunden
 Oktober 2023
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1781,3 +1782,186 @@ Gottlieb Friedrich Blechschmidt
 Johann Gottlieb Graf
 Johann Gottlob Leberecht Steyer
 Johann Friedrich Küchler
+1810
+Gottlieb Friedrich Fröbel
+Christian Friedrich Ruppert
+Carl Gottlob Rost
+Friedrich Samuel Uhlmann
+----------------
+Johann Friedrich Leberecht Lose
+Carl David Sohr
+Samuel Gottlob Weigelt
+Georg Friedrich Pflugbeil
+Johann Gottlieb Fröbel
+Johann Gottfried Liebscher
+Johann Samuel Traugott Bergmann
+Johann Gottlieb Giersch
+Adolph Friedrich Letsch
+----------------
+Gottlob Friedrich Krause
+Gottfried Ernst Leberecht Glauch
+Carl Wilhelm Klemm
+Samuel Gottfried Bär
+Johann Gottfried Schättler
+Johann Carl Gottfried Lempe
+Johann Gottlob Zimmermann
+David Benjamin Wiedemann
+Carl Gottlieb Böhme
+Carl Gottlob Schreiber
+----------------
+Michael Friedrich Reuther
+Johann Gottlieb Rau
+Gottfried Leberecht Goldbach
+Carl Friedrich Benjamin Fritzsche
+Christian Friedrich Köhler
+Samuel Gottlob Friedrich
+Carl Gottlob Neuhäuser
+Christian Gottlob Leberecht Preusler
+----------------
+Carl Gottlob Borstorfer
+Gottlob Friedrich Köhler
+Carl Friedrich Ehregott Klöß
+Christian Samuel Friedrich Schneider
+Johann Friedrich Hoffmann
+August Friedrich Hauk
+Samuel Friedrich Reuter
+Johann Carl Gottlob Öhme
+----------------
+Carl Gottlieb Otto
+Carl Heinrich Salomon Tzschoche
+Carl Gottlob Richter
+1811
+Samuel Friedrich Fritzsche
+Johann Christoph Kahlenberg
+Carl Friedrich Reichelt
+Johann Gottlob Grölner
+----------------
+Johann Gottfried Wilhelm Weckbrodt
+Johann Immanuel Müller
+Adam Lobegott Weise
+Johann Georg Wolf
+Carl Friedrich Krölner
+Johann Carl Gottlieb Scheibe
+Traugott Friedrich Schreher
+Carl Friedrich Reichelt
+----------------
+Carl August Schuffenhauer
+Samuel Friedrich Hübler
+Johann Gottlieb Eckhard
+Ehregott Andreas Reichelt
+Carl Gotthelf Friedrich
+Gotthelf Leberecht Höhnel
+Johann Christian Friedrich Hunger
+Johann Christ? Korb
+----------------
+Carl Friedrich Hermann
+Johann Christian Funke
+Carl Friedrich Kluge
+Johann Michael Zimmer
+Carl Friedrich Dreisig
+Johann Daniel Zahn
+Christian Wilhelm Linse
+Samuel Friedrich Bilz
+----------------
+Carl Heinrich Fiedler
+Carl Friedrich Bielitz
+Carl Gottlieb Steyer
+Carl Gottlob Mattuch
+Christian Gottlob Friedrich Starcke
+Carl Gottlieb Müller
+Johann Traugott Beyer
+Carl Friedrich Weigelt
+----------------
+Christian Friedrich Hübler
+Carl Friedrich Traugott Kahl
+Carl Friedrich Morgenstern
+Johann Gottlieb Kraut
+----------------
+1812
+Johann Christoph Leberecht Pellmann
+Carl Wilhelm Vogel
+Carl Gottlieb Pellmann
+Carl Gottlob Oehme
+Johann Friedrich Schmidt
+Johann Gottlieb Ohndorf
+Carl Traugott Leibner
+Johann Christoph Lorentz
+----------------
+Carl August Fröhnert
+Liebegott Gottlieb Kaden
+Carl Christian Schönberg
+Gottlieb Traugott Friedemann
+Carl Gottlieb Weisbach
+Carl Friedrich Kämpfe
+Immanuel Friedrich Hahn
+Johann Adam Hähnel
+----------------
+Carl Gotthelf Bär
+Carl Gottlob Heinrich
+Samuel Friedrich Leberecht Baldauf
+Christian Friedrich Mehner
+Carl Friedrich Henker
+Carl August Kind
+Christian Wilhelm Seiffert
+Johann Daniel Meizner
+----------------
+David Benjamin Preusler
+Carl Wilhelm Schmuck
+Carl Gottlieb Heide
+Samuel Friedrich Scheunert
+Johann Heinrich Ernst Endler
+Carl Gottlob Göpelt
+Johann Gottfried Engelhardt
+Johann Samuel Zechel
+----------------
+Carl Gottlob Morgenstern
+Johann Benjamin Halm
+Johann Gottlob Heyde
+Johann Gottlob Schmidt
+Johann Gottfried Uhlmann
+Samuel Wilhelm Zimmer
+Johann Gottlieb Kaden
+Johann Gotthelf Uhlich
+----------------
+Johann Michael Öhme
+Johann Gotthelf Uhlich
+Samuel Friedrich Mattuch
+Johann Gottlob Zienert
+Johann August Schramm
+Traugott Leberecht Lose
+Adam Benjamin Drechsler
+Adam Friedrich Frohs
+----------------
+Carl Gottfried Henselius
+Johann Gottlob Roll
+Johann Traugott Leber
+1813
+Israel Uhlemann
+Christian Blobel
+Traugott Friedrich Richter
+Johann Carl Gottlob Häusler
+----------------
+Christian Friedrich Hübler
+Samuel Wilhelm Braungart
+Carl Friedrich Haupt
+Carl August Seiffert
+Carl Siegmund Leberecht Meyer
+Carl Christian List
+Johann Samuel Traugott Bergmann
+Johann Gottlieb Hauck
+----------------
+Gottlob Friedrich Köhler
+Johann Gottlieb Friedrich Eckhardt
+Carl Friedrich Vögelein
+Christian Gottfried Ufert
+Carl Gottlieb Öhme
+Georg Friedrich Benjamin Mühlberg
+Johann Samuel Beyer
+Carl Christoph Richter
+----------------
+Carl Gottlieb Mühlstädt
+Carl Gottlob Börner
+Carl Friedrich Krellner
+Carl Gottlieb Kunze
+Carl Heinrich Starcke
+Carl Gottlieb Heber
