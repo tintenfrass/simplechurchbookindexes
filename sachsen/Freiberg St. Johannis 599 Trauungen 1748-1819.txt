@@ -1,5 +1,5 @@
 Freiberg St. Johannis (Buch 599)
-Trauungen 1748-1809
+Trauungen 1748-1819
 https://www.archion.de/de/viewer/churchRegister/341064?pageId=47913243
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 1,5 Stunden
 Oktober 2023
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -751,3 +752,114 @@ Christian Gottlieb Richter
 Carl Gottlob Schubert
 Christian Friedrich Goldhan
 Samuel August Schmidt
+----------------
+1810
+Carl Heinrich Otto
+Johann Gottlob Wagner
+Gottlieb Friedrich Halm
+Carl Gotthold Salomon Wagner
+----------------
+Johann Gottlieb Müller
+Gottlob Friedrich Körbach
+Traugott Leberecht Bauer
+----------------
+Johann Gottlieb Löwe
+Carl Gottfried Mende
+----------------
+1811
+Johann Leberecht Weinhold
+Christian Wahl
+Carl Gottlob Lange
+Christian Carl Johannes
+----------------
+Johann Gottlieb Köhler
+Wilhelm Friedrich Säuberlich
+Carl Samuel Obendorf
+Carl Gottlob Benjamin Wagner
+----------------
+1812
+Johann Carl Gottlob Finsterbusch
+Johann Gottlieb Obendorf
+Johann Gotthelf Kirbach
+Johann Gottlieb Reuter
+----------------
+Christian Wilhelm Lantzsch
+Carl Gotthelf Kraut
+Clemens Werthig
+----------------
+Friedrich August Schmidt
+Carl Friedrich August Forwerk
+Friedrich Gottlieb Kolditz
+----------------
+1813
+Johann Friedrich Schier
+Johann Gotthelf Renkewitz
+Adolph Heinrich Schmieder
+Ernst Johann Hübener
+----------------
+Carl Friedrich August Hammerschmidt
+----------------
+1814
+Carl Gottlob Klemm
+Carl Gotthelf Wagner
+Carl Gottlob Fleischer
+Carl Gottfried Teuchert
+Johann Adolph Greim
+----------------
+Carl Gottlob Thiele
+Johann Traugott Wagner
+August Ferdinand Böhme
+Samuel Gottlob Forberg
+----------------
+1815
+Johann Traugott Berger
+Christian Friedrich Liebe
+Johann Andreas Zeiwig
+Johann Gotthelf Ehregott Franke
+----------------
+Carl Friedrich Finsterbusch
+Johann Gottlob Müller
+Johann Gottfried Weigand
+Samuel Gotthelf Leberecht Lippmann
+----------------
+1816
+Johann Christian Eidam
+Friedrich Wilhelm Obendorf
+Friedrich August Gotthold Kühn
+Johann Traugott Küttner
+Carl Gottlieb Eckert
+----------------
+Friedrich Wilhelm Epner
+Carl August Liebscher
+Carl Gottlob Harnisch
+Friedrich Wilhelm John
+----------------
+1817
+Johann David Ritter
+Carl Gottlieb Benjamin Weißgerber
+Carl Gottlob Kreysel
+Johann? Carl Gottlieb Wittig
+----------------
+Carl August Schubert
+----------------
+1818
+Johann Carl Gottlieb Bernd
+Carl Gottlob Ufer
+Johann Christoph Uhlemann
+Carl Christoph Schubert
+----------------
+Johann Chrysostomus Kunze
+Benjamin Kluge
+----------------
+1819
+Carl Christian Heyne
+Johann Gottfried Dienel
+Carl August Schmidt
+Johann Gottlob Vogel
+----------------
+Johann Friedrich Wilhelm Liebert
+Johann Christian Friedrich Schroth
+Samuel Gottlob Flade
+Friedrich Gotthelf Müller
+----------------
+Johann Carl Heinrich Säuberlich

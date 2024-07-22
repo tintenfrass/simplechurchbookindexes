@@ -1,11 +1,14 @@
-Trauungen 1800-1809
+Freiberg St. Jacobi (Buch 564)
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/341029?pageId=47908646
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
+Erstellt in ca. 0,5 Stunden
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -163,3 +166,127 @@ Gottlob Wilhelm Größel
 Gottlob Leberecht Erler
 ----------------
 Johann Martin Schimack
+----------------
+1810
+Johann Gottlob Krengel
+Carl Friedrich Hallbauer
+Carl Wilhelm Weberling
+----------------
+Johann Friedrich Möbius
+Johann Gottlieb Chemnitzer
+Johann Christian Zimmermann
+----------------
+Carl Gottlieb Schmidt
+Christian Gottlieb Eberlein
+Johann Christoph Kohl
+----------------
+Carl Christian Weigandt
+----------------
+1811
+Christian Friedrich Lobegott Bündrig
+Carl August Ditrich
+Gottlob Friedrich Leberecht Richter
+----------------
+Franz Püschel
+Johann Christoph Friedrich Haase
+Christian Friedrich Zacharias
+----------------
+1812
+August Fuchs
+Friedrich August Volkmar
+Carl Friedrich Gülden
+Friedrich Justus Leberecht Clausnitzer
+----------------
+Johann Georg Schne
+Johann Daniel Meitzner
+Gottlob Friedrich Müller
+Johann Dankegitt Lehnert
+----------------
+Carl Christian Schmidt
+----------------
+1813
+August Friedrich Heerklotz
+Johann Gottlob Eperstädt
+Carl Samuel Wolf
+Christian Friedrich Werner
+----------------
+Johann Christoph Wagner
+Johann Benjamin Hensel
+Johann Traugott Leberecht Cyrener?
+Carl Friedrich August Sattler
+----------------
+Samuel Benjamin Leberecht Wüstner
+Christian Gottlieb Schaling
+----------------
+1814
+Johann Michael Kirsch
+Carl Christoph Endig
+Carl Friedrich Liebscher
+Johann Christoph Franz
+----------------
+Christoph Friedrich Berger
+Johann Gottlieb Schramm
+Johann Gottfried Fischer
+Johann Gottlieb Hegewald
+----------------
+Samuel Friedrich Benjamin Scheinpflug
+Johann Traugott Ulbrich
+Johann Gottlob Teichmann
+----------------
+Carl Gottlieb Böhme
+----------------
+1815
+Carl Gottlieb Butze
+Adolph Friedrich Otto
+Gotthelf Leberecht Größler
+Paul Gottlieb Frey
+----------------
+Carl Gottlob Wilisch
+Heinrich Ernst Dittmar
+Johann Wilhelm Meerstein
+----------------
+Johann Gottlieb Schmohl
+----------------
+1816
+Johann Leberecht Beckert
+Friedrich Gottlieb Ehregott Rüger
+Gotthelf Salomon Mentzner
+----------------
+Carl Friedrich Klemm
+Carl August Löser
+Johann Gottlieb Meier
+----------------
+1817
+Wilhelm Friedrich Kirchhahn
+Gotthelf Glöß
+Friedrich Gottlob Schütze
+----------------
+Johann Friedrich Böhme
+Jacob Uhlich
+Carl Gottlieb Weygand
+Carl Friedrich Franz
+----------------
+1818
+Fürchtegott Leberecht Kunze
+Johann Andreas Börner
+Carl Gottlieb Schneider
+----------------
+1819
+Carl Gottlieb Böhme
+Johann Georg Kühn
+Johann Gottlieb Mehlhose
+----------------
+Johann Gottlob Saupe
+Carl Gottlob Wöllner
+Carl Friedrich Otto Geyer
+----------------
+Carl August Hahn
+Johann Benjamin Friedrich Rauh
+Benjamin August Nobst
+Carl Gottlob Häusler
+----------------
+Johann Gottlieb Tümmrich
+Christian Gottlieb Stohn
+Carl Gottlob Mende
+----------------
+Heinrich Moritz Kümmel
