@@ -1,12 +1,14 @@
 Hilbersdorf (Buch 754)
-Trauungen 1800-1809
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/359842?pageId=50667725
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
+Erstellt in ca. 0,5 Stunden
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -118,3 +120,94 @@ Georg Gottfried Stein
 Carl Gottfried Fleischer
 ----------------
 Christian Friedrich Böhme
+1810
+Carl Friedrich Venus
+Carl Gottlob Leuschner
+Johann Gottlieb Fleischer
+----------------
+Johann Gottlieb Otto
+----------------
+Christian Gotthelf Butze
+1811
+c1 Gottlieb Venus
+Carl Gottlob Starcke
+Carl Gottlob Hauke
+----------------
+Carl Gottlob Wolf
+Johann August Müller
+Carl Gottlob Horn
+Friedrich Gotthelf Ramm
+----------------
+1812
+Carl Gottlieb Zeller
+Johann Gotthelf Zimmermann
+Georg Gottlieb Hegewald
+August Friedrich Küttner
+----------------
+Johann Gottlob Ludwig
+Carl Gotthold Friedrich Kuhnert
+1813
+Georg Gottfried Günther //korrigiert
+----------------
+Gottlieb Fürchtegott Hegewald
+1814
+Johann Gottfried Butze
+Carl Adam Jonathan Ditrich
+----------------
+Carl Gottlieb Käsemodel
+Carl Friedrich Rohrbach
+Gottlieb Friedrich Wolf
+----------------
+Gottlieb Mentzer
+Carl Gottlieb Keil
+Carl Gottlob Birndt
+Johann Samuel Thöpoldt
+----------------
+1815
+Carl Gotthold Rößler
+Carl Gotthold Küttner
+Carl Gotthelf Baumann
+----------------
+Christian Friedrich Hegewald
+Gottlieb Friedrich Wolf
+Johann Gottlieb Liebscher
+----------------
+1816
+Friedrich Abraham Traugott Rümmler
+Carl Gottlieb Richter
+Carl Gottlieb Fischer
+Christian Wilhelm Rothe
+----------------
+Johann Friedrich Bernhardt
+Friedrich Traugott Bocher
+Gotthelf Leberecht Männel
+1817
+Leberecht Zacharias Rechenberg
+----------------
+Carl Gottlieb Feind
+Carl Gottlob Venus
+Carl Gottlieb Kuhnert
+Georg Gottlob Ditrich
+Georg Gottlieb Stein
+----------------
+1818
+Johann Gottlob Richter
+Friedrich Gottlieb Birnd
+Johann Gottfried Schmieder
+Traugott Gotthelf Götze
+Carl Gotthelf Venus
+----------------
+Carl Gottlob Bernd
+Johann Gottlob Liebscher
+Johann Gottlieb Venus
+Carl Gottlieb Schneider
+----------------
+Johann Wilhelm Niemann
+1819
+Johann Samuel Wunderwald
+Johann Friedrich Gerhardt
+----------------
+Carl Friedrich Traugott Scheidhauer
+Carl Gottlieb August Keller
+Johann Gottfried Heymann
+Friedrich Gotthelf Ramm

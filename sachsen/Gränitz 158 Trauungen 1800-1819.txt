@@ -1,5 +1,5 @@
 Gränitz (Buch 158)
-Trauungen 1801-1809
+Trauungen 1801-1819
 https://www.archion.de/de/viewer/churchRegister/359753?pageId=50652055
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -7,6 +7,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
 Mai 2024
+Juni 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -51,3 +52,40 @@ Immanuel Friedrich Neubert
 1809
 Carl Gottlieb Stoll
 Carl Friedrich Forberger
+----------------
+1810
+Carl Christoph Neubert
+Christian Gottlob Löwe
+----------------
+1811
+Christian Gottlieb Löhßner
+Johann Christoph Freyberger
+Johann Gottlob Prätzsch
+----------------
+1812
+Johann Daniel Weinhold
+Samuel Gottlob Gärtner
+1813
+Johann Christian Neubert
+Johann Christoph Frey
+----------------
+1814
+Carl Friedrich Reichel
+Carl Wilhelm Clausnitzer
+Traugott Friedrich Richter
+1815
+Fabian Walther
+----------------
+Carl Friedrich Otte
+1816
+Johann Traugott Schröter
+1817
+Johann Christoph Straßberger
+----------------
+1818
+Ernst Gottlieb Clausnitzer
+Carl Gottlieb Wächtler
+----------------
+1819
+Carl Christian Gottlieb Schubert
+Karl? Gottlieb Steude //korrigiert

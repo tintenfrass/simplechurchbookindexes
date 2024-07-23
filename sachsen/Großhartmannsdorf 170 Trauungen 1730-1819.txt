@@ -1,14 +1,15 @@
 Großhartmannsdorf (Buch 170)
-Trauungen 1730-1809
+Trauungen 1730-1819
 https://www.archion.de/de/viewer/churchRegister/359765?pageId=50654041
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 2 Stunden
+Erstellt in ca. 2,5 Stunden
 Januar 2024
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -971,3 +972,177 @@ Friedrich Samuel Schönlebe
 Carl August Uhlig
 Carl August Günzel
 Carl August Träger
+----------------
+1810
+Christian Friedrich Apol
+Carl Gottlieb Börner
+Johann Gottlob Grau
+Carl Gottfried Kaltofen
+Carl Gottlob Felgner
+----------------
+Carl August Schönlebe
+Carl Gottlob Müller
+Carl August Börner
+Johann Georg Günzel
+Samuel Heinrich Busch
+----------------
+David Friedrich Mühl
+Johann Gottlob Simon
+Christoph Friedrich Göpfert
+Carl Gottlob Friedrich Ihlen
+Christian Friedrich Rösiger
+----------------
+Johann Samuel Fischer
+Carl Gottlob Dech
+Carl Friedrich Müller
+Johann Christoph Kahl
+Carl Gottlob Wärzner
+----------------
+Carl Gottlob Braun
+Christian Leberecht Friedrich
+Franz Gotthold Hartwig
+Carl August Haupt
+----------------
+1811
+Carl August Träger
+Carl August Fritzsche
+August Friedrich Otte
+Christoph Ehregott Walther
+August Friedrich Endler
+----------------
+Traugott Friedrich Riegel
+Christian Friedrich Rüger
+Christian Friedrich Leberecht Pötschmann
+Carl August MArtin
+Johann Gottfried Werner
+David Gottlob Hauck
+----------------
+Christian Friedrich Köhler
+Traugott Friedrich Böhme
+Carl Friedrich Kühn
+Johann Gottfried Lichtenberger
+Carl Friedrich Weidensdrofer
+----------------
+1812
+Johann Gottlieb Friedrich Seiffert
+Christian Friedrich Richter
+Johann Gottfried Streubel
+Carl Samuel Friedrich Porstendorfer
+Carl August Schwartze
+Johann August Buschbeck
+----------------
+Carl Gottlieb Bellmann
+Christian Friedrich Ditrich
+Johann Gottlieb Reichel
+Carl Friedrich Arnold
+1813
+Johann Gottlieb Mende
+----------------
+Carl Gottlob Arnold
+Johann Benjamin Günzel
+Carl Gotthold Storch
+Carl Adolph Rösiger
+Carl Christian Friedrich Hübler
+----------------
+Carl Gottlob Jenzsch
+Carl Gottlob Träger
+Carl Gotthelf Oehm
+Carl Gottfried Grundewald
+----------------
+Johann Gottlob Buschmann
+Johann Gotthelf Ludwig
+Carl Gottlieb Tube
+1814
+Gotthold Friedrich Reuter
+----------------
+Gottlob Friedrich Schneider
+Carl Gottlieb Ulbricht
+Johann Wilhelm Werling
+Johann Gottlieb Oelschläger
+August Brendel
+----------------
+Carl Christian Schellenberger
+Johann August Neuber
+Christian Carl Gottlieb Dietze
+August Friedrich Bellmann
+Carl Gottlob Börner
+----------------
+Carl Friedrich Sandig
+Gotthelf Friedrich Matthes
+David Gottlieb Kreller
+Georg Friedrich Hungen
+1815
+Franz Gotthold Matthes
+----------------
+Christian Gottfried Liebscher
+Carl Gottlieb Eilze
+August Friedrich Lichtenberger
+Carl Wilhelm Wilsdorf
+Carl Gottlob Arnold
+----------------
+Carl August Seiffert
+Carl August Mende
+Johann Gottlob Martin?
+Adam Gottfried Hänch?
+Johann Christian Friedrich Dietze
+Johann Christoph Neuhäuser
+----------------
+Johann Carl Gottlob Albrecht
+Traugott Friedrich Haubold
+Christian Gottlob Klausnitzer
+Johann Gotthold Neubert
+August Friedrich Krumbiegel
+----------------
+Carl Gottlob Kunze
+Carl Friedrich Ferdinand Richter
+Carl August Leuner
+1816
+Friedrich Gotthold Schönlebe
+Carl Gottlob Maeke?
+----------------
+Carl Friedrich Grünewald
+Johann August Schneider
+Christian Gottlieb Uhlig
+August Leberecht Rudolph
+Carl Gottlob Erler
+Carl Friedrich Einert?
+1817
+Johann Gottlob Bellmann
+Carl Friedrich Meyer
+----------------
+Traugott Friedrich Haselbacher
+Traugott Friedrich Frey
+Gottlieb Friedrich Hesse
+Carl Gotthold Nitsche
+Johann Gottlieb Tanneberger
+Johann Gottlob Fischer
+----------------
+Christoph Andreas Schubert
+Traugott Leberecht Ehnold
+Johann August Lippmann
+1818
+Carl Friedrich Krumbiegel
+Johann Gottlob Pretschendorfer
+Gottlob Friedrich Trautzolt
+----------------
+Carl Gottlieb Küttner
+Ernst Gottlieb Clausnitzer
+Georg Gottlob Böhme
+Friedrich Ferdinand Haubold
+Carl August Göhlert
+1819
+Christian Gotthold Eckardt
+Carl August Bleßing
+Carl Gotthelf Nitsche
+----------------
+Carl Gottlieb Schenk
+Carl Gottlob Brand
+Friedrich Gottlieb Rudolph
+Carl Friedrich Klemm
+Johann Gottfried Werner
+Salomon Zein
+August Friedrich Müller
+Adam Fürchtegott Uhlig
+----------------
+----------------
+Traugott Friedrich Horn

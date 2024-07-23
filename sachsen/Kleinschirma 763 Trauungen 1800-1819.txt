@@ -1,5 +1,5 @@
 Kleinschirma (Buch 763)
-Trauungen 1800-1809
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/359851?pageId=50669246
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -7,6 +7,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -74,3 +75,63 @@ Christian Gottlieb Mende
 1809
 Johann Traugott Stein
 Heinrich Gotttrau Müller
+----------------
+1810
+Friedrich Ferdinand Fischer
+Friedrich Wilhelm Lange
+Carl Friedrich Steier
+----------------
+1811
+Karl Gottlieb Wencke
+----------------
+1812
+Karl Gottlob Richter
+Johann Christian Andrä
+Karl Gottlob Stein
+Johann Christian Kluge
+Johann Georg Hähne
+Karl Gottlieb Steingen?
+----------------
+1813
+Ehrenfried Heyne
+----------------
+1814
+Karl Traugott Leberecht Büttner
+Gotthelf Friedrich Ihle
+Christian Friedrich Zschocke
+Christoph Friedrich Hänlein
+----------------
+1815
+Johann Karl Stein
+Johann August Hänlein
+Johann Gottlob Krumbiegel
+Friedrich Gottlob Thiele
+Johann Traugott Fischer
+Friedrich Fürchtegott Fischer
+----------------
+1816
+Johann Gottlob Walther
+Johann Gottlieb Steyer
+Gottlieb Fürchtegott Hähnlein
+Friedrich Fürchtegott Leonhardt
+Friedrich Fürchtegott Fischer
+Ehregott Benjamin Stein
+----------------
+1817
+Johann Gottlob Weber
+Johann Traugott Hallfahrt
+Friedrich Gottlob Thiele
+Johann Jacob Pfeifer
+----------------
+1818
+Friedrich Traugott Stein?
+Traugott Friedrich Müller
+Karl Gottlob Schrot
+Franz Christoph Feldmann
+----------------
+1819
+Friedrich Ehregott Leonhardt
+Karl Gottrau Heinrich Richter
+Ehregott Benjamin Fischer
+Karl Friedrich Wallrabe?
+Carl Friedrich Burckhart
