@@ -1,12 +1,14 @@
 Lichtenberg (Buch 248)
-Trauungen 1801-1809
+Trauungen 1801-1816
 https://www.archion.de/de/viewer/churchRegister/359980?pageId=50696834
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
+Erstellt in ca. 0,5 Stunden
 Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -218,3 +220,155 @@ Johann Gottlob Fischer
 Johann Gotthelf Gelfert
 Johann Gottfried Feller
 Johann Traugott Fröbel
+----------------
+1810
+Johann Gottfried Schlenkrich
+Carl Christoph Fischer
+Carl Gottfried Richter
+Carl Gottlob Göpfert
+Friedrich Ehregott Körbach
+----------------
+Christian Gottlieb Wolf
+Friedrich Gotthelf Ramm
+Johann Gottlob Richter
+Carl Gottlieb Bartzsch
+Carl Gottlieb Köhler
+----------------
+Carl Gottlieb Fritzsche
+Carl Friedrich Tittel
+Carl Gottlob Deck
+Carl Gottlieb Hennig
+Carl Gottlieb Hezel
+----------------
+Traugott Börner
+Johann Michael Fritzsche
+Carl Ehregott Göpfert
+----------------
+1811
+Johann Gottlob Kunze
+Carl Wilhelm Göpfert
+Johann Daniel Friedrich Buze
+Carl Gotthelf Ludwig
+Carl Gottlieb Richter
+Carl Gottfried Funke
+----------------
+Johann Carl Traugott Feller
+Carl Gottlieb Burkert
+Christian Friedrich Lehmann
+Carl Gotthold Göpfert
+Johann Gottfried Richter
+Carl Christian Gottlob Schubert
+----------------
+Carl Traugott Schneider
+Gotthelf Friedrich Börner
+Adam Gottlieb Kummer
+Friedrich Gottlob Lohse
+Christian Gottlieb Polster
+Carl Gottlieb Fleischer
+----------------
+Christoph Friedrich Arnold
+Johann Carl Gottlieb Kunze
+Johann Gottlob Richter
+Carl Gottlieb Scheinpflug
+----------------
+1812
+Christian Friedrich Erler
+Carl Traugott Keibner
+Johann Michael Schulze
+Carl Gottlieb Bernhardt
+Gottlieb Traugott Friedemann
+----------------
+Friedrich Wilhelm Lempe
+Carl August Küchler
+Christian Friedrich Ölschlegel
+Johann Carl Gottlob Fleischer
+----------------
+Gotthelf Friedrich Ihle
+Karl Gottfried Fleischer
+Christian Gotthelf Braun
+Christian Friedrich Fleischer
+Johann Heinrich Braun
+----------------
+Christlieb Leberecht David Kretzschmar
+Johann Zacharias Scheinpflug
+----------------
+1813
+Christian Friedrich Fleischer
+Christian Gottlob Rupprecht
+Christian Gottlieb Schneider
+Carl Gottlob Naumann
+Christian Friedrich Wezel
+----------------
+Carl Friedrich Schickel
+Carl Gottfried Anders
+Johann Friedrich Lippmann
+Johann Traugott Leberecht Fritzsche
+Johann Gottfried Hillig
+----------------
+Samuel Wilhelm Braungart
+Adam Friedrich Kunze
+Johann Gottlob Hennig
+Traugott Börner
+----------------
+1814
+Johann Gottlieb Zimmermann
+Carl David Eichler
+Carl Gottlob Braune
+Christian Friedrich Butze
+Carl Gottlob Ulbricht
+----------------
+Johann Gottlieb Ölschlegel
+Christian Friedrich Feller
+Johann Georg Bernhardt
+Carl Traugott Ditrich
+Johann Carl Gottlob Erler
+----------------
+Johann Gottfried Fischer
+Johann Gottfried Lippmann
+Johann Gottlob Feller
+Johann Gottfried Richter
+Carl Gottlob Lempe
+----------------
+1815
+Friedrich Wilhelm Stockmann
+Johann Gottlieb Bernt
+Johann Daniel Ditrich
+Ehregott Benjamin Keil
+----------------
+Friedrich Samuel Kummer
+Johann Georg Fleischer
+Carl Gottlob Friedrich Klemm
+Johann Christian Limmer
+Carl Gottlob Leibner
+----------------
+Gottfried Leberecht Liebe
+Johann Michael Fröbel
+Carl Gottlieb Kirbach
+Karl Gottlieb Böhme
+Gottlob Friedrich Krumbiegel
+Johann Karl Gottlieb Erler
+----------------
+Johann Christian Friedrich Helbig
+Karl August Heidenreich
+Karl Friedrich Heinrich
+Johann Gottlieb Fleischer
+----------------
+1816
+Christoph Pauli
+Johann Caspar Erler
+Karl Gottlieb Fröbel
+Christoph Daniel Illig
+Johann Gottlob Schramm
+Gottlob Friedrich Butter
+----------------
+Gotthelf Friedrich Brückner
+Johann Michael Richter
+Gotthelf Leberecht Hempel
+Karl Gottfried Schneider
+Johann Gottlieb Sohr
+Karl Gottlob Winter
+----------------
+Karl Gottlieb Clausnitzer
+Johann Benjamin Ehnold
+Traugott Friedrich Uhlig
+Daniel Christoph Fröbel

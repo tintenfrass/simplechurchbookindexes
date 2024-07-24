@@ -1,14 +1,16 @@
 Langenau (Buch 231)
-Trauungen 1698-1809
+Trauungen 1698-1819
 https://www.archion.de/de/viewer/churchRegister/359913?pageId=50680075
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
+Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
-Erstellt in ca. 3 Stunden
+Erstellt in ca. 3,5 Stunden
 Januar 2024
-Mai 2025
+Mai 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1867,3 +1869,258 @@ Christian Ehregott May
 Samuel Friedrich Hoffmann
 Samuel Friedrich Klemm
 Gottlob Friedrich Kaden
+----------------
+1810
+Salomon Friedrich Gerold
+David Benjamin Mildner
+Carl David Sohr?
+Georg Friedrich Pflugbeil
+Carl Gottlob Lehnert
+Carl Gottlob Einhorn
+----------------
+Carl Gottlob Einert
+Carl Gottfried Fischer
+Carl Friedrich? Richter?
+Johann August Gründler
+Gottlob Friedrich Richter
+Christian Friedrich ?
+Johann Gottfried Hende?
+August Christian Zeubig?
+----------------
+Gotthelf Friedrich Drechsler
+Christoph Friedrich Klemm
+Carl Gottlob Schubert
+Carl Gottfried Zeue?
+1811
+Carl Gottlob Schmieder
+August Friedrich Oehme
+Gottfried Aaron Poppe
+----------------
+Johann Gottfried Schreiter
+Carl Gottfried Sohr
+Carl Friedrich Brauschweig
+Carl Gottlob Hoffmann
+Johann Gottlieb Bormann
+Gottlieb Friedrich Grötschel
+Carl Christoph? Trincks
+----------------
+Carl Friedrich Braun?
+Carl Christoph Zickmantel
+Carl? Gottfried Brauschweig
+Carl Gottlob Franke
+Georg Traugott Gläser
+----------------
+Traugott Leberecht Lehnert
+Carl Friedrich Oesterreich
+Christian Traugott Frost
+Salomon Sterl
+Johann Gottlob Pretzsche?
+----------------
+Carl Friedrich Siegel
+Carl Gottfried Lichtenberger
+Carl Gottlob Walther
+Gottlieb Kluge
+Traugott Leberecht Lehnert
+Carl Gottlob Müller
+----------------
+1812
+Johann Christian Baldauf
+Johann Christoph Leubner
+Johann Gottlieb Erler
+Johann Gottfried Müller
+c1 Gottlob Grund
+Johann Carl Gottlieb Schubert
+Carl Gottlob Uhlig
+----------------
+Gottlob Zeller
+Johann Gottlieb Penitz
+Johann Christoph Börner
+Friedrich Wilhelm Clemens? Göpfert
+Traugott Friedrich Börner?
+Johann Georg Nestler?
+David Benjamin Prußler?
+----------------
+August Friedrich Bräuer
+Carl Gotthelf Kraut
+Carl Friedrich Uhlmann
+Carl Friedrich Wenzel
+August Friedrich Lippmann
+Samuel Traugott Otto
+----------------
+Carl Gottlieb Uhlemann
+Johann Gottfried Bellmann
+1813
+Carl Gottlieb Franke
+Carl Gottlob Börner
+Carl Gottlob Franke
+----------------
+Samuel Friedrich Schubert
+Carl Gottlob Köhler
+Georg Friedrich? Clausnitzer //Johann
+Carl Adolph Rößiger
+Samuel Traugott Henzel?
+----------------
+Johann Wilhelm Kaden
+Christian Libegott? Froß
+Carl Gottlob Börner
+Carl Gottlob Träger
+Johann Samuel Haubold
+----------------
+Carl Gottlob Böhme
+Christian Ehregott Börner
+Carl Friedrich Neubert
+August Friedrich Oesterreich
+Carl Gottlob Bellmann
+Christian August Engel
+----------------
+1814
+Carl Gottfried Feller
+Christian Friedrich Lehnert
+Georg August Tealer
+Carl Gottlob Fleischer
+Johann Gotthelf Richter
+Samuel Friedrich Hötze
+----------------
+Johann Gottfried Siegel
+Johann Wilhelm Mildner
+Johann Wilhelm Werling
+Carl Friedrich Fedgenhäuer
+Benjamin Lehnert
+Carl Friedrich Koch
+----------------
+Friedrich Gotthelf Lüder
+Carl Friedrich Schubert
+Carl Gottlieb Schmieder
+Carl Gottlob Morgenstern
+Johann Gottlob Ehnold
+----------------
+Carl Friedrich Uhlmann
+Carl Gottlob Frenzel
+Gottlob Friedrich Böhme
+Johann Gottlieb Einhorn
+Johann Gottfried Lippmann
+----------------
+1815
+Johann Gottfried Richter
+Carl Friedrich Haubold
+Gotthold Friedrich Schubert
+Christian Friedrich Seyffert
+Johann August Friedrich Mänzner
+----------------
+Carl August Uhlmann
+Johann? Carl Wilhelm Ulbricht
+Samuel Friedrich Schmidt
+Carl August Kirbach
+Traugott Leberecht Gemlich
+----------------
+Johann Gottlob Friedrich
+Carl Friedrich Bräune
+Carl Gottfried Trinks
+Carl Gottlieb Braun
+Salomon Friedrich Weise
+----------------
+Caspar Friedrich Gerold
+Christian Gottlieb Hänig
+Johann Gottlieb Kepler
+Johann Gottlob Börner
+----------------
+Carl Gotthold Böhme
+Carl Gottlob Thiele
+----------------
+1816
+Johann Gottlob Weißgerber
+Johann Ernst Ulbricht
+Hironimus Friedrich Börner
+Johann Gottlieb Schubert
+----------------
+Gottlob Friedrich Gerold
+Carl Gottlob Neuhäuser
+Christian Gottlob Seydel
+Christian Wilhelm Börner
+----------------
+Carl Gottlieb Oesterreich
+Carl Gottlieb? Ziegler //korrigiert
+Carl Friedrich Grünewald
+Johann Gottlob Lichtenberger
+----------------
+Gottlob Friedrich Lorentz
+Immanuel Liebscher
+Johann Christoph Schubert
+Christian Friedrich Lippmann
+----------------
+Christian Traugott Richter
+Carl Friedrich Frey
+Carl Gottlob Weigelt
+Salomon Friedrich Frenzel
+----------------
+Johann Christian Leopold Stülpner
+Carl Christoph Hellbig
+Traugott Friedrich Leberecht Börner
+Christian Ehregott Naiberßum?
+----------------
+1817
+Carl Gottlieb Püschel
+Friedrich Wilhelm Berger
+Carl Wilhelm Seyffert
+Carl Friedrich Köhler
+Carl Friedrich Schneider
+----------------
+Johann Gottlieb Straßburger
+Ernst Friedrich Trinks
+Christoph Andreas Schubert
+Christian Friedrich Neubert
+----------------
+Johann Michael Bug
+1818
+Carl Friedrich Zillert
+Gottlob Friedrich Lorentz
+Carl Friedrich Oehme
+Carl Gottlieb Sandig
+----------------
+Carl Friedrich Fedgenhäuer
+August Friedrich Texter
+Michael Friedrich Auerbach
+Carl Gottlob Arnold
+Carl Reinhardt Kröher
+----------------
+Ehregott Schönberg
+Carl Traugott? Liebscher
+Johann Christoph Lehnert
+Traugott Benjamin Kühn
+Carl Gottfried Leubner
+----------------
+Gottlob Friedrich Tittel
+Carl August Ulbricht
+Carl August Winckler
+Carl Gottfried Kraut
+----------------
+1819
+Carl Friedrich Wenzel
+Johann Gottlob Weidensdörfer
+Johann Christoph Matthes
+Carl Friedrich Schubert
+Gottlob Friedrich Franke
+Friedrich Wilhelm Trinks
+----------------
+Georg? Friedrich? Clausnitzer //Johann Gottfried
+Johann David Fischer
+Carl Gottlob Uhlig
+Johann Christoph Zückmantel
+Johann David Leberecht Beyer
+Carl Gottlob Petzsch
+----------------
+Carl Gottlob Neubauer
+August Friedrich Forberger
+Carl Friedrich Kaden
+Johann Gottlob Friedrich Zückmantel
+Salomon Zeier?
+Johann Wilhelm Schmieder
+----------------
+Johann? Traugott Wagner //korrigiert
+Carl Gottlob Hornburg
+Carl Wilhelm Damm
+Christian Ehregott Löbel
+Christian Friedrich Wüstner
+Johann Christian Werling
+Johann Friedrich Köhler
+Carl Traugott Leberecht Bieber
