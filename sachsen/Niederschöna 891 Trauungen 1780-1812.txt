@@ -1,5 +1,5 @@
 Niederschöna (Buch 891)
-Trauungen 1780-1809
+Trauungen 1780-1812
 https://www.archion.de/de/viewer/churchRegister/360053?pageId=50708376
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 1 Stunde
 Januar 2024
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -646,3 +647,70 @@ Carl Gottfried Löwe
 Christian Friedrich Fischer
 Johann Gottlieb Rost
 Johann Gottlob Fuhrmann
+----------------
+1810
+Johann August Heyde
+Johann Georg Pfeiffer
+Johann Gottlob Kirsten
+Johann Traugott Straube
+Johann Gottlob Richter
+Carl Gotthelf Schubert
+----------------
+Johann Christian Zimmermann
+Johann Georg Knebel
+Johann Gottfried Böhme
+Johann Heinrich Lützner
+Carl Gottlob Thomas
+Carl Gotthelf Hentschel
+----------------
+Johann Gottfried Naumann
+Christian Traugott Ufer
+Johann Christian Heyde
+Johann Gottlieb Richter
+Johann Gottlieb Richter
+Carl Gottlob Bartsch
+----------------
+Carl Gottlieb Eichhorn
+Johann Gottlieb Schmiedgen
+Carl Gottlob Haupt
+Johann Gottfried Rost
+----------------
+1811
+Johann Gottlob Bielich
+Johann David Lobegott Müller
+Johann Gottfried Keller
+Johann Gottlieb Kühn
+Johann Leberecht Renkewitz
+Georg David Thomas
+----------------
+Johann Gottfried Haupt
+Johann Gottfried Weise
+Johann Gottlieb Uhlig
+Johann Gottlieb Küttner
+Johann Christian Rötsch
+Johann Georg Vetter
+Carl Gotthelf Küchenmeister
+----------------
+Carl Gottfried Schumann
+Johann Gottlieb Richter
+Johann Gotthold Weise
+Johann Gottfried Schreyer
+Johann Gottfried Gabriel
+Johann Gottlieb Braunsdorf
+Johann Gotthold Weise
+----------------
+Johann Gotthelf Rose
+1812
+Carl Gotthelf Friedrich Stein
+Johann Gottlieb Menzer
+Christian Gotthelf Heinrich
+Johann Gottlieb Götze
+Johann Gottfried Böhme
+Carl Gottlieb Scheffel
+----------------
+Johann Gottlieb Görlt
+Gottlieb Friedrich Weichold
+Johann Gotthelf Ditrich
+Carl Gottlieb Mende
+Carl Gottfried Döring
+Carl Gottlob Heber

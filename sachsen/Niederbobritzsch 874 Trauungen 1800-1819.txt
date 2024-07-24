@@ -1,13 +1,14 @@
 Niederbobritzsch (Buch 874)
-Trauungen 1800-1809
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/360036?pageId=50705721
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -209,3 +210,198 @@ Johann Carl August Enold
 Johann Gottlob Fritzsche
 Carl Gottlob Schmidt
 Johann Christlieb Schneider
+----------------
+1810
+Johann Gottlob Andreas
+Carl Gottfried Richter
+Carl Gottlieb Fritzsche
+Gottfried Benjamin Müller
+Johann Gottlieb Fritzsche
+Carl Gottlob Gelfert
+Johann Georg Waltz
+Adam Gottlieb Reichert
+----------------
+Johann Gotthelf Lange
+Gotthelf Leberecht Köhler
+Carl Gottlob Berndt
+Georg Gottlieb Scheller
+Carl Gottlieb Lohse
+Johann Gottlieb Rothe
+Carl Gottlieb Erler
+----------------
+1811
+Johann Gottlieb Gelfert
+Christian Friedrich Lange
+Johann Gottlieb Beyer
+Gotthelf Benjamin Krönert
+Johann Georg Enoldt
+Johann Gottfried Wunderwald
+Johann Samuel Hauck
+Johann Gottlob Beyer
+----------------
+Johann Gottlieb Prieps
+Johann Friedrich Krönert
+Johann Gottlob Halfter
+Carl Gottfried Glöckner
+Gotthelf Heinrich Leschner
+Carl Gottfried Richter
+Carl Friedrich Beyer
+Carl Gottlieb Benjamin Köhler
+----------------
+Carl Gottlieb Weise
+Christian Gotthelf Horn
+1812
+Johann Gotthelf Uhlig
+Johann Gotthelf Zimmermann
+Carl Gottfried Uhlig
+Christian Friedrich Ölschlegel
+Johann Friedrich Giezelt
+----------------
+Carl Gottlob Jünger
+Johann Gottfried Thiele
+Carl Gottlieb Rüdiger
+Christian Gottlieb Leschner
+Johann Gottlieb Lieber
+Carl August Gelfert
+Johann Friedrich Brause
+Johann Gottlieb Silbermann
+----------------
+Johann Gottlob Köhler
+Carl Gottlob Gelfert
+1813
+Carl Gottlob Glöckner
+Johann Gottfried Wolf
+Johann Gottlieb Zimmermann
+Carl Christoph Glöckner
+Johann Gottlieb Zimmermann
+Carl Gottfried Zimmermann
+----------------
+Johann Gotthelf Grimmer
+Gotthelf Samuel Spörke
+Carl Gottlieb Strahl
+Johann Gottlieb Wunderwald
+Johann Gottfried Leberecht Walther
+Carl Gottfried Wagner
+Traugott Leberecht Hittig
+Johann Friedrich August Schneider
+Johann Gottlieb Eckert
+Christian Friedrich Timmel
+----------------
+----------------
+Johann Gottlob Fritzsche
+Carl Gottlob Ihle
+Carl August Wolf
+Carl August Schmieder
+1814
+Johann Gottlob Bormann
+Ernst Gottlob Straßberger
+Traugott Abraham Müller
+Benjamin Leberecht Spörke
+Traugott Benjamin Uhlig
+----------------
+Carl Gottlieb Zimmermann
+Carl Gottlob Pilz
+Carl Gottlieb Kleber
+Carl Gottlieb Beckert
+Carl Gottfried Weichelt
+Johann Gottfried Götze
+Carl Friedrich Näcke
+Carl Gottlieb Franke
+Carl Gottfried Wunderwald
+----------------
+Traugott Benjamin Müller
+Georg Gottlieb Walther
+1815
+Johann Georg Friedrich Beyer
+Johann Christoph Ihle
+Carl Gottlob Keller
+Carl Friedrich Schmieder
+Carl Gottfried Schmieder
+Carl Gottlob Schmidt
+Carl Gottlieb Beyer
+----------------
+Carl Friedrich Große
+Gottfried Heinrich Schwinger
+Johann Christian Limmer
+Johann Gottlieb Wolf
+Carl Gotthelf Köhler
+Carl Gottlieb Hauptvogel
+Ehrenfried Leberecht Benjamin Kästner
+Johann Gottfried Liebert
+----------------
+Johann Traugott Leberecht Lange
+Johann Friedrich Klöß
+Peter Gotthelf Stockmann
+Carl Gottlob Günther
+Benjamin Liebert
+Johann Samuel Spörke
+Gotthelf Heinrich Friedrich
+Traugott Leberecht Straßberger
+----------------
+Carl Gotthelf Lange
+1816
+Christian Friedrich Mehnert
+Johann Samuel Lohse
+Carl Friedrich Beckert
+Johann Gottfried Welz
+Johann Gottfried Glöckner
+Traugott Benjamin Schmieder
+Carl Wilhelm Hillig
+----------------
+Carl Friedrich Seyffert
+Carl Gottfried Spörke
+Johann Gottlob Weigold
+Friedrich Köhler
+Johann Gotthold Zehl
+Johann Samuel Wunderwald
+Carl Gottlieb Spörke
+----------------
+1817
+Christian Heinrich Köhler
+Friedrich August Porstein
+Gotthelf Samuel Müller
+Johann Carl Gottlieb Schiffel
+Johann Gotthold Heinrich Hoffmann
+Johann Gottlieb Wolf
+Traugott Leberecht Grimmer
+Carl Gottlob Richter
+Carl Traugott Schmidt
+----------------
+Johann Georg Spörke
+Heinrich August Teichmann
+Johann Gottlieb Lohse
+Carl Friedrich Zeihn
+Carl Traugott Schubert
+1818
+Friedrich August Wagner
+August Leberecht Haym
+----------------
+Carl Gottfried Beckert
+Carl Gottlob Berndt
+Carl Gottlieb Zimmermann
+Carl Gottlob Thiele
+Johann Gottlob Zimmermann
+Carl Gottlieb Ihle
+Carl Gottlieb Glöckner
+----------------
+Carl Gottlieb Andreas
+Gottlob Friedrich Richter
+Johann Gottlieb Höppner
+Carl Gottlieb Glöckner
+1819
+Johann Carl Friedrich Helbig
+Carl Gottfried Beyer
+----------------
+Carl Gottlieb Schmieder
+Gottlob Friedrich Richter
+Carl Gottlieb Weigold
+Johann Gotthelf Braune
+Carl Traugott Wolf
+Johann Gottlieb Lotze
+----------------
+Johann Gottlieb Bernhard
+Carl Gottfried Beckert
+Carl Gottlieb Grimmer
+Georg Gottlieb Walther
+Johann Daniel Schäfer
+Johann Samuel Franke
