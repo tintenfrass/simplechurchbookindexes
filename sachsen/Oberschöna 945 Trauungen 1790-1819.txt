@@ -1,5 +1,5 @@
 Oberschöna (Buch 945)
-Trauungen 1790-1809
+Trauungen 1790-1819
 https://www.archion.de/de/viewer/churchRegister/360097?pageId=50717506
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,9 +9,10 @@ Hinweis:
 Filialkirche Wegefarth
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Januar 2024
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -200,3 +201,111 @@ Samuel Gottfried Hoffmann
 ----------------
 Carl Gottfried Schmidt
 Carl Gottlieb Schnecke
+1810
+Johann Gottfried Kluge
+Carl Gottfried Tippmann
+Christian Friedrich Lehnert
+----------------
+Carl Friedrich Richter
+Friedrich Wilhelm Lange
+Carl Gottfried Großmann
+----------------
+1811
+Dankegott Mätzler
+Johann Traugott Ufer
+Christian Friedrich Schmidt
+Christian Hauptmann
+Carl Gottlob Willkomm
+Traugott Friedrich Lange
+Johann Gottfried Dietze
+----------------
+1812
+Johann Gotthelf Uhlig
+Johann Samuel Öhme
+Carl Gottlob Grund
+Christian Friedrich Lange
+----------------
+Samuel Friedrich Eichhorn
+Carl Gottlieb Mehner
+Carl Traugott Haubold
+Carl Gottlob Willkomm
+Carl Gottlob Schmidt
+Carl Christian Schmidt
+----------------
+----------------
+1813
+Karl Gottlob Kirsch
+Johann Friedrich Richter
+Johann Georg Michael Schubert
+Christian Ehregott Börner
+Johann Georg Fritzsche
+Carl Friedrich Theodor Donat
+----------------
+Johann Gottfried Henig
+1814
+Carl Gottlob Heydenreich
+Johann Christoph Fritzsche
+Johann Martin Reichert
+----------------
+Johann Gottlob Kühn
+Traugott Strauch
+Johann Traugott Bertram
+Johann Carl Gottfried Kunze
+----------------
+1815
+Christian Friedrich Kempe
+Carl Gotthelf Köhler
+Carl Gottlieb Willkomm
+Carl Gottlob Mätzler
+Carl Gottlob Haubold
+Carl Gottlob Schubert
+----------------
+Carl Gottlob Fröhnert
+Johann Gottlob Schneider
+1816
+Johann Michael Heydenreich
+Johann Gottlob Öhme
+Friedrich Fürchtegott Leonhardt
+----------------
+Friedrich Wilhelm Richter
+Johann Traugott Halm
+Gottlob Benjamin Steiger
+Carl Gottlieb Einert
+Carl Friedrich Hoffmann
+----------------
+Carl Gottlob Weinhold
+Carl Gottlieb Schubert
+1817
+Johann Gottfried Willkomm
+Christian Traugott Steiger
+Johann Friedrich August Schrot
+----------------
+Johann Gottfried Bretschneider
+Carl Christoph Fröhnert
+Johann Traugott Mehnert
+Christian Gottlieb Winckler
+Carl Traugott Schmidt
+----------------
+Carl Gottlob Zöllner
+Johann Traugott Kühn
+Johann Christoph Teistler
+Johann Gottfried Hähnel
+Carl Gottfried Kühn
+Carl Gottlieb Leonhardt
+Christoph Friedrich Spindler
+----------------
+Christian Friedrich Feldmann
+1819
+Ehregott Leberecht Liebe
+Carl Traugott Glöckner
+Carl Friedrich Wilhelm Störzel
+----------------
+Johann Michael Eckart
+Johann Christoph Fritzsche
+Carl Michael Böhme
+Johann Christoph Günther
+Carl Friedrich Zimmermann
+August Friedrich Uhlemann
+----------------
+Carl Gottfried Wolf
+Carl Friedrich Burkert

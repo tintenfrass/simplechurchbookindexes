@@ -1,14 +1,15 @@
 Oberschöna (Buch 910)
-Trauungen 1790-1809
+Trauungen 1790-1819
 https://www.archion.de/de/viewer/churchRegister/360090?pageId=50715458
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Januar 2024
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -390,3 +391,172 @@ Carl Gottfried Kunze
 Carl Gottlob Siegert
 ----------------
 August Enderlein
+1810
+Carl Gottlob Börner
+Carl Gottlieb Weber
+Carl Friedrich Haupt
+Carl Friedrich Heinzmann
+Johann Gottlieb Kunze
+----------------
+Johann Gottlob Gehler
+Johann Gottlieb Hoyer
+Carl Gottlieb Otto
+Christian Friedrich Mätzler
+Carl Cornelius Klemm
+Johann Gottlieb Händler
+Johann Samuel Schneider
+----------------
+1811
+Dankegott Mätzler
+Carl Gottlieb Richter
+Johann Traugott Ufer
+Samuel Friedrich Lange
+Carl Gottlieb Lange
+Carl Gottlob Thiele
+Carl Gottlob Illgen
+----------------
+Carl Gottlob Müller
+Carl Friedrich Steyer
+Carl Gottfried Seipt
+Carl Gottlieb Hunger
+----------------
+1812
+Carl Gottlob Grund
+Johann Christian Kluge
+Carl Gottlob Seyffert
+Johann Carl Benjamin Wagner
+Carl Gottlieb Straube
+Carl Gottlieb Mehner
+Friedrich August Schmidt
+----------------
+Carl Gottlob Willkomm
+Samuel Traugott Otto
+Carl Gottfried Näcke
+August Friedrich Herklotz
+----------------
+1813
+Carl August Günzel
+Johann Gottfried Hillig
+Johann Gottfried Händler
+Johann Samuel Haubold
+Gottfried Siegmund Find
+----------------
+Christian Ehregott Börner
+Christian Ehregott Andreeas
+1814
+Carl Gottlob Braune
+Johann Gottlieb Barfuß
+Christian Gottlieb Andreas
+Carl Gottlob Heydenreich
+----------------
+August Friedrich Rösiger
+Carl Schloßhauer
+Carl Gottfried Anke
+Christoph Friedrich Heinzmann
+Heinrich Hiskias Haubold
+Carl Gottlob Kunze
+----------------
+Carl Gottlieb Lempe
+Israel Friedrich Haubold
+Bernhard Frieß
+1815
+Carl Gottfried Homilius
+Christian Gottlob Wagner
+Johann Gottfried Zeuner
+Friedrich Küchenmeister
+----------------
+Johann Gottfried Seyffert
+Johann Georg Kirbach
+Johann Georg Leberecht Gößel
+Carl Samuel Halm
+Carl Gottlob Mätzler
+Ehrenfried Liebschner
+Johann David Straßberger
+----------------
+Christian Friedrich Fröhnert
+Johann Christoph Straßburger
+Carl Friedrich Heinzmann
+Friedrich August Drechsler
+Carl Gotthelf Ludwig
+----------------
+Carl Seidel
+Johann August Naumann
+Johann Friedrich Herfter
+Johann Christian Morgenstern
+Johann Gottfried Rothe
+----------------
+Carl Friedrich Steyer
+Johann David Lange
+1816
+Benjamin Lange
+Traugott Friedrich Beyer
+Carl Gottlob Michael
+----------------
+Carl Gottlieb Barthel
+Friedrich Abraham Traugott Rimmler
+Carl Gotthold Helbig
+Georg Gottlieb Rilke
+Johann Samuel Teistler
+Carl Gottlob Eckert
+Carl Gottlob Teistler
+----------------
+Johann Gottlieb Weycher
+Carl Gottlieb Bernd
+Friedrich Wilhelm John
+Ehregott Benjamin Stein
+----------------
+1817
+Johann Gottfried Gerngroß
+Ehrengottfried Berger
+Carl Gottlieb Lohse
+Johann Gottlob Gehler
+Georg Gottfried Gehler
+Johann Traugott Lange
+----------------
+Johann Gottfried Noack
+Johann Christoph Pomsler
+Friedrich Gottlob Thiele
+Friedrich Wilhelm Schiefer
+Carl Gottlob Müller
+Johann Christoph Seyffert
+Johann Christoph Straßberger
+----------------
+Traugott Friedrich Höpfner
+1818
+Carl Gottlob Wildfeuer
+Johann Christoph Teistler
+Carl Gottlob Müller
+Carl Gottlieb Küttner
+----------------
+Johann Traugott Hermsdorfer
+Ehregott Schönberg
+Johann Gottfried Noack
+Carl Gottlob Thiele
+Carl Gottlob Rilke
+Johann Carl Gottlieb Berger
+Adolph Wilhelm Lehnert
+----------------
+Carl August Winckler
+Christoph Buschbeck
+Benjamin Kluge
+1819
+Carl August Berndt
+Carl Gottlieb Wildfeuer
+Christian Friedrich Pöschel
+----------------
+Samuel Friedrich Rösiger
+Johann August Ferdinand Jobst
+Johann Traugott Ludwig
+Gottlieb Israel Büttner
+Carl Gottlob Neubauer
+Carl Friedrich Helbig
+Carl Gottfried Küttner
+----------------
+Christian Gottlob Mertig
+Christoph Adam Wagner
+Carl Gottfried Sohr
+Christian August Drechsel
+Johann Samuel Schlimpert
+Johann David Tippmann
+----------------
+Carl Gottlieb Uhlemann

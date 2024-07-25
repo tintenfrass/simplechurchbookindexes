@@ -1,5 +1,5 @@
 Zethau (Buch 410)
-Trauungen 1771-1809
+Trauungen 1771-1812
 https://www.archion.de/de/viewer/churchRegister/360209?pageId=50738851
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 0,5 Stunden
 Januar 2024
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -632,3 +633,61 @@ Johann Traugott Bellmann
 Christian Friedrich Müller
 Friedrich August Vogler
 Johann Christoph Zäncker
+----------------
+1810
+Johann Christlieb Richter
+Carl Gottlob Schneider
+Christian Gottlob Bellmann
+Christian Friedrich Clausnitzer
+Carl Friedrich Waldmann
+Christian Friedrich Helbig
+August Samuel Erler
+Johann Gottfried Börner
+----------------
+Carl Gottlob Hoffmann
+David Friedrich Mühle
+Johann Christian Friedrich Rost
+Carl Gottlieb Strauß
+Carl Christian Dietze
+Carl Gottlob Wärzner
+Carl Adam Erler
+----------------
+1811
+Carl Gottlieb Clausnitzer
+Carl Gottlieb Börner
+Johann August Lippmann
+Johann Christoph Seyffert
+Christian Gottlob Martin
+Carl Christian Schubert
+Carl Gotthelf Kraut
+----------------
+Carl Friedrich Oehme
+Johann Christoph Schneider
+Carl Gottlieb Bellmann
+Christian Friedrich Drechsel
+Johann Gotthold Morgenstern
+Johann Gottlieb Bellmann
+----------------
+Carl Gottlob Schneider
+Johann August Friedrich Müller
+Johann Christoph Leibner
+Carl Gottlob Thiele
+Adam Friedrich Zäncker
+----------------
+1812
+Carl Gottlieb Drechsel
+Carl Gottfried Horn
+Johann Traugott Pfeiffer
+Carl Samuel Gottlieb Träger
+Christian Friedrich Richter
+Carl Gottlieb Dienel
+Carl Gottlieb Waldmann
+Carl Friedrich Baumgart
+Carl Gottlieb Schneider
+----------------
+Christian Gottlieb Walther
+Carl Gottfried Bellmann
+Johann August Martin
+Johann Gottlieb Schmieder
+Johann Gottfried Leibner
+Johann Traugott Crönert
