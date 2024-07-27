@@ -1,12 +1,14 @@
 Dorfhain (Buch 136)
-Trauungen 1800-1809
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/294223?pageId=40870890
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
+Erstellt in ca. 0,5 Stunden
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -147,3 +149,128 @@ Johann Gottlieb Gelfert
 Carl Abraham Böhme
 Johann Gottlieb Gelfert
 Johann Samuel Braune
+1810
+Carl Gottfried Weckbrodt
+Johann Traugott Leberecht Kunat
+Johann Gottfried Lotze
+Johann Heinrich Schuster
+Johann Gottlob Zimmer
+Carl Gottfried Jäckel
+----------------
+1811
+Friedrich August Mohr
+Johann Christoph Zscheyle
+Johann Christian Kümmelberger
+Johann Christoph Degelt
+Carl Gottlieb Michaelis
+Johann Carl Gottlieb Schumann
+Carl Gottlieb Inckermann
+Johann Christian Gottlieb Kunat
+Johann Gottlieb Scheunert
+Johann Samuel Heße
+Carl Andreas Adam
+Traugott Ephraim Gutte
+----------------
+1812
+Christian Friedrich Geißler
+Christian Gottlieb Fehrmann
+Johann Christian Gottlieb Hoppe
+Carl Gottfried Ficke
+Johann Gottlieb Benedix
+Carl Gottlob Merkel
+Johann Gottlob Romberg
+Johann Gottfried Angermann
+Carl Gottfried Bormann
+Johann Gottfried Müller
+----------------
+1813
+Johann Gottlob Ficke
+Carl Gottfried Wolf
+Carl Gottlob Merkel
+1814
+Johann Gottlob Bormann
+Christian Gottlieb Hünig
+Carl Gotthelf Fleischer
+Gottlieb Wegbrodt
+----------------
+Johann Gotthelf Seidler
+Carl Christoph Wagner
+Johann Christian Neubert
+Daniel Gottlieb Lommatzsch
+Johann Gottlob Döhling
+Gottfried Schneider
+Samuel David Menzer
+Johann Gottlieb Rothe
+Johann Georg Schlick
+Johann Gottlieb Künzel
+----------------
+1815
+Johann Gottfried Merkel
+Johann Gottlieb Büttner
+Johann Gottlieb Richter
+Gottlieb Leberecht Frauenstein
+Carl August Weinhold
+Carl Gottlieb Jäckel
+Carl Gottlob Richter
+Carl Friedrich Wagner
+Johann Georg Hauptvogel
+Johann Gottfried Richter
+----------------
+Johann Gotthelf Henker
+Carl Gottlob Staude
+Samuel Gottlieb Reichelt
+1816
+Johann Gottfried Jäckel
+Johann Christian Horn
+Christian Lobegott Richter
+Samuel David Menzer
+August Gottlob Horn
+Johann Ernst Georg Müller
+----------------
+Christian Lobegott Richter
+Johann Samuel Gottlieb Haman
+1817
+f21 Wilhelm Pöschel
+Johann Gottlob Schmieder
+Johann Gottlieb Schiffel
+Johann Dortlieb? Christian Gottfried Kunath
+Gottfried Böhme
+Carl Gottfried Schumann
+Gottlieb Tetzel
+----------------
+Christian Gottfried Kümmelberger
+Johann Gotthelf Fleischer
+Johann Samuel Bellmann
+Johann Georg Pählich
+Carl Gottlieb? Zimmermann? //Inkermann
+Johann? Gottfried Wolf
+Wilhelm Ferdinand Herfurth
+Johann Samuel Hänich
+1818
+Adolph Benjamin Arnold
+----------------
+Johann Gottfried Geißler
+Carl Traugott Hermann
+Johann Gottfried Arnold
+Johann Gottlob Glöckner
+Carl Abraham Böhme
+1819
+Carl Friedrich Zscheile
+Carl Gottfried Böhme
+Gottlieb Merkel
+Johann Gottlob Töpfer
+----------------
+Carl Gottfried Kümmelberger
+Johann Gottfried Schneider
+Carl Gottlob Adam
+Carl August Lehnert
+Johann Carl Gottlieb Schneider
+Carl Gottlieb Winckler
+Johann Carl Gottlob Lohse
+Gottlob Richter
+Friedrich Wilhelm Michel
+Carl Christian Büttner
+Johann Gottlob Glöckner
+Carl Gottlieb Geißler
+----------------
+Carl Gottlob Schneider

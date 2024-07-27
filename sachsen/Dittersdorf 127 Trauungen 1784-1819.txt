@@ -1,5 +1,5 @@
 Dittersdorf (Buch 127)
-Trauungen 1784-1809
+Trauungen 1784-1819
 https://www.archion.de/de/viewer/churchRegister/294215?pageId=40868969
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 0,5 Stunden
 Oktober 2023
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -336,3 +337,117 @@ Johann Gottlieb Made
 ----------------
 Fürchtegott Christlieb Leberecht Fiedler
 Carl Gottlob Stimpel
+1810
+Karl Gottlieb Knauth
+Johann Christian Hesse
+Samuel Friedrich Träger
+Johann Gottlieb Legler
+----------------
+Johann Heinrich Ditrich
+Johann Gottfried Gietzelt
+Gottfried Heinrich Lotze
+Johann Jacob Stock
+Johann Gottlob Klepsch
+----------------
+1811
+Johann Christlieb Bobe
+Johann Christian Helbig
+Johann Christian Gössel
+Carl Gottlieb Hickmann
+Johann Carl Gottlieb Kühnel
+Carl Gottfried Harnisch
+Adam Friedrich Liebschner
+Johann Christoph Gottlieb Donat
+----------------
+1812
+Carl August Schütze
+Johann Georg David Seyffert
+Samuel Traugott Zillger
+Johann Christoph Hempel
+Carl Gotthelf Bobe
+Christian Ehregott Grohmann
+Carl Gottlieb Hesse
+----------------
+1813
+Johann Gottfried Schmidt
+Johann Gottfried Walther
+Johann Christoph Ritschel
+Johann Christian Gottlob Klemmer
+Johann Heinrich Köhler
+1814
+Johann Christoph Mühle
+Johann Gottlieb Schneider
+----------------
+Gottlob Leberecht Fränzel
+Johann Christian Gotthelf Hempel
+Johann Christian Emanuel Hauker
+Carl Gottlob Röhnisch
+Carl Gottlieb Kühnel
+Carl Gottlieb Hesse
+Johann Gottlob Kühnel
+Johann Christlieb Klotz
+----------------
+1815
+Christoph Gottlieb Schwencke
+Johann Gottlieb Strauß
+Johann Gottlieb Harnisch
+Johann Gottfried Huhle
+Gottlob Traugott Scheuberger
+Johann Gottlob Mende
+Johann Georg Klepsch
+Johann Heinrich Hähnel
+----------------
+Carl Gottlieb Schwencke
+Johann Gottlieb Mühle
+Christoph Gottlieb Thomas
+Johann Georg Donat
+1816
+Johann Gottlieb Mühle
+Johann Gottlob Schubert
+----------------
+Johann Gottlob Kühnel
+Johann Carl Gottlieb Grahl
+Carl Gottlieb Zillcher
+Johann Gottlieb Milde?
+Gottlob Heinrich Burckhart
+Johann Carl Gottfried Grundt
+Carl Friedrich August Schäfer
+Johann Gottlob Herzog
+----------------
+----------------
+----------------
+Johann Gottlieb Hauschild
+Johann Gottlieb Gliemann
+Carl Friedrich Legler
+1817
+Carl Christlieb Herfurth
+Carl Traugott Köhler
+Johann Gottlob Bormann
+Johann Carl Traugott Lehmann
+----------------
+Johann Gottlob Scheinert
+Johann Christian Tittel
+Johann Georg Kunad
+Carl Christian Bobe
+Carl Gottlieb Büttner
+Carl Gottlieb Steinichen
+Johann Georg Hähnel
+----------------
+1818
+Gottlob Heinrich Grundig
+Carl Gottlieb Rentzsch
+Carl Gottlob Wendt
+Johann Gottlob Grumbt
+Johann Christian Böhme
+Johann Gottfried Köhler
+Johann David Aulhorn
+Carl Gottfried Mende
+----------------
+1819
+Johann Friedrich Samuel Morgenstern
+Carl Gottlieb Juncknickel
+Carl Gottlieb Steupel?
+Johann Gottfried Bobe
+Johann Gottlieb Ehrlich
+Carl Gottfried Hesse
+Johann Friedrich Wilhelm Zillcher

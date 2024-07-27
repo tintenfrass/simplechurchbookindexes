@@ -1,5 +1,5 @@
 Dippoldiswalde (Buch 100)
-Trauungen 1800-1809
+Trauungen 1800-1810
 https://www.archion.de/de/viewer/churchRegister/294193?pageId=40862079
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Erstellt in ca. 1 Stunde
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -429,3 +430,47 @@ Johann Christian Rudolf
 Johann Christian Ditrich
 Johann Andreas Schumann
 Christian Heinrich Jäckel
+---------------- x37
+1810
+Johann Gottlob Michael
+Friedrich August Krebs
+Carl Christian Ehrlich
+Adam Gottfried Lohse
+Johann Friedrich Reichel
+Ferdinand Dankegott Schönert
+----------------
+Christian Friedrich Lauschke
+Johann Gotthelf Richter
+Johann Gottlob Schneider
+Carl Gottlob Bobe
+Johann Gottfried Renner
+----------------
+Johann Christoph August Herfurt
+Johann Georg Gottlieb Schütze
+Daniel Gottlieb Merot
+Johann Christian Hünich
+Johann Gotthelf Oeser
+----------------
+Gottfried Steingen
+Carl Gottlieb Siedel
+Christian Heinrich Röhringer
+Gotthelf Friedrich Wagner
+Johann Gottlob Scheinpflug
+----------------
+Friedrich Wilhelm Reiche
+Carl Gottlieb Berger
+Johann Christian Carlsohn
+----------------
+Johann August Richter
+Johann Heinrich Rietzsch
+Johann August Beyer
+----------------
+Heinrich Wilhelm Heymann
+Johann August Oertel
+Johann Gottfried Rodegast
+----------------
+Johann Gottlieb Fuchs
+Johann Christoph Franke
+Friedrich Gotthold Kleber
+----------------
+Friedrich Gottlieb Hempel
