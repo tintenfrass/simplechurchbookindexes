@@ -1,15 +1,16 @@
 Fördergersdorf (Buch 199)
-Trauungen 1778-1809
+Trauungen 1778-1819
 https://www.archion.de/de/viewer/churchRegister/294274?pageId=40884243
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunden
+Erstellt in ca. 1,5 Stunden
 Juni 2023
 August 2023
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -485,3 +486,183 @@ Johann Georg Wusch
 Johann Gottlieb Irmer
 Johann Gottfried Wähner
 Friedrich Gotthelf Bräunert
+1810
+Johann David Peschel
+Johann Christian Kühnert
+Johann Gottlob? Büttner
+----------------
+Johann Gottlieb Romberg
+Johann Gottlob Günther
+Carl Gottlob Amboseck
+Johann Gottfried Palisch
+Christian Gotthelf Roch
+Johann Georg Meißner
+Johann Gottfried Weigand
+Johann Gottfried Richter
+Johann Gottlieb Groll
+Johann Gottlieb Rüdiger
+Johann Christoph Ebert
+Johann Gotthelf Irmer
+Johann August Werner
+Christian Daniel Börner
+Johann Gottlieb Traugott Ditrich
+Georg Friedrich Funcke
+Johann Gottlieb Schramm
+Johann Gottlob Ryßel
+Johann Gottlieb Haubold
+Christian Gottlob Ebert
+----------------
+1811
+Carl Gotthelf Flade
+Carl Gotthelf Kruschwitz
+Johann Gottlieb Spengler
+Carl Gottlob Irmer
+Carl Gottlob Huhn
+Christian Gottlieb John
+Johann Gottlieb Liebert
+Johann Gottlieb Ditrich
+Johann Gottlob Spengler
+Johann Georg Fritzsche
+Johann Georg Patzig
+Johann Georg Wienert
+Johann Gottlob Andrä
+Johann Gotthelf Schiffel
+Johann Gottlob Hauptvogel
+Carl Gottlob Schlick
+Johann Gottlob Kühne
+----------------
+1812
+Johann Christian Geyer
+Johann Gottlieb Wustlich
+Johann Gottlieb Deutscher
+Johann Christian Leberecht Richter
+Johann Gottlieb Götze
+Johann Gottlob Seifert
+Christian Gottlob Grosch
+Johann Gottlob Pietzsch
+Johann Gottfried Glöckner
+Carl Ludwig Crompe
+Johann Gottlieb Hauptvogel
+Johann Gottlieb Breunert
+Johann Gottfried Weber
+Johann Gottlob Pätzig
+Johann Gottlieb Döhnert
+Johann Samuel Kühne
+Carl Gottlieb Scharschmidt
+----------------
+1813
+Johann Gottlieb Grahl
+Johann Friedrich Meyer
+Johann Gärtner
+Johann Gottlieb Hermann
+Johann Christian Parzsch
+Carl Gottlob Patzig
+Carl Gottlob Göpfert
+Johann Friedrich Strohbach
+Johann Gottlob Döhnert
+Christian Gottlob Fürchtegott Kaltofen
+Johann Gottlob Hübler
+Johann Gottlieb Lommatzsch
+Johann Ehrenfried Opitz
+Carl Friedrich Theodor Donat
+Johann Gottlieb Müller
+Christian Salomon Müller
+----------------
+1814
+Carl Gottlieb Palisch
+Christian Traugott Junold
+Johann Gottlieb Kühn
+Friedrich Wilhelm Geisler
+Christian David Weiße
+Johann Gottlob Hübler
+Johann Gottlob Patzig
+Johann Gottlieb König
+Christian Gottlob Geißler
+Johann Gottlieb Börner
+Johann Gottlieb Maul
+1815
+Johann Christian Schulze
+Franz Anton Sieber
+Carl Gottlieb Bachmann
+Friedrich Ludwig Boeve
+----------------
+Friedrich Traugott Opitz
+Johann Traugott Brühl
+Christian Friedrich Löwe
+Carl August Irmler
+Johann Gottlieb Hauptvogel
+Johann Gottlieb Pietzsch
+Carl Gottlieb Bormann
+Johann Gotthelf Börner
+Friedrich Gottlieb Flade
+Johann Gottlob Lehmann
+Johann Gottlieb Schöne
+Carl Gottlieb Lützner
+Johann Gottlieb Gebauer
+Johann Daniel Büttner
+Johann Gottlieb Berger
+----------------
+1816
+Johann Carl Gottlieb Meltzer
+Johann Gottlieb Wagner
+Johann Joseph Magnus
+Gottlob Friedrich Hempel
+Johann Gottlieb Koch
+Friedrich August Röthig
+Christian Friedrich Strohbach
+Johann Gottfried Bellmann
+Johann Gottlob Garbe
+Johann Christian Hillmann
+Johann Gottfried Bierig
+Johann Gottlieb Köhler
+Johann Carl Gottlob Mögel
+Johann Gotthelf Pietzsch
+----------------
+Carl Gottlieb Opitz
+Johann Christian Romberg
+1817
+Johann Daniel Büttner
+Johann Christoph Gottfried Zimmermann
+Christian Friedrich Patzig
+Carl Christian Gottlieb Berger
+Johann Christian Strohbach
+Johann Heinrich Wilhelm Ehregott Pape
+Johann Gottlieb Büttner
+Christian Börner
+----------------
+Johann Gottlieb Hamann
+1818
+Friedrich Gottlieb Flade
+Heinrich Gottlob Donat
+Friedrich Gotthelf Amboseck
+Carl Gottlob Ritter
+Johann August Simon
+Friedrich Gottlob Schramm
+Friedrich Benjamin Haupt
+Friedrich Gotthelf Opitz
+Johann Gottlob Hauptvogel
+----------------
+Johann Gottlieb Pietzsch
+Johann Gottlob Opitz
+Johann Gotthelf Schömberg
+Johann Gottlieb Göpfert
+1819
+Johann Gottfried Zumpfe
+Johann Gottlob Irmer
+Carl Gottlob Winckler
+Johann Gotthelf Romberg
+Johann Gottlieb Christ
+Johann Gottlob Töpfer
+Johann Carl Gottfried Reiche
+Johann Gotthelf Götze
+Johann Gottfried Bachmann
+Johann Gottlieb Bögen
+Johann Gottfried Damm
+----------------
+Johann Gottlob Hittig
+Johann Gottlieb Opitz
+Friedrich August Bormann
+Johann Gottlob Friedrich Damm
+Carl Eduard Patzig
+Johann Carl Gottlieb Geisler
+Johann David Wünschmann

@@ -1,12 +1,14 @@
 Fürstenwalde (Buch 278)
-Trauungen 1800-1809
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/294344?pageId=40895333
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
+Erstellt in ca. 0,5 Stunde
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -100,3 +102,73 @@ Carl Gottlob Schubert
 ----------------
 Carl Gottlob Rehn
 Johann Christian Meißner
+1810
+Carl Gottlieb Knauthe
+----------------
+Christian Gotthelf Lehmann
+Christlieb Bär
+Carl Christian Beckert
+Johann Gottfried Seiffert
+Gottfried Seiffert
+----------------
+Christian Gottlieb Rehn
+Gottlob Friedemann Lehmann
+1811
+Gottfried Böhmer
+----------------
+Johann Friedemann Seifert
+Friedrich August Beckert
+Johann Samuel Heinrich Löwe
+Johann Christoph Tittel
+----------------
+1812
+Johann Carl Gottlob Kadner
+Johann Gottfried Gößel
+Johann Gotthelf Tittel
+----------------
+1813
+Johann David Seiffert
+Johann Friedemann Seifert
+Johann Carl Gottlob Philipp
+Gotthelf David Bretschneider
+Johann Gottfried Hohlfeld
+----------------
+Carl Gottlob Gößel
+Johann Gottfried Philipp
+1814
+Johann Gottlieb Streit
+----------------
+Gustav Heinrich Heber
+Johann Christian Gottlieb Gößel
+Johann Carl Weidig
+Friedrich Gotthelf Herzog
+----------------
+1815
+Johann Gottfried Pfeiffer
+Johann Christian Seiffert
+Johann Georg Leberecht Gößel
+----------------
+Johann Christian Herzog
+Carl Gottlob Bierig
+Georg Gottlob Tittel
+----------------
+1816
+Johann Gottlieb Herzog
+Johann Gottlieb Mende
+1817
+Christoph Reinhold Knauthe
+Johann Christian Tittel
+----------------
+1818
+Johann Carl Gottlieb Kimmel
+Carl Gottlob Böhme
+Carl Friedrich Gotthelf Ritschel
+Carl Gottlieb Gößel
+Carl Gottlob Gößel
+----------------
+Johann Carl Gottlieb Köhler
+1819
+Friedrich Daniel Reuter
+Carl Gottlieb Gößel
+----------------
+Johann Traugott Kohl
