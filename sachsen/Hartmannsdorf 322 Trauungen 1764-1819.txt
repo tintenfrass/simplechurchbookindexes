@@ -1,5 +1,5 @@
 Hartmannsdorf (Buch 322)
-Trauungen 1764-1809
+Trauungen 1764-1819
 https://www.archion.de/de/viewer/churchRegister/294383?pageId=40903926
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -14,6 +14,7 @@ Teil 3: Trauungen
 Erstellt in ca. 1,5 Stunde
 Oktober 2023
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -143,7 +144,16 @@ Samuel Friedrich Zimmermann
 Gotthelf Bretschneider
 Friedrich Gotthelf Loose
 1809
-Johann Gottlob K?
+Johann Gottlob ?
+Carl Gottlob ?
+1810
+Carl Gottlieb Erler
+Christian Friedrich ?
+1811
+Carl Gottlieb Ditrich
+1812
+Johann Gottlob Götzelt
+Johann Gottfried Geißler
 1764
 Christoph Zimmermann
 Johann Christian Götzelt
@@ -517,7 +527,93 @@ Johann Gottlieb Kästner
 Johann Christian Ebert
 Johann Gottfried Richter
 Carl Friedrich Arnold
----------------- x33
+1810
+Johann Christoph Krell
+Carl Gottlob Wolf
+Carl Gottlob Rudolph
+Johann Georg Hähnel?
+Johann Samuel Krell
+Christoph Hähnel
+Carl Gottlieb Erler
+Christian Friedrich K?
+----------------
+Johann Gottlob Ehrlich
+1811
+Johann Friedrich Gotthelf Bernhardt
+Carl Gotthelf Bellmann
+Christian Friedrich Müller
+Carl Gottfried Grohmann
+Carl Gottlieb Ditrich
+Carl Gottlieb Menzer
+1812
+Christian Emanuel Müller
+Johann Gottlieb Auster
+Johann Daniel Fischer
+Christian Gottfried Jäckel
+Carl Gottlieb Weidelt?
+Johann Carl Gottlieb Bernhardt
+Johann Gottlob Götzelt
+----------------
+1813
+Carl Gottlieb Hänel
+Johann Gottfried Müller
+1814
+Johann Gottfried Geißler
+Gottlieb Fleischer
+Karl Gottlieb Fritzsche
+Karl Friedrich Ehrlich
+Karl Gottlieb Wunderwald
+1815
+Johann Gottlieb Liebscher
+Johann Samuel Göhler
+Christoph Töpfer?
+Johann Christoph Göhler
+----------------
+Johann Karl Gottlieb Benjamin Berndt
+Christian Friedrich Zincke
+Gottfried Jäckel
+Johann Gottlieb Hennig
+Johann Gottfried Hänel
+Karl Gottlieb Ernst
+Gottlieb Göhler
+Christian Friedrich Kempe
+Karl Gottlieb Rothe
+Johann Samuel Lempe
+----------------
+Karl Friedrich Baumgarten
+Johann Gottlieb Schubert
+1816
+Gottlieb Zimmermann
+Christian Friedrich Sommerschuch
+Johann Friedrich Christlieb Anders
+Karl Heinrich Kempe
+Karl Gottfried Fischer
+Karl Gottlieb Krell
+----------------
+1817
+Gottlob Ehrenfriedrich Dietze
+Johann Gottlieb Schulze
+Johann Balthasar Geißler
+Johann Christoph Liebscher
+1818
+Karl Gottlieb Lehmann
+Johann Gottlieb Lohse
+Carl Gottfried Fischer
+----------------
+Johann Gottlob Friedrich Glöckner
+Karl Gottlob Geißler
+1819
+Karl Gottlob Wolf
+Karl Gotthold Erler
+Gottlob Friedrich Zennig
+Gottlieb Richter
+Karl Gottlob Zimmermann
+Johann Christlieb Kästner
+----------------
+Karl Gottlob Göhler
+Johann Gottfried Kästner
+Gottlob Bretschneider
+---------------- x26
 1764
 Johann Christian Götzelt
 Christoph Zimmermann

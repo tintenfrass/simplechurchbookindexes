@@ -1,13 +1,14 @@
 Höckendorf (Buch 384)
-Trauungen 1800-1809
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/294433?pageId=40911950
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -215,3 +216,199 @@ Carl Gottlieb Richter
 Johann Gottfried Beugel
 Johann Immanuel Gottlieb Richter
 Daniel Zimmermann
+----------------
+1810
+Johann Traugott Leberecht Kunath
+Carl Gottfried Zimmermann
+Johann Jacob Eichhorn
+Samuel Gottlieb Richter
+Johann Heinrich Holfert
+Johann Gottfried Gottleber
+----------------
+Johann Gottfried Hoffmann
+Johann Gottlob Holfert
+Johann Friedrich Richter
+Johann Christoph Schneider
+Johann Gottlob Richter
+----------------
+1811
+Johann Christian Kümmelberger
+Johann Christoph Dezelt
+Johann Ehrenfried Bellmann
+Johann Gottlieb Hoffmann
+Carl Gottlieb Inkermann
+Johann Christian Gottlieb Kunath
+Johann Samuel Schneider
+----------------
+Christian Siegmund Kohl
+Johann Samuel Hesse
+Johann Gottlieb Schiffel
+Carl Gottfried Klotz
+Johann Gottlob Hoffmann
+Samuel Gottlieb Grimmer
+Traugott Ephraim Gutte
+Johann Christian Gottlieb Zimmermann
+Samuel Gottlieb Heyne
+Johann Gottlob Samuel Schäfer
+----------------
+----------------
+1812
+Christian Gotthelf Horn
+Friedrich Gottlieb Zimmermann
+Johann Gottlob Lantzsch
+Johann Christian Hamann
+Carl Samuel Gottlieb Träger
+Carl August Büttner
+Christian Samuel Fritzsche
+Carl Friedrich Baumgart
+Johann Gottfried Grahl
+----------------
+----------------
+Johann Christian Böhmel
+Johann Daniel Brinnert
+Carl Gottlieb Ebert
+Johann Gottlob Friedrich Rülke
+Carl Friedrich Näcke
+Johann David Drechsler
+Heinrich Moritz Kögel
+Johann Michael Windrich
+Johann Samuel Kummer
+Johann Gottlob Romberg
+Carl Gottfried Bormann
+----------------
+Johann Gottlieb Lotze
+Carl Gottfried Grahl
+1813
+Johann Gottlob Gelfert
+Johann Immanuel Holfert
+Johann Samuel Neuberth
+Johann Gottfried Daniel Grahl
+Carl Gottlob Müller
+Christian Gottlieb Kohl
+----------------
+Johann Wilhelm Friedrich Walther
+Johann Gottlieb Lehmann
+Christian Gottlieb Grahl
+Johann August Holfert
+Ehrenfried Traugott Grimmer
+Carl Gottfried Bormann
+Carl Gottlieb Heynemann
+Carl Samuel Wünschmann
+Johann Gottlieb Romberg
+----------------
+1814
+Carl Gottlieb Berger
+Johann Gottfried Beutel
+Johann Christoph Wießner
+Carl Gottlieb Holfert
+Johann Gottlob Selter
+Carl Gottfried Beutel
+Carl Gottlob Jänker
+Christian Gottlieb Hünich
+Carl Gottlieb Kleber
+Christian Gottlieb Jänich
+----------------
+Carl Christoph Wagner
+Daniel Gottfried Lommatzsch
+Ehrenfried Gottlieb Kohl
+Carl Gottlieb Ebert
+Samuel David Menzer
+Johann Gottlieb Rothe
+Johann Gottlieb Lohse
+Christian Gottlieb Irmer
+Johann Christian Siegmund Rüger
+----------------
+1815
+Johann Christian Klemm
+Carl Gottfried Schubert
+Christian Gottlob Kästner
+Christian Gottlieb Menzer
+Johann Samuel Patzig
+Carl Gottlieb Menzer
+Johann Gottlob Friedrich Rülke
+Samuel Gottfried Zimmermann
+Carl Gottlob Bernhardt
+Ehrenfried Leberecht Benjamin Kästner
+----------------
+Carl Gottlob Richter
+Carl Gottlob Köhler
+Carl Friedrich Wagner
+Johann Georg Hauptvogel
+Johann Gottfried Franke
+Johann Christian Gottlieb John
+Johann Daniel Lempe
+Friedrich August Grund
+Johann Gottfried Speer
+Johann Ehrenfried Heber
+----------------
+Carl Gottlob Uhlig
+Johann Samuel Zimmermann
+Traugott Leberecht Kunath
+Friedrich Gottlieb Grahl
+Johann August Buschmann
+Johann Christlieb Scheffler
+----------------
+1816
+Carl Christoph Reichelt
+Carl Gottlieb Zimmermann
+Johann Rudolph Richter
+Carl Gottlieb Seidler
+Carl Gottlob Inkermann
+Daniel Gottlieb Zimmermann
+Samuel David Menzer
+Johann Gottfried Trepte
+Johann Gottlob Bachmann
+----------------
+Johann Gottlieb Krause
+Carl Gottfried Menzer
+1817
+Johann Gottlieb Schiffel
+Carl Gottlieb Lorentz
+Carl Gottlieb Weinart
+Johann Christian Bobe
+Carl Gottlieb Inkermann
+Christian Börner
+----------------
+Johann Michael Bug
+Johann Gottfried Wolf
+Christian Gotthelf Wünschmann
+Johann Samuel Hünich
+1818
+Gottlieb Gietzelt
+August Friedrich Halm
+Johann Gottfried Kirsten
+----------------
+Johann Daniel Schubert
+Friedrich Wilhelm Hardtmann
+Daniel Gottlob Grimmer
+Johann Gottlob Angermann
+Carl Gottlieb Zimmermann
+Johann Gottfried Nicolai
+Carl Gottlieb Zimmermann
+Carl Gottlob Bormann?
+Johann August Leuschner
+Carl Gottfried Büttner
+----------------
+Johann Christlieb Böhme
+Johann Christian Gottlieb Holfert
+Carl Gottlob Wießner
+1819
+Johann Gottfried Richter
+Carl Gottlieb Richter
+Friedrich Heinrich Menzer
+Carl Gottfried Böhme
+Carl Fürchtegott Hermann
+----------------
+Carl Gottlieb Hehne
+Carl Gottlob Stenzel
+Carl Gottlieb Lehmann
+Johann Carl Friedrich Ehrenreich Walther
+Johann Heinrich Holfert
+Johann Gottfried Bormann
+Carl August Lehnert
+Johann Carl Gottlieb Fleischer
+----------------
+Johann Gottlieb Müller
+Carl Gottlieb Zennig
+Samuel Gottlieb Gelfert
+Johann Daniel Schäfer
