@@ -1,14 +1,15 @@
 Nassau (Buch 482)
-Trauungen 1700-1809
+Trauungen 1700-1819
 https://www.archion.de/de/viewer/churchRegister/305499?pageId=42942693
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 2,5 Stunden
+Erstellt in ca. 3 Stunden
 Oktober 2023
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -2241,3 +2242,257 @@ Gotthelf Friedrich Zemmrich
 Carl Joseph Rose
 Carl Gotthelf Böhme
 Georg Friedrich Böhme
+1810
+Traugott Friedrich Wolf
+Carl Friedrich Löwe
+----------------
+Carl Gottlob Kaden
+Franz Joseph Merkel
+Christian Gottlieb Liebscher
+Johann Gottfried Börner
+Christoph Friedrich Kaden
+Gottlob Friedrich Grumd
+Georg Friedrich Rabe
+Georg Friedrich Wolf
+Carl Gottfried Timmel
+Johann Christian Träger
+Carl Gottlieb Steyer
+----------------
+Carl Gottlieb Ditrich
+Adam Friedrich Müller
+Carl Gottlieb Schmieder
+Traugott Friedrich Tippmann
+Christian Friedrich Neubert
+Johann Christoph Göhler
+Ehrenfriedrich Liebscher
+Christian Böhme
+Johann Georg Göhler
+Carl Gottlob Göhler
+Johann Michael Lohse
+----------------
+Carl Gottlieb Kaden
+Traugott Friedrich Schüller
+1811
+Carl Gottlieb Ihle
+Johann Georg Schmieder
+Johann Gottlieb Ditrich
+Carl Friedrich Lohse
+Johann Friedrich Klotz
+Carl Gottlieb Ditrich
+Johann Gottfried Richter
+Johann Christoph Liebscher
+Johann Gottfried Richter
+----------------
+Johann Gottlieb Ditrich
+Gottlieb Friedrich Behge //korrigiert
+Carl Gottlieb Hoffmann
+Gotthold Friedrich Hegewald
+Christian Friedrich Fritzsche
+Traugott Friedrich Wolf
+Karl Gottlieb Fleischer
+Johann Gottlob Walther
+Johann August Müller
+Gotthilf Neubert
+Johann Gottlob Göhler
+----------------
+Karl Gottlob Pförtner
+Georg Friedrich Wolf
+Christian Gottfried Müller
+Adolph Friedrich Römisch
+Traugott Wolf
+Gotthelf Friedrich Hegewald
+1812
+Christoph Göhler
+Samuel Gotthold Zeidler
+Carl Friedrich Grohmann
+Gottlob Friedrich Stenzel
+----------------
+Christoph Friedrich Kaden
+Christian Friedrich Fischer
+Christoph Friedrich Bellmann
+Christian Friedrich Göhler
+Johann Gottlieb Rülke
+Carl Gottlieb Teuchert
+Georg Friedrich Börner
+Gottlieb Siegmund Wiegand
+Georg Karl Schmieder
+Georg Friedrich Fischer
+Carl Gottlob Schmieder
+Carl Friedrich Erler
+----------------
+----------------
+1813
+Georg Carl Göhler
+Johann Gottlieb Richter
+Georg Gottlieb Ditrich
+Johann Gottlob Böhme
+Timotheus Traugott Albani
+----------------
+Georg Friedrich Göhler
+Carl August Ditrich
+Georg Friedrich Böhme
+Carl Gottlob Ditrich
+Carl Friedrich August Göhler
+----------------
+Christian Friedrich Müller
+Carl Gottlob Friedrich Fischer
+Georg Friedrich Göhler
+Johann Heinrich Stenzel
+Johann Christoph Kempe
+----------------
+Johann Gottlieb Aertelt
+Johann Gottlieb Horn
+Johann Georg Böhme
+Traugott Friedrich Horn
+Johann Samuel Schmieder
+----------------
+1814
+Carl Gottlieb Göhler
+Gotthelf Friedrich Hegewald
+Georg Carl Böhme
+Johann Gottlieb Horn
+Carl Friedrich Göhler
+----------------
+Timotheus Liebegott Alabani
+Johann Gottlieb Hahmann
+Johann Gottlieb Liebscher
+Johann Gottlieb Clausnitzer
+Johann Georg Lösch
+----------------
+Johann Gottfried Wiegand
+Ehrenfriedrich Löwe
+Carl Friedrich Sommerschuch
+Carl Friedrich Ditrich
+Carl Gottlob Zeller
+Johann Gottlieb Böhme
+----------------
+Johann Gottlieb Fritzsche
+August Friedrich Kröher
+Christian Gottlieb Wolf
+Johann Gottfried Göhler
+Johann Gottfried Richter
+----------------
+Johann Gottlieb Göhler
+Georg Friedrich Weise
+1815
+Johann Gottfried Walther
+Carl Friedrich Löwe
+----------------
+Carl Gottlieb Müller
+Friedrich Gottlieb Heinrich
+Carl Gotthelf Fischer
+Johann Gottlieb Neubert
+Gotthold Leberecht Göpfert
+----------------
+Carl Gottlieb Wolf
+Johann Heinrich Donat
+Johann Carl Gottlieb Wolf
+Christian Friedrich Göhler
+Johann Gottfried Böhme
+----------------
+Gottlieb Friedrich Behge
+Christoph Kempe
+Carl Salomon Walther
+Johann Gottlieb Schmuzler
+Johann Christian Friedrich Grumpelt
+----------------
+Traugott Böhme
+Gotthold Friedrich Uhlmann
+Johann Gottfried Bernd
+Johann Georg Carl Wolf
+Andreas Gottlieb Börner
+----------------
+Carl Friedrich Baumgarten
+Johann Gotthelf Bretschneider
+1816
+Johann Gottfried Schiffel
+Carl Gottlob Göhler
+----------------
+Georg Carl Rabe
+Johann Gotthelf Göhler
+Christian Friedrich Walther
+Johann Georg Wolf
+Carl Gotthelf Grohmann
+----------------
+Johann Christoph Glöckner
+Friedrich Christlieb Wilhelm Liebscher
+Gotthelf Friedrich Wiese
+Johann Christian Friedrich Görner
+Gottlob Friedrich Hampel
+----------------
+Johann August Matthes
+Carl Gottlob Bernd
+Carl Friedrich Kempe
+----------------
+1817
+Johann Gottlieb Zacharias
+Johann Gotthelf Böhme
+Georg Carl Neubert
+Gottlob Friedrich Richter
+Johann Christoph Liebscher
+----------------
+Georg Carl Wolf
+Ehregott Hausler
+Carl Gottlieb Fleischer
+Carl Friedrich Nötzel
+----------------
+Georg Carl Wolf
+Carl Gottlob Friedrich Liebscher
+Gottlob Friedrich Schneider
+Carl Friedrich Ehregott Schaab
+Georg Heinrich Ihle
+----------------
+Johann Gottlieb Wolf
+Christian Friedrich Wolf
+Christian Friedrich Seibt
+Christian Friedrich Fritzsche
+Carl Gottlob Pötzsch
+Carl Gottlieb Böhme
+----------------
+Johann Caspar Gleichmann
+Christian Friedrich Göhler
+Carl Friedrich Zeche?
+----------------
+1818
+Friedrich Gottlieb Bernd
+Traugott Friedrich Merkel
+Friedrich Gottlieb Wezel
+Christian Friedrich Ehregott Liebscher
+Johann Georg Friedrich Böhme
+Carl Gottlieb Zacharias
+----------------
+Friedrich Wilhelm May
+Johann Gottlieb Schubert
+Johann Friedrich Gottlieb Neubert
+Johann Gottfried Leuteritz
+Carl Gottlob Börner
+Johann Gottfried Räder
+----------------
+Christian Traugott Friedrich Bernhard
+Carl Friedrich Walther
+Gottlob Friedrich Wagner
+Johann Gottlieb Göhler
+Carl Gottfried Knaut
+Johann Christian Friedrich Ditrich
+----------------
+Johann Samuel Fischer
+1819
+Gotthilf Neuber
+Carl Friedrich Göhler
+Johann Christian Friedrich Richter
+----------------
+Christian Gottlieb Müller
+Carl Gottlob Hegewald
+Johann Christian Göhler
+Johann Gottlieb Wolf
+Georg Gottlieb Richter
+Salomon Carl Gottlob Goldberg
+----------------
+Georg Friedrich Zimmermann
+Johann August Heinicke
+Carl Friedrich Göhler
+Franz Joseph Behr
+----------------
+Carl Gottlob Köhler
+Johann Gottlieb Erler
+Carl Friedrich Engelhart

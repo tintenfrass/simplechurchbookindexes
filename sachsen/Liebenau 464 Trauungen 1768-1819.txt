@@ -1,5 +1,5 @@
 Liebenau (Buch 464)
-Trauungen 1768-1809
+Trauungen 1768-1819
 https://www.archion.de/de/viewer/churchRegister/305485?pageId=42939248
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 1 Stunde
 Oktober 2023
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -431,3 +432,107 @@ Johann Gottlieb Grumpelt
 ----------------
 Karl Christlieb Fischer
 Karl Gottlob Fischer
+1810
+Johann August Rockstroh
+Johann Gottlieb Küchler
+Christoph Gottlieb Heinrich Mühle
+Johann Gottlieb Schmidt
+Christian Ehrhardt Mühle
+Joseph Traugott Knauthe
+----------------
+Johann Christian Gottlieb Mühle
+Johann Gottlob Mühle
+Johann Michael Kohlberg
+Johann Strehle
+Heinrich Gottlob Fraulob
+1811
+Gottlieb Fischer
+Karl Johann Gottlieb Kühnel
+----------------
+Johann Christoph Franke
+Christ? Gottlob Heinrich Mühle
+Johann Georg Mühle
+Johann Samuel Heinrich Löwe
+Johann Gottlieb David Hauswald
+Johann Gottlob Kleppisch
+----------------
+1812
+Karl August Schütze
+Johann Christoph Fischer
+Johann Friedrich Schwencke
+Johann Christoph Donat
+Johann Gottlieb Frenzel
+Christian Püschel
+----------------
+1813
+Johann Gottlieb Kleinert
+Heinrich Gottlieb Schröter
+Karl Gottlieb Kunze
+Christoph Gottlob Lehmann
+Johann Christoph Rietschel
+Johann Gottlob Fischer
+Johann Gottfried Fischer
+----------------
+Johann Karl Gottlieb Jäepl
+1814
+Christoph Heinrich Bretschneider
+Christian Friedrich Walther
+Johann Georg Traugott Hempel
+Christoph Gottfried Eichler
+----------------
+Karl Wilhelm Heße
+Johann Samuel Gössel
+Johann Christlieb Leberecht Hellwig
+1815
+Christoph Heinrich Mühle
+Johann Christoph Ehrhardt
+Johann Gottlob Mühle
+----------------
+Johann Christoph Donat
+Johann Bernhard Gerwing
+Johann Georg Küchler
+Johann Christian Leupold
+Johann Georg Kleppisch
+----------------
+Johann Gottlieb Kümmel
+Johann Christoph Küchler
+Johann Christlieb Kühnel
+Johann Gottlieb Sterrl
+Friedrich August Sterrl
+Christoph Gottlieb Thorand
+----------------
+Johann Christlieb Leberecht Mühle
+1816
+Christoph Gottlob Bretschneider
+Karl Gottlieb Hauptmann
+Johann Karl Gottfried Noack
+Karl Gottlob Schwencke
+Johann Karl Traugott Schneider
+----------------
+Johann Christian Mühle
+Friedrich August Bär
+Johann Gottlob Küchler
+Johann Gottlieb Kießler
+Karl Gottfried Fraulob
+Karl Gottfried Michel
+----------------
+1817
+Christian Gottlieb Adam
+Johann Gottfried Mühle
+Johann Christoph Peuckert
+Karl Christoph Meißner
+1818
+Johann Gottfried Ebert
+Johann Gottlieb Schöckel
+----------------
+Karl Gottlieb Hohlfeld
+Karl Friedrich Walther
+Johann Gottlieb Heinrich Gutte
+Christoph Gottlob Schwencke
+----------------
+1819
+x
+Friedrich August Küchler
+Johann Gottlieb Michael
+Christoph Gottlob Francke
+Karl Gottfried Heße

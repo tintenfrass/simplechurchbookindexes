@@ -1,11 +1,12 @@
 Lauenstein (Buch 444)
-Trauungen 1799-1809
+Trauungen 1799-1819
 https://www.archion.de/de/viewer/churchRegister/305469?pageId=42936274
 
 
 Erstellt in ca. 0,5 Stunden
 Oktober 2023
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -140,3 +141,129 @@ Johann Gottlob Knauthe
 ----------------
 Carl Gottlieb Lohse
 Johann Christoph Ditrich
+1810
+Christian August Schubert
+Ferdinand Dankegott Schönert
+Johann Gottlieb Lehmann
+Carl Friedrich Wilhelm Schräger
+Carl Gottlob Breitfeld
+----------------
+Carl Christian Pribus
+Carl Gottfried Scharfe
+Carl Friedrich Fankhähnel
+Johann Christoph Klippel
+Johann Gottlob Klengel
+1811
+Gottlob David Hohl
+Johann Gottlob Möbius
+Johann Gottlieb Fuhrwerk
+----------------
+Johann Heinrich Gotthelf Wagner
+Christian Leberecht Wagner
+Christoph Friedrich Rüger
+1812
+Traugott Leberecht Schönert
+Johann Gottfried Zimmerhäckel
+Johann Friedrich Schwencke
+Carl Gottlieb Schiebel
+Johann Gottlob Romberg
+Ditrich Benedikt Wilhelm Lochmann
+----------------
+August Benjamin Schmelze?
+Johann Gottfried Fraulob
+Johann Gottlieb Kühnel
+Johann Gottlieb Frenzel
+Gotthelf Benjamin Wilisch
+1813
+Christian Friedrich Graf
+Christoph Friedrich Schmelzer
+Johann August Schulze
+----------------
+August Friedrich Weigel
+Johann Gotthold Schöder
+Friedrich August Bär
+Carl Gotthelf Scharfe
+Johann Hermann
+Johann Gottlob Fischer
+Johann Gottfried Hohlfeld
+Johann Gottfried Fischer
+Johann Gottfried Lehmann
+Carl Gottlieb Jäpel
+----------------
+1814
+Johann Gottfried Heße
+Johann Gottlieb Lindner
+Gottlieb Samuel Tiebel
+Nathanael Otto
+Carl Wilhelm Heße
+Benjamin Leberecht Salomon
+----------------
+1815
+Gotthelf August Kirchberger
+Carl Gottlob Hegewald
+Johann Christoph Peuckert
+Carl Gottlieb Hütter
+Johann Heinrich Gottfried Reichert
+Carl Gottlob Richter
+Carl Gottfried Tiebel
+Friedrich Wilhelm Richter
+----------------
+August Friedrich Ehrenreich Weiner?
+Carl Gottfried Schütze
+Carl Gottlob Schwencke
+Christian Gottlieb Rodig
+Johann Carl Jäpel
+Friedrich Ehregott Ölschlegel
+Christoph Gottlob Franke
+Johann Gottlieb Schütze
+----------------
+Heinrich Samuel Jäpel
+1816
+Carl Gottlieb Günther
+Carl Gottlieb Hauptmann
+Johann Gottlob Friedrich Sommerschuch
+Johann August Laux
+Johann Heinrich August Ditrich
+Carl Gottfried Schubert
+----------------
+Friedrich August Bär
+Johann Tobias Eichler
+Anton Franz Priemer
+Carl Friedrich Fischer
+Johann Gottfried Wolf
+1817
+Johann Gottlob Steiger
+Johann Georg Kunath
+----------------
+Johann Gottlieb Schöder
+Friedrich Gotthelf Opitz
+Friedrich Benjamin Christlieb Donat
+1818
+Johann Gottlob Gatsche
+Carl Gottlob Böhme
+Friedrich Ehregott Schwencke
+Johann August Schöder
+----------------
+Conrad Eduard Rüger
+Carl August Rüger
+1819
+Ludwig Christian Moritz Philipp
+Johann Gottlieb Burckhart
+Johann Georg Kunze
+Carl Gottlieb Pellmann
+Johann Gottlob Schulze
+----------------
+Johann Carl Gottlieb Ebert
+Johann Christian Gottlieb Keubler
+Carl Gottfried Schubert
+Heinrich Florian Hentschel
+Christian Melow
+Carl August Holzmüller
+Johann Gottlieb Lehmann
+Carl Traugott Qverner
+----------------
+Christian August Schubert
+Carl Gottlob Schwencke
+Friedrich Ehregott Jäpel
+Carl Gottlob Peters
+Johann Gottlieb Lohse
