@@ -1,5 +1,5 @@
 Pretzschendorf (Buch 549)
-Trauungen 1746-1809
+Trauungen 1746-1812
 https://www.archion.de/de/viewer/churchRegister/305559?pageId=42957763
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 2,5 Stunden
 Oktober 2023
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1747,3 +1748,78 @@ Daniel Rothe
 Ehrenfried Geißler
 Daniel Zimmermann
 Samuel Arnold
+1810
+Christian Gottlieb Kummer
+Johann Gottlieb Fischer
+Carl Gottlob Junger
+Johann Gottlieb Weinhold
+Johann Gottfried Berndt
+Christian Klemm
+Christian Braune
+Johann Anton Franz Zeyne
+Johann Gottlob Tümmel
+Daniel Lempe
+----------------
+Christian Gottfried Kummer
+Carl Gottlob Mehnert
+Gottfried Zimmermann
+Gottlieb Rothe
+Daniel Gottlieb Köhler
+Johann Christoph Gohler
+Johann Gottfried Lose
+Carl Gottlob Baumgart
+Johann Gottlob Ehrlich
+Carl Gottlob Bernd
+Johann Gottlieb Rothe
+Gottlieb Göhler
+Johann Gottlieb Zimmermann
+Johann Gottlieb Fischer
+1811
+Gottlieb Schmieder?
+Gottlieb Baumgart
+Gottfried Zimmermann
+----------------
+Johann Daniel Geißler
+Johann Gottfried Löser
+Carl Gottlieb Lempe
+Johann Gottlob Berger
+Johann Gottlob Zimmermann
+Friedrich Ernst Hartmann
+Joseph Michel
+Carl Gottlob Fischer
+Johann Gottlieb Hegewald
+Friedrich Samuel Glöckner
+Gottlieb Timmel
+Johann Gottlieb Straßberger
+Johann Daniel Wießner
+Friedrich Wilhelm Aßmann
+Carl Christoph Arnold
+Carl Gottlob Leitriz
+Carl Gottlob Zimmermann
+Johann Gottfried Lose
+Johann Gottlieb Pellmann
+----------------
+Christian Gottlob Baumgart
+Carl Gottlob Börnert
+1812
+Christian Gottfried Wintrich
+Daniel Glauch
+Daniel Geißler
+Johann Gottlieb Kästner
+Johann Gottfried Berndt
+Johann Friedrich Richter
+Carl Gottlieb Zimmermann
+Carl Samuel Nitzsche
+Johann Samuel Fischer
+Gottlob? Bernd //korrigiert
+Christoph Lohse
+Johann Daniel Kästner
+Adolph Friedrich Grosser
+Johann Christoph Schmieder
+Johann Gottlieb Hegewald
+----------------
+Johann Heinrich Braune
+Johann Christian Geißler
+Johann Gottfried Zimmermann
+Johann Gotthelf Seidler
+Carl Gottlob Grohmann

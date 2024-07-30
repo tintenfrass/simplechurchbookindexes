@@ -1,12 +1,14 @@
 Reichstädt (Buch 602)
-Trauungen 1800-1809
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/305602?pageId=42965675
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
+Erstellt in ca. 0,5 Stunden
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -174,3 +176,168 @@ Carl Gottlieb Zimmermann
 Johann Gottlob Fuchs
 Johann Gottlieb Helbig
 Christian Friedrich Löser
+1810
+Johann Samuel Fuchs
+Johann Friedrich Zönnchen
+----------------
+Johann Gottlob Thümmel
+Carl Friedrich Weinhold
+Johann Gottfried Legler
+Johann Samuel Grumt
+Daniel Gottlieb Köhler
+Johann Gottlob Reichel
+----------------
+Johann Georg Burgstadel
+1811
+Christian Gottlieb Fuchs
+Carl Friedrich Zimmermann
+Johann Gottfried Löber
+Johann Samuel Geyer
+----------------
+Carl Gottlieb Fuchs
+Johann Christian Andreas
+Samuel Gottfried Zimmermann
+Johann Friedrich Voigt
+Johann Georg Winckler
+----------------
+Carl Friedrich Donat
+Carl Gottfried Reichel
+Johann Georg Enterlein
+Johann Friedrich Karl Dreßler
+----------------
+Johann Gottfried Löffler
+Friedrich Reichel
+Johann Gottlob Lieber
+1812
+Carl Gottlob Müller
+Christian Friedrich Legler
+----------------
+Johann Samuel Reichel
+Johann Gottlob Geyer
+Johann Gottfried Scheinpflug
+Johann Gottlieb Roßburg
+Johann Georg Reichel
+----------------
+Carl Gottlob Herklotz
+Johann Christoph Böhme
+Johann Gottlob Fuchs
+Johann Christian Gietzelt
+Christian Friedrich Fleischer
+----------------
+Johann Gottfried Richter
+Christian Siegmund Homilius
+Carl Gottlob Bretschneider
+1813
+Carl Christian Zönnchen
+Christian Friedrich Löser
+----------------
+Johann Christian Weinhold
+Johann Gottlieb Stoy
+Johann Gottlob Zimmermann
+Johann Gottlieb Donat
+Johann Gottlieb Fuchs
+----------------
+Christian Friedrich Weckbrod
+Carl Gottlob Zönnchen
+Johann Gottlob Gietzelt
+Christian Friedrich Mäke
+Johann Gottlob Wustlich
+----------------
+1814
+Johann Friedrich Maul
+Christian Gotthelf Mäke
+Johann Christoph Reichel
+Johann Gottlieb Zimmermann
+Johann Gottlob Königsmark
+Carl Friedrich Ehrlich
+----------------
+Johann Gottfried Grafe
+Johann Jacob Fischer
+Carl Adolph May
+Johann Samuel Fuchs
+Johann Gottlieb Gietzelt
+----------------
+Carl Gottlieb Reichel
+1815
+Johann Christoph Friedrich Härtel
+Carl Friedrich Zönnchen
+Johann Gottlieb Hamann
+Johann Christian Schröder
+----------------
+Johann Samuel Patzig
+Johann Christian Junold
+Carl Friedrich Ehrlich
+Carl Gottlieb Richter
+Johann Gottlob Zönnchen
+----------------
+Carl Gottlieb Mänzer
+Johann Gottlob Gietzelt
+Carl Gottfried Göpfert
+Adolph Ferdinand Kühn
+Carl Gotthelf Schröder
+----------------
+Johann Christian Stoy
+Johann Gottlob Reichel
+Christian Friedrich Fischer
+Johann Christian Gietzelt
+Carl Gottlob Köhler
+----------------
+Carl Gottlob Rüdiger
+Carl Gottfried Mäke
+Carl Friedrich Matthes
+Johann Gottfried Weckbrod
+----------------
+Samuel Gottlieb Reichel
+Carl Gottfried Fuchs
+1816
+Johann Christian Winckler
+Johann Gottlieb Zönnchen
+Carl Gottlieb Fuchs
+----------------
+Johann Gottfried Göpfert
+Samuel Gottlob Herklotz
+Johann Gottlob Rüdiger
+Johann Gottfried Männchen
+Johann Gottlob Börner
+----------------
+Johann Georg Andreas
+Johann Gottlieb Herzog
+Carl Gottlieb Kästner
+1817
+Johann Gottlieb Clauß
+----------------
+Johann Gotthelf Funcke
+Carl Christian Michael
+Johann Kapler
+Johann Friedrich Gietzelt
+----------------
+Johann Gottlieb Steinigen
+1818
+Johann Gottlieb Zimmermann
+Christian Friedrich Gietzelt
+Johann Christian Böhme
+Johann Gottlieb Andreas
+----------------
+Johann Gottlieb Gietzelt
+Johann Gottlob Funcke
+Carl Gottlieb Gietzelt
+Samuel Friedrich Fuchs
+----------------
+Carl Gottfried Voigt
+1819
+Johann Carl Friedrich Bellmann
+Carl Gottlob Patzig
+Johann Gottlieb Feller
+----------------
+Johann Georg Heymann
+Johann Gottlieb Gietzelt
+Johann Gottlieb Reichel
+Carl Friedrich Reichel
+----------------
+Johann Gottlieb Maul
+Johann Gottlieb Fischer
+Johann Gottfried Sterl
+Johann Gottlob Richter
+Johann Gottlieb Böhme
+----------------
+Georg Friedrich Fuchs

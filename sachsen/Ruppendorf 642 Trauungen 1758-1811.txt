@@ -1,5 +1,5 @@
 Ruppendorf (Buch 642)
-Trauungen 1758-1809
+Trauungen 1758-1811
 https://www.archion.de/de/viewer/churchRegister/305630?pageId=42972367
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 1,5 Stunden
 September 2023
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -729,3 +730,42 @@ Carl Samuel Michaelis
 Johann Georg Gottlob Kunath
 Gottlob Zimmermann
 Johann Immanuel Gottlieb Richter
+1810
+Carl Gottlieb Buchmann
+Johann Jacob Eichhorn
+----------------
+Johann Daniel Ditrich
+August Friedrich Werner
+Johann Carl Gottlieb Bernhardt
+Gottlieb Rothe
+Johann Christian Lotze
+Christian Daniel Börner
+Johann Gottlob Neubert
+----------------
+Johann Friedrich Klotz
+Johann Heinrich Richter
+Carl Friedrich Müller
+1811
+Immanuel Gottlieb Heber
+Carl Friedrich Zimmermann
+----------------
+Carl Gottlieb Michaelis
+Christian Traugott Büttner
+Johann Christian Plattner
+Johann Christian Gottlob Lohse
+----------------
+Friedrich August Beckert
+Johann Ehrenfried Heber
+Gottlieb Köhler
+Johann Samuel Kirchner
+Christian Gottlieb Holfert
+Johann Georg Menzel
+----------------
+Carl Gottlieb Friedrich Reichert
+Johann Gottlob Hoffmann
+Carl Gottfried Klotz
+Carl Gottlob Zimmermann
+Johann Christian Gottlieb Zimmermann
+Johann Gottlob Lieber
+----------------
+Johann Gottlob Samuel Schäfer

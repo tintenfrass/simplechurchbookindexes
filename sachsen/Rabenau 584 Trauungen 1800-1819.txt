@@ -1,12 +1,14 @@
 Rabenau (Buch 584)
-Trauungen 1800-1809
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/305588?pageId=42962788
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
+Erstellt in ca. 0,5 Stunden
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -165,3 +167,109 @@ Johann August Kadner
 Johann Gottlob Hauptvogel
 Johann Gottlieb Köhler
 Carl Gottlieb Wünschmann
+----------------
+1810
+Carl Traugott Mohr
+Johann Christian Großmann
+Carl Wilhelm Schirmer
+Carl Gottlieb Zimmermann
+Samuel Gottlieb Richter
+Johann Gottlieb Schüfner
+Johann Gottfried Kranke
+August Friedrich Werner
+Johann Christian Bellmann
+Christian Gottfried Wünschmann
+Johann Carl Gottlob Huhle
+Johann Gottfried Fritzsche
+----------------
+1811
+Friedrich Wilhelm Behrisch
+Christian Gottlieb Berthold
+Gotthelf Leberecht Werner
+Johann Gottlieb Fritzsche
+Gottlob Friedrich Schönberg
+Johann Christlieb Kunath
+Carl Gottlieb Hänisch
+Carl Wilhelm Lorentz
+Johann Georg Gebauer
+Christian Friedrich Reichel
+----------------
+1812
+Christian Gottlieb Klotzsche
+Carl August Richter
+Johann Carl Gottfried Gärtner
+Johann Gottlieb Bär
+Johann Wilhelm Wachsmuth
+Carl Gottfried Eger
+1813
+Carl Gottlieb Zöllner
+Carl Gottlieb Kunath
+Carl Gottfried Bänder
+----------------
+1814
+Christian Gottfried Grimmer
+Gottlob Friedrich Rost
+Franz Anton Zöllner
+Johann Gottfried Müller
+Carl Gotthelf Ehrlich
+Carl Gottfried Wolf
+Johann Friedrich Zimmermann
+Ehrenfried Gottlieb Kohl
+Johann Gottlieb Kunze
+----------------
+Samuel Gottfried Zimmermann
+Johann Wilhelm Lorentz
+Johann Christian Reuter
+Carl Heinrich Frohne
+Friedrich Wilhelm Jänichen
+----------------
+1815
+Franz Friedrich Vogel
+Johann Gottlob Irmer
+Johann Christian Ditrich
+Johann Christian Wünschmann
+Johann Fiedler
+Johann Gottlieb Müller
+Johann Christlieb Träger
+Christian Gottlieb Zimmermann
+Carl Christoph Kirscht
+Johann Gotthelf Lorentz
+----------------
+Johann Christian Garbe
+Christian Gottlob Wolf
+Carl August Klippel
+Franz Anton Trenkler
+Johann Gottfried Klippel
+Johann Gottlieb Carsch
+----------------
+1816
+Johann Christian Keulig
+Karl Gottlob Berger
+Johann Gottlieb Hayne
+Johann Georg Müller
+1817
+Johann Gottlob Köhler
+Johann Karl Gottlieb Kirscht
+Christian Gottfried Böhme
+----------------
+Johann Gotthelf Fischer
+Johann Gottfried Bellmann
+Karl Traugott Mohr
+Johann Christian Starcke
+Johann Gottlob Wolf
+----------------
+1818
+Karl Gottlieb Enderlein
+Johann Gottlieb Zimmermann
+Christian Gottfried Ditrich
+Johann August Hoppe
+Johann Traugott Böhme
+Karl Gottlob Wießner
+----------------
+1819
+Johann Karl Gottlieb Richter
+Karl August Bellmann
+Karl Fürchtegott Hermann
+Johann Wilhelm August Eger
+Karl Gottlob Pöschel
+Johann Gotthelf Körner
