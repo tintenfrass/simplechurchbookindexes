@@ -1,5 +1,5 @@
 Schellerhau (Buch 673)
-Trauungen 1725-1809
+Trauungen 1725-1819
 https://www.archion.de/de/viewer/churchRegister/305654?pageId=42977057
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 1,5 Stunden
 Oktober 2023
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -449,7 +450,98 @@ Johann Gottfried Clausnitzer
 ----------------
 Johann Gottlob Nagler?
 Johann Christian Scharfe
----------------- x19
+1810
+Johann Christian Friedrich Lohse
+Karl Gottlob Schütze
+Johann Christian Seydel
+Karl Gottlieb Richter
+Christian Ferdinand Römisch
+Johann Gottfried Guthe
+----------------
+Johann David Seydenmacher
+1811
+Friedrich Wilhelm Melzer?
+Johann Gottlieb Ditrich
+Karl Gottlob Scharfe
+Karl Gotthelf Richter
+Johann Friedrich Grumpelt
+----------------
+Karl Gottlieb Jäckel
+Johann Traugott Beckert
+Adam Friedrich Liebscher
+Adolph Friedrich Römisch
+1812
+Karl August Boden
+Karl Gottlieb Löwe
+Johann Gottfried Wekbrodt
+Karl Gottlieb Richter
+----------------
+1813
+Johann Gottlob August Simon
+Friedrich Wilhelm Walter
+Johann Gottfried Aupel
+Karl Gottfried Walter
+Samuel Fürchtegott Hoffmann
+1814
+Johann Gottfried Schmieder
+Christian Friedrich Richter
+----------------
+Gottlob Friedrich Liebscher
+Karl Wilhelm Schönfeld
+Gottlob Friedrich Renner
+----------------
+1815
+Karl Friedrich Zimmermann
+Karl Gottfried Ditrich
+Karl Wilhelm Meutzner
+Johann Michael Richter
+Samuel Gotthelf Knauthe
+----------------
+Carl Christlieb Heinrich Jäpel
+Johann Gottfried Weinhold
+1816
+David Hengst
+Carl Gottlob Haftmann
+Johann Gottlieb Kaden
+Johann Daniel Friedrich Lehmann
+Johann Christian Friedrich Kästner
+----------------
+Gottfried Ludwig Christian Bruckmeyer
+Carl Gottfried Fischer
+Johann Gottlieb Hosemann
+1817
+Carl Gottlob Stenzel
+Johann Carl Gottlob Weckbrodt
+Johann Carl Gottlieb Richter
+----------------
+Johann Gottlob Friedrich Scharfe
+Johann Christoph Kellner
+Christian Gottfried Kühn
+Johann Carl Gottfried Gutte
+1818
+Johann Traugott Ranft
+Karl Gottlob Schmidt
+----------------
+Christian Gottfried Haftmann
+Gottlob Wiesner
+Ignatius Teufert
+Christian Gotthelf Clausnitzer
+Carl Gottlob Friedrich Ehrenreich Scharfe
+1819
+Christian Friedrich Richter
+Carl Gottlob Friedrich Weber
+----------------
+Carl Gottlieb Gläditzsch
+Carl Heinrich Rudolph
+Johann Carl Friedrich Ehrenreich Walther
+Georg Friedrich Zimmermann
+Carl Friedrich Stenzel
+Carl Friedrich Stenzel
+Carl Gottlob Sommerschuh
+----------------
+Carl Gottlieb Zennig
+Carl Friedrich Steinig
+---------------- x8
 1800
 Johann Gottfried Scharfe
 Karl Gottlieb Reichert

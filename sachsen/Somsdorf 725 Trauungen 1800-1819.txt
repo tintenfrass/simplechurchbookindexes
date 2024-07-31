@@ -1,5 +1,5 @@
 Somsdorf (Buch 725)
-Trauungen 1800-1809
+Trauungen 1800-1819
 https://www.archion.de/de/viewer/churchRegister/305695?pageId=42986231
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Erstellt in ca. 0,5 Stunden
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -145,3 +146,123 @@ Johann Christlieb Schneider
 Christoph Zimmermann
 Johann Christian Horn
 Friedrich Benjamin Laue
+----------------
+1810
+Karl Wilhelm Schirmer
+Johann Jacob Eichhorn
+Gottfried Herzog
+Johann Gottlieb Schiefner
+Johann Gottlob Phlisch
+Johann Karl Friedrich Richter
+Johann Gottlob Nake
+Johann Gottlob Welde
+Christian Gottlieb Ditrich
+Christian Gottlieb Richter
+----------------
+1811
+Johann Christoph Huhle
+Johann Christian Häsler
+Johann Gottlieb Richter
+Gottlieb Leberecht Schumann
+Karl Gottlieb Kleber
+1812
+Johann Gotthelf Wagner
+Johann Gottlob Winckler
+Johann August Gottlieb Leutritz
+----------------
+Christian Leberecht Richter
+Christian Gottlieb Kaden
+Johann Gottlob Friedrich Rülke
+Johann Georg Siemank
+Johann Gottlob Misbach
+Christian Gottfried Kunadt
+1813
+August Gottlieb Müller
+Siegmund Traugott Laue
+Karl Gottfried Küttner
+----------------
+Johann Gottlob Döhnert
+Friedrich Daniel Junold
+Ehrenfried Traugott Grimmer
+Gottfried Samuel Bellmann
+Johann August Qverner
+Johann Gottlieb Käppler
+----------------
+1814
+Christian Gottlob Richter
+Christian Traugott Junold
+Johann Schilhahn
+Johann Christoph Schumann
+Christian Friedrich Dümmler
+Karl Gotthelf Fleischer
+Johann Samuel Fleischer
+Johann Georg Zimmermann
+Johann Gottfried Ditrich
+Johann Christian Siegmund Rüger
+----------------
+1815
+Johann Christian Klemm
+Karl Gottlieb Richter
+Johann Gottfried Merkel
+Johann Gottlieb Richter
+Christian Traugott Schirmer
+Johann Gottlob Kranke
+Johann Gottfried Weickart
+Johann Gottlob Hartmann
+Johann Gottlob Weickart
+----------------
+Karl Gottlieb Bormann
+Carl Friedrich Wagner
+Gottlieb Traugott Schumann
+Christian Gotthelf Bürger
+Johann Gottlieb Ditrich
+Johann Gottlieb Richter
+Johann Gottlieb Berger
+1816
+Ernst Gottfried Hausmann
+Karl Gottlob Hennig
+Christian Friedrich Günther
+----------------
+Christian Lobegott Richter
+Karl Gottlieb Schirmer
+1817
+Johann Gottlieb Weikart
+Johann Christoph Gottfried Zimmermann
+Johann Gottfried Weigold
+Karl Christian Gottlieb Bürger
+Johann Christian Keck
+Christian Karl Gottlieb Schiefner
+Christoph Dentler
+Johann Gottlieb Kühnel
+----------------
+1818
+Gottlieb Giezelt
+August Friedrich Halm
+Friedrich Gottlieb Flade
+Johann Gottlieb Hermann
+Johann August Gottlieb Leutritz
+Karl Gottlieb Zimmermann
+Karl Gotthelf Leupold
+Karl Gottlob Lose
+Johann Gottlieb Bellmann
+Johann August Hoppe
+Johann Gottlob Glöckner
+----------------
+Friedrich August Schweingel
+Karl Gottfried Menzer
+Karl Gottfried Seifert
+1819
+Johann Karl Gottlieb Zimmermann
+Johann Gottlieb Ockert
+Karl Gottfried Borgen
+Johann Samuel Benjamin Bormann
+Karl Gottlob Heßler
+Johann Gottlieb Walther
+Karl August Schöne
+----------------
+Johann Gottfried Nake
+Johann Gottlieb Bägen
+Johann Gotthelf Leberecht Käppler
+Karl Gottlob Lotze
+Johann Christlieb Schneider
+Johann Gottlieb Reichel

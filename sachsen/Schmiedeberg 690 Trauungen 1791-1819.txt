@@ -1,5 +1,5 @@
 Schmiedeberg (Buch 690)
-Trauungen 1791-1809
+Trauungen 1791-1819
 https://www.archion.de/de/viewer/churchRegister/305667?pageId=42979582
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 0,5 Stunden
 Oktober 2023
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -138,3 +139,79 @@ Christian Friedrich Wilhelm Winrich
 Johann Gottfried Liebscher
 Carl Gottlob Mühle
 Carl Ernst Beyer
+----------------
+1810
+Christian Gottfried Weinhold
+Johann Gottlob Schneider
+Johann Daniel Gottlieb Helmert
+1811
+Johann Gotthelf Crönerz
+1812
+Johann Gottlieb Wolf
+Johann Gottfried Aulhorn
+Friedrich Traugott Lippert
+----------------
+Carl Gottfried Köhler
+Carl Gottlieb Fischer
+Johann Daniel Anders
+Johann Michael Wintrich
+Johann Gottlieb Lotze
+1813
+Carl Friedrich Köhler
+----------------
+Karl Gottlieb Heymann
+Heinrich Gottlob Neumeister
+Johann Gottlieb Schulze
+Carl Gottlieb Herklotz
+Carl Gotthelf Kindermann
+1814
+Carl Gottlieb Pfeiffer
+Johann Gottlob Helbig
+Johann Christoph Kästner
+----------------
+Carl Gottlieb Fischer
+Carl Gottlob Rauchfuß
+Carl Gottlob Fischer
+Johann Christian Kirsch
+Carl Gottlieb Schneider
+1815
+Johann Gottlob Biberstein
+Israel Fürchtegott Zimmermann
+----------------
+Carl Gottlieb Kästner
+Carl Gottlieb Estler
+Johann Christian Böhme
+Johann Heinrich Hähnel
+Gottlob Friedrich Fischer
+Johann Carl Ernst Herklotz
+Johann Gottfried Büttner
+Carl Gottlob Büttner
+----------------
+1816
+Traugott Leberecht Lempe
+Johann Gottlieb Vogler
+Johann Gottlieb Zeibig
+Adolph Vertraugott Fischer
+1817
+Christian Gottlieb Lange
+Carl Gottlieb Böhme
+Johann Gottfried Vogler
+----------------
+1818
+Johann Gottlob Liebscher
+Christian Friedrich Kindermann
+Johann Gottfried Liebscher
+Ernst Benjamin Schneider
+Christian Gottlob Nestmann
+----------------
+August Gottlob Lose
+Carl Gotthelf Thiele
+Christoph August Uhlich
+Gottlob August Asmann
+1819
+Friedrich Traugott Eichhorn
+Friedrich August Eichhorn
+----------------
+Friedrich Wilhelm Berberich
+Carl Friedrich Göbel
+Johann Gottlieb Wintrich

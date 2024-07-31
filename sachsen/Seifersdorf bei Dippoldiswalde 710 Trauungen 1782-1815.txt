@@ -1,5 +1,5 @@
 Seifersdorf bei Dippoldiswalde (Buch 710)
-Trauungen 1782-1809
+Trauungen 1782-1815
 https://www.archion.de/de/viewer/churchRegister/305682?pageId=42982170
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 1 Stunde
 September 2023
 Juni 2024
+Juli 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -433,3 +434,123 @@ Johann Gottlieb Hoffmann
 Johann Gottlob Träger
 Johann Christian Nitzold
 Gotthelf Böhme
+----------------
+1810
+Johann Gottlob Böhme
+Carl Gottlieb Zimmermann
+Carl Gottlieb Lotze
+Johann Gottfried Wießner
+Samuel Protze
+Johann Gottlieb Müller
+Johann Christian Hünich
+Christian Heinrich Kunath
+----------------
+Carl Gottfried Beutel
+Johann Gottfried Hoffmann
+Johann Christian Lotze
+Johann Friedrich Richter
+Johann Christian Gottlieb Hauptmann
+Johann Friedrich Klotz
+Johann Gottfried Heinrich Lotze
+Christian Gottlob Irmer
+----------------
+1811
+Johann Gottlieb Sommerschuh
+Johann Christoph Huhle
+Johann Gottlob Träger
+Johann Christian Franz
+Christoph Heinrich Glauch
+Johann Ehrenfried Qverner
+Johann Ehrenfried Qverner
+Johann Gottlob Zimmermann
+Johann Georg Winckler
+Carl Christian Grimmer
+----------------
+Johann Samuel Loßner
+Gottfried Clauß
+Gottlieb Leberecht Schumann
+Carl Traugott Grumbt
+Carl Gotthelf Legler
+Christian Gottlieb Pfund
+Johann Georg Enderlein
+----------------
+1812
+Johann Gottlob Fuchs
+Johann Gottlieb Kadner
+Christian Gottlieb Kaden
+Christian Gottfried Fischer
+Carl Gottfried Köhler
+Johann Carl Heinrich Wolf
+Johann Gottlieb Made
+----------------
+Johann Carl Gottfried Gärtner
+Johann Gottfried Lorentz
+Johann Gottlob Imhof
+Carl Gottlob Merkel
+Johann Christian Menzel
+Johann Wilhelm Wachmuth
+Carl Gottlob Böhme
+----------------
+Christian Gottlieb Hamann
+Johann Samuel Kammer
+Johann Christian Carsch
+Johann Georg Hauptmann
+Johann Gottlieb Gleditzsch
+Carl Gottlieb Fischer
+Johann Gottlob Ditrich
+Johann Gottlieb Leuschke
+----------------
+Johann Christian Richter
+Johann David Merbt
+1813
+Carl Gottfried Franke
+Carl Gottfried Beutel
+Christian Gottlieb Kohl
+Carl Gottlob Rüdger
+----------------
+Johann Gottlieb Lehmann
+Christian Gottlieb Seifert
+Johann Gottlieb Loßner
+Christian Friedrich Bach
+Johann Gottlob Seiffert
+Johann Gottlob Winckler
+----------------
+1814
+Carl Gottlieb Lorentz
+Christian Gottlob Richter
+Christian Gottfried Irmer
+Johann Gottlob Selter
+Johann Gottfried Ditrich
+Johann Gottlieb Menzel
+----------------
+Johann Christian Hamann
+Carl Gotthelf Hamann
+Johann Georg Zimmermann
+Johann Friedrich Buschmann
+Johann Gottlieb Walther
+----------------
+Christian Gottlieb Irmer
+1815
+Johann Gottlieb Hamann
+Carl Gottlob Hegewald
+Carl Gottlieb Lotze
+----------------
+Johann Carl Gotthelf Funke
+Carl Christian Hamann
+Christian Gottlieb Träger
+Johann David Zimmermann
+Johann Gottfried Franke
+Johann Gottlieb Zimmermann
+Johann Christian Lotze
+----------------
+Johann Christian Zimmermann
+Johann Carl Gottlieb Lohse
+Christian Gottlieb Münzel
+Johann Gottlob Irmer
+Gotthelf Ehregott Schröder
+----------------
+Carl Gotthelf Hardtmann
+Johann Gottlieb Carsch
+Johann Gottfried Funke
+Carl Gottlieb Müller
+Johann Christlieb Schefler
