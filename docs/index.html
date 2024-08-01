@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="author" content>
+<meta content name="author">
 <meta name="description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
 <meta name="keywords" content>
-<meta content="#2d2c2c" name="theme-color">
+<meta name="theme-color" content="#2d2c2c">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover">
-<meta property="og:url" content="http://127.0.0.1:50079/">
-<meta property="og:title" content="Trau-Index Dresden-Meißen">
+<meta property="og:url" content="http://127.0.0.1:64705/">
+<meta content="Trau-Index Dresden-Meißen" property="og:title">
 <meta property="og:description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
 <meta property="og:type" content="website">
 <meta property="og:image" content>
@@ -16,10 +16,10 @@
 Trau-Index Dresden-Meißen
 </title>
 <link rel="icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
-<link rel="apple-touch-icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
-<link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
+<link href="https://storage.googleapis.com/murlok-github/icon-192.png" rel="apple-touch-icon">
+<link href="/simplechurchbookindexes/manifest.webmanifest" rel="manifest">
 <link type="text/css" rel="stylesheet" href="/simplechurchbookindexes/app.css">
-<script src="/simplechurchbookindexes/wasm_exec.js" defer="true"></script>
+<script defer="true" src="/simplechurchbookindexes/wasm_exec.js"></script>
 <script defer="true" src="/simplechurchbookindexes/app.js"></script>
 <!-- Google tag (gtag.js) -->
 			<script async src="https://www.googletagmanager.com/gtag/js?id=G-S2D2V6SHXE"></script>
@@ -54,7 +54,7 @@ Dresden-Meißen-Freiberg-Dippoldiswalde
 <label>
 Jahr Min 
 </label>
-<input max="1809" value="0" style="width: 600px;" type="range" min="1541">
+<input type="range" min="1541" max="1819" value="0" style="width: 600px;">
 <label>
 0
 </label>
@@ -62,7 +62,7 @@ Jahr Min
 <label>
 Jahr Max
 </label>
-<input type="range" min="1541" max="1809" value="0" style="width: 600px;">
+<input style="width: 600px;" type="range" min="1541" max="1819" value="0">
 <label>
 0
 </label>
@@ -78,17 +78,17 @@ Erweiterte Einstellung zum Suchalgorithmus (experimentell):
 </div>
 <br>
 <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.4 werden danach mit DamerauLevenshtein genau berechnet. Dieses zweistufe Vorgehen macht die Suche schnell und trotzdem genau.">
-<input type="radio" checked="true" name="algo">
+<input name="algo" type="radio" checked="true">
 Jaro + DamerauLevenshtein
  ----&gt; best Kombination aus Geschwindigkeit und Komplexität
 </div>
 <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.3 werden danach mit Soundex umgewandelt und diese dann mit DamerauLevenshtein berechnet. Das ist sehr langsam aber findet viel mehr Treffer. Große Suchen brechen manchmal ab.">
-<input name="algo" type="radio" checked="false">
+<input type="radio" checked="false" name="algo">
 Jaro + Soundex + DamerauLevenshtein
  ----&gt; mehr Treffer, sehr langsam, nicht für große Suchen geeignet
 </div>
 <div title="Die OSA-Variante von DamerauLevenshtein, ohne Vorfilterung">
-<input name="algo" type="radio" checked="false">
+<input type="radio" checked="false" name="algo">
 OSA
  ----&gt; einfacher und schneller als DamerauLevenshtein, für schwächere Geräte
 </div>
@@ -102,11 +102,11 @@ Levenshtein
  (Damerau-)Levenshtein-Distanz
 </a>
 <br>
-<a href="https://srinivas-kulkarni.medium.com/jaro-winkler-vs-levenshtein-distance-2eab21832fd6" style="color:grey;">
+<a style="color:grey;" href="https://srinivas-kulkarni.medium.com/jaro-winkler-vs-levenshtein-distance-2eab21832fd6">
  Jaro-Winkler vs. Levenshtein
 </a>
 <br>
-<a style="color:grey;" href="https://de.wikipedia.org/wiki/K%C3%B6lner_Phonetik">
+<a href="https://de.wikipedia.org/wiki/K%C3%B6lner_Phonetik" style="color:grey;">
  Soundex (Kölner Phonetik)
 </a>
 </div>
@@ -444,14 +444,14 @@ https://github.com/tintenfrass/simplechurchbookindexes
 <br>
 <br>
 <h3>
- v1.8 (Juli 2024) latest updates:
+ v1.8 (August 2024) latest updates:
 </h3>
 <label>
-Trauungen Dresden Sophienkirche 1541-1659 hinzugefügt
+Trauungen 1810-1819 hinzugefügt
 </label>
 <br>
 <label>
-Trauungen Dresden Sophienkirche 1660-1710 überarbeitet
+kleinere Fehlerkorrekturen
 </label>
 </div>
 </div>
