@@ -1,5 +1,5 @@
 Dresden Hofkirche (Buch 20)
-Trauungen 1777-1809
+Trauungen 1777-1819
 https://data.matricula-online.eu/de/deutschland/dresden/dresden-hofkirche/20/?pg=1
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -17,10 +17,11 @@ Alle restlichen Buchstaben befinden sich als Register im Buch 19.
 Ab 1800 wurde der Inder aus dem Kirchenbuch erstellt.
 
 
-Erstellt in ca. 3,5 Stunden
+Erstellt in ca. 5 Stunden
 Mai 2023
 August 2023
 Mai 2024
+August 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -953,7 +954,7 @@ Mauritius Aurelius Mayer
 Franz Joseph Mattausch
 Christoph Grunert
 Friedrich Franz Vitters?
-Carol Theodphil Stoelzel
+Carol Theophil Stoelzel
 Elias Hostin
 Gabriel Aristizaval?
 Carol August Kühnel
@@ -1316,3 +1317,839 @@ Johann Franz Menestriere?
 Johann Wenzel Schwartz
 Franz Bayer
 Franz Leider
+----------------
+1810
+Franz Johann Kostenmüller
+Adolph Friedrich Werner Schulenburg
+Johann Siegmund Christian Schnöring
+Jacob Schneider
+Franz Seidel
+Joseph Preudel
+Carol Heinrich Börner
+Franz Anton Klein
+Johann Christoph Kechner
+Carol Kottaus
+Joseph Georg
+Friedrich August Kathen
+----------------
+Christian Guthe
+Joseph Ludwig Büttner
+Johann Joseph Kreschel
+Franz Lösel
+Johann David Grabner
+Gottlob Kothe
+Joseph Fiedler
+Adolph Heinrich Gersdorf
+Thomas Bende
+Carol Hinko
+Friedrich Guillielmus Peschel
+Theodor Lucher?
+Carol Koromaus?
+----------------
+Karl Friedrich Watzdorf
+Anton Schube
+Albert Dionysius Santo
+Georg Adam Böhm
+Johann Friedemann
+Joseph Schreiner
+Georg Merkel
+Nicol Christoph Watier
+Anton Häntschel
+Carol August Gritzner
+Friedrich Guillielmus Stock
+Christian Emanuel Trescher
+Carol Traugott Schönherr
+Johann Christoph Blumentritt
+----------------
+Franz Kaube
+Johann Anton Keiß
+Franz Gmilkowski
+Johann Friedrich Richter
+Johann David Rockstroh
+Johann Leder
+Christian Gottlieb Woidt
+Friedrich Krieger
+Ignatz Kadenbach
+Johann Georg Koch
+Christian Lehmann
+Ignaz Altmann
+Christian Schneppe
+----------------
+Friedrich Weber
+Valentin Noly
+Christian Gottfried Wehner
+Johann Gottfried Bartel
+Franz Stiasny
+Johann Gottfried Kobisch
+Franz Hitzinger
+Johann Gottlob Kohlsdorf
+Friedrich August Ritter
+Johann Gottfried Schuster
+Carol Theophil Rothe
+Alex Micksch
+Anton Perbalk
+----------------
+Adolph Paul Stoltze
+Christian Theophil Seyffert
+Franz Adolph Koberwein
+Johann Albert Siebert
+Martin Duhek
+Joseph Hermann
+Friedrich Wilhelm Preil
+Joseph Häntschel
+Liborius Spangee
+Johann Gottfried Kuhn
+August Carol Friedrich Hoffmann
+Carol Andreas Adolph Landsberg
+----------------
+Martin Zimmermann
+Johann Amadeus Thieke
+Nicol Jacob Sperling
+Jacob Böhme
+Nicol Richter
+Michael Rätze
+Ignaz Strauß
+Florian Ullrich
+Johann Theophil Knittel
+August Guillielmus Auenmüller
+Simon Glali
+Joseph Glautsch
+----------------
+Friedrich August Anton Kowalski
+Johann Julius Christoph Tanneberg
+Anton Caraßi
+1811
+Johann Franz Watzke
+Joseph Kager
+Johann Huber
+Heinrich Sachwald
+Joseph Schmiedel
+Carol Ludwig Krast
+Jacob Michael Astenberg
+Carol Friedrich August Schreiber
+----------------
+Johann Gottlob Rostig
+Carol Freund
+Joseph Weyser
+Christian Friedrich August Heller
+Benedikt Schubert
+Johann Gottlieb Hermann
+Joseph Pötterle
+Friedrich Gottlob Bretschneider
+Nicol Kümmel
+Johann Gottlob Schütze
+----------------
+Johann Gottlob Knappe
+Joseph Bredan
+Carol Benjamin Nickel
+Anton Schramek
+Johann Caspar Peste
+Johann Carol August Roßi
+Adam Mattheus Kremmler
+Jacob Kaplan
+Johann Christoph Weigel
+Franz Kühnel
+Franz Werner
+----------------
+Franz Perko
+Johann Gottfried Leuderitz
+Johann Wlezek
+Franz Anton Schade
+Carol Friedrich August Dominik
+Franz Ridig
+Carol Friedrich Pitsch
+Johann Heinrich Tronike
+Joseph Bernhard
+Johann Carol Reichelt
+Andreas Weidlich
+Georg Michael Oppen
+Simon Stoll
+----------------
+Johann Hubert
+Christian Gottfried Wehemayer
+Johann Carol Nacke
+Johann August Wenzel Lubowski
+Franz Hentschel
+Andreas Schnabel
+Johann Gottlob Rothe
+Valentin Werner
+Carol Christian Arlt
+Johann Friedrich Schob
+Anton Mautewitz
+Friedrich Ehregott Rösler
+----------------
+Friedrich August Rockstroh
+Johann Theodor Kleinschmidt
+Carol Mauritius Riederich
+Friedrich Mathes
+Johann Ignatz Hellmer
+Carol Joseph Busek
+Joseph Salla
+Joseph Lißka
+Johann Georg Schmidt
+Johann Gottlob Engelmann
+Johann Albertus Siebert
+----------------
+Georg Babzer
+Carol Portuczek
+Ignaz Schmidt
+Gustav Friedrich Kückbusch
+Andreas Krautmann
+Isaak Paul Struelens
+Heinrich Kempe
+Carol Breitkopf
+Adalbert Serb
+Ambrosius Liebisch
+Joseph Riedel
+Joseph Pieschel
+----------------
+Anton Hirschauer
+Franz Poland
+Friedrich August Vitzthum
+1812
+Michael Richter
+Anton Sachewald
+Joseph Altmann
+Joseph Krumbholtz
+Johann Friedrich Böhm
+Anton Valentin Huhn
+Johann Gabriel Opitz
+Adolph Amadeus Engelhard
+----------------
+Johann Riedel
+Johann Gottfried Mauermann
+Joseph Milde
+Franz Wünsch
+Franz Wagner
+Carol Schliendwein
+Johann Georg Salowsky
+Lorenz Cipriani
+Johann Friedrich Zel
+Johann Friedrich Kuntze
+Georg Wetzel
+----------------
+Christian Carol Dietze
+Christian Martin
+Mattheus Gottfried Rößler
+Johann Joseph Richter
+Joseph Heßler
+Christian Amadeus Vogel
+Johann Georg Kluge
+Joseph Hahn
+Franz Weißhaubt
+Jacob Zeman
+Ferdinand Lißner
+Joseph Groß
+----------------
+Franz Anton Zöllner
+Johann Franz Pohl
+Joseph Pendel
+Franz Heeger
+Anton Scheinpflug
+Mattheus Kowarzik
+Clemens August Heinrich Petzold
+Franz Marisch
+Carol Heinrich Wißmann
+Georg Mauritius Walther
+Franz Edlinger
+----------------
+Franz Zechling
+Franz Benjamin Estler
+Franz Benjamin Rahl
+Johann Franz Weinicke
+Johann Friedrich Hajek
+Franz Bandel
+Jacob Noack
+Johann Gottfried Franke
+Franz Jensch
+Franz Gabriel
+Johann Thomann
+Christian Traugott Schmidt
+----------------
+Johann Carol August Schulze
+Franz Raabe
+Carol Theophil Jonathan Kirsch
+Johann Lösche
+Carol Anton Spann
+Franz De?
+Christian Joseph Seyffert
+Johann Schillhan
+Johann Heinrich Hohmann
+Gottfried Frister
+Gotthelf Guillielmus Jäckel
+Johann Michael Rentzsch
+Joseph Münch
+----------------
+Andreas Bertoldy
+Clemens Wenzel Himmer
+1813
+Guillielmus Heinrich Pontz
+Friedrich Anton Kühne
+Friedrich Kley
+Friedrich August Pfeiffer
+Johann Gottfried Schägel
+Johann Weidlich
+August Rosins
+Anton Joseph Kneischel
+Gabriel Wölsz
+----------------
+Johann Nepomucenus Schweigart
+Joseph Ferdinand Caspers
+Franz Joseph Richter
+Friedrich Carol Hermann
+Georg Horch
+Georg Anton Binder
+Johann Joseph Keller
+Johann Schmidt
+Johann Andreas Zeidler
+Johann Baltzer
+Franz Nitzsche
+----------------
+Adolph Fiebiger
+Georg August Ernst Manteufel
+Ferdinand August Heinrich Trütschler
+Wenzel Thorant
+Franz Scherf
+Anton Palm
+Johann Schönfeld
+Valentin Castellani
+Friedrich Anton Frank
+Christoph Müller
+Ludwig Sala
+Joseph Valentin Raymundy
+Franz Jonasch
+----------------
+Johann Dingfelder
+Johann August Blankenberg
+Johann Hasler
+Johann Ludwig Adolph Lenz
+Johann Friedemann Rosenthal
+Franz Joseph Hammel
+Joseph Bach
+Friedrich Guillielmus Schöne
+Johann Gottfried Balbier
+Johann Carol Thiek
+Christian Pape
+Hypolitus Legai
+----------------
+----------------
+Carol Joseph Böge
+Carol Blumenstrauß
+Jacob Fischer
+Carol Mengemann
+Procop Nikisorow
+Johann Adam Pohl
+Michael Czechlinski
+1814
+Anton Täubert
+Jacob Wenzel
+Peter Lack
+Franz Ludwig Wolf
+Friedrich Wilhelm Hirsch
+Joseph König
+Amadeus Gottlieb? Fischer
+----------------
+Franz Mauder
+Johann Christoph Hankel
+Joseph Rudel
+Johann Schultheiß
+Johann Mattheus Dürr
+Johann Eisert
+Franz Carol Böhme
+Johann Christian Trentsch
+Ernst Hoyer
+Johann Christoph Großer
+Johann Gottlob Friedrich Kießling
+Franz Joseph Böhnky
+Johann Saukal
+----------------
+Dominic Aufleger
+Emanuel Stephan Noel
+Franz Teubert
+Anton Johann Baptista Lachaud
+Friedrich August Röder
+Franz Edlinger
+Franz Prochaska
+Christoph Christlieb Schunke
+Ferdinand Salewski
+Johann Joseph Eßlauer
+Anton Pusinelli
+Peter Paul MAgus
+Andreas Goui
+Anton Pohl
+----------------
+Joseph Krämer
+Georg Anton Mayer
+Melchior Anglada
+Joseph Treulinger
+Johann Amadeus Gottlieb Rockstroh
+Johann Christoph Kahle
+Ludwig Cajetanus Aspetti
+Franz Tränkner
+Franz Werner
+Ludwig Bruno
+Anton Roschdorf
+August Klingner
+----------------
+Casimir Carol Brea
+Johann Aloys Leuvaßeur
+Johann Heinrich Wellmann
+Johann Georg Müller
+Johann Christoph Mohr
+Aloys Siegmund Maria Ferrari
+Georg Theophil Schlegel
+Ignaz Friedrich August Schubert
+Ignaz Conrad Plödterle
+Paul Stominsky
+Carol August Lampe
+Franz Knechtl
+Franz Müller
+Johann Gottlob Dögel
+----------------
+Johann Franz Hentschel
+Andreas Bär
+Franz Zibali
+Paul Mauke
+Simon Goscinsky
+Johann Peter Bone
+Peter Joseph Aloys Dhame
+Adam Mattheus Kremler
+Andreas Buhr
+Andreas Böhnly?
+Franz Joseph Pfeiffer
+Michael Nicol Wossky
+Friedrich August Hartwig
+----------------
+Johann Anton Grimmer
+Johann Gottfried Hellner
+Franz Ferdinand Smuda
+Johann Gotthelf Richter
+Johann Etzenberger
+Carol Friedrich Wust
+Johann August Gregor
+Carol Stepanowsky
+Leonard Meisel
+August Franz Trespe
+Wenzel Lange
+Johann Georg Koske
+----------------
+Anton Aspe
+Franz Haußwirth
+Michael OStler
+Johann Katasowsky
+Joseph Meisinger
+Johann Georg Paulink
+Johann Friedrich Becker
+Thaaeus Swaton
+Joseph Lorenz Neumann
+x
+Traugott Wladislaus Wilhelm Canzler
+Johann Leopold Ernst
+----------------
+Carol Dominic Sandtner
+Joseph Peschke
+Johann Gottlieb Wendig
+Mattheus Hauße
+Johann Anton Böhm
+Johann Georg Janasch
+Johann Gottlob Hähne
+Thomas Hajek
+Franz Grabowsky
+Franz Drankon
+Andreas Bongar
+Johann Aloys Gulich
+Johann Ignaz Wagner
+Anton Helbig
+----------------
+Johann Richter
+Franz Hirsche
+Michael Madek
+Anton Gietzels
+Franz Xaver Körtzin
+Johann Georg Schmidt
+Ignaz Richter
+Johann Wahl
+Carl Hampe
+Carol Friedrich Rietschel
+Johann Abundius Sala
+1815
+Johann Mayer
+Peter Bousquet
+----------------
+Friedrich Wilhelm Schramm
+Balthasar Lindner
+Joseph Opitz
+Anton Becke
+Valentin Nacke
+Anton Hennigmann
+Johann Gottlob Schäfer
+x
+Johann Andreas Poppe
+Johann Georg Franz
+Johann Baptista Berghe
+Mattheus Caprani
+Johann Gotthelf Pannacker
+----------------
+Johann Heinrich Pellermann
+Joseph Luschner
+Heinrich Ludwig Anton Bertoldi
+Michael Neumayer
+Heinrich Dupont
+Friedrich Wiskoszil?
+Elias Ritter
+Sebastian Brandek
+Joseph Mattausch
+Johann Uhl
+Joseph Weber
+Joseph Pilz
+Anton Blank
+Albert Daniz
+Christoph Richter
+----------------
+Joseph Spanner
+Johann Gottfried Fischer
+Thomas Kozuszek
+Heinrich Marquart
+Dominic Kegler
+Johann Carol Meisner
+Johann Baltzer
+Michael Sende
+Johann Liebisch
+Joseph Walther
+Christoph Vetterling
+Friedrich Traugott Stachel
+Carol Graupner
+Andreas Karichs
+Nicol Richter
+Michael Fritzsche
+----------------
+Valentin Klüge
+Johann Theophil Gürtler
+Johann Christian Feige
+Joseph Friedrich Scholl
+Carol Prochaska
+Carol Groschoph
+Anton Dusil
+Franz Peter
+Joseph August Stumpf
+Franz Joseph Proze
+Johann Wilhelm Gerhädt
+Carol Urbann
+Anton Sprenger
+Johann Gottfried Beyer
+Jacob Fischer
+----------------
+Carol Longo
+Anton Götz
+Franz Gebler
+Christian Traugott Barthel
+Christoph Guillielmus Gerboth
+Joseph Liebisch
+Franz Anton Vogel
+Guillielmus Jung
+Anton Sommer
+Johann Amadeus? Tannert //Gottlieb
+Carol August Weldt
+Carol August Hornfeld
+Nicol Freliger
+Johann Wenzel Richter
+----------------
+Carol Anselm Hampe
+Carol Friedrich Sattler
+Johann Adam Anders
+Franz Joseph Koser
+Johann Anton Fiedler
+August Jäpelt
+Friedrich Mattheus Löb
+Franz Görlich
+1816
+Theophil Gottlieb Roßig
+Christian Gottfried Wehmayer
+x
+Johann Andreas Mayer
+Joseph Pietschmann
+----------------
+Christian Friedrich Rudolph
+Carol Friedrich Ullrich
+Georg Joseph Heger
+Clemens Cerini
+Peter Rubel
+Jacob Wenzel
+August Ehrenfried Kuscher
+Anton Fabritius
+Carol August Götzel
+Peter Carol Benda
+Johann Friedrich Kuntze
+Anton Lorentz
+Johann Christian Harz
+----------------
+Franz Eißold
+Johann Guillielmus Kleber
+Johann Friedrich August Urbann
+Joseph Schneider
+Johann Christian Petzold
+Carol Wilhelm Heinze
+Johann Theophil? Hille //Gottlieb
+Michael Adam
+Johann Carol Friedrich Dominic
+Peter Joseph Swinnes
+Carol Christian Schlippali
+Johann Benedikt Pitlik
+Johann Gottlob Bieger
+Friedrich August Schifer
+August Engelberth
+----------------
+Joseph Lösel
+Carol August Hübner
+Joseph Ehrlich
+Johann Peter Kühnel
+Ignaz Zagelmann
+Anton Seidel
+August Grohmann
+Franz Gotthard Delzig
+Christian Anton Kriebel
+Johann Nicol Zeiß
+Hironimus Varino
+Joseph Leidner
+Johann Stockleb
+Friedrich Guillielmus Brückmann
+----------------
+Carol Friedrich Rosenau
+Joseph Peißler
+Sebastian Lochner
+Adolph Joseph Mauritius Eßer
+Nicol Anton Guerber
+Johann Joseph Sippel
+Theophil Stephan
+Joseph Plichter?
+Wenzel Jackel
+Franz Diha
+Christian Friedrich Neugebauer
+Franz Richter
+Martin Krause
+Sebastian Paya
+----------------
+Johann Gottlieb Nieße
+Anton Hertwig
+Johann Christoph Keßel
+Carol Traugott Klemm
+Johann Christian Franz Behrens
+Carol Anton Hyacinthy
+Joseph Lösel
+Ferdinand Mühlhänsel
+Friedrich August Schlling
+Ignaz Joseph Eichler
+Johann Minkwitz
+Anton Klug
+Johann Joseph Finke
+----------------
+Joseph Schlegel
+Andreas Kowalski
+Christoph Ludwig Zobel
+Carol August Gehe
+Anton Schaffer
+Carol August Lützerode
+Joseph Burda
+Joseph Koch
+Johann Schutter
+Tobias Rümpler
+Wendelinus Wewera?
+Johann Anton Saft?
+Marcus Joseph Fourage
+Joseph Schneider
+----------------
+Michael Kilian
+Johann August Müller
+Friedrich August Günther
+1817
+Franz Xaver Jankowski
+Joseph Stöckel
+Michael Holla
+Johann Anton Krüger
+Franz Wenzel Kügler
+Anton Kühnelt
+Friedrich Wilhelm Köppel
+Franz Vetter
+Leopold Löbel
+Jacob Handschik
+----------------
+Ignaz Przihoda
+Joseph Rieger
+Johann Georg Wimmer
+Carol August Horn
+Franz Wedlich
+Valentin Stepkowski
+Heinrich August Marschall
+Carl Andreas Blumentritt
+Friedrich Härtwig
+Johann Thiem
+Anton Rehn?
+Simon Kampel
+----------------
+Gottfried Naumann
+Johann Gotthelf Schebitz
+Joseph Müller
+Johann Lumpe?
+Johann Christian Kunze
+Johann Gotthelf Körnich
+Johann Joseph Sickritz
+Johann Franz Joseph Anton Kerzinger
+Anton Ludwig Gustav Adolph Zedlitz
+Franz Carol Böhme
+Anton Kahn
+Johann Peter Opitz
+Johann Joseph Wißek
+----------------
+Georg Anton Stauber
+x
+Johann Andreas Kleine
+Carol Traugott Staberow
+Georg Wuschanski
+Michael Brade
+Leopold Johann Joseph Franz Ferdinand Karl
+----------------
+Joseph Luschner
+Johann Joseph Hahn
+Joseph Anton Kakert
+Joseph Friedrich Dorn
+Cosmas Parea
+Johann Philip Erbs
+Joseph Mareßko
+----------------
+Johann Baptista LaForgue
+Peter Gruban
+Johann Anton Schönfelder
+Leopold Moosmann
+Anton Neuhäuser
+Benedikt Walther
+Christian August Heike
+Johann Nimtschke
+Johann Franz Weinek
+Carol Anton Spann
+Jacob Netsch
+Johann Christian Schmidt
+Joseph Pöterle
+Ferdinand August Wilhelm Janasch
+----------------
+1818
+Joseph Paris
+Friedrich August Werdy
+Norbert Mayer
+Johann Schlechter
+Anton Leimer
+Johann Gottfried John
+Glorius Schob
+Johann Gottlob Heyde
+Joseph Anton Longo
+Joseph Ferdinand Magnet
+Carol Guillielmus Feltsch
+Johann Georg Reinelt
+Gustav Mauritius Benisch
+Johann Gottfried Räpe
+----------------
+Joseph Freudenfels
+Johann Friedrich Richter
+Johann Gottlieb Schmidt
+Ignaz Gorlich
+Johann Georg Winter
+August Wilhelm Stielert
+Wenzel Elsner
+Carol August Rosenberg
+Johann Baptista Carisoto
+Franz Kraft
+Michael Mathek
+Joseph Werle
+Paul Mniszecki?
+----------------
+Johann Peter Koch
+Johann Schmidt
+Mattheus Anton Carol Forch
+Johann Florian Hayderich
+Heinrich Wilhelm Böhme
+Ignaz Fori
+Marcus Berthold
+Franz Richter
+Carol Anton Friedrich
+Franz Jäkel
+Friedrich Schütze
+Johann Joseph Schütze
+Johann Binus
+----------------
+Franz Wenzel Dörre?
+Anton Suchanke
+Johann Gottfried Niedermayer
+Franz Ditrich
+Johann Franz Carol Heinrich
+Joseph Friedrich Dorn
+Carol Heinrich Maximilian Thiele
+Johann Zeibich
+Bernard Pietzschmann
+Johann Peter Arrighi
+Johann Anton Joseph Spann
+Johann Christoph Stein
+Joseph Franz Pree
+----------------
+Johann August Naundorf
+Christian Carol Döpmann
+Carol August Hayne
+Franz Krumbholz
+Thomas Warkhold
+Johann Anton Schlein
+Anton Taillefer
+1819
+Friedrich Luxburg
+Victor Leopold Swoboda
+----------------
+Wenzel Kruda
+Franz Paul Schiller
+Johann Gottfried Herdler
+Christian Theophil? Weinhold //Gottlieb
+Johann Friedrich August Braune
+Johann Joseph Siltze
+Bernard Heße
+Eduard Hörstel
+Johann Gottfried Wehnert
+Gottfried Schumer?
+Thomas Trosina
+----------------
+Christian Friedrich Walther
+Carol Holzner
+Franz Carol Brandek
+Valentin Täubel
+Carol Bachstein
+Johann Carol Wünsch
+Carol August Heyne
+Franz Beil
+Georg Amadeus? Wittwer //Gottlieb
+Anton Niemert
+Franz Haubrmann
+Carol Friedrich Hutzky
+Mattheus Bischof
+Johann Gottfried Gley
+Joseph Neumann
+Johann Gottfried Quellmalz
+----------------
+Anton Seiß
+Mattheus Schneider
+Franz Damsberger
+Johann Holiczka
+Peter Nicol Ludwig Lelievre?
+Friedrich August Franke
+Carol Gottfried Friedrich Berthold
+Johann Joseph Anders
+Jacob Schiertz
+Martin Heigel
+Christoph Focke
+Ludwig Dickert
+Heinrich Mauritius Pohl
+----------------
+Johann Gnotek
+Friedrich Adolph Sperco
+Joseph Anton Bach
+Nicol Nabock
+Friedrich Wilhelm Müller
+Anton Petzold
+Johann Hocke
+August Bartsch
+Johann Wilhelm Lehmann
+Jacob Juhr
