@@ -1,3 +1,17 @@
+Erbisdorf (Buch 117)
+Trauungen 1815-1819
+https://www.archion.de/de/viewer/churchRegister/340930?pageId=47888775
+
+Das ist ein Index der Trauungen. (Nur die Bräutigame)
+Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
+
+
+Erstellt in ca. 0,5 Stunden
+Juli 2024
+https://github.com/tintenfrass/simplechurchbookindexes
+
+
+
 ---------------- x183
 1814
 Carl Gottlob Bauer
@@ -34,20 +48,6 @@ Johann Gotthelf Schubert
 Christian August Seiffert
 Johann Gottfried Ditrich
 Carl Gottlob Drechsler
-Erbisdorf (Buch 117)
-Trauungen 1815-1819
-https://www.archion.de/de/viewer/churchRegister/340930?pageId=47888775
-
-Das ist ein Index der Trauungen. (Nur die Bräutigame)
-Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
-
-
-Erstellt in ca. 0,5 Stunden
-Juli 2024
-https://github.com/tintenfrass/simplechurchbookindexes
-
-
-
 ----------------
 1815
 Carl Gottfried Hammer
@@ -289,7 +289,7 @@ Carl Gottlob Gärtner
 Carl Gottlob Frohs
 Johann David Tittmann
 ----------------
-c1 Leberecht Müller
+Carl Leberecht Müller
 Christ Friedrich Adolph Höpler
 Jacob Friedrich Busch
 David Friedrich Mehner
