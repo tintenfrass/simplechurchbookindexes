@@ -1,5 +1,5 @@
 Dresden Hofkirche (Buch 20)
-Trauungen 1777-1819
+Trauungen 1777-1827
 https://data.matricula-online.eu/de/deutschland/dresden/dresden-hofkirche/20/?pg=1
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -12,12 +12,12 @@ Diese Kirche hat katholisch getraut.
 
 Hinweis 2:
 Die Buchstaben S, T und V sind aus dem Register erstellt.
-Die Buchstaben K, P, Q und R fehlen komplett im Register und sind aus dem Kirchenbuch entnommen, sehr wahrscheinlich aber unvollständig.
+Das Register der Buchstaben K, P, Q, R, ... befindet sich in diesem Buch, wurde aber nicht genutzt (weil zu der Zeit noch nicht entdeckt). Diese Einträe sind direkt aus dem Kirchenbuch entnommen, sehr wahrscheinlich aber unvollständig.
 Alle restlichen Buchstaben befinden sich als Register im Buch 19.
-Ab 1800 wurde der Inder aus dem Kirchenbuch erstellt.
+Ab 1800 wurde der Index aus dem Kirchenbuch erstellt.
 
 
-Erstellt in ca. 5 Stunden
+Erstellt in ca. 10 Stunden
 Mai 2023
 August 2023
 Mai 2024
@@ -2153,3 +2153,506 @@ Johann Hocke
 August Bartsch
 Johann Wilhelm Lehmann
 Jacob Juhr
+1820
+Franz Schum
+Johann Anton Schlein
+----------------
+Friedrich August Rädler | Theresia Waschberger
+Franz Vincent Steinwasser | Maria Josepha Antonia Löbel
+Carol Heinrich Hanke | Henrica Gerlach
+Johann Gottlob Lehmann | Maria Theresia Siebert
+Friedrich August Eduard Bergee | Christiana Carolina Brückner
+Carol Friedrich Joseph Smeckal | Anna Dorothea Bilicz
+Paul Zaleski | Joanna Rosina Hempel
+Paul Zaleski | Joanna Rosina Hempel
+Christian Friedrich Weise | Dorothea Carolina Sanitzer
+Joseph Carol Kess | Christiana Sophia Dehnert
+Carol Heinrich Wagner | Amalia Carolina Kaufmann
+Carol Friedrich Roßig | Anna Rosina Stier
+----------------
+Leopold Friedrich Ludwig Haase | Juliana Francisca Eleonora Friderica Zukker
+Jacob Walde | Christiana Sophia Gerber
+Victor Leopold Swoboda | Christiana Carolina BauerVonEiseneck
+Adam? Soltan | Lucia Ida Pociey
+Joseph Anton Michael Schreiner | Catharina Friderica Kühn
+Johann Joseph Anton Schirmer | Christiana Sophia Magdalena Nitsche
+Dominic Aufleger | Joanna Christiana Richter
+Heinrich Anton Leopold Platz | Maria Henrica Franke
+Franz Joseph Erdtel | Rosina Friderica Huhn
+Franz Sukow? | Johanna Rachel Grahl
+----------------
+Johann Samuel Schneider | Marianna Ludovica Simons
+Jacob Herz | Ursula Klamar
+Jacob Thomas Thaddaus Bronckewitski | Juliana Dorolhea Augusta Naumann
+Friedrich August Döler | Joanna Christiana Walde
+Franz Steinberg | Joanna Juliana Caroline Mossdorf
+Friedrich DreßlerScharfenstein | Maria Theresia Rieffel
+Peter Schmidt | Joanna Friderica Zeiske
+Franz Anton Morgenroth | Cacilia Fizeaux
+Morit Friedrich Wolf | Catharina Graf
+Carol Alexander Drewitz | Maria Ludovica Gaudin
+Aloys Caspar | Christiana Henrica Schütz
+Franz Hiecke | Regina Neusel
+Johann Gottfried Schöne | Apollonia Brigitta Wolf
+Joseph Andreas Druschke | Dorolhea Winterling
+----------------
+Anton Lechleitner | Rosina Friederica Klaus
+Joseph Feuereisen | Marianna Ernestina Bähr
+Carol Valentin Gleichmann | Friderica Carolina Karichs
+Johann Gotthelf Remus | Joanna Rosina Uebelmesser
+Christian Gottlob Lesche | Marianna Kühnel
+Vincent Paustka | Augusta, Angelica Carolina Füssel
+Ludwig Blaßmann | Ludovica Muret
+Johann Clemens Tonett | Christiana Friderica Legler
+Franz Hanußek | Dorothea Krebsky
+Johann Frydryks | Augustus Wilhelmina Schmettchen
+Anton Lukeditsch | Christiana Wilhelmina Mehnert
+Joseph Wagner | Christiana Regina Klemm
+Franz Bellatti | Julia Werther
+----------------
+Christian Gotthelf Pohl | Ludovica Jorepha Wenzel
+Johann Gottlieb Krause | Francisca Caroline Ludovica Hammel
+Anton August | Joanna Rosina Schitzel
+Adalbert Hasler | Joanna Christiana Häntschel
+Johann Friedrich Schuster | Johanna Chrisana Hähne
+Johann Gottlieb Schwager | Agnes Rostig
+Franz Anton Richter | Barbara Griesbek
+Johann Habelt | Maria Catharin Müller
+Anton Stolle | Juliana Caroline Hornburg
+Andreas Wagner | Christiana Carolina Schurich
+Martin Schneider | Maria Josepha Pross
+Carol Moritz Unger | Ludmilla Hoffmann
+Carol Bertram | Joanna Christiana Warnatz
+Carol Maximilian Kalenbach | Joanna Augusta Müller
+----------------
+Anton Richter | Eva Rosina Kindmann
+Johann Christoph Fölkner | Marianna Josepha Englisch
+Johann Friedrich Geringer | Augusta Richter
+Lorenz Hille | Carolina Kaden
+Johann Samuel Dallaker | Augusta Friderica Reintsch
+Carol Gottlieb Limmer | Carolina Gertrudis Frank
+Johann Martin Streng | Catharina Henrica Wend
+Friedrich Mattheus Löb | Magdalena Fiebiger
+Joachim Hermann Zeidler | Rosina Nichte //korrigiert
+Friedrich Gottlieb Kramer | Maria Eleonora Knittel
+Wenzel Anders | Joanna Dorothea Döbler
+----------------
+1821
+Johann Friedrich Nuscke | Joanna Bretschneider
+Paul Reinhold Walther | Catharina Amalia May
+Johann Friedrich Müller | Emilia Ludowica Milekowsca
+Friedrich Wilhelm Eißmann | Anna Christiana Friderica Roose
+Carol Heinrich Gerzabek | Theresia Concordia Krumbholtz
+Friedrich Wilhelm Hegemann | Friderica Eleonora Richter
+Johann Anton Saft | Eleomora Ludovica Lochner
+Joseph Weiß | Elisabetha Hoffmann
+Johann Anton Hopfstock | Anna Dorothea Krug
+Heinrich Tronte | Marianna Tietzenthaler
+Andreas Böhnky | Juliana Sophia Hildebrand
+----------------
+Franz Büttner | Christiana Augusta Seybig
+Heinrich Hausen | Amalia Ploetz
+Friedrich August Ketschmann | Joanna Christiana Spindler
+Friedrich Gotthard Fahlbusch | Marianna Jablonska
+Joseph Pötterle | Theresia Peinert
+Ernst Pertisch | Joanna Rosina Freudenberg
+Joseph Dreßler | Joanna Christiana Krähmer
+Peter Anton Sebastian Heidenreich | Amalia Augustus Engelmann
+Carol Anton Dünnebier | Joanna Christiana Hennig
+Franz Ignatz Neumann | Christiana Theresia Philipp
+Carol Peter Zilke | Friderica Augusta Silbermann
+Gottfried Ebeling | Maria Josepha Sommer
+Ludwig Linsingen | Ludovica Carolina Plobis
+August Wolf | Marianna Theresia Gross
+----------------
+Johann Anton Weiß | Joanna Sophia Jünger
+Carol Wilhelm Halbmann | Christiana Augusta Hoffmann
+Franz Joseph Hosp | Joanna Christiana Ehrlich
+Johann Schefruk | Carolina Lasch
+Johann Stütz | Joanna Christiana Möbius
+Anton August Kompano | Ludovica Josepha Sala
+Carol Brand | Rosalia Bayer
+Johann Schneider | Joanna Carolina Willhelmina Leipert
+Johann Anton Seyffert | Christiana Willhelmina Ganzauge
+Michael Fischer | Christiana Friderica Klammer
+Hironimus Fritz | Emilia Agnes Hähnel
+Johann Heinrich Herold |  Maria Josepha Fiedler
+Franz Sachwall | Juliana Steinmetz
+Carl Anton Hoffmann | Juliana Augusta Puschner
+----------------
+Johann Baptista Getrus | Maria Augusta Kost
+Johann Kretzschmar | Theresia Richter
+Johann Czinsch | Johanna Sophia Ringel
+Anton Bernard Fürstenau | Maria Anna Charlotte Friederike Antonia Schmidt
+Carl Heinrich Bruch | Emilie Charlotte Eleonora Starke
+Joseph Besozzi | Antonia Tietz
+Johann Gottlob Unger | Theresia Ravelt
+Johann Sturm | Marianna Sommer
+Franz Will | Christiana Nitzsche
+Franz Hitzinger | Joanna Maria Vogel
+Johann Gottlob Kühne | Verroniea Carolina Werla?
+Ignaz Hoffmann | Christiana Friderica Juiana Tendtler
+----------------
+Joseph Pilz? | Eleonora Henriette Baumgärtel
+Procop Werner | Theresia Jaeger
+1822
+Jacob Ignaz Johann Czuickschank | Louise Sophie Weiß
+Johann Merker | Maria Sophia Rückin
+Jacob Handrick | Joanno Sophia Leibiger
+Ignaz Kamel | Josepha Merwitz
+Franz Hollstein | Maria Josepha Lehmann
+Franz Anton Carl Schirmer | Martha Friederica Berndt
+Anastasius Thaddaus Toedwen | Adelhaida Josepha Gablenz
+Gottlieb Friedrich Baldauf | Amalia Theresia Francisca Damm
+----------------
+Johann Christian Hartmann | Catharina Karolina Tschakert
+Ignaz Böhme | Joanna Christiana Franz
+Peter Joseph Swinnes | Joanna Christiana Friderica Bormann
+Friedrich Ludwig Micol | Juliana Weber
+Franz Joseph Wucherer | Augusta Glück
+Carl Benjamin Reuthe | Demoiselle Marianne Gay
+Adalbert Buback | Joanna Rosina Löve
+Jacob Rieg | Henziette Schneider
+Anton Ruppell | Joanna Helena Richter
+Johann Carl Rüger | Amalia Augusta Schlechter
+Franz Krumbholz | Christiana Friderica Pechin
+Johann Traugott Büttner | Maria Elisabeth Habisch
+----------------
+Anton Hörmann | Catharina Ludmilla Stumpf
+Johann Friedrich Schumann | Rosalva Eleonora Antonia Berthold
+Johann Gottfried Große | Joanna Eleonora Krabanzky
+Anton Blasius Weiß | Charlotte Combes
+Georg Anton Hertwig | Joann Christiana Henriette Schreiber
+Johann Gottfried Grundmann | Anna Maria Koban
+Heinrich August Podolski | Henriette Fuhrmann
+Johann Ernst Koch | Maria Anna Englisch
+Mattheus Lukas | Henriette Wehelmine Große
+Philip Anton Görgel | Anna Kühnelt
+----------------
+Andreas Kubasch | Anna Rosina Fischer
+Johann Georg Döbelin | Christino Sophi Lattich
+Johann Sober | Agnes Hoien
+Franz Müller | Joanne Sophie Vetter
+Franz Mißkulnig | Anna Christiana Laucke
+Johann Gottlob Horn | Anna Rosina Müller
+Johann Christoph Dürr | Josepha Theresia Walther
+Traugott Leberecht Sebastian Jentzsch | Chrestiana Elisabeth Nebel
+Johann Franz Xaver August Dünnebier | Friederica Wilhelmina Plarx?
+Johann Jodocus Müller | Helena Grimmer
+----------------
+Joseph Lorenz Johann Gröschel | Friederica Henrica Horack
+Franz Wenzel Lerche | Joanne Christian Sophia Wahl
+Friedrich Aulitzki | Joanne ChriStiana Sophia Fahlbusch
+Franz August Johann Puschner | Barbara Amalia Josepha Hayn
+Anton Wüst | Barbara Herold
+Friedrich Michael Hartmann | Joanna Wilhelmina Augusta Gregor
+Johann Gottlob Philip Urban | Joanna Juliana Henrietta Streubler
+Anton Speer | Joanne Christiane Caroline Pampel
+Franz Mattausch | Joanne Juliane Korgens
+Joseph Hampel | Juliane Charlotta Weber
+----------------
+Franz Michael Feßler | Agnes Mittke
+Marian Wara? | Theresia Rosina Adam
+Johann Carl Heinrich Schlechter | Christiana Juliana Schindler
+Joseph Reiner | Johann Eleonora Friderika ?
+Johann Neumair | Henriette Amalie Möbert
+Johann Heinrich Völnicke | Anna Francisca Stowasser
+August Friedrich Möckel | Maria Augusta Joanna Beatrix Senson
+Anton Zermaek | Dorothea Eldmutha Lengefeld
+----------------
+Martin Weck | Christiana Carolina Naumanm
+Johann Christian Friedrich Tietz | Henriette Wilhelmine Schlein
+Isaac Paul Struellens | Henriette Amalie Wallpol
+Joseph Franz Xaver Heinrich | Chrisitana Wilhelmina Mann
+Franz Schrenker | Carolina Friderica Dehnert
+Friedrich Constantin Wenzel Byrn | Laura Clara Clotilda Herselia
+Carl Robert Wolf | Joanna Christiana Antonia Schlachter
+Franz Nickel | Christrane Wilhelmina Angermann
+----------------
+Johann Carl August Buhr | Joana Christiana Schenke
+Christian Anton Gottlieb Kriebel | Anna Kzizan
+Johann Friedrich Franz | Amalia Carolina Böhme
+Franz Salesius Hironimus Fabian Sebastian  Marcolini | Emma Theresia Lüttichau
+Carl August Hayn | Joana Eleonora Lubeen
+Nicol Alexander Hennadis | Maria Amalia Carolina Ploetz
+Franz Anton Rilke | Rosalia Dtiel
+Johann Baptista Gmeiner | Joanna Dorothea Ernestina Kraske
+----------------
+Giovachino Benincasa | Francisca Elisabeth Lenk
+1823
+Carl August Barthel | Catharina Wosski
+Franz Däms | Joanna Christiana Sophia Sauermann
+Benedikt Advinert | Rose Koebel
+Aloys Buchheim | Maria Friderica Wagner
+Johann Philip Gottlob Braune | Joanna Carolina Görlitz
+Johann Michael Wollmann | Joanna Friderica Stahl
+Johann Georg Franz Werner | Chrisitana Concordia Müller
+----------------
+Johann Nepoluc Valentin Pacowsky | Maria Theresia Francisca Förster
+Johann Jacob Piekazz | Juliane Friderike Müller
+Joseph Schmidt | Christian Henziette Thieme
+Franz Wagner | Anna Friderika Janke
+Heinrich Anton Hengsbach | Christiana Julia Richter
+Joseph Guth | Eleonora Amalia Bechtold //unklar
+Anton Weiß | Maria Anna Magdalena Nauman
+Johann Anton Dotti | Charlotte Marianna Dauphina Theresa Barbara Seiß
+----------------
+Carl Re | Augusta Boerner
+Carl Christian Krumbholz | Barbara Rosina Knecht
+Franz Heinzberger | Joanna Wilhelmina Naumann
+Jacob Weber | Juliana Charlotte Louise Kohl
+Paul Nicol Friedrich Lassow | Albertina Sonole?
+Franz Xaver Gentner | Joanna Friederika Schmidt
+Michael Jacob Seidler | Chritiane Eleanora Merz
+Franz Sebastian Lubeck | Juliana Carolina Schlein
+Christian Friedrich Georgi | Marianna Alter
+----------------
+Johann Jodocus Strattmann | Christiana Eleonora Kermes
+Johann Zschido | Joanna Eleonore Klemm
+Carl Joseph Raabe | Theresse Mathillde Wittern?
+Bernard Gauffait | Maria Anna Germain
+Carl Friedrich Philip Meister | Catharina Friderica Poneschky
+Siegmund Georg Friedrich August Wittern | Francisca Martha Felicitas BauerVonEiseneck
+Friedrich Wilhelm Götze | Christiana Presser
+German Sassaroli | Marianne Feller
+Johann Rose | Joanna Eleonora Wehner
+----------------
+Johann Traugott Anton Duchardt | Anna Britzgal
+Georg Wolschink | Joanna Christiana Kirst
+Franz Mattausch | Joanna Sophia Philipp
+Christoph Tandler | Christiana Friederica Goetz
+August Friedrich Wilhelm Burckhart | Maria Anna Hoehnel
+Friedrich Anton  Meusel | Maria Magdalena Loehr
+Wendelinus Wewera | Maria Joana Elisabeth Lübeck
+Joseph Johann Masoni | Joanna Henriette Friderike Elisabeth Hermann
+Johann Joseph Altmann | Justina Magdalena Patzelt
+Peter Johann Appelt | Charlotte Amalie Martin
+----------------
+Franz Machaczeck | Anna Fracisca Marschner
+Johann Carl Gottlob Sonntag | Maria Josepha Kowarsch
+Carl Friedrich Müller | Maria Josepha Augusta Oppenheim
+Franz Anton Sparenberg | Christiana Henrietta Reinstein
+Johann Gottlob Hahn | Demochelle Augusta Ernestina Mahildis Antonia Renner
+Johann Christoph Kaiser | Maria Magdalema Marschner
+Johann Christian Giebner | Maria Theresia Braun
+Friedrich August Richter | Juliana Dorothea Theresia Wust
+----------------
+Johann Gottfried Sachse | Joanna Christiana Hohlscheiter
+Johann Christian Carl Sieber | Friderica Sophia Pauli
+Johann Franz Watzke | Joanna Charlotte Hauselauf
+Johann Dengel | Henriette Willlmine Schmidt
+Maximilian Carl Gaudin | Juliana Dorothea Schlewitz
+Joseph Friedrich August Hoffmann | Joana Eleonora Krausch
+Johann Christian Friedrich Dreysse? | Anna Christiana Schuster
+Maximilian Carl Gerster | Antonia Carolina Augusta Schaefer
+----------------
+Johann Gottfried Burckhart | Eva Heib
+1824
+Michael Rätze | Maria Anna Tannert
+Johann Jacob Herman Kayßer | Joanna Christina Pfeilschmidt
+Peter Janke | Maria Christiana Dorothea Koppke
+Johann Christoph Bornkamm | Amalia Neumann
+Johann Anton Salomo | Joana Sophia Goeckritz
+Friedrich Stauber | Christiana Friderica Wilm
+Joseph August Otto | Antonia Schoegel
+----------------
+Friedrich Adolph Uichteritz | Bertha Aloysia Augusta Puteani
+Carl Friedrich Albert Zocher | Mathilde Auguste Krause
+Joseph Friedrich August Thilo | ElisaBeth Sophia Tugendreich Dreyßig
+Florian Richter | Christianna Magdalena Pallme
+Friedrich Ludwig Horack | Maria Joanna Antonio Hundt
+Friedrich Anton Michael Duchant | Friderica Wilhelmina Fickolt
+Carl Adolph Siegmund Pforte | Maria Anna Theresia Antonia Schmidt
+----------------
+Fortunatus Christian Joseph Maria Johann Benjamin Heinrich Franz Dorotheus Rohde | Joanna Wilhelmina Bitter
+Ludwig Choulant | Maria Elisabeth Francisca Carolina Grubert
+Johann Gottlieb Schwartze | Antonia Friderica Volkmann
+Johann Osie | Augusta Amalia Kretschmar
+Georg Traugott Buhr | Juliana Dorothea Becker
+Ernst Johann Traugott Lehmann | Carolina Augustina Schmidt
+Johann Gottfried Dreßler | Catharina Hage
+Franz Friedrich Maximilian PeraltaRenaud | Friderica Joanna Susanna Bünau
+----------------
+Carl Friedrich Suß | Louise Elisabeth Franz
+Friedrich Moritz Böhme | Barbara Amalia Habelt
+Johann Albert Laiter | Johanna Christiana Kirst
+Gustav Ferdinand Nostitz | Philippine Eleonore Elisabeth Liechtenstern
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+----------------
+Johann Heinrich Wilhelm | Joanna Christiana Kögel
+Andreas Glaßer | Agnes Brodl
+Johann Gottlieb Rabenstein | Christiana Maurer
+Johann Christoph Nichtitz | Maria Elisabeth Raemsch
+Georg Heinrich Wollmar | Christiana Dorothea Möser
+----------------
+Georg Pyern | Ferdinande Emilie Re
+Carl Joseph Heinze | Joanna Marianna Lorenz
+Franz Anton Richter | Joanna Sophia Charlotte Krüger
+Anton Schicht | Christiana Regina Trautmann
+Johann Christoph Bornkam | Christiano Marianna Carolna Augusta Bertholdt
+Friedrich August Schulze | Henrietta Charlotte Buchheim
+Johann Gottfried Burckhart | Maria Dorothea Knopp
+Franz Heinrich Gerling | Christiana Carolina Thomaschke
+Carl Ernst Lindner | Emilia Amalia Fischer
+----------------
+Johann Gottlieb Ferdinand Mahling | Rosina Besold
+Carl Gotthelf Dehnert | Katharina Vogel
+Thomas Novakowski | Christiana Elonora Ehlich
+Caspar Krause | Rosina Christiana Sophia Moser
+August Leberecht Weise | Maria Josepha Tschackert
+August Gottlieb Ludwig Donner | Veronica Demelin
+Johann Gottfried Helbig | Maria Catharina Raabe
+----------------
+Johann Heinrich Marwein | Maria Anna Mitke
+Heinrich Jacob Ruppel | Louise Agnes Lehmann
+Carl Wagner | Louisa Misshauer
+Johann August Schellenberg | Maria Anna Schiller
+Johann Gottlieb Löbel | Maria Josepha Dreßler
+Johann Michael Heinrich Säuring | Christiana Sophia Barth //unklar
+1825
+Carl Friedrich Edelmann | Emilia Augusta Sonchy
+Johann Schmidt | Charlotte Caroline Maria Majo
+Anton Carl Heinrich Norbert Plöser | Caroline Henriette Kühn
+----------------
+Franz Trienopitz | Anna Jacowsky
+Nicol Semank | Magdalena Lassig
+Carl Johann Focke | Joanna Eleonora Wagner
+Andreas Böhmer | Anna Ließel
+David Friedrich Stock | Wilhelmine Henriette Brucks
+Johann Friedrich Vincent Gerbing | Maria Aloysia Rosalia Fletsch
+Johann Andreas Vater | Maria Magdalena Lindner
+Peter Victor Ferdinand Heine | Christiana Wilhelmina Augusta Rublack
+----------------
+Carl Adolph Ludwig Günther | Adelheid Maria Anna Christiana Petronilla
+Gottlob Friedrich Kreer | Maria Rosina Carolina Renzsch
+Andreas Sodan | Christiana Eleonora Fuchs
+Carl Friedrich Benedikt Kassel |  Julie Therese Henriette Brause
+Johann Michael Joseph Becker | Mariana Peter
+Jacob Petschke | Maria Josepha Fiebiger
+Johann Gottlob Wolf | Joanna Sophia Seebert
+Heinrich Moritz Franz Kühnel | Maria Amalia Antonia Augusta Hottenroth
+Johann Gottlieb Wilhelm Eichler | Catharina Josepha Langhanns
+----------------
+Julian Roman Kwiliez | Theola Maria Anna Mileuski //unklar
+Franz Wenzel Prager | Joanna Christiana Fischer
+Franz Wenzel Wenschuch | Auguste Wilhelmina Aden Boye
+Carl Anton Redlich | Juliana Christiana Schmaler
+Carl Hanke | Augusta Wilhelmina Schulz
+Leopold Aulitzky | Francisca Augusta Louisa Werner
+Johann Reisner | Challotte Wilhelmine Herfurth
+----------------
+Ignaz Walther | Johanna Eleonora Richter
+Franz Philip Anton Schulze | Carolina Reditzky
+Christoph Friedrich Börner | Henriette Wilhelmina Opitz
+Franz Steidel | Joanna Rosina Christian Kutsche
+Franz Julius Witthöf | Johanna Josepha Serchen
+Carl Friedrich Schneider | Christiana Friedrica Mariana Graf
+Nicol Jorsch | Johanna Sophia Suttrich
+Johann David Stötter | Maria Anna Pettlachen
+Andreas Hausche | Christiana Concordia Ömich
+Florian Salomon Beutel | Sohanna Elesnora Messer
+Johann Mark | Johanna Christiana Fliekel
+Johann Nicol Nowack | Agnes Bossky
+----------------
+Johann Samuel Rüdel | Barbara Augusta Aulitzky
+Xaver Duba | Juliana Elisabeth Anders
+Franz Joseph Rösler | Augusta Amalia Nicolai
+Friedrich August Heine | Catharina Brütsche
+Joachim Franz Campuzano | Emma Theresia Brochoucka
+Franz Tietze | Auguste Valentine ?
+Moritz Eduard Röhr | Mondele? Antonia Wenzel
+Carl Gottlieb Henke | Rosina Heine
+Johann Plaul? | Christiane Augusta Amalia Sachse
+1826
+Anton Ziegler | Juliana Henrica Reichert
+Johann Friedrich Berthold | Anna Sophia Herrtrumpf
+Johann Martin Lutz | Elisabeth Lenk
+Friedrich Schmeckal | Amalia Augusta Krause
+Caspar Bauer | Johanna Sophia Martin
+Johann Hensch? | Mariensche Johana Christiana Schreier
+----------------
+Joseph Lehnert | Maria Rosina Hatchen
+Ernst Pollack | Emilia Nethe
+Adolph Moritz Binder | Johanna Christiana Wilhelmina Kühn
+Franz Wilhelm Habelt | Augusta Weinelt
+Carl Wilhelm Körner | Johanna Amalia Stecher
+Johann Christian Kühnel | Carolina Sophia Eleonora Wagner
+Georg Franz Kallenbach | Maria Theresia Herlt
+Johann Gottlob Schmidt | Johanna Seinert
+Emanuel Faulhaber | Ferdinanda Mosel
+Moritz Buseck | Augusta Louise Bodenhausen
+Carl Anton Spann | Henriette Amalia Sophia Tröger
+Carl Stelzig | Maria Mergenthal
+Michael Hubert | Johanna Hebert
+Johann Buck | Theresia Kebler
+Johann Gottlieb Käseberg | Maria Theresia Hanke
+Sebastian Lindacher | Christiana Born
+Nicol Nuck | Maria Christiana Müller
+----------------
+Joseph Matheis | Johanna Agnes Hüke
+Michael Hermann | Johanna Sophia Starke
+Wenzel Hirsche | Rosina Borstorf
+Johann Christian Kulisch | Amalia Henrica Franz
+Johann Arnold Knoke | Henriette Graff
+Johann Maxa | Amalia Reichelt
+Ludwig August Kielberg | Christiana Friederika Valtin
+Christian Wilhelm Klaßig | Johanna Garten
+Michael Korpetzkij | Christiana Sophias Elisabeth Schubert
+Johann Leonard Schurek | Carolina Neumann
+Joseph Decavanti | Julia Wilhelmina Starcke
+Johann Leonard | Amalia Augusta Silbermann
+Joseph Leutner | Christiana Carolina Kirchner
+Johann August Seltmann | Theresia Klepsch
+Nicol Lietsch | Magdalena Petasch
+Wilhelm Ferdinand Rosenkranz | Francisca Josepha Sperco
+----------------
+Anton Wiltz | Maria Magdalena Weiss
+Johann Worsch | Christiana Grosse
+Franz Carl Uhlig | Maria Eleonora Lubeck
+Johann Carl Lorenz | Johanna Löbel
+Carl Johann Watzke | Carolina Rosalia Antonia Roose
+Friedrich Gottlob Moritz Stoß | Johanna Carolina Andreoli
+1827
+Julius Wolf | Maria Louise Isabella Ferber
+Johann Gottfried Barth | Catharina Walburga Brücker
+Johann Georg Guwe | Johanna Christiana Kuhnert
+Carl Anton Ahee | Johanna Friedricka Klitzschka
+Johann Bauer | Johana Hedwig Brocksch
+Carl Gottlieb Haßmann | Maria Christiana Dittmar
+Peter Müller | Amalia Augusta Huhn
+----------------
+Friedrich August Benda | Christiana Elisabeth Augusta Schreiber
+Carl Wilhelm Buchner | Johanna Christiana Druschke
+Joseph Gerstenhöfer | Francisca Ohnesorge
+Franz Braun | Eleonora Jenichen
+Franz Anton Schulte | Margaretha Kube
+Johann Gottlob Wehner | Magdalena Pabst
+Carl Friedrich Adolph Königdörfer | Wilhelmina Carolina Hubert
+Carl Gottlob Kreßler | Maria Henrica Mann
+Franz Mayer | Eleonora Theresia Rothe
+Christian Gotthelf Dreßler | Maria Magdalena Homan
+Friedrich Ludwig Rusch | Johanna Friedrika Grätzschel
+Liborius Hoffmann | Wilhelmina Amalia Größler
+Peter Agard | ?
+----------------
+Johann Christoph Berger | Anna Rosina ?
+Athanasius Rodionos | Amalia Bolachioff
+Gregor Stroganoff | ?
+Anton Diedl | Joanna Christiana Albin
+Karl Bernhard Burckhart | Wilhelmina Augusta Re
+Franz Xaver Richter | Amalia Augusta Zschirozech
+Christoph Neuhäuser | Carolina Pettrich
+Philip Bernhardt Dreyßig | Christiana Carolina John
+Johann Gottlieb Schumann | Amalia Josepha Richter
+----------------
+Joseph Franke | Laura Grünwald
+August Friedrich Pauli | Augusta Kalch
+Friedrich Gotthelf Wachwitz | Amalia Bousquet
+August Sachse | Mathilde Schwarz
+August Hermann | Maria Antonia Staszewka
+Carl Prabowsky | Maria Plater?
