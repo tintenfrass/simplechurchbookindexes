@@ -1867,7 +1867,7 @@ Johann Gottlieb Walde
 Carl Gotthelf Seifert
 Carl Gottfried Christlieb Hornuff
 Johann Friedrich Gottlieb Bermann
-Gotthelf Friedrich Förlter
+Gotthelf Friedrich Förster
 Gottlieb Heinrich Meyer
 Christian Friedrich Scheibe
 Gottfried Heinrich Schmidt
@@ -1935,6 +1935,7 @@ Johann Gottlob August Herzog
 Georg Bernhard Engel
 Friedrich Gotthelf Hohlfeldt
 Carl August Mettfeßel
+Joseph Böhme
 Johann Gottlob Ebert
 Johann Heinrich Gottfried Deutrich
 Carl Gottlob Ludwig Köhler
