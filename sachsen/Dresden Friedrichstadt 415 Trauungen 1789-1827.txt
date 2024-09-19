@@ -2147,7 +2147,7 @@ Johann Christian Müller
 Carl August Ernst Lehmann
 Johann Gottlob Rohmann
 Johann Heinrich Sonntag
-Johann Gottlieb Schint
+Johann Gottlieb Schink
 Christian Gottlieb Möckel
 Carl Kalembach
 Gottlieb Leberecht Poschatzky
@@ -2259,7 +2259,7 @@ Friedrich Eduard Uhlich
 Johann Friedrich August Zabelt
 ----------------
 Carl Gottlieb Puruck
-Carl August BZezschwitz
+Carl August Zezschwitz
 Gottlieb Friedrich Schmidt
 Carl Theodor Robert
 Johann Tobias Gräfe
@@ -2287,7 +2287,7 @@ Johann Gottlob Krieg
 Johann Christoph Müller
 Johann Gottlieb Arnhold
 Johann Gottfried Kunze
-Carl Gottfried Trints
+Carl Gottfried Trinks
 Johann Siegmund Eichhorn
 Carl Friedrich Gottlieb Raum
 Carl Daniel Hering
@@ -2342,7 +2342,7 @@ Johann Carl Gottfried Rehan
 Johann Gottlieb Schreyer
 Carl Moritz Rösler
 ----------------
-Christian Heinrich Günther
+Christian Heinrich Günther Laage
 Adolph Eduard Lehmann
 Johann Gottlieb? Niederlein
 Carl August Fiedler
@@ -2452,7 +2452,6 @@ Carl Heinrich Wihelm Schmidt
 Carl Gottlieb Rothe
 Carl Friedrich Sahr
 Friedrich Jeremias Küpper
-Carl Gottfried Küpper
 Johann Carl Gottlieb Wolf
 Johann Georg Heinrich Höfer
 Andris Auguset Kleist
@@ -2545,6 +2544,7 @@ Carl Gotthelf Merkel
 Carl Chtliem Kästner
 Johann Friedrich Traugott Voigt
 Christian Traugott Otto
+Carl Friedrich Sahr
 ----------------
 Christian Traugott Wetzel
 Oswald Eduard Müller
@@ -2572,10 +2572,10 @@ Johann Ernst Gottlieb Zwickert
 Johann Carl Samuel Hille
 Johann Gottfried Döhnert
 Johann Traugott Ludwig Renner
-Friedrich Traugott Ulbrich
+Friedrich Traugott Ulrich
 Johann Andreas Hausicke
 Johann Mucke
-Christian August Gotthardt Zabelt
+Christian August Gotthardt Zabell
 Johann Carl David Brückner
 Johann Gottlieb Naumann
 ----------------
@@ -2612,7 +2612,7 @@ Johann August Bönhardt
 Carl Fredrich Ferdinand Deubner
 Johann Albert Moritz Jacobi
 Carl Gottlieb Wolf
-Carl August Wilhelm Buschhatter
+Carl August Wilhelm Buchhalter
 Johann Christoph Schulze
 Johann Gottfried Krauspe
 Carl Gottlob Kürbs
@@ -2624,15 +2624,15 @@ Carl August David Bochard
 Friedrich August Petzold
 Friedrich Gotthelf Spahn
 Carl Gottlieb Peters
-Johann Gotthelf Friedrich PEtzold
+Johann Gotthelf Friedrich Petzold
 Gottlob Gabriel Lißner
 Johann Christian Friedrich Schiller
 Ernst Eduard August Rüger
 Gotthelf August Schumann
-Johann Georg Porocke
+Johann Georg Brocke
 Johann Friedrich Ferdinand Schmidt
 Christian Friedrich Müller
 Johann Carl Gotthelf Klügel
 Johann Gottlieb Strech
 Friedrich August Werner
-Johann Georg Poergan
+Johann Georg Bergan
