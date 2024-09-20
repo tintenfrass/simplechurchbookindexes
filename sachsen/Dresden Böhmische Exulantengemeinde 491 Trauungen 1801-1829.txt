@@ -1,11 +1,12 @@
 Dresden Böhmische Exulantengemeinde (Buch 491)
-Trauungen 1801-1819
+Trauungen 1801-1829
 https://www.archion.de/de/viewer/churchRegister/264671?pageId=36998576
 
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 April 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -62,3 +63,38 @@ Carl Traugott Seydlitz
 Johann Gottlob Wagner
 1819
 Johann Gottlieb Fricke
+1820
+Johann Gottlob Schneider
+Carl Gottlob Fiedler
+1821
+August Friedrich Hannisch
+----------------
+Johann Gottfried Richter
+Christian Friedrich Wolf
+Johann Gottlieb Traugott Klinkisch
+1822
+Gottfried August Wilhelm
+Johann Gottlieb Hänsel
+Carl Gottfried Schneider
+Christian Friedrich Wilhelm Lindemann
+----------------
+1824
+Johann Andreas Gottfried Estel
+Heinrich Wilhelm Zweiniger
+Johann Gottlieb Tränckler
+1825
+Johann Rudolph Abeldsan?
+Samuel Thürmenstein
+1826
+August Friedrich Henisch
+1827
+Carl August Wilhelm Hernapp
+Carl Christian Brückner
+1828
+Arnatus? Gotthelf Thernhaus?
+----------------
+Gottlieb Reintanz
+1829
+Johann Samuel Günther
+Johann Carl Gottfried Rühle
+Friedrich August König
