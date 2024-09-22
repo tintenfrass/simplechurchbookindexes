@@ -1,5 +1,5 @@
 Großerkmannsdorf (Buch 159)
-Trauungen 1780-1819
+Trauungen 1780-1829
 https://www.archion.de/de/viewer/churchRegister/280079?pageId=38530316
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 0,5 Stunden
 September 2023
 April 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -359,3 +360,84 @@ Johann Gottfried Müller
 Johann Christoph Schütze
 Johann Gottfried Müller
 Johann Gottfried Körnert
+----------------
+1820
+Johann Gottfried Näther
+Christian Rentsch
+Johann Gottlob Müller
+Johann Gottlob Keller
+Carl Gottfried Angermann
+1821
+Johann Gottlieb Medger
+Johann Gottfried Pommrich
+Gottfried Leberecht Gebauer
+Johann Gottlob Mitscherling
+Johann Gottlieb Birnstengel
+Gottlieb Hoffmann
+Johann Gottlieb Lesche
+----------------
+1822
+Johann Gottlieb Müller
+Johann Gottfried Müller
+Johann Gottlieb Leberecht Schöne
+Johann Christoph Jacob
+Johann Gottfried Leske
+Johann Gottlieb Werner
+1823
+Johann Carl Gotthelf Müller
+Johann Gottlieb Gierth
+Johann Gottlob Sperling
+Johann Gottlieb Schäfer
+Johann Gottlob Ziesche
+----------------
+Johann Gottlieb May
+Johann Christoph Müller
+1824
+Johann Gottlieb Müller
+Johann Gottfried Born
+Franz Leipert
+Heinrich Rudolph Meitzner
+Johann Gottlob Schietzel
+Johann Gottfried Hase
+Johann Gottlieb May
+Gottlob Carl May
+Johann Gottlob Anders
+Johann Gottlieb Schmidt
+----------------
+Johann Gottlob Müller
+Carl Gottfried Hanicke
+Johann Gottlieb Henker
+Gottfried Schmidt
+Carl Traugott Schmidt
+1825
+Carl Gottfried Glaser
+Johann Christoph Müller
+Johann Gottlob Müller
+Johann Christian Keller
+Johann Gottfried Koch
+----------------
+1826
+Johann Gottlieb Käse
+Johann Gottlieb Blochwitz
+Gustav Ludwig Kell
+Carl Gottfried Müller
+Friedrich Gottlob Roch
+Johann Gottlieb Roch
+Johann Gottlob Müller
+Christian Friedrich Jähnichen
+1827
+Carl Friedrich Meitzner
+Johann Gottlieb Gebauer
+Johann Gottfried Jähnichen
+----------------
+Johann Gottlieb Hörnig
+1828
+Johann Gottfried Born
+Johann Schubert
+1829
+Friedrich August Grundig
+Johann Christian Gehre
+Johann Gotthelf Zeibig
+Carl Heinrich Ziesche
+Johann Carl Gottlieb Börner
+Johann Christoph Jähnichen

@@ -1,17 +1,18 @@
 Briesnitz (Buch 100)
-Trauungen 1760-1819
+Trauungen 1760-1821
 https://www.archion.de/de/viewer/churchRegister/263423?pageId=36753102
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 5 Stunden
+Erstellt in ca. 5,5 Stunden
 Mai 2023
 Juni 2023
 August 2023
 April 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -2481,3 +2482,137 @@ Andreas Wobst
 Christian Gottfried Pahlisch?
 Johann Gottlieb Bachmann
 Johann Christlieb Pietzsch
+----------------
+1820
+Johann Gottlieb Grundmann
+Carl Gotthold Pählig
+Johann Gottfried Pahlisch
+Johann Gottlob Benjamin Krätzig
+Johann Gottlieb Faust
+Johann Christian Heidenreich
+Johann Gottfried Erdmann Kaleb
+----------------
+Johann Christian Nacke
+Johann Gottlieb Kirst
+David Heinrich Hörmann
+Johann Georg Schulze
+Johann Christoph Moses
+Johann Gottlieb Dietrich
+----------------
+Johann Gottlieb Naumann
+Johann Gottlob Fehrmann
+Johann Traugott Mädiger
+Johann Christoph Noack
+Friedrich Traugott Martin
+Johann Gottfried Schütze
+Carl Gottlieb Ehlig
+----------------
+Johann Gottlob Gnauck
+Johann Christoph Starcke
+Johann Gottlob Pietzsch
+Johann Carl Gottlob Ulbricht
+Johann Michael Mieth
+Christian Gottlieb Klügel
+Friedrich August Töpel
+----------------
+Johann Gottlob Knoll
+Johann Christian Ludwig
+Johann Christian Richter
+Johann Samuel Richter
+August Friedrich Eulenberger
+Johann Gottlob Richter
+Johann Gottfried Dietze
+Johann Gotthelf Sohrmann
+----------------
+Johann Gottlob Haubold
+Johann Gottlieb Schäfer
+Johann Gottfried Fehre
+Friedrich Wilhelm Fahlbusch
+Johann Christoph Menchner
+Johann Gottlieb Pietzsch
+----------------
+Johann Gottlieb August Grübner
+Carl Traugott Friedrich
+Johann Carl Traugott Welde
+Ernst Christian Schuricht
+Carl Gottfried Gebler
+Carl Gottfried Tippner
+----------------
+Johann Gottfried Wend
+Christian Friedrich Thielemann
+Johann Gottlob Wilhelm Döbritz
+Daniel Wersig
+Carl Traugott Faust
+----------------
+1821
+Johann Gottlob Schmidt
+Johann Gottfried Hofmann
+Johann Christian Schulze
+Johann Gottlob Thomas
+Johann Gottlieb Schumpe
+Johann Traugott Thomas
+Johann Gottlob Schmidgen
+----------------
+Johann Georg Dreßler
+Johann Gottlieb Lange
+Johann Christian Gottlieb Rudolph
+Johann Christian Berger
+Johann Gottlieb Klemm
+Johann Georg Wend
+----------------
+Johann Gottlob Götze
+Johann Gottlieb Dreßler
+Johann Ephraim Heine
+Johann Gottfried Henke
+Gottared Leberecht Kaden
+Johann Gottlob Schwenke
+Christian Gottlieb Fickler
+----------------
+Johann Gottlieb Jentsch
+Carl Traugott Hofmann
+Johann Gottlieb Löwe
+Johann Gottlob Herr
+Carl Gottlob Barth
+Johann Gottlieb Hoppe
+Johann Gottlieb Schulze
+----------------
+Johann Gottfried Vetter
+Johann Gottlieb Schäfer
+Carl Gottlob Dachsel
+Johann Gottlieb Kirsten
+Johann Georg Nicolaus
+Carl Friedrich Böhme
+----------------
+Georg Carl Rathmann
+Johann Gottfried Wittich
+Johann Gottlob Pählig
+Johann Samuel Reede
+Johann Christian Fleischer
+Carl Gottlob Rühle
+Johann August Hennig
+----------------
+Johann Franz Hübner
+Johann Gottlob Jentsch
+Johann Gottlieb Oehme
+Johann Gottlob Lehmann
+Johann Christlieb Welde
+Johann Gottlob Fehrmann
+----------------
+Johann Gottlob Heine
+Johann Gottlob Gladewitz
+Johann Gottlieb Schumann
+Johann Wieder
+Johann Gottlob Mittg
+Wilhelm Moritz Marquard
+----------------
+Johann Gottlob Huhle
+Johann Gottlob Fehrmann
+Carl Gotthelf Fichtner
+Johann Gottlob David Reiche
+Johann Adam Joseph Müller
+Johann Gottlieb Rau
+Carl Gottlieb Faust
+----------------
+Johann Gottfried Reede
+Carl Gottlob Barth
+Johann Christian Traugott Udolph

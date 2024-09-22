@@ -1,5 +1,5 @@
 Grünberg (Buch 8)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/279927?pageId=38496725
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 April 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -143,3 +144,75 @@ Johann Gottfried Koitzsch
 Johann Christian Trepte
 Johann Christoph Trepte
 Johann Gottfried Schumann
+----------------
+1820
+Johann Gottlieb Traugott Meißner
+Johann Samuel König
+Christian Friedrich Schaffhirt
+Johann Gottlob Schütze
+Johann Christoph Thalheim
+Ernst Johann Liebegott Zscheile
+Carl Gotthelf Grafe
+Johann Gottlob Jahn
+----------------
+1821
+Johann Gottfried Menzel
+Johann Gottlob Barthelt
+Johann Gottfried Pranitz
+Johann Christian Gräfe
+Johann Christoph Trepte
+Johann Gottlob Menzel
+----------------
+1822
+Benjamin Traugott Klotsche
+Johann Gottlob Klette
+Johann Gottlob Trentzsch
+Johann Gottlob Schreiber
+Johann Gottlieb Kotte
+Johann Gottlob Trepte
+----------------
+1823
+Johann Christian Ringel
+Johann Gottlieb Knöfel
+Carl Friedrich Tronicke
+----------------
+1824
+Johann Gottlob Liebezeit
+Johann Georg Trepte
+Johann Gottfried Adam Beeg
+Johann Gottlieb Koch
+Johann Friedrich Tamme
+----------------
+1825
+Johann Gottfried Kotte
+Johann Gottlob Trepte
+Johann Gotthelf Trepte
+Johann August Hennig
+Johann Christoph Thalheim
+Johann Gottlob Schütze
+Johann Gottlieb Schütze
+Johann Gottlieb Kuntzsch
+----------------
+1826
+Johann Gottlob Katzer
+Johann Christoph Beyer
+Johann Christian Müller
+Fürchtegott Leberecht Beyer
+1827
+Johann Christoph Hähnel
+Friedrich Traugott Lehmann
+----------------
+Gottlieb Carl Schreiber
+Johann Traugott Großmann
+Johann Gottlob Hiller
+Carl Gottlob Großmann
+----------------
+1828
+Carl Gottlieb Liebezeit
+Johann Gottfried Förster
+Johann Georg Günther
+Johann Gottlob Trepte
+----------------
+1829
+Carl Friedrich Gotttheld Wirth
+Johann Gottlob Hiller
