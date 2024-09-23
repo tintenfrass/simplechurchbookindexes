@@ -24,7 +24,7 @@ Lorenz Heinrich Schulz
 Carl Gottlob Herbst
 August Traugott Müller
 Johann Martin Goldschmidt
-Johann Gottfried Taugott Schelze
+Johann Gottfried Traugott Schelze
 Heinrich Daniel Hermann
 ----------------
 Johann August Pieser
@@ -99,7 +99,7 @@ Johann Gottlob Haymann
 ----------------
 Johann Christian Gotthelf Jonas
 Johann Gottlieb Tränkler
-Gottlolb Daniel Valentin Seyfert
+Gottlob Daniel Valentin Seyfert
 Carl August Buchold
 Christoph Heinrich Gerber
 Johann Benjamin Bretschneider
@@ -117,7 +117,7 @@ Johann August Leberecht Gasch
 Johann Gottlieb Henke
 Gaudentius Friedrich August Weichold
 Johann Christian Conrad
-Cristian Friedrich Wilhelm Kästel
+Christian Friedrich Wilhelm Kästel
 Johann Gottlob Fischer
 ----------------
 Christoph Jockuff
@@ -162,7 +162,7 @@ Gottlieb Benjamin Felix
 Christian Gottlieb Menzel
 ----------------
 Johann Gottlob Bärschneider
-Wilhelm Fridrich Süß
+Wilhelm Friedrich Süß
 ----------------
 Johann Gottlob Bieling
 Carl Emanuel Schreiber

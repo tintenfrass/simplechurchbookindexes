@@ -1196,7 +1196,7 @@ Johann Christoph Bandau
 Gottlieb Schöne
 Wilhelm Friedrich Süß
 Christian Gottlieb Menzel
-Gottlieb Benjmin Felix
+Gottlieb Benjamin Felix
 Johann Gottlob Bärschneider
 ----------------
 Christian Gottfried Hering
@@ -1308,7 +1308,7 @@ Christian Gotthelf Zchörner
 Friedrich August Petschke
 Andreas Horrack
 Carl Moritz Unger
-Christoph Andres Dreßler
+Christoph Andreas Dreßler
 Johann Gottfried Ungar
 Ernst Wilhelm Wiegand
 Christian Gotthelf Birnstengel
@@ -1324,10 +1324,10 @@ Johann Samuel Petzold
 ----------------
 Johann Gottfried Seyfert
 Johann Anton Strauß
-Petes Schäfer
+Peter Schäfer
 Michael Becker
 Johann Gottfried? Graul //korrigier
-Friedrich Adan Lembke
+Friedrich Adam Lembke
 ----------------
 Johann Wilhelm Gottlob Eberlein
 Johann Gottfried Rühle

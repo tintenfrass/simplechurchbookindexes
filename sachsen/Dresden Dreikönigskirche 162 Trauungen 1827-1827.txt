@@ -56,7 +56,7 @@ Heinrich Adolph Rhäsa
 Carl Friedrich August Lorenz
 Moritz August Moebius
 ----------------
-Carl August Trugott Spalteholz
+Carl August Traugott Spalteholz
 Johann Gottfried Geßner
 Christian Gottlieb Otto
 Johann Gottfried Hantzsch
@@ -99,7 +99,7 @@ Johann Carl Gottlieb Henze
 Ernst Martin Müller
 ----------------
 Franz Eduard Gehe
-Gottlieb Heinricn Siegmund Wittig
+Gottlieb Heinrich Siegmund Wittig
 Gustav Ludwig Dübel
 Johann Gottfried Bauch
 Benjamin Matthes
@@ -113,7 +113,7 @@ Johann Christian Bachmann
 Carl Traugott Mittag
 ----------------
 Paul Siemen
-Wilhelm  Heinrich Rouvroy
+Wilhelm Heinrich Rouvroy
 Eberhard Friedrich Wilhelm Zerenner
 Leberecht Lippert
 Johann Gottfried Witte
@@ -148,7 +148,7 @@ Johann Gottlieb Richter
 ----------------
 Christian Gottlob Baumann
 Christian Gotthelf Börner
-Otto riedrich Böllner
+Otto Friedrich Böllner
 Carl Böttger
 Carl Gottfried Wilhelm Kreutz
 ----------------

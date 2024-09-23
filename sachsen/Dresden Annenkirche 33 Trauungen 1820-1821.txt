@@ -36,7 +36,7 @@ Johann Gottlob Friedrich Fritzsche
 ----------------
 Johann Gottfried Gäbler
 Christian Friedrich Karsch
-Adri Gottlieb Franke
+Andreas Gottlieb Franke
 Carl Gottlieb Irmer
 Johann Christian Ditrich
 Carl Adolph Hanisch
@@ -48,7 +48,7 @@ Carl Gottlob Heyne
 Christian Friedrich Moritz Kirsten
 Benjamin Gotthold Tode
 ----------------
-Johann August Wihelm Thiele
+Johann August Wilhelm Thiele
 Traugott Leberecht Mittag
 Johann Gottlob Zimmermann
 Friedrich August Weinert
@@ -91,7 +91,7 @@ Adolph Ferdinand Legler
 Carl Heinrich August Brauchitzsch
 ----------------
 Friedrich Gottlieb Ehregott Rüger
-Carl Christlian Uebel
+Carl Christian Uebel
 Johann Gottlieb Müller
 Carl Daniel Seyfert
 Johann Christian Haubold

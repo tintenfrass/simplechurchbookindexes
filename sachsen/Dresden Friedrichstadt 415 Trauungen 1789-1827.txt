@@ -2093,7 +2093,7 @@ Johann Heinrich Lohse
 Johann Gottlieb Grundmann
 Johann Gottfried Schmidt
 Carl Friedrich August Braune
-Adosph Wilhelm Schurig
+Adolph Wilhelm Schurig
 Johann Friedrich Liße
 Johann Gottlob Schmidt
 Johann Friedrich Preßer
@@ -2254,7 +2254,7 @@ Johann Nicol Meyfahrt
 Carl Heinrich Rehfeldt
 Johann Gottfried Ebert
 Johann Siegmund Barthel
-Hanrich Friedrich Darbritz
+Heinrich Friedrich Darbritz
 Friedrich Eduard Uhlich
 Johann Friedrich August Zabelt
 ----------------
@@ -2330,7 +2330,7 @@ Friedrich Wilhelm Böhmer
 Johann Carl Gotthelf Schmidt
 Ludwig Reich
 ----------------
-Johann Carl Taaugott Weinert
+Johann Carl Traugott Weinert
 Michael Wenzel
 Heinrich August Graupner
 Renatus Wilhelm Lehmann
@@ -2411,7 +2411,7 @@ Johann Traugott Zinke
 Johann Gotthelf Grahl
 Johann Carl Richter
 Hans Heinrich Bruhn
-Johann Carl Traugot Krengel
+Johann Carl Traugott Krengel
 Friedrich August Schmidt
 Ernst Carl Moritz Engelhardt
 Johann Gottfried Pishold
@@ -2448,13 +2448,13 @@ Franz Ferdinand Ehregott Rückmann
 Christoph Siegmund Matthäus
 ----------------
 1825
-Carl Heinrich Wihelm Schmidt
+Carl Heinrich Wilhelm Schmidt
 Carl Gottlieb Rothe
 Carl Friedrich Sahr
 Friedrich Jeremias Küpper
 Johann Carl Gottlieb Wolf
 Johann Georg Heinrich Höfer
-Andris Auguset Kleist
+Andreas August Kleist
 Carl Christian Schultze
 Johann Gottlieb Biehlig
 Friedrich Wilhelm Tittel
@@ -2481,7 +2481,7 @@ Johann Gottlieb Wilhelm Eichler
 Carl Gottlieb Lehmann
 Carl Friedrich Schneider
 Christian Gotthold Meyer
-Traugott Lerdinand Ochs
+Traugott Ferdinand Ochs
 Johann Georg Marx
 Gottlob Philip Moritz Eisemann
 Carl August Berthelmann
@@ -2517,7 +2517,7 @@ Carl August Lettow
 Johann Heinrich Gottlob Merz
 Johann Traugott Todtleben
 Christian Gottlieb Heinrich Hüllner
-Jacob Friedrch Wihelm Hennig
+Jacob Friedrich Wilhelm Hennig
 ----------------
 Mattheus Nackonz
 Johann Carl Gottfried Kneip
@@ -2541,7 +2541,7 @@ Gottlieb Heinrich Kuntsch
 Carl Heinrich Kliemann
 Johann Friedrich Wilhelm Schulze
 Carl Gotthelf Merkel
-Carl Chtliem Kästner
+Carl Gustav Moritz Kästner
 Johann Friedrich Traugott Voigt
 Christian Traugott Otto
 Carl Friedrich Sahr
@@ -2609,7 +2609,7 @@ Ernst Gottlob Moritz Schierer
 Traugott Leberecht Höfel
 Johann Gottlieb Kotte
 Johann August Bönhardt
-Carl Fredrich Ferdinand Deubner
+Carl Friedrich Ferdinand Deubner
 Johann Albert Moritz Jacobi
 Carl Gottlieb Wolf
 Carl August Wilhelm Buchhalter

@@ -32,7 +32,7 @@ Johann Gottfried Faulring
 ----------------
 Joseph Stelzig
 August Ludwig Kremmler
-Mass Adolph Lommatzsch
+Carl Adolph Lommatzsch
 ----------------
 Ferdinand Julius Haugwitz
 Carl Moritz Roscher
@@ -139,7 +139,7 @@ Moritz Constantin Uhlig
 Christian Gottlieb Dittmar
 Johann Ritscher
 Johann Friedrich August Richter
-Carl Bernanrd Görlach
+Carl Bernard Görlach
 ----------------
 Carl Adolph Jäger
 Johann Alexander Feßler
@@ -162,7 +162,7 @@ Franz Jacob Wenk
 Nicol Kockel
 ----------------
 Karl Wilhelm Rößler
-Frann Theodor Buchner
+Franz Theodor Buchner
 Eduard Wilhelm Friedrich Dünnebier
 ----------------
 1860
@@ -175,7 +175,7 @@ Friedrich Ernst Morgenstern
 Christian Gottfried Kohlhardt
 ----------------
 Herrman Robert Nitzsche
-Fran Mühle
+Franz Mühle
 Ernst August Ferdinand Leonhard
 Emil Raymund Ramm
 ----------------
@@ -184,7 +184,7 @@ Johann Baptist Mayer
 Johann Moritz Liebert
 Carl Friedrich August Schmidt
 ----------------
-Wilhelh Joseph Oscar Igel
+Wilhelm Joseph Oscar Igel
 Gustav Eduard Philipp
 Albert August Sende
 ----------------
@@ -290,7 +290,7 @@ Ernst Eduard Kaiser
 Johann Alexander	Unger
 Carl August Kegel
 Johann Carl Müller
-Nichael Robel
+Michael Robel
 ----------------
 Wilhelm August Schumann
 Rudolph Bernhard Marx
@@ -340,7 +340,7 @@ Ludwig Moritz? Lahmer
 Friedrich Wilhelm Naumann
 Johann Carl Gottlob Zinke
 Joseph Hartmann
-Kanl August August Richter
+Karl August August Richter
 ----------------
 Moritz Adolph Dittmar
 Anton Auer
@@ -473,7 +473,7 @@ Herinrich Paul Dobrzanski
 Johann Adolph Banzemer
 Heinrich Ernst Grunert
 ----------------
-Friedich Otto Edeling
+Friedrich Otto Edeling
 Jacob Schipschick
 Friedrich Wilhelm Wolf
 Johann Kzizan
@@ -787,7 +787,7 @@ Carl August Rade
 Stanislaus Koska
 ----------------
 Nicol Swodenk
-Michal Schenker
+Michael Schenker
 Peter Heinrich
 Richard Oscar Felber
 ----------------
@@ -960,7 +960,7 @@ Ernst Eduard Richter
 Carl Heinrich Wäntig
 Johann Alexander Ostrowsky
 ----------------
-Joshph Rebicek
+Joseph Rebicek
 Gustav Herrman Göhler
 Ernst Friedrich Mirisch
 Johann Friedrich Berger
@@ -988,7 +988,7 @@ Heinrich Robert Karsch
 Franz Misek
 Gustav Adolph Hentschel
 ----------------
-Frant Kasel
+Franz Kasel
 Franz Karl August Zenker
 Jacob Schenker
 Joseph Tobias Kretzschmar
@@ -1200,7 +1200,7 @@ Franz Christoph Rimpler
 Otto Heinrich Friedrich Staudinger
 Eduard Hoffmann
 Wenzel Hanisch
-Augustt Schimansky
+August Schimansky
 ----------------
 Eustarius Maria Mionczynski
 Philip Schütz
@@ -1208,7 +1208,7 @@ Eduard Philip Johannes Enngelisto? Vogelsang
 Michael Krahl
 ----------------
 Carl Alfred Kneisel
-Ernst robert Schütze
+Ernst Robert Schütze
 Oskar Richard Schulz
 Adolph Woldemar Groß
 ----------------

@@ -14,7 +14,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 ---------------- x3
 1824
 Hans Albert Friedrich Lingke
-Johann Lerecht Vollrath
+Johann Leberecht Vollrath
 Johann Gottfried Göden
 Friedrich Moritz Rüdiger
 Carl Friedrich Eltrich
@@ -192,7 +192,7 @@ Carl Gottfried Kreiser
 Wilhelm Heinrich Christoph Kaiser
 Johann Friedrich Ferdinand Dreßler
 Carl Traugott Klopfer
-Christian Friedrich Gotthward Ehrhardt
+Christian Friedrich Gotthard Ehrhardt
 ----------------
 Franz Joseph Guhre
 Johann Gottlieb Mehre
@@ -222,7 +222,7 @@ Carl August Richter
 Carl Gottlieb Jungnickel
 Friedrich August Weinhold
 Johann Carl Schulze
-Feiedrich Wilhelm Oehler
+Friedrich Wilhelm Oehler
 Georg Heinrich Wollmar
 ----------------
 Carl Immanuel Mäser
@@ -268,7 +268,7 @@ Johann Gottlieb Richter
 Johann Gottlob Pechstein
 Christian Friedrich Heydel
 Heinrich Christian Dobertin
-Gottholf Friedrich Fritzsche
+Gotthelf Friedrich Fritzsche
 Johann Gottlieb Pahlitzsch
 Johann Christian Hempel
 ----------------

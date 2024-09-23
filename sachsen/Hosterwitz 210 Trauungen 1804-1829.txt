@@ -1,14 +1,15 @@
 Hosterwitz (Buch 210)
-Trauungen 1804-1819
+Trauungen 1804-1829
 https://www.archion.de/de/viewer/churchRegister/280087?pageId=38532543
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 April 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -327,3 +328,204 @@ Johann Christoph Fuchs
 Johann Gottfried Beuhne
 Johann Gottlob Sachse
 Johann Christian Weiße
+----------------
+----------------
+1820
+Johann Gottlob Müller
+Johann Traugott Hauke
+Johann Gottlieb Liebstein
+Johann Carl Gottlieb Stange
+Johann Gottlieb Jentsch
+Johann August Barthel
+Johann Gotthelf Boden
+Jacob Löder
+----------------
+Johann Gottfried Zeiblich
+Karl Adolph Kritz
+Carl Friedrich Pertermann
+Johann Gottfried Knobloch
+Johann Gottlob Jentsch
+Johann Gottfried Leske
+----------------
+----------------
+1821
+Johann Gottfried Fehre
+Johann Gottfried Gaunich
+Andreas Buhl
+Johann Traugott Klitzsch
+Johann Gottlob Findeisen
+Johann Gottlob Kegel
+Johann Gotthelf Scherze
+Johann Kappler
+Carl Gottlob Lehmann
+----------------
+Johann Gottlob Adam
+Johann Carl Christian Göbel
+Carl Gottlieb Erth
+Johann Samuel Maukisch
+----------------
+----------------
+1822
+Johann Gottlob Grohmann
+Carl Gottlob Reppe
+Johann Gottlob Friedrich
+Johann Gottlieb Böhme
+Carl August Dietze
+Gottfried Busch
+Johann Gottlieb Zeibich
+Johann August Hochmuth
+Johann Christian Hamisch
+----------------
+Johann Carl Illmer
+Gottfried Wilhelm Böhme
+Johann Gottfried Klein
+Gottlob August Böhme
+Johann Gottlob Sahre
+Carl Friedrich Wilhelm Weynig
+----------------
+----------------
+1823
+Carl August Barthel
+Johann Gottlieb Roch
+Johann Gottlieb Ryßel
+Johann Gottfried Gaunich
+Johann Friedrich Gotthelf Füssel
+Johann Christian Pünsch
+Carl Christian Wehner
+Johann Gottfried Haag
+----------------
+Johann Carl Gottfried Furkert
+Johann Gottlieb Niederlein
+Johann Peter Scholze
+Johann Gottlob Maukisch
+Johann Fürchtegott Eysold
+Johann Georg Kmoch
+Johann Christoph Leischke
+----------------
+----------------
+1824
+Johann Gottlob Hempel
+Johann Gottlieb Winckler
+Johann Gottlieb Reppe
+Karl Gottfried Berger
+Johann Georg Gottlieb Böhme
+Johann Gottlob Böhme
+Carl August Hache
+Johann Gottlob Hase
+Johann Gottlieb Wehner
+Johann Samuel Hauke
+----------------
+Peter Herde
+Johann Gottlob Keiser
+Johann Gotthelf Kegel
+Johann Gottfried Lommatzsch
+Johann Gottlieb Sauer
+Johann Christian Gierth
+Johann Gottlieb Hohlfeld
+Johann Gottlieb Pietsch
+Johann Daniel Ryssel
+Johann Gottlob Hempel
+----------------
+Johann Gotthelf Schröter
+Johann Christoph Richter
+Gottfried Gabriel Seydler
+----------------
+1825
+Christian August Kretschmar
+Carl Gottfried Pietsch
+Karl Gottfried Häschel
+Johann Gotthelf Heinrich
+Johann Gottlob Maukisch
+Johann Gottlieb Priezold
+Carl Gottlieb Harnapp
+Johann Carl Gottlieb Schäfer
+Friedrich Traugott Jentsch
+----------------
+Johann Gottfried Franke
+Johann Gottfried Oswald
+Johann Gottfried Pietsch
+Johann Christoph Pötzsch
+Johann Gottlob Lehmann
+Johann Gottlieb Haag
+Carl Gottlob Schubert
+Johann Gottfried Bähr
+Adolph Heinrich Zinner
+----------------
+----------------
+1826
+Friedrich August Trauwitz
+Carl Gottlob Höhle
+Johann Georg Pauer
+Johann Gottlob Huhne
+Johann Karl Gottlob Langbein
+Johann Gottlieb Füssel
+Johann Christoph Kunze
+Carl Traugott Hennig
+Johann Gottlob Böhme
+----------------
+Johann Gottfried Müller
+Karl Gottlieb Fehre
+Johann Gottlob Eichler
+Johann Carl Christoph Kirsten
+Johann Christoph Franke
+Johann Gotthelf Hübner
+Johann Christoph Mildner
+----------------
+----------------
+1827
+Johann Karl Gottlob Sahre
+Carl Traugott Kunze
+Christian Friedrich August Zschaler
+Christian Gottfried Kegel
+Karl Gotthelf Arnhold
+Johann Gottfried Beuhne
+Karl Friedrich Moritz Ostertag
+Johann Gottlob Wendisch
+Johann Gottlob Wehner
+----------------
+Johann Gottlob Füssel
+Carl Gustav Pohland
+Karl Heinrich Scherze
+Johann Samuel Kegel
+Karl Gottlieb Schneider
+Christlieb Winkler
+Johann Gottfried Maukisch
+Johann Carl Ferdinand Hartmann
+----------------
+----------------
+1828
+Johann Gottlieb Teich
+Johann Samuel Schumann
+Carl Gottfried Förster
+Carl Gottlob Priezold
+Johann Gottlieb Friebel
+Johann Gottlieb Richter
+Georg Friedrich Leischke
+Johann Heinrich Fuchs
+Carl Christian Leschke
+----------------
+Johann Friedrich Oettig
+Johann Gottlieb Liebig
+Johann Gottlieb Eichler
+Johann Gottlob Knaft
+Johann Gottlieb Felsner
+Johann Gottfried Medger
+Carl Friedrich Kiesing
+----------------
+----------------
+1829
+Johann Christian Küchler
+Johann Friedrich Züssl
+Johann Gottlieb Gliemann
+Johann Carl August Paul
+Friedrich August Schmaler //korrigiert
+Johann Gottfried Knobloch
+Heinrich Ferdinand Hänsel
+----------------
+Johann Christian Richter
+Johann Carl Christoph Böhme
+Karl Friedrich Schwarze
+Johann Kreuschwitz
+Johann Christoph Kegel
+Carl Gottlieb Haase
+Johann Gottlieb Meißner

@@ -42,12 +42,12 @@ Friedrich August Mogenstern
 Christian Friedrich Hausdörfer
 Friedrich August Keßler
 Johann Wilhelm Schimmel
-Ernst Feriedrich Ephraim Eduard Eckardt
+Ernst Friedrich Ephraim Eduard Eckardt
 ----------------
 Heinrich August Frank
 Christian Ehregott Roch
 Johann Wilhelm Langguth
-Adolph Heinrin Gottfried Bormann
+Adolph Heinrich Gottfried Bormann
 Johann Gottlob Seyboth
 ----------------
 Carl Friedrich Patzig
@@ -129,7 +129,7 @@ Wilhelm Leberecht Arnold
 ----------------
 Johann Carl Gottfried Köhler
 Johann Gottfried Pishold
-Benjanind Gottlieb Engelmann
+Benjamin Gottlieb Engelmann
 Carl Friedrich Hennig
 Carl Gustav Siegmund Jensch
 ----------------
@@ -185,6 +185,6 @@ Carl August Weise
 Johann Gottlieb Oelsner
 ----------------
 Ernst Friedrich Kröhl
-Johannz Müßiggang
+Johann Müßiggang
 Carl Gottlob Matther
 Christian Moritz Henschel

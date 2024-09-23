@@ -84,7 +84,7 @@ Johann Christian Ernst
 Carl Gottlob Friedrich Müller
 ----------------
 Carl Gottlob Palisch
-Christoph Jacol Siegert
+Christoph Jacob Siegert
 Johann Gottfried Kühn
 Johann Gottlieb Petzold
 Johann Gottlieb Ludewig
@@ -121,7 +121,7 @@ Carl Friedrich Werner
 Johann Wilhelm Lißmann
 August Christoph Anton Friedrich
 Johann Friedrich Teubert
-Johann Davil Schröter
+Johann Daniel Schröter
 Carl Gottlieb Ludwig
 August Friedrich Busch
 ----------------
@@ -130,7 +130,7 @@ Joseph Schmidt
 Carl Friedrich Jacob Marggraf
 Johann Friedrich August Weidenhöfer
 Johann August Piesdorf
-Johann Wilhelm Friedrinn Renneberger
+Johann Wilhelm Friedrich Renneberger
 ----------------
 Johann August Heinrich Wagner
 Johann August Haupt
@@ -176,10 +176,10 @@ Johann Gottlob Wiedemann
 Johann Gottlieb Müller
 ----------------
 Johann Gottlieb Weise
-Andos Wilhelm Mixa
+Andreas Wilhelm Mixa
 Johann Friedrich Scheffler
 Gottlob Wilhelm Wehner
-Georg Ludwig Wihelm Reutter
+Georg Ludwig Wilhelm Reutter
 Friedrich Adolph Gundermann
 ----------------
 Christian Friedrich Gottlieb Salzmann

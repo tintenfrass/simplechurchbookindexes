@@ -62,7 +62,7 @@ Heinrich Wilhelm Tiedtke
 Johann Gottlob Schlegel
 ----------------
 Christian Gottlieb Stenzel
-Johann Tragott Böhmne
+Johann Traugott Böhmne
 Johann Heinrich Mönch
 Johann Traugott Immanuel Karas
 Franz Kischner
@@ -132,7 +132,7 @@ Johann Carl Gottlob Lorenz
 Friedrich August Eduard Niebel
 Johann Gottlieb Fritzsche
 Gottlob David Mütze
-Fridrich Wilhelm Ziegner
+Friedrich Wilhelm Ziegner
 Johann Gottlob Heyne
 ----------------
 Christian Gottlob Bürger
@@ -175,7 +175,7 @@ Carl Moritz Fischer
 Christian Friedrich Simon
 Johann Heinrich Meyffarth
 Johann Lewin Leonhardt
-Johann Christin Schmidt
+Johann Christian Schmidt
 Carl Gottlieb Thilo
 ----------------
 Carl Heinrich Günther
@@ -297,7 +297,7 @@ Johann Gottlieb Eule
 ----------------
 Johann Gottlob Schnell
 Johann Andreas Hempel
-Aohann Gottlieb Büttner
+Johann Gottlieb Büttner
 Johann Friedrich Stohr
 Johann Gottfried Conrad Fähte
 Johann Christian Ruland

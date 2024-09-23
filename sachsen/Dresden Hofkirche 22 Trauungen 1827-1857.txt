@@ -701,7 +701,7 @@ Carl Friedrich Wilhelm Paul | Charlotte Louise Schöne
 Johann Siegfried Schneider | Johanne Friederike Auguste Schaaf
 ----------------
 Christoph Plater | Elisabeth Cissovska
-Bernard Anton Robert	Jacob Straus | Maria Anna Reÿ
+Bernard Anton Robert Jacob Straus | Maria Anna Reÿ
 Friedrich August Bernd | Anna Kockel
 ----------------
 Carl Friedrich Otto | Pauline Petronilla
@@ -1061,7 +1061,7 @@ Karl August Miedke | Aloysia Anna Michalitzka
 Johann Erdtel | Maria Schummer
 ----------------
 Johann Gottlob Glörich | Julie Lindner
-Johann Kartl Kutzner | Anna Lottner
+Johann Karl Kutzner | Anna Lottner
 Nicol Fröhliger | Louise Charlotte Noack
 ----------------
 Johann Christlieb Berrich | Anna Elisabeth Kzidowk
@@ -1080,7 +1080,7 @@ Georg Nuck | Johanne Christiane Richter
 Jean Hellmich | Johanna Christiane Rothe
 Christian Kölz | Theresia Werner
 ----------------
-Carl Heinrich Edumud Peschel | Theresia Bayer
+Carl Heinrich Edmund Peschel | Theresia Bayer
 Ferdinand Emanuel Sieber | Juliena Katharina Weiß
 Anton Woyciechowsky | Ernestine Agnes Singewald
 ----------------
@@ -1128,7 +1128,7 @@ Christian Gotthelf Busch | Anna Birk
 Johann Heinrich Bellermann | Berthe Franciska Klieme
 ----------------
 Alexander Joseph Klobukowski | Stanislawa Chrapovicka
-Carl Alexanderr Hoffmann | Mathilde Dunin
+Carl Alexander Hoffmann | Mathilde Dunin
 ----------------
 Karl Gottlob Ritter | Maria Anna Anton
 Friedrich August Zaumsegel | Maria Auguste Theresia Wilhelm
@@ -1222,7 +1222,7 @@ Johann Friedrich Schüller | Catharina Auguste Wels
 Carl Kuebler | Caroline Ernestine Schmuck
 ----------------
 Johann Ehregott Robert Nitsche | Anna Maria Kremser
-Karl Gotthelf Ehrenerich Saitenmacher | Agnes Amalie Raabe
+Karl Gotthelf Ehrenreich Saitenmacher | Agnes Amalie Raabe
 ----------------
 ----------------
 Georg Schube | Josepha Kintscher
@@ -1243,7 +1243,7 @@ Heinrich Gottlob Eucharius | Marie Theresie Antonia Franciska Kühne
 Karl Ehregott Fleischhammer | Johann Caroline Riedel
 Franz Joseph Müller | Johanna Christiane Ernestie Richter
 ----------------
-Matthel Pellegrini | Christiane Wilhelmine Kersten
+Matthes Pellegrini | Christiane Wilhelmine Kersten
 Johann Gottfried Wilhelm Kahle | Theresia Amalia Hubert
 ----------------
 1854
@@ -1253,11 +1253,11 @@ Louis Baffarra | Anna Auguste Charlotte Braune
 Karl Rudolph Meyer | Cäcilie Hermine Schlesinger
 Karl Wilhelm Dominick | Klara Theresia Buhr
 ----------------
-Jgnaz Mathias Clemmes Forcht | Maria Augusta Riebestahl
+Ignaz Mathias Clemes Forcht | Maria Augusta Riebestahl
 Johann Erdmann Richter | Louise Wolf
 Michael Smy | Agnes Schmidt
 ----------------
-Karl Friedrich Willhelm Serre | Marianna Clementine Cerrini
+Karl Friedrich Wilhelm Serre | Marianna Clementine Cerrini
 Georg Rostock | Franziska Havlik
 ----------------
 Johann Traugott Mottke | Katharine Lorenz
@@ -1268,7 +1268,7 @@ Johann Ernst Eduard Effenberger | Magdalene Braeuer
 Karl August Krönert | Christiane Friderike Schönerin
 Friedrich Wilhelm Fischer | Auguste Juliana Hetze
 ----------------
-Johann Frieder Wilhelm Herrmann | Emilie Ludovvika Milekowska
+Johann Friedrich Wilhelm Herrmann | Emilie Ludovvika Milekowska
 Karl August Hunger | Elisabeth Wenzl
 ----------------
 Eduard Brendel | Friederike Amalie Auguste Heintz
@@ -1289,13 +1289,13 @@ Anastasius Anton Joseph Ritter | Angelica Schaff
 Gustav Hermann Franz | Amalie Auguste Burger
 ----------------
 Adam Joseph Löbmann | Marie Juliane Müller
-Louis Hartmann Fländeger | Ernestine Emilie Panitz
+Louis Hartmann | Ernestine Emilie Panitz
 Julius Hermann Schmidt | Franziska Elisabeth Sturm
 ----------------
 Franz Ehrich Anton Etzel | Adolphine Rosalie Gustave Düssler
 Casimir Chrzanowski | Bronisla Lipinska
 ----------------
-Karl Ehregoth Laßack | Theresia Karoline Pohl
+Karl Ehregott Laßack | Theresia Karoline Pohl
 Friedrich Ferdinand Krönert | Franziska Kroh
 ----------------
 1855
@@ -1313,7 +1313,7 @@ Fürchtegott Hugo Wadewitz | Julie Maria Engel
 Friedrich August Pauly | Marianna Laskowska
 Ernst Karl Heinrich Wezel | Ana Franziska Ludovica Barbara Hennequin
 ----------------
-Treugott Adolph Voigt | Maria Amalie Leuter
+Traugott Adolph Voigt | Maria Amalie Leuter
 Emil Koch | Theresie Wilhelman Eberl
 Gustav Adolph Frauenstein | Wilhelmine Florientine Strassmann
 ----------------
@@ -1362,7 +1362,7 @@ Ernst Leberecht Vogel | Maria Karolina Maleck
 Karl Schnor | Antonie Wilhelmine Friederike Hübner
 ----------------
 Johann Christoph Knatz | Agnes Johanna Alexandra Opitz
-Johann Heinrin Ludwig Krickow | Friederike Auguste Krumbholz
+Johann Heinrich Ludwig Krickow | Friederike Auguste Krumbholz
 ----------------
 1856
 Nicol Rudel | Eleonora Hurbank
@@ -1408,8 +1408,8 @@ Ferdinand Toscana? | Anna Sachsen
 Eduard Ludwig Rochus Koczerowski | Henriette Agnes Theresie Jaraczewska
 ----------------
 1857
-Johann Gottelieb Engwicht | Franziska Anna Maria Kieswetter
-Gotthelf Julius Otte Kunzendorf | Margaretha Kugler
+Johann Gottlieb Engwicht | Franziska Anna Maria Kieswetter
+Gotthelf Julius Otto Kunzendorf | Margaretha Kugler
 Friedrich Louis Kegler | Franziska Klara Ottilie Richter
 ----------------
 Felician Stephan Anton Karp | Anna Gillet

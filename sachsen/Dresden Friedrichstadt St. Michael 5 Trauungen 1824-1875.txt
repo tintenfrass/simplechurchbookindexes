@@ -45,7 +45,7 @@ Wilhelm Schäuber
 ----------------
 ----------------
 1828
-Friedrichl Wilhelm Braun
+Friedrich Wilhelm Braun
 Peter Sachwald
 Friedrich Erhart
 ----------------
@@ -158,7 +158,7 @@ Carl Friedrich August Strohbach
 Friedrich Wilhelm Georgi
 Carl Christian Heise
 ----------------
-Friedrichl Alexander Mathes
+Friedrich Alexander Mathes
 Christian Friedrich Richter
 ----------------
 1845
@@ -189,7 +189,7 @@ Johann Lehmann
 Ehrhard Richter
 ----------------
 Carl Friedrich Krause
-Richard Willaim Böttger
+Richard William Böttger
 Michael Maximilian August Schiller
 Jacob Kowark
 ----------------
@@ -249,7 +249,7 @@ Joseph Wenzel Löbel
 1861
 Johann Gottlob Mütze
 Friedrich Ferdinand Tesler
-EduardCarl Lorenz
+Eduard Carl Lorenz
 Jacob Pacher
 ----------------
 1862
@@ -261,7 +261,7 @@ Johann August Löwe
 Heinrich August Gustav Vetter
 Johann Christoph Carl Höfer
 Maximilian Joseph Forwerk
-Carl Friedlph Wilhelm Schreiner
+Carl Friedrich Wilhelm Schreiner
 ----------------
 Heinrich Gottfried Fieber
 1863
@@ -285,7 +285,7 @@ Carl Philip Dietrich Borries
 1865
 Jacob Kubasch
 Albert Clemens Theodor Müller
-Immamuel Peter Jacob Noel
+Immanuel Peter Jacob Noel
 ----------------
 Otto Friedrich Bahn
 Karl Moritz Schneider
@@ -314,7 +314,7 @@ Gotthold Ludwig Krumbiegel
 1869
 ----------------
 1870
-Andeas Noack
+Andreas Noack
 1871
 Michael Nantschick
 Michael Nasdala

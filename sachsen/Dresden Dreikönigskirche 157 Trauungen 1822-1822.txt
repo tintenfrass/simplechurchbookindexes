@@ -15,7 +15,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 1822
 Ernst Christian Pfitzner
 Johann Gottlob Jancke
-Johann Adam Goottfried Türcke
+Johann Adam Gottfried Türcke
 Johann Gottlob Peukert
 Johann Christian Mohr
 Johann Georg Freytag
@@ -36,9 +36,9 @@ Christian Friedrich Braune
 Johann Adolph Roch
 Johann Christian Boden
 ----------------
-Johann Carl Auugust Krämscher
+Johann Carl August Krämscher
 Carl Adolph Öhlschlegel
-Friedrich August Wihelm Wohlfarth
+Friedrich August Wilhelm Wohlfarth
 Immanuel August Nichte
 Carl Heinrich Kummer
 ----------------
@@ -101,7 +101,7 @@ Gottlieb Siegmund Richter
 Carl Christian Traugott John
 Theodor Moßdorf
 August Maximilian Schmidt
-Johann Erdmnan Bauer
+Johann Erdmann Bauer
 Johann Gottlieb Ziegenbalg
 ----------------
 ----------------
