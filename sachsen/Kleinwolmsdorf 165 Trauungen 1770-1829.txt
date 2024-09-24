@@ -1,5 +1,5 @@
 Kleinwolmsdorf (Buch 165)
-Trauungen 1770-1819
+Trauungen 1770-1829
 https://www.archion.de/de/viewer/churchRegister/264497?pageId=36954139
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 0,5 Stunden
 September 2023
 April 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -370,3 +371,75 @@ Johann Gottlob Hantzsche
 Heinrich Clemens Peter
 Johann Georg Großmann
 Johann Christoph Karisch
+1820
+Johann Gottfried Näther
+Johann Christlieb Scheithauer
+----------------
+Johann Gottlob Carl Pflicke
+Carl Gotthelf Hofmann
+Johann Andreas Voigtländer
+1821
+Johann Gottlob Thomas
+Johann Georg Eisold
+Johann Gottlob Gäbler
+August Joseph Wenzel
+Christoph Gräber
+Johann Gottfried Wetzlich
+1822
+Johann Georg Wilhelm
+Johann Christian Wengler
+----------------
+Johann Christian Günther
+Friedrich Wilhelm Joachim
+Carl Ehrenfried Philipp
+Johann Gottlieb Werner
+Georg Friedrich Hörnig //korrigiert
+Johann Gottfried Hempel
+1823
+Carl Rudolph Adler
+Johann Gottfried Oswald
+Johann Gottlieb Carl Hase
+Johann Gottfried Muschler
+Johann Carl Gottlieb Fiedler
+----------------
+Johann Gottfried Kluge
+Carl Gottlieb Richter
+Johann Christoph Gröber
+1824
+Johann Gottfried Traugott Große
+Heinrich Züchner
+Johann Christian Schneider
+Carl Christoph Klare
+Johann Gottlob Heyne
+Carl Traugott Schmidt
+1825
+Johann Samuel Pahlitzsch
+Carl Gottlieb Große
+----------------
+Johann Gottlieb Heinrich Rösler
+1826
+Carl Gottfried Bürger
+Johann Christoph Zumpe
+Johann Gottlob Blochwitz
+Georg Traugott Günther //korrigiert
+Johann Gottlob Kluge
+Johann Samuel Philipp
+Johann Gottlieb Müller
+Johann Fürchtegott Leipert
+Johann Georg Steglich
+----------------
+1827
+Johann Gottlieb Hantsche
+Johann Traugott Großmann
+Johann Gottlieb Hantsche
+Johann Gotthelf Bernhand
+1828
+Johann Gottlieb Jäckel
+Carl Traugott Paufler
+Johann Traugott Gromann
+1829
+Johann Gottfried Kluge
+Johann Gottlob Feller
+----------------
+Carl Traugott Henker
+Christian Fürchtegott Walther
