@@ -1,14 +1,15 @@
 Langebrück (Buch 48)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/279967?pageId=38504680
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 April 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -239,3 +240,107 @@ Johann Christian Grünberg
 ----------------
 Christian Carl Creutz
 Johann Heinrich Harnisch
+1820
+Johann Gottlob Haase
+Johann Gottlieb Hoffmann
+Johann Carl August Türke
+Johann Georg Körner
+Johann Gottlob Schütze
+Johann Heinrich Wießner
+Johann Heinrich Menzel
+----------------
+Johann Friedrich Hofmann
+Johann Gottlob Clauß
+1821
+Johann Gottlob Zeitler
+Johann Heinrich Wießner
+Johann Heinrich Dreßler
+Gottlieb Hofmann
+Johann Heinrich Partzsch
+Johann Gottfried Zschiesche
+Johann Christian Riehmer
+----------------
+1822
+Johann Heinrich Menzel
+Johann Gottlieb Riehmer
+Johann Christoph Strauß
+Johann Georg Schütze
+Johann Gottfried Schmidt
+Johann Gottlob Wünsche
+Johann Christian Schäfer
+1823
+Johann Gottlob Trepte
+Johann Georg Wünsche
+Johann Gottlob Schmidt
+Johann Christoph Briedemann
+----------------
+Johann Gottlob Niednen
+Johann Gottfried Schütze
+Johann Heinrich Kühne
+Carl Gottfried Riehmer
+Johann Gottlob Pommrich
+1824
+Johann Andreas Naumann
+Johann Christian Dreßler
+Johann Carl Gottlieb Höhle
+Johann Gottfried Gärtner
+Johann Heinrich Knoche
+Johann Gottfried Stelzer
+Johann Heinrich Riehmer
+----------------
+Johann Christoph Gierth
+Johann Christoph Tronicke
+1825
+Johann Gottlob Großmann
+Johann Gotthelf Hoffmann
+Johann Carl Gottlob Müller
+Carl Traugott Anders
+Johann Gottlieb Vetters
+Johann Georg Günther
+Carl August Trömel
+Johann Gottlieb Meißner
+Johann Gottlieb Herlich
+Johann Georg Clauß
+----------------
+Johann Christoph Locke
+Johann Gottlob Böhmer
+Johann Christian Schäfer
+Johann Georg Tronicke
+1826
+Johann Gottlieb Trepte
+Johann Karl Gotthelf Puder
+Carl Gottlob Zimmermann
+Johann Gottlob Kärnert
+Johann Traugott Teuber
+Johann Gottlob Kühne
+Friedrich Gotthelf Clauß
+Johann Gottlieb Nietzsche
+----------------
+1827
+Johann Georg Trepte
+Johann Heinrich Hildebrand
+Johann Gottlob Waitzmann
+Friedrich Traugott Hase
+Julius Friedrich Seibt
+Johann Gottlieb Kühne
+Johann Gottlieb Guhr
+Johann Christoph Tronicke
+1828
+Johann Gottfried Ziller
+Johann Christian Nietzsche
+Johann Gottlieb Schrödter
+Johann Georg Günther
+----------------
+Johann Heinrich Sickart
+Christian Heinrich Schütze
+1829
+Johann Gottlob Philipp
+Johann Gottlieb Böhme
+Carl Gottlieb Karisch
+Johann Gottlieb Richter
+Johann Gottlieb Clauß
+Johann Gottlieb Schütze
+Gottlieb Heinrich Schäfer
+----------------
+Johann Christian Hennig
+Carl Heinrich Trepte

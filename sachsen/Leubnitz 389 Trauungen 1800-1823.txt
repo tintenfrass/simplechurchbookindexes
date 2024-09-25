@@ -1,14 +1,15 @@
 Leubnitz (Buch 389)
-Trauungen 1800-1819
+Trauungen 1800-1823
 https://www.archion.de/de/viewer/churchRegister/264575?pageId=36980765
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 April 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -654,3 +655,116 @@ Carl Friedrich Meißner
 Johann Gottlieb Schirmer
 Johann Christoph Rüger
 Johann Gottfried Weber
+----------------
+1820
+Johann Gottlieb Böttger
+Johann Gottfried Lehmann
+Johann Christian Donat
+Johann Gottlieb Wünsch
+Carl Gottfried Palisch
+Johann Georg Künzelmann
+----------------
+Gottlob Friedrich Hinzsch
+Johann Traugott Frenzel
+Ernst Christian Müller
+Friedrich August Petritz
+Johann Gottlob Pedrig
+Carl Traugott Friedrich
+----------------
+Johann Michael Krause
+Johann Gottlieb Preuser
+Carl Ernst Ferdinand Scharf
+Ernst Heinrich Adolph Felix
+Johann Gottlob Kürbß
+Carl Benjamin Zsoch
+Johann Gottlob Jentsch
+----------------
+Johann Georg Rühle
+----------------
+1821
+Carl Gottlob Welten
+Johann Gottlieb Angermann
+Johann Christoph Naumann
+Johann Gottlieb Lotter?
+Johann Gottlieb Lyer?
+----------------
+Daniel Gottlieb Mende
+Johann Gottlob Leuthold
+Johann Gottlob Krätsch
+Christian Traugott Neiße
+Johann Gottlieb Pietzsch?
+Johann Christian Wolf
+Samuel Benjamin Heger
+----------------
+Andreas Mukasch
+Johann Gottfried Oderich
+Johann Gotthelf Grohmann
+Carl Friedrich Krug
+Johann Busche
+----------------
+Johann Ephraim Trämer
+Johann Georg Holzsch
+Jacob Katzer
+----------------
+1822
+Johann Gottlob Franz
+Carl Gottlieb Mende
+Carl Gottlob Voigt
+Johann Gottlieb Flemming
+----------------
+Johann Christoph Friebel
+Mattheus Koban
+Johann Gottfried Hickmann
+Johann Gottlob Schuster
+----------------
+Johann Gottfried Bähr
+Johann Gottfried Weber
+Johann Gottfried David Gäßel
+Johann Georg Lotta?
+Christian Gotthelf Zschäppner
+----------------
+Karl Moritz Hopfe
+Johann Georg Patzig
+Johann Gottlieb Schüter?
+Johann Andreas Schubert
+Friedrich August Schupp
+----------------
+Mattheus Schliewin?
+Carl Gottlob Schreiber
+Johann Gottlieb Busch
+Johann Gottlob Palisch
+Johann Gottfried Urban
+----------------
+----------------
+1823
+Carl Gottfried Pahlisch
+Johann Christian Gliemann
+Johann Christoph Lindemann
+----------------
+Johann Christlieb Koch
+Johann Gottfried Rammler
+Johann Gottlieb Lange
+Carl Gottfried Merbitz
+----------------
+Johann Heinrich Wirtschen
+Carl Gottlieb Walther
+Johann Christian Titel
+Johann Gottlieb Sperling
+August Benjamin Wirtschen
+----------------
+Gotthelf Moritz Heinrich
+Carl Gotthelf Beil
+Johann Gotthelf Lotte
+Carl Gottfried Lößner
+----------------
+Christian Friedrich Pahlitsch
+Johann Georg Eichhorn
+Johann Samuel Zeibig
+Johann Gottlieb Nether
+Johann Gottfried Jähnchen
+----------------
+Johann Gottlieb Lange
+Johann Gottlob Wirtschen
+Johann Andreas Kotte
+Carl Gottlob Geißler
+Johann Gottlob Zeibig

@@ -1,5 +1,5 @@
 Lockwitz (Buch 392)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/264578?pageId=36981265
 
 
@@ -8,9 +8,10 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 2 Stunden
 April 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -442,3 +443,224 @@ Christian Friedrich Weiß
 Friedrich Samuel Wagner
 Johann Andreas Hempel
 Friedrich Gottlob Batzig
+----------------
+1820
+Johann Christoph Große
+Johann August Kotschlich
+Johann Gottlob Fischer
+Johann Gottfried Küchler
+Johann Gottlieb Nacke
+----------------
+Christian Gotthelf Wustlich
+Carl August Schönfeld
+Johann Franz August Baer
+Friedrich Wilhelm Hähnel
+Johann Gottlieb Umlauf
+----------------
+Samuel Klotsche
+Johann Gottlob Zeibig
+Gottfried Samuel Haupt
+Gottlieb Lohrmann
+Friedrich Traugott Bieland
+----------------
+Johann Gottlieb Friedland
+----------------
+1821
+Heinrich Ferdinand Lehmann
+Johann Gottlob Tutschmann
+Johann Gottlieb Petrich
+Andreas Kray
+Christian Gottlob Toegel
+----------------
+Johann Gottlob Petermann
+Heinrich Gottlob Franke?
+Carl Gottlob Müller
+Johann Gottlob Richter
+Gottlieb Daniel Kalkofen
+----------------
+Johann Gottlob Krötsch
+Johann Carl Wukasch?
+Johann Georg Rolle
+Johann Gottfried Kunath
+Johann Georg Kliemann
+----------------
+Johann Daniel Mende
+Carl August Voigt
+----------------
+1822
+August Hempel
+Johann Christian Rietschel
+Friedrich Gottlob Huhle
+Johann Georg Heyne
+Gottlieb August Lohse
+Gottlob Leberecht Paul
+----------------
+Johann Friedrich Traugott Braune
+Johann Gottfried Leupold
+Carl Friedrich Bergfeld
+Johann Gottlieb Schwenke
+Johann Gottlob Süßmilch
+----------------
+1823
+Carl Gottlob Schmidt
+August Wilhelm Ferdinand Niezold
+Johann Gottlieb Harzbecher
+Johann Gottlieb Sengewitz
+Johann Gotthelf Lauterbach
+Johann Gottlieb Sperling
+----------------
+Christian Gottlieb Kunze
+Christian Gottlieb Thosprung?
+Immanuel Wilhelm Knauth
+Johann Gottlob Schmidt
+Johann Gottfried Hähnchen
+Christian Gottlieb Klare
+----------------
+Gottlob August Lehnert
+Johann Gottlob Schwog?
+Johann Gottlieb Kühne
+Carl Gottlieb Zeißler
+Johann Gottlob Kreißig
+----------------
+1824
+Johann Christoph Ebert
+Johann Gottlieb Folgegott Eichler
+Johann Gottlieb Zschochel
+Johann Georg Techermann?
+Johann Traugott Zinke
+Christian Traugott Heger
+----------------
+Johann Gotthelf Schmidt
+Gotthelf Benjamin Richter
+Johann Gottlob Schütze
+Christian Gottlieb Dieger?
+Carl Friedrich Sachse
+Ludwig? Ehregott Barthel //korrigiert
+----------------
+Johann Carl? Gottlob? Schulze
+Samuel Gotthelf Lohse
+Christoph Siegmund Matthaes
+Johann Traugott Geißler
+Friedrich Leberecht Glauche
+----------------
+1825
+Johann Gottlob Tandte?
+Adolph Ehregott Richter
+Carl August Arldt
+Adam Kranz
+Johann Gottfried Strohbach
+Heinrich Gottlob Ernst Halve //korrigiert
+----------------
+Johann Friedrich Enst? Schkerl
+Johann Gottfried Schulze
+Johann August Schuster
+August Gotthelf Heyne
+Jacob Gottlob Schlenkrich
+----------------
+Johann Friedrich Traugott Langer
+----------------
+1826
+Johann Jacob Pechter
+Carl Traugott Kunath
+August Leberecht Matthaes
+Fürchtegott Gotthelf Wirthgen
+Johann Gottlieb Hitzschmann
+----------------
+Traugott Leberecht Zimmer
+Carl Friedrich Trübenbach
+Johann Traugott Petermann
+Johann Benjamin Freudenberg
+Heinrich Gottlob Pfanne
+----------------
+Johann Gottfried Rarisch
+Ernst Friedrich August Heinze
+Friedrich August Lehmann
+Carl Gotthelf Weeser
+Johann Schulze
+Johann Friedrich Schkerl
+----------------
+Carl Gottlob Wolf
+Carl August Knauth
+Johann Gottfried Richter
+----------------
+1827
+Carl Gottlob Made
+Johann Friedrich Mißbach //korrigiert
+Johann Christian Wolf
+Carl Gottlieb Großmann
+Johann Gottlob Schumann
+Johan Gottfried Maisch?
+----------------
+Johann Samuel Naecke
+Johann Carl Heinrich Füller
+Johann Wilhelm Neumüller
+Carl Wilhelm Richter
+Gottlieb Lehmann
+Johann Friedrich Neustadt
+----------------
+Friedrich August Müller
+Carl Gotthelf Schwenke
+Traugott Leberecht Schneider
+Johann Gottlieb Ehrlich
+Johann Friedrich Trautmann
+August Benjamin Wolf
+----------------
+Friedrich Wilhelm Richter
+Carl Gottlieb Haenel
+Michael Neumann
+Johann Christian Gottlob Schubert
+----------------
+1828
+Johann Gottfried Ebert
+Christian Gottlieb Johne
+Johann Gotthelf Mende
+Carl Gottlob Wagner
+Johann Gottfried Hennig
+Christian Gotthelf Haenchen
+----------------
+Johann Christlob Faehrmann
+Johann Gottfried Schmidt
+Traugott Wilhelm Wirthgen
+Johann Gottlob Adolph Baehr
+Johann Gottlieb Schlicke
+----------------
+Johann Gottfried Lehnert
+Johann Gottfried Claus
+Friedrich August Richter
+Carl August Madig
+Carl August Aßmann
+Johann Fürchtegott Standfuß
+Carl Moritz Hänzsch
+----------------
+Johann Gottlob Wirthgen
+Daniel Gottlob Brandt
+Johann Gottlieb Schmidt
+Friedrich Adolph Haenchen
+Johann August Glauche
+Friedrich Wilhelm Schlesier
+Johann Gottfried Wetzig
+----------------
+1829
+Johann August Glauche
+Ludwig Ferdinand Preußer
+Carl Heinrich Füller?
+Traugott Rühle
+Johann Gottfried Müller
+----------------
+Johann Friedrich Gottlieb Golzsche
+Johann Gottlieb Kotsch
+Carl Gottlob Lotsch
+Carl Gottfried Otto
+Johann Schwedler
+----------------
+Carl Gottlieb Hoehne
+Johann Mathias Wieder
+Michael Waschnich
+Carl Wilhelm Hähnchen
+Carl Friedrich Schwarze
+Wenzel Neidhart
+----------------
+Johann Zworn
+Carl Friedrich August Langer
+Samuel Heinrich Medorn
+Carl Bürger

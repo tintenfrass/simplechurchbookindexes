@@ -1,14 +1,15 @@
 Lausa (Buch 53)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/279972?pageId=38505920
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 April 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -382,3 +383,156 @@ Johann Friedrich Kretzschmar
 Johann Gottfried Andrich
 Johann Christian Schütze
 Johann Christian Naumann
+----------------
+1820
+Carl Gottlieb Zumpe
+Christian Heinrich Menzel
+Carl August Zeibig
+Johann Gottlob Hesse
+Carl Friedrich Hofmann
+Johann Samuel Gautzsch
+Johann Gottlob Klotsche
+Johann Georg Meißner
+----------------
+Johann Gottfried Hornuff
+Johann Gottlob Hofmann
+Johann Gottlieb Richter
+Johann Christian Dreßler
+Johann Christoph Zscheile
+Johann Gottlieb Hildebrand
+----------------
+1821
+Johann Christoph Grafe
+Johann Gottfried Eichhorn
+Johann Gottlob Barthel
+Carl Traugott Huhle
+Johann Gottfried Liebezeit
+Carl Friedrich Lesche
+Johann Gottlieb Menzel
+----------------
+Johann Gottfried Branitz
+Johann Gottlob Vetters
+Christian Paßora
+Johann Christoph Born
+Johann Christoph Hofmann
+Johann Gottfried Pohle
+Johann Friedrich Heinnrich
+----------------
+Christian Gotthelf Steudel
+Johann Gottlob Menzel
+Johann Gottlieb Nagel
+Johann Gottlob Nicol Menzel
+Johann Gottfried Böhme
+Johann Gottlob Menzel
+Johann Gottlieb Lesche
+----------------
+Johann Gottlieb Böhme
+Carl Gottlob Münzner
+1822
+Johann Gottlieb Menzel
+Carl Friedrich August Müller
+Johann Samuel Mildner
+Johann Gottlieb Kühne
+----------------
+Johann Jeremias
+Benjamin Traugott Klotsche
+Johann Georg Fleischer
+Carl Gottlob Fleischer
+Johann Gottlieb Hüttig
+Carl Gottlob Thalheim
+Carl Gottlob Schönert
+----------------
+Johann Gottlieb Kotte
+Johann Gottlob Müller
+Johann Gotthelf Richter
+Johann Gottfried Trepte
+1823
+Christian Gottfried Wagner
+Carl Heinrich Hildebrand
+----------------
+Johann Gottlieb Huhle
+Carl Friedrich Nitsche
+Johann Gottfried Fust
+Carl Friedrich Stephan
+Johann Gottlieb Florschütz
+Christian Wagner
+----------------
+1824
+Andreas Urban
+Johann Georg Wagner
+Johann Gottlob Böhme
+Johann Gottfried Wagner
+Johann Georg Wagner
+Johann Gottlob Bäsler
+Johann Christoph Schültze
+Johann Christoph Kluge
+----------------
+1825
+Johann Gottlob Nitsche
+Johann Gottfried Kästner
+Johann Gottfried Kind
+Johann Christoph Thalheim
+Gottlob Franze
+Johann Gottlob Schütze
+Christian Gottlieb Prade
+Gottfried Tobias Tamme
+Johann Gottlieb Schütze
+----------------
+Johann Gottlieb Zöllner
+Johann Gottlieb Großmann
+1826
+Johann Gottlieb Gelfert
+Johann Gottlob Katzer
+Otto Löben
+Johann Gottfried Schütze
+Johann Christoph Hofmann
+----------------
+Johann Gottfried Menzel
+Johann Gottfried Pietsch
+Johann Gottlob Preusche
+Johann Gottlieb Grafe
+Christian August Schönert
+Johann Gottlob Hegewald
+Johann Gottfried Kretzschmar
+Johann Gottlieb Schütze
+----------------
+1827
+Johann Gottlob Trepte
+Johann Gottfried Morgenstern
+Johann Gottlieb Dreßler
+Heinrich Samuel Fleischerschmann
+Johann Gottlob Schmidt
+Karl Christian Brückner
+Karl Gottfried Ringel
+Gottlieb Wilhelm Hickmann
+Johann Gottlieb Schütze
+----------------
+Johann Gottfried Meißner
+1828
+Johann Christoph Menzel
+Johann Christian Ringel
+Johann Gottlob Schubert
+Johann Gottlob Krumbein
+Georg Heinrich Grill
+Karl Gottfried Menzel
+----------------
+Johann Gottfried Schütze
+Johann Gottfried Schütze
+1829
+Johann Rytscher
+Johann Gottfried Richter
+Johann Christian Schmidt
+Johann Gottlob Franze
+Johann Gottfried Grundmann
+----------------
+Johann Christian Leuschner
+Johann Gottlieb Thronicke
+Johann Gottlob Mammitzsch
+Ernst Gottlob Heynitz
+Johann Gottlob Bräuer
+Johann Gottfried Grafe
+Carl August Rost
+Friedrich Gottlob Großmann
+----------------
+Johann Gottlieb Kahle
+Johann Gottlieb Wettermann
