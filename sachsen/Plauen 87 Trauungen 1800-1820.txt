@@ -1,11 +1,12 @@
 Plauen (Buch 87)
-Trauungen 1800-1819
+Trauungen 1800-1820
 https://www.archion.de/de/viewer/churchRegister/263414?pageId=36748773
 
 
 Erstellt in ca. 1 Stunde
 April 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -331,3 +332,20 @@ Johann Gottlob Nieschalky
 Johann Christoph Wolf
 ----------------
 Wilhelm Ludwig Tousaint
+---------------- x10
+1820
+Johann Gottlob Schmidt
+Johann Gottlieb Sperling
+Johann Gottfried Gäbler
+Georg Friedrich Schlewitz
+Carl Seiler
+Carl Gottlob Maun
+Johann Gottlob Richter
+Johann Gottlieb Dietze
+Carl Rothenberg
+----------------
+Anton Alösius Zinke
+Johann Heinrich Köhler
+Anton Wilhelm Leberecht Erchenbrecher
+Johann Gottfried Wend
+Carl Heinrich Adolph Schäffermayer

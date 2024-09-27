@@ -1,14 +1,15 @@
 Medingen (Buch 65)
-Trauungen 1801-1819
+Trauungen 1801-1829
 https://www.archion.de/de/viewer/churchRegister/279985?pageId=38507912
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 April 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -133,3 +134,78 @@ Christian Gottlieb Wagner
 Johann Gottlob Brauny
 ----------------
 Johann Benjamin Butter
+1820
+----------------
+Johann Gottlob Friedrich
+Johann Gottlieb Traugott Meisner
+Johann Gottlob Müller
+Johann Gottlob Grützner
+Johann Gotthelf Großmann
+Johann Gottlob Haase
+Carl Gottlieb Bartzsch
+----------------
+Johann Gottlob Kunze
+Johann Gottfried Jenner
+Carl Gottlieb Lotze
+Johann Gottfried Ruhland
+Friedrich Gottlob Schütze
+Johann Gottfried Wagner
+----------------
+1821
+Johann Christian Wagner
+Johann Gottfried Pohle
+Johann Christoph Trepte
+Johann Christoph Trepte
+Johann Gottfried Haase
+----------------
+1822
+Johann Gottfried Meyer
+Johann Christian Gotthelf Eichorn
+Johann Heinrich Klotzsche
+----------------
+1823
+Carl Gottlob Janke
+Carl Friedrich Tronicke
+----------------
+1824
+Johann Gottlieb Meißner
+Adam Friedrich Traugott Burkhardt
+Carl Gottlob Wilhelm Götze
+Johann Gottfried Sicker
+Christian Gottlieb Suhre
+----------------
+Johann Christoph Schütze
+----------------
+1825
+Johann Gottlob Lösche
+Carl Gottfried Knöfel
+Johann Gottlob Tonig
+----------------
+1826
+Johann Christian Zobel
+Johann Christoph Beger
+Johann Christoph Großmann
+Carl Gottlieb Peschel
+Adam Friedrich Traugott Burkhardt
+----------------
+1827
+Johann Gottfried Morgenstern
+Christian August Adolph Born
+Carl Gottfried Schmidt
+----------------
+1828
+Johann Heinrich Klotzsche
+Gottlieb August Eichhorn
+Johann Carl Gotthelf Heinicke
+Carl Gottlieb Grützner
+Johann Christian Stange
+Johann Heinrich Christian Tränkner
+----------------
+Johann Gottlob Trepte
+1829
+Johann Ludwig Ferdinand Schuster
+Traugott Friedrich Weißbach
+Johann Gottfried Klengel
+Johann Christian Ruland
+----------------
+Christian Gotthelf Zeidler

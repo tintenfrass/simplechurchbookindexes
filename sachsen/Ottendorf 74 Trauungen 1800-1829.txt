@@ -1,14 +1,15 @@
 Ottendorf (Buch 74)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/279994?pageId=38510430
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 April 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -288,3 +289,139 @@ Johann Gottlieb Peschel
 Johann Gottlob Zimmermann
 ----------------
 Johann Gottfried Jehnichen
+1820
+Carl Gottlieb Beck
+Johann Christian Fichte
+Johann Christoph Meißner
+Johann Gottlob Jehnichen
+----------------
+Johann Gotthelf Kunadt
+Johann Carl Lehmann
+Christian Hartmann
+Christoph Gottlieb Klotsche
+----------------
+1821
+Johann Gottfried Menzel
+Johann Gottfried Pfeiffer
+Johann Friedrich Richter
+Johann Gottlob Vetters
+Johann Gottlob Heinze
+----------------
+Johann Gottlob Lippert
+Johann Christoph Martin Knöfel
+1822
+Johann Gottlieb Johne
+Johann Gottlieb Traugott Zumpe
+----------------
+Johann Gottfried Großmann
+Johann Gottlieb Walther
+Johann Christian Thieme
+Gottlieb Carl Trentsch
+----------------
+Johann Gottfried Kotte
+Johann Gottlieb Gräfe
+Carl Gottlieb Thamme
+Johann Gottfried Thamme
+Johann Gottlob Kluge
+----------------
+Johann Gottlieb Boden
+Johann Gottfried Kluge
+1823
+Johann Christian Ringel
+Johann Traugott Schöne
+Carl Wilhelm Petzold
+----------------
+Johann Gottlieb Lohrmann
+Johann Gottlob Guhr
+Carl Friedrich Partsch
+Woldemar Constantin Gau
+----------------
+Johann Gottfried Knöfel
+Johann Lorenz
+Johann Gottlob Kotte
+Christian Gotthelf Haase //korrigiert
+Johann Gottlieb Funke
+----------------
+1824
+Johann Gottlob Thieme
+Andreas Urban
+Nicolaus Leschau
+Johann Gottfried Adam Beeg
+Johann Gottlob Nietzsche
+----------------
+Johann Gottfried Sickert
+Johann Traugott Thieme
+Johann Gottlieb Hillig
+Johann Christoph Kluge
+1825
+Johann Christoph Heße
+----------------
+Gottlieb August Mitscherling
+Johann Gottlieb Simon
+Friedrich Leberecht Partzsch
+Johann Heinrich Tretzsch
+Johann Georg Claus
+----------------
+Johann Gottfried Herrmann
+Johann Georg Zscheischler
+Johann Gottlob Heße
+Ernst Wilhelm Seyffert
+----------------
+Johann Christoph Beyer
+Johann Gottlieb Mißbach
+Johann Gottlieb Walther
+Johann Gotthelf Zumpe
+----------------
+Johann Gottlieb Klotsche
+Johann Gottfried Lesche
+1826
+Johann Gotthelf Krause
+Carl Gottfried Zimmermann
+----------------
+Johann Gottlieb Funke
+Johann Gotthelf Thamme
+Johann Christoph Zimmermann
+Carl Friedrich Bredemann
+----------------
+Johann Gottlieb Peschel
+Johann Gottlieb Kluge
+Johann Gottlob Jehnichen
+Johann Siegmund Hofmann
+Carl Gottlieb Heinze
+----------------
+Johann Carl Friedrich Theile
+Johann Christoph Zumpe
+1827
+Carl Christian Friedrich Petermann
+Johann Gottlob Zscheischler
+----------------
+Friedrich Ferdinand Sobadky
+Carl Friedrich Wilhelm Arnold
+Johann Gottlob Götze
+Johann Gottlieb Hauswald
+Carl Gottlob Thamme
+----------------
+1828
+August Amandur Kretzner
+Franz Joseph Herrmann
+Johann Gottfried Ringel
+Johann Krüger
+Johann Gottlieb Klahre
+----------------
+Johann Gottfried Schulze
+Johann Gottlieb Lauppert
+Wilhelm Richter
+Johann Carl Mrschka
+Johann Gottlob Großmann
+----------------
+Johann Gottlob Birnstengel
+Johann Gottfried Schütze
+1829
+Johann Ludwig Ferdinand Schuster
+Christian Friedrich Leberecht Fischer
+----------------
+Johann Gottfried Kirsten
+Johann Christoph Stötzer
+Carl Traugott Petschel
+Carl Heinrich Mißbach
+Carl Heinrich Richter
