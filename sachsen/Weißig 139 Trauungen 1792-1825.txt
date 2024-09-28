@@ -1,5 +1,5 @@
 Weißig (Buch 139)
-Trauungen 1792-1819
+Trauungen 1792-1825
 https://www.archion.de/de/viewer/churchRegister/280059?pageId=38527141
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ Erstellt in ca. 1 Stunde
 August 2023
 April 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -576,3 +577,110 @@ Johann Gottlieb Räpe
 Johann Gottfried Sahre
 Johann Christoph Hempel
 Johann Christian Behr
+1820
+Johann Gottlob Pfeiffer
+Carl Gottfried Lauterbach
+Johann Georg Meißner
+Johann Gottlieb Grützner
+Johann Carl Mittag
+----------------
+Gottfried Heinrich Müller
+Johann Gottlob Kegel
+Johann Carl Christoph Jacob
+Georg Matuska
+Johann Gottlieb Richter
+Carl Gottfried Angermann
+Johann Gottlob Keller
+Johann Carl August Jentsch
+Johann Gottfried Benjamin Nacke
+Carl Gotthelf Müller
+----------------
+1821
+Johann Gottfried Kegel
+Johann Gottfried Keller
+Carl Christlieb Wehner
+Georg Hauska
+Johann Gottlob Schlegel
+Johann Gottlieb Kotta
+Johann Christoph Gierth
+Carl Gottlob Gäbisch
+----------------
+Johann Christoph Schmidt
+Johann Gotthelf Lehnert
+Johann Gottlob Huhle
+Johann Gottfried Wehnert
+Johann Gottfried Hennig
+Johann Gotthelf Arnold
+Johann Gottlieb Kunze
+----------------
+1822
+Johann Noack
+Johann Gottlob Träber
+Jacob Eger
+Johann Gottlob Zeißig
+Johann Gottlieb Müller
+Johann Georg Jacob
+Johann Gottfried Leipert
+Johann Gottlob Müller
+----------------
+Johann Gottlieb Schuster
+Friedrich August Felgner
+Johann Gotthelf Werner
+Carl Gottlob Gierth
+Johann Gottlob Petzold
+Carl Ehrenfried Philipp
+Johann Christoph Hörnig
+Johann Gottlieb Mäcke
+Carl Gottfried Riesenberger
+----------------
+Johann Gottfried Richter
+1823
+Johann Gottlieb Michel
+Johann Gottlieb Gierth
+Johann Gottlieb Schäfer
+Johann Gottfried May
+Johann Gottfried Klemm
+Johann Christoph Dudel
+Johann Gottlieb Schulze
+----------------
+Gottfried Fasold
+Johann Gottlob Müller
+Johann Gottlieb Weise
+Gottlob Leberecht Jähnichen
+Johann Gottlieb Schlesiger
+Johann Gottlob May
+Johann Gottlob Bräunich
+Johann Andreas Kotte
+----------------
+1824
+Johann Gottfried? Christoph Franke
+Johann Gottlieb Wehner
+Johann Georg Leipert
+Johann Gottlieb Forkert
+Carl Gottfried Müller
+Carl Gottlob May
+Johann Christoph Kunze
+Johann Gottlob Anders
+Johann Gottlieb Schmidt
+----------------
+Johann Gottlob Müller
+Johann Christian Ludwig
+Johann Christoph Schütze
+Johann Christoph Gierth
+Johann Gottfried Angermann
+Johann Gottfried Schmidt
+Johann Daniel Ryßel
+----------------
+1825
+Johann Christoph Koch
+Johann Christoph Müller
+Carl Traugott Mittag
+Johann Gottlob Hahle
+Johann Gotthelf Höhne
+Johann David Dietrich
+Johann Christoph Tittel
+Johann Gottfried Koch
+----------------
+Johann Gottlob Große
+Johann Gottlieb Hofmann
+Johann Gottlieb Ehrenfried Ufer

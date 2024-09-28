@@ -1,7 +1,6 @@
 Schönborn (Buch 184)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/264515?pageId=36960284
-
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -10,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 0,5 Stunden
 April 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -169,3 +169,84 @@ Johann Gottlob Großmann
 Carl Traugott Rumpelt
 Johann Gottfried Schmidt
 Gottlob August Tamme
+----------------
+1820
+Johann Heinrich Dreßler
+August Benjamin Rumpelt
+Johann Christoph Thalheim
+Johann Gottfried Lorreck
+1821
+Johann Gottlob Menzel
+Johann Friedrich Lehnhardt
+----------------
+Johann Gottfried Bise
+Johann Christian Stelzer
+Johann Gottlob Schmidt
+Johann Carl Gottlieb Anders
+1822
+Johann Gottlieb Johne
+Johann August Loebel
+Johann Gottlob Loreck
+----------------
+Johann Gottfried Schmied
+Carl Gottlieb Schmidt
+Karl Gottfried Kluge
+Johann Gottlob Stelzer
+1823
+Johann Gottfried Stelzer
+Carl Gotthelf Köhler
+Friedrich Gotthelf Kunath
+----------------
+1824
+Johann Michael Wodni
+Johann Gottfried Pommrich
+Johann Gottlieb Meißner
+Carl Friedrich Elstermann
+Johann Gottlob August Geißler
+Johann Carl Grützner
+Friedrich Carl Biese
+Ernst Adolph Claus
+----------------
+Johann Gotthelf Loreck
+Johann Gottlob Heintzsch
+1825
+Johann Christlieb Sonntag
+Johann Gottlob Pfützner
+Carl Gottfried Huhle
+Johann Heinrich Stelzer
+Johann Christoph Schmidt
+----------------
+Johann Gottfried Schmidt
+1826
+Johann Christian Kunath
+Johann Carl Gottlieb August Brendel
+Johann Gottlob Wetzlich
+Carl Wilhelm Kunath
+Christian Gottfried Tamme
+Carl Christian Stelzer
+----------------
+Johann Gottfried Schmidt
+1827
+Johann Heinrich Hildebrand
+Johann Gottfried Großmann
+Johann Gottfried Lübau
+Johann Gottlob Schmidt
+Carl Gottfried Schmidt
+1828
+Heinrich Adolph Schefer
+----------------
+Carl August Wilhelm Kaulfuß
+Johann Gottlob Pietzsch
+Johann Fürchtegott Walther
+Johann Christoph Klengel
+Johann Gottlieb Just
+Johann Gottlob Lödrich
+Christian Heinrich Schütze
+----------------
+1829
+Johann Gottfried Zimmermann
+Johann Michael Ernst
+Johann Friedrich August Müller
+Johann Christlieb Käseberg
+Carl August Stelzer
+Johann Christoph Großmann

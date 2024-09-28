@@ -1,5 +1,5 @@
 Wilschdorf (Buch 150)
-Trauungen 1776-1819
+Trauungen 1776-1829
 https://www.archion.de/de/viewer/churchRegister/280070?pageId=38528794
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 0,5 Stunden
 Mai 2023
 April 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -279,3 +280,58 @@ Johann Christoph Hennersdorf
 Johann Georg Schröder
 Johann Christoph Hoffmann
 Johann Georg Hermann
+----------------
+1820
+Johann Friedrich Gäbler
+Johann Gottlob Kunzsch
+Johann Georg Gommlich
+Johann Gottfried Gebauer
+----------------
+1821
+Johann Gottfried Gräfe
+1822
+Christian Friedrich Grimmer
+Johann Gottfried Gommlich
+Johann Christoph Menzel
+Johann Georg Wagner
+----------------
+Johann Gottfried Keller
+Johann Samuel Schmiedchen
+Christian? Gottlieb Gommlich //korrigiert
+Johann Gottlob Schulze
+Johann Gottlob Bergmann
+----------------
+1823
+Johann Gottlob Werner
+Johann Gottfried Zwintzscher
+Samuel Trepte
+Johann Gottlieb Haine
+Johann Samuel Jdermann
+----------------
+1824
+Samuel Gommlich
+Johann Gottfried Schumann
+Johann Christian Gommlich
+Johann Gottfried Werner
+Christian Gottfried Gommlich
+Johann Gottfried Angermann
+----------------
+1825
+Johann Georg Gommlich
+1826
+Johann Christoph Beger
+----------------
+1827
+Johann Gottlieb Gäbler
+Christian Gottlob Baumann
+Johann Christoph Kunzsch
+----------------
+1828
+Carl Gottlieb Grützner
+1829
+Karl Gottfried Schumann
+Johann Christian Schmidt
+Johann Gottfried Sättler
+----------------
+Johann Christian Michael Schütze
+Johann Gottlob Gommlich

@@ -1,5 +1,5 @@
 Wachau (Buch 198)
-Trauungen 1801-1819
+Trauungen 1801-1829
 https://www.archion.de/de/viewer/churchRegister/264529?pageId=36969455
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 0,5 Stunden
 April 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -225,3 +226,147 @@ Johann Gottfried König
 Johann Georg Görner
 Johann Christoph Trepte
 Johann Gottlob König
+----------------
+1820
+Johann Christoph Sinntag
+Johann Gottfried Thieme
+Johann Gottlieb Pommrich
+----------------
+Johann Gottfried Oelsner
+Carl Gottfried Clauß
+Johann Gottlob Birnstengel
+----------------
+1821
+Johann Samuel Körner
+Johann Carl Görner
+----------------
+Johann Christoph Knoll
+Johann Gottfried Tam
+Johann Gottlieb Birstengel
+----------------
+Johann Gottlieb Birnstengel
+Johann Gottlob Müller
+Johann Michael Schulze
+----------------
+Johann Georg Rosenkranz
+Carl Gottlieb Ruprecht
+Johann Gottlieb Grosmann
+----------------
+1822
+Johann Traugott Rosenkranz
+Carl Gottlob Reppe
+Johann Gottlieb Schäfer
+Johann Christoph Misbach
+----------------
+Carl Traugott Schindler
+Johann Gottlob Müller
+Carl Gottlob Ruprecht
+Johann Gottlob Heyne
+----------------
+Johann Gottlob Bader
+1823
+Johann Georg Wünsch
+----------------
+Johann Christoph Cunath
+Johann Gottlieb Buder
+Johann Gottlob Grosmann
+----------------
+Johann Christoph Misbach
+Johann Gottfried Rosenkranz
+----------------
+1824
+Johann Christoph Gäbler
+Johann Traugott König
+Johann Gottfried Hauswald
+----------------
+Johann Christoph Rosenkranz
+Johann Christoph Gäbler
+----------------
+Johann Christoph Lehmann
+Johann Christoph Klare
+Johann Christoph Haufe
+----------------
+Carl Gotthelf Anders
+Johann Gottfried Türke
+Heinrich Dankegott Misbach
+----------------
+Johann Gottlob Grosmann
+Johann Gottlob Grosmann
+Johann Christian Lange
+----------------
+----------------
+Johann Gottlob Kühne
+Johann Gottlob Clauß
+Johann Gottlob Misbach
+----------------
+1825
+Johann Gottlob Flengel
+Carl Gottlieb Arnold
+----------------
+Johann Gottlieb Schäfer
+Johann Gottfried Zumpe
+Johann Gottfried Kind
+----------------
+Johann Gottfried Just
+Johann Gottfried Schmidt
+----------------
+1826
+Johann Christoph Bader
+Johann Friedrich Günther
+Johann Christoph Sonntag
+Johann Gottlob Mager
+----------------
+Carl August Deubel
+Johann Gottlieb Gärtner //korrigiert
+Johann Christlob Helbig
+Johann Christian Mitreiter
+----------------
+Friedrich August Borsdorf
+Johann Gottfried Görner
+Johann Gottlob Jähnichen
+Carl Gottlieb Fröde
+----------------
+Johann Christoph Zumpe
+Johann Traugott Clauß
+Johann Gottlieb Kluge
+----------------
+1827
+Johann Christian Junghans
+Georg Wilhelm Gäbler
+Carl Christoph Rosenkranz
+----------------
+Carl Gotthelf Sonntag
+Carl Clemens Rosenkranz
+Johann Gottlob Heller
+----------------
+Carl Gottfried Görner
+Carl Gottlob Hörnig
+Johann Christoph Schindler
+----------------
+Johann Christoph Görner
+Carl Gottlob Klengel
+Johann Christian Cunath
+Johann Traugott Birnstengel
+----------------
+1828
+Johann Pätzold
+Carl? Gottfried Hempel //korrigiert
+Gottfried Heinrich Sonntag
+----------------
+Johann Christoph Klengel
+Johann Gottlieb Just
+Johann Gotthelf Keingel
+Johann Georg Franke
+----------------
+Adolph Hake
+----------------
+1829
+Johann Gottlob Görner
+Johann Christoph Trepte
+Johann Gottlob Mirisch
+Johann Gottlob Klengel
+----------------
+Johann Christian Tharand
+Carl Gottlob Schmidt
+Johann Christoph Klengel
+Maximilian Funk

@@ -1,15 +1,16 @@
 Schönfeld (Buch 113)
-Trauungen 1790-1819
+Trauungen 1790-1823
 https://www.archion.de/de/viewer/churchRegister/280033?pageId=38521237
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stunden
+Erstellt in ca. 2 Stunden
 August 2023
 April 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1215,3 +1216,166 @@ Georg Christoph Schulze
 Carl? Gottlieb Klare //korrigiert
 Johann Christoph Hempel
 Johann Gottlob Blankenstein
+----------------
+1820
+Johann Gottlieb Zeibig
+Johann Gottlob Winckler
+Carl Gottlob Rüesel
+Johann Gottlob Blankenstein
+Carl Gottfried Rößiger
+Johann Christlieb Scheithauer
+Johann Gottlieb Liebstein
+----------------
+Johann Gottfried Mirisch
+Johann Georg Meißner
+Johann Gottlieb Dietrich
+Johann Christian Teich
+Johann Gottfried Dietze
+Jacob Loeder
+Gotthelf Leberecht Ulbricht
+Johann Samuel Kunert
+----------------
+Johann Carl Mittag
+Carl Heinrich Wilhelm Meinhardt
+Carl Siegmund Baer
+Johann Gottfried Hempel
+Johann Gottlieb Lehnert
+Johann Gottlob Richter
+Johann Gottlob Barthel
+----------------
+Johann Gottfried Schmiedchen
+Carl Gottlieb Hänel
+Carl Gotthelf Müller
+Gottfried Benjamin Nake
+Johann Gottfried Ulbricht
+Carl Gottlieb Mauer
+Johann Gottlob Schietzelt
+----------------
+Johann Christoph Treffkorn
+1821
+Johann Gottlieb Krellmann
+Traugott Leberecht Hippe
+Johann Gottlieb Leuschke
+Johann Gottfried Gaunig
+----------------
+Carl Gottlieb Franke
+Johann Carl Berger
+Johann Gottlob Günther
+Carl Friedrich Kempfe
+Johann Gottfried Bise
+Carl Friedrich Adolph Grafe
+Johann Hillmann
+----------------
+Johann Gottlob Leuthold
+Johann Christoph Siebert
+Johann Gottfried Lehnert
+Carl Gottlob Hempel
+Johann Georg Klare
+Johann Gottlieb Jahnicheen
+Carl Gottlob Lehmann
+Johann Gottfried Wehnert
+----------------
+Johann Gottlieb Hauswald
+Johann Gottlob Schmidt
+Carl Christoph Thomas
+Johann Christian Leuthold
+Johann Gottlieb Jaehnichen
+Carl Gottlieb erth
+Johann Gottlieb Meißner
+Johann Gottlieb Hencker
+----------------
+Johann Gottfried Roch
+Franz Gottfried Salius Thiele
+Johann Gottlob Lehmann
+Johann Carl Gottfried Schmiedel
+Johann August Reimann
+Johann Gottlieb Kleinstück
+Johann Gottlob Rosenkranz
+Johann Gottlieb Kegel
+Johann Gottfried Krause
+----------------
+Johann Gottlieb Arnold
+Johann Gotthelf Leuschke
+Johann Gottlob Leuschke
+----------------
+1822
+Johann Gottlob Treber
+Johann Gottfried Meschke
+Johann Gottlieb Hoehle
+Johann Christian Keßler
+Friedrich Gotthelf Klahre
+Johann Gotthelf Franke
+Johann Gottfried Schuetze
+Johann Gottlieb Kernt
+Johann August Grafe
+----------------
+Carl Traugott Zschaler
+Johann Gottlieb Riemer
+Johann Gottlieb Wend
+Johann Gottlob Krause
+Carl Gottlieb Fuchs
+Johann Christian Busch
+Johann Gottlob Petzold
+Johann Christian Günther
+----------------
+Carl Gottlieb Lange
+Johann Gottlieb Schäfer
+Johann Gottlob Wünsche
+Carl Ehrenfried Philipp
+Carl Christian Traugott John
+Johann Gottlob Pietzsch
+Johann Gottlieb Leuschke
+Johann Christoph Hoernig
+----------------
+Georg Noack
+Johann Fürchtegott Süßemilch
+Johann Gottlob Roßig
+Johann Gottlieb Angermann
+Michael Schubert
+Ernst Ludwig Schneider
+Johann Gottfried Jentzsch
+Johann Samuel Schmidt
+----------------
+Johann Carl Gottlieb Rüßel
+Johann Gottfried Richter
+Johann Gottlieb Baex
+Johann Gottfried Richter
+----------------
+1823
+Georg Krenitz
+Carl Gottlieb Pohle
+Carl Gottlieb Leubert
+Johann Gottlob Siegert
+Carl Gottfried Mäcke
+Johann Gottfried May
+Johann? Carl Gottlieb Maeke
+Carl Gottlob Döring
+----------------
+Johann Gottlieb Philipp
+Johann Heinrich Taube
+Johann Gottfried Klemm
+Johann Gottfried Haase
+Johann Gottlob Franke
+Johann Gottlieb Lange
+Johann Gottfried Eysold
+Carl Gottlieb Goebel
+----------------
+Johann Gottlob Kreye
+Johann Gottfried Ruehle
+Johann Traugott Roch
+Johann Gottlieb Hamisch
+Carl Gottlieb Schneider
+Johann Gottlieb Kohlstrueck
+Friedrich Gottlieb Zschaler
+----------------
+Johann Carl Gottlob Köhler
+Christian August Schrempel
+Johann Gottlob Caspar
+Johann Gottfried Greye
+Johann Falland
+Johann Fürchtegott Eysold
+Johann Gottfried Huhle
+----------------
+Johann Christian Franke
+Johann Paul Christoph Fischer
+Carl Gottlieb Froemmel

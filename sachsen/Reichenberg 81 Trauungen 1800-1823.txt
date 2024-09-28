@@ -1,5 +1,5 @@
 Reichenberg (Buch 81)
-Trauungen 1800-1819
+Trauungen 1800-1823
 https://www.archion.de/de/viewer/churchRegister/280004?pageId=38513717
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 Erstellt in ca. 1 Stunde
 April 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -719,4 +720,161 @@ Johann Georg Jacob
 Johann Gottlieb Proschmann
 Carl Friedrich Gläser
 Johann Christoph Hoffmann
-Johann Georg Idermann
+Johann Georg Jedermann
+----------------
+1820
+Johann Gottfried Meißner
+Gottfried Bählig
+Johann Gottlieb Thiele
+Carl Traugott Kühne
+Gottlob Kuntzsch
+Johann Gottlieb Kuntzsch
+Johann Gottfried Martin
+----------------
+Johann Gottfried Martin
+Johann Gottlieb Schneider
+Johann Christoph Paul
+Johann Georg Spaltholz
+Johann Gottlob Uhlisch
+Johann Heinrich Dreßler
+Johann Christian Erfurth
+Johann Christian Ludwig
+----------------
+Johann Friedrich Gäbler
+Johann Samuel Gautsch
+Johann Gottfried Reimer
+Johann Gottlieb Herzog
+Johann Gottlieb Hohlfled
+Carl Gottlob Höhne
+Johann Gottlob Gommlich
+----------------
+Johann Gottfried Rahrisch
+Johann Christian Friedrich Wäser
+Johann Gottfried Schönert
+Johann Friedrich Bruchhold
+Johann Christian Hiller
+Carl Gottlieb Otto
+----------------
+Christoph Schmiedchen
+----------------
+1821
+Carl Gottfried Fritzsche
+Johann Christoph Hule
+Johann Gottlob Winckler
+Johann Christian Jahn
+Johann Georg Heinrich Nock
+Johann Georg Pietsch
+----------------
+Johann Georg Bischof
+Johann Gottlob Wiesner
+Johann Christian Pappritz
+Johann Daniel Trobisch
+Johann Georg Thalheim
+Johann Gottfried Wolf
+----------------
+Friedrich Samuel Ecke
+Johann Christoph Sauer
+Johann Gottlieb Steingen
+Christian Kießling
+Johann Georg Vetter
+----------------
+Johann Christoph Hofmann
+Johann Christian Gräfe
+Johann David Petermann
+Ernst Adolph Carl Bischof
+Johann Gottlob Adam
+Johann Georg Zaschel
+----------------
+Friedrich Traugott Keller
+Johann Christoph Rotsche
+Johann Gottlob Richter
+Johann Christian Thalheim
+Christian Gottlob Friedrich Weicheld
+Friedrich August Strohbach
+Johann Gottlieb Proschmann
+----------------
+Carl Gottfried Preußer
+Daniel Gottlob Hartmann
+Johann Gottlieb Schert
+Johann Mathäus Claus
+----------------
+1822
+Carl Gottlob Dittrich
+Gottfried Türke
+Gottlieb Arnold
+Johann Christian Schultze
+Friedrich Leberecht Bothe
+Johann Christoph Strauß
+Johann Christoph Mentzel
+Johann Georg Wagner
+----------------
+Johann August Haumann
+Johann Christoph Sauer
+Andreas Kubasch
+Daniel Gottlieb Naumann
+Johann Georg Schmiedgen
+Andreas Pietsch
+Johann Gottlieb Feulenberg
+Carl Gottlob Jäger
+----------------
+Johann Gottlieb Mogel
+Johann Gottlieb Benjamin Werner
+Johann Gottfried Hollmann
+Johann Gottlob Fuchs
+Johann Samuel Meißner
+Johann Christian Hirsch
+Christian Gottlieb Gommlich
+Johann Friedrich Traugott Häselich
+Johann Gottlieb Helm
+----------------
+Christian Friedrich Keller
+Johann Christian Bormann
+Johann Georg Trepte
+Jacob Dzieber
+Johann Michael Herrmann
+Carl Christlieb Schultze
+Johann Gottlob Schulze
+----------------
+1823
+Friedrich Gottlob Schütze
+Friedrich Traugott Rotsche
+Johann Michael Buchheim
+Christian Gräfe
+Johann Georg Hofmann
+Johann Georg Vogel
+Johann Gottlob May
+Christian August Wölfert
+----------------
+Mattheus Noack
+Johann Gottlieb Jäger
+Ernst Heinrich Wilhelm Rommel
+Johann Gottlieb Franke
+Johann Gottfried Mögel
+Gottlieb Eichhorn
+Hans Heinrich Hildebrand
+----------------
+Carl Gottlieb Hempel
+Samuel Trepte
+Johann Gottfried Jacob
+Johann Gottlieb Vetters
+Samuel Mägel
+Johann Gottlob Meißner
+Johann Gottlieb Werner
+----------------
+Gotthelf Richter
+Gotthelf Naumann
+Johann Gottlieb Mäser
+Johann Christoph Trepte
+Johann Georg Jacob
+Johann Gottlob Mentzel
+Ernst Heinrich Eberhardt Laue
+Johann Christoph Süßemilch
+----------------
+Johann Gottlob Clase
+Gustav Raschig
+Johann Christoph Haußwald
+Carl August Keller
+Johann Gottfried Biekenzeller
+Christoph Schütze
+Christian Hausdorf
+Johann Gottlieb Leipert

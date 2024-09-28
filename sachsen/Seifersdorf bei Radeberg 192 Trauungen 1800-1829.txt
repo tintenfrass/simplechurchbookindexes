@@ -1,5 +1,5 @@
 Seifersdorf bei Radeberg (Buch 192)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/264523?pageId=36963541
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 0,5 Stunden
 April 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -192,3 +193,101 @@ Carl Gottlob Scheibe
 Johann Gottlob Großmann
 Johann Gottlob Zimmermann
 Johann Gottlob Zumpe
+----------------
+1820
+Johann Gottlob John
+Johann Gottfried Kunath
+Johann Georg Tamm
+Johann Christoph Zscheile
+----------------
+1821
+Johann Gottfried Wehse
+Johann Georg Großmann
+Johann Christoph Völkel
+Johann Carl Richter
+Johann Gottfried Großmann
+Johann Gottfried Tamm
+Johann Gottlob Heyne
+Friedrich August Liebisch
+Johann Georg Rosenkranz
+----------------
+Johann Christian Wengler
+Johann Gottfried Böhme
+----------------
+1822
+Johann Traugott Schindler
+Johann Christian Thieme
+Johann Georg Fleischer
+Christian Ehregott Beständig
+Carl Gottlieb Klotzsche
+Christian Friedrich Kretschmar
+Johann Gottlob Thieme
+Johann Gottlob Schmidt
+Johann Christoph Trepte
+Johann Gottlob Kluge
+----------------
+1823
+Johann Gottfried Stelzer
+Carl Gottfried Trepte
+Johann Gottlieb Kunath
+Johann Heinrich Gottlob Tittel
+Johann Gottlob Küttner
+----------------
+1824
+Johann Gottlob August Geißler
+Johann Carl Grützner
+Gottlob Leberecht Haupt
+Johann Gottfried Lipert?
+Johann Traugott Thieme
+Carl Gotthelf Anders
+Heinrich Dankegott Mibach
+Johann Gottfried Thierbach
+Carl Immanuel Maeser
+Johann Friedrich Tamm
+----------------
+Johann Gottfried Franz
+----------------
+1825
+Johann Gottlob Großmann
+Johann Gottlob Großmann
+Johann Heinrich Zimmermann
+Johann Gottlieb Haase
+Johann Gottfried Zumpe
+Johann Heinrich Großmann
+----------------
+1826
+Johann Carl Zimmermann
+Johann Christian Kunath
+Johann Gotthelf Tamm
+Johann Christian Mitraiter
+Johann Gottfried Wehse
+Johann Christoph Kreische
+Johann Gottlob Schütze
+----------------
+1827
+Johann Gottlob Rönsch
+Johann Gottfried Großmann
+Johann Gottlob Küttner
+Gottlieb Carl Schreiber
+August Friedrich Ferdinand Bauch
+----------------
+1828
+Johann Traugott Richter
+Johann Christoph Tamm
+Herrman Conrad Oertel
+Johann Gottlob Reymann
+Carl Gottfried Menzel
+Johann Gottfried Zumpe
+Johann Gottlob Großmann
+Johann Gottlob Lödrich
+Johann Gottlob Großmann
+Johann Georg Franke
+----------------
+1829
+Johann Christoph Leuthold
+Friedrich Leberecht Klotzsche
+Johann Christian Groß
+Johann Carl Gottlob Schmidt
+Ernst Wilhelm Grundmann
+Johann Gottlob Tamm
+Carl Heinrich Trepte
