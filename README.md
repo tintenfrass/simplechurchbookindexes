@@ -2,7 +2,7 @@
 ### Zur Online-Suche:
 https://tintenfrass.github.io/simplechurchbookindexes/
 
-[<img src="book.jpg">](https://tintenfrass.github.io/simplechurchbookindexes/)
+[<img src="book2.jpg">](https://tintenfrass.github.io/simplechurchbookindexes/)
 
 ### Umfang
 Gebiet: Dresden-Meißen-Freiberg-Dippoldiswalde<br>

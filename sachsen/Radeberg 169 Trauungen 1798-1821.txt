@@ -1,5 +1,5 @@
 Radeberg (Buch 169)
-Trauungen 1798-1819
+Trauungen 1798-1821
 https://www.archion.de/de/viewer/churchRegister/264500?pageId=36955447
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 1 Stunde
 September 2023
 April 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -808,3 +809,91 @@ Johann Gottlob Franz
 Gottlob August Tamme
 Johann Gottlob Ebert
 Johann Gottlieb Michael Mediger
+----------------
+1820
+Sebastian Wilhelm Hildebrand
+Christian Siegmund May
+Christian Gottlob Rumberger
+Christian Gottlieb Kleppisch
+Andreas Pötschke
+Heinrich Valentin Reinicke
+----------------
+Carl Gottlieb Beck
+Carl Gottlob Böhme
+Christian Gottlob Dietze
+Johann Georg Oetterich
+Marcus Bösolt
+Johann Christoph Brohmer
+Carl Traugott Häntsche
+----------------
+Carl Gottlieb Wilhelm
+Carl Gottfried Meßerschmidt
+Johann Christoph Friedrich Eysold
+Johann Christoph Seiffert
+Johann Carl August Türcke
+August Benjamin Rimpelt
+----------------
+Carl Friedrich Arlit
+Johann Gottlieb Seitz
+Johann Gottlob Kaje
+Johann Georg Jänichen
+Ernst Friedrich Kulka
+Heinrich Leberecht Knorr
+----------------
+Johann Gottlob Pedrig
+Andreas Wagner
+Johann Gottlob Peschel
+Johann Gottlieb Noack
+----------------
+1821
+Johann Christian Kleber
+Carl Ephraim Hemnel
+Johann Gottlieb Anders
+Carl Friedrich Gottlob Noack
+Traugott Leberecht Ulbrich
+----------------
+Johann Nicolaus Günther
+Johann Carl Gottlieb Richter
+Hironimus Hartwig Westermann
+Johann Gottlieb Teich
+Johann August Görke
+Johann Gottlob Richter
+Friedrich Gotthelf Oettrich
+----------------
+Carl Friedrich Jäckel
+Johann Christoph Knoll
+Carl Gottlob Hofmann
+Carl Gottlieb Hantzsche
+Friedrich Christian Hintze
+Johann Gottlieb Birnstengel
+Carl Heinrich Dreßler
+----------------
+Johann Carl Kemmel
+Carl August Kreyer
+Johann Christian Stelzer
+Carl Friedrich Großmann
+Johann Gottlob Heinze
+Heinrich Christoph Krause
+----------------
+Johann Gottlob Müller
+Johann Christian Fleischer
+Johann Carl August Schäfer
+Carl Gottlob Karsch
+Johann Christoph Hache
+Georg Friedrich Estler
+----------------
+Johann Kretzschmar
+Johann Daniel Gallus
+Johann Gottlob Geißler
+Johann August Reimann
+Johann Christian Gottlob Mühlberg
+Johann Gottfried Zschiesche
+----------------
+Carl Gottlob Helzig
+Gottlob Traugott Küchler
+Johann Georg Heerd
+Johann Gottlob Schindler
+Carl Friedrich Eysold
+Johann Gotthelf Arnold
+----------------
+Carl Wilhelm Ferdinand Bartsch
