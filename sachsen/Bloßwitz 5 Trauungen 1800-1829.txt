@@ -1,14 +1,15 @@
 Bloßwitz (Buch 5)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/281027?pageId=38768099
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Mai 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -608,3 +609,229 @@ Johann Friedrich Hauffe
 Johann Traugott Stein
 ----------------
 Johann Georg Schmidt
+1820
+Gottfried Funke
+Johann Traugott Vetter
+----------------
+Carl Gottlob Neidert //korrigiert
+Christian Gottlob Waclwitz
+Christian Gottlieb Zschernig
+Johann Gottfried Harmitz
+----------------
+Johann Friedrich August Junghans
+Christian Wilhelm Siering
+Johann Georg Fiedler
+Johann Christian Gottlieb Greif
+----------------
+Johann Gottfried Gruhle
+Johann Christian Förster
+Johann Gottfried Hartig
+Johann Gotthelf Kretzschmar
+----------------
+Christian Gottlieb Weinert
+Johann Gottlieb Scheuer
+Johann Gottlieb Schulze
+Carl Gottlob Schmidt
+Johann Gottlob Röber
+----------------
+Johann Gottlob Domasky
+Carl Friedrich Beyer
+1821
+Johann Gottlieb Helm
+Friedrich August Lommatzsch
+----------------
+Johann Christian Poitz
+Johann Gottlob Jahn
+Johann Gottfried Schmidgen
+Johann Gottlieb Winkler
+Johann Gottlieb Kluge
+----------------
+Johann Christian Grumbach
+Johann Gottfried Heinze
+1822
+Johann Gottlob Schumann
+Johann Gottfried Tiegel
+Johann Gottlob Wittig
+----------------
+Johann Gottfried Hottewitzsch
+Johann Karl Gottlob Breitling
+Johann Christian Wilhelm
+Johann Gottlob Richter
+Christian Ernst Gotthelf Gotthelf Krebs
+----------------
+Johann Traugott Wiedemann
+Johann Karl Gottlob Fischer
+Christian Gottlieb Schäfer
+Gottlob Fiedler
+Karl Gottlob Schumann
+Johann Gottfried Raübig
+----------------
+Johann Gottlob Weißhorn
+Johann Gotthelf Nitzsche
+Johann Andreas Zeißig
+Johann Gottlieb Günzel
+Johann Gottlieb Neidert
+----------------
+Johann Christian Schoob
+1823
+Friedrich August Fritzsche
+Johann Gottlieb Mehnert
+Johann Gottfried Mager
+Carl Gottlob Kießling
+----------------
+Johann Gottlieb Rüßel
+Johann Gottlob Schackelt
+Johann Gottlieb Bäcker
+Johann Gottlob Hampsch
+Carl Gottlob Henker
+----------------
+Johann Georg Kupisch
+Johann Gottfried Schulze
+Karl Gottlob Pollert
+Karl Heinrich Schöne
+Karl Gottlob Böttiger
+----------------
+Johann Andreas Voigt
+Gottlob Humpsch
+Karl Gottlieb Zaspel
+Johann Gottlieb Mende
+Johann Gottlob Herzog
+Johann Gottfried Schumann
+----------------
+Johann Gottfried Ebner
+1824
+Johann Christian Wilhelm
+Johann Gottfried Möbiuß
+Paul Friedrich Lorenz
+----------------
+Johann Carl Theodor Albert
+Johann Gottfried Lehmann
+Johann Gottlob Müller
+Johann Gottlob Räubig
+Johann Christian Delitzsch
+Johann Gottlieb Teichgräber
+----------------
+Heinrich Gottlob Heyde
+Johann Gottlob Riße
+Johann Gottlieb Raübig
+Johann Gottlob Thiele
+Johann Gottlieb Fischer
+Johann Christian Gottlieb Schaaf
+----------------
+Christian Gottlieb Delitzsch
+Johann Gotthelf Bretschneider
+Johann Samuel Seidel
+Johann Gottlieb Rühle
+Karl Gottlieb Mann
+Johann Gottlob Voigt
+----------------
+1825
+Johann Gottlob Mende
+Christian Gottlieb Rädler
+Friedrich Wilhelm Grimmer
+Christian Gottlieb Helm
+Johann Gottlob Lehmann
+Johann Samuel Kern
+----------------
+Johann Gottfried Jahn
+Johann Gottlieb Roßberg
+Johann Christian Hänsel
+Johann Christian Sproß
+Johann Gottfried Kretzschmar
+Johann Gottlieb Voigt
+----------------
+Joseph Anton Hübner
+Christian Gottlieb Voigt
+Johann Christlieb Müller
+Friedrich Karl Müller
+Johann Gottlob Dommitsch
+----------------
+Karl Friedrich Grellmann
+1826
+Johann Gottfried? Helm //korrigiert
+Johann Christian Gottlieb Große
+Johann Gottlob Humpsch
+----------------
+Christian Gottlieb Radisch
+Johann Gottfried Gregor
+Christian Gottlieb Wittig
+Johann Christian Gottlob Schade
+Johann Gottlieb Grille
+----------------
+Johann Herrman Müller
+Johann Gottlob Heinrich Seidel
+Johann Gottfried Pfeiffer
+Carl Gottlob Nickol
+----------------
+Johann Gottlob Funke
+Johann Gottfried Winkler
+Johann Christian Zimmermann
+Christian Gottlob Gaumitz
+Johann August Aßmus
+----------------
+Johann Gottlieb Beeger
+1827
+Joseph Anton Hübner
+Karl Gottlob Bachmann
+----------------
+Johann Gottlob Grimmer
+Christian Gottlob Heße
+Johann Gottlob Miersch
+Johann Gottfried Hanke
+----------------
+Johann Gottlieb Schneider
+Johann Gottfried Hänsel
+Johann Gottlieb Heidert
+Johann Christoph Schwarze
+----------------
+Friedrich Wilhelm Schäfer
+Johann Gottfried Buckhardt
+Johann Karl Gottfried Funke
+Johann Gottlieb Müller
+----------------
+Johann Gottlob Böttger
+Gottlieb Siegmund Schwarze
+Johann Gottlob Clauß
+Johann Gottfried Möbius
+Johann Gottlieb Kretzschmar
+----------------
+Johann Gottfried Stein
+Johann Gottfried Lommatzsch
+Johann Gabriel Tischer
+Johann Gottlieb Naumann
+----------------
+1828
+Johann Paul Kühne
+Gotthelf Schuster
+Johann Gotthelf Schlehahn
+Johann Gottlob Weber
+Johann Gottlob Geith
+----------------
+Karl August Burkhardt
+Johann Andreas Thierbach
+Johann Gottfried Schaaf
+Johann Gottlob Räubig
+Johann Christian Beger
+----------------
+Johann Christian Gottlieb Thomaß
+Johann Christoph Fiedler
+Johann Karl Gottlieb Clauß
+Johann Gottlieb Freund
+----------------
+Johann Christlieb Galle
+Christian Gottlob Schützel
+1829
+Christian Gottfried Steudte
+Johann Gottfried Witte
+----------------
+Johann Gotthelf Gebhardt
+Friedrich Gottlob Moritz Stoß
+Johann Gottfried Schütze
+Karl Friedrich Grellmann
+Herrman Robert Clauß
+----------------
+Johann Christian Gottlieb Junghans
+Christian Gottlieb Franke
+Johann Gotthelf Fischer
+Moritz Hammer
+Johann Gottlob Hoffmann

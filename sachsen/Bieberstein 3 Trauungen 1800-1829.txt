@@ -1,14 +1,15 @@
 Bieberstein (Buch 3)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/281005?pageId=38763374
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Mai 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -406,3 +407,224 @@ August Friedrich Dienelt
 Johann Gottfried Kost
 Wilhelm Friedrich Weinhold
 Carl Gottlob Lantsch
+----------------
+1820
+Johann Gottlob Günther
+Johann Gabriel Haehnel
+Carl Gottlob Loeßnitz
+Johann Gottlob Stoerr
+Carl Gottlob Ranft
+Carl Friedrich Schönberg
+Johann Gottlieb Klemm
+Carl Gottlieb Ilgen
+----------------
+Carl Gottlieb Fuerich
+Carl Gottlieb Busch
+August Gottfried Aurich
+Anton Wilhelm Hoffmann
+Johann Gottfried Stein
+Gottfried Samuel Haupt
+Johann Gotthelf Schubert
+Johann Carl Gottlieb Imhoff
+----------------
+1821
+Carl Friedrich Eckelt
+Johann Gottlieb Busch
+Carl Gottlieb Donat
+Johann Gottlieb Starke
+Johann Carl Gottlieb Knabe
+Carl August Berger
+Johann Gottlieb Sterl
+----------------
+Johann Gottlieb Sterl
+Traugott Leberecht Fritsche
+Carl August Teichert
+Carl Gottlob Ritter
+Gottlieb Friedrich Beckert
+Carl Friedrich Böhme
+Carl Friedrich Küttner
+----------------
+Johann Gotthold Ulbricht
+Johann Gottlob Friedrich Götze
+Johann Gottlieb Stein
+Carl Gottlieb Ulbrig
+Gotthelf Leberecht Ihle
+Johann Gotthelf Hantsche
+Gottlieb Friedrich Eydner
+Friedrich Wilhelm Beger
+----------------
+1822
+Johann Gottlob Imhoff
+Carl August Ulbricht
+Carl Gottfried Rader
+Johann Gottlob Böehme
+Carl Christian Peuckert
+Heinrich August Findeisen
+Carl Gottlieb Borrmann
+Johann Georg Küchenmeister
+Carl Friedrich Ilgen
+----------------
+Carl Gottlob Schmidtgen
+Johann Schulze
+Carl Gottlieb Froelich
+Ehregott Friedrich Oehme
+Johann Christian Naumann
+Johann Gottlob Leberecht Schütze
+Carl Gottlieb Seifert
+Carl August Fritsche
+----------------
+1823
+Christian Leberecht Winkler
+Johann Gotthelf Ilgen
+Johann Gotthelf Küttner
+Johann Gotthelf Weise
+Johann Carl Gottlieb Henke
+Gottlieb Leberecht Haupt
+Christian Leberecht Winkler
+Friedrich Wilhelm Küttner
+----------------
+Gottlieb Friedrich Haehnel
+Friedrich Wilhelm Fritzsche
+Johann Christian Friedrich Zweiniger
+Carl August Meutzner
+Johann Gottlob Uhlig
+Georg Gottlieb Venus
+Carl Gottfried Lantsch
+Carl Gottlieb Böhme
+Carl Friedrich Burkhardt
+----------------
+1824
+Johann Samuel Schulze
+Johann Gottfried Blau
+Carl Friedrich Junghans
+Christian Gotthelf Heinrich
+Johann Gottlieb Wolf
+Carl Gottlob Eydner
+Johann Gottfried Helm
+Gottlieb Leberecht Weicholt
+----------------
+Johann Oeder
+Johann Adolph Starke
+Carl Gottlieb Caden
+Carl Gottlieb Leuschner
+Carl Friedrich Wagner
+Johann Gottfried Sterl
+Traugott Leberecht Franke
+Carl Gottlieb Ebert
+----------------
+Carl Gottlob Hilbert
+Johann Israel Kunze
+Carl Friedrich Imhoff
+----------------
+1825
+Johann Gottfried Hennersdorf
+Johann Samuel Goldmann
+Johann Gottlob Giersch
+Traugott Theodor Zenker
+Carl Gottlob Schumann
+Carl Friedrich Böhme
+Carl Gottlieb Löwe
+----------------
+Carl August Böhme
+Wilhelm Wolf
+Traugott Friedrich Unger
+August Friedrich Hoffmann
+Johann Gotthelf Diersche
+Friedrich Ehregott Ludwig
+Carl Gottlieb Silbermann
+----------------
+Carl Gottfried Heumann
+Carl Friedrich Findeisen
+Christoph Friedrich Schäfer
+Johann Gotthelf Hahn
+Johann Gottfried Starke
+----------------
+1826
+Johann Christian Kempe
+Johann Gottlieb Heydrich
+Carl Gottlob Goldbach
+Johann Gottlieb Helm
+Christian Wolf
+Samuel Friedrich Götze
+----------------
+Carl Gottlieb Schönberg
+Johann Christian Imhof
+Carl Gottfried Winterlich
+Gottlieb Friedrich Sohr
+Carl Friedrich Zeun
+Adolph Schaefer
+Carl Gottlieb Froehlich
+----------------
+Johann August Erler
+Johann Gottfried Löwe
+Carl Gottlob Funke
+Carl August Sachse
+Carl Gottlieb Feind
+----------------
+1827
+Johann David Voigt
+Johann Gottlob Imhof
+Johann Gottfried Imhof
+Gottlob Immanuel Ulbricht
+Carl Gottlieb Kaden
+Johann Gottlieb Hallfahrt
+Carl Gottlob Mauersberger
+----------------
+August Friedrich Scheinpflug
+Gottlob Friedrich Weise
+Johann Gottlieb Löwe
+Carl Gottlob Leuschner
+Johann Gottfried Junghans
+Johann Gottlob Mey
+----------------
+Johann Gottfried Martin
+Johann Christian Heinrich Jänicke
+----------------
+1828
+Johann Friedrich Küster
+Carl Gottlob Beckert
+Johann Carl Gottlieb Höde
+Christian Gottlieb Ebert
+Carl Gottlieb Ditrich
+Traugott Leberecht Fritzsche
+Johann Gottlieb Leberecht Ronthaler
+----------------
+Friedrich Traugott Tränkner
+Friedrich Lobegott Schubert
+Carl August Friedrich Wolf
+Johann Gottlieb Junghans
+Carl August Mühlberg
+Johann Gotthelf Illgen
+Johann Gottfried Leonhardt
+----------------
+Johann Gottlob Halfarth
+Christian Adolph Meutzner
+----------------
+1829
+Christian Friedrich Horn
+Friedrich Wilhelm Henker
+Traugott Friedrich Heerklotz
+Caspar Carl Samuel Friedrich
+Carl Friedrich Kunze
+Carl Gotthelf Kreller
+Johann Gottlob Günther
+----------------
+Johann Gottlob Bernhardt
+Carl Gottlob Winkler
+Carl Friedrich Küttner
+Johann Christian Hoffmann
+Gottlieb Friedrich Böhme
+Johann Carl Gottlob Schöne
+Carl Gottlob Schnecke
+----------------
+Christian Friedrich Keller
+Carl Friedrich Weise
+Carl August Ficke
+Carl Gottfried Bernhard
+Friedrich August Schubert
+Carl Friedrich Leberecht Wolf
+Christian Friedrich Krumpfer
+----------------
+Carl Gottlieb Illgen
+Carl Gottlieb Caden
+Adam Friedrich Otto

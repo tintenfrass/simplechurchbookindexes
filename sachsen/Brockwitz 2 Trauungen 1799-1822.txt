@@ -1,5 +1,5 @@
 Brockwitz (Buch 2)
-Trauungen 1799-1819
+Trauungen 1799-1822
 https://www.archion.de/de/viewer/churchRegister/281037?pageId=38770588
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -12,6 +12,7 @@ Erstellt in ca. 1 Stunde
 Mai 2023
 Mai 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -413,3 +414,37 @@ Johann Gottlob Rühle
 Johann Gottlieb Udolph
 Johann Gottlieb Lommatzsch
 Johann Gottlieb Seidel
+---------------- x9
+1820
+Johann Gottfried Müller
+Traugott Ilschner
+Johann Samuel Türke
+Johann Gotthelf Thieme
+Johann Gotthelf Fichtner
+Johann Gottfried Marx
+Friedrich Wilhelm Busch
+Christian Gottlob Marbach
+Christian Gottlob Daebritz
+Johann Gottlieb Ranft
+Friedrich August Wolf
+---------------- x8
+1821
+Johann Gottlob Förster
+Johann Samuel Weber
+Johann Gottlob Scheibe
+Johann Georg Jacob
+Johann Gottlieb Schulze
+Johann Michael Fichtner
+Johann Gotthelf Haupt
+Christian Grille
+Wilhelm Vieth
+Johann Gottfried Müller
+---------------- x8
+1822
+Johann Gottfried Zabel
+Carl August Kadner
+Carl Gottlieb Meyer
+Johann Friedrich Grosmann
+Franz Ludwig Poppe
+Carl Ehrenthal
+Andreas Schmidt

@@ -1,14 +1,15 @@
 Burkhardswalde (Buch 2)
-Trauungen 1800-1819
+Trauungen 1800-1824
 https://www.archion.de/de/viewer/churchRegister/281045?pageId=38771972
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Mai 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -301,3 +302,76 @@ Johann Christian Netzel
 Christian Friedrich Lange
 ----------------
 Carl Friedrich Langenach
+1820
+Johann Gottfried Schanze
+Carl Gottfried Tränckner
+Johann August Rüdiger
+Johann Carl Gottlieb Kolbe
+Johann Gottfried Gottfried Lange
+----------------
+Carl Gottlieb Felßner
+Johann Gotthelf Zscherper
+Johann Gottfried Naumann
+Johann Gotthelf Leuschner
+Johann Carl Friedrich Philip
+Carl August Porsdorf
+----------------
+Johann Gotthelf Schanze
+1821
+Carl Gottlieb Kegel
+Gotthelf Leberecht Töpfer
+Carl Ludwig Lorenz
+Carl Gottlob Schefler
+Johann Gottfried Heyde
+Carl Gotthelf Schubert
+Johann Lehmann
+Johann Carl Gottfried Richter
+----------------
+Johann Gottfried Zocher
+Johann Gottlob Döbritz
+Carl Friedrich Liebschner
+Carl Gottlob Sohrmann
+1822
+Johann Gottlieb Fritzsche
+Friedrich Wilhelm Schroth
+----------------
+Johann Gottlob Weber
+Carl Gottlob Adam
+Carl Gotthelf Adam
+Johann Gottfried Naumann
+Johann Gottfried Mögel
+Johann Christian Windschüttel
+Johann Gottlob Rüdiger
+----------------
+Carl Gottlieb Richter
+Carl Gottlob Leuschner
+Johann Gottfried Schanze
+1823
+Carl Gottlieb Schmidtgen
+Johann Gottlieb Schroth
+----------------
+Johann Gottfried Uhlmann
+Johann Heinrich Jahnn
+Johann Gottlob Riemer?
+Johann Gottlob Dachsel
+Carl Gottlieb Pötzsch
+Carl Gottlob Bayer?
+Johann Gottlieb Pinckert
+----------------
+1824
+Friedrich August Tanneberger
+Carl Gottlieb Proschütz
+Johann Friedrich Bretschneider
+Carl Gottlieb Netzel?
+Carl August Roßberg
+Gotthelf Leberecht Töpfer
+Johann Gottlob Scheffler?
+----------------
+Johann Carl Gottlob Bretschneider
+Johann Samuel Zennig
+Johann August Thiele
+Carl Gottlob Pinkert
+Johann Samuel Peter
+----------------
+Friedrich David Fritzsche
+Carl Gottlieb Böhme

@@ -1,5 +1,5 @@
 Blankenstein (Buch 2)
-Trauungen 1756-1819
+Trauungen 1756-1823
 https://www.archion.de/de/viewer/churchRegister/281020?pageId=38765994
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -12,6 +12,7 @@ Juni 2023
 August 2023
 Mai 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -726,3 +727,48 @@ Johann Georg Scheffler
 Carl Gottlob Döring
 Carl Gottlob Preußer
 Friedrich Gottlieb Weigelt
+1820
+Johann Gottlob Tittmann
+Johann Gottfried Hammer
+----------------
+Friedrich Wilhelm Busch
+Carl Gottlieb Schmidt
+Johann Carl Gottlob Neubert
+1821
+Carl Heinrich Löffel
+Johann Gotthelf Rast
+Johann Gottlieb Grellmann
+----------------
+Johann Reinhardt Riegel
+Carl Gottlob Günther
+Johann Gottfried Rödig
+Gottlieb Hernsdorf
+Gottfried Wilhelm Sohr
+Johann Gottlieb Meltzer
+Karl August Lötzsche
+Gotthelf Leberecht Ranft
+----------------
+1822
+Johann Gottlob Weber
+Johann Gottfried Roitzsch
+Carl Rudolph Adler
+Gottlieb Leberecht Frohse
+Carl Gottlob Schäfer
+Friedrich Wilhelm Ranft
+Johann Gottlob Thimmig
+----------------
+1823
+Johann Gottlob Geißler
+Johann Joseph Ehrlich
+Christian Gottlob Richter
+Johann Gotthelf Dachsel
+Johann Michael Litzner
+Johann Gottlieb Winkler
+Johann Gottlob Kleemann
+----------------
+Traugott Leberecht Philipp
+Johann Benjamin Wehner
+Johann Georg Schirmer
+Carl August Schramm
+Carl Gottlieb Pötzsch
+Johann Gottfried Neidert
