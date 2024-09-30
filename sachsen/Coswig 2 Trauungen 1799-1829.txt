@@ -1,12 +1,13 @@
 Coswig (Buch 2)
-Trauungen 1799-1819
+Trauungen 1799-1829
 https://www.archion.de/de/viewer/churchRegister/281060?pageId=38775035
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 September 2023
 Mai 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -278,3 +279,141 @@ Johann Christoph Weser
 Johann Gottlieb Fehrmann
 Johann Gottlieb Basler
 Johann Gotthelf Thiele
+----------------
+1820
+Johann Gottfried Müller
+Johann Gottlob Fehrmann
+Johann Gottlob Gärtner
+Johann Gottfried Paul
+Johann Gottlob Uhlisch
+Johann Gottlieb Winckler
+Johann Samuel Richter
+----------------
+Johann Christian Thiele
+Friedrich Gottlieb Uhlemann
+Johann Gottlieb Hohlfeld
+Johann Samuel Schulze
+Johann Gottfried Richter
+----------------
+1821
+Johann Georg Schöne
+Johann Gottlieb Lange
+Johann Gottlieb Weise
+Johann Georg Jacob
+Johann Gotthelf Bäsler
+Johann Gottlieb Seyfert
+----------------
+Carl Gottlieb Franke
+Philip August Kraus
+Johann Georg Sehnitz
+Gottlob Stephan
+Gottfried Kolisch
+Mattheus Pfifer
+----------------
+1822
+Johann Friedrich Köhler
+Friedrich Adolph Petermann
+Johann Gottfried Fichtner
+Johann Gottlieb Uhisch
+Johann Gottfried Schneider
+----------------
+Fürchtegott Ernst Zimmer
+Johann Gottfried Voigt
+1823
+Gottlob Seifert
+Johann Christian Schade
+Johann Daniel Wünschüttel
+Johann Carl Schwitzky
+Carl Friedrich August Krause
+----------------
+Johann Gottfried Mäser
+Johann Gottlieb Häsler
+Johann Michael Tronikce
+Johann Samuel Bäsler
+Samuel Lehrknecht
+----------------
+1824
+Johann Friedrich Wilhelm Hänsel
+Johann Gotthelf Zocher
+Johann Georg Jacob
+Friedrich Gotthelf Reinicke
+Christoph Friedrich Oehme
+Johann Gottlob Häbold
+Johann Schiefer
+Johann Gottfried Mohn?
+----------------
+Johann Gottlieb Reinicke
+Johann Gottlob Melchior
+Johann Adolph Jänk?
+Johann Gottlieb Schubert
+Friedrich Wilhelm Schneider
+Friedrich Gottlob Schumann
+----------------
+1825
+Johann Christian Große
+Johann Gottfried Humbsch
+Johann Gottlob Traugott Wolf
+Friedrich August Große
+Johann David Götze
+Carl Gottlieb Rüdiger
+Samuel Menzel
+----------------
+Johann Gottlob Häntsch
+1826
+Johann Gottfried Jocob
+Johann Gottlob Trache
+Johann Gottfried Müller
+Johann Gottlieb Schmidt
+Johann Gottlieb Haase
+----------------
+Gottlieb Dürichen
+Johann Gottfried Glauch
+Andreas Syatz
+Joseph Gröschel
+----------------
+1827
+Samuel Heinze
+Johann Gotthelf Grünberg
+Johann Gottfried Seiffart
+Johann Gottlob Baunik
+Johann Samuel Fuchs
+Christian Gottlob Schulze
+Johann Gottlob Bergmann
+----------------
+Johann Gottlob Schlechte
+Johann Gottlob Ernst Tronick
+Friedrich Gottlob Gebauer
+Johann Gotthelf Großmann
+Johann Christian Henschel
+Carl Gottlob Busch
+Johann Gottfried Eisold
+Christian Gottfried Scheffler
+----------------
+1828
+Johann Gottlieb Hönische
+Johann Gottfried Thiele
+Johann Gottfried Mohn
+Johann Gottfried Trache
+Johann Gottlieb Taschenberger
+Johann Georg Roch
+David Heinrich Gehardt
+----------------
+Johann Gottfried Möser
+Johann Gottlob Füllner?
+Johann Gottlob Thiele
+Johann Samuel Schulze
+Johann Gottlieb Melchior
+Johann Christian Förster
+Johann Samuel Tronicke
+----------------
+1829
+Johann Gottlob Scheuer
+Johann Friedrich August Pautzsch?
+Johann Gottfried Möbius
+Johann Gottlob Stolle
+Johann Gottlob Just
+Johann Gottlob Trache
+----------------
+Johann Gottlob Philipp
+Johann Gottlob Vetter
+Johann Gottlob Herzschuch

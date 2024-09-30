@@ -1,5 +1,5 @@
 Dörschnitz (Buch 5)
-Trauungen 1801-1819
+Trauungen 1801-1823
 https://www.archion.de/de/viewer/churchRegister/282499?pageId=39019547
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Erstellt in ca. 0,5 Stunde
 Mai 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -202,3 +203,33 @@ Johann Traugott Pfützner
 ----------------
 Johann Christian Traugott Sternberger
 Johann Gottfried Förster
+1820
+Johann Christian Nickol
+Johann Gottlob Kopp
+August Theodor Arnold
+Johann Christian Neider
+Christian Gottlieb Häfer
+----------------
+Johann Christian Gottlieb Greif
+1821
+August Gottlob Naumann
+Johann Gottfried Fichtner
+Johann Gotthelf Laue
+Johann August Große
+1822
+Johann Gotthelf Fischer
+Carl Gottlob Pinckert
+Johann Traugott Weyhmann
+Johann Gottfried Gast
+----------------
+Christian Gottfried Förster
+Johann Gottlieb Roßberg
+1823
+Karl Gottlob Weyhmann
+Johann Karl August Friedrich
+Johann Traugott Pfützner
+Johann Andreas Voigt
+----------------
+Johann Gottlob Straube
+Carl Gottlob Lommatzsch
+Johann Gottfried Straube

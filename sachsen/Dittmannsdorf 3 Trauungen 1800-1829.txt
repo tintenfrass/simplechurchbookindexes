@@ -1,5 +1,5 @@
 Dittmannsdorf (Buch 3)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/281074?pageId=38777739
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 0,5 Stunden
 Mai 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -225,3 +226,96 @@ Johann Gottlob Grellmann
 Carl Gottlieb Gebauer
 Johann Gottlieb Löwe
 Johann Georg Löwe
+----------------
+1820
+Carl Gottlieb Götze
+Johann Gotthelf Wolf
+August Buhlig
+August Friedrich Zeuner
+----------------
+1821
+Carl August Böhme
+Johann Gottlob Stelzer
+Johann Christian Zocher
+Johann Michael Jäpel
+Carl Gottlieb Kühne
+Carl Gottlieb Simon
+----------------
+Johann Joseph Keller
+Johann Gotthelf Martin
+Carl Friedrich Wilhelm Küchenmeister
+----------------
+1823
+Carl Gottlob Günther
+Johann Georg Stirl
+Johann Gottlob Leuteritz
+Christoph Friedrich Hubrich
+Carl Gottlob Bormann
+Carl Gottlieb Börner
+Carl Gottlieb Köhler
+Carl Gottfried Wilhelm Simon
+----------------
+Christian August Hesse
+Johann Gottlieb Reinhardt
+----------------
+1824
+Johann Gottfried Lorenz
+Carl August Kaiser
+Christian Friedrich August Schneider
+Traugott Leberecht Hennig
+August Friedrich Lehmann
+Carl Gottlieb Knebel
+----------------
+1825
+Johann Gottlieb Simon
+Johann Gottfried Hennig
+Johann August Günther
+Johann Gottfried Börner
+Carl Ferdinand Triebe
+Carl Gottlob Mühlberg
+----------------
+Carl Gottlob Bäßler
+----------------
+1826
+Johann Gottlieb Mühlberg
+Johann Georg Petzold
+Carl Gottfried Lorenz
+Johann Gottfried Mühlberg
+Johann Gottlob Tenzel
+Johann Carl August Lorenz
+Carl August Diersche
+----------------
+Carl Gottlieb Dietrich
+----------------
+1827
+Carl Eduard Zülligner
+Johann Gottlob Lindner
+Friedrich Wilhelm Wachsmuth
+Gotthelf Dachsel
+Carl Gottlieb Böhme
+Johann Carl Samuel Lorenz
+----------------
+Johann Gottfried Küttner
+Carl Gottlob Höme
+Gottlob Carl Tamme
+Johann Gottfried Seifert
+Johann Gottfried Halfter
+----------------
+1828
+Johann Gotthelf Mühlberg
+Carl Gottlieb Kießlich
+Ehregott Leberecht Friedrich
+August Friedrich Fleischer
+Johann Gottfried Leonhard
+----------------
+1829
+Johann Gotthelf Horn
+Carl Gottlieb Lindig
+Carl Gottlob Bormann
+Carl Gotthelf Leberecht Sparmann
+Johann Gotthelf Klaußnitzer
+----------------
+Gottlieb Leberecht Weichold
+Johann Gottfried Keller
+Carl Gottlieb Schubert
+Carl Gottlob Haußig

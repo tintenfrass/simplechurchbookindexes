@@ -1,5 +1,5 @@
 Deutschenbora (Buch 3)
-Trauungen 1801-1819
+Trauungen 1801-1829
 https://www.archion.de/de/viewer/churchRegister/281068?pageId=38776650
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 0,5 Stunden
 Mai 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -180,3 +181,91 @@ Carl August Friedrich Kühlich
 ----------------
 Johann Gottfried Hanschmann
 Johann Gottlieb Görnert
+1820
+Gottlob Frietrich Graf
+Johann Christoph Sorge
+Carl Gottlieb Poetzsch
+Johann Gottfried Starke
+Johann Gottlieb Klemm
+----------------
+Johann Gottfried Doering
+1821
+Carl Gottlieb Poetsch
+Johann Gottlieb Birckner
+Johann Gottlieb August Beyrich
+Friedrich Fürchtegott Beyrich
+Johann Gottlieb Kühne
+Johann Gottlieb Wolf
+Johann Gottlob Mäcke?
+----------------
+Johann Gotthelf Wolf
+Johann Gottlieb Kirst
+Johann Carl Günther
+Johann Gottlieb Mierisch
+Gottfried Friedrich Eitner
+Georg Adolph Leipziger
+----------------
+Johann Carl Gottlieb Kirst
+Johann Carl Günther
+1822
+Johann Gotthelf Lutzner
+Johann Christian Gottlob Muster
+Johann Gottlob Tamm
+----------------
+Gottlieb Heinrich Gruhl
+Johann Gottlob Wiegand
+Johann Christian Hofmann
+1823
+Johann Georg Fischer
+Johann Gottlob Melzer
+Carl Gottlob Steiger
+Johann Gottfried Leberecht Lotze
+Johann Gottlieb Wittig
+----------------
+1824
+Johann Georg Fischer
+Friedrich Adolph Bretschneider
+Johann Gottfried Birckner
+Carl Gottlob Hetzel
+Johann Gottfried Bauer
+Johann Christian Friedrich Eckart
+----------------
+1825
+Carl Gottlob Höhme
+Johann Gottfried Pötzsch
+Johann Gottfried Rappe
+Johann Gottfried Teupel
+Johann Gottlieb Fritzsche
+Johann Gotthelf Leipold
+Johann Christoph Hintersdorf
+Georg Adolph Leipziger
+----------------
+1826
+Carl Gottlieb Eydam
+Johann Gotthelf Greif
+Carl Wilhelm Haubold
+Carl Friedrich Weichold
+Friedrich August Schmidt
+Johann Gottfried Silbermann
+Johann Gottlieb Franke
+----------------
+Johann Gottlob Birkner
+1827
+Carl August Sachse
+Johann Gottlob Lutze
+Johann Gottlieb Pötzsch
+Adolph Friedrich Trepte
+Johann Gotthelf Züchner
+----------------
+Johann Gottfried Leuteritz
+Carl Gottfried Hahn
+1828
+Christian Leberecht Leonhardt
+Johann Carl Gottlieb Winckler
+Johann Carl Gottfried Kreyß
+Christian Friedrich Wilhelm Thieme
+----------------
+1829
+Carl August Traugott Leberecht Schütze
+Carl August Ebert
+Johann Gottfried Roeder

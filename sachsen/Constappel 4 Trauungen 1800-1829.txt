@@ -1,5 +1,5 @@
 Constappel (Buch 4)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/281052?pageId=38773698
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 0,5 Stunden
 Mai 2024
 Juli 2024
+September 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -296,3 +297,143 @@ Heinrich Ernst Pietzsch
 ----------------
 Daniel Meyer
 Johann Friedrich Hildebrand
+----------------
+1820
+Carl August Künzelmann
+Johann Gottlieb Jacob
+Johann Christian Dietrich
+Andreas Syatz
+Gottlob Heinrich Werner
+----------------
+Johann Beyer
+Carl Gottlob Voigt
+----------------
+1821
+Johann Christian Luther
+Johann Georg Dreßler
+Johann Gottfried Jäger
+Johann Gottfried Winckler
+Carl Gottlieb Klaus
+----------------
+Johann Gottlieb Hüfler
+Gottlob Heinrich Werner
+Carl Gottlob Gottschalt
+Johann Christian Baumann
+Johann Gotthelf Grahl
+----------------
+Johann Traugott Siegmund Zschunke
+1822
+Jacob Petsch
+Johann Gottfried Müller
+----------------
+Johann Heinrich Naumann
+Gottlob Trautmann
+Carl Gottlieb Meyer
+Johann Gotthelf Naake
+Johann Gottlob Rüdiger
+----------------
+Ernst Gotthold Christian Gottlob Röhr
+Ferdinand Traugott Stosch
+Johann Gottlieb Rühle
+Johann Paul Pietzsch
+----------------
+Carl Gottlieb Gast
+1823
+Johann Gottfried Küchler
+Johann Gottlob Weber
+Johann Gottlob Jacob
+----------------
+Johann Gottlob Miersch
+Johann Gottlieb Damme
+Johann Gotthelf Just
+Johann Gottlieb Werner
+Johann Gottfried Voigt
+----------------
+Johann Gottlieb Leuschner
+Christian August Meyer
+Johann Korch
+Christian Gottfried Dietrich
+----------------
+Johann Gottlob Beger
+Christian Gottlob Franz
+1824
+Samuel Gottlob Naumann
+Johann August Kunert
+----------------
+Johann Georg Lehmann
+Johann Gotthelf Herberger
+Johann Gottlob Hörnig
+Johann Friedrich Ulbrich
+Johann Gottfried Lommatsch
+----------------
+Heinrich Gottlob Trautmann
+Johann Georg Hamann
+Anton Schicht
+Friedrich Carl Biese
+Carl Gottlob Keilhaur
+----------------
+Friedrich Wilhelm Küttner
+Johann Christian Horn
+Friedrich Adolph Ranft
+Johann Carl Ferdinand Wanke
+Heinrich Gottlob Hauswald
+----------------
+Traugott Leberecht Künzelmann
+Johann Georg Borisch
+Carl Friedrich Winckler
+1825
+Gottlob David Fichtner
+Johann Carl Neugärtner
+----------------
+Carl Fürchtegott Knauthe
+Ignatz Jäger
+Johann Christian Lehmann
+Carl Gottlieb Schiffner
+Carl Gottlob Starke
+----------------
+Gustav Eduard Braune
+1826
+Johann Carl Gottlieb Gaubig
+Johann Gotthelf Patzig
+Michael Herrmann
+----------------
+Johann Carl Traugott Vogel
+Christian Gottlieb Otto
+Andreas Syatz
+Johann Christian Meißner
+----------------
+1827
+Carl Gottlob Gebhardt
+Carl Gottlob Käseberg
+Friedrich Wilhelm Müller
+Johann Gottlob Winckler
+Johann Gottlieb Häfler
+----------------
+Johann Gottlob Fehrmann
+Johann Heinrich Marschalk
+Jacob Retscher
+Johann Gottlob Rüdiger
+----------------
+1828
+Johann Gottlieb Wahl
+Christian Friedrich August Blüher
+Johann Gottlieb Berger
+Christian Traugott Leberecht Eisold
+Johann Georg Schmidt
+Christian Gottlieb Dietrich
+----------------
+Carl Gottlieb Hantzsch
+Heinrich Ludwig Vogel
+Johann Gottlieb Kästner
+Johann Gottfried Seiffig
+----------------
+1829
+Johann Friedrich August Pautzsch
+Johann Christian Möller
+Carl Gottlieb Hörnig
+Johann Gottlob Just
+Johann Gottfried Bachmann
+----------------
+Johann Gotthelf Grellmann
+Gottlieb Leberecht Jurisch
+Johann Gottfried Naumann
