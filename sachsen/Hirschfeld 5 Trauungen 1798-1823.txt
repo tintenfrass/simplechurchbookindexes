@@ -1,5 +1,5 @@
 Hirschfeld (Buch 5)
-Trauungen 1798-1819
+Trauungen 1798-1823
 https://www.archion.de/de/viewer/churchRegister/282543?pageId=39029168
 
 
@@ -7,6 +7,7 @@ Erstellt in ca. 0,5 Stunden
 August 2023
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -251,3 +252,36 @@ Johann Gottlieb Leberecht Lotzr
 Johann Gottfried Damm
 Johann Gottlieb Damm
 Carl Gottlob Kunath
+----------------
+1820
+Johann Gottlob Günther
+Johann Karl Gottlieb Gottlebe
+Johann Gotthelf Zscherpe
+Johann Gottlieb Rost
+Johann Gotthelf Nedes
+----------------
+1821
+Karl Gottlob Dachsel
+Johann Gottfried Lamm
+Johann Gottlieb Zweiniger
+Karl Gottlob Schröer
+----------------
+Gottlob Heinrich Schulze
+Johann Gottfried Zocher
+Johann Gottlieb Ficke
+1822
+Karl Gottlieb Nestler
+Johann Gottfried Hahn
+Johann Gottlieb Lehmann
+Johann Gottlieb Junghans
+----------------
+Johann Gottfried Barth
+Johann Gottlieb Schneider
+Friedrich Wilhelm Ranft
+Christian Gottlob Ficker
+----------------
+Johann Gottfried Schanze
+1823
+Karl Friedrich Lutze
+Johann Gottlob Schubert
+Karl August Hannicke

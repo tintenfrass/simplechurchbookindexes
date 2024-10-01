@@ -1,5 +1,5 @@
 Großdobritz (Buch 2)
-Trauungen 1799-1819
+Trauungen 1799-1829
 https://www.archion.de/de/viewer/churchRegister/282510?pageId=39021714
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ Teil 2: Marschau
 
 Erstellt in ca. 0,5 Stunden
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -199,7 +200,56 @@ Christian Gotthelf Beulich
 1819
 Johann Gottlob Niese
 Johann Gottfried Klunker
----------------- x95
+----------------
+1820
+Johann Samuel Türke
+Gottlob Schumann
+Johann Gottlieb Taggeselle
+Johann Gottlob Sachse
+----------------
+1821
+Johann August Hennig
+1822
+Johann Karl Zschoche
+Johann August Rühle
+1823
+Johann Gottfried Richter
+----------------
+Johann Christian Werner
+Johann Gottlob Gebauer
+Friedrich Traugott Niese
+Carl Gottlob Naumburger
+Traugott Leberecht Mißbach
+----------------
+1824
+Johann Gottlob Rühle
+Johann Chrislieb Leuthold
+1825
+Johann Gotthelf Fichtner
+Johann August Neumann
+Johann Georg Tronike
+Johann Gottlieb Rühle
+----------------
+Johann Gottlieb Clauß
+Johann Gottfried Scheffer
+1826
+Carl Gottlieb Meier
+1827
+Johann Gottfried Mißbach
+1828
+Johann Gottfried Haußmann
+Johann Georg Jacob
+----------------
+Johann Gottfried Drobisch
+Friedrich August Schneider
+Johann Gotthelf Claus
+Gottfried Gebhard
+1829
+Johann Gottlieb Werner
+Johann Friedrich Richter
+----------------
+Johann Samuel Erdmann Menzel
+---------------- x88
 1799
 Johann Gottfried Bärwald
 1800
@@ -226,3 +276,15 @@ Johann Gottfried Stelzner
 1818
 1819
 Johann Gottfried Stelzner
+1820
+1821
+1822
+1823
+1824
+1825
+1826
+1827
+1828
+1829
+Johann Carl Zschoche
+Johann Christoph Zscheile

@@ -1,5 +1,5 @@
 Großdobritz (Buch 1)
-Trauungen 1638-1819
+Trauungen 1638-1825
 https://www.archion.de/de/viewer/churchRegister/282509?pageId=39021453
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -12,6 +12,7 @@ Februar 2023
 Mai 2023
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -808,3 +809,24 @@ Christian Gotthelf Beulig
 Johann Gottlob Niese
 Johann Gottfried Klunker
 Johann Gottfried Steltzer
+1820
+Johann Samuel Türke
+Gottlob Schumann
+Johann Gottlieb Taggeselle
+Johann Gottlob Sachse
+1821
+Johann August Hennig
+----------------
+1822
+Johann Carl Zschoche
+Johann August Rühle
+1823
+Johann Gottfried Richter
+Christian Werner
+Karl Gottlob Naumburger
+August Leberecht Mißbach
+1824
+1825
+Gotthelf Fichtner
+Friedrich August Neumann
+Johann Georg Tronicke

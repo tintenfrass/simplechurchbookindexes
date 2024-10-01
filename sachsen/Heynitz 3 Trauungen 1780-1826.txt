@@ -1,5 +1,5 @@
 Heynitz (Buch 3)
-Trauungen 1780-1819
+Trauungen 1780-1826
 https://www.archion.de/de/viewer/churchRegister/282535?pageId=39027344
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -15,11 +15,12 @@ Der Index ist nicht chronologisch sondern entspricht der Reihenfolge im Buch. Es
 -Neuwunschwitz
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Juni 2023
 August 2023
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -162,7 +163,35 @@ Christian Gottlob Opitz
 Carl Gottlieb Naumann
 1819
 Johann Gottlieb Schröter
----------------- x39
+1820
+Johann Gottlob Schlicke
+Johann Carl Gottlob Wackwitz
+1821
+Johann Christian Jähnigen
+Johann Carl Gottlieb Dietze
+----------------
+Gotthelf Leberecht Töpfer
+1822
+Johann Carl Gottfried Krieger
+Johann Gottlieb Fritzsche
+Johann Karl August Wiedemann
+Carl Traugott Adam
+Christian Samuel Opitz
+1823
+Johann Gottfried Gabrig
+----------------
+Johann Gottfried Buchert
+1824
+Johann Gottlieb Noak
+Johann Gottlob Peger
+Johann Traugott Wilhelm
+1825
+Carl Ferdinand Trinks
+1826
+Johann David Engelmann
+Johann Gottfried Müller
+Carl Gottlob Winckler
+---------------- x37
 1781
 Johann Gottlieb Patzig
 1782
@@ -270,7 +299,23 @@ Carl Gottlob Schmidt
 Johann Gotthelf Gappisch
 1818
 Johann Gottlob Berger
----------------- x34
+1821
+Johann Georg Maute
+----------------
+Johann Gottfried Müller
+1822
+Carl Gottlob Schmidt
+Carl Friedrich Kretzschmar
+1825
+Friedrich Traugott Schützel
+1826
+Johann Christian Kunze
+Johann Gottlob Nestler
+----------------
+Johann Christian Weber
+Carl Gottlob Schober?
+Johann Gottfried Erdmann
+---------------- x32
 1781
 Gottlieb Fischer
 Johann Gottfried Franze
@@ -365,6 +410,14 @@ Johann Gotthelf Schütze
 1819
 Johann Gottlob Saupe
 Johann Samuel Sorge
+1820
+Johann Gottfried Stein
+1821
+Johann Gottlieb Sorge
+1824
+Johann Gottlob Sorge
+1825
+Johann Gottfried Roßberg
 ---------------- x32
 1782
 Johann Georg Döring
@@ -445,7 +498,22 @@ Carl August Richter
 1819
 Carl Gottlob Richter
 Johann Gottlieb Scheffler
----------------- x18
+----------------
+1820
+Johann Gotthelf Kleeberg
+1821
+Johann Gottlob Becker
+Johann Samuel Zettwitz
+1822
+Johann Gottlob Funke
+1823
+Johann Gottfried Fischer
+Johann Gotthelf Irrmer
+Karl Gottlieb Rühle
+1826
+Johann Gottlieb Richter
+Johann Gottlob Opitz
+---------------- x17
 1787
 Hans Georg Schubert
 1792
@@ -468,7 +536,21 @@ Johann Gottfried Scheuer
 1819
 Johann Gottfried Gierisch
 Johann Gottlieb Döring
----------------- x12
+1820
+Christian Carl Gottfried Schmidt
+1822
+Johann Gotthelf Behrisch
+Carl Gottlieb Richter
+1824
+Carl Heinrich Bennewitz
+----------------
+Christian Gotthelf Schmiedgen
+1825
+Christian Wilhelm Burckhart
+1826
+Carl Gottlob Schmidt
+Gottfried Leberecht Lommatzsch
+---------------- x11
 1791
 Georg Baum
 Johann Gottfried Lehmann
@@ -499,3 +581,13 @@ Johann Gottlieb Kronbiegel
 Johann Christian Kuntzschler
 1818
 Johann Gotthelf Böttger
+1820
+Gottlieb Leberecht Schmidt
+Carl Gottlob Strohbach
+Johann Gottfried Naumann
+1821
+Johann Gottlieb Strohbach
+1824
+Johann Christoph Naumann
+Johann Gottfried Neukirch
+Carl Gottlieb Gühne

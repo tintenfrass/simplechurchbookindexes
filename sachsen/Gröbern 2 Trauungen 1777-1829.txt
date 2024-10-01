@@ -1,5 +1,5 @@
 Gröbern (Buch 2)
-Trauungen 1777-1819
+Trauungen 1777-1829
 https://www.archion.de/de/viewer/churchRegister/282506?pageId=39020782
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,10 +10,11 @@ mittlerer Teil: Jessen
 hinterer Teil: Rotzschberg
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Mai 2023
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -239,7 +240,64 @@ Johann Gotthelf Schlechte
 Johann Gottlob Franz
 Johann Gottlob Rühle
 Johann Christian Melzer
----------------- x141
+----------------
+1820
+Johann Mattheus Ehrenfried Richter
+Johann Gottfried Stelzner
+Carl Christian George
+Johann Christian Wolf
+----------------
+Johann Gottlob Rühle
+1821
+Johann Gottlob Scheibe
+Johann Gottfried Schumann
+Moritz Zenker
+----------------
+Johann Gottlob Hartmann
+Johann Georg Thalheim
+Johann Gottlob Bahrmann
+Johann Gottlieb Knorr
+----------------
+Johann Ludwig Rüling
+Johann Adam Grille
+Johann Gottlob Rentsch
+Johann Gottlob Lehmann
+Johann Gottlieb Marx
+----------------
+1822
+Johann Christoph Dierchen
+1823
+Johann Gottlob Birkner
+Johann Karl Resche
+Karl Gottfried Herbst
+----------------
+Johann Croll
+Johann Gottlieb Ulrich
+1824
+Johann Gottfried Roßberg
+Johann Theophil Fürchtegott Richter
+----------------
+Franz Leopold Funk
+1825
+Leberecht Weber
+1826
+Carl Eduard Grünewald
+Gotthelf Roßberg
+Gottlob Philipp
+----------------
+1827
+Johann Mattheus Ehrenfried Richter
+Friedrich Wilhelm Großmann
+Gottlieb Leberecht Müller
+1828
+Johann Gotthelf Förster
+Johann Gottfried Zocher
+Johann Gottlieb Stephan
+----------------
+Friedrich Gotthelf Kiesling
+Johann Gottfried Weitzmann
+Johann Gottfried Rühle
+---------------- x132
 1777
 1778
 1779
@@ -389,7 +447,46 @@ Johann Christoph Weser
 ----------------
 Johann Gottlieb Dürichen
 Johann Gotthelf Dürichen
----------------- x68
+1820
+Johann Gotthelf Thieme
+Johann Gotthelf Weser
+----------------
+1821
+Johann Gotthelf Hase
+Johann Georg Thalheim
+Johann Gottlob Bahrmann
+Gottlieb Leberecht Gründel
+Johann Christoph Weser
+----------------
+Johann Gottfried Müller
+1822
+Gottlob Grütze
+Traugott Leberecht Niese
+Christian Fritzsche
+----------------
+1823
+Johann Christoph Heinrich
+Johann Gotthelf Müller
+Johann Gottlieb Fuhrmann
+Johann Gottlieb Marich?
+1824
+Johann Gottlob Bahrmann
+Gottlieb Bretschneider
+Johann Gotthelf Grünberg
+Johann Gotthelf Schulze
+1825
+Johann Samuel Eichler
+1826
+----------------
+1827
+Johann Gotthelf Grünberg
+Johann Gottlieb Beeg
+1828
+Johann Gottfried Zocher
+Johann Christian Petsch
+Carl Gottfried Säurig
+1829
+---------------- x64
 1778
 Gottfried Rensch
 1782
@@ -433,3 +530,7 @@ Johann Gottfried Krebs
 1817
 1818
 1819
+1820
+1821
+1822
+Johann Gottlieb Händel

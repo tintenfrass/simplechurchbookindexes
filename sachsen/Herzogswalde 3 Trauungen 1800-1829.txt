@@ -1,14 +1,15 @@
 Herzogswalde (Buch 3)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/282528?pageId=39025810
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -282,3 +283,146 @@ Adolph Friedrich Ihle
 Christian Jacob Philipp
 Carl Gottlob Damm
 Carl Gottfried Schlicke
+----------------
+1820
+Carl Gottlob Teichmann
+Johann Gotthelf Schlicke
+Johann Gottfried Börner
+Carl Gottlob Schubert
+Christian Ehrenfried Pernt
+Johann Gottlieb Dittrich
+----------------
+Johann Gottlob Richter
+Gotthelf Friedrich Johne
+Johann Gotthelf Preusker
+Friedrich Leberecht Rüdiger
+Carl Gottlob Kühne
+----------------
+1821
+Johann Christian Gotthelf Faust
+Johann Gottlob Pietzsch
+Carl Heinrich Christoph Mißbach
+Johann Gottlob Eysold
+----------------
+Carl Gottlieb Schaal
+Johann Gottlob Kandler
+Johann Gottlieb Reichelt
+Johann Gottlob Gühne
+Johann Gottfried Kirchhüfel
+Carl Gottlieb Simon
+----------------
+Carl Gottlob Sohrmann
+1822
+Carl Wilhelm Ficker
+Johann Joseph Keller
+Johann Georg Pietzsch
+Johann Gotthelf Geißler
+----------------
+Johann Gottlieb Andrä
+Carl Gottfried Schubert
+Johann Gottlieb Kandler
+Johann Michael Prager
+Johann Gottlieb Andrä
+Johann Christian Gottlieb Lehmann
+Johann Gotthelf Kandler
+----------------
+1823
+Johann Gottlieb Zschocke
+Christian Gottfried Schönberg
+Carl Gottlob Hamann
+Johann Gottlieb Grimmer
+----------------
+Heinrich Christoph Pietzsch
+Friedrich Benjamin Patzig
+Carl Gottlieb Köhler
+Johann Gotthelf Pietzsch
+Carl Gottfried John
+----------------
+Johann Gottlob Böhme
+Johann Samuel Lange
+1824
+Ernst Friedrich Hofmann
+Johann Gottlieb Naumann
+----------------
+Christian Friedrich Adam
+Johann Gotthelf John
+Johann Gottlieb Schlicke
+Christian Gottlieb Wackwitz
+Johann Gottlieb Böhme
+----------------
+Carl Gottlieb Bormann
+Johann Gotthelf Mattheck
+Johann Samuel Zennig
+Johann Christian May
+Samuel Gottlieb Kunath
+----------------
+Johann Samuel Pfund
+Johann Gottfried Hennig
+Christian Wilhelm Lützner
+----------------
+1825
+Carl Gottlob Börner
+Johann Gottlob Kästner
+Johann Gottlob Simon
+Johann Gottfried Fischer
+----------------
+August Friedrich Krumbiegel
+Johann Christian Gottlieb Wittig
+Carl Gottlob Fritzsche
+Carl Gottlieb Schütze
+----------------
+1826
+Christian Gottlob Pohle
+Carl Benjamin Göpfert
+Johann Gotthelf Engelmann
+Carl Samuel Lorenz
+August Gotthelf Linke
+----------------
+Carl Friedrich Hofmann
+Carl Gottlob Rüdiger
+Johann Gottlob Tenzel
+Carl Gottfried Börner
+Johann Georg Andrä
+----------------
+Carl August Lorenz
+1827
+Johann Friedrich Feind
+Georg Witzschas
+Carl Gottlieb Müller
+Johann Gottfried Hamann
+----------------
+Carl Gottfried Hetasch
+Johann Gottlieb Kramer
+Carl Gottlob Paul
+Carl Gotthelf Leberecht Dirtrich
+Gottlieb Adolph Stein
+----------------
+1828
+Carl August Butter
+Johann Gottlob Lindner
+Carl Gottlieb Lange
+Friedrich August Kirchner
+Johann Gottlob Lange
+Johann Gottfried Wolf
+----------------
+Johann Gottlieb Sonntag
+Johann Friedrich Fischer
+Carl August Zieger
+Carl Gotthelf Heine
+Johann Gottfried Naumann
+----------------
+1829
+Johann Gottlob Göhler
+Johann Georg Herrmann
+Carl Gottlieb Köhler
+Johann Gotthelf Gäbisch
+Gottfried Simon Stohn
+Christian Friedrich Heinritz
+----------------
+Carl Gottfried Müller
+Johann Gottlieb Schlegel
+Carl Friedrich August Zieger
+August Friedrich Rieder
+Carl Friedrich Weise
+----------------
+Christian Gotthelf Streller

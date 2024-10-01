@@ -1,5 +1,5 @@
 Grumbach (Buch 7)
-Trauungen 1792-1819
+Trauungen 1792-1821
 https://www.archion.de/de/viewer/churchRegister/282518?pageId=39024349
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 1 Stunde
 August 2023
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -625,3 +626,40 @@ Johann Christian Eger
 ----------------
 Johann Gottlieb Lehmann
 Christian Gottlob Kießlich
+1820
+Johann Gabriel Täglich
+Johann Traugott Werner
+Gotthelf Friedrich Weißbach
+Johann Traugott Büttner
+----------------
+Johann Adolph Pietzsch
+Johann Gottlieb Kühne
+Johann Gottlob Eger
+Johann Gottlieb Ditrich
+Johann Gottlob Richter
+Johann Gottlieb Pinkert
+----------------
+Johann Gottlieb Rüdiger
+Gottlieb Ephraim Gräfner
+Carl Gottlob Kühne
+1821
+Carl Christoph Berthold
+Carl Gottlob Winkler
+----------------
+Johann Georg Ritter
+Johann Gottlieb Adam
+Friedrich Eduard Häntzsche
+Johann Gottlieb Löwe
+Johann Christian Schmidt
+----------------
+Johann Gottfried Röthig
+Heinrich Adolph Wendt
+Johann Gottlieb Rölbig
+Johann Gottlob Müller
+----------------
+Johann Gottlieb Fährmann
+Carl Gottlob Helas
+Johann Gottlieb Köhler
+August Günther
+----------------
+Carl Gottfried Döhnert
