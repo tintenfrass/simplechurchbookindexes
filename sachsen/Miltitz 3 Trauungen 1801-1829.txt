@@ -1,5 +1,5 @@
 Miltitz (Buch 3)
-Trauungen 1801-1819
+Trauungen 1801-1829
 https://www.archion.de/de/viewer/churchRegister/283156?pageId=39147935
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 0,5 Stunden
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -137,3 +138,54 @@ Johann Gottlieb Wittig
 Carl Gottlieb Löwe
 ----------------
 Carl Gottlieb Weber
+1820
+Carl Gottlob Leidert
+Johann Gottfried Gläsche
+Friedrich Wilhelm Rublack
+Johann Christoph Böttcher
+1821
+Johann Gottfried Zocher
+1822
+Johann Christian Traugott Gühne
+Christian Gottlob Hofmann
+----------------
+Johann Christian Windschüttel
+Friedrich Gotthelf Ziegehals
+Ernst Gotthold Christian Gottlieb Roehr
+Carl Gotthelf Wachsmuth
+1823
+Johann Daniel Windschüttel
+Carl Heinrich Schwäbe
+Christian August Meyer
+1824
+Carl Heinrich Lantzsche
+Johann Gottlieb Rotzsch
+----------------
+Johann Gottfried Legler
+1825
+Johann Carl Gottlob Märker
+Carl Gottlieb Lorenz
+Johann Christian Gottlob Rentzsch
+1826
+Johann Gottfried Wiegand
+Johann Gottfried Edlich
+Carl Friedrich Selbmann
+----------------
+Carl August Illig
+Gottfried Schöne
+Carl Gottlieb Dämmig
+1827
+Johann Gotthelf Schröter
+Johann Carl Gottlieb Kellert
+Johann Gottfried Hertsch
+Carl August Schreiber
+----------------
+1828
+Friedrich Wilhelm Wittig
+Carl Gottlob Wagner
+Gottlob Friedrich Beckold
+1829
+Johann Gottlob Mühlberg
+Johann Gottfried Steude
+August Ludwig Keilhauer
+Johann Gottlieb Philipp

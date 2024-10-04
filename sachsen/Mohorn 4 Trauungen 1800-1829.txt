@@ -1,5 +1,5 @@
 Mohorn (Buch 4)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/283160?pageId=39148949
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -7,9 +7,10 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunde
 Mai 2024
-Juöi 2024
+Juni 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -453,3 +454,235 @@ Carl Gottfried Schlicke
 Carl Heinrich Fischer
 Johann Gottlob Stirl
 Johann Gottlob Weinert
+----------------
+1820
+Carl Gottlob Schlimpert
+Johann Gotthelf Henker
+Heinrich Gotthold Meger
+August Friedrich Strauß
+Johann Gottlob Reif
+Johann Gottlob Frölich
+Johann Gottfried Schönberg
+Johann Gottfried Jäpel
+----------------
+Johann Gottlieb Pötschkr
+Friedrich Gottlieb Uhlemann
+Johann Gottlob Fritzsche
+Johann Gottlob Schmidt
+Karl Gottfried Krause
+Carl Heinrich Kirchner
+Christian Gottlob Johne
+----------------
+Christian Daniel Streubel
+1821
+Johann Gottlob Börner
+Johann Gottlieb Thomas
+Carl Gottlieb Dursel
+Johann Christoph Schmidt
+Johann Gottlob Fritzsche
+Daniel Frosch
+----------------
+Carl Gottlieb Schubert
+Carl Gottlieb Ficke
+Johann Gottfried Eiselt
+Carl August Johne
+Johann Gotthelf Greif
+Christian Gottlob Harzbecker
+Johann Gotthelf Lehmann
+Johann Christian Schöne
+----------------
+Carl Wilhelm Otto
+Johann Carl Christian Schube
+Johann Gottlieb Rüdiger
+Johann August Schumann
+Carl Gottlob Stirl
+Johann Gottfried Geißler
+Johann Gottlieb Börnert
+Johann Gottfried Lucas
+----------------
+Johann Gottfried Henker
+1822
+Johann Gottlieb Hofmann
+Christian Heinrich Junghans
+Johann Gottlob Funke
+Adalbert Buback
+Johann Gotthelf Geißler
+Johann Christian Zschoche
+----------------
+Carl Gottlob Schumann
+Carl Traugott Schütze
+Johann Gottlieb Kühne
+Carl Gottlob Fritzsche
+Johann Gottlob Lucas
+Johann Gottfried Barth
+Johann Gottlob Talkenberger
+Carl Gotthelf Fischer
+----------------
+Carl Gotthelf Eydner
+Carl Traugott Richter
+Carl Gottlieb Tachsel
+Carl Heinrich Breitfeld
+Johann Christoph Erler
+Johann Gottlob Hofmann
+Johann Gottlob Schröter
+----------------
+1823
+Carl Gotthelf Liebscher
+Johann Gotthelf Heyne
+Johann Leberecht Schumann
+Carl Gottlieb Bernhard
+Gottlieb Friedrich Haehnel
+Johann Gottlob Leuteritz
+Johann Gottlieb Ludwig
+Johann Georg Ludwig
+----------------
+Carl Heinrich Leberecht Schier
+Johann Gotthelf Pietsch
+Johann Gottlob Wetzig
+1824
+Johann Gottlob Gürtler
+Johann Wilhelm Hennig
+Johann August Schönfeld
+----------------
+Johann Gottfried Schubert
+Carl Gottlob Köhler
+Johann Gottlieb Schlicke
+Carl Friedrich Eydner
+Johann Gottlob Strohbach
+Karl Gottfried Liebschner
+Carl Gotthelf Richter
+----------------
+Carl Gottlob Bernhard
+Johann Gottlieb Böhme
+Johann Gottfried Küchler
+Johann August Simon
+Johann Gotthelf Schumann
+Johann Christoph Pietzsch
+Carl Gottlieb Thiele
+Carl Friedrich Roch
+----------------
+Johann Gottlieb Kühne
+Johann Gottlieb Albrecht
+1825
+Christian Traugott Uhlich
+Johann Gottlob Müller
+Johann Friedrich Kreische
+Johann Christoph Dürsel
+----------------
+Johann Gottfried? Wagner //korrigiert
+Johann Gottfried Hennig
+Johann August Ulbricht
+Gottlieb Benjamin Weinhold
+Johann Gottlob Hofmann
+Johann Christian Gotthelf Süring
+Carl Gottlieb Ilschner
+Franz Carl Seyfert
+----------------
+Johann Gottlob Fritzsche
+Johann Gottlob Leuteritz
+Carl Gottlieb Schütze
+Johann Gotthelf Schnür
+Johann Gotthelf Stelzer
+1826
+Johann Gottlieb Herrmann Grille
+Gotthelf Friedrich Ludewig
+----------------
+Johann Gottlieb Funke
+Johann Gottlieb Große
+Johann Gottlieb Hammer
+Johann Georg Mehlig
+Johann Georg Romberg
+Johann Gotthelf Leberecht Mühlberg
+Johann Gottlieb Rudolph
+Carl August Knabel
+----------------
+Johann August Weigel
+Adolph Schäfer
+Johann Gottlob Dittrich
+Christian Gottfried Weicholt
+Carl Gottlob Schlimpert
+Carl Adolph Gablenz
+Carl August Schlicke
+----------------
+Carl Gottlob Funke
+Carl Samuel Rudolph Zimmermann
+Johann Gottlieb Rüdiger
+Johann Gottlieb Schlicke
+----------------
+1827
+Friedrich Wilhelm Liebscher
+Carl August Irmer
+Johann Friedrich Feind
+Carl Gottfried Henker
+Carl Traugott Thiemann
+Johann Gottlob Bachmann
+Carl Christlieb Huhle
+----------------
+Carl Leopold Bormann
+Carl Gottlob Süßmilch
+Carl Gottfried Franke
+Carl Samuel Schlicke
+Johann Gottlieb Schumann
+Carl Gottlieb Müller
+Friedrich Wilhelm Opitz
+Johann Georg Haschke
+----------------
+Johann Gottfried Bachmann
+Johann Gottlieb Knäbel
+Carl Friedrich Wilhelm Küchenmeister
+Johann Christian Hoger
+Johann Christoph Geyer
+Johann Gotthelf Walther
+Johann Georg Fritzsche
+Friedrich August Kummer
+----------------
+Johann Gottlieb Gräfner
+Carl Gottlob Hempel
+Carl Gottfried Henker
+Friedrich Moritz Mettler
+1828
+Johann Gottlieb Poppe
+Carl Gotthelf Köhler
+Johann Christoph Thiele
+----------------
+Carl? Gottfried Wolf //korrigiert
+Carl Gottlieb Knabel
+Carl Christoph Metzler
+Johann Gottlob Lohse
+Carl Gottlieb Fleischer
+August Friedrich Fleischer
+Carl Gotthelf Stein
+Christian Gottlieb Böhme
+----------------
+Traugott Gotthelf Schreiber
+Carl Friedrich Zimmermann
+Friedrich Wilhelm August Böhme
+Carl Gottfried Funke
+Carl August Mühlberg
+Friedrich August Schlimpert
+Carl Gottlieb Bretschneider
+----------------
+1829
+Johann Gottlob Göhler
+Johann Gottfried Bernhard
+Friedrich August Funke
+Carl August Grellmann
+Carl Traugott Zimmer
+Carl Gottlob Winkler
+Carl Gotthelf Böhme
+----------------
+Carl Friedrich Wilhelm Opitz
+Heinrich Wilhelm Döring
+Johann Gottlob Fischer
+Carl Gottlieb Schütze
+Christian Friedrich Büttner
+Carl Friedrich Gottlob Knüpfel
+Johann Gottlob Leberecht Daeberitz
+Carl Gottlieb Burckhart
+----------------
+Carl Gottfried Müller
+Carl Gottlieb Schulze
+Johann Gottlieb Schlegel
+Carl Gottfried Zschokke
+Johann Gottlob Wagenknecht
+Carl Gottlob Stubenrauch
