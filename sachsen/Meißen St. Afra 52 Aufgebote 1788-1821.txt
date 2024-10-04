@@ -1,16 +1,20 @@
 Meißen St. Afra (Buch 52)
-Aufgebote 1792-1819
+Aufgebote 1788-1822
 https://www.archion.de/de/viewer/churchRegister/281130?pageId=38791816
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Zusätzlich sind einige Namen im Buch nicht klar lesbar, genauso in welchem Jahr die Trauung stattfand.
 
+Teil 1: Aufgebote
+Teil 2: Verlobungen
 
-Erstellt in ca. 3 Stunden
+
+Erstellt in ca. 3,5 Stunden
 September 2023
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1977,3 +1981,332 @@ Johann Christoph Uhser
 Johann Gottlob Görner
 Johann Gottfried Kirsten
 Johann Gottlob Rose
+----------------
+1820
+x
+Friedrich August Hahn
+Johann Gottlieb Thierbach
+Gotthelf Taubenheim
+Johann Gotthelf Schmidt
+Johann Christian Gottlob Kunze
+Johann Christian Stephan
+----------------
+Carl Heinrich Stückel?
+Christian August Sachse
+Johann Gottlob Ditrich
+Carl Gottlob Pappermann
+Johann Gottfried Wittig
+Johann Traugott Leberecht Lamm?
+Friedrich Baumann
+Johann Gottfried Zieger
+Carl Gottfried Schmidt
+Johann Gottfried Opitz
+----------------
+x
+Christian Gottlob Jacob
+Carl Gottfried Albrecht
+Georg Koch
+Johann Gottfried Proter?
+Carl Gottlieb Schatz
+Johann Gotthelf Heinrich
+Johann Gotthelf Ditrich
+Gottfried Leonhard
+Carl August Tagscheid?
+Johann Christian Gottlob Apt
+----------------
+Carl August Ziegenhals
+Johann Gottfried Zieger
+Friedrich Wilhelm Rullack?
+Gottlieb Wendt
+Johann Christlieb Janß?
+Gottlob Schöne
+Johann August Rotte
+Johann Gottfried Gühne
+Johann Carl Christoph Berner
+----------------
+Johann Gottlob Müller
+Andreas Carl Albrecht
+Christian Gotthelf Schrödter
+Heinrich Hans? Schmidt
+Christian Gottlob Fritzsche
+Johann Gottlob Reiche
+Johann Traugott Selig
+x
+Johann Traugott Striegler
+Carl Friedrich Förster
+----------------
+Johann Gotthelf Hörnig
+Johann Gottfried Heinrich
+Johann Carl Friedrich Philipp
+Wilhelm August Donner
+Johann Christoph Schnabel
+Johann Gottfried Kohl
+Johann Gottlieb Hommel
+Gottfried Frenzel
+Johann Gottlob Opitz
+----------------
+Johann Gottlieb Berisch
+Johann August Türke
+Johann Gottlieb Kotsch
+Johann Gottlob Emme?
+Johann Gotthelf Kluge
+Johann Gottfried Busch
+Johann Georg Gorgus
+Johann Gottfried Günther
+Johann Gottlob Zöllner
+----------------
+Wilhelm August Winckler
+Gottfried Ilschner
+Johann Gottlob Planitz
+Christian Gottlieb Hammer?
+Carl Wilhelm Fiedler
+1821
+Johann Christoph Schönert?
+Carl Gottfried Klahr
+Johann Christoph Pfützner?
+Friedrich August Groß
+Traugott Daniel Legler
+----------------
+Johann Traugott Nitzsche
+Johann Carl Gottfried Zschoche
+Johann Gottlieb Girsch
+Johann Christian Gottlieb Uhlmann
+Carl Gottlob Hahnfeld
+Johann Gottlieb Bärisch
+Johann Gottfried Ulisch
+Johann August Keller
+Johann Gottlob Schulze?
+----------------
+Johann Carl Gottlieb Buchmann?
+Johann Carl Bernsdorf?
+x
+Johann Gottlieb Lieder?
+Christian August Spingel
+Johann Gottlieb Gute
+----------------
+Johann Gottlob Lutsche
+Johann Traugott Möbius
+Johann Gottlieb Bielich
+Johann Gottlob Schneider
+Johann Karl Hausmann
+Johann Gottlieb Rühle
+Johann Christian? Seifert
+----------------
+Johann Gottlieb Haase
+Johann Gottlob Zocher
+Johann Gottlieb Pinker
+Johann Gotthelf Schantze
+Johann Friedrich Thalwitzer
+Friedrich August Wittig
+Johann Joseph Conrad
+Johann Ludwig Rüling
+----------------
+Johann Gottlob Opitz
+Friedrich August Stech
+Carl August Mann
+Rudolph Friedrich Junghans
+Johann Gottlob Sorge
+Johann Gottlob Michael
+Johann Gottlob Müller
+----------------
+Johann Carl Gottlob Kühne
+Carl Gottlob Richter
+Johann Georg Riedel
+Johann Gotthold Pappermann
+Johann Israel Hähnel
+Johann Gottlieb Roitzsch
+Carl Wilhelm Ernst Richter
+Johann Gottlob Hörig
+----------------
+Johann Gottfried Richter
+Carl Gottlob Seyffert
+Carl Fürchtegott Striegler
+Johann Gottlob Müller
+Johann Gottlob Drache
+---------------- x17
+1788
+Johann Traugott Schulze
+Rudolph Heinrich Dedekind
+Johann Samuel Friedrich
+Johann Gottfried Hummel
+Samuel Friedrich Hartemm?
+1789
+Gottfried Beulich
+Johann Gotthelf Leberecht Stephan
+Johann Gottlieb Gühne
+Johann Georg Moebius
+----------------
+Gottlob Mehlig
+Johann Daniel Rüdiger
+Gottlob Winckler
+1790
+Johann Gottfried Panier
+Johann Gottlob Pegenau
+Johann Gottlob Günther
+Johann Gotthelf Kleeberg
+Johann Gottfried Miersch
+Johann Gottlieb Rosberg
+Johann Gottlob Gühne
+Johann Christian Fischer
+Christian Beulich
+1791
+Johann Georg Saupe
+Johann Gottlieb Gühne
+Johann Georg Saupe
+Johann Gottlob Peisker
+Gottlieb Mehnert
+Johann Gottlob Hahn
+Friedrich August Müller
+Johann Gotthelf Hummitzsch
+Johann Gotthelf Schmidt
+Johann Christian Müller
+Johann Gottfried Starke
+1792
+Christoph Neugärtner
+----------------
+Johann Gottlob Dachsel
+Johann Gottfried Moritz
+Johann Gottlob Lunckwitz
+- Schlegel
+Johann Gottlieb Marx
+Johann Christian Starke
+Johann Christian Deisig
+Johann Carl Gottlieb Friedrich Leberecht Straus
+Johann Michael Stelzner
+Christian Traugott Melzer
+1793
+Mattheus Mück
+Johann Gottlob Hörig
+Johann Gottlieb Rühle
+Johann Gottlieb Starcke
+Johann Israel Freyer
+Johann Georg Klemm
+1794
+Johann Christoph Schönert
+Johann Gottlob Starcke
+Johann Christian? Dürichen
+Johann Gottlieb Martin
+Johann Gottfried Pfizner
+Johann Gottfried Fellwock
+Christian Gottlieb Stelzer
+?
+1795
+Gottlob Müller
+Gottlob Köhler
+----------------
+Johann Gottlob Steude
+Christoph Just
+Johann Gottfried Kunad
+Johann Gottlieb Ranft
+1796
+Johann Jacob Schneider
+Johann Gottlob Buchert
+Johann Gottlob Mohn
+Johann Christoph Görbisch
+Johann Georg Hempel
+Johann Christoph Saürich?
+Johann Gottlieb Faulwaßer
+1797
+Gottlieb Ke?
+Gottlob Hübner
+Johann Gottlieb Wilschig
+1798
+Johann Georg Mehnert
+1799
+Johann Gottfried Hoffmann
+Johann Gottlob Antrag?
+Johann Christian Müller
+Gottlieb Rosberg
+1800
+Christoph Bernhart
+August Börner
+?
+1801
+Johann Gottfried Gehre
+Johann Michael Leonhard
+Christian Sachse
+1802
+Johann Christoph Knoblauch
+Johann Gottfried Hoffmann
+Johann Gottfried Sprößig
+----------------
+Johann Samuel Hahrmann?
+Johann Gottlob Zschoche
+Johann Gottlob Töpold
+Johann Gottfried H?
+1803
+Gottlob Währmann?
+Johann Gotthelf Adam
+Johann Gottfried Arndt
+Johann Gottfried Krause
+1804
+Johann Gottfried Hausdorf
+Johann Gottlieb Hoffmann
+Johann Gottlob Carl Altermann
+August Heinrich Franke
+Johann Traugott Herzog
+1805
+Carl Heinrich Berge
+Johann Gottlieb Lehmann
+Georg Schnee
+Traugott Ziegenhals
+Johann Gottfried Zschützel
+Gottfried Lange
+- Leutrich?
+Johann Gottfried Zschirmer
+1806
+Johann Gottlob Münch
+1807
+- Beuchel
+Johann Gottfried Wamme?
+Johann Gottlieb Ranft
+Johann Georg Rosberg
+1808
+Johann Gottlob Koch
+Johann Gottfried Fichtner
+Johann Georg Fähr?
+Carl Gottlieb Lippert
+Johann Gottlob Schmidt
+Johann Gottlieb Dörschel?
+1809
+Johann Gottlob Starcke
+Johann Gottlob Kümmelberger
+----------------
+Johann Georg Müller
+Johann Gottfried Pinkert
+1810
+Johann Gottlob Krause
+Johann Gottlob Starcke
+Johann Georg Rosberg
+1813
+Johann Andreas Heinrich?
+Daniel Mögel
+?
+Johann August Vetter
+1814
+Johann Gottlieb Mahner?
+Johann Gottlob Grille
+- Dörigen?
+Johann August Müller
+1815
+Johann Christoph Marschall
+1816
+Johann Georg Tauchert
+- Keil
+Johann Traugott Hahn
+1817
+Johann Gottlieb Thieme?
+Gottfried Haase
+1818
+August Ziegenbalk
+Samuel August ?
+1820
+Christian Gottlob Jacob
+----------------
+Johann Christian? Klunker
+Johann Carl Gottlob Haupt
+Johann Gottfried Lamm
+----------------
+Johann Christoph Hempel
+Johann Gottfried Teichert
+x
