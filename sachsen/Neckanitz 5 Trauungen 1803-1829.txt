@@ -1,14 +1,15 @@
 Neckanitz (Buch 5)
-Trauungen 1803-1819
+Trauungen 1803-1829
 https://www.archion.de/de/viewer/churchRegister/283191?pageId=39155504
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -231,3 +232,131 @@ Johann Gottlob Marcus
 Gotthelf Seewald
 Carl Gotthelf Köhler
 Johann Gottlob Hennig
+----------------
+1820
+Johann Gottlieb Pappermann
+Johann Christian Eulitz
+Johann Christian Gottlieb Schumann
+Johann Gotthelf Zschernig
+Carl Gottlob Lorenz
+----------------
+Johann Gottlob Jacob
+Johann Christian Lorenz
+Johann Gottlieb Burkhard
+Johann Christian Möbius
+Johann Gottlob Klingner
+Friedrich Leberecht Schmorl
+----------------
+Carl Gottfried Seidel
+Johann Gottlieb Meding
+Johann Friedrich Thürmer
+----------------
+1821
+Carl Gottlob Schuster
+Carl Gottlob Möbius
+Friedrich Anton Oettel
+Johann Gottlob Schaaf
+Johann Gottlieb Mirisch
+----------------
+Johann Gottlieb Steude
+Johann Gottfried Heinert
+Johann Gottfried Pötzsch
+Johann Gottlob Altendorf
+----------------
+1822
+Johann Carl Christoph Schramm
+Johann Gottlob Wolf
+Christian Gottlieb Clauß
+Johann Gotthelf Schoenberg
+----------------
+Johann Gottlob Portig
+Johann Gottlob Benedix
+Johann Gottfried Starke
+Johann Gottfried Gast
+----------------
+Johann Gottlieb Gruhle
+Johann Gottlob Naumann
+Johann Gottlieb Clauß
+1823
+Johann Gotthelf Hildebrand
+Friedrich Gotthelf Pinker
+Carl Gottfried Mirisch
+----------------
+Johann Gottlieb Jacob
+Johann Gottlob Hempel
+Johann Gotthelf Hempel
+Johann Carl Gottlieb Pinker
+Johann Carl Gotthelf Jähnigen
+Gottlieb Nieße
+----------------
+Johann Traugott Klömichen
+Johann Samuel Opitz
+1824
+Johann Gottfried Reichard
+Johann Gottfried Steude
+Johann Gotthelf Liebe
+Friedrich Wilhelm Claus
+----------------
+Carl Gottlob Mierisch
+Johann August Kreher
+Gottlieb Heinrich Dankegott Weißbach
+Carl Gottlob Saupe
+----------------
+Johann Gotthelf Gast
+Johann Gottlieb Winkler
+1825
+Johann Gottlieb Luft
+Carl Gottlieb Fiedler
+Johann August Hinderdorf
+----------------
+Johann Gottlieb Zschoche
+Johann Christian Laeschge
+August Dietrich Lange
+Johann Christian Gottlib Reinhard
+----------------
+1826
+Johann Gotthelf Kirbach
+Johann Gottlieb Naumann
+Carl Gottlob Kreyser
+Johann Gottlieb Luft
+----------------
+Johann Gotthelf Schulze
+Johann Gotthelf Jahn
+Johann Gottlob Kirsten
+Johann Carl Friedrich Engelmann
+----------------
+1827
+Johann Gottfried Schneider
+Friedrich Wilhelm Jacob
+Johann Christian Gottlieb Lorenz
+Johann Friedrich Wilhelm Kühn
+Johann Gottlieb Schulze
+----------------
+Johann Christian Gottlob Handschack
+Carl Gotthelf Zschoche
+Friedrich August Heyde
+----------------
+1828
+Johann Gottlob Richter
+Friedrich Gotthelf Möbius
+Johann Gottfried Zieger
+Christian Gotthelf Sprößig
+Johann Gottlieb Altendorf
+----------------
+Johann Daniel Mehner
+Carl Traugott Hentzschel
+Johann Gottfried Reichert
+Carl Gottfried Hentzschel
+Johann Gottlob Krieger
+----------------
+Johann Christian Beger
+Johann Carl Gottlieb Lehmann
+1829
+Johann Gottlob Pönitz
+Johann Gottfried Reimer
+Heinrich Adolph Pflugk
+----------------
+Johann Traugott Fuchs
+Carl August Schurich
+Johann Gottlieb Reinhard
+Christian Friedrich Eckart

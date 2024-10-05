@@ -1,5 +1,5 @@
 Niederau (Buch 4)
-Trauungen 1810-1819
+Trauungen 1810-1829
 https://www.archion.de/de/viewer/churchRegister/283209?pageId=39158623
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -7,6 +7,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -87,3 +88,61 @@ Christian Gottlieb Hund
 Johann Gottlob Tutzsch
 Johann Gottfried Bischof
 Samuel Adam
+----------------
+1820
+Johann Gottfried Marx
+Johann Gottlob Zocher
+Johann Gottlob Jähnigen
+Johann Gottlob Schumann?
+Gottlob Schuhmann
+----------------
+1821
+Johann Georg Marx
+1822
+Johann Gottfried Meyer
+1823
+Johann Gottlieb Gellert
+Johann Gottlob Tutzsch
+Johann Gottlob Zabel
+----------------
+Johann Christian Hermann
+Johann Gottfried Mäser
+Samuel Lehrknecht
+Johann Gottfried Traugott Sohr
+Gottfried Vetter
+----------------
+1824
+Johann Christian Laux
+Johann Schiensen
+Johann Gottfried Mäser
+1825
+Johann Gotthelf Mohn
+Johann Gottlob Teichmann
+----------------
+Carl Gottlieb Hirsch
+Johann Gottfried Scheffler
+1826
+Christian Carl Dietze
+Johann Christian Mäser
+----------------
+Karl Gottlieb Kutsche
+Johann Christian Starke
+Johann Gottfried Dürichen
+Johann Christian Gottlob Leberecht Beulich
+Johann Gottlob Zocher
+Johann Traugott Müller
+----------------
+1827
+Johann Gottlieb Stiehler
+Samuel Schramm
+Johann Christian Holler
+1828
+Johann Gottfried Rothe
+----------------
+Johann Gottfried Schramm
+Johann Christian Peschel
+Johann Gottlob Weser
+1829
+Johann Gottfried Marx
+----------------
+Gottfried Grimmer

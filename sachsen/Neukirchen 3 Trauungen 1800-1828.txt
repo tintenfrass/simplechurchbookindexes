@@ -1,14 +1,15 @@
 Neukirchen (Buch 3)
-Trauungen 1800-1819
+Trauungen 1800-1828
 https://www.archion.de/de/viewer/churchRegister/283198?pageId=39156722
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -291,3 +292,101 @@ Johann Gottlob Grellmann
 Carl Gottlieb Gebauer
 ----------------
 Friedrich August Hörig
+1820
+Johann Gottlob Pietsch
+Johann Gottlieb Grahl
+Carl Gottlieb Götze
+Johann Gottfried Hammer
+----------------
+Carl Gottlob Scheumann
+Gottlieb Leberecht Beuchel
+Carl Gottlieb Lotze
+1821
+Johann Gottlob Poetsch
+Carl Gottlob Lorenz
+----------------
+Johann Gottlob Kaiser
+Karl Gottlieb Schlicke
+Gottlieb Herrnsdorf
+Johann Gottfried Henker
+Johann Traugott Geißler
+----------------
+Gottlieb Klunze
+Johann Friedrich Gaubig
+1822
+Johann Traugott Birkner
+Johann Gottlieb Sommer
+Johann Gottfried Bergel
+----------------
+Christoph Heinrich Krause
+Carl Gottlob Jäpelt
+Carl Gottlieb Dietze
+Carl Gottlieb Fröhlich
+Johann Andreas Wendler
+----------------
+Carl Gottfried Schubert
+Carl August Fritzsche
+1823
+Johann Gottlieb Müller
+Friedrich Reymann
+----------------
+Johann Georg Schirmer
+Johann Gottlob Poetsch
+Johann Gotthelf Günther
+1824
+Johann Gotthelf Pejer
+----------------
+Friedrich Adolph Bretschneider
+Carl Gottlob Preisker
+Johann Lehmann
+Johann Gottfried Krauspe
+----------------
+1825
+Johann Gottfried Arnhold
+Johann Gottlieb Simon
+Carl Gottlieb Richter
+Christian Gottlieb Fritsche
+----------------
+Johann Gottlieb Gabriel
+Johann Christian Kirsten
+Johann Friedrich Carl Lotze
+Johann Gottfried Grellmann
+Johann Gottlieb Gabriel
+----------------
+Adolph Friedrich Trepte
+Johann Gottlieb Dachsel
+Johann Friedrich Leberecht Döring
+Carl Christian Leberecht Winkelmann
+----------------
+Christian Gottlob Grübler
+Johann Gottlieb Birkner
+Johann Ehregott Damme
+Michael Heilmann
+Christian Friedrich Fleischer
+----------------
+1826
+Carl Friedrich Philipp
+Carl Gottlieb Dachsel
+Johann Gotthelf Fritzsche
+Carl Gottfried Berger
+Johann Christlieb Richter
+----------------
+1827
+Johann Gotthelf Wetzig
+Gottlieb Friedrich Harder
+Johann Gottfried Küttner
+Carl Gottlob Müller
+Samuel Eduard Kirbach
+----------------
+Carl Gottlieb Hase
+Johann August Poetzsch
+Johann Gottfried Geißler
+Johann Gottfried Porschütz
+----------------
+1828
+Johann Gottlieb August Preußer
+Johann Gotthelf Dietze
+Carl Gottlob Riemer
+----------------
+Carl Gottlob Grellmann
+Johann Gottlieb Taschenberger

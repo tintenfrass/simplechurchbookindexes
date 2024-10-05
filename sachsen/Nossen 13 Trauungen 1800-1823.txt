@@ -1,14 +1,15 @@
 Nossen (Buch 13)
-Trauungen 1800-1819
+Trauungen 1800-1823
 https://www.archion.de/de/viewer/churchRegister/289448?pageId=40220441
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stunden
+Erstellt in ca. 2 Stunden
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -860,3 +861,154 @@ Johann Gottfried Leonhard
 ----------------
 Johann Samuel Winckler
 Anton Moretti
+1820
+Johann Christoph Sorge
+August Leberecht Otto
+Johann Gottlieb Fischer
+----------------
+Gottlieb Kretzschmar
+Christian August Tamme
+Johann Carl Kummer
+Carl Heinrich Schneider
+Carl August Goetze
+----------------
+Johann Carl Gottlieb Wittig
+Carl Gottfried Schmidt
+Adrad? Friedrich Panndorf
+Johann Christian Carl Lindner
+Carl August Fischer
+Carl Wilhelm Funke
+----------------
+Carl Friedrich Schönstein
+Carl Lucius
+Carl Gottlieb Peeger
+Carl Gottlieb Fleischer
+Johann Gottlieb Schöne
+----------------
+Johann Gottlob Rost
+Johann Carl Gottlieb Schumann
+Johann Gottfried Händel
+Johann Gottlob Böttger
+Johann August Gottlob Kunze
+Carl August Klengel
+----------------
+Christian Gotthelf Lindner
+Carl August Porsdorf
+Christian Carl Gottlieb Schumann
+Carl Friedrich Hummitzsch
+----------------
+1821
+Christian Traugott Oemig
+Johann Gottlieb Loebel
+Carl Gottlieb Zschomler
+Carl Gottlob Haupt
+Carl Heinrich Preußer
+----------------
+Johann Gottlob Götze
+Johann Gottlob Becker
+Gottlob Friedrich Ludwig
+Christian Jacob Weinhold
+Carl Gottlob Claus
+Johann Gottlieb Hoppe
+----------------
+Johann Christian Jähnichen
+Gottlob Friedrich Schmidt
+Friedrich Gottlob Funke
+Johann Gottlieb Bauch
+Johann Gottlob Berndt
+Gottfried Heyde
+----------------
+Johann Gottlieb Zweiniger
+Johann Gottfried Mahn
+Friedrich Wilhelm Funke
+August Gottlob Naumann
+Carl Gottlieb Hofmann
+Carl Gottlob Merbitz
+----------------
+Johann Heinrich Schönberg
+Carl Gottfried Ficke
+Carl August Kliemann
+Carl August Bernhand
+Johann Gottlieb Richter
+Christian Gottfried Schröder
+----------------
+Johann Gottlieb Kühn
+Carl Friedrich Halfter
+Johann Gottlob Thiele
+Johann Gottlieb Rüdiger
+Carl Gottfried Klemm
+----------------
+1822
+Carl August Ludwig
+Christian Friedrich Kummer
+Christian Gottlieb Pinkert
+Georg Eduard Kliemannd
+Gottlieb John
+Carl Gottlieb Funke
+----------------
+Johann Gotthelf Seyffert
+Johann Gottlieb Schäper
+Johann Gottlieb Röder
+Ernst Friedrich Gustav Klinkhardt
+Johann Gottfried Kretzschmar
+----------------
+Johann Gottfried Ficke
+Traugott Leberecht Friedrich
+Johann Christian Franz
+Johann Carl Salomon Otto
+Johann Traugott Peege
+Johann Gottfried Horn
+----------------
+Johann Christian Leberecht Lauenstein
+Carl Heinrich Götze
+Christian Gottfried Schnecke
+Carl Gottlieb Fichtner
+Gustav August Schneider
+Carl Christoph Richter
+----------------
+1823
+Johann Gottlob Wedlich
+Johann Carl Gotthelf Reinhardt
+Johann Gotthelf Dienelt
+Johann Gottlob Sterl
+Johann Heinrich Gottlieb Kurze
+Johann Gottfried Wilhelm Sorge
+Carl Gottlob Peege
+----------------
+Carl August Göhrenz
+Johann Gottlob Lange
+Johann Gottfried Gabrig
+Carl Gottlob Heyde
+Carl Gottfried Schnecke
+----------------
+Carl Gottlieb Heinrich Forwerg
+Carl Traugott Burkmann
+Johann Gottlob Hetzel
+Christian Gottfried Glöckner
+August Friedrich Müller
+Johann Gottlieb Halfter
+Johann Hantusch
+----------------
+Friedrich Wilhelm Fritzsche
+August Friedrich Wagner
+Traugott Leberecht Mahn
+Carl Gottlieb Funke
+Johann Gottfried Kühn
+Carl Gottlob Moritz
+----------------
+Christian Wilhelm Pönitzsch
+Friedrich Wilhelm Praetorius
+Johann Gottfried Pötzsch
+Johann Michael Oehme
+Carl Gotthelf Schulze
+----------------
+Carl Gottfried Walther
+Wilhelm Schubert
+Traugott Leberecht Große
+Johann Georg Heinrich Hartmann
+Johann Christoph Vogel
+Johann Gottlieb Hofmann
+Friedrich Gottlob Pönisch
+----------------
+Carl Gotthelf Böttiger
+Friedrich Wilhelm Huyer
