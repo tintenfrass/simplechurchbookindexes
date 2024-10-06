@@ -1,5 +1,5 @@
 Rothschönberg (Buch 3)
-Trauungen 1801-1819
+Trauungen 1801-1829
 https://www.archion.de/de/viewer/churchRegister/289506?pageId=40233324
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -126,3 +127,57 @@ Carl Gotthelf Conrad
 1819
 Gottlieb Heinrich
 Carl August Hauptmann
+1820
+Johann Gottlob Steude
+Friedrich Wilhelm Funke
+Carl Rothenburg
+Johann Gottfried Döring
+1821
+Friedrich Wilhelm Sohr
+Johann Jacob Borngräber
+Johann Gottlob Porschütz
+----------------
+1822
+Carl August Lippmann
+1823
+Johann Gottlob Hackenberger
+Johann Carl Gottlob Seiler
+Carl Friedrich Gottlieb Stein
+Johann Gottlib Damme
+1824
+Carl Gottlieb Porschütz
+----------------
+----------------
+Carl Gottlob Barthel
+Johann Gottlob Hofmann
+1825
+Johann Christian Gotthelf Ehrlich
+Johann Friedrich Leberecht Döring
+Johann Gottfried Porschütz
+Friedrich Traugott Schützel
+Johann Georg Hauptmann
+----------------
+1826
+Johann Christian Geißler
+Johann Gottlieb Lange
+Friedrich August Schützel
+Carl Gottlob Lindemann
+Johann Gottlieb Fritzsche
+Johann Carl Gottlob Leuchner
+Johann Christian Gottlob Hamann
+1827
+Carl Gottlieb Roßberg
+----------------
+Carl August Barthel
+Johann Gottfried Porschütz
+Carl Gottlob Lommatzsch
+1828
+Friedrich August Eduard Rühle
+Friedrich Wilhelm Wild
+Johann Gottlieb Sonntag
+----------------
+1829
+Johann Carl Gottfried Silbermann
+Arthur Schoenberg
+Johann Gottlob Rösiger
+Friedrich Wilhelm Grätschel

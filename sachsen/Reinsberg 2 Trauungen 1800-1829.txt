@@ -1,5 +1,5 @@
 Reinsberg (Buch 2)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/289497?pageId=40272581
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -240,3 +241,117 @@ Johann Carl Friedrich Teuchert
 Johann Traugott Damm
 Gottlob Friedrich Steinbock
 Samuel Gottlob Flade
+1820
+Gottlob Küchenmeister
+Carl August Benhard
+Carl Gottlieb Götze
+----------------
+Johann Gottlob Krüger
+Johann Carl Gottfried Ludewig
+Carl Gottfried Krüger
+Johann Carl Gottlieb Esler
+Johann Peter Beckert
+Johann Christian Haupt
+Carl Gottfried Moostopf
+Traugott Friedrich Dietrich
+Johann Friedrich Wich?
+Friedrich August Manitz
+----------------
+1821
+Carl Gottfried Krüger
+Friedrich August Töpel?
+Christian Friedrich Bernhard
+Karl Friedrich Böhme
+Carl Gottlieb Kühne
+Friedrich Wilhelm Beeger
+Carl Christian Röllig
+1822
+Johann Gottlieb Krüger
+Friedrich Wilhelm Schroth
+----------------
+Heinrich Gottfried Bauer
+Johann Gottlieb Kandler
+Johann Gotthelf Martin
+Johann Traugott Händel
+Johann Gottlieb Schneider
+Carl Rudolph Adler
+Christian Gottlob Meyer
+Christian Gottlob Pallmann
+----------------
+Carl Gottlieb Dachsel
+Johann Gottlieb Sorge
+Karl August Lippmann
+Johann Gottlob Leberecht Schütze
+Johann Gottlob Hofmann
+1823
+Johann Gottlob Haupt
+Johann Georg Fischer
+Carl Gottlieb Ulbricht
+----------------
+Christian Leberecht Haubold
+Johann Christoph Richter
+Carl Gottlob Rost
+Johann Heinrich Johne
+Johann Carl Gottlib Roeder
+Christian August Hesse
+Carl Gottlieb Böhme
+Carl Gottlob Beger
+Johann Wilhelm Küchler
+----------------
+1824
+Carl Gottlob Silbermann
+Johann August Kunert
+Carl Christian Bernhard
+Carl Gottlob Siegert
+Johann Gotthelf Kaelka?
+Carl Friedrich August Damm
+Johann Carl Friedrich Rudolph
+Johann Gottlieb Schubert
+1825
+Johann Carl Gottlieb Gabriel
+----------------
+Carl Gottfried Weckbrod
+Carl Gotthelf Geißler
+Christian Gotthold Kind
+Johann August Günther
+Johann Carl Gottlob Schubert
+Johann Traugott? Damm
+Johann Gotthelf Leupold
+Johann Gottlieb Hayme
+Johann Christoph Thieme
+----------------
+1826
+Carl Leberecht Bayrich
+Johann Gotthelf Schubert
+Johann Christian Künzel
+Johann Gotthelf Kleeberg
+Carl Friedrich Hofmann
+Friedrich Gottlob Schmiedchen
+Carl Gottlieb Oelschlegel
+Johann Gottlob Riedel
+Johann Christoph Schubert
+----------------
+1827
+Johann Gottlob Schurig
+Friedrich Gotthold Köhler
+Johann Georg Gottlieb Naumann
+Carl Gottlieb Haupt
+Johann Traugott Ebert
+August Lobegott Ficke
+Johann Gottlieb Döhnert
+Johann Gottlob Diersche
+----------------
+1828
+Johann Gottfried Mann
+Carl Gottlieb Kiplig?
+Heinrich Traugott Heße
+Carl Friedrich August Beyer
+Carl August Schumann
+Johann Gottlieb Küchler
+1829
+Johann Gottlieb Schubert
+Carl Friedrich Wilhelm Rysel?
+----------------
+Johann Michael Limbach
+Friedrich Wilhelm Graetschel
+Carl Gottlob Schumann

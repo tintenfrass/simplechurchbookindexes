@@ -1,15 +1,16 @@
 Obergruna (Buch 4)
-Trauungen 1787-1819
+Trauungen 1787-1829
 https://www.archion.de/de/viewer/churchRegister/289468?pageId=40224865
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunde
 September 2023
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -430,3 +431,138 @@ Karl Friedrich Barthold
 Karl Gottlob Paul
 Johann Gottfried Häußner
 Karl Gottlieb Schlick
+----------------
+1820
+August Friedrich Klaußnitzer
+Johann Christoph Otte
+Gotthelf Silbermann
+Johann Friedrich Leberecht Wolf
+Johann Georg Lantsch
+Johann Christian Straube
+----------------
+Friedrich Lobegott Janicke
+Johann Carl Gottlieb Gebhard
+Johann Salomon Wolf
+Johann Friedrich Lösche
+Daniel Gottlob Böhme
+Johann Friedrich August Lantsch
+Johann Karl Gottfried Gebhardt
+----------------
+Johann Gottfried Paul
+1821
+Johann Gottfried Straube
+Wilhelm Friedrich Schneider
+Johann? Gottlieb Silbermann //Karl Gottlieb
+Johann Carl Friedrich Straube
+Karl August Teichert
+----------------
+Karl Gottlob Morgenster
+Karl Gottlieb Heumann
+Gotthelf Friedrich Grätz
+Samuel Friedrich Herrmann
+Johann Christian Friedrich Küttner
+Karl Christoph Michaelis
+----------------
+1822
+Johann Karl? Gottfried Silbermann
+Johann Gottlob Müller
+Johann Gottlieb Friedrich
+Karl Gottlieb John
+Johann Gottlob Kaiser
+Ehregott Imhof
+----------------
+Johann Gottfried Straube
+Johann Gottfried Tämel
+1823
+Karl Gottlieb Voigt
+Johann Ernst Streube
+Georg Gottfried Gehler
+Johann Karl Gottlob Hübler
+----------------
+Karl Gottfried Lantsch
+Karl Gottlob Fröbe
+Johann Gottlieb Reinhardt
+1824
+Johann Gottlob Silbermann //korrigiert
+Karl Friedrich Hummitsch
+Karl Friedrich Liebscher
+----------------
+Johann Adolph Stark
+Johann Gottlieb Günther
+Karl Friedrich Baumann
+Karl Gottlob Krumpfer
+Johann August Pfeifer
+Johann Carl Gottlieb Rüdiger
+Gottlob Knobauch
+----------------
+1825
+Johann Gotthelf Heumann
+Karl Gottlieb Kötting
+Martin Knoll
+Wilhelm Friedrich Meitzner
+Johann Carl Gottfried Peukert
+Johann Gottfried Heidrich
+----------------
+Johann Gottlob Böhme
+Friedrich Wilhelm Ralle
+Johann Karl? Gottlob Gebhard
+Johann Gottlob Küchemeister
+Johann August Liebe
+Johann Gottlob Räder
+----------------
+1826
+Karl Gottlieb Eidam
+Johann Gottfried Kreisig
+Salomon Friedrich Forwerk
+Johann Benjamin Büttner
+Johann Gottlieb Grundmann
+Johann Immanuel Jentzsch
+----------------
+Johann Ernst Erfurth
+Johann Christian Friedrich Schlick
+Johann Traugott Leberecht Gebhard
+Johann Gottfried Röder
+Johann Christian Ulbrich
+Johann Christoph Schuberth
+Johann Liebegott Schlick
+----------------
+1827
+Johann Gottlieb Straube
+Johann Gottlob Ehrenfried Wolf
+Christian Gottlob Lohse
+Karl Gottlieb Pährisch
+Abraham Heinrich Forwerk
+Friedrich Gotthold Köhler
+Johann Christian Stubenrauch
+Karl Gottlob Wagner
+----------------
+Karl Gotthelf Opitz
+Friedrich Ernst Horn
+Ehregott Friedrich Reichelt
+Karl Gottlob Leuschner
+Karl Friedrich Singer
+Christian Gottlob Rost
+----------------
+1828
+Johann Gottfried Mann
+Carl Gottfried Bräunsdorf
+Johann Carl Gotthelf Ranisch
+Carl Gottlieb Hanschmann
+Karl August Berger
+----------------
+Johann Gottfried Döring
+Gottlieb Leberecht Sparmann
+Johann Gottlieb Herbst
+Carl Gottlob Uhlmann
+Johann Gottlob Imhof
+Johann Gottlieb Lantzsch
+----------------
+Friedrich Adolph Herrmann
+Carl Gottlieb Stein
+1829
+Johann Carl Gottfried Silbermann
+Johann Carl Friedrich Straube
+----------------
+Ehregott Gottfried Halfter
+Lorenz Leberecht Wudermann
+Christian Friedrich Leberecht Christoph

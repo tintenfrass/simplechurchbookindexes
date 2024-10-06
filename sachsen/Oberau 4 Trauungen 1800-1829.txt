@@ -1,5 +1,5 @@
 Oberau (Buch 4)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/289461?pageId=40223208
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -153,3 +154,55 @@ Johann Gottfried Ockert
 Johann Gottfried Müller
 Georg Franz
 Johann Gottlob Köhler
+----------------
+1820
+Johann Gottlob Rändler
+----------------
+1821
+Johann Gottlob Gründe
+Johann Christoph Weser
+Johann Samuel Riemer
+Johann Gottlob Klotsche
+Carl Wilhelm Ernst Richter
+----------------
+1822
+Christian Gottlieb Münch
+1823
+Johann Gottlieb Gellert
+Johann Gottfried Schulze
+Johann Gottfried Traugott Sohr
+----------------
+1824
+Friedrich Gotthelf Grimmer
+Johann Michael Haupt
+Johann Christoph Stelzner
+1825
+Johann Christian Raendler
+Johann Gottlob Rühle
+Gottfried Rothe
+----------------
+Johann Gottfried Wendich
+1826
+Johann Christian Starcke
+Johann Gottfried Haase
+1827
+Johann Christian Rühle
+----------------
+Christian Gottlieb Miersch
+Johann Traugott Hermann
+1828
+Carl Gottlob Hornemann
+Friedrich August Reimann
+Johann Christian Thieme
+Johann Traugott Wendisch
+----------------
+Johann Gottfried Hausmann
+Johann Gottfried Schramm
+Johann Christian Rühle
+Johann Gottlob Berger
+----------------
+1829
+Johann Gottfried Marx
+Johann Gottlieb Rühle
+Carl Herrmann Menert
+Carl Friedrich Ebert

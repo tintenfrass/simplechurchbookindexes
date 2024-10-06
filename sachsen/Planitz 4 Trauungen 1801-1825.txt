@@ -1,5 +1,5 @@
 Planitz (Buch 4)
-Trauungen 1801-1819
+Trauungen 1801-1825
 https://www.archion.de/de/viewer/churchRegister/289474?pageId=40226145
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 0,5 Stunden
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -273,3 +274,73 @@ Johann Gottlieb Wittig
 Karl Gottlieb Nestler
 Georg Christoph Reitzenstein
 Johann Gottlieb Golde
+----------------
+1820
+Johann Karl Krumpf
+Karl Gottlob Börner
+Johann Gottlieb Zschäbitz
+Johann Gottfried Prater
+----------------
+Johann Gottfried Kohlstrunk
+Johann Gottlob Kubrasch
+Johann Christian Rost
+Johann Christian Thieme
+----------------
+1821
+Johann Christian Jahn
+Johann Christian Gottlib Uhlmann
+Johann Karl Gottlieb Kiersten
+----------------
+Gottlieb Striegler
+Christian Gottlieb Görne
+Johann Gotthelf Richter
+----------------
+Johann Gottfried Risse
+Johann Friedrich Traugott Heinrich
+Johann David Reese
+----------------
+Johann Gotthelf Funke
+1822
+Johann Gottfried Beger
+Johann Traugott Gansauge
+Johann Christian Mierisch
+Christian Gottlieb Manitz
+Johann Gottlob Köhler
+----------------
+Johann Gottlob Haußmann
+Johann Gottlob Borsdorf
+1823
+Johann Karl Gottlob Schubert
+Johann Gottlob Joseph
+Johann Gottlob Kleeberg
+----------------
+Johann Christian Büttner
+Johann Gottlob Riemer
+Johann Gottlob Weinert
+Johann Christian Hahnefeld
+----------------
+1824
+Johann Gottfried Gappisch
+Karl Heinrich Schmidt
+Karl Gottlob Höhme
+Gotthelf Leberecht Töpfer
+----------------
+Johann Gotthelf Görne
+Johann Gottlieb Leberecht Lützner
+Christian Gotthelf Hebenstreit
+Johann Gottlieb Schönberg
+----------------
+Karl Gottlob Riemer
+Johann Gottlob Philipp
+Johann Traugott Krause
+----------------
+1825
+Karl Gottlieb Günther
+Carl Gotthelf Starke
+Johann Gottfried Zieger
+Gottlob Ehregott Müller
+----------------
+Johann Gottfried Sparmann
+Johann Gottfried Rascher
+Johann Gotthelf Moritz
+Johann Gottlieb Ziegler
