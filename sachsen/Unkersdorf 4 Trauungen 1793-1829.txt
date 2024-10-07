@@ -1,5 +1,5 @@
 Unkersdorf (Buch 4)
-Trauungen 1793-1819
+Trauungen 1793-1829
 https://www.archion.de/de/viewer/churchRegister/289610?pageId=40255438
 
 
@@ -7,6 +7,7 @@ Erstellt in ca. 0,5 Stunden
 August 2023
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -200,3 +201,71 @@ Johann Georg Beger
 1819
 Johann Christoph Boske
 Johann Gotthelf Dachsel
+----------------
+1820
+Johann Gottfried Nicolaus
+Johann Gottlieb Schubert
+Wilhelm August Donner
+----------------
+Johann Gottlieb Heinrich Grafe
+----------------
+1821
+Carl Gottlob Welte
+Johann Gottlob Huhle
+Carl Gottlob Dachsel
+Johann Christian Fleischer
+----------------
+Johann Gottlieb Uhlemann
+Carl Gottlob Lotze
+Carl Gottlob Barth
+----------------
+1822
+Johann Friedrich Henze
+Gottlieb Herrndorf
+Franz Hartmann
+Johann Gotthelf Gießmann
+----------------
+1823
+Johann Gottlob Schulze
+Johann Gottlob Kunze
+Carl Gottlob Schaarschuch
+Matthäus Maucksch
+----------------
+1824
+Johann Gottlob Dachsel
+Johann Carl Gottlob Dechert
+Georg Brjesan
+Carl Gottlieb Pietzsch
+----------------
+Johann Carl Gottlieb Kippe
+Johann Gottlob Schaarschuch
+Johann Carl Gottlob Berger
+----------------
+1825
+Johann Gottlob Kutzsche
+Ferdinand Eduard Laban
+Johann Carl TraUgott Voigt
+----------------
+1826
+Carl Gottlieb Naumann
+Carl Gottfried Schubert
+Johann Gottfried Grein
+Johann Gottlob Berger
+----------------
+1827
+Carl Gottlieb Kirsten
+Johann Gottfried Schubert
+Johann Christlieb Irmer
+Johann Georg Ludewig
+Carl Gottlieb Lommatzsch
+----------------
+1828
+Carl Gottlieb Schubert
+Friedrich August Kretzschmar
+Johann Gottfried Ehrhard Beyer
+Johann Gottfried Hallas
+----------------
+1829
+Carl Gottlob Barth
+Johann Gotthelf Dietrich
+Carl Gottlob Hartwig

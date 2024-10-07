@@ -1,5 +1,5 @@
 Tanneberg (Buch 762)
-Trauungen 1801-1819
+Trauungen 1801-1829
 https://www.archion.de/de/viewer/churchRegister/289595?pageId=40251741
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -172,3 +173,81 @@ Johann Gottlob Fleischer
 Johann Gottlob Zschoche
 Friedrich August Schönberg
 Johann Christian Neidhardt
+----------------
+1820
+Carl Gottlieb Wolf
+Carl Gottlieb Felsner
+Johann Gottlob Birkner
+Johann Gottlieb Schlechte
+Gustav Adolph Schönberg
+Gottlob Leberecht Käppler
+----------------
+1821
+Johann Gottlieb Birkner
+Johann Gottfried Kost
+Carl Friedrich Adolph Uhlmann
+Johann Gottlob Schubert
+1822
+Johann Christoph Pfütze
+Johann Gottlob Tamm
+----------------
+Johann Gottlob Talkenberger
+Christian August Kießlich
+1823
+Johann Christian Naumann
+Carl Gottlieb Pahlitzsch
+Johann Gotthelf Irrmer
+Carl Gottlieb Grellmann
+Johann Gotthelf Teichmann
+----------------
+Johann Gottlob Dachsel
+Johann Georg Tümmich
+Christian Gottfried Dietrich
+1824
+Carl Gottlob Kießlich
+Johann Gottfried Grellmann
+Johann Georg Burkhardt
+----------------
+Johann Carl Gotthelf Thiele
+Carl Gottlob Schumann
+Carl Gottlieb Böhme
+1825
+Johann Gottfried Berger
+Johann Wanke
+Johann Gottlob Anders
+Karl Gottfried Dachsel
+----------------
+Johann Gotthelf Stelzner
+Johann Traugott Wirth
+1826
+Gottfried Leberecht Teichmann
+Johann Gottlieb Teichmann
+Wilhelm Leberecht Becker
+Johann Georg Gausauge
+Karl Gottlob Winkler
+1827
+Johann Gottlob Lutze
+Karl Gottlieb Schulze
+----------------
+Johann Gottfried Heßler
+Johann August Schnee
+Johann Gotthelf Stelzner
+Karl Leopold Bormann
+Johann Gottlob Neidhardt
+Johann Karl Gottlob Dachsel
+Johann Gottlob Tümmich
+Peter Joseph Swinnas
+Johann Christian Weber
+----------------
+1828
+Johann Gottfried Knaut
+Traugott Leberecht Johne
+Karl Gottlieb Schlegel
+Karl Gottlieb Lohse
+1829
+Karl Gottlob Winkler
+Johann Gotthelf Grellmann
+Johann Gottlob Geißler
+Johann Gottlob Gebhard
+Gottlieb Leberecht Jurisch
+Christlieb Geißler
