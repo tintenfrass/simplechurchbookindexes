@@ -1,15 +1,16 @@
 Ziegenhain (Buch 3)
-Trauungen 1781-1819
+Trauungen 1781-1826
 https://www.archion.de/de/viewer/churchRegister/289689?pageId=40270756
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunde
 Juni 2023
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -63,7 +64,88 @@ Johann Gottfried Richter
 Carl Gottlieb Frohberg
 ----------------
 Johann Christian Willsdorf
----------------- x17
+1820
+----------------
+Johann Gottlob Richter
+Johann Gottlieb Borsdorf
+Johann Carl Gottlob Wokewitz
+Johann Gottlieb Traugott Törsel
+----------------
+Johann Gottlieb Urban
+Johann Carl Gottlob Scheider
+Johann Gottlob Lommatzsch
+Johann Gottlob Götze
+Johann Gotthelf Voigt
+Friedrich Leberecht Schmorl
+----------------
+Johann Christian Lantzsch
+Johann Gottfried Patzig
+Johann Gottfried Erlich
+1821
+Christian Gotthelf Noack
+Johann Gottfried Striegler
+Johann Gottlieb Naumann
+----------------
+Carl Gottlieb Ebert
+Johann Christian Thielemann
+Johann Gottlieb Wackwitz
+Johann Gottfried Sorge
+Johann Gottlob Kühne
+Johann Carl Gottlob Stiehl
+Johann Gottfried Hänsel
+----------------
+Johann Gottlieb Müller
+Johann Gottfried Liebe
+Johann Gottlieb Ficke
+1822
+Johann Gottfried Hahn
+Carl Gottlob Lehmann
+Johann Gottfried Lippold
+----------------
+Johann Gottfried Zschoche
+Gottfried Naumann
+Carl Friedrich Liengen
+Gottfried Wilhelm Stroisch
+Johann Gottlob Damm
+----------------
+1823
+Johann Gottlieb Liebe
+Carl Gottfried Zschoche
+Carl Gottlob Weber
+1824
+Johann Gotthelf Leberecht Behrisch
+Christian Gottlieb Kleeberg
+----------------
+Christian Gottfried Thiele
+Christian Gotthelf Hebenstreit
+Johann Gottfried Schönert
+Johann Gottlieb Lanzsch
+----------------
+1825
+Johann Gottfried Kunitzsch
+Carl Gottlob Striegler
+Carl Gottfried Lange
+Carl Georg Pickert
+Johann Michael Ritter
+Carl Gottfried Bärwald
+----------------
+Friedrich August Stephan
+Carl Gottlob Mehnert
+Johann Gottlieb Eckhardt
+Friedrich Wilhelm Schreber
+Carl Wilhelm Wackwitz
+----------------
+1826
+Carl Gottlob Thieme
+Johann Gottlieb Ranft
+Johann Christian Saupe
+Johann Gottlob Hombsch
+Johann Gottfried Döring
+Christian Gotthelf Lehmann
+Carl Gottlieb Barth
+----------------
+Johann Gottlob Zschietig
+---------------- x6
 1781
 Johann Georg Hermann
 Johann Gottlob Sorge
