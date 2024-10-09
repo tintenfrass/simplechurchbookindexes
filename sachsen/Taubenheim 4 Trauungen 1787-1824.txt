@@ -1,16 +1,17 @@
 Taubenheim (Buch 4)
-Trauungen 1787-1819
+Trauungen 1787-1824
 https://www.archion.de/de/viewer/churchRegister/289600?pageId=40253276
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stude
+Erstellt in ca. 2 Stunden
 Juni 2023
 August 2023
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -668,3 +669,87 @@ Johann Jacob Schulze
 Friedrich August Käsemodel
 Johann Gottlob Grellmann
 Johann August Piekhard
+----------------
+1820
+Carl Gottlieb Zabelt
+Johann Gottlob Schulze
+Traugott Lehmann
+Johann Gottfried Hennig
+Carl Friedrich Zimmer
+Johann Gottfried Dieze
+Johann Georg Stelzer
+----------------
+Johann Gottfried Grelllmann
+Johann Gottfried Stelzner
+Johann Gottlieb Rüdiger
+Carl Gottlieb Schatz
+Johann Gottlieb Göbel
+Johann Gottfried Gläsche
+Johann Gottlob Lange
+----------------
+Johann Gottfried Döring
+Johann Gottfried Günther
+Johann Carl Gottfried Gebhardt
+1821
+Gottlob Stange
+Johann Gottfried Jäger
+----------------
+Carl Friedrich Schmiedgen
+Christian Friedrich Gottlob Thiele
+Johann Georg Maute
+Johann Gottlob Stelzer
+Johann Christian Trübe
+Carl Gottlob Schöne
+----------------
+Johann Gotthold Ulbrig
+Carl Gottlob Gottschald
+Johann Carl Gottlob Schubert
+Johann Traugott Bautzsch
+1822
+Carl Gottlieb Böhme
+----------------
+Johann Friedrich Köhler
+Carl Gottlieb Feldmann
+Johann Heinrich Naumnn
+Johann Gottfried Naumann
+Johann Gottfried Kleemann
+Johann Gottlob Winkler
+Carl Gotthelf Fischer
+----------------
+Johann Christlieb Hahn
+Johann Christian Windschüttel
+Johann Gottfried Bruchholz
+Johann Traugott Wilhelm Eckelmann
+1823
+Carl Friedrich Lutze
+----------------
+Johann Gottlieb Schöne
+Carl Gottlieb Adam
+Johann Gottlob Greißler
+Johann Carl Gottlieb Weber
+Johann Gottlob Voigt
+Johann Gottlieb Wittig
+Johann Gotthelf Just
+----------------
+Johann Gottlob Zschoche
+Carl Gottlieb Spaarmann
+Johann Georg Jänig
+Johann Christian Lanzsch
+Johann Gottlob Hahn
+Johann Gottlob Ringel
+Karl Heinrich Schwäbe
+----------------
+Johann Gottlob Kirsten
+Carl Gottlieb Funke
+Johann Carl Gottlieb Neubert
+Carl Gottlob Ritter
+Carl August Hofmann
+Carl Gottlob Lorenz
+Carl Gottlieb Starke
+----------------
+1824
+Johann Gottfried Barth
+Johann Gottfried Kuhnert
+Conrad Heinrich Kloß
+Carl Gottlob Wüstner
+Christian Gottlob Steiger

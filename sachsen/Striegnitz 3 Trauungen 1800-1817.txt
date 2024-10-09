@@ -1,5 +1,5 @@
 Striegnitz (Buch 3)
-Trauungen 1800-1809
+Trauungen 1800-1817
 https://www.archion.de/de/viewer/churchRegister/289583?pageId=40250298
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -7,6 +7,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
 Mai 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -120,3 +121,98 @@ Johann Friedrich Thürmer
 Johann Gottlieb Nessig
 Johann Traugott Tenner
 Johann Gottfried Wunderlich
+----------------
+1810
+Johann Gottlieb Tennert
+Johann Georg Schöwank
+Carl Gottfried Heinze
+Johann Daniel Komm
+Johann Georg Nikol
+Gottlob Beger
+Samuel Gottlieb Ulbrig
+Johann Gottfried Claus
+Christian Tennert
+Christian Traugott Tharand
+Johann Heinrich Schulze
+Johann Christian Lindner
+----------------
+1811
+Johann Gotthelf Moritz
+Johann Gottfried Hanke
+Johann Christian Schaaf
+Christian Gottlieb Fiedler
+Johann August Pabst
+Johann Gottlieb Wilhelm
+Johann August Nickol
+Johann Gottlob Mehnert
+Christian Gottfried Merzdorf
+Christian Weber
+----------------
+1812
+Karl Gottfried Görne
+Johann Gottfried Ehrlich
+Johann Christian Möbius
+Traugott Bachmann
+Johann Gottlob Hüfler
+Johann Gottfried Zänker
+Christian Gottlieb Zschernig
+Christian Gottfried Merzdorf
+Christian Ehrenfried Ganzsch
+Johann Christian Sickert
+Christian Gottlieb Beger
+Johann Christian Gottlob Hanefeld
+----------------
+Johann Gottlieb Schwarze
+Johann Gottlob Beger
+1813
+Johann Carl Pezold
+Johann Michael Wittig
+Johann Gottfried Zschalig
+Johann Georg Gühne
+Johann Gottlob Dörschmann
+Heinrich Gottwalt Richter?
+Johann Gottfried Meude
+Johann Georg Görne
+----------------
+1814
+Johann Christian Lorenz
+Johann Christian Oehmich
+Johann Christian Gottlob Pfeifer
+Friedrich Siegmund Kaule
+Christian Gottlob Winckler
+Christian Gottlieb Nickol
+Johann Georg Lanzsch
+Christian Naumann
+Christian Gottlieb Heinike
+Johann Gottlieb Richter
+Johann Gottlieb Hebestreit
+Johann Georg Ri?
+Johann Samuel Grimmer
+----------------
+1815
+Johann Gottfried Reiche
+Johann Christian Weber
+Johann Gottlob Röder
+Johann Gottlieb Winckler
+Carl Gottlob Stroisch
+Johann Peter Anpitz?
+Johann Gottlob Gruhle
+Johann Traugott Herschu?
+1816
+Johann Georg Panitz
+Johann Gottlieb Geiser
+Johann Gottfried Leberecht Fischer
+----------------
+Christian Gottlieb Gründling
+Johann Gottlob Merzdorf
+Johann Gottlieb Aurich
+Johann Gottlieb Zimmermann
+Johann Christian Schuster
+1817
+Johann Friedrich Roßberg
+Johann Gottfried Hilde
+Christian Samuel Dietrich
+----------------
+1815
+Johann Georg Richter
+Johann Georg Geusche?

@@ -1,5 +1,5 @@
 Zehren (Buch 3)
-Trauungen 1801-1819
+Trauungen 1801-1829
 https://www.archion.de/de/viewer/churchRegister/289677?pageId=40268641
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -7,9 +7,10 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 2 Stunde
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -566,3 +567,257 @@ Johann Gottlob Grellmann
 Johann August Gießmann
 Johann Gotthelf Friedrich Merlin
 Johann Gottlob Barth
+----------------
+1820
+Friedrich August Hahn
+Carl Gottlieb Wittig
+Carl Gottlob Seyfert
+Johann Gottlieb Groß
+Johann Gottlob Heinrich Fichtner
+Christian Gottlob Schürer
+Johann Gottlob Götze
+Johann Gotthelf Zschoge
+Johann Gotthelf Heinrich
+Johann Gottlieb Wunderlich
+Johann Gotthelf Winckler
+Christian Gottlieb Beger
+Carl August Ziegenhals
+Johann Gottfried Gruhle
+----------------
+Johann Gottlieb Oehmichen
+Christian Gotthelf Schröder
+Christian Gottlob Lantzsch
+Carl Friedrich Förster
+Johann Gottlieb Kotsch
+Christian Gottlieb Hamann
+Christian Gottlieb Zeisler
+Johann Gottlieb Schuber
+----------------
+1821
+Johann Georg George
+Johann Gottfried Benjamin Wendisch
+Johann Gottlieb Dietrich
+Johann Gottlob Schubert
+Johann Gottlieb Damm
+Johann Friedrich Traugott Prost
+Johann Gottfried Meider
+Johann Gottlieb Rühle
+Friedrich Wilhelm Riße
+Johann Gottfried Saalbach
+Johann Gottlieb Zeidler
+Johann Gottfried Schmidt
+Johann Leopold Pappermann
+----------------
+Johann Heinrich David Martini
+Carl Gottlob Schnee
+Johann Gottlob Helm
+Gottlieb Mühlstädt
+Carl Gottlob Curt
+----------------
+1822
+Friedrich Wilhelm Eulitz
+Johann Gottlob Lamm
+Johann Gottlieb Marx
+Johann Gottlob Rost
+Christlieb Leberecht Fährmann
+Johann Gottlob Schlechte
+Johann Gotthelf Dinndorf
+Christian Gottlieb Rolle
+Johann Gotthelf Jahn
+Carl Friedrich Jobst
+Johann Gottlob Zschoge
+Christian Gottlob Hofmann
+Christian Gottlieb Moritz
+----------------
+Johann August Geyger
+Johann Gottlieb Löwe
+Carl Gottfried Eucharius
+Johann Gottlob Fritzsche
+Christian Gottlieb Kestler?
+Johann Gottfried Meltzer
+Johann Gottlob Frantz
+Johann Christian Hofmann
+Carl Gottlieb Schirrschmidt
+Johann Gottfried Schlechte
+----------------
+1823
+Carl Gottlieb Schmidt
+Johann Gottfried August Marschner
+Gottlieb Traugott Müller
+Christian Gottlieb Mann
+Carl Ernst Blochwitz
+Christian Gottlieb Ulbricht
+Carl Friedrich Selig
+Carl Gottlob Weymann
+Christian Gottlieb Naumann?
+Christian Gottlieb Kluge
+Carl Gottlieb Rentzsch
+Johann Carl Gotthelf Schmidt
+----------------
+Johann Friedrich Traugott Weimert?
+Johann Gottfried Nacke
+Johann Andreas Götze
+Johann Gottlieb Seyfert
+Christian Gottlob Schurig?
+Christian Gottlieb Praßer
+Johann Gottlob Ziegenhals
+Johann Gottfried Kreßler
+Traugott Leberecht Starcke
+Peter Mith
+Carl Gottlob Beyrich
+Johann Christian Strehle
+Johann Gottlob Weinert
+Carl Wilhelm Roßberg
+----------------
+Carl Gottlob Lommatzsch
+Johann Gottlob Thiele
+Carl Gottlob Streubel
+Traugott Friedrich Butter
+----------------
+1824
+Johann Gottlieb Hofmann
+Carl Christian Leberecht Lorentz
+Carl Gottlob Eckhardt
+Johann Gottfried Roßberg
+Johann Gottfried Lehmann
+Andreas Gommlich
+Johann Friedrich Pincker
+Johann Gottlob Hofmann
+Johann Christian Jahn
+Johann Traugott Mehnert
+Carl August Ziecker?
+Johann Gottlob Geyer
+----------------
+Johann Gottlieb Dietrich
+Johann Gottfried Ziesche
+Johann Gottlieb Lommatzsch
+Johann Gottlieb Ostermey
+Johann Gottlob Schade
+Johann Gottlieb Neider
+Johann Ferdinand Kuntz
+Carl Gottlob Altermann
+Johann Gottfried Zchoge
+Johann Benjamin Becker
+Johann Georg Dohn
+----------------
+Christian Ludwig Thrän?
+Johann Gottlob Hildebrand
+----------------
+1825
+Carl Gottlieb Wittag
+Johann Gottlieb Brietze
+Friedrich Wilhelm Grimmer
+Carl Gottlob Hänschel
+Christian Schmidt
+Christian Wilhelm Schlechte
+Carl Gottlob Weber
+Christian Gottlieb Krause
+Franz Eduard Robert Steiger
+Johann Traugott Kluge
+Carl Gottlieb Seidel
+Carl Friedrich Hoyer
+----------------
+Johann Traugott Zieger
+Samuel Leberecht Seyfert
+Johann Christian Berger?
+Johann Traugott Lucas
+Johann Gottfried Schröer
+Johann Gottlob Meister
+Christian Gottlieb Fuchs
+Christian Gottlieb Dürigen
+----------------
+1826
+Wilhelm Schlegel
+Johann Gottlieb Herrmann
+Johann Gottfried Winckler
+Johann Gottlob Rößler
+Johann Christian Büttner
+Christian Gottlieb Bretschneider
+Johann Carl Gottlieb Andrä
+Johann Siegmund Riße
+Johann Gottlob Barth
+Christian Gottlob Eulitz
+Johann Carl Gotthelf Schmidt
+Johann Wilhelm Rühle
+----------------
+Carl Gottlieb Voigt
+Carl Gottlob Uhlmann
+Johann Wilhelm Riße
+Johann Gottlob Zchiedig
+Friedrich Wilhelm Müller
+Carl Gottlob Mietzelt
+Johann Gottlob Tümmel
+----------------
+1827
+Johann Gottlieb Schare?
+Carl Gottlieb Wolf
+Johann Gottfried Stein
+Johann August Fuchs
+Johann Gottlieb Lorentz
+Johann Gotthelf Greßler
+Johann Gotthold Scheuer
+Johann Gotthelf Hofmann
+Christian Gottlieb Lehmann
+Johann Gottlob Schöne
+Heinrich Moritz Frantz
+Johann Gottfried Hummitsch
+Johann Christian Klinger
+----------------
+Johann Carl Gottlob Jahn
+Carl Gottlieb Fuhrmann
+Gottlieb Leberecht Müller
+1828
+Johann Gotthelf Schwarze
+Gustav Ferdinand Martius
+Friedrich Gotthelf Möbius
+Johann Carl Gottlob Schwitzki
+Johann August Lukas
+----------------
+Johann Gottlob Ehrlich
+Johann Gottlob Naumann
+Johann Gottlieb Schrödter
+Karl Gottlieb Ritter
+Johann Carl Gottlob Hantzschmann
+Heinrich Wilhelm Matthes
+Christian Gottlieb Wachs
+Christian Gottlieb Naumann
+Karl Friedrich Roßberg
+Johann August Rost
+----------------
+Karl Gottlob Glauche
+Johann Gottfried Naumann
+Johann Gottfried Leberecht Herrmann
+Johann Gottlieb Melzer
+Friedrich Gotthelf Renzsch
+Karl Friedrich Bude
+Johann August Leberecht Pautzsch
+Johann Gottfried Kirsten
+----------------
+Karl Gottlob Grumbach
+Christian Gottlob Schützel
+Christian Gottlieb Lehmann
+1829
+Johann Gottfried Mattheß
+Christian Gottlieb Kade
+Karl Gottlob Löwe
+Karl Friedrich August Lindner
+----------------
+Johann Gottlob Lukas
+Heinrich Gottlob Seurig
+Karl Gottlieb Grimmer
+Johann Gotthelf Hentschel
+Johann Christian Gottlieb Barth
+Johann Friedrich Traugott Beyrich
+Johann Gottlob Döbel
+Christoph Wilhelm Schneider
+Karl Christian Gottlieb Damm
+Karl Gottlob Hetzel
+----------------
+Christian Gottlieb Schreiber
+Friedrich August Streubel
+Karl Gottlieb Clauß
+Johann Christian Gottlieb Weinert
+Johann Gottfried Häfer
+Johann Traugott Leberecht Müller
+Karl Friedrich Niklas
+Johann Traugott Schietzel
