@@ -1,14 +1,15 @@
 Dorfchemnitz (Buch 56)
-Trauungen 1801-1819
+Trauungen 1801-1829
 https://www.archion.de/de/viewer/churchRegister/340875?pageId=47879473
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -299,3 +300,215 @@ Carl Friedrich Dienel
 Johann Gottlieb Fischer
 Johann Gottlob Büschel
 Traugott Friedrich Schlesier
+----------------
+1820
+Carl Friedrich Stiehl
+Gottlob Friedrich Zämmmrich
+Johann Gotthelf Lippmann
+Carl Friedrich Gloeckner
+Carl Gottlieb Schneider
+Carl Gottlob Nestler
+Carl Gottlob Erler
+Friedrich August Eismann
+Carl Friedrich Ferdinand Richter
+----------------
+Ehregott Leberecht Herrmann
+Traugott Friedrich Gloeckner
+Johann Georg Büschel
+Carl Friedrich Erler
+August Traugott Fischer
+Carl Friedrich Lippmann
+Christian Traugott Kaulfuß
+Johann Christoph Griesbach
+----------------
+Carl Friedrich August Kreller
+Carl Gottlieb Schmieder
+Johann Michael Tippmann
+1821
+Johann Friedrich Martin Kaulitz
+Carl August Schlesier
+Johann Gottfried Griesbach
+Carl Friedrich Herrmann
+----------------
+Adam Friedrich Drechsel
+Carl Gottlieb Traeger
+Christian Friedrich Strauß
+Christian Gottlieb Fuchs
+Ferdinand Rudolph
+Carl Friedrich Köhler
+Christian Gottlieb Ihle
+Johann Christian Friedrich Erler
+Gottfried Griesbach
+----------------
+Carl Gotthelf Leibner
+Johann Georg Friedrich Bellmann
+Carl Friedrich Schönberg
+Gotthold Friedrich Kaltofen
+Adolph Ferdinand Walther
+Carl Gottlieb Herrklotz
+Carl Friedrich Lohse
+----------------
+Christian Friedrich Lippmann
+1822
+Carl Heinrich Glöckner
+Carl Gottlob Franz
+Johann Friedrich Glöß
+Johann Carl Gottlob Wolf
+Samuel Friedrich Ficker
+Carl Gottlob Lippmann
+Johann Christoph Gottlob Büschel
+----------------
+Karl? Adolph Naumann //korrigiert
+Christian Carl Meyer
+Samuel Friedrich Uhlmann
+Adolph Friedrich Göpfert
+Reinhard Gottlieb Neuber
+Gotthelf Friedrich Griesbach
+Johann Christoph Erler
+----------------
+1823
+Carl Friedrich Dineel
+Christian Gottlob Zaemmrich
+Carl Gottlob Schramm
+Carl Gottlob Büschel
+Carl Gottlob Müller
+Carl Gottlieb Kaden
+Wilhelm Ehregott Heinig
+Gottlob Reichert
+----------------
+Carl Friedrich Naumann
+Carl Gotthelf Schlesier
+Christian Gottlieb Rupprecht
+Carl Adolph Beyer
+Carl Friedrich Fischer
+Wilhelm Friedrich Harzer
+Johann Gotthold Friedrich Sandig
+----------------
+Carl Gottlob Börner
+Johann Traugott Lohse
+Carl Gottlieb Göhler
+Christian Friedrich Kreller
+Johann Gottfried Reichelt
+Carl Gottlob Köhler
+Christian Friedrich Wagner
+Carl Friedrich Leipner
+----------------
+1824
+Christian Gottlieb Liebscher
+Georg Gotthold Kaden
+Traugott Friedrich Gehler
+Carl Wilhelm Feller
+Christian Friedrich Gloeß
+Johann Gottlob Kaden
+----------------
+Carl Gottlieb Fröbel
+Carl Gottlieb Hunger
+Johann Georg Arnold
+Carl Friedrich Lohse
+Friedrich Fürchtegott Hennig
+Carl Traugott Franke
+----------------
+1825
+Traugott Friedrich Dienel
+Carl Friedrich Claußnitzer
+Carl Gottlieb Härtig
+Johann Gottlieb Erler
+Gotthold Friedrich Kunze
+Carl Gottlieb Günther
+Gottlieb Leberecht Illig
+----------------
+Carl Gottlob Fischer
+Christian Friedrich Griesbach
+Christian Friedrich Thiers
+Christian Gottlieb Erler
+Joseph Gruber
+1826
+Gottlob Leberecht Lohse
+----------------
+Friedrich Fürchtegott Tippmann
+Carl Friedrich Beyer
+Johann Gottlieb Braun
+Carl Friedrich Herold
+Georg? Gottlieb Friedrich Matthes
+Carl Gottlieb Schlegel
+Johann Traugott Fischer
+----------------
+Thielemann Thiele
+Friedrich Wilhelm Schmidt
+Carl Gottlieb Braun
+Friedrich August Schubert
+Johann Gottfried Bergmann
+Traugott Griesbach
+Johann Gottfried Gehler
+----------------
+August Friedrich Göpfert
+Johann Traugott Tanneberger
+Friedrich Gottlieb Richter
+Christian Gottlieb Tanneberger
+Carl Friedrich Dienel
+Johann Christoph Dienel
+----------------
+1827
+Christian Adam Bellmann
+Carl Gottlieb Börner
+Johann Gottfried Schramm
+Carl Gottlob Strauß
+Johann Adam Friedrich Horn
+Carl Gottlob Schneider
+Carl Wilhelm Schlesier
+Johann Gotthelf Schmieder
+----------------
+Carl Friedrich Griesbach
+Carl Gottlob Fischer
+Gotthelf Friedrich Herrmann
+Johann Gottfried Erler
+Johann Christoph Schubert
+Salomon Friedrich Dienel
+----------------
+Johann August Drechsler
+1828
+Johann Gottlieb Schubert
+Johann Friedrich Glöß
+Christian Friedrich Kaulfuß
+August Friedrich Rudolph
+Johann Traugott Erler
+----------------
+Christian Friedrich Griesbach
+Carl Friedrich Seyfferth
+Carl Friedrich Buschmann
+Christian Benjamin Fischer
+Friedrich August Kreller
+August Friedrich Griesbach
+Johann Carl Gottlob SchneiderHeinze
+----------------
+Johann David Hartwig
+Christian Friedrich Krause
+Friedrich Fürchtegott Schneider
+Christian Friedrich Wagner
+Carl Traugott Friedrich Gloeß
+Johann Traugott Fischer
+----------------
+1829
+Friedrich Ehregott Kunze
+Carl Gottlieb Horn
+Carl Gotthelf Kreller
+Christian Friedrich Heinrich
+Traugott Friedrich Leberecht Hieckel
+Carl Gottlob Obst
+Johann Christoph Kunze
+----------------
+Christian Gottlob Müller
+Johann Gottlieb Kempe
+Carl Gottlieb Scherber
+Carl Gottlieb Griesbach
+Johann Christoph Gloeß
+Carl Gottlieb Große
+August Friedrich Heinrich
+Reinhard Friedrich Lippmann
+----------------
+Carl Friedrich August Götzel
+Christian Friedrich Fischer
+Carl Gottlieb Börner
+Johann Traugott Lippmann
+Traugott Friedrich Trampe
+Christian Friedrich Stiehl

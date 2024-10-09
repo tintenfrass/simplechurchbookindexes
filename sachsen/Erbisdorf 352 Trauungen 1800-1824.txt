@@ -1,5 +1,5 @@
 Erbisdorf (Buch 352)
-Trauungen 1800-1819
+Trauungen 1800-1824
 https://www.archion.de/de/viewer/churchRegister/359738?pageId=50650124
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -7,9 +7,10 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Filialkirche St. Michaelis
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -358,4 +359,108 @@ Carl Gottlob Walther
 Carl Samuel Götze
 Johann Gottlieb Hähnel
 Carl Friedrich Engelhardt
-Carl Friedrich Lorentz
+Carl Friedrich Lorenz
+----------------
+1820
+Carl Gottlob Metzger
+Johann Jacob Richter
+Carl Gottlob Merkel
+Carl Friedrich Klemm
+Johann Friedrich Hoyer
+Samuel Friedrich Mehner
+----------------
+Domin? Gottfried Dietrich
+Johann Christoph Morgenstern
+Johann Benjamin Göpfert
+Carl Friedrich Zimmermann
+Benjamin Friedrich Bellmann
+Carl Gottfried Strauß
+----------------
+Johann Gottfried Kaltofen
+Carl Gottlob Feudel
+Johann Jacob Schmidt
+Johann Carl Friedrich Letsch
+----------------
+1821
+Carl Gottlob Helbig
+Gotthelf Friedrich Müller
+Johann Gottlob Sandig
+Traugott Friedrich Hofmann
+Traugott Lebrecht Oesterreich
+----------------
+Johann David Benjamin Preisler
+Carl Friedrich Just
+Carl Friedrich Göpfert
+Carl Friedrich Adolph Winkler
+Carl Friedrich Oehme
+Carl Traugott Friedrich Köhler
+----------------
+Carl Gottfried Griemer
+Carl Gottlob Lohse
+Karl Gottlieb Köhler
+Traugott Friedrich Sadig
+Fürchtegott Leberecht Rudolph
+Carl Gottlob Schlimpert
+Christ Ehregott Franz
+----------------
+1822
+Ehregott Leberecht Butze
+Carl August Hübner
+Friedrich Ehregott Hoepner
+Carl Elias Heber
+Carl Friedrich Ruppert
+Johann Gottfried Helbig
+----------------
+Carl Gotthelf Wagner
+Leberecht Müller
+Samuel Friedrich Schubert
+Samuel Leberecht Jenner
+Carl Gottlob Harklotz
+----------------
+Carl Gottfried Lorenz
+Traugott Friedrich Kroll
+Gotthelf Heinrich Greifenhagen
+Carl Gottfried Leberecht Fischer
+----------------
+1823
+Carl August Winkler
+Johann Heinrich Köhler
+Carl Gottlob Zimmermann
+Carl Friedrich Krause
+Johann Gottlieb Schmidt
+----------------
+Traugott Friedrich Leberecht Schenke
+Carl Traugott Lempe?
+Christ Friedrich Bibbig
+Carl Gottlob Botter
+David Friedrich Mehner
+----------------
+Johann Gottlieb Kliemann
+Traugott Friedrich Watzner
+Carl Gottlieb Mehner
+Carl Gottfried Leberecht Fischer
+Carl Gottlieb Schmidt
+----------------
+Johann Traugott Helbig
+Johann Gotthelf Letsch
+Samuel Friedrich Winkler
+Johann August Schramm
+Carl Gottfried Veit
+----------------
+1824
+Johann Benjamin Schmidt
+Carl August Schubert
+Samuel Friedrich Haubold
+Ehregott Leberecht Weiße
+Carl Gottlieb Schubert
+----------------
+Gotthelf Friedrich Andrea
+Samuel Friedrich Börner
+Carl August Köhler
+Johann Gottfried Schmidt
+Johann Carl Friedrich Kempe
+----------------
+Carl Friedrich Kreher
+Johann Christoph Kuehn
+Johann Gotthelf Holze
+August Friedrich Herklotz

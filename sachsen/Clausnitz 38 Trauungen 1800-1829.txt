@@ -1,5 +1,5 @@
 Clausnitz (Buch 38)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/340836?pageId=47871545
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 1 Stunde
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -284,3 +285,132 @@ Christian Gottlieb Loose
 ----------------
 Carl Gottlieb Gehmlich
 Carl Friedrich Müller
+1820
+Gotthelf Friedrich Heerklotz
+Gottlob Friedrich Zämmrich
+Christian Gottlob Müller
+Gotthelf Friedrich Neubert
+Wilhelm Ferdinand Schönherr
+----------------
+Gottlob Friedrich Wagner
+Gotthelf Friedrich Köhler
+Christian Gottlob Erler
+1821
+Friedrich Fürchtegott Lippmann
+Carl Friedrich Börner
+Christian Gottlieb Richter
+----------------
+Johann Christoph Friedrich Andreas
+Johann Reinhard Friedrich Morgentern
+Carl Gotthold Matthes
+Adam Friedrich Wolf
+Carl Friedrich Heerklotz
+Carl Gottlieb Hegewald
+----------------
+Adam Friedrich Freyberger
+Christian Friedrich Lippmann
+Christian Friedrich Liebscher
+1822
+Carl Gottlieb Thiele
+August Friedrich Schlegel
+Carl Friedrich Wagner
+Gottlieb Müller
+----------------
+Christian Gottlob Kaden
+Gottlob Kaden
+Reinhard Gottlieb Neubert
+Traugott Friedrich Wolf
+Christoph Löschner
+1823
+Johann Christoph Fischer
+Christian Gottlob Schmerser
+----------------
+August Leberecht Beckert
+Christian Gottlob Zämmrich
+Christian Friedrich Müller
+Johann Gottlieb Müller
+Johann Georg Dietrich
+Carl Friedrich Wolf
+----------------
+Christian Gottlieb Rupprecht
+Carl Gotthelf Bräuer
+Samuel Fürchtegott Wenzel
+Christian Friedrich Müller
+Carl Gotthold Morgenstern
+Traugott Friedrich Wolf
+----------------
+Traugott Friedrich Schmidt
+1824
+Gottlob Friedrich Meyer
+Traugott Friedrich Matthes
+Gottlob Friedrich Lippmann
+Gottlob Friedrich Schinpflug
+Gotthilf Friedrich Schneider
+----------------
+Carl Gottlieb Börner
+Carl Gottlob Fischer
+1825
+Gotthold Friedrich Kuntze
+Carl Benjamin Schaarschuh
+Gottlob Friedrich Schneider
+----------------
+Friedrich Ehregott Thiele
+Christian Gottlieb Walther
+August Müller
+Christoph Gottlieb Dietrich
+Carl August Morgenstern
+Friedrich Wilhelm Seifert
+----------------
+1826
+Carl Friedrich Fischer
+Gotthold Christlieb Fürchtegott Wolf
+Johann Gottfried Leister
+Christian Heinrich Anders
+Johann Traugott Fischer
+Gottlob Friedrich Lohse
+Friedrich Wilhelm Schmidt
+Johann Gottlieb Schneider
+----------------
+Gotthilf Friedrich Müller
+Christian Gottfried Müller
+Johann Gottlieb Fritsche
+Samuel Friedrich Ihle
+Johann Gotthelf Bräuer
+Christian Gottlieb Tanneberger
+August Friedrich Morgenstern
+----------------
+Carl Gottlob Müller
+1827
+Gotthelf Friedrich Zemmrich
+Samuel Friedrich Müller
+Carl Gottlob Fischer
+Gottlob Friedrich Thiele
+Christian Gottlieb Hiekel
+----------------
+Carl Gottlieb Kaden
+Carl Traugott Kreher
+Gottlieb Fürchtegott Müller
+Traugott Friedrich Lippmann
+Gotthelf Friedrich Ihle
+Jonathan Traugott Lorenz
+----------------
+Carl Gottlob Schmerler
+1828
+Christian Friedrich Ihle
+Gottlob Friedrich Wirth
+Christian August Weigelt
+Traugott Friedrich Kirchhübel
+Carl Gottlieb Thiele
+----------------
+Christian Gottlob Seifert
+Christian Traugott Gehmlich
+Christian Friedrich Wagner
+Friedrich Fürchtegott Schneider
+Carl Gottlob Weidendörfer
+1829
+Carl Gottlieb Anders
+Samuel Gottlieb Schneider
+----------------
+Christian Gottlob Müller
+Gottlob Friedrich Lohse
+Gottlob Friedrich Morgenstern

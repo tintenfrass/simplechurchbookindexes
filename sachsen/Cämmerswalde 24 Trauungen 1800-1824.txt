@@ -1,5 +1,5 @@
 Cämmerswalde (Buch 24)
-Trauungen 1800-1819
+Trauungen 1800-1824
 https://www.archion.de/de/viewer/churchRegister/340822?pageId=47869173
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 1 Stunde
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -392,3 +393,96 @@ Gottlob Friedrich Heerklotz
 Johann Gottlieb Müller
 Carl Friedrich Ditrich
 Franz Joseph Behr
+1820
+Johann Gotthold Wolf
+Gotthold Friedrich Grimmer
+----------------
+Gotthelf Friedrich Schramm
+Gotthold Friedrich Kaltofen
+Gottlob Friedrich Schneider
+Christian Gottlob Müller
+Samuel Friedrich Kunze
+Gotthelf Friedrich Dietrich
+----------------
+Gotthelf Wilhelm Wirth
+Johann Christoph Grießbach
+Carl Friedrich Schneider
+Gotthelf Friedrich Wagner
+Samuel Friedrich Neuber
+----------------
+1821
+Gottlieb Friedrich Mende
+Friedrich Fürchtegott Lippmann
+Johann Gottlieb Wirth
+Christian Traugott Schneider
+Carl Friedrich Köhler
+Carl Gotthold Matthes
+----------------
+Carl Gottlieb Weint
+Carl Friedrich Schneider
+Carl Gottlob Krumbiegel
+Gottlieb Friedrich Schab
+Christian Gottlieb Otto
+Carl Friedrich Einhorn
+----------------
+Carl Gottlieb Hegewald
+Gotthold Heinrich Böhme
+Carl Friedrich Schröter
+Johann Christian Hennersdorf
+Carl Gottlieb Preißler
+----------------
+1822
+Gottlieb Friedrich Franke
+Gottlob Friedrich Fritzsche
+August Friedrich Schlegel
+Carl Gottlieb Müller
+Gottlob Friedrich Kaltofen
+Carl Gottlieb Müller
+----------------
+Carl Friedrich Wagner
+Friedrich Gottlieb Aehnelt
+Carl Gottlieb Uhlig
+Johann Jacob Flade
+Carl Friedrich Schneider
+Gotthold Friedrich Heerklotz
+----------------
+Gotthold Friedrich Dietrich
+1823
+Carl Gotthelf Haufe
+Carl August Tippmann
+Carl Friedrich Wilhelm Tränkner
+Gotthelf Friedrich Schneider
+Gotthold Friedrich Schneider
+----------------
+Gotthelf Friedrich Wagner
+Traugott Leberecht Oehme
+Gotthold Friedrich Hegewald
+Carl Friedrich Beckert
+Carl Gottlob Enzmann
+Gottlieb Friedrich Kaltofen
+----------------
+Gottlieb Friedrich Tepter
+Gottlieb Friedrich Kaltofen
+August Friedrich Scheinpflug
+Carl Gottlieb Grösel
+1821
+Johann Gottlieb Helbig
+Carl Gottlieb Matthes
+----------------
+Gottlieb Friedrich Müller
+Johann Georg Helbig
+Gotthold Friedrich Grimmer
+Carl Gottlob Hegewald
+Gottlieb Friedrich Meyer
+Gotthelf Friedrich Kempe
+----------------
+Carl August Friedrich Hegewald
+Johann Gottlieb Ihle
+Adam Friedrich Meyer
+Carl Adolph Ehrenfried Schneider
+Gotthold Friedrich Wagner
+August Friedrich Walther
+----------------
+Carl Wilhelm Behr
+Wilhelm Friedrich Müller
+Gotthelf Friedrich Lohse

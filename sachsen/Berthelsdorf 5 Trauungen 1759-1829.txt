@@ -1,5 +1,5 @@
 Berthelsdorf (Buch 5)
-Trauungen 1759-1809
+Trauungen 1759-1829
 https://www.archion.de/de/viewer/churchRegister/340797?pageId=47865152
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -14,6 +14,7 @@ Erstellt in ca. 2,5 Stunden
 Oktober 2023
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -718,7 +719,120 @@ Friedrich Benjamin Stiehl
 Johann Traugott Kaden
 Carl Gottlieb Philipp
 Carl Gottlob Hermann
----------------- x31
+1820
+Carl Gottlob Hermann
+----------------
+Johann Gottfried Barthel
+Johann Gottlob Greifenhagen
+Christian Friedrich Gehler
+Christian Friedrich Rudolph Ruhle
+Gottlieb Freyer
+----------------
+Johann Gottlieb Aehnelt
+Carl Gottlob Gelfert
+Johann Christoph Lichtenberger
+Johann Christoph Göhler
+----------------
+1821
+Johann Christian Gottlieb Beyer
+Johann Samuel Liebscher
+Carl Gottlob Schönherr
+Carl Friedrich Weichelt
+Johann David Beckert
+Johann Carl Gottlieb Scheidling
+1822
+Johann Christoph Uhlig
+----------------
+Johann Gottlob Klemm
+Christian Friedrich Walther
+Johann Samuel Friedrich Erler
+Carl Gottlob Buttrich
+Johann Paul Zschocke
+Johann Gottlieb Götzelt
+Samuel Muster
+----------------
+Adam Friedrich Müller
+1823
+August Friedrich Hesse
+Friedrich Fürchtegott Biber
+Justus Gotthelf Zeller
+Christoph Adam Auerbach
+Carl Friedrich Ulbricht
+Christian Gottlob Frey
+----------------
+Christian Friedrich Ulbricht
+Johann Gotthold Friedrich Sandig
+Friedrich August Roll
+Johann Georg Gözolt
+Carl Gotthold Ulbricht
+Johann Friedrich Fischer
+----------------
+Johann August Schaarschmidt
+Gottlieb Heinrich Hähnel
+Carl August Mehner
+1824
+Johann Traugott Ziller
+Johann Christoph Lindner
+Johann Gottfried Leberecht Voigt
+----------------
+Samuel Friedrich Hofmann
+Christian Friedrich Müller
+Christian Friedrich Henker
+Traugott Friedrich Claußnitzer
+Carl Traugott Ehrenfried Schumann
+1825
+Benjamin Friedrich Greifenhagen
+----------------
+Carl Traugott Henker
+Johann Gottlieb Zeller
+Carl Friedrich Heller
+Friedrich Gotthelf Börne
+Samuel Gottlieb Heinrich Weiße
+Carl Gottlob Börner
+----------------
+Samuel Friedrich Heinrich
+August Friedrich Silbermann
+Carl Gottlob Lohr
+Gottlieb Leberecht Timmler
+Johann Gottlob Greifenhagen
+1826
+Carl Friedrich Arnold
+----------------
+Johann Gottlob Merkel
+Carl Friedrich Neuhäuser
+Carl August Göpfert
+Johann Gottlieb Richter
+Carl Friedrich Fritzsche
+Johann Christian Friedrich Kandler
+Carl Gottlieb Lindner
+----------------
+Carl Gottlob Sandig
+1828
+Johann August Fickert
+Carl Wilhelm Nagel
+Traugott Leberecht Strauß
+Johann Gotthelf Kühn
+----------------
+Carl Gottlib Heinzmann
+Wilhelm Friedrich Siegmund Henker
+Carl Gottlieb Drechsel
+Christian Friedrich Hünig
+----------------
+1829
+Carl August Müller
+Johann Gottfried Arnold
+August Friedrich Leberecht Küchler
+Christian Friedrich Gemlich
+Carl Gottlieb Kraut
+----------------
+Gottlieb Fürchtegott Bernhardt
+Traugott Benjamin Wunderwald
+Johann Traugott Gözelt
+Carl Gottfried Pflugbeil
+Israel Uhlemann
+----------------
+Carl Gottlob Mehlig
+---------------- x16
 1759
 Carl Gottlieb Zimmermann
 Christoph Böhme

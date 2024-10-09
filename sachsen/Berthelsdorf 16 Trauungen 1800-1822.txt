@@ -1,5 +1,5 @@
 Berthelsdorf (Buch 16)
-Trauungen 1800-1819
+Trauungen 1800-1822
 https://www.archion.de/de/viewer/churchRegister/340808?pageId=47866749
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 1 Stunde
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -326,3 +327,42 @@ Johann Traugott Kaden
 ----------------
 Carl Gottlieb Philipp
 Johann Friedrich Köhler
+1820
+Carl Gottlob Herrmann
+Johann Gottfried Barthel
+Johann Gottlieb Greifenhagen
+----------------
+Christian Friedrich Gehler
+Christian Friedrich Rudolph Luhle
+Johann Gottlieb Freyer
+Johann Gottlob Aehnelt
+Carl Gottlob Gelfert
+----------------
+Johann Christoph Lichtenberger
+Johann Christoph Göhler
+Gottlob Friedrich Löwe
+1821
+Christian Gottlieb Beyer
+Carl Gottlob Schönherr
+Ludwig Adolph Toepelmann
+Johann Samuel Liebscher
+----------------
+Carl Friedrich Weichelt
+Johann David Beckert
+Johann Carl Gottlieb Scheidling
+Gottlieb Friedrich Heinzmann
+Carl Gottlob Beger
+----------------
+Christian Friedrich Siegmund Rothe
+Carl Gottlieb Muster
+Johann Benjamin Zeller
+Leberecht Heinrich Gottlieb Reichel
+----------------
+1822
+Carl Gottlieb Reichelt
+Johann Christoph Uhlig
+Johann Gottlob Klemm
+Johann Gottlieb Fischer
+Christian Friedrich Walther
+----------------
+Johann Gottlieb Pöschel
