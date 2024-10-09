@@ -1,14 +1,15 @@
 Siebenlehn (Buch 8)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/289546?pageId=40244159
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunde
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -411,3 +412,197 @@ Franz Joseph Pfeifer
 ----------------
 Johann Ehrenfried Löffler
 Carl Gottlob Rost
+1820
+Carl Gottlob Heyl
+Christian Gottlieb Rost
+Johann Christian Leberecht Preußger
+----------------
+Traugott Leberecht Hammermüller
+Carl August Bernhardt
+Carl Wilhelm Breitfeld
+Traugott Leberecht Löwe
+Anton Wilhelm Hofmann
+----------------
+Christian Friedrich Lutherer
+Johann Salomon Wolf
+Johann Gottfried Doebler
+Carl Adolph Naumann
+Johann Gottlob Stolpe
+----------------
+1821
+Carl Gottlieb Scheinert
+Johann Wilhelm Jacob Heinrich
+Johann Carl Anton Richter
+Samuel Gottlob Lohse
+Johann Friedrich Herbst
+----------------
+Johann Carl Preußger
+Ferdinand Anders
+Johann Gottlob Lauenstein
+Johann Carl August Fischer
+Johann Christian Rüdiger
+----------------
+Carl Gottlob Friebe
+Carl August Bernhard
+1822
+Carl Gottlieb Fribe
+Johann Gottfried Laudel
+Johann Carl Salomon Otto
+----------------
+Carl Friedrich Lauenstein
+Johann Christian Leberecht Lauenstein
+Christian Wilhelm Reymann
+----------------
+1823
+Johann Leopold Ferdini
+Johann Gottlob Wüdig
+Johann Christian Fehrmann
+Karl Gottfried Schnecke
+----------------
+Johann Gottlob Hempel
+Gottlieb Leberecht Rothe
+Carl Gottlob Fischer
+Johann Gottlob Hetzel
+----------------
+Traugott Metzler
+Christian Leberecht Haubold
+Johann Gottfried Schwan
+Karl Gottlob Moritz
+----------------
+Johann Leberecht Rost
+Christian Gottlieb Grunewald
+Johann Gottlob Rost
+Karl August Hofmann
+----------------
+Johann Gottlob Löwe
+Johann Michael Oehme
+Friedrich Wilhelm Fortram
+----------------
+Johann Andreas Rost
+Heinrich Wilhelm Franz Recht
+Johann Gottlob Johne
+Wilhelm Albert Schulze
+----------------
+Karl Gottlob Friedrich Rost
+1824
+Karl Gottlieb Forckert
+Johann Rebert Ferdinand Zarnack
+Johann Gottlieb August Herbst
+----------------
+Johann Gottlieb Haubold
+Karl Friedrich Schmidt
+Johann Jacob Lößner
+Johann Gottlob Reymann
+Karl Ludwig Reymann
+----------------
+Johann Gottlieb Schneider
+Karl Gottlieb Löffler
+Johann Gottfried Güldner
+Traugott Leberecht Franke
+Johann Karl Gottlieb Rüdiger
+----------------
+August Friedrich Löwe
+Karl Gottlob Preisker
+Samuel Friedrich Schröter
+Johann Friedrich Stein
+----------------
+Karl Gottlob Sattler
+Johann Leberecht Rost
+Georg Wilhelm Schulze
+1825
+Johann Friedrich Wilhelm Seidel
+----------------
+Johann August Pezold
+Karl Gotthelf Lehnert
+Johann Gottlob Haubold
+Johann Friedrich Weber
+Johann Ernst Ludwig Seedorf
+----------------
+Johann Friedrich August Bachmann
+Christian Gottlob Putscher
+Johann Traugott Wilhelm Reichel
+Carl Gottlob Schuhmann
+Friedrich Wilhelm Reinhardt
+----------------
+Johann Gotthelf Rost
+Johann Gottlob Friebe
+Johann Karl Gottlob Gephard
+Gottlob August Schneider
+Willhelm Schlegel
+----------------
+Eduard August Friedrich
+Johann Gottfried Reichel
+1826
+Johann Benjamin Büttner
+----------------
+Johann Gottlieb Grundmann
+Johann Gottlob Kluge
+Karl Gottlob Otto
+August Friedrich Ufer
+Gotthelf Ferdinand Haupt
+----------------
+Johann August Pezold
+Johann Christian Friedrich Schlicke
+Ernst Friedrich Kühn
+Johann Krause
+Karl Gottlob Frenzel
+----------------
+Christian Gottlieb Grunewald
+Johann Gottlob Ehrlich
+Karl Klemens Dindorf
+Johann Christian Ulbrich
+Karl Gottlob Haubold
+----------------
+Johann David Liebers
+1827
+Johann Gottlieb Hallfahrt
+Johann Heinrich Dressel
+Karl Gottlob Mauersberger
+Karl August Unrasch
+----------------
+Christian Friedrich Wilhelm Krumbiegel
+Gottlieb Ehregott Haupt
+Karl Friedrich Richter
+Karl Gottlob Weißbach
+Johann Traugott Leberecht Schwenke
+----------------
+Johann Siegmund Friedrich Butters
+Johann Gottfried Hempel
+Karl Wilhelm Rostenbeck
+Christian Gottlob Rost
+Karl Gottlob Köhler
+----------------
+Karl Gottlob Köhler
+Johann Christian Leberecht Otto
+1828
+Johann Gottlieb Putzger
+Johann Karl Gotthelf Ranisch
+----------------
+Karl Gottfried Schubert
+Johann Gottlieb Uhlemann
+Friedrich Jacob Heinrich
+Karl Gottlieb Dietze
+----------------
+Johann Gottfried Ulbrich
+Gotthelf Ferdinand Haupt
+Karl Gottlieb Hestmann
+1829
+Johann Gottfried Lauenstein
+----------------
+Johann Friedrich Samuel Wrede
+Wilhelm Ferdinand Klemm
+Karl Moritz Steyer
+Karl Ferdinand Zölliger
+Carl August Kühn
+----------------
+Johann Gottlieb Ebert
+Johann Carl Gottlob Schöne
+August Leberecht Kühne
+Carl Gottlob Reich
+Christian Ferdinand Claus
+----------------
+Carl Gottlieb Klausnitzer
+Carl Gottfried Rößiger
+Johann Salomon Wolf
+Johann Christian Eduard Bitterlich
+Johann Christian Spindler

@@ -1,5 +1,5 @@
 Weinböhla (Buch 4)
-Trauungen 1801-1819
+Trauungen 1801-1829
 https://www.archion.de/de/viewer/churchRegister/289622?pageId=40256912
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -7,9 +7,10 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -332,3 +333,149 @@ Johann Georg Jacob
 Johann Samuel Bäsler
 Johann Gottlieb Behrisch
 Immanuel Benjamin Conrad
+1820
+Johann Gottlieb Thiele
+Johann Gottlob Rändler
+----------------
+Johann Gottlob Zocher
+Johann Gottlob Schumann
+Johann Samuel Schneider
+Johann Gottfried Seyfert
+Johann Gottfried Baehrisch
+Johann Gottfried Sachse
+Johann Gottlieb Schneider
+Johann Gottlieb Berger
+1821
+Johann Gottfried Stephan
+Johann Gottfried Steyer
+----------------
+Johann Gotthelf Schlechte
+Johann Gottlieb Leiteritz
+Johann Gottlieb Seyfert
+Johann Friedrich Michael
+Johann Gottfried Schneider
+Johann Gottlob Hartmann
+Johann Gottlieb? Ringel //korrigiert
+Johann Gottlob Leberecht Heinrich
+----------------
+Friedrich Wilhelm Pietzsch
+Johann Gottlieb Schulze
+Johann Gottlob Hempel
+Gottlob Stephan
+Johann Georg Haase
+Gotthelf Kluge
+Samuel Riemmer
+Johann Gottlob Gladewitz
+Johann Christian Teuscher
+----------------
+Gottfried Große
+Johann Gottlieb Marx
+1822
+Christian August Conradi
+Johann Daniel Richter
+Johann Gottfried Zabel
+Gottfried Traugott Reiche
+Samuel Gottfried Thieme
+----------------
+Johann Gottfried Hempel
+Johann Gotthelf Hartmann
+August Bernhardt Weinlich
+Johann August Rühle
+Johann Carl Gottfried Ilgner
+Johann Gottfried Paul
+Johann Traugott Seyfert
+----------------
+1823
+Johann Gottlob Haase
+Johann Heinrich Vogel
+Gottlob Seyfert
+Johann Gottlob Zabel
+Johann Samuel Klotzsche
+Johann Christian Herrmann
+----------------
+1824
+Johann Friedrich Vetter
+Samuel Starke
+Johann Carl Friedrich Hillig
+Johann Gotthelf Berger
+Johann Gottlob Leiteritz
+----------------
+Johann Gottfried Zschecked
+Johann Gottlieb Fischer
+Johann Rudolph Jaenke
+Wilhelm Ernst August Schnabel
+Johann Andreas Raeder
+Johann Christlieb Leuthold
+----------------
+1825
+Gottfried Förster
+Johann Georg Richter
+Johann Christian Niese
+Johann Gottfried Behrisch
+Johann Christian Herrmann
+Friedrich Ernst Carstens
+Johann Gottlob Haarig
+----------------
+Johann Gottfried Schumann
+Johann Gottfried Wendisch
+1826
+Johann Gottlob Steuer
+Johann Gottlob Weber
+Johann Gottlob Drache
+----------------
+Johann Gottlob Schneider
+Johann Gottlob Thieme
+Johann Christian Gottlob Leberecht Beulich
+Johann Christian Adam
+Johann Gotthelf Bärisch
+Johann Carl Gottlob Lehmann
+----------------
+1827
+Johann Gottlob Kluge
+Johann Samuel Förster
+Johann Gottfried Marx
+Johann Samuel Lösch
+Johann Christoph Hoier
+Johann Gottlob Lehmann
+Johann Gottlieb Schmidt
+----------------
+Johann Gottlieb Melzer
+Johann Gottlieb Beulich
+Johann Traugott Leberecht Leuschner
+Johann Gottlob Findeisen
+Samuel Stolle
+Johann Gottfried Anders
+----------------
+Johann Melzer
+1828
+Johann Gottlob Thieme
+Johann Gottlob Schütze
+Johann Gottfried Kotsch
+Carl Gottlieb Müller
+Johann Melzer
+----------------
+Johann Gottlob Herrmann
+Johann Gottfried Förster
+Traugott Ferdinand Reinicke
+Johann Georg Schmidt
+Johann Gottlob Berger
+Ernst Wilhelm Martini
+----------------
+Friedrich Leberecht Lehmann
+Johann Gottfried Leuteritz
+Johann Gottfried Fichtner
+Christian Förster
+Johann Gottlob Zabel
+Johann Gottlob Reichelt
+----------------
+1829
+Johann Gottlieb Hempel
+Johann Gottlob Hartmann
+Johann Gottlob Milde
+Johann Christian Gerngroß
+Johann Gottlob Stolle
+Christian Gottlieb Seifert
+Johann Gottlob Thiele
+----------------
+Franz Julius Martini
+Johann Andreas Ssuchy

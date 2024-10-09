@@ -1,5 +1,5 @@
 Wendischbora (Buch 3)
-Trauungen 1801-1819
+Trauungen 1801-1829
 https://www.archion.de/de/viewer/churchRegister/289653?pageId=40262133
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -196,3 +197,88 @@ Johann Georg Schulze
 Johann Gottlieb Hennig
 Johann Georg Ditrich
 Christian Schlechte
+----------------
+1820
+Johann Traugott Wagner
+Johann Gottlob Thielmann
+Johann Gottlob Schlicke
+Johann Gottlob Naumann
+Karl Gottlieb Harzbecker
+----------------
+Gottlieb Leberecht Beuchel
+Johann Gottlieb Starke
+Johann Gottlob Schulze
+Johann Gottfried Doering
+----------------
+1821
+Johann Gottlob Kühne
+Karl August Berger
+Karl Samuel Ulbrich
+Johann Karl Gottfried Eckelmann
+Karl Gottlieb Ulbrich
+----------------
+Johann Gottfried Richter
+Karl Gottlob Richter
+Karl Gottlob Curth
+----------------
+1822
+Gottlieb Johne
+Johann Gottlieb Borsdorf
+Johann Gottfried Roitzsch
+Friedrich August Fischer
+Johann Gotthelf Lindner
+----------------
+Karl Gotthelf Wachsmauth
+Johann? Traugott Leberecht? Eckelmann //korrigiert
+----------------
+1823
+Carl? Gottlieb? Hiller //korrigiert
+Johann Georg Krüger
+Johann Gottfried Seyfert
+Johann Gottlob Liebe
+Johann Gottlob Hennig
+----------------
+Johann Karl Gottlob Steiger
+Karl Gottfried Walther
+Johann Gottfried Steude
+----------------
+1824
+Johann Gottlob Uhlmann
+Johann Traugott Leberecht Michaelis
+----------------
+1825
+Johann Gottlob Simon
+Johann Gottlieb Horn
+Karl Heinrich Lindner
+----------------
+1826
+Benjamin Gotthold Hanicke
+Karl Traugott Mahler
+Johann Gottlob Reichert
+Karl Gottlob Voigt
+Johann Christian Poppe
+----------------
+1827
+Johann Gottlob Burckhardt
+Johann Gotthelf Barth
+Johann Gotthelf Hammer
+Johann Gotthelf Prather
+Gotthelf Leberecht Hanicke
+Johann Christian Gottlob Handschack
+----------------
+Johann Christian Heinrich Jaennicke
+Johann Traugott Lippert
+----------------
+1828
+August Fürchtegott Kretzschmar
+Christian Friedrich Wilhelm Thieme
+Karl Friedrich Franz
+Johann Gottlob Liebe
+Karl Traugott Paul
+----------------
+1829
+Traugott Leberecht Streller
+Johann Wilhelm Paul
+Johann Gottlob Fischer
+Johann Gotthelf Roesger
+Karl Gottlob Graf

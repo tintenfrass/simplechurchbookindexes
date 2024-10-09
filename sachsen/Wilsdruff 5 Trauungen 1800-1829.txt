@@ -1,14 +1,15 @@
 Wilsdruff (Buch 5)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/289660?pageId=40263546
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -512,3 +513,303 @@ Johann Gottlieb Fremder
 ----------------
 Carl Heinrich Bretschneider
 Christian Friedrich Lange
+1820
+Carl August Lamm
+Carl Gottlob Wolf
+Carl Gottlieb Wolf
+Christian Lange
+----------------
+Johann Gottfried Götze
+Johann Gabriel Täglich
+Johann Gottlob Junge
+Johann Traugott Werner
+Johann Gottfried Dietze
+Gotthelf Friedrich Weißbach
+----------------
+Carl Johann Biedermann
+Carl Gottlieb Irmer
+Friedrich Wilhelm Seidel
+Carl Wilhelm Brethfeld
+Carl Gottfried Naumann
+Carl Gottlieb Hoyer
+Gottlieb Heinrich Hoyer
+----------------
+Johann Gottlieb Damm
+Carl Friedrich Schönstein
+Friedrich Adolph Trepte
+Johann Gottfried Paul
+Carl August Butter
+Johann Gottfried Gläsche
+Carl Gottlob Grahl
+----------------
+Xaver Maria Caesar Schönberg
+Benjamin Gottlob Krause
+Johann Traugott Mehlhose
+Johann Gottlob Endler
+Carl Friedrich August Köhler
+Christian Daniel Streubel
+Christian Gottlob Marcowsky
+----------------
+Carl Gottlob Lamm
+Carl Gottlieb Nenner
+Johann Gottlob Wilhelm Döbritz
+----------------
+1821
+Christian Friedrich Marcowsky
+Carl Gotthelf Gelhaar
+Johann Christian Gotthelf Faust
+Johann Gottlob Friedrich Kirsten
+Carl Wilhelm Herrmann
+Christoph Jackuff
+Johann Gotthelf Reif
+----------------
+Johann Gottfried Künzelmann
+Gustav Lorenz Faust
+Johann Gottlob Röthig
+Friedrich Wilhelm Risse
+Johann Christoph Patzig
+Carl Wilhelm Bretschneider
+----------------
+Christoph Heinrich Geßner
+Karl Gottlieb Bahrdt
+Johann Gottfried Ebert
+Andreas Lechleitner
+Johann Gottfried Böhme
+Carl August Kliemann
+----------------
+Johann Gottlieb Fehrmann
+Johann Carl Gottlob Schnee
+Johann Gabriel Sparr
+Johann Christian Herrmann
+----------------
+1822
+Carl August Richter
+Christian Heinrich Junghans
+Johann Gottlieb Richter
+Johann Gottfried Pretzsch
+Johann Gotthelf Dindorf
+Carl Gotthelf Ehrenrich Oelschlägel
+----------------
+Johann Gottlob Knöfel
+Carl Gottlieb Horn
+Johann Gottlob Horn
+Johann Gottfried Roßig
+Carl Wilhelm Jüchtziger
+Andreas Scharnak
+Gottlieb Herrnsdorf
+----------------
+Johann Gottfried Starke
+Christian Gottlob Grahl
+Carl Gotthelf Fischer
+Gottlob Friedrich Jauch
+Johann Gottlob Betzold
+Gottlieb Heinrich Grafe
+----------------
+August Friedrich Fälsch
+Christian Gottlieb Dinndorf
+Carl Gottlob Franze
+Johann Gottlieb Schönert
+Johann Gottlob Gürtler
+----------------
+1823
+Carl Gottlieb Ludwig
+Carl August Grahl
+Franz Däms
+Johann Christian Gottfried Philipp
+Carl Christoph Fehrmann
+Carl Gottlieb Rühle
+Johann Christian Fehrmann
+----------------
+Johann Gottlieb Zschocke
+Johann Gottlieb Damme
+Christian Gottfried Schönberg
+Carl August May
+Carl Gottlob Schaarschuch
+Heinrich Christoph Pietzsch
+Johann Traugott Beyrich
+----------------
+Johann Georg Burkhardt
+Friedrich Benjamin Patzig
+Carl August Richter
+Johann Dengel
+Carl Friedrich Berger
+----------------
+1824
+Johann Christian Brendel
+Friedrich August Tanneberger
+Johann Friedrich August Fälsch
+Johann Christian Werner
+Christian Friedrich Bretschneider
+Johann Gottlieb Rietschel
+Johann Carl August Dachsel
+Gottlob Leberecht Berger
+----------------
+Johann Christian Schultze
+Johann Carl Gottlob Dechert
+Christoph Ehregott Dietze
+Johann Gottlob Herrnsdorf
+Johann Friedrich Ulbrich
+Christian Moritz Butter
+Fortunatus Christianus Josephus Maria Johannes Benjamin Henricus Franciscus Dorotheus Rohde
+----------------
+Friedrich Gustav Scheffler
+Johann Jacob Loßner
+Johann Gottlob Knobloch
+Gottlieb August Jedicke
+Carl August Zieger
+Friedrich Adolph Bretschneider
+Carl August Bernhard
+Christian Gottlob Bormann
+----------------
+Carl Gottlob Koch
+Johann Gottlob Philipp
+Christian Gottlob Rudolf
+Johann Gottlieb Albrecht
+----------------
+1825
+Johann Traugott Rettig
+Johann Samuel Goldmann
+Andreas August Kleist
+Carl Gottlob Schneider
+Johann Gottlieb Schlegel
+Carl August Kahle
+Johann Gottfried Rappe
+Johann Christoph Rettig
+Carl Traugott Donath
+----------------
+Christian Friedrich Hoppe
+Adolph Friedrich Trepte
+Johann Gottlob Lucius
+Carl Friedrich Schneider
+Johann Gottfried Hommig
+Ferdinand Eduard Laban
+Carl Gotthelf Emmerich
+Johann Carl Gottlob Hickmann
+Johann Carl Traugott Hebert
+Johann Gotthelf Tamme
+----------------
+Friedrich August Patzig
+Carl Gottlob Partzsch
+Carl Gottlob Fischer
+Johann Gottlob Thiele
+Johann Gottfried Grünberg
+1826
+Christian Benjamin Hentschel
+Johann Gottlob Pladeck
+Johann Gottfried Schütze
+----------------
+Friedrich August Büttner
+Johann Gottfried Schmidt
+Ernst Ferdinand Aster
+Carl Traugott Prietzel
+Carl August Richter
+Carl Friedrich Gottlob Köhler
+Johann Gottlob Funke
+----------------
+Christoph Heinrich Schneider
+Johann Carl Kühne
+Ludwig Ehrenreich Müller
+Johann Traugott Schirmer
+Friedrich August Risse
+Christian Friedrich Hardter
+Johann Gotthelf Stein
+Carl Eduard Liebegott Funke
+----------------
+Johann Wilhelm Philipp
+Friedrich August Glöckner
+Gotthelf Heinrich Grafe
+Johann Gottfried Schulze
+Carl August Schlicke
+Johann Carl Gottlieb Hänzsch
+Johann Gottlieb Lösch
+----------------
+Carl Traugott Leberecht Büttner
+Christian Friedrich Lucius
+1827
+Carl Friedrich Knobloch
+Adolph Heinrich Schmidtchen
+Johann Gottlieb Schönert
+Christian Gotthelf Teubner
+Johann Gotthelf Hammer
+----------------
+Carl Gottlieb Gadergast
+Gottlieb Friedrich Hardter
+Johann Carl Gottlieb Richter
+Carl August Ferdinand Schmidt
+Johann Gottfried Leberecht Clauß
+Friedrich Ludwig Rusch
+Adolph Friedrich Trepte
+Johann Gottlieb Lehmann
+----------------
+Johann Carl Bomßdorf
+Johann Gottlieb Nagel
+Johann Gottlieb Gräfner
+Peter Joseph Swinnes
+Friedrich Voigt
+1828
+Carl August Butter
+Johann Friedrich Adolph Trobsch
+Martin Friedrich Christian Ibsen
+----------------
+Johann Gottlieb Schlegel
+Carl Gottlieb Knäbel
+Christian Gottlob Trobsch
+Ernst Traugott Bretschneider
+Johann Gotthelf Leberecht Rost
+Friedrich August Eysoldt
+Christian Gottlieb Grahl
+Johann Gotthelf Hirschbach
+----------------
+Gottlob Ferdinand Tamm
+Carl Moritz Seidel
+Christian Gottlieb Geßner
+Carl Gottlob Fischer
+Carl Gottlieb Herzog
+Johann Gottlieb Lehmann
+Johann August Kirsten
+Gottlob Wilhelm Stange
+----------------
+Carl Friedrich Lehmann
+Christian Gottlob Wolf
+Friedrich August Schönstein
+Johann Carl Paul Hempel
+Franz Moritz Schmidtgen
+Johann Gottlob Fehrmann
+Christian Gabriel Marcowsky
+Leberecht Kießlich
+Johann Samuel Müller
+Johann Gottlob Schubert
+----------------
+Johann Wilhelm August Geisler
+1829
+Carl Gottlieb Dittrich
+Christian Gottlieb Kreiser
+Carl August Förster
+Johann Gotthelf Dittrich
+Carl August Stein
+Johann Gottlob Hennig
+Johann Gottlieb Birke
+----------------
+Christian August Siegert
+Johann Gottlieb Schneider
+Johann Ludwig Neubert
+Carl Gottfried Büttner
+Christian Gottlob Wolf
+Carl August Kahle
+Martin Lieske
+Johann Gottlieb Stein
+----------------
+Johann Friedrich August Ritter
+Johann Gottfried Uhlemann
+Carl Wilhelm Brendel
+Johann Gottlieb Schubert
+Carl Gotthelf Grahl
+Arthur Schönberg
+Johann Gottlieb Berthold
+Johann Georg Burkhardt
+----------------
+Johann Gottfried Berger
+Johann Carl August Rein
+Carl Gottlieb Rülker
+Gottlob Friedrich Dölze
+Friedrich Wilhelm Grätschel

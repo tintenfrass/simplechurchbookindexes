@@ -1,5 +1,5 @@
 Sora (Buch 4)
-Trauungen 1799-1819
+Trauungen 1799-1829
 https://www.archion.de/de/viewer/churchRegister/289558?pageId=40245630
 
 
@@ -8,6 +8,7 @@ Erstellt in ca. 0,5 Stunden
 Mai 2023
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -159,3 +160,70 @@ Johann Gottlob Köhler
 Johann Gottlieb Schärf
 Johann Gotthelf Hillig
 Johann Gottlieb Proschmann
+----------------
+1820
+Christian August Tamme
+Johann Gottlob Wachsmuth
+Johann Gottlob Endler
+Carl August Rolle
+Christian Gottlob Markwowsky
+1821
+Johann Christoph Rothe
+----------------
+Christian Gottlob Harzbecker
+Johann Christian Triebe
+Johann Lehrmann
+Johann Carl Kästner
+1822
+Carl Leberecht Harzbecker
+Carl Gottlob Adam
+Johann Gottlob Tamme
+----------------
+Carl Gottlob Franz
+Johann Gotthelf Kantler
+Johann Gottlob Thimmig
+1823
+Johann Gottlob Wätzel
+Johann Gottfried Uhlmann
+Johann Gottlob Kirsten
+Carl Gottlob Lommatzsch
+----------------
+Johann Gotthelf Böhme
+1824
+Carl Gottlob Koch
+1825
+Johann Gottfried Lehmann
+Johann Gotthelf Tamme
+Johann Christian Gottlob Wittig
+----------------
+Friedrich Gotthelf Hilbrich
+1826
+Johann Gotthelf Schner
+Johann Gottfried Rüdiger
+Carl Gottlob Hetzel
+Johann Gottlob Kühn
+----------------
+1827
+Johann Gottfried Pietzsch
+Carl Gottlieb Lehmann
+Johann Gotthelf Kaltschmidt
+Johann Gotthelf Zschoke
+Johann August Weikert
+Johann Gotthelf Walther
+----------------
+1828
+Johann Gottlieb Poppe
+Carl Gottlieb Ritter
+Johann Gottlieb Hillig
+Gottlob Ferdinand Tamme
+Friedrich August Schlimpert
+1829
+Carl Leberecht Harzbecker
+----------------
+Johann Traugott Tamme
+Carl Gottlob Keil
+Johann August Kunze
+Carl Gottlob Schönhals
+Johann Christian Udolph
+Johann Gottlieb Starke
+Johann Gottlob Nietzsche
