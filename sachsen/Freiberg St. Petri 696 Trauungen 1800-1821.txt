@@ -1,5 +1,5 @@
 Freiberg St. Petri (Buch 696)
-Trauungen 1800-1819
+Trauungen 1800-1821
 https://www.archion.de/de/viewer/churchRegister/341159?pageId=47933377
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 1,5 Stunde
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -981,3 +982,80 @@ Friedrich Siegmund Heul
 Johann Samuel Lindner
 Johann Carl Heinrich Säuberlich
 Benjamin Eggert
+----------------
+1820
+Johann Gottlob Gemberg
+Carl Gottlob Zimmer
+Carl Gotthelf Heinrich Weichelt
+----------------
+Christian Gotthelf Schenke
+Carl August Grützer
+Carl Friedrich Lehnert
+----------------
+Johann Friedrich Wittig
+Johann Christian Stephan
+Georg Andreas Gloek
+Carl Gottlob Homilius
+----------------
+Traugott Leberecht Hahn
+Carl Friedrich Finsterbusch
+Johann Janick
+----------------
+Carl Christian Schubert
+Johann Carl Gottlieb Köhler
+_Fürchtegott Heinrich Langer
+----------------
+Carl Gottlob Richter
+Carl Gottfried Thiele
+Christian Friedrich Graichen
+----------------
+Johann Peter Friedrich
+Christoph Andreas Görmar
+Carl Christian Wittig
+----------------
+Johann Traugott Felsch
+Christian Friedrich Lutherer
+Johann Gottfried Bach
+----------------
+Johann Gotthelf Finsterbusch
+Carl Gottlob Oelschlägel
+Carl Gottlob Meerstein
+----------------
+Carl Heinrich Leschner
+Friedrich Wilhelm Cotta
+Samuel Friedrich Rößiger
+----------------
+Carl August Wagner
+Gotthelf Winkler
+Johann Gottlieb Bär
+----------------
+Johann Traugott Bergmann
+----------------
+1821
+Friedrich August Kögel
+Carl Liebegott Lippmann
+Heinrich August Thieme
+----------------
+Johann Gottfried Seifert
+Carl Gottlieb Aaron Bergemann
+Johann Benjamin Kreysel
+----------------
+Johann Gottlob Uhle
+Samuel Friedrich Höppner
+Johann Daniel Köhler
+----------------
+Georg Wilhelm Schulze
+Johann Traugott Rumler
+Carl Friedrich August Mende
+----------------
+Johann Gottfried Rösger
+Gottlieb Friedrich Kluge
+Johann Traugott Weckbrod
+----------------
+_Elias _Gustav Richter
+Friedrich Wilhelm Krauspe
+Friedrich Ehregott Löschner
+----------------
+_Samuel _Friedrich Siegert
+_Johann _Gotthelf Lehmann
+_Friedrich _Adolph Pfeiffer

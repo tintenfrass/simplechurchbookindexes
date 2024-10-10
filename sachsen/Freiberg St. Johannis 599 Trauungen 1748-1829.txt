@@ -1,15 +1,16 @@
 Freiberg St. Johannis (Buch 599)
-Trauungen 1748-1819
+Trauungen 1748-1829
 https://www.archion.de/de/viewer/churchRegister/341064?pageId=47913243
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stunden
+Erstellt in ca. 2 Stunden
 Oktober 2023
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -863,3 +864,147 @@ Samuel Gottlob Flade
 Friedrich Gotthelf Müller
 ----------------
 Johann Carl Heinrich Säuberlich
+----------------
+1820
+Johann Gottlob Kirsch
+Johann August Weck
+Carl Gotthelf Heinrich Weichelt
+Johann Gottlob Danzig
+Friedrich August Ley
+----------------
+Carl Gottlob Chemnitzer
+Carl Gottlieb Bernd
+Johann Christian Friedrich Börner
+Carl Friedrich Kirsch
+Johann Christoph Schmidt
+----------------
+Christoph Schönherr
+Johann Daniel Böhme
+Johann Gottlieb Seydel
+Carl Gottlieb Bär
+Johann Friedrich Christian Berend
+----------------
+Carl Gottfried Uhlig
+----------------
+1821
+Carl August Oertel
+Carl August Morgenstern
+Johann Friedrich Haubold
+Johann Christoph Schubert
+Carl Friedrich Küttner
+----------------
+Carl Gottlob Lohse
+Carl Gotthelf Mehlig
+----------------
+1822
+Gottlieb Benjamin Meutzer
+August Friedrich Porstein
+Gottlieb Traugott Stein
+Johann Gotthelf Martini
+----------------
+Johann Gottlieb Krüger
+Gottlieb Friedrich Köhler
+Carl Friedrich Lippmann
+Carl Friedrich Jobst
+----------------
+August Friedrich Klopfer
+Samuel Friedrich Zeibig
+August Siegmund Teucher
+Carl Gottlieb Rüdiger
+----------------
+Johann Christian Schunke
+----------------
+1823
+Samuel Gotthelf Franke
+Johann Siegmund Kayser
+Johann Gottlieb Lange
+Christian August Ley
+Johann Georg Götelt
+----------------
+Carl Gottlieb Glöckner
+Johann Carl Sachse
+Joseph Neuberth
+Traugott Leberecht Straube
+----------------
+Johann Gottlieb Lutze
+----------------
+1824
+Samuel Friedrich Rabenfeld
+Benjamin Traugott Timmel
+Carl Gottlob Lange
+Friedrich August John
+----------------
+Carl Benjamin Klotz
+Carl Gottfried Walther
+Johann Gottfried Forberg
+Johann Friedrich Wilhelm Kirsten
+Friedrich August Bretschneider
+----------------
+Paul Gottfried Liebschner
+Carl Gottlob Kirbach
+Christian Friedrich Mann
+Carl Friedrich Kermer
+----------------
+Johann Ehregott Jähnig
+Johann Gottlob Lucas
+Johann Michael Fischer
+----------------
+1825
+Samuel Gottlob Timmel
+Johann Gotthelf Harisch
+Carl Gottlob Arnold
+Carl Friedrich Teuchert
+----------------
+Carl August Leberecht Timmel
+Carl Friedrich Traugott Lange
+Carl August Limbach
+Carl Gottlieb Lange
+----------------
+Carl Ehregott Nußbaum
+----------------
+1826
+Gotthelf Christian Rößler
+Johann Gottfried Hiensch
+Carl Wilhelm Reichelt
+----------------
+Johann Gottlob Ebelt
+Johann Gottlieb Lange
+Carl Friedrich Wagner
+----------------
+1827
+Carl Gottlob Reh
+Friedrich Wilhelm Tauscher
+Christian Gottlieb Teichert
+Christian Gottfried Horn
+----------------
+Carl Wilhelm Becker
+----------------
+1828
+Johann Gottlieb Riße
+Christian Friedrich Fischer
+Friedrich August Harnisch
+Johann Samuel Schiffel
+Carl Gottfried Kirbach
+----------------
+1829
+Johann Samuel Müller
+Johann Carl Gottfried Friedrich
+Carl August Burckhardt
+Johann Gottlieb Günther
+----------------
+Johann Gottfried Lange
+Johann Friedrich Samuel Hensel
+Johann Samuel Leberecht Kirchner
+Johann Gottlieb Scheinert
+----------------
+Ludwig Ferdinand Keplau
+Carl August Fischer
+Johann Gottlieb Mählig
+Johann Carl Gottlieb Bügling
+----------------
+Carl Moritz Heyl
+Carl Julius Liebe
+Johann Ehregott Oesterich
+Carl August Ritter
+----------------
+Johann Gottlieb Tümmrich

@@ -1,5 +1,5 @@
 Freiberg St. Jacobi (Buch 564)
-Trauungen 1800-1819
+Trauungen 1800-1820
 https://www.archion.de/de/viewer/churchRegister/341029?pageId=47908646
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 0,5 Stunden
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -290,3 +291,17 @@ Christian Gottlieb Stohn
 Carl Gottlob Mende
 ----------------
 Heinrich Moritz Kümmel
+1820
+Johann Adam Gottlob Opitz
+----------------
+Carl Gottlieb Kretzschmar
+Carl Heinrich Wilhelm Meinhardt
+Friedrich Wilhelm Volkmar
+Johann Ehregott Engelhardt
+----------------
+Johann Gottfried Hiller
+Christian Friedrich Lobegott Bündring
+Traugott Friedrich Kaden
+Friedrich Gottlieb Ehregott Rüger
+Carl Christian Mentzner
+Christian Friedrich Hoyer

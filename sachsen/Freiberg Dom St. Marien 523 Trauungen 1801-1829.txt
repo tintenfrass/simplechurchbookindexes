@@ -1,14 +1,15 @@
 Freiberg Dom St. Marien (Buch 523)
-Trauungen 1801-1819
+Trauungen 1801-1829
 https://www.archion.de/de/viewer/churchRegister/340986?pageId=47900039
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 2 Stunde
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -506,3 +507,449 @@ Carl Gottlob Gärtner
 ----------------
 Christian Gottlieb Stohn
 Christian Friedrich Gotthelf Hecker
+1820
+Carl Friedrich Trinks
+Christian Gotthelf Müller
+----------------
+Johann Gottlob Schlevoigt
+Johann Carl Traugott Beckert
+Carl August Kraft
+Johann August Pfiller
+----------------
+Ernst Gotthelf Leberecht Anton
+Johann Samuel Gottfried Väterlein
+Johann Friedrich Wittig
+Carl August Lauermann
+----------------
+Johann Samuel Friedrich Kempe
+Friedrich August Klemm
+Carl Friedrich Finsterbusch
+August Benjamin Schiebe
+Christian Andreas Görmar
+----------------
+Johann Traugott Richter
+Gottlob Heinrich Kuniß
+Traugott Friedrich Kaden
+Gottlob Heinrich Kuniß
+----------------
+Johann Gottfried Hofmann
+Carl Ludwig Schmidt
+Carl Gotthelf Kunze
+Johann Gottfried Bach
+----------------
+Carl Friedrich Lange
+Moritz Wilhelm Töpelmann
+Carl August Wagner
+Johann Christlieb Uhlmann
+----------------
+Johann Gottlob Köhle
+Wilhelm Liebscher
+Johann Traugott Friedrich Bergmann
+Carl Friedrich Lehmann
+Friedrich August Weinhold
+----------------
+1821
+Traugott Leberecht Ebert
+Michael Leberecht Enke
+Heinrich August Thieme
+Carl Gotthold Wunderwald
+----------------
+Johann August Hofmann
+Carl Gottlieb Zehl
+Leberecht August Fischer
+Samuel Friedrich Höppner
+----------------
+Eduard Gustav Gerlach
+Carl Gottlieb Hecht
+Christian Friedrich Goldhahn
+----------------
+Johann Friedrich Bernhardt
+Carl Gottlob Dietrich
+Johann Georg Lohse
+Gottlieb Prost
+----------------
+Johann Georg Lohse
+Ludwig Adolph Töpelmann
+Friedrich Wilhelm Krauspe
+August Friedrich Wilhelm Werner
+----------------
+Johann Georg Thule
+Carl Gotthelf Henschel
+Heinich Paul
+Carl Gotthold Kaden
+----------------
+Johann Gottlieb Alius
+Johann Gottlieb Oehme
+Ferdinand Lichtenau
+Carl Samuel Fischer
+----------------
+Johann Gottlob Weiße
+Friedrich Wilhelm Hey
+Carl Friedrich August Wunderlich
+Johann Gottfried Scheinert
+----------------
+Christian Friedrich Richter
+Carl Gotthelf Kaiser
+Eduard Beyer
+Johann Gottfried Schneidebach
+----------------
+Gottlob Friedrich Dittrich
+Johann Friedrich August Ludewig
+Carl Friedrich Schmidt
+Johann Carl Christoph Schramm
+Gotthelf Friedrich Pflugbeil
+----------------
+1822
+Johann Friedrich Heine
+Carl August Wilhelm Rümmler
+Johann Gottfried Dittrich
+Carl Gustav Thube
+----------------
+August Gotthelf Wetzel
+Johann Gottlieb Schumann
+Mattheus Drosche
+Benjamin Richter
+----------------
+Carl Ferdinand Thieme
+Carl Friedrich Zierold
+Johann Daniel Wilhelm Franke
+Johann Christoph Heidrich
+----------------
+Carl August Benjamin Schmidt
+Carl Friedrich Mildner
+Heinrich Gottfried Bauer
+Christian Gotthold Wagner
+----------------
+Carl Gottfried Schmidt
+August Leberecht Wetzel
+Johann Gottlob Körner
+Traugott Friedrich Zschunke
+----------------
+Johann Traugott Fischer
+Johann Christian Felgner
+Carl Gottlob Mehnert
+Johann Gottlob Herrmann
+----------------
+Carl Siegmund Thronicker
+August Friedrich Reißmüller
+Christian Friedrich Winkler
+Johann Gottlob Fritzsche
+----------------
+Friedrich David Siegert
+Johann Gottlob Enge
+Carl August Wolf
+Carl Friedrich Näke
+----------------
+Carl Gottfried Klemm
+Johann Heinrich Gottlieb Krempe
+Johann Gottlob Böhme
+Gottlieb Fürchtegott Hegewald
+----------------
+Carl Gottlieb Noaa
+Carl Friedrich Näke
+1823
+Johann Georg Günther
+Carl Lüer
+----------------
+Samuel Gottlob Hasche
+Friedrich Christian Schulze
+Johann Gotthelf Reichel
+Johann Gottlieb Carl Thalemann
+----------------
+Johann Daniel Näcke
+Johann David Zehl
+Johann Friedrich Wilhelm Brause
+Johann Friedrich Wilhelm Anke
+----------------
+Johann Friedrich Schwarzenburg
+Paul Wilhelm Lempe
+Carl Gottfried Fischer
+Johann Gottfried Voigt
+----------------
+Christian August Lichtenberger
+Johann Gotthelf Nitzsche
+Gottlieb August Weber
+Johann Georg Jahn
+Johann Carl Gottlieb Sahr
+Carl Adolph Schönherr
+----------------
+Johann Friedrich Ehregott Leonhardt
+Johann Georg Jahn
+Johann Carl Gottlieb Sahr
+Johann Gottfried Göpelt
+Carl Traugott Gühne
+----------------
+Carl Adam Erler
+Johann Gottlob Weber
+Johann Christoph Eckert
+1824
+August Moritz Echten
+----------------
+August Ferdinand Anacker
+Gottlieb Friedrich Giersch
+Johann Carl Ehregott Richter
+Christian Friedrich Baumgärtel
+----------------
+Franz Müller
+Gottlob Benjamin Ufer
+Johann Gottlob Jänigen
+Johann Rudolph Ernst Scheppahn
+----------------
+Eduard Gottlob Wilhelm Dierkau
+Carl Heinrich Höppner
+Andreas Mörbe
+Johann Gottfried Leberecht Voigt
+----------------
+Johann Gottfried Schiller
+Ernst Eduard Böttcher
+Carl Friedrich Schulze
+Carl Friedrich Gotthold Klemm
+----------------
+Johann Gottlieb Anton Vitzthum
+Carl Benjamin Mehnert
+Carl August John
+Johann Gottfried Werlitzsch
+----------------
+Christian Friedrich Mann
+Johann Lobegott Ferdinand ange
+Carl August Ferdinand Klüx
+----------------
+Johann Gottlob Zehl
+Carl August Köhler
+Carl Friedrich Höhne
+Carl August Kaden
+----------------
+Gottfried Samuel Glänzel
+Carl Gottlob Preisker
+Gottlob Leberecht Mäußler
+Johann Gottlob Franke
+----------------
+Friedrich Franz Wilhelm Auenmüller
+Johann Georg Richter
+Jacob Nicolaus Robbi
+----------------
+Carl Friedrich Pielz
+Ernst Benjamin Zürner
+Christian August Lichtenberger
+Johann Friedrich Benjamin Kempe
+----------------
+Johann Christian Hagar
+1825
+Carl Gottfried David Richter
+Johann Gottlob Blume
+Carl Benjamin Müller
+----------------
+Gustav Robert Klette
+Michael Muschick
+Friedrich Constantin Gerbach
+----------------
+Johann Samuel Rietschel
+Carl August Henker
+Carl Gottlob Heidenreich
+Carl Gottlieb Rädel
+----------------
+Carl Gottfried Hegemann
+Friedrich Wilhelm Büchner
+Samuel Heinrich Störzel
+Carl Gottlob Böhme
+Franz Ernst Grünert
+----------------
+Johann Carl August Höhne
+Carl Gottlieb Röder
+Johann Gottfried Hahnspach
+Carl Friedrich Glöckner
+----------------
+Ferdinand Winckler
+Christian Friedrich Schönfelder
+Carl Friedrich Zschocke
+Carl Gottlieb Wegewitz
+----------------
+Carl August Limbach
+Anton Friedrich Dietrich
+Carl Friedrich Hartmann
+Friedrich August Adolph Hofman
+----------------
+Carl Gottlieb Fröbe
+Carl Gottlob Philipp
+Johann Friedrich Liebscher
+Johann Ernst Reichert
+----------------
+Carl Gottlob Schier
+Johann Wilhelm Friedrich Schreiber
+Carl Friedrich Stier
+Carl August Jahn
+----------------
+Johann August Beyer
+Johann Gotthold Basilius Schlitterlau
+Christian Salomon Rieschel
+Carl Gottfried Erler
+----------------
+Friedrich Christoph Heyde
+Christian Carl Doberenz
+Johann Gottlob Krämer
+Carl Friedrich Büttner
+----------------
+Ehregott Leberecht Venus
+Carl Friedrich Fleischer
+1826
+Carl Gottlieb Richter
+Carl Friedrich Tutzschky
+----------------
+Johann Gottlieb Erler
+Carl Friedrich Kost
+Christian Friedrich Rommel
+Carl David Knorr
+Wilhelm Gottlieb Thiele
+----------------
+Hans Robert Brause
+Carl August Röckel
+Friedrich Samuel Reichel
+Johann Georg Hahmann
+----------------
+Johann Gottlieb Höhne
+Johann Friedrich Gottlob Claußnitzer
+Carl Friedrich Arnold
+Johann Ernst Nelle
+----------------
+Friedrich David Vogelgesang
+Christian Friedrich Rögner
+Johann Carl Gottlob Henzel
+Christian Gottlob Andreas
+----------------
+Carl Moritz Böhme
+Heinrich Ferdinand Joch
+Carl Friedrich Hosemann
+Johann Gottlieb Böhme
+----------------
+Friedrich David Siegert
+Carl Gottlieb Mänzer
+Joseph Krehann
+Johann Gottlob Weise
+Johann Carl Gottlieb Lohse
+----------------
+Gottlob Friedrich Neubert
+Johann Andreas Ranft
+Carl Gottfried Haußmann
+Carl Friedrich Leonhard
+----------------
+Johann Gotthelf Friedrich Vogel
+Johann Gottlob Kempe
+Johann Gottlob Wolf
+Christian Gottlieb Stephan
+Johann Gotthelf Kraut
+----------------
+1827
+Gotthold Benjamin Puschmann
+Johann Gottfried Gottsmann
+Friedrich Wilhelm Stech
+Johann Georg Spranger
+----------------
+Moritz Wilhelm Fischer
+Eduard Lohse
+Johann Christian Roth
+Carl August Zimmer
+----------------
+Traugott Friedrich Kaden
+Carl Wilhelm Rühle
+Johann Gottfried Schiller //korrigiert
+Carl Gustav Adalbert Weißenbach
+----------------
+Johann David Keller
+Ernst Gottlieb Frege
+Johann Friedrich Roßbach
+Maximilian Moritz Schöber
+----------------
+Ernst Friedrich Traugott Opitz
+Carl Gottlob Schulze
+Johann Paul Winoßki
+Johann Gottfried Kolbe
+----------------
+Friedrich August Neubert
+Ernst Samuel Zschöckel
+Carl Gottfried Richter
+Johann Georg August Kühnert
+----------------
+Carl Friedrich Gustav Heym
+Gottlob Friedrich Dietel
+Carl Joseph Viththum
+Johann Carl Gottlieb Zimmer
+----------------
+August Benjamin Weckbrod
+Johann Gottlieb Henker
+Gotthelf Benjamin Mehnert
+Carl Friedrich Buch
+Samuel Gottlob Lotze
+----------------
+Johann Heinrich Zier
+Gotthelf Friedrich Schirmer
+Carl Heinrich Günzel
+1828
+Johann Gottlob Hedrich
+----------------
+Christian Friedrich Kleeberg
+Carl Gustav Wagner
+Johann Gottlieb Enzmann
+Carl Friedrich Claußnitzer
+Johann Traugott Recke
+----------------
+Johann Ehregott Hähler
+Ferdinand Zehl
+Carl Gottlob Philipp
+Johann Gottlob August Gehl
+Carl August Liebscher
+----------------
+Carl Friedrich Hauck
+Johann Gottlob Schulze
+Johann Heinrich Birkigt
+Carl Gottlob Heinze
+Friedrich August Beyrich
+----------------
+Carl Friedrich Traugott Fischer
+Christian Ferdinand Mettal
+Carl Gottlieb Spahrmann
+Johann Christian Benjamin Heym
+Carl Gottlob Köhler
+----------------
+Carl Friedrich Kaden
+Carl Gottlob Schmidt
+Ernst Julius Metzler
+Emanuel Friedrich Fleischer
+Carl Gottfried Erler //korrigiert
+----------------
+Friedrich Hartmann Uhlig
+Gottlob Traugott Günnel
+1829
+Carl August Kesel
+Carl Wilhelm Ziegenhals
+----------------
+Christian Friedrich Zehl
+Franz Anton Byrn
+Carl Friedrich Wilhelm Naumann
+----------------
+August Friedrich Ephraim Unger
+Carl Gottlob Tränkner
+Carl Christoph Brann
+Carl Ferdinand König
+----------------
+Carl Gottfried Leberecht Becker
+Johann Friedrich Samuel Hensel
+Christian Friedrich Seipt
+Heinrich Wilhelm Hensel
+----------------
+Carl Heinrich Döring
+Carl Fürchtegott Naumann
+Friedrich Christian Strehle
+Johann Gottlob Springer
+Christian Gottlieb Kluge
+----------------
+Johann Wilhelm Christoph Hartung
+Johann Heinrich Würgau
+Johann Heinrich Beyer
+Gottlieb Friedrich Väterlein
+Franz Wilhelm Hedrich
+----------------
+Gottlob Friedrich Schulze
+Carl Ludwig Montag
+Amandus Heinrich Moritz Fritzsche
+Johann Gottlieb Mende
+Friedrich Gotthold Müller
