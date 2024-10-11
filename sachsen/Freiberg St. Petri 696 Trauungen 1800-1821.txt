@@ -1003,7 +1003,7 @@ Johann Janick
 ----------------
 Carl Christian Schubert
 Johann Carl Gottlieb Köhler
-_Fürchtegott Heinrich Langer
+Fürchtegott Heinrich Langer
 ----------------
 Carl Gottlob Richter
 Carl Gottfried Thiele
@@ -1052,10 +1052,10 @@ Johann Gottfried Rösger
 Gottlieb Friedrich Kluge
 Johann Traugott Weckbrod
 ----------------
-_Elias _Gustav Richter
+Elias Gustav Richter
 Friedrich Wilhelm Krauspe
 Friedrich Ehregott Löschner
 ----------------
-_Samuel _Friedrich Siegert
-_Johann _Gotthelf Lehmann
-_Friedrich _Adolph Pfeiffer
+Samuel Friedrich Siegert
+Johann Gotthelf Lehmann
+Friedrich Adolph Pfeiffer
