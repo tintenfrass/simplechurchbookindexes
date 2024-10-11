@@ -1,5 +1,5 @@
 Helbigsdorf (Buch 203)
-Trauungen 1794-1819
+Trauungen 1794-1829
 https://www.archion.de/de/viewer/churchRegister/359824?pageId=50664437
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,10 +10,11 @@ Teil 2: Müdisdorf
 Teil 3: Randeck
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Januar 2024
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -231,7 +232,102 @@ Gotthelf Friedrich Walther
 Johann Gottlob Martin
 Karl Adam Friedrich Müller
 Christian Gottlieb Lehmann
----------------- x13
+1820
+Karl August Künzelmann
+Gottlob Friedrich Kreher
+Johann Karl Gottlieb Walther
+----------------
+Johann Christoph Sockann
+1821
+Christian Friedrich Arnold
+Traugott Wagner
+Johann Karl Auerbach
+Karl Friedrich Drechsel
+----------------
+Karl Friedrich Barsch
+Christian Friedrich August Kaden
+Johann August Zenker
+1822
+Karl Friedrich Bräuer
+Christian Gottlob Timmel
+Carl Gottlieb Meischer
+Johann Gottfried Arnold //durchgestrichen
+----------------
+Johann August Bellmann
+Johann Gottlieb Erler //durchgestrichen
+Gottlieb Fischer
+Karl Friedrich Rehwald
+1823
+Johann Traugott Anders
+Christian Gotthelf Eppisch
+----------------
+Johann Traugott Fritsche
+Samuel Friedrich Obendorf
+Johann Gottlieb Wolf
+Johann Gottlieb Körner
+August Friedrich Fritsche
+1824
+Karl August Mehner
+Johann Christoph Steiger
+Friedrich Traugott Hertel
+----------------
+Karl Gottlob Weigelt
+Christian Gottlieb Lehmann
+Christian Friedrich August Kaden
+Karl Gottlob Zenker
+Johann Gottlieb Kahl
+1825
+Christian Traugott Richter
+Karl Gottlob Herrmann
+Johann Christoph Fröbel
+----------------
+Samuel Friedrich Heinrich
+Karl Friedrich Ziegner
+1826
+Johann Gottlob Schumann
+Gottlob Rädel
+Johann Georg Kluge
+Johann Gottfried Schmieder
+Karl Gottlob Kröner
+----------------
+Johann Heinrich Benjamin Drösiger
+August Gottlob Fischer
+Johann Karl August Porstendorfer
+Friedrich Wilhelm Böhme
+Johann Gottlieb Opitz
+Friedrich Wilhelm Kunze
+Karl Friedrich Ulbricht
+Andreas Leberecht Großhanns
+----------------
+1827
+Christian Friedrich Ulbricht
+Johann Gottlieb Bernhardt
+Karl Gottlieb Fischer
+Christian Traugott Ulbricht
+Gottlieb Fürchtegott Martin
+Friedrich Gottlob? Spielhaus //korrigiert
+Traugott Leberecht Hauck
+----------------
+Karl August Martin //durchgestrichen
+Karl Gottlieb Böhme
+Karl Christoph Bellmann
+Johann Gottlob Friedrich Griesbach
+Samuel Heinrich Walter
+Karl Gottlieb Brückner
+----------------
+1828
+Johann Gottfried Lorenz
+Johann Samuel Scheumann
+Traugott Leberecht Straus
+Heinrich Wilhelm Richter
+Johann Karl Gottlieb Walter
+1829
+Friedrich Traugott Geisler
+----------------
+Christian Friedrich Frey
+Carl Friedrich Ulbricht
+Carl Friedrich Franke
+---------------- x2
 1794
 Carl Gottlieb Fischer
 Johann Gottfried Schultz
@@ -353,7 +449,57 @@ Karl Gottlob Hornburg
 ----------------
 Karl Traugott Bäsler
 Georg Friedrich Göhler
----------------- x8
+1820
+Karl Friedrich Berger
+Karl Gottlob Gläser
+Karl Gottlieb Schmieder
+Johann Traugott Friedrich Anders
+1821
+Karl Gottlieb Biber
+----------------
+Karl Gottlob Gläser
+1822
+Salomo Friedrich Rabe
+Karl Friedrich Morgenstern
+Johann Gottlieb Erler
+Karl Gottlob Eckert
+Karl Gottlob Eckart
+----------------
+Johann Samuel Richter
+1823
+Gottlieb Friedrich Herrmann
+Karl Gottlob Einhorn
+Johann Andreas Reichelt
+1824
+Karl Gottlob Müller
+Adam Gottlieb Timmel
+----------------
+Johann Christian Karl Gottlieb Wilhelm Kröner
+Karl Friedrich Fischer
+Karl Friedrich Beyer
+1825
+Karl Christian Richter
+Christian Friedrich Fritsche
+1826
+Karl Gottlieb Richter
+Johann Gottlieb Erler
+----------------
+August Leberecht Börner
+Karl Gottlob Kröner
+Karl Friedrich Kempe
+Karl August Göpfert
+1827
+Johann Gottlieb Lorenz
+Christian Friedrich Beyer
+Karl Gottlieb John
+----------------
+Karl Traugott Bäsler
+1828
+August Friedrich Preisler
+1829
+Carl August Kaden
+Gottlob Friedrich Krumbiegel
+---------------- x3
 1794
 Johann Traugott Wolf
 Carl Gottlob Schneider
@@ -429,3 +575,52 @@ August Friedrich Arnold
 ----------------
 1819
 Karl Gottfried Lehmann
+1820
+Karl Friedrich Herrmann
+Karl Gottlieb Pflugbeil
+Karl Gottlieb Heinrich Freyer
+Johann Gottlieb Richter
+1821
+Christian Friedrich Fischer
+----------------
+David Gottlieb Uhlich
+Traugott Leberecht Börner
+Karl Friedrich August Bellmann
+1822
+Johann Gottlieb Schuhmann
+Karl August Göpfert
+Johann Gottfried Arnold
+----------------
+Johann Gottlob Krellmann
+Johann Karl Richter
+1823
+Johann Traugott Anders
+Karl Gotthold Schubert
+Christian Friedrich Potzger
+Johann Traugott Wolf
+Karl Gottlob Potzger
+----------------
+1824
+Friedrich Benjamin Martin
+Adolph Friedrich Engelhardt
+1825
+Johann Gottlieb Porstendorfer
+Gottlieb Leberecht Illig
+Johann Christian Gottlob Weigelt
+Salomo Leberecht Hoyer
+1826
+Johann Gottlieb Fischer
+----------------
+Johann Christoph Zenker
+1827
+Karl August Martin
+Johann Christoph Schubert
+1828
+Gottlob Friedrich Wirth
+Christian August Weigelt
+----------------
+Friedrich Traugott Bellmann
+1829
+Friedrich Ehregott Kunze
+Wilhelm Liebegott Trepte
+Traugott Friedrich Clausnitzer

@@ -1,15 +1,16 @@
 Großhartmannsdorf (Buch 170)
-Trauungen 1730-1819
+Trauungen 1730-1829
 https://www.archion.de/de/viewer/churchRegister/359765?pageId=50654041
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 2,5 Stunden
+Erstellt in ca. 3 Stunden
 Januar 2024
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1146,3 +1147,237 @@ Adam Fürchtegott Uhlig
 ----------------
 ----------------
 Traugott Friedrich Horn
+1820
+Carl August Friedrich Seiffert
+Carl August Richter
+Johann Gottlieb Grose
+Traugott Friedrich Rüger
+Johann Gottlieb Ufert
+----------------
+Carl Gottlob Lichtenberger
+Johann Christoph Lichtenberger
+Gotthelf Wilhelm Wirth
+Wilhelm Friedrich Traugott Fränzel
+August Friedrich Bellmann
+David Friedrich Schönlebe
+Gotthelf Winckler
+----------------
+Gottlob Friedrich Ihle
+Johann Gottlob Müller
+Johann Christoph Sockmann
+Carl Traugott Kohl
+August Friedrich Härtig
+----------------
+1821
+Carl Traugott Hunger
+Samuel Friedrich Mühl
+Carl Friedrich David Mende
+Carl Gottlieb Lippmann
+Johann Gottlieb Wirth
+Carl Gottfried Lindner
+----------------
+Johann Adam Friedrich Horn
+Christian Gottlob Oeser
+Christian Gottlob Dietrich
+David Gottlob Uhlig
+Traugott Friedrich Mattheß
+Johann Gottlob Kröner
+Johann Christoph Richter
+----------------
+Carl Gottlieb Weinhold
+August Friedrich Härtig
+Traugott Leberecht Bellmann
+Traugott Leberecht Reichel
+Johann August Helbig
+August Friedrich Zilliger
+----------------
+Carl Friedrich August Bellmann
+Carl Gottlob Börner
+Carl Gottlob Uhlig
+Traugott Friedrich Sandig
+Carl Wilhelm Otto
+Traugott Friedrich Enzmann
+Ehregott Leberecht Horn
+----------------
+1822
+Carl Gottlob Förster
+Carl Gottlob Schubert
+Carl August Eilenberger
+Carl Friedrich Wagenzink
+Carl August Bräuer
+Carl Friedrich Reichel
+Ehregott Friedrich Seifert
+----------------
+Carl Friedrich Bräuer
+Johann Gottlieb Bellmann
+Johann Gottlieb Fischer
+Carl Gottlob Arnold
+Friedrich Wilhelm Uhlig
+Gottlob Friedrich Bernhard
+Carl Gottlieb Wolf
+----------------
+Christian Frey
+Gottlieb Traugott Helbig
+David Friedrich Reichelt
+Johann Fürchtegott Klambäckel
+Johann Wilhelm Kaul
+August Friedrich Oehm
+Christian Gottlieb Schenk
+----------------
+Traugott Friedrich Lindner
+Georg Gottlieb Rudolf
+Carl Gottlob Eckert
+1823
+David Gottlob Kröner
+Carl Gottfried Müller
+Carl Friedrich Naumann
+----------------
+Johann Gottfried Bellmann
+Gottlieb Ehregott Steier
+Daniel Gottlob Krumbiegel
+Daniel Gottlob Lichtenberger
+Johann Gottlob Schönlebe
+Carl August Schönlebe
+Carl Gottlob Börner
+----------------
+Wenzeslaus Leonhardt Wancker
+Carl Gottlob Neubert
+Carl Gottlob Franz Otto
+1824
+Carl Gottlieb Ulbricht
+Carl Gottlob Müller
+Adam Gottlieb Timmel
+Carl Gottlieb Thiele
+----------------
+Georg Friedrich Gläser
+Carl August Matthess
+Johann Gottlieb Schönlebe
+August Friedrich Hunger
+Johann David Träger
+Adam Fürchtegott Ihle
+Christian Gottlieb Lehmann
+----------------
+Christian Friedrich Müller
+Carl Gottfried Heerklotz
+Carl Friedrich Beyer
+Carl Friedrich Richter
+Traugott Friedrich Werner
+David Gottlieb Rüger
+----------------
+Wilhelm Gottlob Werner
+Gotthelf Friedrich Böhme
+1825
+Carl Friedrich Weidensdorfer
+Carl Friedrich Schulze
+August Wilhelm Fischer
+Johann Traugott Leberecht Metzler
+----------------
+Carl August Morgenstern
+Carl August Reinhold
+Christian Benjamin Wolf
+Johann Gottlieb Schenke
+Carl Friedrich Göpfert
+Carl Gottlieb Härtig
+----------------
+Samuel Friedrich Andreas
+Johann Friedrich Fritzsche
+Traugott Leberecht Ulbricht
+Friedrich Moritz Siebert
+----------------
+1826
+Traugott Leberecht Müller
+Carl August Rößiger
+Johann Gottlieb Keller
+----------------
+Traugott Friedrich Sandig
+Traugott Leberecht Rößiger
+Carl Friedrich Schenk
+Traugott Leberecht Weidendorfer
+Ehregott Fürchtegott Börner
+Carl August Köhler
+Carl August Göhlert
+----------------
+Carl Gottlob Krumbiegel
+Johann Georg Schubert
+Friedrich Gottlieb Erler
+Traugott Friedrich Seyffarth
+Carl Friedrich Rößiger
+Carl August Matthes
+Carl August Meyer
+----------------
+Johann Wilhelm Kaden
+Fürchtegott Leberecht Berger
+August Friedrich Riegel
+Carl August Göpfert
+Carl Adolph Haupt
+----------------
+1827
+Carl Friedrich Lichtenberger
+Christian Carl Gottlob Koch
+Friedrich August Steiger
+Carl Friedrich Ufer
+Traugott Friedrich Thümmel
+August Friedrich Buschbeck
+Carl Gottlob Haucke
+----------------
+Johann Gottlob Kießling
+Carl Gottlieb Müller
+Carl August Küster
+Carl Gottfried Erler
+Carl Christian Fritzsche
+Carl Adolph Forberger
+----------------
+Friedrich Fürchtegott Herbwig
+Johann Gottlieb Krumbiegel
+Traugott Friedrich Mattheß
+August Friedrich Flade
+Carl Gottlieb Eckardt
+Traugott Friedrich Leberecht Hennig
+Christian Friedrich Schenke
+----------------
+Johann Samuel Heinrich Walther
+Carl Gottlieb Haselbacher
+Ehregott Leberecht Wirth
+Traugott Friedrich Hänel
+Traugott Friedrich Wilhelm Seifert
+----------------
+1828
+Carl Traugott Leberecht Lichtenberger
+Gottlieb Ferdinand Böhme
+Carl Gottlob Haubold
+Carl Gottlieb Morn
+Carl August Seyffarth
+Carl Christoph Baldauf
+----------------
+Carl August Sandig
+Carl Gottlob? Fritzsche //korrigiert
+Carl David Wilhelm Lichtenberger
+Carl Gottfried Gemlich
+Carl Gottlob Gläser
+Traugott Friedrich Weinhold
+----------------
+Carl Friedrich Ferdinand Maucke
+Carl Gottlob Sandig
+Christian Gottlob Thiele
+Carl Friedrich Köhler
+Traugott Leberecht Oehme
+Christian Friedrich Beyer
+----------------
+Carl Friedrich Reuther
+1829
+Carl Gottlieb Mehner
+August Friedrich Traeger
+Friedrich Adolph Schönherr
+Christian Friedrich Frey
+Gottlob Friedrich Krumbiegel
+----------------
+Christian Friedrich Liebscher
+August Friedrich Krumbiegel
+Christian Friedrich Riegel
+Johann Gottfried Kröner
+Carl Friedrich Martin
+Johann Ernst Ludwig Wolf
+Carl Friedrich Fürchtegott Vogler
+----------------
+Christian Friedrich Seyfert
+August Friedrich Härtig

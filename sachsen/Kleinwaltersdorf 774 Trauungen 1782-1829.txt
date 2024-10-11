@@ -1,5 +1,5 @@
 Kleinwaltersdorf (Buch 774)
-Trauungen 1782-1799
+Trauungen 1782-1829
 https://www.archion.de/de/viewer/churchRegister/359862?pageId=50670802
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Erstellt in ca. 0,5 Stunden
 Januar 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -251,3 +252,41 @@ Immanuel Schüttof
 Carl Gottlieb Haupt
 Israel Obendorf
 Johann Christian Liebschner
+----------------
+----------------
+1828
+Carl Christian Rast
+Johann Gotthelf Berger
+Christian Gottfried Rast
+Carl Gottlieb Mühlberg
+----------------
+Carl Gottlob Lorenz
+Carl Gottlob Goldbach
+Johann Carl Gottfried Weigand
+----------------
+Christian Friedrich Richter
+Christian August Rast
+Johann Gottlob Schulze
+----------------
+Johann Gottlieb Naumann
+Johann Michael Brix
+----------------
+1829
+Carl Gotthelf Pfeifer
+Christian Ehregott Zschocke
+Johann Traugott Siegemund
+----------------
+Johann Gottlieb Müller
+Carl Gottlieb Krellmann
+Carl Gottlob Löbe
+----------------
+Christian Friedrich Weiße
+Johann Gottlob Wolf
+Christian Friedrich Leonhard
+----------------
+Carl Gottfried Zschocke
+Johann Gottlob Reichelt
+Traugott Benjamin Halm
+----------------
+Johann Gottlieb Höppner
+Carl Gottfried Kluge

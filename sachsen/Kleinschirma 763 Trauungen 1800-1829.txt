@@ -1,5 +1,5 @@
 Kleinschirma (Buch 763)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/359851?pageId=50669246
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -135,3 +136,79 @@ Karl Gottrau Heinrich Richter
 Ehregott Benjamin Fischer
 Karl Friedrich Wallrabe?
 Carl Friedrich Burckhart
+----------------
+1820
+Christian Friedrich Börner
+Friedrich Wilhelm Obendorf
+Ehregott Benjamin Fischer
+Carl Gottlieb Berger
+Traugott Benjamin Philipp
+----------------
+1821
+Gotthelf Friedrich Müller
+Johann Gotthelf Naumann
+Gottlob Benjamin Wolf
+Carl Gottlob Zehl
+----------------
+1822
+Carl Gottlieb Reichelt
+Friedrich Ehregott Küchenmeister
+Ehregott Benjamin Keßler
+Traugott Stein
+----------------
+1823
+Carl Gottlieb Neubert
+Johann Georg Weygand
+Christian Friedrich Lange
+Carl Gottlob Fischer
+----------------
+Friedrich Samuel Mühlberg
+Christian Friedrich Leonhardt
+Johann Gottfried Gaertner
+----------------
+1824
+Johann Gottlob Hänig
+Johann Theodor Benedict
+Gottlob Friedrich Fischer
+----------------
+Johann Samuel Mehnert
+----------------
+1825
+Abraham Zehl
+Carl Gottfried Sigismund
+Carl Gottlob Steeger
+----------------
+Christian Friedrich Liebert
+Johann Christian Gottlieb Hähner
+----------------
+1826
+Christian Friedrich Otte
+Gustav Eduard Naumann
+Traugott Israel Silbermann
+----------------
+Carl Gotthelf Fischer
+Friedrich David Siegert
+Carl Gottlieb Schmidt
+Carl Samuel Liebert
+----------------
+1827
+Ehregott Benjamin Eckart
+Johann Carl Gottlob Güldner
+Johann Carl Keßler
+----------------
+Carl August Schmidt
+Carl Heinrich Günzel
+----------------
+1828
+Carl Gottlieb Eckart
+Carl Friedrich Neubert
+Johann Gotthelf Schönberg
+Friedrich Ferdinand Fischer
+----------------
+Carl Gottlob Dachsel
+Traugott Friedrich Müller
+----------------
+1829
+Carl August Fischer
+Christian Friedrich Leonhard
+Johann Traugott Keßler

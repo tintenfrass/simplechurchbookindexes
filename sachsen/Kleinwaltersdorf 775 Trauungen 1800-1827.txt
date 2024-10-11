@@ -1,14 +1,15 @@
 Kleinwaltersdorf (Buch 775)
-Trauungen 1800-1819
+Trauungen 1800-1827
 https://www.archion.de/de/viewer/churchRegister/359863?pageId=50671354
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -292,3 +293,131 @@ Carl Gottlob Hackenberger
 Gottfried Israel Klemm
 Gottfried August Beckert
 Johann Gotthelf Beckert
+----------------
+1820
+Georg Michael Zschocke
+Ehregott August Liebert
+Johann Gottlieb Greifenhagen
+Karl Gottlieb Beckert
+Johann Christian Gotthard Ranft
+----------------
+Karl Gottfried Zimmermann
+Traugott Schmidt
+Johann Gottlob Senke
+Johann Samuel Beckert
+----------------
+1821
+Karl Christian Friedrich Beckert
+Karl Gottlieb Störzel
+Gottlieb Friedrich Beckert
+Gotthelf Friedrich Neubert
+Carl Gottfried Grimmer
+----------------
+Johann Gottfried Dutschke
+Christian Friedrich Schneider
+Carl Gottlieb Bellmann
+Carl Gottlieb Brix
+Carl Gottlieb Felgner
+Johann Gottlob Held
+----------------
+1822
+Carl Gottlob Schlimpert
+Traugott Friedrich Neubert
+Christian August Milde
+Friedrich August Lohse
+Johann Christian Wiesner
+----------------
+Ehregott Leberecht Illgen
+Christian Friedrich Hörnig
+Friedrich Ehregott Küchemeister
+Johann Traugott Fischer
+Carl Gottfried Zehmlich
+----------------
+Johann Christian Friedrich Gelbricht
+Carl Gottlieb Liebschner
+----------------
+1823
+Johann Gottfried Erler
+Johann Christian Friedrich Weiße
+Johann Gottlieb Krumbiegel
+Karl Gottlob Beckert
+----------------
+Carl Gottfried Neubert
+Carl Gottfried Obendorf
+Carl Christoph Zschoke
+Carl Gottlieb Glöckner
+----------------
+Gottlob Friedrich Wetzig
+Johann Gottfried Küttner
+Johann Siegmund Uhlich
+----------------
+1824
+Carl Benjamin Klotz
+Carl Gottfried Haubold
+Carl Christoph Fischer
+----------------
+Carl Gottlieb Horn
+Christian Gottfried Arnhold
+Gottlob Leberecht Jehmlich
+----------------
+Johann Georg Ritter
+Johann Adolph Ficke
+Carl Gottlob Straßburger
+Christian Ehregott Haubold
+----------------
+Johann Gotthelf Barth
+Johann Michael Wießsner
+Johann Christoph Büttner
+----------------
+Carl Gottlob Lichtenberger
+Carl Gottfried Pomsel
+----------------
+1825
+Johann Samuel Rietzschel
+Carl Gottlieb Friede
+Christian Wahl
+----------------
+August Friedrich Krumbiegel
+Carl Gottfried Sigismund
+Carl Gottlob Steeger
+----------------
+Carl Heinrich Kempe
+Johann Christian Gottlieb Hähner
+----------------
+1826
+Christian Friedrich Beckert
+Johann Traugott Erler
+Johann Gotthelf Schubert
+----------------
+Traugott Israel Silbermann
+Carl Gottfried Schmidt
+Carl Gotthelf Fischer
+----------------
+Carl Gottlieb Neubert
+Carl Gotthelf Reichel
+Carl Gottlob Heyde
+Carl Friedrich Wötzel
+----------------
+Carl Gottlieb Schmidt
+Carl Friedrich Plattner
+Johann Gottfried Schroeter
+----------------
+1827
+Gotthelf Friedrich Thomas
+Carl Gotthold Zimmermann
+Carl Gottlob Dieze
+----------------
+Carl Gottfried Hiller
+Israel Horn
+Carl Gottlob Fröbel
+August Friedrich Dietrich
+----------------
+Carl Friedrich Rößner
+Carl Gottfried Heyde
+August Wagner
+----------------
+Johann Traugott Preiß
+Johann Gottfried Felgner
+Gotthelf Friedrich Schirmer
+----------------
+Carl Gottlieb Erler

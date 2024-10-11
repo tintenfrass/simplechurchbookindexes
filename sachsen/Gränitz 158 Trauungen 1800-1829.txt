@@ -1,5 +1,5 @@
 Gränitz (Buch 158)
-Trauungen 1801-1819
+Trauungen 1801-1829
 https://www.archion.de/de/viewer/churchRegister/359753?pageId=50652055
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Mai 2024
 Juni 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -89,3 +90,65 @@ Carl Gottlieb Wächtler
 1819
 Carl Christian Gottlieb Schubert
 Karl? Gottlieb Steude //korrigiert
+----------------
+1820
+Johann Gottfried Melzer
+Gottlob Friedrich Löwe
+----------------
+1821
+Johann Gottlob Pänisch
+Samuel August Kirchner
+Johann Gottlieb Raum
+----------------
+Traugott Leberecht Glöß
+1822
+Carl August Eielenberger
+----------------
+Carl Friedrich Glöß
+Johann Christoph Seifert
+Carl Friedrich Werner
+----------------
+Carl Gottlieb Wolf
+David Friedrich Reichelt
+Carl Gottlieb Leber
+----------------
+1823
+Carl Gottlob Streubel
+Friedrich August Wolf
+Christ Friedrich Kreller
+----------------
+1824
+Johann Gottlob Wilhelm Kühn
+Carl Wilhelm Walther
+1825
+Gottlob Friedrich Schmidt
+----------------
+Carl August Schilling
+Carl Friedrich Zingner
+1826
+Karl Gottlob Richelt
+Carl Gottlob Kunze
+----------------
+Johann Carl August Weise
+Gotthelf Friedrich Hoffmann
+David Theodor Lobegott Zunker
+Carl Adolph Haupt
+Johann Gottlob Müller
+----------------
+1827
+Adolph Heinrich Clausnitzer
+Carl Gottlieb Wilhelm Schröter
+Johann Gotthelf Weigand
+----------------
+1828
+August Friedrich Herrklotz
+Carl Gottlieb Lippmann
+August Wilhelm Fischer
+Carl Gottlob Schubert
+----------------
+Carl Friedrich Henker
+1829
+Johann David Lohse
+----------------
+Carl Friedrich Fischer
+August Friedrich Krumbiegel

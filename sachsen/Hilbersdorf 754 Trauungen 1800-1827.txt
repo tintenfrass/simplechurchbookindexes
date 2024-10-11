@@ -1,5 +1,5 @@
 Hilbersdorf (Buch 754)
-Trauungen 1800-1819
+Trauungen 1800-1827
 https://www.archion.de/de/viewer/churchRegister/359842?pageId=50667725
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 0,5 Stunden
 Mai 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -211,3 +212,103 @@ Carl Friedrich Traugott Scheidhauer
 Carl Gottlieb August Keller
 Johann Gottfried Heymann
 Friedrich Gotthelf Ramm
+1820
+----------------
+Carl Friedrich Schwabe
+Friedrich Gottlob Müller
+Johann Gottlieb Grimmer
+Carl Gottlob Schneider
+----------------
+Carl Gottfried Venus
+Carl Gottlob Schneider
+Johann Abraham Gotthold Mende
+Carl Gottlieb Oelschlaegel
+----------------
+Gotthold Friedrich Herklotz
+Johann August Preußer
+Georg Friedrich Goehler
+----------------
+1821
+Johann Gottlob Leuschner
+Carl Gottfried Anders
+Carl Nathanael Wilhelm Kaufenstein
+----------------
+Christian Friedrich Hükler
+Carl Friedrich Gottlob Venus
+August Wilhelm Mende
+----------------
+Carl Gottlob Kühnelt
+Carl? Gottlieb Böhme //korrigiert
+1822
+Carl Gottfried Rothe
+Carl Gottlieb Kunze
+----------------
+Friedrich Wilhelm Wagner
+Georg Gottlieb Stein
+Carl Gottlieb Tippmann
+----------------
+Carl August Renkewitz
+Johann Gottfried Schneider
+Friedrich Moritz Krüger
+Gottlieb Fürchtegott Hegewald
+----------------
+1823
+Carl Gottlieb Stein
+Carl Friedrich Gotthold Stein
+Traugott Leberecht Böhme
+Carl Gottlob Klemm
+----------------
+Johann Daniel Leberecht Gloekner
+Traugott Wilhelm Lohse
+Carl Gotthelf Schneider
+----------------
+Carl Gottlob Mattuch
+1824
+Johann Gottlob Schmieder
+Gotthelf Leberecht Rümmler
+Carl Gottlob Geißler
+----------------
+Johann Gottfried Schmidt
+Friedrich August Müller
+Friedrich Gottlob Walther
+----------------
+Carl Gottlieb Schreiber
+Carl Gottlieb Wolf
+1825
+Carl Christian Krumbiegel
+----------------
+Carl Gottfried Morgenstern
+Carl Friedrich Wilhelm Venus
+Georg Friedrich Fischer
+Gotthelf Heinrich Müller
+----------------
+Gottlob Friedrich Rudolph
+Ehregott Leberecht Venus
+Carl Friedrich Büttner
+1826
+Christian Traugott Glöckner
+----------------
+Carl Gotthold Böhme
+Carl Gottlieb Prescher
+Carl Gotthold Birndt
+Carl Moritz Wagner
+----------------
+Carl Friedrich Gerhardt
+Karl? Gottlob Götze //korrigiert
+Franz Wenzel Heinz
+August Gotthold Band
+----------------
+Carl Gottlob Weichelt
+Carl Gottlieb Stein
+Carl Gottlob Hirschbach
+Carl Gottfried Venus
+----------------
+1827
+Carl Gottlieb Lehert
+Gottlieb Fürchtegott Hegewald
+Carl Gotthelf Küchenmeister
+Christian Gottfried Horn
+----------------
+Carl Gottlob Wilhelm Günther
+Johann Gottlieb Otte
+Carl Friedrich Fischer
