@@ -1,5 +1,5 @@
 Oberschöna (Buch 945)
-Trauungen 1790-1819
+Trauungen 1790-1829
 https://www.archion.de/de/viewer/churchRegister/360097?pageId=50717506
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,10 +9,11 @@ Hinweis:
 Filialkirche Wegefarth
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Januar 2024
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -309,3 +310,88 @@ August Friedrich Uhlemann
 ----------------
 Carl Gottfried Wolf
 Carl Friedrich Burkert
+1820
+Carl Gottlieb Kohl
+Johann Gottfried Tränkner
+Christian Friedrich Ehregott Starke
+----------------
+Carl Gottlob Scheunplug
+Samuel Ehregott Hubricht
+Johann Gottlieb Schubert
+Christian Gottlieb Schmidt
+Johann Gottlob Haubold
+Carl Gottlob Käsemodel
+----------------
+1821
+Carl Gottlob Kunze
+Carl Gottfried Scheunpflug
+Ehregott Leberecht Liebe
+Carl Gotthelf Bretschneider
+1822
+Christian Müller
+----------------
+Carl Gottfried Schmidt
+Johann August Hauptvogel
+Johann Gottlob Kluge
+Traugott Friedrich Uhlemann
+Johann Traugott Steiger
+----------------
+1823
+Johann Traugott Gläser
+1824
+Carl Gottfried Haubold
+Johann August Carl Hinkelmann //korrigiert
+Carl Gottlieb Scheunplug
+----------------
+Christian Ehregott Haubold
+Carl Wilhelm Friedrich Bär
+Carl Gottlieb Haubold
+Johann Gottfried Ehregott Ufer
+Carl Gottlob Kaden
+Johann Gottlob Haubold
+----------------
+Johann Gottlob Halm
+1825
+Traugott Morgenstern
+1826
+Johann Traugott Ufer
+Christian Traugott Glöckner
+Carl Christoph Rothe
+----------------
+Gottlob Friedrich Berthold
+Johann Carl Gottlob Henzel
+Johann Gottfried Schulze
+Christian Gottfried Hofmann
+Carl Christian Hofmann
+Christian Gottlieb Ranft
+----------------
+1827
+Carl August Frey
+Carl Gottlieb Lippmann
+Carl Gottlob Schiffler
+Carl Gottfried Leberecht Jehnlich
+Christian Friedrich Kröhnert
+Carl August Engelhart
+1828
+Carl Gottfried Meuzner
+----------------
+Carl Gottlieb Schubert
+Gotthelf Friedrich Hofmann
+Johann Samuel Haubold
+Carl August Eckardt
+Johann Gottlieb Kaden
+Carl Gottlieb Müller
+Johann Gottlob Oelsner
+----------------
+1829
+Eduard Linus Knorr
+Carl Gottlob Haubold
+Friedrich Wilhelm Obendorf
+Christoph Leberecht Zimmermann
+Johann Friedrich Baumann
+Christian Gottfried Hofmann
+Friedrich August Ludwig
+----------------
+Johann Martin Kelligus
+Johann Christian Hauptmann
+Johann Gottfried Tränkner

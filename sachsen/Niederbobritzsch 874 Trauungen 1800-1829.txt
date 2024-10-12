@@ -1,14 +1,15 @@
 Niederbobritzsch (Buch 874)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/360036?pageId=50705721
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -405,3 +406,219 @@ Carl Gottlieb Grimmer
 Georg Gottlieb Walther
 Johann Daniel Schäfer
 Johann Samuel Franke
+----------------
+1820
+Carl August Weigold
+Fürchtegott Leberecht Sättler
+Carl Gottlieb Fritzsche
+Johann Gottlieb Fritzsche
+Carl Friedrich Schubert
+Carl Gottlieb Erler
+Carl Gottlob Wunderwald
+----------------
+Carl Gottlob Gelffert
+Johann Gottlieb Beyer
+Traugott Benjamin Jenner
+Dominic Feller
+Carl August Hebert
+Johann Christoph Richter
+Carl August Gelffert
+----------------
+1821
+Johann Gotthelf Friedrich Braune
+Johann Gotthelf Leischner
+Carl Gotthold Götze
+Johann Gottlob Leischner
+Johann Samuel Böhme
+Samuel Friedrich Höppner
+Carl Traugott? Straßberger //korrigiert
+----------------
+Carl Gottlieb Weigold
+Christian Friedrich Fröbe
+Carl Nathanael Wilhelm Kaufenstein
+Carl Gottlieb Grimmer
+Johann Gottlieb Günzel
+Carl Gottlieb Biber
+Carl Gottlieb Lohse
+----------------
+Christian Friedrich Kaden
+Carl Gottlob Fröbe
+Friedrich August Grimmer
+Carl Gottlieb Spörke
+Gottlieb Benjamin Wolf
+Johann Carl Gottfried Krönert
+Gottlob Friedrich Wolf
+----------------
+Carl Gottlob Kühnel
+Johann August Zenker
+Carl Gottfried Wolf
+Christian Friedrich Sättler
+1822
+Johann Georg Ihle
+Johann Christoph Uhlich
+----------------
+Carl Gottlob Ihle
+Carl Gottfried Rothe
+Carl Elias Hebert
+Carl Gottlob Glöckner
+Carl Benjamin Weigold
+Carl Gottlieb Beyer
+Carl Gotthelf Neubert
+Carl Friedrich Schneider
+----------------
+Traugott Benjamin Bellmann
+Immanuel Hauptvogel
+Johann Gottfried Erler
+Carl Gottlob Schmidt
+Carl Gottlieb Tippmann
+Johann Carl Gottlieb Müller
+Carl Gottlieb Fischer
+----------------
+Johann Gotthelf Krönert
+Johann Gottlob Müller
+Johann Ernst Zeihn
+Adam Gottlieb Beckert
+Johann Carl Richter
+----------------
+1823
+Carl Gottlob Richter
+Carl Gottlob Lehmann
+Friedrich Wilhelm Nestler
+Carl Gottlieb Lohse
+Carl Gottlob Schindler
+Carl Traugott Weichelt //Weigold
+Carl Gottlieb Grimmer
+Carl Gottlieb Rothe
+----------------
+Gottlob Reichert
+Carl Gottlob Berger
+Johann Gotthold Heidrich
+Carl Gottlob Enzmann
+Carl Friedrich Höpner
+Carl Gottfried Ebert
+Carl Gotthelf Schneider
+----------------
+Carl Gotthold Gelffert
+Carl August Bräuer
+1824
+Carl Gottlob Müller
+Johann Gottlob Schmieder
+Johann Gottlieb Froos
+Carl Gottlob Schubert
+----------------
+Ehregott Leberecht Müller
+Traugott Benjamin Richter
+Christian Gottlob Großmann
+Carl Friedrich Schubert
+Carl Gottlob Beyer
+Carl Ferdinand Zimmler
+----------------
+Carl Gottlieb Weigold
+Johann Gottlob Herklotz
+Carl Gotthelf Hebert
+Carl Ernst Friedrich Fritzsche
+Carl August Götze
+Carl Gottfried Sohr
+Carl Gotthold Müller
+Johann Gottlob Kästner
+----------------
+Carl Gottlob Sättler
+Johann Adam Uhlmann
+1825
+Johann Georg Rudelt
+Johann Gottlob Weigold
+Johann Gotthelf Braune
+Johann Gottfried Neubert
+Johann Gottlob Ihle
+----------------
+Traugott Leberecht Richter
+Carl Gottfried Wolf
+Johann Daniel Gerlach
+Carl Friedrich Wehrtmann
+Gotthelf Heinrich Müller
+Johann August Beyer
+Johann Gottfried Hegewald
+----------------
+1826
+Carl Gotthelf Braune
+Carl Gottlob Ihle
+Johann Gottlob Scheumann
+Samuel Friedrich Fröbe
+Carl Wilhelm Spörke
+Johann Gotthelf Zimmermann
+Johann Gottlob Götze
+----------------
+Johann Gottfried Drechsler
+Johann Gottlob Berndt
+Carl Gottfried Beckert
+Carl Gottlob Weichelt
+Carl Gottlieb Stein
+Carl Gottlob Fieth
+Daniel Gottlieb Straßberger
+----------------
+----------------
+Joseph Schöpke
+Carl Gottlob Ziehnert
+Carl Friedrich Schmidt
+Johann Gottlob Bräuer
+1827
+Carl Gottlob Pflugbeil
+Johann Gotthelf Beyer
+----------------
+Carl Gottlob Berger
+Carl Gottlieb Ehnold
+Traugott Benjamin Neubert
+Carl Gottfried Schmieder
+Carl Gottlob Leberecht Zehl
+Carl Gotthelf Küchenmeister
+Carl Gottlieb Bernhard
+----------------
+Carl Gottlob Meyer
+Johann Friedrich Weigold
+Carl Gottlob Zeun
+Ehregott Samuel Keller
+Carl Gottlieb Keppler
+Friedrich Gottlieb Frey
+Johann Samuel Ihle
+----------------
+Carl Gotthelf Andreas
+Carl Gottlob Wunderwald
+Johann Gotthelf Andreas
+1828
+Friedrich Traugott Glöckner
+Gottlieb Leberecht Küchenmeister
+Gottfried Benjamin Timmel
+Carl Ehregott Fischer
+----------------
+Carl Gottlieb Kandler
+Friedrich Gottlieb Frey
+Traugott Leberecht Schmidt
+Carl Gottlob Friedrich
+Carl Gottlob Beier
+Carl Traugott Götze
+Carl Traugott Weigold
+----------------
+Wilhelm Samuel Ihle
+Gotthelf Traugott Krönert
+Carl Benjamin Spörcke
+Carl Gotthelf Weigold
+Christian Friedrich Walther
+Carl Gottlieb Müller
+Carl Gottfried Beier
+----------------
+1829
+Johann Gottfried Klemm
+Carl Gottfried Zimmermann
+Johann Gottlieb Köhler
+Friedrich Gottlieb Hirschbach
+Carl Gotthelf Gelfert
+Carl Gottlob Klemm
+Karl Gottfried Knobloch
+Carl Gottfried Schmidt
+----------------
+Johann Gottlob Bernhardt
+Karl Gottlob Krönert
+Johann Gotthelf Erler
+Carl Gottfried Müller
+Jonathan Ludewig
+Traugott Benjamin Wunderwald

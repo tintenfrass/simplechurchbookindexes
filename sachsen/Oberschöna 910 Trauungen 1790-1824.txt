@@ -1,15 +1,16 @@
 Oberschöna (Buch 910)
-Trauungen 1790-1819
+Trauungen 1790-1824
 https://www.archion.de/de/viewer/churchRegister/360090?pageId=50715458
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunde
 Januar 2024
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -560,3 +561,109 @@ Johann Samuel Schlimpert
 Johann David Tippmann
 ----------------
 Carl Gottlieb Uhlemann
+1820
+Christian Friedrich Börner
+Carl Immanuel Seide
+Heinrich Ferdinand Voigt
+----------------
+Carl August Enderlein
+Carl Friedrich Albin Zimmermann
+Johann Carl Gottlieb Thiele
+Christian Friedrich Porscht
+Christian Friedrich Ehregott Starke //durchgestrichen
+Johann Samuel Haubold
+----------------
+Carl Gottlob Neubauer
+Christian Friedrich Helbig
+Samuel Ehregott Hubricht
+Friedrich Gottlieb Georgi
+Georg Abraham Griesbach
+Carl Gottlob Käsemodel
+----------------
+Johann Christoph Gehler
+Christian Gottlob Gündel
+----------------
+1821
+Carl Gotthold Kaden
+Carl Gottlieb Höpfner
+Johann David Ludewig
+Traugott Leberecht Oesterrich
+Carl Friedrich Winkelmann
+Carl Friedrich Just
+----------------
+Carl Friedrich Traugott Wolf
+Carl Traugott Friedrich Köhler
+Johann Gottfried Richter
+Carl Gottlieb Schuffenhauer
+Esaias Gustav Richter
+Ernst Ferdinand Mejo
+----------------
+Christian Friedrich Klemm
+Carl Gotthelf Kaiser
+Carl Gottlieb Grunewald
+Johann Gotthelf Andreas
+Carl Friedrich Morgenstern
+----------------
+1822
+Johann Samuel Wagner
+Carl Gottlieb Kirsch
+Carl Gottlob Seyfert
+Johann Gottlob Kluge
+Carl Gotthelf Wagner
+Carl Gottfried Richter
+----------------
+Carl Friedrich Neubert
+Carl Friedrich Griesbach
+Carl Gottfried Arnold
+Christian Gottlob Helbig
+Johann Gottlieb Halm
+Johann Christoph Barthel
+----------------
+1823
+Carl Gottlob Hunger
+Johann Traugott Friedrich Hammermüller
+Johann Paul Rochlitzer
+Carl Gottfried Friedrich
+Georg Gottfried Gehler
+Carl Gottlieb Berger
+Carl Gottlob Dreyßig
+Johann Samuel Friedrich Berthold
+----------------
+Friedrich Wilhelm Lindner
+Carl Gottfried Maecke
+Christian Gottlob Wagner
+Carl Gottlob Küttner
+Salomon Gottlob Köhler
+Christian August Ley
+----------------
+Gotthelf Heinrich Greifenhagen
+Carl Gottlieb Böhme
+Samuel Friedrich Lange
+Christian Gottlob Wagner
+Carl Gottlob Hunger
+Samuel Friedrich Thiele
+Samuel Friedrich Andreas
+----------------
+1824
+Carl Gottlieb Ulbricht
+Samuel Friedrich Weygand
+Christian Gottlob Oswald
+Carl Gottlob Helbig
+Carl Gottlob Käsemodel
+Johann Gottlieb Porsdorf
+----------------
+Ehregott Friedrich Höpfner
+Friedrich Traugott Rudolph
+Friedrich Traugott Kunze
+Christian Friedrich Seyfert
+Johann Christoph Hoyer
+----------------
+Carl Friedrich Drechsler
+Johann Adolph Hubricht
+August Friedrich Müller
+Gottlob Thiele
+Johann Gottlob Fuhrmann
+Samuel Friedrich Haselbach
+August Heinze
+Israel Haubold
+Carl Friedrich Hofmann

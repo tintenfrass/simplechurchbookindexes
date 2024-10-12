@@ -1,5 +1,5 @@
 Naundorf (Buch 864)
-Trauungen 1800-1819
+Trauungen 1800-1825
 https://www.archion.de/de/viewer/churchRegister/360026?pageId=50703309
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 0,5 Stunden
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -351,3 +352,128 @@ Carl Gottfried Kaden
 Johann Gottfried Fischer
 Christian Friedrich Adolph Hoppler
 Johann Gottlieb Löwe
+----------------
+1820
+Johann Gotthelf Linke
+Carl Gotthelf Heinrich Weichold
+Johann Gottlob Ufer
+Johann Gotthelf Zeller
+August Friedrich Beckert
+Johann Carl Gottlieb Berndt
+Johann Georg Schubert
+----------------
+August Friedrich Wittig
+Johann Gottlob Kühn
+Johann Daniel Böhme
+August Friedrich Weber
+Johann Friedrich Franke
+Johann Gottlieb Linke
+Johann Daniel Träger
+----------------
+Johann Gottlieb Lohse
+Carl Gottfried Toterwitz
+Friedrich Wilhelm Spörke
+Johann Gottlieb Naumann
+----------------
+1821
+Johann Friedrich Traugott Range
+Christian Friedrich Böhme
+Johann Samuel Böhme
+Carl Gottlieb Feind
+Georg Friedrich Mädler
+Carl Gottlob Braune
+Carl Friedrich Gottlob Venus
+----------------
+Johann Christian Schöne
+Carl Gottlieb Voigt
+Johann Gottlieb Tauchert
+Johann Gottlob Wittig
+----------------
+1822
+Carl Friedrich Grimmer
+Carl Gotthelf Fehrmann
+Johann Gotthelf Glöckner
+Carl Gottlieb Herzog
+Christian Friedrich Herklotz
+Carl Friedrich Schiebold
+Carl Christian Gottfried Zimmermann
+Gotthelf Friedrich Lange
+----------------
+Carl Gottlob Dietze
+Carl Gottlieb Beyer
+Johann Samuel Liebert
+Johann Gottfried Müller
+Johann Gottlob Clausnitzer
+Gottlob Friedrich Kühn
+Carl Gottlob Mehnert
+Johann Ehregott Wilhelm Schier
+Johann Gottlob Glökner //durchgestrichen
+----------------
+Johann Gottlob Glöchner
+Johann Gottlob Wollmann
+Carl Gottlieb Ficke
+Johann Gotthelf Dietze
+1823
+Carl Gottlieb Braschmann
+Carl Gottfried Ludewig
+Christian Gotthelf Traugott Eger
+Carl Gottlieb Patzig
+----------------
+Carl Gotthelf Köhler
+Johann Gotthelf Wittig
+Carl Gottlieb Schurig
+Carl Gottlob Helmert
+Carl Gottlob Börner
+Carl Friedrich Ludewig
+Johann Gottlieb Fehrmann
+Carl Gottfried Günther
+----------------
+Johann Gottlob Böhme
+Carl August Müller
+Carl Gottlieb Uhlig
+----------------
+1824
+Carl Gottfried Fischer
+Carl Gottlob Lange
+Johann Leberecht Teuchert
+Johann Traugott Hofmann
+----------------
+Eduard Wilhelm Loehn
+Carl Gottfried Totterwitzen
+Carl Ludwig Rau
+Johann Daniel Schwarze
+Carl Gottfried Leberecht Sterl
+----------------
+Johann Samuel Bormann
+Carl Gottlieb Gietzel
+Johann August Friedrich Merkel
+Carl Gottlieb Thiele
+Gottlieb Traugott Töpold
+----------------
+Carl Gottlieb Kreyßig
+----------------
+1825
+Carl Gottlieb Keller
+Carl Gottlieb Böhme
+Johann August Boerisch
+Ernst Gottlieb Lange
+Gotthelf Benjamin Lange
+----------------
+Carl Gottfried Lohse
+Carl August Wagner
+Johann Gottlieb Böhme
+Carl Gottlob Bormann
+----------------
+Johann Gotthelf Bormann
+Ephraim Tippner
+Carl Gottlieb Träger
+Johann Christian Kirsten
+----------------
+Carl Friedrich Werthmann
+Carl Samuel Falke
+Carl Gottlob Steyer
+Johann Gotthelf Leberecht Schier
+----------------
+Friedrich August Loose
+Carl Gottfried Wittig
+Carl Friedrich Grimmer
