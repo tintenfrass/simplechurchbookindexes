@@ -1,5 +1,5 @@
 Weißenborn (Buch 397)
-Trauungen 1802-1819
+Trauungen 1802-1829
 https://www.archion.de/de/viewer/churchRegister/360196?pageId=50736819
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -156,3 +157,79 @@ Friedrich Traugott Eckardt
 Carl Gottlob Zimmermann
 Friedrich August Lohse
 Carl Gottlob Köhler
+----------------
+1820
+Friedrich Gottlob Müller
+Carl Gottfried Börner
+Johann Gottlieb Weichelt
+Johann Daniel Baumgardt
+----------------
+Carl Gottlob Richter //korrigiert
+1821
+Friedrich Wilhelm Scheunpflug
+Johann Benjamin Zeller
+Christian Gottlob Fischer
+----------------
+Christian Gotthelf Müller
+Johann Gottlob Jungnickel
+1822
+Friedrich Gottlob Böhme
+----------------
+Abraham Busch
+Traugott Leberecht Bartzsch
+Carl Gottlob Friedrich Heerklot
+Carl August Hesel
+----------------
+Friedrich Gotthelf Lorenz
+1823
+Carl Traugott Erler
+Johann Gottlob Humpisch
+1824
+Friedrich August John
+----------------
+Carl Friedrich Kannengießer
+Johann Gottfried Fritzsche
+Carl Friedrich Göhler
+Carl Friedrich Thierisch
+Carl Gottlob Fritzsche
+----------------
+1825
+Carl Gottlob Weichelt
+Johann Gottlob Goldmann
+Friedrich Moritz Richter
+Carl Gottlob Göhler
+----------------
+Carl Gottlieb Günther
+Johann Gottlob Friedrich Richter
+Johann Gotthelf Martin
+----------------
+1826
+Gotthold Friedrich Heymann
+Johann Gottfried Wunderwald
+Friedrich Gottlieb Richter
+Johann August Hunger //korrigiert
+----------------
+1827
+Johann Samuel Scheunpflug
+Johann Carl Gottfried Bernhardt
+Carl Adolph Zehl
+Carl Friedrich Müller
+----------------
+Friedrich Gottlob Spielhaus
+Carl Friedrich Günsel
+August Lobegott Heinsius
+Friedrich Traugott Griesbach
+----------------
+1828
+Georg Friedrich Kummer
+Friedrich August Kirsch
+Johann Friedrich Küchenmeister //korrigiert
+----------------
+1829
+Carl Gottlob Scheunpflug
+Johann Gottlob Timmel
+Johann August Hunger //korrigiert
+Carl Friedrich August Götzel //korrigiert
+Carl Traugott Kahl
+----------------
+Friedrich Adolph Braun

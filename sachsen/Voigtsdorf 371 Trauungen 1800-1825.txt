@@ -1,14 +1,15 @@
 Voigtsdorf (Buch 371)
-Trauungen 1800-1819
+Trauungen 1800-1825
 https://www.archion.de/de/viewer/churchRegister/360170?pageId=50732359
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -287,6 +288,7 @@ Johann David Köhler
 Carl Gottlob Mey
 Gotthelf Friedrich Müller
 ----------------
+1819
 Johann Gottlieb Träger
 Georg Friedrich Erler
 Johann Gotthelf Friedrich Fleischer
@@ -305,3 +307,109 @@ Johann Gottlieb Fischer
 Carl Traugott Bäßler
 Carl Gottlieb Schiller
 Christian Friedrich Werner
+1820
+Carl Friedrich Tanneberger
+Johann Gotthelf Trink
+Johann Gottfried Morgenstern
+----------------
+Carl Gottlob Erler
+Carl Gottlieb Schmidt
+Gottlieb Heinrich Hoffmann
+Johann Gottlob Bellmann
+Johann Gottlieb Backf
+----------------
+Johann Traugott Göpfert
+Carl Gottlieb Schmieder
+Johann Adolph Göpfert
+Carl Gottlob Müller
+Christian Gottlob Erler
+August Friedrich Storch
+Gotthelf Friedrich Waltter //korrigiert
+----------------
+1821
+Carl Gottlob Helbig
+Johann David Neuber
+Carl August Schlesier
+Carl Gottlieb Büschel
+Christian Gottlieb Mey
+Carl Gottlieb Hänig
+----------------
+Christian Gottlieb Fuchs
+Johann Gottlieb Schlesier
+Christian Friedrich Dietel
+Johann Gottlob Klemm
+Christian Friedrich Erler
+Traugott Leberecht Wagner
+----------------
+Johann Gottfried Frigelaus
+Carl Gottlieb Herklotz
+Carl Traugott Fröhlich
+Johann Gottlieb Hunger
+Carl Gottlieb Rudolph
+----------------
+1822
+Johann Gottlob Walther
+Carl Friedrich Fuchs
+Christian Friedrich Gehmlich
+Carl Friedrich Reichelt
+Traugott Friedrich Einert
+Johann Friedrich Glöß
+Carl Friedrich Schubert
+----------------
+Friedrich Wilhelm Eilzer
+Johann August Bellmann
+Johann Christoph Gottlob Büschel
+Carl Gottlieb Bellmann
+Johann Gotthelf Mende
+Christian Gotthelf Weisbach
+----------------
+Carl Gottlieb Backf
+Carl Gottlieb Buschmann
+Johann Gotthelf Buschmann
+----------------
+1823
+Johann Gottlieb Glös
+Carl Friedrich Schwarz
+Johann Gottfried Buschmann
+Johann Carl Friedrich Mühle
+Carl Gottlob Helbig
+Gottlob Friedrich Einert
+Carl Gottlieb Helbig
+Christian Friedrich Walter
+----------------
+Carl Gottlob May
+Carl Gottlieb Walter
+1824
+Karl Friedrich Lippmann //korrigiert
+Carl Friedrich Herklotz
+August Friedrich Matthes
+----------------
+Johann Traugott Büschel
+Johann Gottlieb Fischer
+Carl Friedrich May
+Johann? Gottlieb Mende //korrigiert
+Carl Gottlieb Hunger
+Christian Friedrich Thiersch
+----------------
+August Friedrich Tanneberger
+Carl Gottlob Helbig
+Carl Gottlieb Götzel
+Carl Gottlieb Erler
+August Friedrich Schmidt
+Adolph Friedrich Beyer
+Gotthelf Friedrich May
+Carl Gottlob Kreller
+----------------
+1825
+Fürchtegott Leberecht Walter
+Johann Gottlob Walter
+Johann Traugott Friedrich
+Johann Gottlieb Mey
+Gotthelf Friedrich Fuchs
+Christian Gottlieb Mey
+Johann Gottlieb Oehme
+Christian Friedrich Thiersch
+----------------
+Karl Friedrich Görner
+Carl Gottlieb Schlesier
+Carl Friedrich Müller
