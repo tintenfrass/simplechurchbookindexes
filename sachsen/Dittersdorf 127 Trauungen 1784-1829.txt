@@ -1,15 +1,16 @@
 Dittersdorf (Buch 127)
-Trauungen 1784-1819
+Trauungen 1784-1829
 https://www.archion.de/de/viewer/churchRegister/294215?pageId=40868969
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Oktober 2023
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -451,3 +452,127 @@ Johann Gottfried Bobe
 Johann Gottlieb Ehrlich
 Carl Gottfried Hesse
 Johann Friedrich Wilhelm Zillcher
+----------------
+1820
+Johann Gottlob Bormann
+Johann Gottlieb Legler
+Christian Traugott Herfurth
+Johann Daniel Petzoldt
+Johann Georg Grohmann
+Johann Gottlieb Schwenke
+Johann Gottlob Steiger
+Carl Gottlob Schwardorf
+----------------
+Johann Georg Gautzsch
+Carl Gottlieb Stock
+Johann Ehrenfried Donat
+Friedrich Christian Grahl
+1821
+Carl Gottlob Fleischer
+Johann Gottlieb Grahl
+Johann Gottlieb Dietrich
+----------------
+Carl Gottlieb Kimmel
+Christoph Gottlob Schwenke
+Johann Gottlob Mathe
+Johann Christlieb Schwenke
+Johann Gottlob Schmidt
+Christian Ehregott Zillcher
+----------------
+1822
+Johann Gottfried Hasse
+Carl Gottlieb Riedel
+Traugott Leberecht Mühle
+Johann Gottlieb Köhler
+Johann Christian Erhard
+Carl Friedemann Seyfert
+Johann Gottlieb Löwe
+Carl Gottlieb Kadner
+----------------
+Johann David Grahl
+Johann Christlieb Schwanke
+Johann Gottlob Huhle
+1823
+Johann Gottlieb Unger?
+Johann Gottfried Schneider
+Carl Gottfried Böhme
+Carl Christlieb Mühle
+Johann Gottlob Schneider
+----------------
+Johann Samuel Grahl
+Johann Gottfried Bobe
+Johann Gottfried Richter
+Carl Traugott Lampe
+1824
+Johann Christlieb Lehmann
+Carl Gotthelf Estler
+Carl Friedrich Seifert
+Johann Christlieb Hesse
+----------------
+Carl Gottlieb Klepsch
+Johann Gottlieb Zarschuch
+Carl Gottlieb Scheunert
+Johann Gottfried Klieber
+1825
+Johann Christian Jähnigen
+Johann Gottlob Schulze
+Carl Gottlieb Schwanke
+Carl Christian Bellmann
+Johann Carl Gottlieb Schönberger
+----------------
+Johann Gottlob Schönberger
+Johann Gottlieb Gleditzsch
+Carl Gottlieb Lotze
+Johann Gottlob Schmidt
+1826
+Carl Gottlob Hesse
+Johann Christlieb Schloffer
+Johann Christlieb Klepsch
+Carl Christlieb Zarschuch
+----------------
+Johann Gottlob Schloffer
+Johann Gottfried Kunad
+Johann Gottlieb Pellmann
+Johann Gottlieb Huckauf
+Georg Gottlob Thiele
+Friedrich Ehregott Mühle
+Gustav Friedrich Bekkert
+Johann Gottlieb Höne
+Carl Christlieb Giezelt
+----------------
+Johann Christian Fleischer
+Johann Gottlieb Manzer
+1827
+Carl Gottlieb Stock
+Johann Gottlieb Klepsch
+Carl Gottlieb Bellmann
+Wilhelm Ehregott Herzog
+Johann Gottfried Nitzsche
+Carl Gottlieb Knauthe
+----------------
+Johann Carl Christlieb Manzer
+Johann Gottfried Keilicht
+Johann Carl Gottlieb Aulhorn
+Christian Gottlob Hesse
+Carl Gottlob Hahmann
+1828
+Johann Carl Gottlieb Patzig
+Johann Gottlob Kunad
+Christian Gottlob Stock
+Johann Friedrich August Zillger
+----------------
+Johann Christian Gottlieb Pietzsch
+Christlieb Ehregott Pellmann
+Carl Gottlieb Rehn
+Johann Gottfried Helbig
+Johann Christlieb Schwenke
+Carl Traugott Jäkel
+Johann Gottlieb Köhler
+Jacob Phillip
+----------------
+1829
+Anoust Friedrich Gotthold Steiger
+Johann Gottlob Bormann
+Carl Wilhelm Mühle
+Johann Gottfried Weichelt
+Johann Carl Christlieb Hauswald

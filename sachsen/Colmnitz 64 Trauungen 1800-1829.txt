@@ -1,14 +1,15 @@
 Colmnitz (Buch 64)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/294161?pageId=40856014
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunde
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -457,3 +458,232 @@ Johann Samuel Fischer
 Johann Gottfried Glöckner
 Johann Samuel Lieber
 Johann Samuel Franke
+1820
+Christian Samuel Baumgarten
+Johann Daniel Fischer
+Carl Gottlieb Böhme
+----------------
+Johann Christoph Klemm
+Christian Friedrich Eckert
+Johann Gottlieb Scheumann
+Carl Gottlieb Renner
+Johann Gottfried Lieber
+Johann Gottlieb Jungnickel
+Johann Gottlieb Erler
+----------------
+Carl Gottlob Friedrich Kästner
+Johann Gotthelf Scheumann
+Johann Ehrenfried Hasche
+Carl Traugott Böhme
+Gottlieb Richter
+Johann Daniel Zimmermann
+----------------
+Johann Daniel Böhme
+Daniel Gottlob Böhme //korrigiert
+Georg Friedrich Lieber
+Johann Christoph Wunderwald
+Carl Gottlieb Berthold
+Carl Gottlieb Fischer
+Johann Gabriel Rothe
+----------------
+Johann Gottlieb Zimmermann
+Johann Gottlieb Glöckner
+1821
+Daniel Gotthelf Böhme
+Christian Friedrich Göhler
+Gottlieb Schubert
+Johann Gotthelf Schiffel
+Johann Heinrich Baumgarten
+----------------
+Johann Samuel Bellmann
+Carl Gottlob Gelfert
+Johann Carl Gottlieb Haschke
+Johann Samuel Wunderwald
+Johann Gottfried Weichelt
+Carl Friedrich Pfeiffer
+Carl Gottfried Berger
+----------------
+Johann Gottlob Schiffel
+Johann Gottlieb Hofmann
+Christian Gottlieb Schiffel
+Carl Gottfried Lotze
+Carl Gottlieb Fröbe
+August Friedrich Voigt
+Carl Gottlieb Dietze
+----------------
+Johann Carl Gottfried Krönert
+Carl Gottlieb Reichard
+Carl Gottlieb Böhme
+Gottlieb Friedrich Zimmermann
+Carl Gottlieb Fröbe
+Johann Daniel Lieber
+Georg Böhme
+----------------
+1822
+Johann Christoph Scheumann
+Johann Gottlieb Horn
+Carl Gottlob Franke
+Carl Gottlieb Jungnickel
+Carl Gottlieb Glöckner
+Johann Samuel Böhme
+Carl Gottfried Fischer
+----------------
+Carl Gottlieb Kahl
+Carl Gottlieb Böhme
+Johann Gottfried Böhme
+Carl Gottlob Schmidt
+Johann Samuel Schubert
+Johann Samuel Böhme
+Carl Gottlob Wetzel
+----------------
+Johann Samuel Böhme
+Carl Gottlieb Böhme
+Friedrich Klein
+Johann Daniel Böhme
+Carl Gottlieb Erler
+Johann Christoph Göhler
+Carl Gottlieb Glöckner
+----------------
+Johann Samuel Böhme
+Carl Samuel Glöckner
+1823
+Johann Gottlob Gelfert
+Johann Gottfried Menzer
+Johann Samuel Schneider
+----------------
+Johann Gottlieb Böhme
+Carl Gottfried Böhme
+Carl Gottlieb Böhme
+Johann Gottlieb Weint
+Carl Friedrich Fischer
+Carl Gottfried Gelfert
+----------------
+Carl Gottlieb Lieber
+Daniel Böhme
+Johann Samuel Schiffel
+Gottlieb Heinrich Pretzsch
+Carl Gottlob Mentzer
+Johann Samuel Schneider
+----------------
+Carl Gottlob Richter
+Johann Carl Gottlieb Petri
+Friedrich Gottlob Schneisky
+Carl Gottlob Erler
+Carl Gottlob Lotze
+----------------
+1824
+Johann Gottfried Göhler
+Carl Gottlieb Höfne
+Johann Gottlob Fuhrmann
+Johann Gottfried Fröde
+Johann Christoph Göhler
+Carl Gottlob Back
+Carl Gottlieb Schiffel
+Johann Gottfried Börner
+----------------
+Johann Gottfried Merkel
+Johann Gotthelf Franke
+Carl August Pfeiffer
+1825
+Johann Gottlieb Künzel
+Johann Friedrich Hähnel
+Johann Samuel Lieber
+Johann Christoph Hofmann
+----------------
+Johann Gottfried Gahmig
+Carl Gottfried Schöne
+Carl Gottlieb Fischer
+Christian Gottfried Schäfer
+Johann Gottlob Glöcker
+Carl Friedrich Hamann
+Johann Gotthelf Scheumann
+Johann Christoph Sohr
+----------------
+Christian Gottfried Wahl
+Johann Carl Gottlieb Böhme
+Karl Walther
+Johann Gottfried Hegewald
+Johann Gottfried Schmieder
+Carl Gottlieb Richter
+Johann Gottlieb Erler
+----------------
+1826
+Christian Gottlieb Richter
+Johann Samuel Reichart
+Johann Georg Wagner
+Johann Daniel Schiffel
+Carl Gottlieb Göhler
+Johann Gottlieb Hegewald
+Carl Gottlieb Staute
+----------------
+Johann Samuel Erler
+Johann August Laurenzius Lange
+Johann Samuel Schiffel
+Carl Gottlieb Börner
+Johann Samuel Schiffel
+Johann Daniel Böhme
+----------------
+Carl August Kürst
+Carl Gottfried Lohse
+Carl Gottlob Süße
+Johann Gottfried Hamann
+1827
+Carl Gottlieb Böhme
+Johann Gotthelf Glöckner
+----------------
+Carl Gottlob Bernhard
+Johann Heinrich Dietrich
+Carl Friedrich Drechsler
+Johann Gottlieb Roth
+Johann Gotthelf Stelzner
+Cornelius Glöckner
+----------------
+Johann Gottlieb Kahl
+Johann Samuel Jungnickel
+Carl Traugott Kreher
+Johann Gottfried Böhme
+Christoph Fritzmann
+Johann Samuel Lieber
+1828
+Johann Gottlieb Gahmig
+----------------
+Carl Gottlieb Lieber
+Carl Christoph Thiele
+Carl Friedrich Dietrich
+Johann Gottlieb Gahmig
+Johann Gottfried Böhme
+Johann Carl Gottlieb Böhme
+Johann Samuel Kaltofen
+----------------
+Carl Samuel Glöckner
+Johann Gottlieb Menzer
+Carl Gottlob Friedrich
+Carl Gottlieb Beyer
+Carl Gottlieb Lohse
+Johann Gotthelf Kühne
+Johann Christoph Lieber
+----------------
+Johann Friedrich Böhme
+Johann Gottfried Schiffel
+Johann Christoph Göhler
+1829
+Carl Gottfried Zimmermann
+Carl Gottlieb Zimmermann
+Christoph Böhme
+Friedrich Ferdinand Schroth
+----------------
+Johann Gottlob Schmeisky
+Carl Gotthelf Böhme
+Johann Christoph Aßmann
+Carl Gottlieb Richter
+Carl Gottfried Horn
+Johann Gottlieb Träger
+Friedrich Gottlob Schmeisky
+----------------
+Johann Christoph Menzer
+Johann Samuel Böhme
+Johann Gottlieb Lieber
+Johann Gottfried Dietrich
+Johann Gottfried Scheumann
+Friedrich Gottlob Schmeisky
+Johann Gottlieb Gahmig

@@ -1,5 +1,5 @@
 Bärenstein (Buch 21)
-Trauungen 1800-1819
+Trauungen 1800-1826
 https://www.archion.de/de/viewer/churchRegister/294127?pageId=40850457
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -262,3 +263,117 @@ Carl Leberecht Flemming
 Carl Gottlob Schwenke
 Johann Gottlob Köllner
 Friedrich Ehregott Jäpel
+----------------
+1820
+Friedrich August Pech
+Johann Christian Mörbitz
+Carl Friedrich Schwenke
+Gottlieb Benjamin Gottschalck
+Johann Gottlieb Scherber
+----------------
+Carl Gottlob Erler
+Carl Gottfried Heinrich Opitz
+Carl Friedrich August Schwenke
+Friedrich August Wilhelm Junpelt
+Carl Gotthelf Friedrich Bretschneider
+----------------
+Carl Traugott Oelschlägel
+1821
+Carl Gottlieb Hübmann
+Carl Traugott Gotthard Petzold
+Carl Heinrich Stettin
+Johann Gottlieb Nitzsche
+----------------
+Friedrich Wilhelm Eischke
+Johann Christian Schöne
+Carl August Eberth
+Eduard Wetterhain
+----------------
+1822
+Johann Samuel Näke
+Carl Gottlieb Christoph Guthe
+Carl Samuel Gottlieb Goldammer
+Carl Gottlieb Mende
+Johann Gotthelf Hahnewald
+Johann Christian Walther
+----------------
+Carl Gottlieb Mende
+Franz Krumbholz
+Johann Heinrich Schmidt
+Carl Gottlob Klemmer
+Christoph Friedrich Oschatz
+Friedrich August Ludewig
+----------------
+Johann Wilhelm Hickmann
+1823
+Johann Gottlieb Böler
+Johann Gottlob Kästner
+Christian August Petzold
+Georg Friedrich Dittrich
+----------------
+Johann Traugott Kühnel
+1824
+Johann Gottlob Kittler
+Johann Gottlieb Protze
+Anton Rudolph
+----------------
+Carl Gotthelf Estler
+Carl Friedrich August Schwenke
+Gotthelf Behr
+Johann Gottfried Schwitzky
+----------------
+Johann Gottfried Pester?
+Johann Jacob
+Johann Leberecht Müller
+Traugott August Petzold
+Gotthelf Leberecht Oehlschlägel
+Carl August Schmidt
+----------------
+Christian Gottlob Weichelt
+Carl Gottlieb Oelschlägel
+Samuel Gottlieb Günther
+Carl Gottlieb Freund
+Carl Gottlob Kadner
+Carl August Mende
+----------------
+1825
+Johann Gottlob Eichler
+Christian Traugott Friedrich? Mende
+Johann Traugott Schelle
+Johann August Liebeheim
+Christian August Hille
+Karl Gottlob Schwenke
+Carl Heinrich Stettin
+----------------
+Christian Gottlieb Rudolph
+Carl Gotthelf Günther
+Johann Carl Gottlieb Seyfferth
+Johann Gottlieb Lehmann
+Johann Christlieb Mende
+Carl Gottlieb Eberth
+Carl Siegismund Zinnert
+----------------
+Christian Friedrich Walther
+Carl Gottlieb Schwenke //durchgestrichen
+Wilhelm August Weichold
+Carl Gottlieb Schwenke
+Karl Gottlieb Boehme //durchgestrichen
+----------------
+1826
+Karl Gottlieb Böhme
+Adam Friedrich Griesbach
+Adolph Ludwig Behnert
+David Benjamin Kirschen
+Johann Gottlieb Sterl
+Carl Gottlieb Schwenke
+Traugott Carl Leberecht Kühnel
+----------------
+Johann Samuel Gottlob Lehmann
+Carl Erdmann Dittrich Volger
+Carl Friedrich August Eichler
+Traugott Leberecht Günther
+Johann Gotthelf Reichel
+Carl Gottlieb Lehnert
+Carl Friedrich Eberth
+----------------
+Johann Christian Fleischer

@@ -208,9 +208,9 @@ Georg Andrig
 ----------------
 1675
 Georg Dietrich
-Martin Strochbach
+Martin Strohbach
 1676
-Martin Strochbach
+Martin Strohbach
 Christian Döring
 Michael Dachsel
 Michael Günther
@@ -348,7 +348,7 @@ Johann Patzig
 1704
 Georg Rüdiger
 Michael Patzig
-Georg Strochbach
+Georg Strohbach
 ----------------
 Georg Lange
 1705
@@ -380,7 +380,7 @@ Michael Kießling
 Johann Fritzsche
 Georg Marbint?
 ----------------
-Jacob Döring
+Jacob Döring | Barbara Strohbach
 Johann Tietz
 Heinrich Hauswald
 Gabriel Patzig
@@ -389,7 +389,7 @@ Melchior Dietrich
 Johann Fleischer
 1711
 Georg Schubert
-Christian Strochbach
+Christian Strohbach
 ----------------
 Christoph Andrich
 Georg Rüdiger

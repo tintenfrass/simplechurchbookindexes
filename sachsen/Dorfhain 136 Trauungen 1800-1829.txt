@@ -1,14 +1,15 @@
 Dorfhain (Buch 136)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/294223?pageId=40870890
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -274,3 +275,202 @@ Johann Gottlob Glöckner
 Carl Gottlieb Geißler
 ----------------
 Carl Gottlob Schneider
+1820
+Friedrich August Mohr
+Johann Gottfried Zimmers
+Carl Gottlob Jänners
+Carl Friedrich Legler
+Carl Gottfried Richter
+Carl Gottlob Merkel
+Johann Michael Wagner
+Johann Gottfried Kiesling
+Carl Funke
+Christian Gottfried Kunath
+Johann Gottlob Wolf
+----------------
+Johann Carl Gottlob Heling
+1821
+Johann Christian Hofmann
+Johann Gotthelf Leischner
+Johann Gottlieb Baumgart
+Carl Gottlieb Hofmann
+Johann Gottlieb Partzsch
+Daniel Gottfried Lommatzsch
+Johann Gottlob Pählich
+Christoph Heinrich Oeser
+----------------
+Carl Gottlieb Silbermann
+Johann Gottfried Ihle
+Gottfried Silbermann
+Johann Gottlieb August Fehrmann
+Carl Gottlob Neubert
+Carl Gottlieb Adam
+Carl Gottlieb Böhme
+1822
+Johann Georg Ihle
+Samuel Gottlieb Eismann
+----------------
+Carl Gottlob Herzog
+Samuel Fürchtegott Grimmer
+Johann Friedrich Beyer
+Johann Gottlob Rothe
+Johann Gottlieb Töpfer
+Carl Gottlob Brühl
+Johann Daniel Grimmer
+Friedrich Michael Hartmann
+----------------
+Traugott Friedrich Uhlemann
+Carl Gottlieb Richter
+Carl Gottfried Richter
+Johann Gottfried Mai
+----------------
+1823
+Johann Christian Bormann
+Johann Daniel Schäfer
+Siegmund Traugott Herrmann
+Carl Gottfried Töpfer
+----------------
+Carl Gottfried Philipp
+Johann Christian Friedrich Winckler
+Ehregott Daniel Ebert
+Johann Georg Maul
+Carl Friedrich Kaden
+----------------
+Johann Daniel Näcke
+Carl Gottlob Büttner
+Carl Gottlob Küttner
+Johann? Carl Gottfried Ebert
+----------------
+Christian August Bormann //korrigiert
+Christian Friedrich Büttner //korrigiert
+Johann Gotthelf Fleischer
+Carl Friedrich Bretschneider
+----------------
+Carl Gottlob Adam
+Johann Carl Gottlob Philipp
+1824
+Carl Gottlieb Zimmermann
+----------------
+Christian Friedrich Adam
+Johann Gottfried Schulze
+----------------
+Johann Gottlob Büttner
+Carl Gottlieb Höfner
+----------------
+Carl Benjamin Mehnert
+Carl Gottfried Görner
+----------------
+Ehrenfried Günther
+Carl Wilhelm Köppe
+----------------
+Johann Samuel Teichmann
+Johann Gottlob Schaarschuch
+----------------
+Carl Friedrich Gebel
+Johann Gottlob Zscheile
+----------------
+Johann Gottlob Büttner
+Friedrich August Gutte
+----------------
+1825
+Johann Christian Berger
+Gottfried Adam
+----------------
+Carl Friedrich August Hensel
+Daniel Gottlieb Helbig
+----------------
+Christian Traugott Junold
+Carl Gottfried Zenner
+----------------
+Christian August Kreß
+----------------
+Carl Christoph Richter
+Carl Gotthelf Müller
+----------------
+1826
+Johann Gottfried Bernhard
+Johann Daniel Richter
+----------------
+Daniel Gottlieb Stenzel
+Gottlieb Heinrich Nitschner
+----------------
+Johann Samuel Ebert
+Carl? Gottlob? Gottfried Ephraim Ebert
+----------------
+Johann Gottlieb Riehmer
+Johann Gottfried Heinrich Bormann
+----------------
+Carl Gottfried Richter
+Johann Gottfried Schumann
+----------------
+Johann Gotthelf Brühl
+Carl Gottfried Berger
+----------------
+Johann Samuel Schiffel
+Carl Gottlieb Neubert
+----------------
+Carl Gotthelf Büttner
+Christian Friedrich Geisler
+Carl Friedrich Pfeiffer
+----------------
+1827
+Carl Gottlieb Lohse
+Carl Gottlieb Griesbach
+----------------
+Carl Gottfried Böhme
+Carl Gottlob Baumgarten
+Carl Gottlieb Menzer
+----------------
+Johann August Traugott Leudritz
+Siegmund Friedrich Zießler
+Johann Carl Gotthelf Hofmann
+----------------
+Johann Daniel Baumgart
+Johann Gottfried Neubert
+August Friedrich Neubert
+----------------
+Carl Gottlieb Bormann
+Gottfried August Bormann
+Carl? Samuel Ihle //korrigiert
+----------------
+Johann Gottlob Klotz
+Carl Gottlieb Scharfe
+----------------
+1828
+Johann Gotthelf Zimmer
+Carl Gottfried Adam
+----------------
+Johann Carl Gottlieb Böhme
+Carl Gottfried Kummer
+----------------
+Gottlieb Samuel Philipp
+Johann Gottlieb Henker
+----------------
+Christian Gottlieb Stenzel
+Gottlieb Thiele
+----------------
+Carl Gottlob Kunad
+Carl Friedrich Traugott Stenke
+----------------
+Gottlob Heinrich Böhme
+Carl Gottfried Zimmer
+----------------
+Carl Gottlob Reichelt
+----------------
+1829
+Christian Gottfried Ziegenhorn
+Johann Carl Gottlieb Adam
+----------------
+Johann Gottfried Müller
+Johann Carl Gottlieb Reichelt
+----------------
+Carl Gottfried Büttner
+Daniel Gottfried Kunath
+----------------
+Carl August Löhnert
+Carl Christoph Zimmermann
+----------------
+Carl Gottfried Franke
+Gottlob Friedrich Mende
+----------------
+Christian Gotthelf Klemm

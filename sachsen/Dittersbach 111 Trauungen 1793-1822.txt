@@ -1,5 +1,5 @@
 Dittersbach (Buch 111)
-Trauungen 1793-1819
+Trauungen 1793-1822
 https://www.archion.de/de/viewer/churchRegister/294204?pageId=40866691
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 0,5 Stunden
 Oktober 2023
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -293,3 +294,35 @@ Johann Gottfried Ditrich
 Friedrich Wilhelm Ditrich
 Christian Friedrich Börner
 Johann Christian Lohse
+1820
+Johann Gottfried Aehnelt
+Johann Gottfried Funke
+----------------
+Karl Friedrich Lehmann
+Johann Gottlob Aehnelt
+Karl Gottlob Schlieder
+Christian Friedrich Traugott Krause
+1821
+Traugott Heinrich Göpfert
+Carl Gottlieb Hegewald
+Carl Friedrich Weichelt
+----------------
+Carl Gottlieb Lohse
+Carl Friedrich Hähnel
+Johann Gottlieb Wolf
+Christian Friedrich Richter
+1822
+Johann Gottlob Walther
+----------------
+Johann Carl Christian Gottlieb Walther
+Carl Gottlob Göpfert
+Johann Christoph Hennig
+Christoph Friedrich Göhler
+----------------
+Johann Gottlob Berndt
+Carl Friedrich Neubert
+Friedrich Gottlieb Aehnelt
+Friedrich Gottlieb Göpfert
+----------------
+Johann Gottlieb Rudolph
+Johann Carl Richter
