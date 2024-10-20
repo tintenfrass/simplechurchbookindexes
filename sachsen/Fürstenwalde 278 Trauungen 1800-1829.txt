@@ -1,5 +1,5 @@
 Fürstenwalde (Buch 278)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/294344?pageId=40895333
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 0,5 Stunde
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -172,3 +173,87 @@ Friedrich Daniel Reuter
 Carl Gottlieb Gößel
 ----------------
 Johann Traugott Kohl
+1820
+Johann Gottlob Schwenke
+Johann Christoph Gößel
+----------------
+Johann Christian Gößel
+Christoph Gottlieb Lehmann
+1821
+Gottlob Benjamin Schwenke
+Johann Gottlieb Scherber
+----------------
+Carl Gottlieb Gößel
+Carl Friedrich Hörnig
+David Gottlob Franke
+Johann Christian Schindler
+----------------
+Carl Friedemann Knauthe
+Immanuel Friedlieb Gößel
+Johann Gottlob Müller
+Heinrich Gottlieb Rehn
+----------------
+1822
+Carl Gottlob Glaß
+Carl Friedemann Seifert
+Johann Gottfried David Gößel
+Carl Friedrich Tittel
+Christlieb Ephraim Heinrich Löwe
+----------------
+Johann Christoph Schindler
+Johann Gottlieb Meißner
+1823
+Christian Gotthelf Göbel
+Johann Benjamin Seifert
+----------------
+Friedrich August Peukert
+1824
+Carl Friedrich Seifert
+Carl Gottlob Bierig
+Johann Carl Gottfried Fuhrmann
+----------------
+1825
+Johann Gottlieb Schindler
+Carl Gottlieb Köhler
+Johann Carl Gottlieb Gößel
+----------------
+Johann Georg Heymann
+Johann Georg Schneider
+Carl August Mühle
+----------------
+1826
+Friedrich August Knauthe
+Johann Gottfried Tempel
+Johann Gottfried Ritschel
+----------------
+Immanuel Friedlieb Gößel
+Samuel Siegfried Schramm
+Carl Gottlob Kümmel
+----------------
+1827
+Johann Gottlob Eichler
+Carl Friedemann Peukert
+Friedrich Gotthelf Lamm
+Johann Georg Lehmann
+----------------
+August Löwe
+Johann Christoph Schindler
+Johann Gottfried Schlinzig
+Dominik Rumrich
+----------------
+1828
+Franz Joseph Heumann
+Carl Friedrich Beckert
+Johann Georg Heller
+Carl Gottlieb Lehmann
+Friedrich Gotthard Köhler
+----------------
+Carl Gottfried Knauthe
+1829
+Johann Carl Gottlieb Gößel
+Carl Gottlieb Mertzsching
+Friedrich Gotthelf Nitsche
+----------------
+Johann Carl Heinrich Tempel
+Samuel Siegfried Schramm
+Carl Gottlob Bierig

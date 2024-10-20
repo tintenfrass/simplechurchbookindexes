@@ -1,5 +1,5 @@
 Hartmannsdorf (Buch 322)
-Trauungen 1764-1819
+Trauungen 1764-1829
 https://www.archion.de/de/viewer/churchRegister/294383?pageId=40903926
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -15,6 +15,7 @@ Erstellt in ca. 1,5 Stunde
 Oktober 2023
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -613,7 +614,78 @@ Johann Christlieb Kästner
 Karl Gottlob Göhler
 Johann Gottfried Kästner
 Gottlob Bretschneider
----------------- x26
+1820
+Johann Gottlob Bernhardt
+Karl Gottlieb Börner
+Karl Gottlieb Schneider
+Karl Gottfried Zimmermann
+Johann Samuel Ernst
+----------------
+1821
+Carl Gottlieb Rüger
+Johann Gottlieb Winckler
+Georg Friedrich Kaden
+Carl Gottlob Hammer
+Carl Gottlieb Zimmermann
+Karl Gottlieb Hänel
+Carl Gottfried Lehmann
+Karl Gottlieb Böner
+1822
+Karl Gottlieb Börner
+Johann Georg Hornap
+Carl Gottlieb Hänel
+----------------
+1823
+Karl Ferdinand Müller
+Johann Christian Friedrich Köhler
+Carl Gottlieb Göhler
+Carl Friedrich Walther
+1824
+Ehregott Friedrich Stenzel
+Franz Adolph Wilhelm
+Johann Gottlieb Richter
+----------------
+Carl Gottlieb Grimmer
+1825
+Carl Friedrich Gotthelf Erler
+Carl Gottlieb Ernst
+Carl Gottlob Bellmann
+Carl Friedrich Stenzel
+----------------
+Georg Gottlieb Berger
+Gottlieb Friedrich Kästner
+Carl Friedrich Hänel
+Georg Gottlieb Börner
+1826
+Carl Gottlieb Neuber
+----------------
+Carl Gottfried Weckbrodt
+Johann Gottlob Ernst
+Johann Carl Gottlieb Richter
+Gottlob Friedrich Sommerschuch
+Christian Friedrich Richter
+Johann Georg Carl Friedlieb Ebert
+----------------
+Carl Gottlieb Göhler
+Carl Gottfried Richter
+Johann Gottlieb Friedrich Götzelt
+Johann Carl Friedrich Bellmann
+1827
+Johann Christian Herrmann
+----------------
+Johann Samuel Weichelt
+1828
+Christian Friedrich Börner
+1829
+Gottlieb August Baumgart
+Johann Friedrich Gotthelf Zimmermann
+----------------
+Carl Gottlieb Anders
+Johann Carl Samuel Richter
+Johann Gottlieb Zimmermann
+Johann Gottlob Schulze
+Johann Carl Friedrich Müller
+---------------- x18
 1764
 Johann Christian Götzelt
 Christoph Zimmermann

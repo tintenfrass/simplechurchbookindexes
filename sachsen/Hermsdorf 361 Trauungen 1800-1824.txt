@@ -1,14 +1,15 @@
 Hermsdorf (Buch 361)
-Trauungen 1800-1819
+Trauungen 1800-1824
 https://www.archion.de/de/viewer/churchRegister/294416?pageId=40909002
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunde
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -442,3 +443,130 @@ Carl Gottlob Stenzel
 Johann Gottfried Schiebel
 ----------------
 Carl Gotthelf Walther
+1820
+Johann Samuel Schneider
+----------------
+Carl Gottlieb Fischer
+Ehrenfried Kempe
+----------------
+Friedrich Wilhelm Dietrich
+Johann Christian Großmann
+----------------
+Carl Friedrich Höhnel
+Carl Gottlieb Börner
+Carl Friedrich Fischer
+----------------
+Johann Gotthelf Liebscher
+Carl Gotthold Walther
+Gottlob Friedrich Liebscher
+----------------
+Georg Carl Liebscher
+Carl Gotthelf Göhler
+Carl Friedrich Baumgarten
+----------------
+Gotthelf Friedrich Hennig
+Carl Gottlob Kretzschmar
+Christian Gottlieb Göhler
+----------------
+Johann Carl Friedrich Köhler
+1821
+Johann Gottlob Sommerschuh
+Johann Christian Friedrich Grumbd
+----------------
+Carl Friedrich Liebscher
+Johann Heinrich Stenzel
+Carl Gotthelf Knauthe
+Carl Friedrich Börner
+----------------
+Johann Gottfried Walther
+Carl Theodor Fiedler
+Johann Gottlob Schneider
+----------------
+Gottfried Andreas Müller
+Gotthold Friedrich Leberecht Neuber
+Gotthold Friedrich Liebscher
+----------------
+Carl Gottlob Lohse
+Christian Gottlob Hennig
+Johann Gottlob Scheinert
+----------------
+Friedrich August Göpfert
+Christian Friedrich Richter
+Gottlob Friedrich Tröger
+----------------
+Carl Gottlieb Wolf
+Wilhelm Fischer
+1822
+Johann Gottfried Dietrich
+----------------
+Carl Gottlob Grumpelt
+Friedrich Ehregott Preußler
+Carl Gottlob Friedrich Hennig
+----------------
+Carl Friedrich Fischer
+Johann Heinrich Walther
+Johann Gottlob Thümmel
+Georg Friedrich Richter
+----------------
+Carl Gottfried Bernhard
+Johann Christian Wolf
+Georg Friedrich Liebscher
+Wilhelm Ehregott Stenzel
+----------------
+Christian Friedrich Liebscher
+1823
+Carl August Tippmann
+Johann Gottlob Scheinpflug
+----------------
+Georg Gottlieb Grohmann
+Carl Siegmund Clausnitzer
+Ehregott? Fürchtegott Leberecht Liebscher
+----------------
+Gotthelf Lietscher
+Heinrich August Steiger
+Carl Gottlob Dietrich
+Georg Gotthelf Hennig
+----------------
+Carl Friedrich Walther
+Johann Gotthelf Liebscher
+Carl Gottlob Richter
+----------------
+1824
+Ehregott Friedrich Stenzel
+Carl Gottlob Friedrich Lohse
+Gottlob Friedrich Breitschneider
+----------------
+Carl Salomo Richter
+Gottlieb Friedrich Schmieder
+Christian Friedrich Walther
+Gottlob Friedrich Liebscher
+----------------
+Carl Gottlob Hennig
+Carl Friedrich Hennig
+Johann Samuel Reichel
+Johann Georg Wolf
+----------------
+Christian Friedrich August Schneider
+Carl Friedrich Liebscher
+Carl Friedrich Liebscher
+Christian Friedrich Böhme
+----------------
+Carl Gotthelf Fischer
+Georg Friedrich Walther
+Johann Christoph Weiße
+Gottlob Friedrich Hennig
+Carl Gottlieb Börner
+----------------
+Ehrenfriedrich Liebscher
+Christian Gottlieb Fischer
+Fürchtegott Friedrich Walther
+Carl Friedrich Stenzel
+Johann Gotthold Hunger
+----------------
+Carl Gottlob Friedrich Lohse
+Carl Gottlieb Erler
+Carl Friedrich Wolf
+Daniel Gotthold Walther
+Christlieb Friedrich Liebscher
+Carl Gottlieb Börner
+Johann Gotthelf Börner

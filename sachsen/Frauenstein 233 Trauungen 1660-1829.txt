@@ -1,14 +1,15 @@
 Frauenstein (Buch 233)
-Trauungen 1660-1819
+Trauungen 1660-1829
 https://www.archion.de/de/viewer/churchRegister/294306?pageId=40890969
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 3 Stunden
+Erstellt in ca. 3,5 Stunden
 Oktober 2023
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -2146,3 +2147,180 @@ Traugott Leberecht Hensel
 Carl Gottfried Lorentz
 Johann Gottlob Rüdiger
 Johann Friedrich Gotthelf Bernhard
+----------------
+1820
+Johann Gottlob Bernhard
+Johann Gottlieb Kaden
+Carl Gottlieb Dietrich
+Christian Friedrich Liebscher
+Friedrich Gotthelf Tröbner
+Gotthelf Friedrich Horn
+Carl Gottlob Schlieder
+----------------
+Johann Christian Schneider
+Georg Gottlieb Pischel
+Johann Jacob Hammer
+Johann Georg Friedrich Funke
+Carl Gottlieb Richter
+Christian Friedrich Ludwig Lippmann
+----------------
+Johann Gottfried Köhler
+1821
+Gottfried Müller
+Christoph Leberecht Koch
+Carl Gotthelf Lehmann
+----------------
+Carl Gottfried Siegmund Grimmer
+Johann Gottfried Schmieder
+Johann Heinrich Stenzel
+Johann Samuel Richter
+Carl Friedrich Griesbach
+----------------
+Carl Traugott Leberecht Mosch
+Gottlieb Gotthelf Zennich
+Johann Christoph Lehmann
+Friedrich August Schmied
+Johann Gottfried Lose
+----------------
+1822
+Johann Gottlieb Kaestner
+August Ernst Ziebler
+Carl Gottlob Zinke
+Franz Börner
+Carl Gottlieb Kaesemodel
+Carl Gottlob Schäfer
+----------------
+Carl Gottlob Aehnelt
+Wilhelm Ehregott Stenzel
+Samuel Fröbel
+----------------
+1823
+Gottlob Siegismund Wiegand
+Johann Georg Gottlieb Fischer
+Georg Gotthelf Schröder
+Carl Friedrich Bachmann
+Carl August Müller
+Ernst Ludwig Steiger
+----------------
+Carl Gottlob Pretzsch
+Carl Heinrich Lotze
+Johann Gottlob Mehnert
+Carl Friedrich Fischer
+Johann Carl Gottlob Richter
+Johann Gotthelf Neubert
+Johann Gottlieb Göhler
+----------------
+1824
+Samuel Friedrich Leberecht Zimmermann
+Johann Gottfried Fleischer
+Georg Gottlieb Börner
+Carl Gottlieb Weichelt
+Carl Gottlieb Kaden
+Carl Gottlieb Bellmann
+----------------
+Franz Bladeck
+Friedrich Wilhelm Greif
+Carl Friedrich Traugott Kaden
+Johann Gottlob Grohmann
+Georg Gottlieb Richter
+Georg Friedrich Lippmann
+----------------
+Christian Gottlob Benjamin Kliemann
+Jacob Richter
+----------------
+1825
+Johann Gottlob Goldmann
+Carl Gottfried Schmieder
+Carl Friedrich Gotthelf Schneider
+Carl Gottlob Schröder
+Carl Friedrich Richter
+Carl Gottfried Fleischer
+----------------
+Carl Gottlob Liebscher
+Friedrich August Hofmann
+Traugott Friedrich Zinke
+August Forberg
+Johann Gotthelf Bormann
+----------------
+Carl Gottfried Kleeberg
+Christian August Schusler
+Carl Friedrich Kaden
+Carl Gottlieb Lehmann
+Johann August Friedrich Stendel
+----------------
+Johann Gotthelf Wolf
+Carl Friedrich August Hermann
+Carl Christian Franke
+August Friedrich Krause
+Gottlob Friedrich Grösel
+Carl Gottlob Weckbrod
+----------------
+Christian Friedrich Zimmermann
+----------------
+1826
+Johann August Salomon Schmidt
+August Friedrich Oehlschlegel
+Johann Gottlieb Wolf
+Johann Georg Steiger
+Friedrich Wilhelm Reich
+----------------
+Georg Gottfried Bernd
+Traugott Friedrich Richter
+Johann Gottfried Grumpelt
+Georg Gottlieb Arnold
+Carl Gottlieb Fischer
+Carl Christoph Schmelzer
+----------------
+Johann Gottlob Kertscher
+----------------
+1827
+Friedrich Ehregott Lohse
+Friedrich Wilhelm Linse
+Christian Gottfried Voigt
+Johann Carl Gottlob Müller
+----------------
+Georg Friedrich Kempe
+August Samuel Voigt
+Samuel Friedrich Bellmann
+Christian Friedrich Richter
+----------------
+August Leberecht Bormann
+Johann Ludwig Stenzel
+Carl Gottlieb Wetzel
+Johann Gottfried Kertscher
+----------------
+Carl Gottlob Polster
+1828
+Gotthelf Friedrich Ihle
+Carl Gottlob Fischer
+Johann Wilhelm Friedrich Neubert
+August Friedrich Fritzsche
+----------------
+Johann Gottlob Mende
+Friedrich Fürchtegott Hetze
+Johann Friedrich Bellmann
+Johann Gottfried Böhme
+Carl August Kätschner
+----------------
+1829
+Christoph Friedrich Schwarz
+Georg Friedrich Richter
+Friedrich Joseph Klingsohr
+Christian Bernhard Reinke
+----------------
+Ehregott Leberecht Kaden
+Carl Gottlieb Göhler
+Carl Gottlob Dünger
+Joseph Carl Theophil Szostak
+Samuel Eyßrig
+----------------
+Carl Friedrich August Bellmann
+Christian Friedrich Weichold
+Johann Christian Dittrich
+Johann Gotthelf Fischer
+Johann Georg Schütze
+----------------
+Carl Gottlob Schlider
+Gotthelf Immanuel Philipp
+Carl Gottlob Schulze
+Carl Gottlieb Kaiser

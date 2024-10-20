@@ -1,5 +1,5 @@
 Hennersdorf (Buch 343)
-Trauungen 1800-1819
+Trauungen 1800-1822
 https://www.archion.de/de/viewer/churchRegister/294401?pageId=40906762
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 0,5 Stunden
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -401,3 +402,55 @@ Gotthelf Friedrich Neubert
 Carl Gottlob Grohmann
 Johann Gottlieb Fischer
 Carl Gottlob Sommerschuh
+----------------
+1820
+Carl Gottlieb Lohse
+Johann Christoph Thümmel
+Carl Gotthelf Zimmermann
+Carl Christian Göhler
+Johann Gottlob Göhler
+Carl Gottlob Reichelt
+----------------
+Carl Ferdinand Valentin
+Johann Christian Krumpolt
+Christian Traugott Seifert
+Carl Christian Friedrich Klotz
+Carl Gottlieb Seidler
+Carl Friedrich Thümmel
+----------------
+Johann Gottfried Köhler
+Johann Gottlieb Wolf
+----------------
+1821
+Carl Heinrich Helbig
+Johann Traugott Tennert
+Johann Gottfried Göhler
+Johann Gottfried Wagner
+Carl Gottfried Grohmann
+----------------
+Carl Gottlieb Fleischer
+Johann Christoph Börner
+Carl Friedrich Hänel
+Carl Christian Kempe
+Georg Friedrich Wolf
+Gottlob Friedrich Tröger
+----------------
+1822
+Johann Carl Gottlob Fischer
+Carl Friedrich Morgenstern
+Carl Gottlieb Börner
+Johann Gottfried Kempe
+Johann Christoph Hörnig
+Gottfried Heinrich Fischer
+Christoph Friedrich Göhler
+----------------
+Johann Gottlob Thümmel
+Friedrich Wilhelm Helbig
+Carl Gottfried Kretzschmar
+Gottlob Richter
+Johann Samuel Reichelt
+Johann Gottlob Schneider
+----------------
+----------------
+Johann Gottlieb Thümmel
+Christian Friedrich Walther

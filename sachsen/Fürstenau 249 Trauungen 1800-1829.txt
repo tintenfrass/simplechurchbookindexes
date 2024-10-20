@@ -1,5 +1,5 @@
 Fürstenau (Buch 249)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/294318?pageId=40893929
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 0,5 Stunde
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -169,8 +170,87 @@ Johann Karl Walther
 Emanuel Gutte
 Karl Gottfried Mende
 1819
+1820
 Johann Gottlieb Schmelzer
 ----------------
-Emanuel Gottlieb Zahel
+Emanuel Gottlieb Zabel
 Karl Christian Schmelzer
 Christoph Knauthe
+1821
+Karl Gottlieb Knauthe
+----------------
+Johann Christoph Günther
+Gotthelf Reinhold Kadner
+Johann Friedrich Held
+1822
+Carl Gottlieb Christoph Butte
+----------------
+Johann Christoph Dietrich
+Johann Christoph Kadner
+Franz Anton Kerschte
+Johann Gottfried Lehmann
+----------------
+1823
+Karl Gottfried Langbein
+Johann Georg Kadner
+Johann Leberecht Flasche
+Christoph Finz
+----------------
+1824
+Karl Gottfried Kadner
+Samuel Gottfried Knauthe
+Johann Georg Knauthe
+Johann Christlieb Schaffer
+----------------
+1825
+Johann Traugott Haupt
+Friedrich Siegmund Grundig
+Johann Reinhold Schaffer
+Johann Christoph Jäpel
+----------------
+Christoph Friedrich Kadner
+Friedrich Benjamin Brauer
+Gotthelf Siegmund Kersten
+Carl Friedrich Schmidt
+Johann Gottlieb Schneider
+----------------
+Joseph Borok
+Carl Gottlieb Günther
+1826
+Heinrich August Großmann
+Heinrich August Brauer
+----------------
+Carl Gottlieb Walther
+Carl Gottlieb Kadner
+Immanuel Kadner
+Gustav Friedrich Beckert
+Carl Christoph Schmelzer
+----------------
+Johann Carl Gottfried Schaffer
+1827
+Samuel Kadner
+Friedrich August Dietrich
+----------------
+Carl Gottlieb Knauthe
+Carl Gottlieb Schiffel
+Carl Gottlieb Kadner
+Johann Friedrich August Gottlieb Kadner
+Carl Gottlieb Köllner
+----------------
+Johann Gotthelf Zimmermann
+Friedrich Daniel Bär
+1828
+Friedrich Ehregott Brauer
+----------------
+Johann Georg Kadner
+Johann Christoph Knauthe
+1829
+August Fürchtegott Kadner
+Johann Christoph Günther
+Elias Günther
+----------------
+Immanuel Gotthelf Kadner
+Carl Gottlieb Leonhard
+Carl Gottlieb Knauthe
+Karl Gottlob Heinrich Küchler
+Immanuel Friedrich Knauthe

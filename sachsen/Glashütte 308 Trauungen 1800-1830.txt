@@ -1,5 +1,5 @@
 Glashütte (Buch 308)
-Trauungen 1800-1819
+Trauungen 1800-1830
 https://www.archion.de/de/viewer/churchRegister/294372?pageId=40900987
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 0,5 Stunden
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -370,3 +371,216 @@ Carl Gottlob Fischer
 Carl Gottlob Müller
 Johann Gottfried Schiebel
 Carl Friedrich Bellmann
+1820
+Friedrich Wilhelm Paschke
+Friedrich Adolph Lampe
+Johann Gottlob Bormann
+----------------
+Carl Heinrich Friedrich Erler
+Johann Gottlieb Legler
+Christian Traugott Herfurth
+Johann Gottlob Schneider
+Johann Gottlob Steiger
+Johann Gottfried Grumpt
+Johann David Legler
+----------------
+Friedrich Gottlieb Löwe
+Johann Gottfried Liebstein
+Karl Gottfried Böhme
+Carl Gottlieb Salomon
+Carl Gottlob Gollmann
+Carl Gottlob Walther
+Christoph Friedrich Oschatz
+Gottlieb Tischer
+----------------
+Carl August Braune
+Carl Gottlob Erler
+Carl Gottlob Martin
+Johann Christoph Süßemilch
+- Scheibner
+Gottlieb Benjamin Grahl
+Johann Christlieb Reichel
+----------------
+Johann Gottlieb Seiferth
+Leberecht August Engel
+1821
+Carl Gottlieb Scharfe
+Carl Gottlieb Praßer
+Carl Gottlob Thomas
+----------------
+Carl Christlieb Friebel
+Johann Gottlob Köhler
+Johann David Müller
+Johann Traugott Leberecht Erler
+Carl Gottlieb Kästner
+----------------
+Johann Friedrich Braune
+Carl August Friedrich Reitzsch
+Johann Gotthelf Liebschner
+Johann Gottlieb Derl
+Friedrich Gottlob Kadner
+----------------
+Johann Christlieb Berthold
+Georg Friedrich Estler
+Johann Gottlob Wiese
+Carl August Köhler
+Carl Heinrich Tittel
+Johann Gottlieb Uipelt
+----------------
+1822
+Johann Gottlob Praßer
+Samuel Gottfried Renner
+Gotthelf Ferdinand Helm
+Carl Friedrich Gotthelf Eichler
+Johann Gottlob Tittel
+Johann Gottfried Bormann
+----------------
+Johann Traugott Beuchling
+Johann Georg Morgenstern
+Christian Traugott Hähnel
+Johann Gottfried Kahl
+Carl Gottlieb Vogel
+Carl Gottlieb Hähnel
+----------------
+Friedrich August Zennich
+Anton Liebisch
+1823
+Johann Wilhelm Zinnert
+Carl Gottlieb August Herfurth
+Johann Immanuel Franke
+----------------
+Carl Gottlob Helbig
+Carl Gotthard Ratzsch
+Johann Gottlob Schneider
+Gottfried Heinrich Traugott Damm
+Johann Gottfried Gemeiner
+----------------
+Daniel Gotthold Illig
+Wilhelm Adolph Siegmund Mönicke
+Georg Gottlieb Gehlert
+Johann Gottfried Gadergast
+Carl Traugott Lampe
+Carl Gottlieb Weigelt
+----------------
+1824
+Carl Friedrich August Küchler
+Johann Christoph Pflugbeil
+Johann Friedrich Wilhelm Neumann
+Johann Gottlieb Grahl
+Johann Samuel Lotze
+Johann Gottlob Hauswald
+----------------
+Johann Daniel Göbel
+Christian Gottlob Weichelt
+Gottlob Friedrich Kadner
+Samuel Gottlieb Günther
+Carl Gottlob Beinhardt
+Johann Gotthelf Güntzel
+----------------
+1825
+Carl Friedrich August Schiffel
+Johann August Mühle
+Friedrich Wilhelm Büttner
+Christian August Stein
+Carl Friedrich August Eichler
+Johann Carl Gottfried Schneider
+----------------
+Johann Traugott Herfurth
+Christian Gottfried Rochlitzer
+Friedrich August Burkhart
+Johann Gottfried Scheinpflug
+August Gotthold Schwenke
+Carl Heinrich Lindner
+----------------
+Carl Gottfried Fraulob
+Friedrich Gottlob Wilhelm Vogelgesang
+Carl Gottlieb Ruhmann
+Johann Christlieb Herfurth
+Johann Christoph Börnert
+Johann Carl Gottlieb Müller
+Carl Gottlob Schneider
+----------------
+Carl Gottlieb Liebscher
+1826
+Samuel Gottfried Renner
+Georg Heinrich Schmidt
+Carl Traugott Keubler
+Christian Friedrich Donath
+Carl Friedrich Traugott Grahl
+Carl Gottlieb Schietzelt
+----------------
+Johann David Jäpelt
+Carl Leberecht Gehlert
+Johann Gottlieb Grahl
+Johann Carl Gottlieb Angermann
+Johann Christlieb Knauthe
+Johann David Müller
+Carl Gottlieb Gietzelt
+----------------
+Carl Gotthelf Oelschlägel
+Johann Gottfried Estler
+Carl Gottlieb Keulicht
+Johann Gotthelf Gölbricht
+Johann Christian Müller
+----------------
+1827
+Georg Trescher
+Johann Konrad Seikel
+Friedrich August Weichhold
+Karl Eduard Lohse
+Karl Gottlieb Gadergast
+Johann Gottfried Koch
+Karl Friedrich Hähnel
+----------------
+Johann Franz Riemer
+Karl Gottlieb Bellmann
+Johann Gottlieb Goldsche
+Johann Gottfried Gemeiner
+Karl Friedrich Paust
+Adolph August Scharf
+----------------
+Gustav Moritz Walther
+Karl August Jahn
+Gottlob Grahl
+Karl Gottlob Hahmann
+Johann Gürtler //durchgestrichen
+----------------
+Johann Gottlob Gadegast
+1828
+Johann Rösler
+Johann Gottlieb Schlegel
+Karl August Wilhelm Kaulfuß
+Johann Gottlob Ebert
+Johann Gottlieb Pursch
+----------------
+Friedrich August Große
+Christian Gottlieb Marx
+Carl Gottlob Löwe
+Johann Gottfried Lehnert
+Johann Gottfried Zennich
+Johann Gottfried Gürtler
+Friedrich Nicolaus Wießner
+----------------
+Carl Friedrich Dörfel
+1829
+Heinrich Traugott Leberecht Herfurt
+Christian August Donath
+August Friedrich Gotthold Steiger
+Johann Christian Bellmann
+Friedrich August Walther
+Johann Christian Carl Zschocke
+Johann Gottfried Leberecht Stech
+----------------
+Friedrich August Braune
+Johann Georg Grosche
+Christian Gottlob Fleischer
+Karl Gottlob Legler
+Gotthelf August Kirchberg
+Karl Gottlob Klemmer
+Friedrich August Salomon
+----------------
+Johann Gottlieb Köhler
+Johann Gottfried Straßburger
+Friedrich Gottlob Wilhelm Vogelgesang
+1830
+Friedrich Traugott Tittel

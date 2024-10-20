@@ -1,15 +1,16 @@
 Frauenstein (Buch 236)
-Trauungen 1788-1819
+Trauungen 1788-1824
 https://www.archion.de/de/viewer/churchRegister/294309?pageId=40891691
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stunde
+Erstellt in ca. 2 Stunden
 Oktober 2023
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -976,3 +977,153 @@ Johann Gottlob Rüdiger
 Johann Friedrich Gotthelf Bernhard
 Christian Gotthelf Müller
 Johann Gottlob Bernhard
+1820
+Carl Gotthold Dietrich
+Carl Gottlieb Leberecht Göhler
+Johann Samuel Fischer
+Johann Gottlieb Kaden
+----------------
+Friedrich Gotthelf Tröbner
+Christian Friedrich Liebscher
+Gotthelf Friedrich Horn
+Johann Christian Schneider
+Carl Friedrich Lehmann
+Carl Gottlob Schlieder
+Georg Gottlieb Pischel
+Carl Gottlieb Zimmermann
+----------------
+Georg Friedrich Funke
+Johann Jacob Hemmer
+Carl Gottlieb Richter
+Carl Gottlob Schlieder
+Johann August Preußer
+Christian Friedrich Ludwig Lippmann
+Johann Gottlieb Wolf
+----------------
+Johann Gottfried Köhler
+1821
+Gottfried Müller
+Christoph Leberecht Koch
+Carl Gottlieb Borrmann
+Carl Gotthelf Lehmman
+----------------
+Carl Gottfried Siegmund Grimmer
+Johann Gottlieb Schmieder
+Johann Samuel Richter
+Johann Heinrich Stenzel
+Carl Friedrich Griesbach
+Georg Friedrich Kaden
+Johann Lorenz Küßpert
+----------------
+Carl Gottlieb Böhme
+Gotthold Leberecht Herrmann
+Gottlieb Gotthelf Zenniß
+Johann Gottlob Schneider
+Johann Christoph Lehmann
+Friedrich August Schmidt
+Carl Gottlob Krummbiegel
+----------------
+Carl Gottlob Zimmermann
+Johann Christian Frenzel
+August Friedrich Krause
+Friedrich August Göpfert
+Christian Friedrich Richter
+Johann Gottfried Lohse
+Georg Friedrich Wolf
+----------------
+1822
+August Ernst Ziebler
+Johann Gottfried Mischke
+Carl Gotthelf Konrad
+Johann Gottlieb Kästner
+Johann Christian Gottlieb Göhler
+Johann Carl Gottlob Wolf
+Carl Gottlieb Zinke
+----------------
+Johann Christoph Kaden
+Carl Gottlieb Käsemodel
+Gotthelf Friedrich Göhler
+Franz Börner
+Carl Gottlob Schäfer
+Georg Friedrich Richter
+Georg Carl Böhme
+----------------
+Carl Gottlob Aehnelt
+Christian Friedrich Schreier
+Georg Friedrich Rötzschke
+Friedrich Wilhelm Kaden
+Gotthelf Friedrich Richter
+Daniel Gotthelf Lippmann
+----------------
+Carl Gottlob Müller
+Wilhelm Ehregott Stenzel
+Carl Friedrich Richter
+Samuel Fröbel
+----------------
+1823
+Gottlieb Siegismund Wiegand
+Georg Gottlieb Fischer
+Georg Gotthelf Schröder
+Carl Friedrich Rothe
+Carl Friedrich Bachmann
+Johann Carl Gottlieb Jäckel
+Georg Gottlieb Grohmann
+Gottlob Stenzel
+Carl August Müller
+----------------
+Carl Friedrich Kaden
+Eduard Ludwig Steiger
+Carl Gottlob Pretzsch
+Johann Christian Creuz
+Carl Heinrich Lotze
+Johann Gottlob Mehnert
+Carl Friedrich Fischer
+Christian Friedrich Kretzschmar
+Johann Gottlieb Fleischer
+Johann Carl Gottlob Richter
+Franz Anton Sparenberg
+----------------
+Heinrich August Steiger
+Johann Gotthelf Neubert
+Christian Friedrich Wagner
+Johann Gottlieb Göhler
+1824
+Samuel Friedrich Leberecht Zimmermann
+Johann Gottfried Fleischer
+Georg Gottlieb Arnold
+Christian Friedrich Müller
+Carl Gottlieb Kaden
+----------------
+----------------
+Carl Gottlieb Weicheld
+Georg Gottlieb Börner
+Christian Friedrich Lotze
+Carl Gottlieb Bellmann
+Carl Friedrich Wagner
+Georg Friedrich Walther
+Ehregott Wilhelm Richter
+Friedrich Ehregott Schmieder
+Franz Bladeck
+----------------
+Friedrich Wilhelm Greif
+Johann Christian Tezelt
+Carl Friedrich Traugott Kaden
+Carl Friedrich Glöckner
+Christian Gottlieb Fischer
+Johann Gottlob Gromann
+Carl Friedrich Redlich
+Gottlieb Friedrich Kadner
+Christian Friedrich Zinke
+----------------
+Johann Friedrich August Stondel
+Carl Leberecht Bachmann
+Georg Gottlieb Richter
+Johann Adolph Steiger
+Johann Christlieb Zennig
+Georg Friedrich Lippmann
+Christian Friedrich Martin
+Christian Gottlob Kliemann
+----------------
+Carl Gotthelf Erler
+Carl Gottlob Herrmann
+Jacob Richter
