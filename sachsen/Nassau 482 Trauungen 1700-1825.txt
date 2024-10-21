@@ -1,15 +1,16 @@
 Nassau (Buch 482)
-Trauungen 1700-1819
+Trauungen 1700-1825
 https://www.archion.de/de/viewer/churchRegister/305499?pageId=42942693
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 3 Stunden
+Erstellt in ca. 3,5 Stunden
 Oktober 2023
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -2496,3 +2497,189 @@ Franz Joseph Behr
 Carl Gottlob Köhler
 Johann Gottlieb Erler
 Carl Friedrich Engelhart
+1820
+Johann Samuel Schmieder
+----------------
+Johann Gottfried Wolf
+Carl Friedrich Leberecht Göhler
+Friedrich Göhler
+Gotthelf Friedrich Horn
+Carl Friedrich Grohmann
+Gottlob Friedrich Zinke
+----------------
+Johann Gotthelf Liebscher
+Johann Gottlob Friedrich Wolf
+Carl Gotthelf Walther
+Carl August Klügel
+Carl Gottfried Walther
+Carl Gottlob Göhler
+----------------
+Traugott Keller
+Johann Caspar Gleichmann
+Carl Gottlob Friedrich Bilz
+Adam Friedrich Göhler
+Carl Gottlob Erler
+Johann Christian Gottlieb Schwenke
+Christian Friedrich Wolf
+----------------
+Christian Gottlieb Göhler
+Johann Carl Gottlieb Ihle
+Johann Christian Wolf
+Johann Gottlob Zännchen
+Christian Gottlieb Dietrich
+Johann Carl Friedrich Köhler
+----------------
+Georg Friedrich Göhler
+1821
+Johann Gottlob Sommerschuch
+Johann Traugott Tennert
+Carl Gottlieb Rabe
+----------------
+Johann Gottlieb Göhler
+Johann Gottlieb Göhler
+Gottlob Friedrich Neubert
+Carl Gottlob Friedrich Fritzsche
+Johann Gottlieb Schmieder
+Carl Friedrich Liebscher
+----------------
+Johann Samuel Richter
+Carl Gottlieb Böhme
+Carl Gottlob Wolf
+Johann Christoph Wolf
+----------------
+Johann Christoph Börner
+Johann Gottfried Hiller
+Georg Carl Göhler
+Christian Gottfried Berger
+Carl Gottlieb Wolf
+Gottlob Friedrich Wolf
+----------------
+Gottfried Zinke
+Carl Gottlob Fischer
+Christian Friedrich Göhler
+Johann Gottlob Erler
+August Leberecht Dietrich
+----------------
+1822
+Johann Gottfried Dietrich
+Carl Gotthelf Friedrich Grumbd
+Georg Carl Dietrich
+Carl Friedrich Grimmer
+Johann Christian Gottlieb Göhler
+Christian Friedrich David Vogel
+----------------
+Friedrich Ehregott Preußler
+Carl Gottlob Friedrich Fischer
+Carl Gottlieb Zinke
+Carl Gottlob Friedrich Hennig
+Christian Gottlieb Dietrich
+Johann Christoph Hennig
+----------------
+Carl Gottlob Friedrich Dietrich
+Christian Friedrich Erler
+Christian Friedrich Hörnig
+Johann Christian Wolf
+Carl Friedrich Liebscher
+Daniel Friedrich Schmieder
+----------------
+Johann Christian Dietrich
+Carl Gottlob Aehnelt
+Carl Gottlob Dienel
+Carl Gottlieb Göhler
+Johann Gottlieb Böhme
+August Friedrich Leberecht Höger
+Carl Gottlob Müller
+----------------
+Gotthelf Friedrich Tuppmann
+Johann Traugott Friedrich Seifert
+Christian Friedrich Ihle
+Gottlob Friedrich Hampel
+Carl Friedrich Richter
+----------------
+1823
+Gottlieb Siegesmund Wiegand
+Carl August Tippmann
+Johann Christoph Fischer
+Anton Fürchtegott Hinkel
+Friedrich Gotthelf Würzner
+----------------
+Traugott Friedrich Wolf
+Johann Christoph Richter
+Carl Gottlob Fischer
+Christian Adolph Claudius
+Traugott Göhler
+Gottlob Friedrich Horn
+----------------
+Gotthold Friedrich Hegewald
+Johann Georg Dietrich
+August Friedrich Wilhelm Burchardt
+Johann Gottlieb Fischer
+Ehregott Fürchtegott Leberecht Liebscher
+----------------
+Georg Friedrich Wolf
+Johann Gottlob Mehnert
+Johann Gottlob Börner
+Georg Carl Walther
+Johann Gotthelf Neubert
+Ehregott Friedrich Horn
+----------------
+Johann Gottlieb Glaser
+Carl Gotthelf Börner
+Johann Gottfried Krause
+----------------
+1824
+Johann Gottlieb Wolf
+Carl Friedrich Siegmund Böhme
+Gottlieb Friedrich Schmieder
+Johann Gottlob Dietrich
+Johann Gottlieb Bernd
+Carl Friedrich Hennig
+----------------
+Carl Gottlieb Zinke
+Gotthelf Friedrich Ihle
+Johann Gottlieb Clausnitzer
+Georg Gottlieb Börner
+Christlieb Friedrich Meyer
+----------------
+Johann Gottlieb Ihle
+Carl Gottlob Lehmann
+Christian Börner
+Johann Christian Tezelt
+Johann Gottlieb Schulze
+----------------
+Gottlob Friedrich Tippmann
+Christian Friedrich Zinke
+Johann Georg Friedrich Böhme
+Gottfried Augustin
+Carl Friedrich Körner
+Georg Friedrich Lippmann
+----------------
+Christian Gottlieb Wolf
+Christlieb Friedrich Liebscher
+Traugott Friedrich Schmieder
+----------------
+1825
+Georg Friedrich Göhler
+Carl Friedrich Preußler
+Johann Gottlob Ihle
+Christian Friedrich Liebscher
+Christoph Ehregott Rudolph
+----------------
+Gotthelf Friedrich Schneider
+Johann Carl Gottlob Friedrich Grumbt
+Traugott Friedrich Zicke
+Johann Gottlob Friedrich Richter
+Carl Gottlieb Wolf
+Johann Christoph Göhler
+----------------
+Georg Carl Hennig
+Samuel Friedrich Hofmann
+Carl Gottlieb Lehmann
+Georg Friedrich Fischer
+Johann Friedrich Fuchs
+----------------
+Carl Gottlieb Liebscher
+Wilhelm Wilhelm Dietrich
+Gottlob Friedrich Liebscher
+----------------
+Johann Gottlob Ebert

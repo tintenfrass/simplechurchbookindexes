@@ -1,12 +1,13 @@
 Lauenstein (Buch 444)
-Trauungen 1799-1819
+Trauungen 1799-1828
 https://www.archion.de/de/viewer/churchRegister/305469?pageId=42936274
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Oktober 2023
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -267,3 +268,157 @@ Carl Gottlob Schwencke
 Friedrich Ehregott Jäpel
 Carl Gottlob Peters
 Johann Gottlieb Lohse
+1820
+Johann Christian Kühnel
+Carl Friedrich Hohmüller
+----------------
+Carl Gottlob Schwarzdorf
+Johann Christian Götzel
+Johann Gottlieb Schmelzer
+Carl Gottlob Puder
+Carl Ferdinand Vallentin
+Friedrich Gotthold Hetze
+Johann Gottlieb Grund
+Johann Gottlob Rötschke
+----------------
+Friedrich August Wilhelm Zumpelt
+Johann Gotthelf Lohse
+Carl Gotthelf Friedrich Bretschneider
+1821
+Carl Liebegott Lippmann
+Johann Georg Schmidt
+Wilhelm Leopold Michel
+----------------
+Christoph Gottlob Schwenke
+Carl Gottlob Fischer
+Johann Gottfried Kühnel
+Johann Christian Schindler
+Johann Gottlob Eichler
+Gotthelf Benjamin Behr
+Carl Gottlieb Schniebel
+Gottlieb Heinrich Wilhelm Schelzig
+----------------
+Carl Wilhelm Hetze
+Johann Jacob Duczekall
+Johann Gottfried Schindler
+Johann Bunse
+Johann Gottlieb Richter
+----------------
+1822
+Johann Gottlieb Mäcke
+Carl Gottlieb Mende
+Carl Gottlieb Pellmann
+Johann Heinrich Schmidt
+Carl Gotthelf Mühle
+Christlieb Ephraim Heinrich Löwe
+Johann Georg Eichler
+Carl Heinrich Chemnitzer
+----------------
+Christian Friedrich Kästner
+Heinrich Benjamin Eichler
+Carl Gottlieb Oelschlägel
+Carl Friedrich Hamann
+Carl Friedrich Holzmüller
+Johann Christoph Zimmerhächel
+----------------
+1823
+Johann Wolfgang Werner
+Christian Ehregott Kümmel
+Friedrich August Klengel
+Hermann Conrad Oertel
+Friedrich Wilhelm Schöder
+Johann Christoph Wiesner
+Johann Gotthelf Ferdinand Schneider
+Joseph Anton Priemer
+----------------
+Christian August Petzold
+Woldemar Seyffarth
+Carl Friedrich Partsch
+Georg Gotthelf Hennig
+Johann Philip Brandenburger
+1824
+Carl Friedrich Ehrenreich Höhnel
+Carl Samuel Ebert
+----------------
+Carl Gottlieb Eichler
+Wilhelm Leopold Michel
+Carl Christoph Gottlieb Rehn
+Johann Christoph Otte
+Carl Friedrich August Küchler
+Christian Melzer
+Carl Gottlieb Jäpel
+Carl Gottlieb Just
+----------------
+Friedrich Gottlieb Schramm
+Carl Gottlieb Freund
+Johann Gottfried Dietrich
+Christian Heinrich Fischer
+1825
+Gottlob Heinrich Lehmann
+Carl Gottlieb Schwenke
+----------------
+Johann Traugott Leberecht Gößel
+Carl Wilhelm Peter
+Johann Heinrich Krause
+Johann Friedrich Claus
+Carl Leberecht Stöder
+Johann Gottfried August Bode
+Johann Christoph Ullrich
+Carl Friedemann Scharfe
+----------------
+Johann Carl Gottlieb Seifferth
+Friedrich August Brandner
+Carl Heinrich Gottlieb Thomas
+Johann Gottfried Schütze
+Joseph Gruber
+Friedrich Traugott Leberecht Holzmüller
+Carl Gottlieb Kleinerth
+Johann Friedrich Gotthelf Dietrich
+----------------
+1826
+Friedrich August Knauthe
+Johann Carl Gottlob Ebert
+Johann Gottlob Krebs
+August Friedrich Grosmann
+Johann Gottfried Tempel
+Johann Gottfried Ritschel
+Gustav Heinrich Jentzsch
+Carl Friedrich Ihle
+----------------
+Carl Traugott Schreiber
+Heinrich Gottlob Pfanne
+Carl Gottlob Eichler
+Carl Gottlieb Hauswald
+1827
+Carl Gottlieb Traugott Melzer
+Carl Ferdinand Schäfer
+Johann Gotthelf Schütze
+----------------
+Johann Gottlob Eichler
+Carl Heinrich Adolph Schöne
+Johann Gottlob Ruttani
+Friedrich Gotthelf Lamm
+Friedrich August Leberecht Ehrlich
+Samuel Friedrich Meisner
+Carl Friedrich Rudolph
+Christian Gottlob Heße
+----------------
+Georg Gotthelf Hennig
+1828
+Friedrich Gottlob Lehnert
+Carl Gottlieb Bernhard
+Carl Gottlob Schulze
+Carl Friedrich Schulze
+Carl Gottlieb Rehn
+Christian Gottlieb Marx
+----------------
+Johann Gottlieb Dörner
+August Fürchtegott Kretzschmar
+Friedrich Gotthelf Heße
+Carl Friedrich Ebert
+Johann Gottfried Herrmann
+Carl? Gottlob? Kühnel //korrigiert
+Johann Gottfried Hohlfeld
+Carl Gottlieb Lohse
+----------------
+Johann Gottlieb Gierisch

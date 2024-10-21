@@ -1,5 +1,5 @@
 Johnsbach (Buch 398)
-Trauungen 1803-1819
+Trauungen 1803-1829
 https://www.archion.de/de/viewer/churchRegister/294444?pageId=40915258
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 0,5 Stunden
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -34,7 +35,8 @@ Johann Gottlob Lohse
 ----------------
 1804
 Johann Gottlieb Ehrhardt
-Carl August NeubertJohann Adam Gottlob Rüdiger
+Carl August Neubert
+Johann Adam Gottlob Rüdiger
 Carl Friedrich Hickel
 Johann Gottlieb Winckler
 Christian Gotthelf Kühnel
@@ -222,3 +224,144 @@ Johann Christian Vogler
 ----------------
 Johann Gottfried Schneider
 Carl Gottlieb Pfanne
+1820
+Johann Christian Kühnel
+Carl Gottlob Friebel
+Johann Daniel Petzold
+----------------
+Johann Gottlob Querner
+Johann Georg Seifert
+Johann Samuel Gleditzsch
+Johann Carl Christian Göhler
+Johann Gottfried Paul
+----------------
+Carl Gottlob Reichel
+Johann Christlieb Reichel
+Johann Gotthelf Dittrich
+Johann Friedrich Mende
+----------------
+1821
+Johann Christlieb Büttner
+Daniel Gottlieb Gietzelt
+Friedrich August Paust
+Carl Christlieb Friebel
+Johann Gottlob Lohse
+Johann Georg Schönberger
+Johann Gottfried Kühnel
+----------------
+Johann Gottlieb Querner
+Carl Christian Erhard
+Johann Gottlieb Erhard
+Carl Gottlob Schliller
+Carl Gottlieb Pieschel
+Carl Friedrich Zimmermann
+----------------
+1822
+Traugott Leberecht Jungnickel
+Johann Christian Walther
+Georg Friedrich Löwe
+Carl Gottlieb Pellmann
+Johann Christian Vogler
+Carl Ehregott Schiller
+----------------
+Carl Gottfried Vogler
+Johann Gotthelf Mühlbach
+Carl Gottlob Löschner
+Johann Christian Baron
+Johann Gottlob Schädlich
+Carl Gottlieb Vogler
+Gottlieb August Friebel
+----------------
+1823
+Johann Gottlob Lohse
+Traugott Leberecht Friebel
+Johann Samuel Grahl
+Carl August Kellner
+Johann Gottlieb Büttner
+Johann Gottfried Schindler
+Johann Gottlieb Weinhold
+Immanuel Leberecht Uhlich
+----------------
+Johann Christoph Bobe
+Johann Friedrich Köhler
+1824
+Johann Gottlieb Reichert
+Johann Gottfried Müller
+Johann Gottlob Vogler
+Carl Gottlieb Bobe
+Carl Gottlieb Anders
+Johann Christlieb Büttner
+----------------
+1825
+Johann Labascheck
+Carl Gottlob Friebel
+Johann Gottlieb Vogler
+Carl Gottlieb Seifert
+Johann Gottfried Pieschel
+Carl Gottlieb Lohse
+Johann Gottlieb Gleditz
+Johann Gottlob Vogler
+----------------
+1826
+Carl Friedrich August Büttner
+Johann Gottlob Dietze
+Friedrich August Büttner
+Carl Friedrich Petzold
+Johann Gottlob Pieschel
+Johann Gottlob Zeibig
+Carl Gottlieb Männchen
+----------------
+Carl Gottlieb Leberecht Vogler
+Carl Gottfried Lohse
+Carl Gotthelf Tittel
+Johann Georg Meile
+Carl Gottfried Funke
+----------------
+Johann Gotthelf Reichel
+Carl Gottlob Friebel
+Carl Gottlieb Stein
+----------------
+1827
+Christian Gottlieb Steinigen
+Johann Gottfried Estler
+Carl Christoph Erhard
+Christian Gottlob Löwe
+Carl Christlieb Nitzsche
+----------------
+Carl Gotthelf Herzog
+Christian Friedrich Illig
+Johann Gottlob Friebel
+Johann Christian Seifert
+Johann Gottlieb Pellmann
+----------------
+Johann Gottfried Kayser
+Carl Gotthelf Liebeheim
+Johann Christoph Brüne
+----------------
+1828
+Carl Gottlob Richter
+Carl Gottlieb Knauthe
+Carl Gottlieb Boden
+Carl Gottlieb Weiße
+Johann Christlieb Schwenke
+Carl Gottlieb Kellner
+Johann Gottlob Männchen
+----------------
+Johann Christoph Pellmann
+Johann Georg Vogler
+Carl August Büttner
+----------------
+1829
+Johann Gottlob Winckler
+Christian Friedrich Träger
+Carl Ehregott Schiffel
+Johann Christian Grumpelt
+Johann Gottlob Oelschlägel
+Carl Friedrich Arnold
+----------------
+Carl Gottlob Neubert
+Johann Gottlieb Friebel
+Johann Christlieb Kühnel
+Johann Christian Baron
+Carl Gotthelf Manzer
+Christian Friedrich Franke

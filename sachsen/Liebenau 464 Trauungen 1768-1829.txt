@@ -1,15 +1,16 @@
 Liebenau (Buch 464)
-Trauungen 1768-1819
+Trauungen 1768-1829
 https://www.archion.de/de/viewer/churchRegister/305485?pageId=42939248
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Oktober 2023
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -536,3 +537,129 @@ Friedrich August Küchler
 Johann Gottlieb Michael
 Christoph Gottlob Francke
 Karl Gottfried Heße
+----------------
+1820
+Karl Gottfried Preußner
+Johann Gottlieb Gößel
+Christian Konrad Heße
+Karl Friedrich Ehrenreich Ebert
+Christian Traugott Wald
+Karl Gottlieb Heinrich Eichler
+----------------
+Friedrich August Bretschneider
+Karl Gottfried Oertel
+1821
+Karl Gotthold Benjamin Rüdiger
+Johann Karl Gottlieb Grahl
+Karl Friedrich Rietschel
+----------------
+Karl Gottlieb Knaute
+Johann Gottfried Hauswald
+Karl Friedrich Gottlob Friebel
+Ephraim Friedemann Heinrich Müller
+----------------
+Johann Gottfried Wolf
+Joseph Huckauf
+Johann Gottlieb Friedrich Hanke
+Karl Gottlob Ebert
+Immanuel Friedlieb Gößel
+Johann Gottlob Schlenkrich
+----------------
+Johann Gottlob Müller
+Gottlob Traugott Küchler
+Johann Gottlieb Friedrich Gebel
+1822
+Carl Gottlieb Lincke
+Johann Gottfried Hoße
+----------------
+Karl Gottlieb Riedel
+Karl Friedrich Gutte
+Karl Gottlieb Kühnel
+Christoph Gottlieb Donath
+Johann Gottlieb Löwe
+Karl Gottlieb Jährich
+----------------
+Johann Christoph Gottlob Jäpel
+Traugott Friedrich Ehregott Mühle
+1823
+Christian Heinrich Petzold
+Friedrich August Klengel
+----------------
+Karl Gottlieb Heinrich Schwenke
+Johann Gottfried Schneider
+Hermann Konrad Oertel
+Johann Gottfried Leonhardt
+Christoph Gottlieb Mühle
+----------------
+Karl Christlieb Mühle
+Johann Gottfried Lohse
+Johann Gottlob Schenke
+Karl Gottlieb Schramm
+Karl Gottlieb Hering
+----------------
+Karl Gottlieb Walther
+1824
+Johann Heinrich Fuchs
+Karl Friedrich Porust
+Johann Christlieb Traugott Leberecht Mühle
+----------------
+1825
+August Höhnel
+Karl Friedrich August Hensel
+Johann Christoph Jäpel
+Traugott Gottlieb Tiebel
+Christoph Friedrich Kadner
+Johann Samuel Holfert
+Traugott Friedrich Mendte
+Karl Gottlieb Ehregott Mühle
+----------------
+Carl Friedrich Porust
+Friedrich Daniel Eichler
+Johann Gottlieb Lehmann
+Georg Gottfried Pantsch
+Johann Christlieb Mende
+Karl Gottlieb Kleinath
+Karl Gottlieb Lotze
+----------------
+1826
+Karl Gottlob Hesse
+Karl Gottlieb Walther
+Johann Gottfried Kunath
+Johann Traugott Friedrich Tanzmann
+Karl Gottlieb Friedemann Eichler
+Karl Friedrich Petzold
+Johann Gottlieb Huckauf
+----------------
+Friedrich Ehregott Mühle
+Friedrich Wilhelm Leipner
+Carl Gottlieb Renner
+Carl Gottlob Kümmel
+Christoph Gottlieb Fischer
+Traugott Samuel Schwenke
+----------------
+1827
+Johann Gottlieb Klepsch
+Gotthelf Reinhold Beck
+Carl Christlieb Jungnickel
+Johann Georg Lehmann
+Friedemann August Leberecht Ehrlich
+Carl Gottlieb Hulfurt
+Carl Gottlob Aulhorn
+1828
+Carl Gottlob Müller
+Carl Gottlieb Linke
+Carl Friedrich August Porust
+Carl Gottlob Gerbig
+----------------
+Gottfried Forker
+Johann Gottlob Tiebel
+Johann Gottlob Michael
+Johann Gottlob Ehrenfried Hauswald
+1829
+Traugott Leberecht Kunze
+Gottlob Traugott Schönberger
+----------------
+Johann Gottlieb Friebel
+Carl Gottlob Heinrich Küchler
+Carl August Leopold
+Johann Carl Christlieb Hauswald
