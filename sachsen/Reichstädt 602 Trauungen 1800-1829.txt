@@ -1,14 +1,15 @@
 Reichstädt (Buch 602)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/305602?pageId=42965675
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -341,3 +342,143 @@ Johann Gottlob Richter
 Johann Gottlieb Böhme
 ----------------
 Georg Friedrich Fuchs
+1820
+Johann Gottlieb Kästner
+Johann Eißler
+Carl Gottlieb Fischer
+----------------
+Johann Christian Donath
+Carl Gottlob Zönnchen
+Carl Heinrich Gottlieb Müller
+Wilhelm Friedrich Traugott Fränzel
+----------------
+Carl Gottlieb Köhler
+Johann Gottlob Baumgart
+Karl Gottlob Zönnchen
+1821
+Daniel Gottlieb Gietzelt
+----------------
+Christian Gottlieb Fuchß
+Johann Gottlob Gottscheu
+Carl Friedrich Querner
+Carl Gottlieb Richter
+Carl Gottlob Wagner
+----------------
+Johann Samuel Merkel
+Carl Gottfried Ehrlich
+Johann Gottfried Rüdiger
+Carl Friedrich Wilhelm Fuchs
+----------------
+Carl Gottfried Berhold
+1822
+Johann Gottlob Zimmermann
+Christian Gottlieb Voigt
+Johann Gottlieb Grumt
+Johann Gottlieb Geier
+----------------
+Carl Gottlieb Legler
+Johann Christian Meißner
+Carl Gottlieb Heber
+Christian Friedrich Kästner
+----------------
+Johann Samuel Reichel
+Johann Gottlieb Gehmlich
+Johann Gottlieb Gietzelt
+Johann Friedrich Zimmermann
+Carl Gottlieb Wagner
+----------------
+1823
+Johann Gottfried Weckbrod
+Johann Christian Grumpelt
+Friedrich August Fuchs
+Christian Gottlob Herinrich Göhler
+Friedrich August Fuchß
+----------------
+Johann Gottlieb Walther
+Christian Gottlieb Berthold
+Carl Gottlieb Grahl
+Carl Gotthelf Hamann
+Christian Gottlieb Zimmermann
+----------------
+Carl Gottlob Reichel
+Carl Gottlieb Grumt
+Johann Gottlieb Reichel
+1824
+Johann Samuel Reichel
+Gottlieb Friedrich Wilhelm Donner
+----------------
+Johann Gottfried Bachmann
+Friedrich David Irmisch
+Carl Gottlob Ziegler
+Johann Traugott Gietzelt
+Johann Gotthold Friedrich Bellmann
+----------------
+Friedrich Wilhelm Oehler
+Johann Gottlieb Richter
+Carl Christoph Zönnchen
+1825
+Christian Gotthold Mäke
+Samuel Gottfried Heber
+----------------
+Johann Gottfried Glöckner
+Carl Christian Franz
+Christian Gottlieb Voigt
+Johann Christoph Voigt
+Carl Gottlob Fleischer
+----------------
+Carl Gottlob Partzsch
+Johann Christian König
+Gottlob Friedrich Scharfe
+Carl Gotthelf Günther
+----------------
+Carl Christian Reichel
+Johann Gotthelf Patzig
+Johann Gottlieb Zönnchen
+Heinrich Wilhelm Flemming
+----------------
+Friedrich Wilhelm Herklotz
+1826
+Carl Friedrich Kaden
+Carl Gottlieb Gietzelt
+Daniel Gottfried Herklotz
+----------------
+Karl Friedrich Zimmermann
+Johann Gottlieb Petermann
+Johann? Christian? Gottlieb Fuchs
+Carl August Fredy
+----------------
+Christoph Friedrich Hertel
+Carl Gottlob Fischer
+1827
+Christian Friedrich Löser
+Friedrich Zönnchen
+----------------
+Johann Wilhelm Börsch
+Johann Gottfried Schafe
+Johann Friedrich Voigt
+Johann Gottfried Zönnchen
+Johann Christoph Zönnchen
+----------------
+1828
+Carl Gottfried Dietrich
+Johann Gottlieb Gahmig
+Christian Friedrich Wolf
+Carl Gottlieb Grumpelt
+Johann Georg Fischer
+----------------
+Wilhelm Heinrich Harnisch
+Johann Gottlieb Dietrich
+Christian Gottlob Ebert
+Carl Friedrich Königsmark
+Johann Gottlob Bellmann
+----------------
+Johann Gottfried Liebscher
+Johann Christoph Rüdiger
+Carl Friedrich Ehrlich
+1829
+Johann Christian Reichel
+Carl Friedrich Jähmlich
+----------------
+Carl Christoph Lohse
+Carl Friedrich Zönnchen
+Carl Wilhelm Schneider

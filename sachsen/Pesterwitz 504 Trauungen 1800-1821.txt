@@ -1,5 +1,5 @@
 Pesterwitz (Buch 504)
-Trauungen 1800-1819
+Trauungen 1800-1821
 https://www.archion.de/de/viewer/churchRegister/305515?pageId=42946163
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 1 Stunde
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -471,3 +472,53 @@ Johann Samuel Schanz
 Johann Christian Klemm
 Karl Friedrich Weigel
 Christian Heinrich Edert
+----------------
+1820
+Johann Traugott Leberecht Lehmann
+Johann Christian Gottlob Kunze
+Carl Simon Tischer
+Johann Friedrich Wilhelm Sturz
+Johann Gottfried Naumann
+Johann Christian Gottlieb Heinrich
+Johann Gottlieb Bürger
+Carl Gottlob Gansauge
+Johann Gottlieb Walther
+----------------
+Michael Reher
+Friedrich Gottlob Tögel
+Carl Gottlob Schußler
+Karl Friedrich Klauß
+Johann Gotthelf Nedes
+Gottlieb Schirmer
+Johann Carl Gottlieb Hänig
+Carl Gottfried Tippner
+Johann Friedrich Christian Berend
+----------------
+Johann Gottlob Wilhelm Döbritz
+Georg Schieritz
+Christian Carl? Heinrich Hutschenreiter
+Carl Heinrich Hauke
+1821
+Johann Gottlieb Gräfe
+Johann Gotthelf Galle
+Carl Gottlieb Schubarth
+----------------
+Johann Gottlieb Helmich
+Johann Christian Schmidt
+Johann Gottlieb Heym
+Johann Traugott Nitzschke
+Johann Gottlieb Herzog
+Johann Gottfried Sparmann
+Johann Gottfried Hofmann
+Johann Gottlob Löhder
+----------------
+Johann Gottfried Gräfe
+Christian Friedrich Hiller
+Johann Gottlieb Rudolph
+Andreas Kuban
+Christoph Heinrich Geßner
+Christian Friedrich Winkler
+Johann Gottlieb Schumann
+Johann Gottlieb Pöhnert
+----------------
+Gottlob Friedrich Leichsenring

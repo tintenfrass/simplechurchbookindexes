@@ -1,14 +1,15 @@
 Rabenau (Buch 584)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/305588?pageId=42962788
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -273,3 +274,150 @@ Karl Fürchtegott Hermann
 Johann Wilhelm August Eger
 Karl Gottlob Pöschel
 Johann Gotthelf Körner
+----------------
+1820
+Johann Karl Gottlieb Borrmann
+Johann Christian Naake
+Johann Gottlieb Bellmann
+Christian Friedrich Heyne
+Johann Gottlieb Keller
+Christian Friedrich Lobegott Bündrig
+Karl Gottlieb Hauschild
+Christian Gottlieb Klemm
+----------------
+Johann August Hering
+Johann Christian Naake
+Johann Gottlieb Hauptvogel
+Christian Gottfried Kunath
+----------------
+1821
+Johann Christian Berndt
+Christian Gottlieb Wolf
+Karl Gottlob Vogler
+Johann Gottfried Wilhelm Geschuch
+Karl Gottlieb Silbermann
+Johann Kaspar Vogel
+Johann Christian Wünschmann
+----------------
+Karl Friedrich Keulig
+Johann Gottfried Dietrich
+Johann Gottlieb Müller
+Heinrich August Geißler
+----------------
+1822
+Karl Friedrich Menzer
+Gottfried Gotthelf Ehrlich
+Johann Gottfried Wießner
+Johann Gottlob Humpsch
+Johann Karl Daniel
+Karl Gottlob Gärtner
+Johann Gotthelf Böhme
+----------------
+August Leberecht Ehrlich
+Heinrich Ernst Pietzsch
+Johann Gottfried Gersdorf
+Karl Gottfried Börner
+Johann Christian Keulig
+Christian Gottlieb Petermann
+Johann Gottlieb Müller
+Christian Friedrich Gottlob Wilke
+----------------
+Johann Wilhelm Bindler
+Karl Gottlieb Schumann
+Karl Friedrich Geyer
+----------------
+1823
+Christian Gotthelf Traugott Eger
+Johann Gotthelf Ziehnert
+Karl Gotthelf Schneider
+Johann Gottlieb Michalk
+August Wilhelm Franz
+Johann Gottlob Böhme
+Johann Gottfried Zaumsegel
+Karl August Wünschmann
+Karl Gottlieb Schneider
+----------------
+Karl Ludwig Hock
+Johann Christian Wolf
+Carl August Wünschmann
+Friedrich August Hammer
+Johann Christian Klippel
+----------------
+1824
+Johann Gottfried Starke
+Karl Friedrich Grellmann
+Johann Karl Gottlob Franz
+Johann Christian Gottlieb Franz
+Johannes Floth
+Karl Gottlieb Bürger
+Friedrich August Mirisch
+----------------
+Christian Gottfried Böhme
+Karl Christian Schneider
+Christian Gottlob Bormann
+Karl Gotthelf Wünschmann
+Karl Friedrich Geyer
+Karl Gottfried Bennmann
+Johann Gotthelf Loreck
+----------------
+Karl Gottlieb Wolf
+Karl Gottlieb Müller
+----------------
+1825
+Karl Fürchtegott Herrmann
+Karl August Friedrich Mohr
+Johann Gottlieb Schumann
+Karl August Baumgart
+Johann Paul Fucke
+Johann Gottfried Franke
+Karl Wilhelm Geißler
+----------------
+Johann Gottlob Schumann
+Johann Gottlob Mülner
+Karl Gotthold Geißler
+Christian Gottfried Wahl
+Heinrich Ferdinand Gottlob Fiedler
+----------------
+1826
+Friedrich Wilhelm Sonntag
+Johann Gottfried Ziehnert
+Friedrich August Ebert
+Karl Eduard Liebegott Funke
+Johann Friedrich Fucke
+----------------
+1827
+Christian Gottlieb Dietrich
+Friedrich Wilhelm Opitz
+Christian Friedrich Fraunstein
+Johann Gottlieb Sparmann
+Karl Gottfried Wilhelm Franz
+Karl Gottlieb Gansauge
+----------------
+Karl Gottlieb Schafe
+----------------
+1828
+Karl Ferdinand Wünschemann
+Karl Moritz Seidel
+Traugott Leberecht Rickner
+Karl Gottlieb Körner
+Friedrich Julius Moser
+Karl August Ludwig
+----------------
+Johann Gottfried Zwiebel
+Johann Gottlob Keulig
+Friedrich Adolph Knoth
+August Friedrich Ferdinand Berger
+Karl August Jacob
+Christian Gottfried Wünschmann
+----------------
+Adam Rentzsch
+Karl August Hünig
+Johannes Floth
+----------------
+1829
+Karl Christian Fritzsche
+Karl Christian Wilhelm Gründer
+Johann Christian Lorenz
+Karl Gottfried Wolf
+Christian Gottfried Köhler
+Johann Christoph Pilz
