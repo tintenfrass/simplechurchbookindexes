@@ -1,5 +1,5 @@
 Schellerhau (Buch 673)
-Trauungen 1725-1819
+Trauungen 1725-1825
 https://www.archion.de/de/viewer/churchRegister/305654?pageId=42977057
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 1,5 Stunden
 Oktober 2023
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -541,7 +542,65 @@ Carl Gottlob Sommerschuh
 ----------------
 Carl Gottlieb Zennig
 Carl Friedrich Steinig
----------------- x8
+1820
+Carl Gottfried Pahllisch
+Carl Gottfried Walther
+Georg Gottlieb Püschel
+Carl Christian Friedrich Klotz
+----------------
+1821
+Johann Gottlieb Müller
+Johann Gottlob Friedrich Griesbach
+Georg Friedrich Dittrich
+Carl Heinrich Hoffmann
+Johann Gottlieb Walther
+Carl Gottlob Claußnitzer
+----------------
+Carl Friedrich Hänel
+Carl Gottlob Lohse
+Carl Gottlob Schiller
+Johann Friedrich Valentin
+1822
+Samuel Gottfried Renner
+Christian Gotthelf Püschel
+----------------
+Johann Christoph Thieme
+Johann Gottlieb Wackbrod
+Carl Gottlieb Sayfarth
+1823
+Georg Friedrich Dittrich
+Johann Gottlieb Griesbach
+Carl Gottlieb Walther
+----------------
+Johann Gottfried Scharf?
+Carl Gottlieb Sommschuch
+Carl Friedrich Merkel
+Christian Friedrich Richter
+Georg Gottlieb Gehlert
+Carl Gottlieb Gutte
+----------------
+1824
+Carl Gottlob Schubert
+Traugott Wilhelm Greifenhahn
+Carl Friedrich Hennig
+Carl Gottfried Walther
+Benjamin Leberecht Schmidt
+----------------
+1825
+Johann Gottlob Kempe
+Carl Gotthold Grumt
+Johann Gottfried Hosemann
+Johann Gottlieb Köhler
+Carl Gottlob Friedrich Schramm
+Johann Christian Scharfe
+----------------
+Carl Christian Reichel
+Carl Heinrich Gottlieb Thomms
+Christian Friedrich Walther
+Carl Gottlob Weckbrod
+Christian Gottlieb Schönherr
+Johann Gottfried Pieschel
+----------------
 1800
 Johann Gottfried Scharfe
 Karl Gottlieb Reichert

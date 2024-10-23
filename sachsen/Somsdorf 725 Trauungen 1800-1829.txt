@@ -1,14 +1,15 @@
 Somsdorf (Buch 725)
-Trauungen 1800-1819
+Trauungen 1800-1829
 https://www.archion.de/de/viewer/churchRegister/305695?pageId=42986231
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -266,3 +267,155 @@ Johann Gotthelf Leberecht Käppler
 Karl Gottlob Lotze
 Johann Christlieb Schneider
 Johann Gottlieb Reichel
+1820
+Christian Gottlieb Schumann
+Johann Gottlob Ranisch
+Johann Gottfried Ebert
+Karl Gottlieb Schumann
+Johann Gottlieb Misbach
+----------------
+Christian Friedrich Heyne
+Johann Gottlieb Daniel Müller
+Johann Gottfried Müller
+Johann Gottfried Sommer
+Johann Gottlieb Schüffel
+Johann Gottlieb Pinkert
+Johann Gotthelf Gleditzsch
+Johann Christian Bär
+----------------
+1821
+Johann Christian Gottlob Zimmermann
+Christian Gottlob Kunad
+Karl Gottlob Gelfert
+Johann Traugott Schlesinger
+Karl Gottlieb Räntsch
+Johann Gottfried Romberg
+Georg Gottfried Klemm
+Carl Gottfried Kleber
+Johann Gottlob Janke
+Johann Gottlieb Keil
+----------------
+1822
+Johann Gottlob Zscheyle
+Friedrich Daniel Junold
+Johann Gottlieb Ehrlich
+Gottfried Gotthelf Ehrlich
+Johann Samuel Kerndt
+Johann Gottlieb Schuster
+Johann Gottlieb Petrowsky
+Johann Gottlob Bellmann
+Johann Christian Karl Mittag
+Johann Gottfried Schumann
+Johann Gottfried Wiesner
+----------------
+Carl Gottfried Walther
+Karl Gottlob Bernhard
+Johann Friedrich Leberecht Weber
+Johann Gottlob Leuteritz
+Johann Christian Keulig
+Gottfried Gabriel Lehmann
+Johann Christian Hottowitzsch
+Christian Gottlieb Schumann
+Friedrich August Schupp
+Karl Gottlieb Schumann
+----------------
+1823
+Siegmund Traugott Hermann
+Franz Wagner
+Karl Gottlob Fischer
+Johann Gotthelf Schumann
+Karl Gotthelf Wiesner
+Karl Gottlob Fischer
+Karl Gottlob Geisler
+Johann Michael Litzner
+Karl Gottfried Bachmann
+Johann Heinrich Reichel
+Christian Gottlieb Lange
+----------------
+Karl Traugott Heine
+Gottlieb Leberecht Schirmer
+Karl Gottlob Lotze
+Johann August Leutritz
+1824
+Karl Gotthelf Fischer
+Karl Gottlob Michael
+Johann Gottlieb Wolf
+Karl Gottlob Richter
+Christian Gottlob Großmann
+----------------
+Karl Heinrich Leistner
+August Christian Mai
+Karl Gottlieb Bürger
+Karl Christian Schneider
+Johann Christian Grellmann
+Johann Gottlob Zscheile
+Christian Gottlieb Holzmüller
+Johann Gottlieb Romberg
+Johann Gottlob Büttner
+Karl Gottlieb Müller
+----------------
+1825
+Johann Gottfried Berthold
+Johann Gottfried Rörster
+Christian Traugott Junold
+Karl Gottfried Schirmer
+Karl Gottlieb Junold
+Johann Gottlieb Nake
+Johann Michael Scheube
+Gottlob Traugott Bormann
+Johann Gotthelf Patzig
+----------------
+Gottlob Traugott Kummer
+Karl Gotthelf Fischer
+Christian Gottlieb Löser
+August Christian Matthesius
+Karl August Reinhardt
+Karl Heinrich Reichel
+1827
+Johann Friedrich Fiecke?
+Johann Gottfried Heßler
+Karl Gottfried Pahlitzsch
+----------------
+Johann Gotthelf Gast
+Karl Christian Kleber
+Karl Gottlob Hamann
+Johann Gottfried Ditrich
+Carl August Reinhardt
+Johann Gottfried Rüdger
+Johann August Traugott Leutritz
+Carl Gottlieb Schneider
+----------------
+Johann Christlieb Walther
+Karl Friedrich Grumpelt
+Johann Gottlieb Bägen
+Joseph Grellmann
+Karl August Pietzsch
+Johann Gottlob Schumann
+----------------
+1828
+Johann Gottlob Lange
+Johann Samuel Zimmermann
+Karl Gottfried Kummer
+Gottlieb Samuel Philipp
+Johann Gottlob Welde
+Christian August Amboseck
+Karl Lobegott Kleber
+Johann Gottlob Mierich
+Karl Gottlieb Sparmann
+----------------
+Karl Christian Lehmann
+Samuel Leberecht Bürger
+Christian Gottlieb Klügel
+1829
+Christian Gotthelf Kost
+Wilhelm Heinrich Walther
+Karl Gottlieb Menzer
+Johann Gottfried Richter
+Johann Christian Weser
+Johann Gottlieb Samuel Hamann
+----------------
+Johann Christian Traugott Brumrig
+Johann Gottfried Müller
+Carl Gottfried Bachmann
+Christian Gottlieb Richter
+Anton Zizula

@@ -1,5 +1,5 @@
 Schmiedeberg (Buch 690)
-Trauungen 1791-1819
+Trauungen 1791-1822
 https://www.archion.de/de/viewer/churchRegister/305667?pageId=42979582
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 0,5 Stunden
 Oktober 2023
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -215,3 +216,30 @@ Friedrich August Eichhorn
 Friedrich Wilhelm Berberich
 Carl Friedrich Göbel
 Johann Gottlieb Wintrich
+1820
+Carl Gottfried Balisch
+----------------
+Emanuel Gottlieb Oelschlägel
+Carl Gottlieb Weiße
+Carl Gottlob Walther
+Carl Gottlob Fischer
+1821
+Carl Gottlieb Rabe
+----------------
+Carl Friedrich Rudolph
+Carl Gottlieb Büttner
+Johann Christlieb Bobe
+Johann Gottlob Vogler
+Carl Friedrich Ludwig Thierfelder
+Johann Friedrich Valentin
+Johann Friedrich Ludwig Büttner
+Carl Gottlob Auxel
+1822
+Carl Gottlieb Büttner
+Carl Gottlob Dittrich
+----------------
+Johann Christoph Hörnig
+Gottfried Heinrich Fischer
+Johann Gottfried Hähnel
+Johann David Reichart
+Gotthelf Friedrich Richter

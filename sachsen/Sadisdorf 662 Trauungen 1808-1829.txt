@@ -1,14 +1,15 @@
 Sadisdorf (Buch 662)
-Trauungen 1808-1819
+Trauungen 1808-1829
 https://www.archion.de/de/viewer/churchRegister/305646?pageId=42975987
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Juni 2024
 Juli 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -257,3 +258,157 @@ Johann Christian Voigt
 ----------------
 Johann Gottlieb Schmieder
 Georg Friedrich Fuchs
+1820
+Ernst Gottfried Bär
+Carl Gottlieb Fischer
+Johann Gottlieb Frost
+----------------
+Johann Gotthelf Fleischer
+Friedrich Wilhelm Dietrich
+Johann Gottlob Köhler
+Johann Gottlob Zönnchen
+Friedrich Gottlieb Löwe
+Carl Gottlob Fischer
+Johann Christian Krumpolt
+----------------
+Johann Georg Bellmann
+Johann Gottfried Eisner
+Johann Christian Gottlieb Schwenke
+Carl Friedrich Köhler
+1821
+Gottfried Müller
+Johann Christian Gottlieb Zimmermann
+----------------
+Carl Gottfried Lorenz
+Carl Gottfried Siegismund Grimmer
+Carl Gottlob Liebschner
+Carl Gottlieb Püschel
+Johann Christlieb Bobe
+Johann Gottlob Köhler
+Johann Gottlob Knauthe
+----------------
+Christian Friedrich Andreas
+Johann Gottfried Wolf
+Johann Christian Thümmel
+Carl Gottlob Aupel
+Johann Gottfried Püschel
+----------------
+1822
+Carl Gottlieb Rudolf
+Johann Gottlieb Grunert
+Carl Friedrich Andreas
+Johann Gottlob Lampe
+Christian Gottlob Löwe
+Christian Gottfried Fleischer
+Friedrich August Leipner
+----------------
+Carl Gottlieb Kayser
+Carl Gottfried Beyer
+Johann Gottlob Schneider
+Gottlob Traugott Köhler
+1823
+Carl Gottfried Göhler
+Traugott Leberecht Friebel
+----------------
+Carl Gotthelf Bräuer
+Carl Traugott Engert
+Christian Gottlieb Ernst Süller
+Daniel Gotthold Illig
+Johann Gottlieb Liebschner
+Carl Gottlob Dietrich
+----------------
+Johann Gottfried Bobe
+Johann Gottlieb Gärtner
+Carl Gottlob Zimmermann
+Carl Gottlieb Glöcker
+Johann Gottfried Dunkel
+----------------
+1824
+Carl Gottlieb Berger
+Gottlieb Friedrich Wilhelm Donner
+Christian Friedrich Glöckner
+Johann Gottlieb Bellmann
+Karl Friedrich Damm
+Carl Gottlieb Herklotz
+Johann Gottfried Lieber
+Christian Friedrich Frühauf
+----------------
+Carl Gottfried Rothe
+Benjamin Leberecht Schmidt
+Johann Gottlob Rudolph
+1825
+Johann Gottlieb Göhler
+Johann Christian Langer
+Johann Michael Friedrich
+----------------
+Carl Gottfried Büttner
+Johann Gottlieb Andreas
+Johann Gottfried Zimmermann
+Carl Gottfried Lieber
+Friedrich Gottlob Benjamin Küttner
+Carl Christian Püschel
+Carl Friedrich Schmidt
+Carl Gottlieb Köhler
+Christian August Hille
+----------------
+Traugott Friedrich Einhorn
+Carl Gottlieb Fischer
+Gottlieb Holfert
+Heinrich Wilhelm Flemming
+August Friedrich Zimmermann
+Johann Gottlob Götze
+Carl Friedrich Wilhelm Walther
+1826
+Gottlob Kohbach
+----------------
+Carl Heinrich Glöckner
+Traugott Leberecht Rösiger
+Karl Gottlob Kadner
+Johann Gottlob Maul
+Carl Gottlob Aurel
+Carl Friedrich Naumann
+Friedrich Gottlob Teichert
+Johann Gottlieb Lohse
+----------------
+Carl Gottlieb Stein
+1827
+Christian Gottlob Löwe
+Carl Gottlieb Wolf
+Johann Gotthelf Böhme
+Carl Christlieb Nitzsche
+Johann Gottfried Richter
+Christian Friedrich Illig
+----------------
+Johann Gottfried Püschel
+Carl Gotthelf Grumpelt
+Johann Gottlieb Bellmann
+Carl Gottfried Thonig
+Johann Gottfried Hamann
+Gottlieb Stenzel
+Johann Daniel Göpfert
+----------------
+Johann Christoph Zönnchen
+Carl Gottlob Nitzsche
+1828
+Andreas Schneider
+Friedrich Ehregott Teichert
+Carl Gottlob Gottfried Löwe
+----------------
+Carl Gottlieb Fischer
+Johann Christian Püschel
+Johann Georg Schmidt
+Fürchtegott Friedrich Hetze
+1829
+August Gotthelf Köhler
+----------------
+Friedrich Traugott Löwe
+Gottlob Traugott Köhler
+Christian Friedrich Träger
+Gottlieb August Hofmann
+Johann Christian Gumpelt
+Johann Carl Gottlieb Neubert
+----------------
+Johann Gotthelf Zimmermann
+Carl Gottlob Friedrich Lämpe
+Christian Gottfried Renner
+Johann Gottfried Straßberger
