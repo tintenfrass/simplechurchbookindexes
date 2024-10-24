@@ -2201,7 +2201,7 @@ Joseph Feuereisen | Marianna Ernestina Bähr
 Carol Valentin Gleichmann | Friderica Carolina Karichs
 Johann Gotthelf Remus | Joanna Rosina Uebelmesser
 Christian Gottlob Lesche | Marianna Kühnel
-Vincent Paustka | Augusta, Angelica Carolina Füssel
+Vincent Paustka | Augusta Angelica Carolina Füssel
 Ludwig Blaßmann | Ludovica Muret
 Johann Clemens Tonett | Christiana Friderica Legler
 Franz Hanußek | Dorothea Krebsky
@@ -2276,7 +2276,7 @@ Johann Schneider | Joanna Carolina Willhelmina Leipert
 Johann Anton Seyffert | Christiana Willhelmina Ganzauge
 Michael Fischer | Christiana Friderica Klammer
 Hironimus Fritz | Emilia Agnes Hähnel
-Johann Heinrich Herold |  Maria Josepha Fiedler
+Johann Heinrich Herold | Maria Josepha Fiedler
 Franz Sachwall | Juliana Steinmetz
 Carl Anton Hoffmann | Juliana Augusta Puschner
 ----------------
@@ -2372,7 +2372,7 @@ Franz Nickel | Christrane Wilhelmina Angermann
 Johann Carl August Buhr | Joana Christiana Schenke
 Christian Anton Gottlieb Kriebel | Anna Kzizan
 Johann Friedrich Franz | Amalia Carolina Böhme
-Franz Salesius Hironimus Fabian Sebastian  Marcolini | Emma Theresia Lüttichau
+Franz Salesius Hironimus Fabian Sebastian Marcolini | Emma Theresia Lüttichau
 Carl August Hayn | Joana Eleonora Lubeen
 Nicol Alexander Hennadis | Maria Amalia Carolina Ploetz
 Franz Anton Rilke | Rosalia Dtiel
@@ -2422,7 +2422,7 @@ Georg Wolschink | Joanna Christiana Kirst
 Franz Mattausch | Joanna Sophia Philipp
 Christoph Tandler | Christiana Friederica Goetz
 August Friedrich Wilhelm Burckhart | Maria Anna Hoehnel
-Friedrich Anton  Meusel | Maria Magdalena Loehr
+Friedrich Anton Meusel | Maria Magdalena Loehr
 Wendelinus Wewera | Maria Joana Elisabeth Lübeck
 Joseph Johann Masoni | Joanna Henriette Friderike Elisabeth Hermann
 Johann Joseph Altmann | Justina Magdalena Patzelt
@@ -2531,7 +2531,7 @@ Peter Victor Ferdinand Heine | Christiana Wilhelmina Augusta Rublack
 Carl Adolph Ludwig Günther | Adelheid Maria Anna Christiana Petronilla
 Gottlob Friedrich Kreer | Maria Rosina Carolina Renzsch
 Andreas Sodan | Christiana Eleonora Fuchs
-Carl Friedrich Benedikt Kassel |  Julie Therese Henriette Brause
+Carl Friedrich Benedikt Kassel | Julie Therese Henriette Brause
 Johann Michael Joseph Becker | Mariana Peter
 Jacob Petschke | Maria Josepha Fiebiger
 Johann Gottlob Wolf | Joanna Sophia Seebert
