@@ -99,7 +99,7 @@ func (h *searchComp) Render() app.UI {
 
 	grid[0][3] = "Leuben bei Lommatzsch"
 	grid[1][3] = "Planitz"
-	grid[2][3] = "Meißen"
+	//grid[2][3] = "Meißen"
 	grid[3][3] = "Meißen Frauenkirche"
 	grid[4][3] = "Meißen Johanneskirche"
 	grid[5][3] = "Weinböhla"
@@ -213,7 +213,7 @@ func (h *searchComp) Render() app.UI {
 
 	grid[0][15] = "Kleinschirma"
 	grid[1][15] = "Freiberg St. Johannis"
-	grid[2][15] = "Freiberg"
+	//grid[2][15] = "Freiberg"
 	grid[3][15] = "Niederbobritzsch"
 	grid[6][15] = "Reichstädt"
 
@@ -439,10 +439,10 @@ func (h *searchComp) Render() app.UI {
 		app.Label().Text("Trauungen Dresden Friedrichstadt St. Michael (katholisch) hinzugefügt"),
 		app.Br(),
 		app.Label().Text("Trauungen Dresden Neustadt (katholisch) hinzugefügt"),
-		app.Br(),
-		app.Label().Text("Trauungen Meißen (katholisch) hinzugefügt"),
-		app.Br(),
-		app.Label().Text("Trauungen Freiberg (katholisch) hinzugefügt"),
+		//app.Br(),
+		//app.Label().Text("Trauungen Meißen (katholisch) hinzugefügt"),
+		//app.Br(),
+		//app.Label().Text("Trauungen Freiberg (katholisch) hinzugefügt"),
 		app.Br(),
 		app.Label().Text("kleinere Fehlerkorrekturen"),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
