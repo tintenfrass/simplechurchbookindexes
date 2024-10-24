@@ -1,6 +1,6 @@
 package main
 
-import "goapptest/ui"
+import "onlinefuzzysearch/ui"
 
 func main() {
 	//ui.StartLocal()

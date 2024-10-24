@@ -1,4 +1,4 @@
-module goapptest
+module onlinefuzzysearch
 
 go 1.18
 

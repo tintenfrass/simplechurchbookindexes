@@ -2,8 +2,8 @@ package ui
 
 import (
 	"fmt"
-	"goapptest/config"
-	"goapptest/search"
+	"onlinefuzzysearch/config"
+	"onlinefuzzysearch/search"
 	"strconv"
 	"strings"
 	"time"
@@ -43,8 +43,9 @@ func replace(input string) (output string) {
 	output = strings.Replace(output, "Dresden", "DD", 1)
 	output = strings.Replace(output, "Böhmische", "Böhm.", 1)
 	output = strings.Replace(output, "Exulantengemeinde", "Exulanten", 1)
-	output = strings.Replace(output, "Meißen", "MEI", 1)
-	output = strings.Replace(output, "Freiberg", "FG", 1)
+	output = strings.Replace(output, "Meißen ", "MEI ", 1)
+	output = strings.Replace(output, "Freiberg ", "FG ", 1)
+	output = strings.Replace(output, "Friedrichstadt St. Michael", "Friedrichstadt", 1)
 	return
 }
 
@@ -52,6 +53,14 @@ var rows = 21
 var cols = 10
 
 func (h *searchComp) Render() app.UI {
+
+	kath := map[string]interface{}{
+		"Dresden Hofkirche":                  nil,
+		"Dresden Neustadt":                   nil,
+		"Dresden Friedrichstadt St. Michael": nil,
+		"Meißen":                             nil,
+		"Freiberg":                           nil,
+	}
 
 	grid = map[int]map[int]string{
 		0: make(map[int]string),
@@ -90,6 +99,7 @@ func (h *searchComp) Render() app.UI {
 
 	grid[0][3] = "Leuben bei Lommatzsch"
 	grid[1][3] = "Planitz"
+	grid[2][3] = "Meißen"
 	grid[3][3] = "Meißen Frauenkirche"
 	grid[4][3] = "Meißen Johanneskirche"
 	grid[5][3] = "Weinböhla"
@@ -101,13 +111,15 @@ func (h *searchComp) Render() app.UI {
 	grid[5][4] = "Coswig"
 	grid[6][4] = "Reichenberg"
 	grid[7][4] = "Wilschdorf"
+	grid[8][4] = "Radeberg"
 	grid[9][4] = "Langebrück"
 
 	grid[2][5] = "Krögis"
 	grid[3][5] = "Miltitz"
 	grid[5][5] = "Naustadt"
+	grid[6][5] = "Kötzschenbroda"
 	grid[7][5] = "Klotzsche"
-	grid[8][5] = "Radeberg"
+	grid[8][5] = "Dresden Neustadt"
 	grid[9][5] = "Kleinwolmsdorf"
 
 	grid[0][6] = "Rüsseina"
@@ -116,7 +128,7 @@ func (h *searchComp) Render() app.UI {
 	grid[3][6] = "Taubenheim"
 	grid[4][6] = "Röhrsdorf bei Wilsdruff"
 	grid[5][6] = "Constappel"
-	grid[6][6] = "Kötzschenbroda"
+	grid[6][6] = "Dresden Friedrichstadt St. Michael"
 	grid[7][6] = "Kaditz"
 	grid[8][6] = "Dresden Dreikönigskirche"
 	grid[9][6] = "Großerkmannsdorf"
@@ -182,7 +194,7 @@ func (h *searchComp) Render() app.UI {
 	grid[7][12] = "Possendorf"
 	grid[8][12] = "Röhrsdorf bei Dohna"
 
-	grid[0][13] = "Kleinwaltersdorf"
+	grid[0][13] = "Bräunsdorf"
 	grid[1][13] = "Freiberg Dom St. Marien"
 	grid[2][13] = "Freiberg St. Nikolai"
 	grid[4][13] = "Klingenberg"
@@ -190,7 +202,7 @@ func (h *searchComp) Render() app.UI {
 	grid[6][13] = "Seifersdorf bei Dippoldiswalde"
 	grid[8][13] = "Kreischa"
 
-	grid[0][14] = "Kleinschirma"
+	grid[0][14] = "Kleinwaltersdorf"
 	grid[1][14] = "Freiberg St. Petri"
 	grid[2][14] = "Freiberg St. Jacobi"
 	grid[3][14] = "Hilbersdorf"
@@ -199,11 +211,13 @@ func (h *searchComp) Render() app.UI {
 	grid[6][14] = "Dippoldiswalde"
 	grid[7][14] = "Reinhardtsgrimma"
 
-	grid[0][15] = "Oberschöna"
+	grid[0][15] = "Kleinschirma"
 	grid[1][15] = "Freiberg St. Johannis"
+	grid[2][15] = "Freiberg"
 	grid[3][15] = "Niederbobritzsch"
 	grid[6][15] = "Reichstädt"
 
+	grid[0][16] = "Oberschöna"
 	grid[1][16] = "Erbisdorf"
 	grid[2][16] = "Berthelsdorf"
 	grid[3][16] = "Weißenborn"
@@ -266,7 +280,12 @@ func (h *searchComp) Render() app.UI {
 			h.plusminus(false, k)
 		}
 
-		cb := app.Input().Type("checkbox").Checked(h.checked[k]).OnChange(changeValue).Attr("style", "float:left")
+		cb := app.Input().Type("checkbox").Checked(h.checked[k]).OnChange(changeValue).Attr("style", "float:left;")
+		text := replace(k)
+		if _, exists := kath[k]; exists {
+			cb = app.Input().Type("checkbox").Checked(h.checked[k]).OnChange(changeValue).Attr("style", "float:left;accent-color:darkred")
+			text += " (kath)"
+		}
 		cbs[k] = app.Div().Body(
 			app.Div().Style("float", "left").Body(
 				app.Img().Src(raw+"plus.jpg").Style("display", "flex").Style("margin-top", "1px").OnClick(plus).Title("mehrfach Klicken um dieses Suchgebiet zu vergrößern"),
@@ -274,9 +293,9 @@ func (h *searchComp) Render() app.UI {
 			),
 			cb,
 			app.Div().Style("float", "left").Body(
-				app.Label().Text(replace(k)).OnClick(changeValue),
+				app.Label().Text(text).OnClick(changeValue),
 				app.Br(),
-				app.Label().Text(search.GetMinMax(k)).OnClick(changeValue),
+				app.Label().Text(search.GetMinMax(k)).OnClick(changeValue).Attr("style", "color:dimgrey;font-size:7pt"),
 			),
 		)
 	}
@@ -297,8 +316,6 @@ func (h *searchComp) Render() app.UI {
 						app.Label().Text(h.slideValueMax),
 						app.Br(),
 						app.Br(),
-						//app.Label().Text("(Hinweis: Die Gebiete Freiberg und Dippoldiswalde sind derzeit nur bis 1799 erfasst)").Attr("style", "float:right").Style("color", "dimgrey"),
-						//app.Br(),
 						app.Br(),
 					),
 				),
@@ -414,8 +431,18 @@ func (h *searchComp) Render() app.UI {
 		app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 		app.Br(),
 		app.Br(),
-		app.H3().Body().Text(" v1.8 (August 2024) latest updates:"),
-		app.Label().Text("Trauungen 1810-1819 hinzugefügt"),
+		app.H3().Body().Text(" v1.9 (Oktober 2024) latest updates:"),
+		app.Label().Text("Trauungen 1820-1829 hinzugefügt"),
+		app.Br(),
+		app.Label().Text("Trauungen Bräunsdorf hinzugefügt"),
+		app.Br(),
+		app.Label().Text("Trauungen Dresden Friedrichstadt St. Michael (katholisch) hinzugefügt"),
+		app.Br(),
+		app.Label().Text("Trauungen Dresden Neustadt (katholisch) hinzugefügt"),
+		app.Br(),
+		app.Label().Text("Trauungen Meißen (katholisch) hinzugefügt"),
+		app.Br(),
+		app.Label().Text("Trauungen Freiberg (katholisch) hinzugefügt"),
 		app.Br(),
 		app.Label().Text("kleinere Fehlerkorrekturen"),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")

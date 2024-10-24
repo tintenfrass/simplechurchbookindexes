@@ -1,6 +1,7 @@
 package search
 
 import (
+	"onlinefuzzysearch/config"
 	"strconv"
 )
 
@@ -28,7 +29,11 @@ type marriageEntry struct {
 
 func GetMinMax(church string) string {
 	if val, ok := Data.Marriages[church]; ok {
-		return "\r\n(" + strconv.Itoa(val.Min) + "-" + strconv.Itoa(val.Max) + ")"
+		max := val.Max
+		if max > config.YearMax {
+			max = config.YearMax
+		}
+		return "\r\n(" + strconv.Itoa(val.Min) + "-" + strconv.Itoa(max) + ")"
 	}
 	return ""
 }
