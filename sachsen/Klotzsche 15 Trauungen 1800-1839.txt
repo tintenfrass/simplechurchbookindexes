@@ -1,5 +1,5 @@
 Klotzsche (Buch 15)
-Trauungen 1800-1829
+Trauungen 1800-1839
 https://www.archion.de/de/viewer/churchRegister/279934?pageId=38497302
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 0,5 Stunden
 April 2024
 Juli 2024
 September 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -224,3 +225,57 @@ Johann Gottlieb Kluge
 Johann Gottlob Menzel
 1829
 Johann Gottlieb Böhme
+1830
+Johann Gottlieb Ringel
+Johann Gottfried Behrisch
+Karl Traugott Jacob
+Johann Gottfried Mögel
+----------------
+Johann Gottlob Weber
+Johann Gottlob Käppler
+Johann Gottlob Pohle
+1831
+Johann Georg Heichen
+Karl Liebegott Reinfeld
+Johann Horbank
+Johann Friedrich Pommrich
+----------------
+1832
+Johann Friedrich Klotsche
+Johann Gottlob Körner
+Julius Eduard Kaulfuß
+Karl Traugott Kuntsch
+1833
+Karl Gottlieb Dreßler
+Johann Christian Dreßler
+Johann Gottlob Heichen
+----------------
+1834
+1835
+Johann Christian Günther
+Johann Gottfried Wehse
+Johann Friedrich Hamann
+Karl Herrmann Schütze
+Johann Gottlieb Benjamin Weber
+Karl Friedrich Zichner
+----------------
+1836
+Johann Gottlob Naumann
+Johann Gottlieb Zscheile
+1837
+Karl Traugott Zscheile
+Johann Samuel Haußmann
+1838
+Johann Gottlob Klotsche
+----------------
+Johann Georg Günther
+Johann Gottlob Thalheim
+Johann Christoph Pappritz
+Johann Gottlieb Zscheile
+Johann Gottlob Becker
+Johann Gottlieb Heichen
+----------------
+1839
+Johann Gottlob Zscheile
+Johann Gottfried Bergmann
+Johann Christian Schröter

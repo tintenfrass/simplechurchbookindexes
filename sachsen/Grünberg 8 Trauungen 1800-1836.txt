@@ -1,5 +1,5 @@
 Grünberg (Buch 8)
-Trauungen 1800-1829
+Trauungen 1800-1836
 https://www.archion.de/de/viewer/churchRegister/279927?pageId=38496725
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 April 2024
 Juli 2024
 September 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -216,3 +217,51 @@ Johann Gottlob Trepte
 1829
 Carl Friedrich Gotttheld Wirth
 Johann Gottlob Hiller
+1830
+Johann Gottfried Stephani
+Wilhelm Eduard Wirth
+Carl Gotthelf Leberecht Arnold
+----------------
+Magnus Adolph Blüher
+1831
+Gottlob Heinrich Nagel
+Johann Gottlieb Schulze
+Johann Christoph Traugott Zimmermann
+Johann Gottlob Körner
+----------------
+Johann Gottfried Grafe
+1832
+Johann Christian Thieme
+Johann Christoph Schroeder
+Johann Gottfried Liebezeit
+Johann Gottlieb Fleischer
+Johann Gottfried Schreiber
+----------------
+Johann Gottfried Bergmann
+1833
+Johann Christoph Jacob
+Johann Gottlieb Petzold
+Johann Gottlob Hempel
+----------------
+Carl Gottlieb Schneider
+Carl Gottlieb Pfützner
+Johann Fürchtegott Dreßler
+1834
+Johann Heinrich Trepte
+Johann Gottfried Behrisch
+----------------
+Johann Gottlob Schütze
+Johann Gottlob Klotzsche
+1835
+Carl August Müller
+Johann Gottlob Thieme
+----------------
+1836
+Johann Carl Purfürst
+Carl Gottlob Herrmann
+Johann Teich
+Friedrich Gottlob Nagel
+Johann Christian Pfützner
+----------------
+Johann Gottfried Trepte
+Johann Traugott Dreßler

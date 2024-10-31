@@ -1,15 +1,16 @@
 Kötzschenbroda (Buch 31)
-Trauungen 1800-1829
+Trauungen 1800-1832
 https://www.archion.de/de/viewer/churchRegister/279950?pageId=38502274
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 2 Stunde
+Erstellt in ca. 2,5 Stunde
 April 2024
 Juli 2024
 September 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1319,3 +1320,153 @@ Karl Gottlob Feldmann
 Johann Christian Fischer
 ----------------
 Karl August Geßner
+1830
+Johann Gottlieb Lehmann
+Johann Gottlob Ilsche
+Christian Gottlieb Sparmann
+Christian Claus
+Johann Gottfried Menzel
+----------------
+Christian Claus
+Johann Wilhelm Himmler
+Johann Traugott Vogel
+Johann Gottlieb Hirsch
+Johann Gottfried Große
+Johann Gottlob Leindorf
+----------------
+Friedrich Samuel Schulze
+Friedrich August Woog
+Daniel Mögel
+Johann Samuel Fuhrmann
+Karl Gottfried Hertschuh
+Johann Gottlieb Paul
+----------------
+Karl Traugott Mai
+Johann Karl Horack
+Johann Gottlob Jentsch
+Johann Gottfried Mögel
+Karl Gottlieb Schumann
+Karl Traugott Jakob
+----------------
+Karl August Weber
+Karl Christian Jungnickel
+Karl August Beck
+Friedrich Gottlieb Zwar
+Carl Gottlob Jähnichen
+Johann Samuel Vetters
+Johann Christian Ockert
+----------------
+August Leberecht Geppert
+Karl Wilhelm Jänig
+Johann Gottfried Trache
+Johann Christian Schwedler
+Karl Gottlieb Ulbricht
+----------------
+Matthäus Sohra
+Karl Friedrich Stephan
+Johann Gottlieb Kretschmar
+Friedrich Ludwig Stiehler
+Friedrich August Johann Westphal
+Johann Christian Häbelt
+----------------
+Johann Gottlob Werner
+Johann Christian Hübler
+Karl Gottlob Müller
+Johann Gottlob Nitzsche
+Friedrich David Schließer
+Johann Gottlob Pezold
+Johann Gottfried Schneider
+----------------
+1831
+Johann Samuel Winkler
+Johann Samuel Simon
+Georg Friedrich Werner
+Christian Gottlob Pocher
+Johann Gottfried Lehmann
+Johann Gottfried Tronicke
+Karl August Schramm
+----------------
+Gotthelf Thürigen
+Friedrich David Trache
+Johann Samuel Berge
+Johann Gottfried Pezold
+Johann Gottfried Beuhne
+Johann Gottlob Pezold
+----------------
+Johann Gottlieb Nitzsche
+Friedrich Gotthelf Winkler
+Johann Gottlob Quasdorf
+Johann Georg Türke
+Johann Gottlob Mierisch
+Johann Gotthelf Rühle
+Johann Gotthelf Jakob
+----------------
+Johann Gottlieb Albrecht
+Friedrich August Richter
+Samuel Gottlieb Beck
+Karl Gotthelf Schöne
+Friedrich Gottlob Jakob
+Johann Gottfried Leibger
+----------------
+Johann Christian Sickert
+Johann Gottlob Witschold
+Carl Traugott Beuchelt
+Christian Benjamin Görlitz
+Johann Friedrich Niese
+Ernst Heinrich Siegel
+Johann Gottfried Melzer
+----------------
+Johann Gottfried Hecht
+Johann MarschkeKießnick
+Andreas Rämsch
+Christian Gottlieb Seifert
+Johann Zacharias Pezold
+Karl Gottlob Martini
+Johann Gotthelf Wiedner
+----------------
+Johann Gotthelf Schütze
+Johann Gottlob Ruhland
+1832
+Friedrich Gottlieb Birke
+Carl Traugott Riemer
+Johann Gottlieb Koch
+Johann Gottlieb Trentsch
+Johann Gottlob Fischer
+----------------
+Johann Andreas Vogel
+Gottfried Marx
+Christian Stoppora
+Friedrich David Schließer
+Johann Gottlieb Bischof
+Johann Gotthelf Zschentsch
+Karl Gotthelf Kliemann
+----------------
+Gottlob Ernst Kleeberg
+Karl Christoph Klinger
+Johann Gottfried Lotzmann
+Karl Christian Jungnickel
+Ehregott Leberecht Schmidt
+Adolph Friedrich Wilurki
+Karl Gottfried Böhme
+----------------
+Johann Gottfried Mücke
+Johann Gottfried Große
+Johann Gottlieb Kluge
+Eduard Weißbach
+Johann Gotthelf Kliemann
+Traugott Karl Hake
+----------------
+Karl Friedrich Vogel
+Johann Gottlob David
+Karl Gottlieb Ferdinand Pökel
+Johann Gottlob Angermann
+Karl Traugott Kluge
+Johann Christian Schneider
+----------------
+Christian Förster
+Christian Friedrich Laspe
+Johann Gottlob Beuchelt
+Johann Gottlieb Meisner
+Johann Christian Standfuß
+Karl Gottlob Schubert
+Johann Samuel Koch

@@ -1,5 +1,5 @@
 Großdittmannsdorf (Buch 3)
-Trauungen 1808-1829
+Trauungen 1808-1839
 https://www.archion.de/de/viewer/churchRegister/279922?pageId=38495866
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 April 2024
 Juli 2024
 September 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -188,3 +189,108 @@ Carl Gottlob Fischer
 Johann Gottfried Fehrmann
 Johann Christian Ruhland
 Christian Gotthelf Zeidler
+1830
+Johann Gottfried Muschter
+Johann Gottlob Förster
+Johann Gottlieb Büttner
+----------------
+Johann Gottlieb Richter
+Johann Christian Büttner
+Johann Georg Rühle
+1831
+Johann Gottfried Schütze
+Johann Gottlob Hillig
+Johann Gottlob Schöne
+----------------
+Carl Heinrich Franke
+Johann Carl Gottlieb Callauch
+1832
+Johann Gottlob Kotte
+Johann Gottlieb Procksch
+Christian Gottlieb Gommlich
+Johann Gottlob Friedrich
+August Wilhelm Richter
+August Eduard Born
+----------------
+Johann Gottlieb Fleischer
+Johann Gottlieb Kretzschmar
+Carl Traugott Missbach
+Johann Gottlieb Boden
+----------------
+1833
+Carl Gottlob Claus
+Johann Christoph Gottlob Mager
+Johann Christoph Bellmann
+Christian Gottlieb Schütze
+Johann Christian Wolf
+Johann Gottfried Eichhorn
+Johann Christoph Klotzsche
+Friedrich Gustav Heinrich Schulze
+Johann Gottfried Klotzsche
+Johann Gottlieb Zschaschel
+----------------
+Johann Friedrich Wilhelm Janke
+1834
+Johann Gottlieb Nicklisch
+Johann Gottfried Stiehler
+Johann Gottfried Grafe
+Johann Gotthelf Chrösing
+Johann Gottlieb Rietzschel
+Johann Gottfried Menzel
+Johann Gottlieb Schütze
+Christian Gottlieb Thieme
+----------------
+Friedrich Wilhelm Thieme
+Johann Gotthelf Hillig
+Gottlob Heinrich Jobst
+Johann Gottfried Opitz
+1835
+Carl Friedrich Gottlieb Freudenberg //korrigiert
+Johann Gottfried Großmann
+Johann Gottlob Klotzsche
+Johann Christoph Schmidt
+Christian Gottlieb Hillig
+Johann Gottfried Fischer
+----------------
+1836
+Heinrich Gotthelf Schöne
+Johann Gotthelf Hesse
+Johann Gottlob Weise
+Johann Christian Kirsten
+Johann Gottlob Nicklisch
+Johann Gottfried Schütze
+Johann Christian Boden
+----------------
+1837
+Johann Gottlieb Umlauft
+Johann Gottlob Eger
+Johann Christian Hillig
+Carl Friedrich Baldauf
+Johann Gottfried Seifert
+Johann Friedrich Brösing
+Johann Gotthelf Pfützner
+Christian Gottlob Fehrmann
+----------------
+1838
+Johann Gottlob Klotzsche
+Johann Gottfried Leske
+Carl Adolph Werner
+Johann Carl Moritz Weichelt
+Carl Traugott Großmann
+Carl Traugott Dothe
+Carl August Dolze
+Carl August Staudte
+Johann Gotthelf Kretzschmar
+----------------
+Carl Gottfried Vetter
+Johann Gottlieb Schmidt
+1839
+Johann Gottfried Boden
+Johann Gotthelf Leske
+Johann Gottfried Kietzschmar
+Carl Gotthelf Grundmann
+Johann Gottlob Trepte
+Johann Gottlieb Geißler
+----------------
+Johann Gottlieb Grafe
+Johann Gottlieb Türke

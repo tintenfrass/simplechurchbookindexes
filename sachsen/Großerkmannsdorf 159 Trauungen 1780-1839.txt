@@ -1,16 +1,17 @@
 Großerkmannsdorf (Buch 159)
-Trauungen 1780-1829
+Trauungen 1780-1839
 https://www.archion.de/de/viewer/churchRegister/280079?pageId=38530316
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 September 2023
 April 2024
 Juli 2024
 September 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -441,3 +442,95 @@ Johann Gotthelf Zeibig
 Carl Heinrich Ziesche
 Johann Carl Gottlieb Börner
 Johann Christoph Jähnichen
+----------------
+1830
+Johann Carl Gottfried Michel
+Johann Christoph Jähnichen
+Johann Georg Paul
+Johann Traugott Schöne
+Johann Conrad Euchner
+1831
+Johann Traugott Grünert
+Johann Karl August Kohlmann
+Heinrich Ernst Wagner
+Johann Samuel Schütze
+Johann Carl Gottlob Schöne
+----------------
+Carl August Jank
+1832
+Carl Heinrich Ziesche
+Johann Gottfried Müller
+Johann Georg Forke
+Carl Traugott Feller
+Johann Gottfried Häse
+Carl Gottlob Rentsch
+Johann Gottlob Hennig
+Gottfried August Paufter
+Johann Georg Hörnig
+Johann Gottlieb Schöne
+----------------
+Johann Gottlob Näther
+Johann Gotthelf Näther
+Johann Christian Jähnichen
+1833
+Johann Gottlob Jähnichen
+Gotthelf Köhler
+Christian Clemens Rosenkranz
+Carl Gottlieb Sahre
+Friedrich Opitz
+1834
+Johann Traugott Leuthold
+Carl Gottlieb Philipp
+----------------
+Johann Carl Gottfried Müller
+Johann Gottlieb Näther
+Johann Gottfried Forke
+1835
+Carl Friedrich Wilhelm Näther
+Johann Gottlob Henke
+Johann Gottlob Forke
+Johann August Klahre
+Friedrich August Rüthrich
+Johann Gottlob Näther
+----------------
+1836
+Eduard Gustav Pahlisch
+Carl Gottlieb Kaden
+Carl Gotthelf Tittel
+Christian Carl Leuthold
+Johann Gottlieb Wilhelm Richter
+Carl Gottlob Kleinstück
+Johann Christoph Jähnichen
+Carl Gottlieb Müller
+Johann Traugott Schneider
+----------------
+Carl Christian Blochwitz
+1837
+Johann Gottlob Blochwitz
+Johann Gottlob Mai
+Johann Gotthelf Hantsche
+Carl August Mai
+Christian Friedrich Meßerschmidt
+Fürchtegott Leberecht König
+Johann Gottlob Bernd
+Johann Gottfried Schmidel
+Johann Gottfried Scherber
+----------------
+1838
+Friedrich August Jähnichen
+Johann Christoph Demel
+Friedrich August Müller
+Carl Gottfried Feller
+Johann Carl Gottlieb Gehre
+Gotthelf Traugott Hennig
+Carl Gottlob Jähnichen
+Ludwig Adolph Bollholz
+Carl Gottfried Gebauer
+----------------
+1839
+Carl Gotthelf Zeibig
+Johann Gottlieb Tittel
+Carl Friedrich Näther
+Johann Gottlieb Müller
+Carl Traugott Nitsche
+Carl Gottlieb Klahre

@@ -1,5 +1,5 @@
 Kaditz (Buch 220)
-Trauungen 1816-1829
+Trauungen 1816-1830
 https://www.archion.de/de/viewer/churchRegister/264543?pageId=36973108
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Juli 2024
 September 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -369,3 +370,32 @@ Johann Gottlieb Winkler
 Johann Gottlieb Schumann
 Friedrich August Mul
 Samuel Friedrich Berger
+---------------- x24
+1830
+Johann Gottfried Jäger
+Johann Christian Wirthgen
+Johann Gottlieb Findeisen
+Friedrich August Ufert
+Johann Gottlob Ilzsche
+Johann Gottfried Börner
+----------------
+Johann Gottlob Blumberger
+Traugott Gottlieb Fickler
+Johann Gottlieb Paul
+Ernst Daniel Sölle
+Johann Daniel Schöne
+Johann Gottfried Zschimmer
+----------------
+Johann Gottlieb Herzschuch
+Johann Friedrich Wendt
+Johann Gottfried Rump
+Karl Gottlieb Dietze
+Gregor Wilhelm Zarenkow
+----------------
+Johann Gottfried Mögel
+Johann Gottlob Patzig
+Karl Gottlob Wegerich
+Gottlob Leberecht Grafe
+Johann Georg Wilhelm Venter
+----------------
+Johann Samuel Hauswald

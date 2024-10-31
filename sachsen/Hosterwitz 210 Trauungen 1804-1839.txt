@@ -1,15 +1,16 @@
 Hosterwitz (Buch 210)
-Trauungen 1804-1829
+Trauungen 1804-1839
 https://www.archion.de/de/viewer/churchRegister/280087?pageId=38532543
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 April 2024
 Juli 2024
 September 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -529,3 +530,232 @@ Johann Kreuschwitz
 Johann Christoph Kegel
 Carl Gottlieb Haase
 Johann Gottlieb Meißner
+----------------
+----------------
+1830
+Johann Karl Gottlieb Schletter
+Johann Christoph Haufe
+Johann Gottlob Schletter
+Johann Gottlob Lehmann
+Johann Karl Gottlieb Hauke
+Carl Gottfried Kleine
+Johann Gottlieb Henke
+Karl Gottlieb Eisold
+Johann Georg Paul
+Johann Hennersdorf
+Christian Roik
+----------------
+Friedrich August Wolf
+Johann Christoph Karisch
+Johann Gottfried Rainfeld
+Johann Christoph Häbig
+Karl Samuel Huhn
+Friedrich Traugott Scherz
+Johann Samuel Kreidtner
+----------------
+1831
+Carl August Scherz
+Johann Gottfried Fleischer
+Karl Gottlieb Sperling
+Johann Gottlob Wehse
+Johann Gottfried Gießmann
+Karl Gottlob Haufe
+Karl Traugott Füssel
+Johann Gottfried Maukisch
+Matthäus Schimank
+Gottlob Karl Scherz
+----------------
+Johann August Kirsten
+Karl Gottlob Daniel Krüger
+Karl Gottlob Lange
+Karl Wilhelm Adam
+Johann Karl Gottlieb Hillemann
+Joseph Büchel
+Christian Gottlieb Lange
+Johann Friedrich Gotthelf Lehmann
+Karl Gottfried Eisold
+----------------
+Friedrich Wilhelm Hartmann
+August Wilhelm Kunath
+Johann Benjamin Weiße
+Karl Friedrich Ehregott Frenzel
+Heinrich August Schön
+----------------
+1832
+Friedrich Traugott Barthel
+Karl Gottlieb Findeisen
+Johann Gottlob Künzelmann
+Johann Gottfried Kotsch
+Johann Gottlob Hauke
+Karl Gottlob Rentsch
+Johann Kirchknopf
+Johann Gottfried Wobst
+Johann Kruschwitz
+----------------
+1833
+Karl Gottlieb Zeibig
+Johann Gottlieb Ryßel
+Karl Gottlieb Becker
+Karl Heinrich Schlegel
+Karl Friedrich August Bergner
+Friedrich August Kohlsdorf
+Johann Georg Pötsch
+Johann Gottfried Kegel
+Johann Gottlob Scherze
+Karl Gottfried Jentsch
+----------------
+Karl Christian Kegel
+Karl Gottlob Kaiser
+Johann Friedrich Gotthelf Paul
+Johann Gottlieb Leischke
+Christian Gottlieb Kohlsdorf
+Heinrich Adolph Aßmann
+Johann Friedrich August Sachse
+Johann August Paul
+Traugott Leberecht Schütze
+----------------
+----------------
+1834
+August Friedrich Böhme
+Johann Gottlieb Kirsten
+Johann August Höhle
+Karl August Kegel
+Heinrich Eduard Haßler
+Traugott Wilhelm Zeibig
+Johann Gotthelf Trautmann
+Johann Gottlieb Maukisch
+Johann Gottlob Krause
+Carl Gottlieb Gräber
+Johann Gottlieb Franke
+----------------
+Johann Gottfried Wobst
+Johann Gottlieb Wehner
+----------------
+1835
+Johann Gottlieb Anders
+Johann Samuel Gliehmann
+Johann Traugott Bergmann
+Johann Gottlieb Horx
+Karl Gottfried Säuberlich
+Johann Gottlieb Ryßel
+Karl Gotthelf Kotte
+Anton Dziembowsky
+Johann Karl Gottlob Heintzsch
+Johann Bartusch
+----------------
+Johann Karl Gottlob Häse
+Johann Gottlieb Fritzsche
+Friedrich August Wilhelm Jentsch
+Johann Gottlieb Hase
+Johann Gottfried Eichler
+Johann Friedrich Preller
+Karl Wilhelm Adam
+Adolph Friedrich Schiele
+Johann Traugott Punde
+Johann Heinrich Klemm
+Friedrich August Franke
+----------------
+----------------
+1836
+Johann Gottlob Maul
+Friedrich August Oswald
+Johann Gottlieb Müller
+Johann Karl Gottlieb Fleck
+Johann Friedrich Medorn
+Karl Gottfried Nake
+Johann Gottlieb Richter
+Karl August Wilhelm Bergner
+Karl Gottlob Gierth
+----------------
+Johann Friedrich Wolf
+Karl Friedrich Eduard Kotte
+Karl Gottlieb Weidel
+Heinrich August Wolf
+Johann Gottlob Jähnichen
+Karl Traugott Fiebig
+Johann Gottlieb Roch
+Johann Karl August Mühle
+Johann Samuel Angermann
+Karl Gottlieb Pötsch
+----------------
+Karl Christoph Zöllner
+Melchior Schumann
+Karl August Kegel
+----------------
+1837
+Peter Poldrack
+Karl Christian Hase
+David Sperling
+Johann Gottlieb Barthel
+Karl Gotthelf Rendler
+Johann Gotthelf Hirschnitz
+Johann Gottfried Klotzsche
+Karl Gottfried Gerhardt
+Karl Heinrich Benjamin Leypuld //Leupold
+Johann Gottfried Böhmer
+----------------
+Friedrich August John
+Karl Gottfried Huhn
+Johann Gottlob Paul
+August Friedrich Wilhelm Oelßner
+Johann Karl Traugott Hille
+Johann Georg Heydel
+Karl Gottfried Kirsten
+Heinrich August Zeibig
+Friedrich Gotthelf Ernst Hase
+----------------
+Karl Traugott Zeibig
+----------------
+1838
+Karl Gottlob Richter
+Johann Gottlieb Köckeritz
+Johann Christoph Richter
+Johann Gottlieb Nake
+Christian Gottlieb Kegel
+Karl Heinrich Ludwig
+Johann Gottfried Findeisen
+Karl Gottfried Ehlich
+Christian Friedrich Börner
+Karl Gottfried Gottschalch
+Johann Gottlob Jähnelt
+----------------
+Johann Gottlob Wendisch
+Johann Daniel Scheffel
+Friedrich August Findeisen
+Karl Traugott Ufer
+Karl Ludwig Ferdinand Lerscheck
+Johann Gottlieb Menzel
+Karl Gottlob Nake
+Karl Gottlieb Aehlichen
+Johann Gottfried Gotthardt Barthel
+----------------
+Friedrich Gotthelf Hohlfeld
+Johann Gottfried Eibig
+Karl Gottfried Friebel
+Karl Gottlieb Heinrich Bienert
+Karl Heinrich Niebraschk
+Karl Wilhelm Böhme
+Johann Gotthelf Trautmann
+Karl Gottfried Jäkel
+Karl Gottlieb Schramme
+Karl Friedrich August Schröter
+----------------
+----------------
+1839
+Christoph Wilhelm Oswald
+Karl Gottfried Felsner
+Ernst Gottlieb Ferdinand Schiefner
+Johann Gottfried Buchmann
+Johann Gotthelf Schleunziger
+Johann Gottfried Karisch
+Louis Wilhelm Krüger
+Karl Gottlob Jähnel
+Johann Traugott Paul
+Albert August Walcha
+----------------
+Johann Gottlieb Hennig
+Johann Gottfried Reppchen
+Friedrich August Klotzsche
+Johann Gotthelf Maul
+Carl Friedrich Hempel
+Ernst Wilhelm Wolf

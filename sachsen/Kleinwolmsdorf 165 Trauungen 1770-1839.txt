@@ -1,16 +1,17 @@
 Kleinwolmsdorf (Buch 165)
-Trauungen 1770-1829
+Trauungen 1770-1839
 https://www.archion.de/de/viewer/churchRegister/264497?pageId=36954139
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 September 2023
 April 2024
 Juli 2024
 September 2024
+Oktober 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -443,3 +444,94 @@ Johann Gottlob Feller
 ----------------
 Carl Traugott Henker
 Christian Fürchtegott Walther
+1830
+Johann Gottlieb Berge
+Johann Christoph Mittag
+Carl Heinrich Kirchhof
+Johann Christian Forke
+1831
+Carl Gottlieb Müller
+Johann Gottlieb Klinkigt
+Johann Gottlieb Großmann
+Carl Traugott Hantsche
+Johann Gottlieb Forckert
+----------------
+1832
+Friedrich Gustav Philipp
+Carl Traugott Feller
+Friedrich Gustav Golbß
+Johann Christlieb Klahre
+Gottfried August Paufler
+Johann Gottlob Näther
+1833
+Johann Gottlob Kluge
+Karl Traugott Steglich
+Johann Gotthelf Göpfert
+Karl Gottlieb Willkommen
+----------------
+August Leberecht Hartmann
+Karl Traugott Mittag
+Johann Christoph Koch
+Friedrich Klotz
+Karl Gottlieb Gaebler
+Johann Karl August Schmidt
+Johann Gottlieb Büttner
+Johann Gottfried Mehner
+Karl Gotthold Silze
+----------------
+1834
+Johann Georg Feller
+Karl Traugott Müller
+Johann Gottfried Forkert
+Karl Gottlieb Förster
+Karl Traugott Sachse
+Karl Gottlieb Philipp
+Friedrich August Förster
+Karl Gottlob Fiedler
+1835
+Karl August Feller
+Karl Gottlieb Große
+Karl Traugott Müller
+Karl Gottlob Rosenkranz
+----------------
+Christian Gottlob Grötzschel
+Gottlieb Leberecht Fiedler
+Friedrich Leberecht Richter
+Karl Gottfried Karsch
+1836
+Johann Gottfried Hempel
+Johann Gottfried Müller
+Johann Gottfried Hörnig
+Johann Gotthelf Große
+Johann Gottlieb Schneider
+Johann Gottfried Hartmann
+1837
+Johann Traugott Große
+Johann Gottfried Müller
+----------------
+Karl Traugott Hippe
+Heinrich Ehrenfried Wolf
+Johann Karl Gottlieb Forke
+Friedrich August Förster
+Johann Georg Mädler
+Karl Gottfried Hartmann
+Fürchtegott Leberecht Hönig
+Karl Gottlieb Philipp
+Karl Gottlieb Karsch
+1838
+Karl Gottfried Dreßler
+Johann Karl Traugott Wolf
+Johann Gottfried Großmann
+Karl Gottlieb August Große
+----------------
+Johann Gottlieb Heinrich Rößler
+Karl Gottfried Feller
+August Wilhelm Gärtner
+Karl Gottlieb Feller
+Gotthelf Traugott Hennig
+1839
+Karl Gottlob Schäfer
+Johann Gottlieb Traugott Rosenkranz
+Johann Gottlob Lunze
+Karl Gottlieb Mädger
+Karl Gottlieb Klahre
