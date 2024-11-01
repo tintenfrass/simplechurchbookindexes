@@ -1,5 +1,5 @@
 Langebrück (Buch 48)
-Trauungen 1800-1829
+Trauungen 1800-1839
 https://www.archion.de/de/viewer/churchRegister/279967?pageId=38504680
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 1 Stunde
 April 2024
 Juli 2024
 September 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -344,3 +345,98 @@ Gottlieb Heinrich Schäfer
 ----------------
 Johann Christian Hennig
 Carl Heinrich Trepte
+1830
+Johann Gottlieb Naumann
+Johann Christoph Trepte
+Johann Georg Carl Clauß
+Johann Gottfried König
+Carl Ehrenfried Ehregott Leuschner
+----------------
+Johann Georg Günther
+Johann Carl Gottlob Rosenkranz
+Johann Heinrich Trepte
+Johann Christian Zumpe
+Johann August Polscharzky
+1831
+Johann Gottfried Menzel
+Carl Traugott Hantzsche
+Johann Gottlob Kittner
+----------------
+Johann Gottlob Müller
+Johann Christian Schäfer
+Johann Gottlob Pietzsch
+Johann Gottlob Stiehler
+1832
+Johann Heinrich Wolf
+Johann Gottfried Knolle
+Johann Karl Knoch
+Johann Gottlieb Wolf
+----------------
+Johann Heinrich Schmidt
+Carl Traugott Guhr
+Johann Gottlieb Locke
+1833
+Johann Gottlob Trepte
+Johann Gottfried Pohle
+Johann Gottfried Marx
+Johann Gottfried Wünsche
+----------------
+Johann Christoph Großmann
+Johann Gottlob Wolf
+Johann Gottfried Herrlich
+Carl Gotthelf Schindler
+1834
+Heinrich Christian Borchers
+Johann Gottlob Kühn
+Carl Gottfried Zimmermann
+----------------
+Carl Gottlob Großmann
+Johann Christian Wolf
+Johann Gottfried Trepte
+Carl Gottlieb Pietzsch
+Johann Gottfried Klahre
+Carl Christian Hildebrandt
+Ernst Ferdinand Hähnel
+Johann Heinrich Clauß
+Johann Heinrich Trepte
+----------------
+1835
+Johann Christian Michael
+Johann Gottlieb Johne
+Carl Gottlieb Meißner
+Carl Gottfried Adolph Schütze
+1836
+Johann Gottfried Trepte
+Johann Traugott Hausdorf
+Johann Christoph Kotte
+----------------
+Johann Gottfried Trepte
+Heinrich Wießner
+1837
+Christian Gotthelf Karsch
+August Ferdinand Schulze
+Carl Gottlob Zimmermann
+Johann Christian Friedrich Schoenbild
+----------------
+Carl Gottfried Michael
+Johann Christian Riemer
+Johann Gotthelf Schmidt
+1838
+Johann Gottlob Großmann
+Johann Georg Günther
+Johann Gottlob Müller
+Johann Heinrich Knoche
+----------------
+Johann Gottfried Wagner
+Carl Heinrich Tronicke
+Johann Gotthelf Großmann
+Johann Heinrich Schmidt
+Johann Gottfried Michael
+1839
+Johann David Lange
+Carl Gottlieb Reck
+----------------
+Friedrich August Müller
+Johann Christian Kotte
+Johann Christoph Müller
+Christian Wilhelm Clauß

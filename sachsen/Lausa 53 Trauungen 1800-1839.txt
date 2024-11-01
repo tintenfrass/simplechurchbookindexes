@@ -1,5 +1,5 @@
 Lausa (Buch 53)
-Trauungen 1800-1829
+Trauungen 1800-1839
 https://www.archion.de/de/viewer/churchRegister/279972?pageId=38505920
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 1 Stunde
 April 2024
 Juli 2024
 September 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -536,3 +537,180 @@ Friedrich Gottlob Großmann
 ----------------
 Johann Gottlieb Kahle
 Johann Gottlieb Wettermann
+1830
+Johann Gottfried Kunath
+Carl Gottlieb Böhme
+Johann Georg Schröter
+Johann Gottfried Mögel
+----------------
+Mattheus Futtka
+Johann Gottlob Pohle
+1831
+Johann Gottlieb Thalheim
+Johann Friedrich Großmann
+Johann Gottlob Wolf
+Heinrich Moritz Viehbrig
+----------------
+Johann Gottlob Wehse
+Friedrich Traugott Hörnig
+Johann Gottlieb Schütze
+Karl Friedrich Ringel
+Christian Heinrich Förster
+Christian Heinrich Menzel
+Johann Gottfried Schütze
+Johann Gottlieb Jänichen
+----------------
+Karl Gottlob Karisch
+Johann Gottlob Körner
+Johann Gottlieb Menzel
+Johann Christian Gottlob Reiche
+Karl Gottlieb Kotte
+Karl Traugott Berger
+Carl Gottlob Strauß
+Johann Gottlob Dieze
+----------------
+Karl Gottlieb Weise
+Johann Gottlob Stiehler
+Christian Siegismund Walther
+Johann Gottlieb Sonntag
+Johann Traugott Kluge
+Johann Traugott Kind
+Johann Gottlob Menzel
+Johann Gottlieb Menzel
+----------------
+1832
+Christian August Schönert
+Johann Gottfried Meißner
+Johann Gottlieb Angermann
+Johann Gottlob Seifart
+Johann Christoph Hausdorf
+Karl Gottlob Uhlemann
+Julius Eduard Kaulfuß
+Gotthelf Friedrich Schönert
+----------------
+Johann Gottlob Schulze
+Karl Friedrich Förster
+Johann Gottlieb Kretzschmar
+Johann Gottfried Zeiler
+Johann Gottfried Bergmann
+Karl Gottlob Salm
+Karl Friedrich Menzel
+Johann Christoph Hübner
+----------------
+1833
+Carl Gotthelf Wehse
+Johann Gottfried Menzel
+Johann Gottlieb Petzold
+Johann Heinrich Hegewald
+Karl August Leipert
+Johann Christoph Knöfel
+Johann Gottlob May
+Johann Christian Milde
+Johann Gottfried Wagner
+Johann Gottlob Schütze
+Johann Christian Dreßler
+Johann Gottfried Jacob
+----------------
+Christian Wilhelm Kretzschmar
+Friedrich August Ringel
+Karl Friedrich Leuschner
+Gottlob Traugott Kotte
+Andreas Groß
+Johann Gottlob Schütze
+Johann Gottlob Heiche
+Johann Heinrich Wagner
+----------------
+1834
+Friedrich Gottlob Schuppan
+Johann Heinrich Trepte
+Gottlieb Trepte
+Friedrich Traugott Reinhard
+Johann Gottfried Behrisch
+Friedrich Gotthold Stölzer
+Johann Gottlob Wolf
+Hans Tinko
+Carl Christian Adam
+Carl Christoph Trepte
+----------------
+Johann Christoph Zscheile
+1835
+Johann Gottfried Branitz
+Johann Georg Karl Noack
+Johann Gottlieb Menzel
+Johann Gottfried Wehse
+Karl Christoph Großmann
+Karl Gottlob Ziller
+----------------
+Georg Karl Kaulfuß
+Karl Gottfried Schütze
+Christian Friedrich Zeibig
+Johann Gottlob Mann
+1836
+Johann Gottfried Erdmann
+Friedrich August Hayeck
+Gottlieb Fahsold
+Karl Traugott Ziesche
+Johann Gottfried Zimmermann
+----------------
+Johann Gottlieb Naumann
+Johann Teich
+Friedrich Gottlob Nagel
+Karl Gottlieb Schütze
+Johann Gottfried Trepte
+Christian Friedrich Pilz
+Johann Gottlob Pietzsch
+Johann Gottfried Lesche
+----------------
+1837
+Johann Gottlieb Werner
+Johann Gottfried Schütze
+Johann Gottlieb Branitz
+Friedrich August Bienert
+Johann Gottlob Schütze
+Johann Gottfried Thalheim
+Johann Gottfried Vetters
+Friedrich Wilhelm Pöschel
+Johann Gottlob Heinrich Lunze
+----------------
+Johann Gottlieb Traugott Schütze
+Johann Gottfried Seifert
+Gottlieb Schütze
+Johann Gottlob Hoffmann
+Johann Gottfried Callauch
+1838
+Gottlob Herrich
+Johann Gottfried Gottweiß
+Johann Gottfried Schindler
+----------------
+Gottlieb Traugott Heegewald
+Johann Gottlob Richter
+Carl August Aestel
+Carl Traugott Großmann
+Karl Gottfried Herfurt
+Johann Gottfried Umlauft
+Johann Christian Thronicke
+Johann Gottlieb Thalheim
+Johann Gottlob Grafe
+----------------
+1839
+August Friedrich Fritsche
+Michael Krauße
+Karl Gottlieb Schütze
+Johann Gottlob Heegewald
+Johann Christian Sickert
+Johann Gottfried Bergmann
+Gottlieb Funke
+Friedrich Traugott Zumpe
+Johann Gottfried Strauß
+Karl Gottlob Uhlemann
+----------------
+Gottlob Schütze
+Johann Gottlob May
+Gottfried Funke
+Johann Gottlob Vetters
+Friedrich August Wehse
+Gottlob Leberecht Kluge
+Karl Gottlieb Fleischer
+Johann Gottfried Hempel
+Christian Gottlieb Eger
+Johann Gottfried Großmann

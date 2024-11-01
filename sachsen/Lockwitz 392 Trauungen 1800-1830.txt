@@ -1,5 +1,5 @@
 Lockwitz (Buch 392)
-Trauungen 1800-1829
+Trauungen 1800-1830
 https://www.archion.de/de/viewer/churchRegister/264578?pageId=36981265
 
 
@@ -12,6 +12,7 @@ Erstellt in ca. 2 Stunden
 April 2024
 Juli 2024
 September 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -664,3 +665,34 @@ Johann Zworn
 Carl Friedrich August Langer
 Samuel Heinrich Medorn
 Carl Bürger
+----------------
+1830
+Carl Wilhelm Winckler
+Gustav Wilhelm Adam
+Johann Gottlob Müller
+Carl Gottlob Borisch
+Christian Gottlob Pietzsch
+----------------
+Friedrich Traugott Gallwitz
+Johann Gottlieb Hanisch
+Carl Gotthelf Goehler
+Carl Traugott Strohbach
+Karl Traugott Mai
+Gottlieb Geißler
+----------------
+Johann Gottlob Schwarze
+Friedrich Gotthelf Henke
+Johann Gottlieb Senft
+Carl Gottlob Schanze
+Gottlob Heinrich Andrich
+Johann Gottlieb Boedig
+----------------
+Carl Gottlob Petzoldt
+Johann Anton Haschke
+Johann Christoph Nickgen
+Adolph Herrmann Ludewig
+Carl Gottlieb Hipner
+----------------
+Johann Carl Gottlieb Schumann
+Carl Friedrich August Barthel
+Friedrich Leberecht Seyfarth
