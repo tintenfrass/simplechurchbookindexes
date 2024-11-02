@@ -1,5 +1,5 @@
 Medingen (Buch 65)
-Trauungen 1801-1829
+Trauungen 1801-1839
 https://www.archion.de/de/viewer/churchRegister/279985?pageId=38507912
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 1 Stunde
 April 2024
 Juli 2024
 September 2024
+November 20024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -209,3 +210,95 @@ Johann Gottfried Klengel
 Johann Christian Ruland
 ----------------
 Christian Gotthelf Zeidler
+1830
+Johann Gottlob Wagner
+Johann Gottfried Muschter
+Johann Christian Naumann
+----------------
+Carl Gottlieb Koch
+Johann Gottlieb Wegner
+Carl Gotthelf Knöfel
+----------------
+1831
+Johann Gotthelf Urlauft
+Johann Gottfried Heinrich Gruhl
+Johann Gottfried Kotte
+Johann Christian Gotthelf Reiche
+----------------
+Johann Gotthelf Süßmilch
+Friedrich August Brükner
+Johann Gottfried John
+Johann Gottlob Eichhorn
+Johann Gottlieb Schiertz
+----------------
+1832
+Johann Gottlieb Stange
+Johann Gottlob Friedrich
+Johann Gotthelf Rühmer
+Johann Gottfried Bürger
+----------------
+Johann Gottlieb Boden
+1833
+Johann Gottlieb Umlauft
+Johann Gotthelf John
+Johann Christian Wolf
+Johann Gottfried Eichhorn
+Carl Gottlieb Lohde
+----------------
+Friedrich Gustav Heinrich Schulze
+1834
+Johann Gottfried Stiehler
+Johann Gottlieb Knöfel
+Johann Carl Gottlieb Lauterbach
+Johann Gottfried Großmann
+----------------
+Johann Christlieb Kunze
+Johann Gottlob Schröter
+Christian Gottlieb Thieme
+Carl Christoph Trepte
+Carl Friedrich Werner
+Christian Gotthelf Koitzsch
+----------------
+1835
+Friedrich Wilhelm Bünert
+Johann Gottfried Kunze
+Johann Gottlob Klotzsche
+----------------
+1836
+Johann Christian Klahre
+Johann Christian Kirsten
+Johann Gottfried Zimmermann
+Johann Gottfried Eger
+Johann Gottlob Friedrich
+Carl Gottlieb Schütze
+----------------
+1837
+Johann Gottlieb Umlauft
+Johann Gottlob Eger
+Johann Gottfried Trepte
+Carl Friedrich Stange
+Johann Carl Gottlieb Siebert
+----------------
+1838
+Johann Traugott Schiertz
+Johann Gottlob Kühne
+Johann Gottlieb Mühlstädt
+Johann Gottlieb Trepte
+Carl Gotthelf Eichhorn
+Friedrich Gotthelf Henke
+Johann Gottfried Umlauft
+----------------
+Carl Gotthelf Friedrich Bär
+Johann Gottlieb Stange
+----------------
+1839
+Johann Gottfried Fleischer
+Carl Gotthelf Grundmann
+Friedrich August Dalinger
+Johann Gottlob Papperitz
+Johann Gottlieb Grafe
+Carl Adolph Kuhrig
+----------------
+Christian Gottlieb Eichhorn
+Carl August Himmler
+Christian Gottlieb Eger

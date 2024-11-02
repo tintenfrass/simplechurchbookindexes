@@ -1,5 +1,5 @@
 Schönborn (Buch 184)
-Trauungen 1800-1829
+Trauungen 1800-1839
 https://www.archion.de/de/viewer/churchRegister/264515?pageId=36960284
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 0,5 Stunden
 April 2024
 Juli 2024
 September 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -250,3 +251,71 @@ Johann Friedrich August Müller
 Johann Christlieb Käseberg
 Carl August Stelzer
 Johann Christoph Großmann
+----------------
+1830
+Johann Gottlieb Kühne
+Johann Georg Zschischeck
+Friedrich August Wölfel
+Carl Christian Rech
+Carl Gottlob Stelzer
+Johann Gotthelf Stelzer
+Johann Gottfried Schmiedtchen
+----------------
+1831
+Johann Friedrich Großmann
+Friedrich Traugott Hörnig
+Heinrich Traugott Schöne
+Johann Gottlob Pietzsch
+Carl Friedrich Voelkel
+1832
+Johann Gottfried Jahn
+Carl Gottlieb Gerhardt
+----------------
+1833
+Christian Carl August Schreiber
+Carl Traugott Schöne
+Johann Carl Gottfried Pietsch
+Carl Gottlob König
+Karl Gottlob Stelzer
+Johann Gottfried Küttner
+1834
+Johann Gottfried Behrisch
+----------------
+Johann Gottlob Mißbach
+Paul Christian Roch
+Johann Gottfried Stelzer
+Johann Gottlob Pezold
+Johann Gottlob Klotzsche
+----------------
+1835
+Heinrich August Kühne
+Johann Gotthelf Heße
+Johann Gottfried Kunath
+Johann Gottfried Neumann
+Johann Christoph Carl Reppe
+Johann Gotthelf Kunath
+----------------
+1836
+Johann Gottlob Riemer
+Carl Gottfried Hauswald
+Johann Gotthelf Großmann
+1837
+Christian Gotthelf Karisch
+Karl Gottlieb Michael
+----------------
+Johann Gottlieb Zimmermann
+Friedrich August Rammer
+Johann Gottlob Rammer
+Carl Friedrich Hörnig
+Carl Heinrich Stübler
+1838
+Johann Gottlob Schmidt
+Carl Friedrich Drescher
+----------------
+Karl August Ludwig Kaulfuß
+Carl Gottfried Stein
+Johann Heinrich Schmidt
+1839
+Johann Gottlob Stein
+Karl Gottfried Schmidt
+Karl Gottfried Pietzsch

@@ -1,15 +1,16 @@
 Wachau (Buch 198)
-Trauungen 1801-1829
+Trauungen 1801-1839
 https://www.archion.de/de/viewer/churchRegister/264529?pageId=36969455
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 April 2024
 Juli 2024
 September 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -370,3 +371,132 @@ Johann Christian Tharand
 Carl Gottlob Schmidt
 Johann Christoph Klengel
 Maximilian Funk
+----------------
+1830
+Johann Gottlieb Trensch
+Christian Gottlieb Hausding
+Johann Gottlieb Hentzsch
+Johann Gottlieb Wehnert
+Lorenz Carl Julius Dielitz
+----------------
+1831
+Johann Gottlieb Zänich
+Johann Gottlieb Seydel
+Johann Christoph Loescher
+Johann Christoph Großmann
+1832
+Johann Christoph Häring
+----------------
+Johann Gottlob Just
+Johann Christoph Mißbach
+Carl Gottlob Görner
+Johann Gottlieb Großmann
+----------------
+Johann Gottlob Schulze
+Johann Gottfried Richter
+Johann Traugott Birnstengel
+Wilhelm Gottlob Ruprecht
+Gottlob Burkhard
+Johann Georg Angermann
+----------------
+Johann Christoph Böhme
+1833
+Johann Christoph Görner
+Johann Karl Schindler
+Johann Gottlob Kluge
+Christian Klemens Rosenkranz
+----------------
+Traugott Gotthelf Klemm
+Johann Gottfried Birnstengel
+Karl Friedrich Diehl
+Johann Christoph Just
+Johann Gotthelf Körner
+----------------
+Franz August Großmann
+Johann Gottfried Müller
+Friedrich Opitz
+Johann Heinrich Gottlob Rampf
+Johann Christoph Adam
+Johann Christoph Großmann
+----------------
+1834
+Johann Christoph Rosenkranz
+Christoph Samuel Maegel
+Johann Christlieb Gäbler
+Johann Gottfried Sachse
+Johann Gottfried Kotte
+----------------
+Johann Gottfried Trepte
+Karl Gottlieb Misbach
+Johann Gottlob Rosenkranz
+Johann Gottlob Pezold
+----------------
+1835
+Johann Gottlieb Hüne
+Johann Gottlob Haufe
+Friedrich Wening
+Johann Christoph Wolf
+Johann Gottlob König
+----------------
+Karl Gottlob Kliemann
+Johann Gottfried Schulze
+Johann Christoph Grossmann
+Friedrich Caspar
+Johann Gottlieb Großmann
+----------------
+Johann Christoph Böhme
+1836
+Gottlieb August Schindler
+Johann Christian Schütze
+Johann Christoph Schulze
+----------------
+Johann Christoph Heller
+Christian Klemens Rosenkranz
+Johann Gottlob Lehnert
+1837
+Johann Gottlob Rosenkranz
+Johann Gottfried Sickert
+----------------
+Karl Leberecht Kirchner
+Johann Gottlob Just
+Johann Christoph Bader
+Johann Gottlob Heller
+Jakob Brill
+Johann Gottlieb Trepte
+----------------
+Gottfried Karl Jaehnichen
+Gottlob Müller
+Johann Christian Riemer
+Johann Gottfried Thieme
+Karl Gottlieb Tamme
+----------------
+Gustav Gotthelf Sonntag
+1838
+Johann Georg Just
+Johann Christoph Birnstengel
+----------------
+Johann Gottlob Karl Richter
+Johann Gottlob Wolff
+Johann Karl Gottlob Vetter
+Hans Moritz Oppel
+----------------
+Johann Gottlieb Völkel
+Johann Gottlob Just
+Johann Gottlieb Roch
+Johann Christoph Bergmann
+Johann Gottfried Kunzsch
+----------------
+Johann Christoph Rosenkranz
+Karl Gottlieb Lehmann
+1839
+Karl Friedrich Tronick
+Christoph Heinrich Mißbach
+----------------
+Johann Christoph Kluge
+Johann Traugott Großmann
+Johann Christoph Günther
+Karl Christoph Rosenkranz
+Johann Christoph Lehmann
+----------------
+Johann Christoph Müller
+Johann Gottfried Großmann

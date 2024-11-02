@@ -1,5 +1,5 @@
 Wilschdorf (Buch 150)
-Trauungen 1776-1829
+Trauungen 1776-1833
 https://www.archion.de/de/viewer/churchRegister/280070?pageId=38528794
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ Mai 2023
 April 2024
 Juli 2024
 September 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -335,3 +336,37 @@ Johann Gottfried Sättler
 ----------------
 Johann Christian Michael Schütze
 Johann Gottlob Gommlich
+----------------
+1830
+Johann Gottlob Kunath
+Karl Gottlob Kiesling
+1831
+Johann Heinrich Gommlich
+----------------
+Johann Gottlieb Pappritz
+Samuel Kunzsch
+Johann Gottfried Schütze
+Johann Gottlob Dietze
+Karl Gottlieb Zumpe
+----------------
+Johann Gottfried Gommlich
+1832
+Johann Christoph Bär
+Johann Friedrich Gäbler
+Johann Samuel Gommlich
+Johann Gottfried Zachmann
+----------------
+1833
+Johann Friedrich Pohle
+Johann Christoph Jacob
+Gottlieb August Miehne
+Johann Gottfried Gersdorf
+Johann Gottlob Kallauche
+----------------
+Ernst Gustav Alexander Anders
+Ernst Wilhelm Jähne
+Johann Gottfried Dietze
+Carl August Heering
+----------------
+Johann Gottlob Mehlig
+Johann Gottlob Schmiedchen

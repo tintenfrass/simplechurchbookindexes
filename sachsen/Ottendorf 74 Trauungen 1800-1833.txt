@@ -1,5 +1,5 @@
 Ottendorf (Buch 74)
-Trauungen 1800-1829
+Trauungen 1800-1833
 https://www.archion.de/de/viewer/churchRegister/279994?pageId=38510430
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 1 Stunde
 April 2024
 Juli 2024
 September 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -425,3 +426,61 @@ Johann Christoph Stötzer
 Carl Traugott Petschel
 Carl Heinrich Mißbach
 Carl Heinrich Richter
+----------------
+1830
+Johann Gottlieb Trentzsch
+Johann Kotte
+Carl Kuschke
+Carl Gotthelf Leberecht Arnold
+Carl Ehrenfried Ehregott Leuschner
+----------------
+Johann Gottlob Richter
+Johann Gottlieb Luntze
+Johann Carl Mentzel
+1831
+Johann Gottlob Wolf
+Johann Gottfried Walther
+----------------
+Johann Gottlieb Kühne
+Friedrich August Clauß
+Johann Gottlob Zscheischler
+Johann Gottlob Lohrmann
+----------------
+Johann Christoph Traugott Zimmermann
+Carl Traugott Berger
+Johann Georg Thamme
+Johann Gottlieb Meinert
+----------------
+Friedrich Traugott Witschesky
+Johann Gotthelf Berthold
+1832
+Johann Gottlieb Schäfer
+Carl Gottlob Lödrich
+----------------
+Johann Gottfried August Keller
+Johann Gottlob Mitze
+Carl Gottlieb Thamme
+Carl Gottlob Zschiesche
+----------------
+Johann Gottfried Thamme
+Carl Mißbach
+1833
+Carl Gottlieb Höhne
+Johann Christoph Knöfel
+----------------
+Johann Gottfried Kühn
+Johann Christoph Knöfel
+Johann Gottfried Heller
+Gottlob August Zscheischler
+Johann Christian Eichorn
+----------------
+Johann Samuel Gottfried Schütze
+Gottlob Traugott Kotte
+Carl August Hering
+----------------
+Johann Gottlob Riehmer
+Carl Christian Friedrich Petermann
+Johann Gottlob Dreßler
+----------------
+Johann Gottlieb Lode
+Johann Gottfried Müller

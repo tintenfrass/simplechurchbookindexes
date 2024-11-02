@@ -1,15 +1,16 @@
 Seifersdorf bei Radeberg (Buch 192)
-Trauungen 1800-1829
+Trauungen 1800-1839
 https://www.archion.de/de/viewer/churchRegister/264523?pageId=36963541
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 April 2024
 Juli 2024
 September 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -291,3 +292,111 @@ Johann Carl Gottlob Schmidt
 Ernst Wilhelm Grundmann
 Johann Gottlob Tamm
 Carl Heinrich Trepte
+----------------
+1830
+Johann Gottfried Kunath
+Christian August Ufer
+Johann Gottlieb Kaspar
+Johann Gottlob Born
+Carl Friedrich Wolf
+Johann Gottlieb Großmann
+Traugott Leberecht Menzel
+----------------
+1831
+Friedrich August Claus
+Johann Gottlieb Oese
+Johann Gottlob Bode
+Carl Friedrich Koitzsch
+Johann Gottlieb Müller
+Carl Friedrich Völkels
+Carl Immanuel Otto
+----------------
+Johann Gottlob Küttner
+Johann Christian Schäfer
+----------------
+1832
+Carl Christian Julius Püschel
+Carl Gottlieb Großmann
+Johann Samuel August Anschütz
+Johann Gottfried Beier
+Friedrich Ernst Ringel
+----------------
+1833
+Karl Gotthelf Klotzsche
+Carl Gottlieb Wehse
+Johann Gottlieb Claus
+Christian Carl August Schreiber
+Johann Christoph Knöfel
+Johann Gottlob Zimmermann
+Johann Gottfried Kittner
+Johann Gottfried Müller
+Friedrich August Ringel
+----------------
+Johann Georg Zeiler
+August Wilhelm Zeitschel
+Johann Gottlob Blankenstein
+Carl Gottlob Stölzer
+Carl August Ringel
+Johann Gottlieb Bode
+Johann Gottfried Kittner
+----------------
+1834
+Carl Gottlob Großmann
+Carl Friedrich Harnisch
+Johann Gottlob Zschocke
+Michael Godan?
+Johann Gottfried Großmann
+Johann Gottlob Claus
+Johann Gottfried Probst
+----------------
+1835
+Carl Gottlob Lödrich
+Johann Gottfried Großmann
+Franz Mayer
+Johann Christoph Böhme
+Johann Gotthelf Trentsch
+1836
+Johann Gottlob Küttner
+Johann Gottlieb Kreische
+Johann Carl Claus
+Carl Anton Henchel
+Johann Gottfried Völkel
+Carl August Müller
+----------------
+Carl Gottfried Bode
+Johann August Hantschel
+Carl Gustav Moritz Strack
+Johann Gottlob Küttner
+Johann Gottlieb Kreische
+Johann Carl Claus
+Carl Gustav Stricke
+Carl Anton Hensche
+Johann Gottfried Völkel
+Carl August Müller
+Carl Gottfried Bode
+Johann August Handschack
+----------------
+1837
+Johann Albrecht Petermann
+Carl Gottlieb Miichael
+Johann Gottlob Gürtner
+Carl Gottlieb Jähnichen
+Carl Friedrich Hörnig
+Gottlob August Pechhold
+Friedrich August Mäser
+Carl Gottlob Völkel
+1838
+Johann Friedrich Hanschak
+Johann Gottlob Großmann
+Johann Gottfried Teich
+Carl Friedrich Drescher
+Heinrich Carl Opitz
+----------------
+1839
+Carl Gottfried Schmidt
+Carl Gottlieb Richter
+Johann Balthasar Christian Zocher
+Johann Gottlob Vetters
+Johann Christoph Jähnichen
+Johann Gottlob Großmann
+Johann Gottlob Zumpe

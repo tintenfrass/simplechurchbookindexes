@@ -1,9 +1,10 @@
 Plauen (Buch 88)
-Trauungen 1821-1829
+Trauungen 1821-1839
 https://www.archion.de/de/viewer/churchRegister/263408?pageId=36747181
 
 
 September 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -168,3 +169,157 @@ Johann Christian Trache
 Carl Friedrich August Zieger
 ----------------
 Carl Christian Zedtwitz
+---------------- x10
+1830
+Carl Gottlob Andrich
+Friedrich Ferdinand Immanuel Wölfel
+Heinrich Julius Petzsch
+Carl Gottfried Heinrich Pahlitzsch
+Christian Gottlieb Weigel
+Johann Gottlob Künzelmann
+Friedrich August Hartmann
+Carl Friedrich Mannfeld
+----------------
+Carl Wilhelm Gansauge
+Johann Gotthelf Dietrich
+Gustav Alfred Globig
+Johann Noack
+Johann Gottlieb Fiedler
+Christian Gottlob Dietze
+Friedrich August Encke
+---------------- x11
+1831
+Heinrich Moritz Guidon
+Johann Gotthelf Romberg
+Gottlieb Wilhelm Leuteritz
+Johann Christian Becker
+Johann Gottfried Strohbach
+Ernst Ludwig Eduard Rocksch
+Friedrich Wilhelm Heydel
+----------------
+Carl Friedrich Weinberger
+Johann Gotthelf Heger
+Johann Gottfried Traugott Körner
+Johann Büttner
+Louis Gustav Baßenge
+Johann Gottfried Zschache
+Johann Karl Gottlieb Meinert
+August Friedrich Gustav Landskron
+----------------
+Johann Friedrich Hofmann
+Friedrich Ferdinand Heller
+---------------- x9
+1832
+Carl Gottlob Steude
+Johann Gottlieb Bischoff
+Ernst Immanuel Weger
+Gottlieb Adolph Kittler
+Julius Friedrich Nebe
+Christian Friedrich Wächtler
+Johann Gottlieb Hohlfeld
+Johann Gottlob Strohbach
+----------------
+Friedrich August Berthold
+Johann Gottlob Großmann
+Carl Heinrich Starke
+Friedrich Christian Merkel
+Jacob Wenzel
+Friedrich August Gerischer
+Johann Carl Gottlob Landskron
+---------------- x11
+1833
+Georg Kloß
+Christian Gottlieb Fehrmann
+Johann Gottlob Berge
+Carl Gottfried Koch
+Georg Friedrich Gottlieb Bitkow
+Gustav Richter
+---------------- x11
+1834
+Gottlieb August Kunze
+Johann Gottlieb Feind
+Christian Wilhelm Mieth
+Benjamin Friedrich Schwinger
+Gottlieb Eduard Kittler
+Friedrich August Ehnick
+Johann Gottlob Starke
+----------------
+Johann Gottlob Leberecht Trautmann
+Johann Gotthelf Feind
+Johann Carl August Müller
+Johann Gottlob Schulze
+Carl Ferdinand Immanuel Engler
+Carl Friedrich August Bitterlich
+Friedrich Carl Großmann
+----------------
+Michael Schiemann
+---------------- x14
+1835
+Carl Friedrich Kaden
+Gottfried Joseph Rath
+Carl Gottlieb Kobisch
+Michael Benndorf
+Carl August Friedrich Uhlig
+Carl Gottfried Brückner
+Johann Gottlieb Nitzschner
+----------------
+Johann Gottfried Schaeffler
+Johann Christian Dinger
+Johann Gottfried Fiedler
+Carl Ernst Koll
+Adam Gottlob Schuster
+Carl Gottlieb Keilig
+Gustav Moritz Baumann
+---------------- x10
+1836
+Carl Gottlob Heyde
+Johann Christoph Birke
+Carl Gotthelf Adolph Liebschner
+Johann Gotthelf Birke
+Johann Gottlieb Angermann
+Johann Christian Friedrich Kaltschmidt
+Johann Daniel Seyffert
+----------------
+Friedrich August Kollark
+Johann Victor Oehler
+Johann Gotthelf Hantzsche
+Carl August Kade
+Traugott Leberecht Lempe
+Gottfried Ferdinand Fischer
+Johann Gottlob Franke
+Carl Adolph Rülcke
+---------------- x11
+1837
+Carl Gottlob Friedrich Kade
+Gottlieb Friedrich Oelschlägel
+Johann Carl Traugott Schöne
+Johann Gottlieb Schmidt
+Carl Friedrich Schneider
+Julius Anton Golle
+August Gotthard Ahner
+----------------
+Friedrich August Bürke
+Ernst Friedrich Gotthelf Bärwaldt
+---------------- x10
+1838
+Carl Hugo Weigel
+----------------
+Johann Gottlob Eduard Franz
+Carl Gottlob Köhler
+Johann Gottfried Uhlisch
+Ernst Heinrich Pfeilschmidt
+Carl Moritz Müller
+Johann Gottlob Lehmann
+---------------- x10
+1839
+Friedrich Wilhelm Rülke
+Carl Wilhelm Schmidt
+Johann August Riedel
+Friedrich Wilhelm Prenner
+----------------
+Johann Christian Buchholz
+Carl Adolph Udluft
+David Christoph Mank
+Gottfried Wilhelm Kobisch
+Carl Friedrich Börner
+Carl Heinrich Wilhelm Gerlach
