@@ -1,5 +1,5 @@
 Dittmannsdorf (Buch 3)
-Trauungen 1800-1829
+Trauungen 1800-1839
 https://www.archion.de/de/viewer/churchRegister/281074?pageId=38777739
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 0,5 Stunden
 Mai 2024
 Juli 2024
 September 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -319,3 +320,98 @@ Gottlieb Leberecht Weichold
 Johann Gottfried Keller
 Carl Gottlieb Schubert
 Carl Gottlob Haußig
+----------------
+1830
+Karl Gottfried Petzsch
+Johann Carl Gottlieb Braune
+Karl Gottlob Schreiter
+Johann Carl Gottlieb Heine
+----------------
+Johann Carl Traugott Dachsel
+Carl Friedrich August Frick
+----------------
+1831
+Johann Carl Gottlob Potscher
+Johann Gottfried Dachsel
+Johann August Stirl
+Johann Gottfried Jacob
+----------------
+1832
+Carl Gottlob Keller
+Johann Gottfried Lindig
+Johann Carl Gottlieb Silbermann
+Carl Friedrich Fehrmann
+Johann Daniel Stirl
+Johann Gottlob Schneider
+Johann Carl Gottlieb Heber
+----------------
+Johann Gottlieb Dürsche
+Christian Heinrich Lantzsch
+Carl Gottfried Zeuner
+Johann August Hallfarth
+Carl Gottlieb Starke
+Adolph Gottlob Hennig
+Carl Gottlieb Haubold
+----------------
+1833
+Christian Heinrich Müller
+Carl Gottlieb Mühlberg
+Johann Carl Gottlieb Kühne
+Carl Gottlob Zschoge
+Carl Gottlieb Müller
+----------------
+1834
+Johann Gottfried Limbach
+Ehregott Leberecht Zeuner
+Carl Gottlieb Haußig
+----------------
+1835
+Johann Gottlob Kayser
+Johann Gottlob Hofmann
+Johann Gottlob Pietzsch
+Johann Gottlob Kayser
+Johann Gottlob Heber
+August Ferdinand Thiele
+Carl Friedrich Fischer
+----------------
+1836
+Johann Gottlob Schubert
+Carl August Müller
+Franz Wilhelm Hüppner
+Friedrich Wilhelm Hachenberger
+Johann Gottfried Haußig
+Johann Gottlob Pietzsch
+Carl August Buhlig
+Carl August Lucius
+----------------
+Johann Gotthelf Stirl
+Carl Friedrich August Rötzsch
+Christian Wilhelm Prübler
+Johann Gotthelf Klemm
+----------------
+1837
+Carl Gottlob Haußig
+Carl Gottlob Leuschner
+Johann Traugott Rötzsch
+Johann Carl Gottfried Leuschner
+Carl Wilhelm Ranft
+Johann Carl Gottlob Börner
+----------------
+1838
+Carl Gottlob Mühlberg
+Carl Gottlob Höschler
+Carl Gottlob Diersche
+Carl Gottfried Leuschner
+Johann Christian Sparmann
+Carl Gotthelf Heede
+----------------
+1839
+Gottlieb Adam Keller
+Carl Gottlob Otto
+Johann Gottlob Kost
+Carl August Günther
+Carl Gottlieb Börner
+Carl Gottlieb Stirl
+----------------
+Johann Gottlieb Oehme
+Johann Carl Gottlieb Hachenberger

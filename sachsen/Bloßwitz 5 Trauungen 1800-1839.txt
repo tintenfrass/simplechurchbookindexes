@@ -1,15 +1,16 @@
 Bloßwitz (Buch 5)
-Trauungen 1800-1829
+Trauungen 1800-1839
 https://www.archion.de/de/viewer/churchRegister/281027?pageId=38768099
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stunden
+Erstellt in ca. 2 Stunden
 Mai 2024
 Juli 2024
 September 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -835,3 +836,302 @@ Christian Gottlieb Franke
 Johann Gotthelf Fischer
 Moritz Hammer
 Johann Gottlob Hoffmann
+----------------
+1830
+Johann Gotthelf Räubig
+Johann Gottlieb Vollhack
+Christian Paproth
+Johann Christlieb Böttcher
+Karl Gottlob Lippert
+Johann Carl Gottlob Hentzschel
+----------------
+Christian Gottlieb Lorenz
+Karl Gottlob Pfeiffer
+Christian Gottfried Thomaß
+Johann Franz Förster
+Johann Friedrich Mehnert
+Johann Gottlieb Scheunert
+----------------
+Karl Gottlob Sieber
+Karl Gottlieb Keßler
+Johann Gottlob Conrad Seerhausen
+Christian Höfer
+----------------
+1831
+Karl Gottlob Moritz
+Johann Gottlob Triemme
+Carl Gottlob Altmann
+Friedrich Gottlob Gast
+----------------
+Johann Gottlob Voigt
+Johann Wilhelm Zimmermann
+Karl Friedrich Krüger
+Johann Christian Förster
+Johann Christian Mattusch
+----------------
+Friedrich Wilhelm Funke
+Johann Traugott Krell
+Johann Gotthelf Kühne
+Johann Christian Gottlob Junghannß
+Friedrich August Gerstäkker
+----------------
+Karl Gottlob Steude
+Johann Gottfried Reinhardt
+Johann Karl Gottlieb Fischer
+Karl Gottlob Schneider
+Johann Gotthelf Garbe
+----------------
+Traugott Leberecht Hoffmann
+Johann Gottlieb Kaiser
+Johann Gottfried Mende
+Johann Friedrich August Geißler
+Gottfried Ferdinand Jänichen
+----------------
+Johann Gottfried Weber
+Gottfried Kutzsche
+Johann Friedrich Funke
+Johann Gottlieb Thomaß
+----------------
+1832
+Karl Gottlieb Riedel
+Johann Christian Daniel Kuhne
+Johann Gottlob Wohllebe
+Karl Friedrich Claußnitzer
+Johann Gottlob Hanke
+----------------
+Johann Christlieb Kühne
+Christian Friedrich Töpfer
+Johann Peter Muschick
+Karl Friedrich Lauschke
+Johann Gottlieb Andrä
+Karl Friedrich Wilhelm Weichert
+----------------
+Johann Traugott Jahn
+Johann Gottlieb Krause
+Johann Gottlob Kayser
+Johann Gottlieb Lausch
+Johann Gottfried Seifert
+----------------
+Karl Gottlieb Hennig
+Gottlieb Müller
+Friedrich Karl Däweritz
+Gottlieb Siegmund Otto
+Johann Gottfried Böhme
+----------------
+Johann Gottlieb Kirsten
+Karl Friedrich Grellmann
+Johann Gotthelf Weber
+1833
+Johann Gotthelf Krause
+----------------
+Johann Gottlob Rische
+Christian Gottlieb Kreße
+Karl Friedrich Kaule
+Johann Traugott Albrecht
+Karl Gottlob Richter
+----------------
+Johann Christlob Hase
+Johann Gottlob Jahn
+Johann Gottfried Leuschner
+Johann Gottlieb Gumlich
+August Wilhelm Bischof
+----------------
+Johann Gotthelf Altmann
+Christian Gottlieb Gast
+Johann Gottlieb Seyfert
+Johann August Maul
+Johann Gottlob Lotzmann
+----------------
+Johann Gottlob Gutsche
+Johann Gottlieb Ehrhardt
+Karl Gottlob Zettler
+Carl Gotthelf Teichmann
+Johann Karl Gottlob Ehrhardt
+Johann Karl Gottlieb Burkhardt
+----------------
+Johann Gottfried Klunker
+Friedrich Traugott Reinhardt
+Karl Gottlob Hänsel
+Karl Wilhelm Linder
+Moritz Alexander Bartsch
+----------------
+Johann Christian Gottfried Weinnhardt
+1834
+Johann David Wißmüller
+Karl Gottlob Heinze
+----------------
+Karl Friedrich Müller
+Johann Karl Gottlieb Möbius
+Johann Gottfried Garbe
+Johann Karl Gottlob Funke
+Johann Gottlieb Humpsch
+----------------
+Johann Christian Gottlieb Franke
+Karl Gottlob Altmann
+Friedrich Kretzschmar
+Johann Gottfried Schlegel
+Johann Gottlieb Dorn //durchgestrichen
+Christian Gottlob Bernhardt
+----------------
+Johann Gottlob Lindner
+Karl Gottlob Maul
+Friedrich August Thomaß
+Johann Christoph Lamm
+Christian Gottlieb Helm
+----------------
+Christian Gottlieb Böhme
+Johann Karl August Mittag
+Johann Christian Rößler
+Johann Gottlieb Schumann
+Johann Gottlieb Keil
+Johann Gottlob Findeisen
+----------------
+1835
+Johann Gottlob Wetzig
+Friedrich August Ehrlich
+Christian Gottlob Keller
+Johann Christian Dörschmann
+Johann Gottfried Reinhardt
+Johann Christian Thomas
+----------------
+Christian Gottlieb Andrä
+Albert Hentzschel
+Gottlieb Wilhelm Schumann
+Johann Gottlob Stein
+Karl Gottlob Wetzig
+Johann Gottlieb Reinhardt
+----------------
+Karl August Schoenert
+Karl Gottlieb Trost
+1836
+Johann Friedrich Wilhelm Clauß
+Wilhelm Heinrich Schoob
+----------------
+Karl Gottlob Thomas
+Karl Gottfried Heinze
+Johann Gottfried Richter
+Johann Gottlob Schlegel
+Christian Gottlob Helm
+Johann Gottfried Schoob
+----------------
+Christian Friedrich Keßler
+Johann Christoph Müller
+Johann Gottfried Weßner
+Johann Gottlob Mende
+Friedrich August Springfeld
+Victor Wilhelm Ferber
+----------------
+Johann Gottfried Müller
+Christian Gottlob Wilhelm
+Johann Gottfried Zieger
+Johann Gottfried Reinsberg
+Johann Daniel Gast
+Christian Gottlieb Humptsch
+Johann Gottlieb Strehle
+----------------
+Johann Gottlob Uhlemann
+Karl Gottlob Mehnert
+Johann Gottlieb Friedrich Pfeiffer
+Karl Gottlob Höne
+Gottlieb Leberecht Höne
+Johann Gottlob Fleck
+----------------
+Johann Gottlob Fleck
+1837
+Johann Gottlieb Bäurich
+Johann Gottfried Zandler
+Johann Gottfried Liefert
+----------------
+Johann Traugott Franke
+Johann Gottlieb Voigt
+Karl Heinrich Kloemich
+Johann Gottfried Thielemann
+Heinrich Traugott Altmann
+----------------
+Johann Gottlieb Schubert
+Gottlieb Ernst Scheuer
+Johann Carl Schuster
+Johann Gottlieb Gang
+Carl Heinrich Moebius
+Johann Gottlob Soehnitz
+----------------
+Karl Gottlob Wugk
+Johann Gottlieb Beger
+Friedrich August Heyde
+Johann Friedrich Heinze
+Christian Gottlieb Müller
+Christian Gottlieb Donat
+----------------
+Johann Gottlob Fischer
+Johann Christlieb Petermann
+Johann Gottlob Müller
+Christian Gottlieb Voigt
+----------------
+1838
+Gottlob Friedrich Kropp
+Johann Gottlob Fischer
+Karl Gottlieb Förster
+Johann Christian Gottlieb Reibig
+Friedrich Wilhelm Grimmer
+----------------
+Johann Gottfried Leberecht Moebius
+Johann Karl Gottlob Moßbius
+Karl Friedrich Strauß
+Johann Gottlieb Sachse
+Karl Heinrich Friedrich
+----------------
+Karl Gottlieb Kutzsche
+Johann Gottlob Thiele
+Friedrich Wilhelm Lochmann
+Karl Friedrich Fuhrmann
+Johann Friedrich Leberecht Soemisch
+----------------
+Karl Köhler
+Karl Gottlob Lausch
+Friedrich Gottlieb Gast
+Karl Philip Harrach
+Johann Christian Gottfried Thiele
+----------------
+Friedrich Ferdinand Böhme
+Gotthelf Helm
+Christian Gottlieb Helm
+Johann Gottlob Käseberg
+Johann Gottlob Voigt
+Johann Gottlieb Kretzschmar
+----------------
+Karl Gottlob Gasmus
+Johann Gottfried Voigt
+Johann Gottfried Haefeld
+1839
+Johann Friedrich Mehnert
+----------------
+Karl Gottlob Gasch
+Johann Karl August Born
+Ernst Ferdinand Gühne
+Friedrich Wilhelm Lippert
+Karl Gottlob Hiob
+----------------
+Johann Friedrich Leberecht Soemisch
+Christian Gottlieb Kropp
+Karl Gottlob Humpsch
+Johann Gottlob Kutzsche
+Karl Friedrich Wilhelm Reinhardt
+----------------
+Carl Gottlob Maul
+Carl Gottlob Beyer
+Johann Gottlieb Roßberg
+Johann Karl Friedrich Klotzsch
+Friedrich August Gerstäcker
+----------------
+Karl Friedrich Wilhelm Steuer
+Karl Gottlieb Müller
+Johann Gottlieb Gumlich
+Johann Gotthelf Schmidt
+Karl Gottlieb Bäger
+Johann Traugott Moebius
+----------------
+Christian Gottlieb Schaaf
+Johann Gottlieb Simeon Helm
+Johann Karl Gottlob Gall
+Johann Martin Schoene
+Christian Gottlob Walther

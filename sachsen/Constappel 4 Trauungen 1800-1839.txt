@@ -1,15 +1,16 @@
 Constappel (Buch 4)
-Trauungen 1800-1829
+Trauungen 1800-1839
 https://www.archion.de/de/viewer/churchRegister/281052?pageId=38773698
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Mai 2024
 Juli 2024
 September 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -437,3 +438,140 @@ Johann Gottfried Bachmann
 Johann Gotthelf Grellmann
 Gottlieb Leberecht Jurisch
 Johann Gottfried Naumann
+1830
+Johann Gottfried Menzel
+Johann Gottfried Starke
+----------------
+Carl Gottlieb Gebhardt
+Johann Gottlob Wirth
+Johann Samuel Simon
+Johann Christian Gotthelf Ditrich
+----------------
+1831
+Johann Cornelius Leberecht Benge
+Johann Gottlieb Mahlendorf
+Christian Gottlieb Ritter
+Johann Georg Christoph Meyer
+Johann Gottlieb Faust
+----------------
+Johann Traugott Irmer
+Johann Georg Carl Thieme
+Johann Gottlob Meyer
+Carl Gottlob Kießling
+Christian Friedrich August Scharfe
+----------------
+Carl Gotthelf Kirsten
+Johann Zacharian Pezold
+Johann Gottfried Adam
+Carl Gottfried Nake
+----------------
+1832
+Johann Andreas Syatz
+Johann Gottfried Miersch
+Gottfried Leberecht Bachmann
+Johann Christian Naumann
+Carl Friedrich Hänel
+----------------
+Johann Gottlieb Roßberg
+Carl Friedrich Vogel
+Lionel FeronceRothenkreuz
+Johann Gottlieb Naumann
+----------------
+1833
+Johann Adolph Eduard Müller
+Johann Christoph Eisold
+Gustav Adolph Lüttich
+Johann Gottlieb Haubold
+Johann Gottlob Vogel
+----------------
+Johann Gottlob Kästner
+Johann Gottlob Philipp
+Carl Gotthelf Körner
+Carl August Schneider
+Carl Gottlieb Rüdiger
+----------------
+Johann Gottfried Merbitz
+Carl Gottlieb Blasius
+Carl Friedrich Borrmann
+Johann Traugott Mehlig
+Friedrich Gottlob Hentschke
+----------------
+1834
+Heinrich Wilhelm Christian Schrader
+Johann Gottfried Köhler
+Christian Gottfried Döhnert
+Johann Gottlob Franz
+----------------
+Christian Gottlob Grellmann
+Johann Gottlieb Richter
+1835
+Christian Gottlieb Lommatzsch
+Carl Wilhelm Zschumpel
+Carl Gottlieb Pietzsch
+----------------
+Friedrich Adolph Wolf
+Johann Gottlieb Hentschke
+Carl Gottlieb Döhnert
+Johann Christian Kretzschmar
+Johann Gotthelf Richter
+----------------
+Johann Georg Schmidt
+Carl Friedrich August Reichard
+1836
+Fürchtegott Leberecht Hänel
+Johann Traugott Hauswald
+Friedrich Gotthelf Gebhard
+----------------
+Johann Friedrich Jähniche
+Johann Gottlob Simon
+Johann August Bär
+Carl Gottlieb Rändler
+Carl August Clauß
+----------------
+1837
+Christian Friedrich Tronike
+Gottfried Kirsten
+Friedrich August Kästner
+Christian Gottlieb Pfützner
+Johann Gottfried Götze
+Carl Gottlob Hahn
+----------------
+Johann Gottlob Grafe
+Traugott Adolph Roßberg
+Carl Wilhelm Ranft
+Johann Gottfried Naumann
+Carl August Franz
+----------------
+Johann Carl Gottlob Gebhardt
+Johann Gottlob Pinkert
+Johann Christoph Haußwald
+1838
+Carl Gottlob Lehmann
+Johann Christlieb Schade
+----------------
+Carl Wilhelm Vorberger
+Johann Traugott Damme
+Gottlieb Traugott Hempel
+Carl Heinrich Gotthelf Wagner
+Johann Gotthelf Dietrich
+----------------
+August Wilhelm Görtz
+Johann Gottlob Knöfel
+Carl Heinrich Bretschneider
+August Ehregott Albrecht
+Friedrich Leberecht Brendel
+----------------
+1839
+Christian Carl Gottlieb Lindner
+Johann Gottlieb Mannschatz
+Johann Carl Gottlieb Angermann
+Friedrich Ernst Köhler
+Carl Gottlieb Richter
+----------------
+Carl Friedrich Wolf
+Carl Gottlieb Grafe
+Carl Gotthelf Adam
+Carl August Schubert
+Christian Carl Gottfried Löwe
+----------------
+Carl Gottlob Schneeweiß

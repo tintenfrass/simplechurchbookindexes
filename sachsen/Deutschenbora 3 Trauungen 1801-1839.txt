@@ -1,5 +1,5 @@
 Deutschenbora (Buch 3)
-Trauungen 1801-1829
+Trauungen 1801-1839
 https://www.archion.de/de/viewer/churchRegister/281068?pageId=38776650
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 0,5 Stunden
 Mai 2024
 Juli 2024
 September 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -269,3 +270,112 @@ Christian Friedrich Wilhelm Thieme
 Carl August Traugott Leberecht Schütze
 Carl August Ebert
 Johann Gottfried Roeder
+----------------
+1830
+Gottlieb David Krumbiegel
+Johann Gotthelf Geißler
+Johann Adolph Gerbert
+Johann Gottlob Hahnefeld
+Johann Karl Gottlob Kirsten
+Johann Gottfried Starke
+Gotthelf Wilhelm Schumann
+----------------
+1831
+Carl Gottlieb Klöser
+Johann Gottlieb Rappe
+Friedrich Gottlob Heinze
+1832
+Johann Gottlob Daemmich
+Johann Georg Fischer
+Carl Gottfried Sorge
+----------------
+Carl Gottlob Limbach
+Carl Gotthelf Köhler
+Carl Gottlieb Kirsten
+Johann Gottfried Leuteritz
+1833
+Carl Gottlob Mehnert
+Johann Gotthelf Birkner
+Johann Gottfried Müller
+Johann Gotthelf Martin
+----------------
+Carl Gottfried August Heße
+Johann Gottfried Steiger
+Carl Gottlieb Gebardt
+Carl Gottlob Rappe
+Johann Carl Gottlieb Harzt
+----------------
+1834
+Johann Gottlieb Müller
+Johann Traugott Leberecht Schmidt
+Carl Gottlieb Lutze
+Carl Gottlieb Schnee
+Johann Gotthelf Heße
+Johann Christian Gottlieb Voigt
+----------------
+Johann Gottfried Jänich
+Johann Gotthelf Schumann
+Johann Gotthelf Richter
+Johann Gotthelf Heydrich
+Johann Gotthelf Wilhelm
+----------------
+1835
+Carl Gottlieb Fischer
+Johann Gottlieb Wachsmuth
+Johann Gottfried Rappe
+Friedrich Wilhelm Krumbiegel
+----------------
+Gustav Eduard Gämlich
+Carl Gottfried Müller
+Johann Gotthelf Junghans
+----------------
+1836
+Johann Carl Gottlieb Taggeselle
+Carl Gottlob Gebhardt
+Johann Carl Gottfried Schumann
+Friedrich Ferdinand Zieger
+Carl Gotthelf Zimmermann
+----------------
+Gotthold Heinrich Reinsberg
+Johann Gottlob Schumann
+Johann Gottlob Wachsmuth
+Carl Gottlieb Klöser
+Carl Gottlieb Müller
+Carl Gottlieb Walther
+----------------
+Johann Gottlob Wilhelm Schütze
+Johann Gottfried Pötzsch
+----------------
+1837
+Friedrich Wilhelm Heße
+Friedrich Wilhelm Gottlieb Voigt
+Johann Gottlob Kretzschmar
+Carl Heinrich Kleeberg
+----------------
+Carl Gottlob Ehrlich
+Johann Christian Gottlieb Voigt
+Johann Gottlob Wittig
+Johann Gottfried Gabhardt
+Carl Franz Lippoldt
+Johann Gottlieb Moebius
+----------------
+1838
+Wilhelm Ludwig Lindner
+Johann Gottfried Wilhelm Walther
+Carl Gottlieb Schulze
+Johann Gottfried Ranft
+Johann Gottlieb Fischer
+----------------
+Johann Gottlob Albrecht
+Johann Gottlieb Schubert
+Johann Carl Gottlieb Ebert
+Johann Gottlieb Knöfel
+Johann Gottlieb Muster
+----------------
+1839
+Carl Gottfried Gebhardt
+Johann Gotthelf Friedrich
+Johann Gottlieb Donat
+Carl Wilhelm Gierisch
+----------------
+Carl August Roch
