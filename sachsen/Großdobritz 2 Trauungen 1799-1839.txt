@@ -1,5 +1,5 @@
 Großdobritz (Buch 2)
-Trauungen 1799-1829
+Trauungen 1799-1839
 https://www.archion.de/de/viewer/churchRegister/282510?pageId=39021714
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -12,6 +12,7 @@ Teil 2: Marschau
 Erstellt in ca. 0,5 Stunden
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -249,7 +250,76 @@ Johann Gottlieb Werner
 Johann Friedrich Richter
 ----------------
 Johann Samuel Erdmann Menzel
----------------- x88
+1830
+Christian Claus
+Johann Gottlob Gommlich
+Johann Gottfried Sachse
+1831
+Gottlob Eichhorn
+Johann Christlieb Naumann
+----------------
+Friedrich Fürchtegott Zschoche
+Carl Gottlob Sachse
+Johann Gottfried Seidel
+Gottlieb Hänsel
+1832
+Johann Gottlob Mißbach
+Johann Adam Gottlieb Gäbelt
+Johann Gottfried Lotzmann
+----------------
+Johann Gottlieb Richter
+Johann Gottfried Pfitzner
+Johann Friedrich Gotthelf Tronike
+1833
+Johann Gottlob Bahrmann
+Ernst Gotthelf Kranke
+Carl Gottlob Thiele
+Johann Gottfried Reiter
+Carl Gottlieb Meier
+----------------
+Johann Gottfried Adam Ziller
+Johann Gottlob Rühle
+Johann Gottfried Kirste
+Carl Friedrich Trentzsch
+Johann Gottlob Saeurig
+Johann Nicol Stölzel
+1834
+Johann Gottlieb Seyrig
+----------------
+Johann Georg Findeisen
+Christian Traugott Herzog
+Samuel Gottlob Fiebiger
+Gottlob Claus
+Johann Gottlob Gebauer
+Carl Gottlieb Parnier
+Johann Christian Clauß
+1835
+Johann Gottlob Weser
+----------------
+Johann Christian Lau
+1836
+Friedrich Wilhelm Steffgen
+Johann Gottfried Schobert
+Johann Gottlieb Haubold
+1837
+Johann Gotthelf Trobisch
+Johann Gottlob Enger
+----------------
+Johann Nicolaus Stoelzel
+1838
+Christian Traugott Herzog
+Johann Gottfried Menzel
+Friedrich Stucki
+1839
+Johann Gottfried Hauswald
+Johann Christian Daniel Pinkert
+Johann Gottlob Haubold
+Johann Christian Mohn
+Johann Carl Gottlob Haase
+----------------
+Johann Gottfried Weser
+Gotthelf Herrmann
+---------------- x81
 1799
 Johann Gottfried Bärwald
 1800
@@ -288,3 +358,7 @@ Johann Gottfried Stelzner
 1829
 Johann Carl Zschoche
 Johann Christoph Zscheile
+1835
+----------------
+1837
+Carl Friedrich Zschoche

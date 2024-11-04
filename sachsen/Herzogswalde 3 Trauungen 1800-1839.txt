@@ -1,5 +1,5 @@
 Herzogswalde (Buch 3)
-Trauungen 1800-1829
+Trauungen 1800-1839
 https://www.archion.de/de/viewer/churchRegister/282528?pageId=39025810
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 1 Stunde
 Mai 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -426,3 +427,141 @@ August Friedrich Rieder
 Carl Friedrich Weise
 ----------------
 Christian Gotthelf Streller
+1830
+Carl Gottfried Thimmmig
+Friedrich August Döring
+----------------
+Carl August Patzig
+Johann Gottlob Beuchel
+Johann Carl Gottlieb Heine
+Johann Gottlob Schubert
+Carl Gottlieb Keil
+----------------
+Johann Gottfried Kandler
+Johann Gottlob Kandler
+Johann Gottlob Jähnig
+Ernst Friedrich Wilhelm Riedel
+Johann Gottlob Mattheck
+----------------
+Hans Ernst Mannteufel
+Johann Christian Engelmann
+Carl Friedrich Eduard Schönberg
+----------------
+1831
+Carl Gottlob Starke
+Carl Gottfried Rabe
+Johann Gotthelf Schönert
+Carl Gottlieb Rüter
+Johann Gottlob Zschunke
+Johann Carl Gottlob Mehnert
+----------------
+1832
+Johann Gotthelf Grellmann
+Johann Carl Gottlieb Melzer
+Johann Wilhelm Leberecht Tränkner
+Johann Friedrich Dachsel
+Johann Carl Gottlob Müller
+----------------
+Friedrich Wilhelm Halfer
+Johann Georg Henker
+----------------
+1833
+Carl Gotthelf Gerodt
+Johann Carl Gottfried Funke
+Johann Carl Gottlob Mehnert
+Carl Gottlieb Rüter
+Carl Friedrich Melzer
+Johann Gottlob Liebschner
+----------------
+Johann Gotthelf Wolf
+Carl Christoph Andreas
+Johann Georg Schröter
+Carl Gottlieb Pietzsch
+Johann Gottlob Pätzig
+----------------
+Johann Gottfried Diersche
+Johann Gottfried Henker
+1834
+Carl Gottlieb Mießbach
+Johann Gottlieb Strohbach
+Johann Gottlieb Schuster
+----------------
+Gustav Adolph Müller
+Carl Gottlob Damm
+Carl Gottlob Göhler
+Johann Gottlob Böhme
+Carl Gottfried Fischer
+----------------
+1835
+Carl Gottlieb Kleemann
+Carl Gottlieb Kleber
+Christian Gottlieb Tietze
+Carl Gottlieb Winkler
+Johann Christian Engelmann
+----------------
+Carl Gottlob Lindner
+Carl Gottlieb Ulbricht
+Carl Gottlieb Rüter
+Gottlieb Traugott Pfeiffer
+Carl Friedrich August Schulze
+----------------
+1836
+Carl Gottlob Pöntsch
+Johann Gottlieb Fritzsche
+Johann Gottfried Sohrmann
+Carl Wilhelm Bernhard
+Carl Gottlieb Rüter
+Carl Gottlob Naumann
+----------------
+Carl Gottlob Günther
+Johann Gottlieb Gottschalt
+----------------
+1837
+Christian Leberecht Richter
+Carl Ehrenfried Richter
+Carl Gottfried Henker
+Johann Gottlob Kramer
+Christian Gottlieb Wackwitz
+Johann Gottlieb Oehme
+----------------
+Friedrich Kirchner
+Johann Leberecht Geroldt
+Carl August Gotthelf Philipp
+Eduard Leberecht Franke
+Johann Gottlieb Poppe
+----------------
+Carl Gottlob Ebert
+Johann Gottlob Claus
+Carl Gottlob Damm
+Johann Carl Gottlob Mauersberger
+Gotthelf Heinrich Christian Minckwitz
+Carl Gottlieb Winkler
+----------------
+Johann Gottfried Schumann
+Carl August Knöbel
+Gotthelf Wilhelm Hirsch
+Johann Christian Leberecht Dindorf
+----------------
+1838
+Carl Leberecht Merbeth
+Gottlob Adam Engelmann
+Johann Gotthelf Patzig
+Johann Gotthelf Hänsel
+Gottlieb Gäbisch
+Carl Gottlieb Hänsel
+----------------
+1839
+Carl Gottlieb Hiller
+Carl Leberecht Pinkert
+Carl Gottlieb Kunath
+Carl Gottlieb Mocke
+Friedrich Wilhelm Müller
+----------------
+Gottlieb Traugott Benjamin Wolf
+Carl Gotthold Friedrich
+Johann Gottlieb Strohbach
+Carl Gottlieb Kandler
+Johann Carl Gottlob Klunker
+----------------
+Johann Gottlieb Oehme
+Friedrich Traugott Naumann

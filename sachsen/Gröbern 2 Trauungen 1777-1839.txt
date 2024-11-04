@@ -1,5 +1,5 @@
 Gröbern (Buch 2)
-Trauungen 1777-1829
+Trauungen 1777-1839
 https://www.archion.de/de/viewer/churchRegister/282506?pageId=39020782
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -15,6 +15,7 @@ Mai 2023
 Mai 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -297,7 +298,46 @@ Johann Gottlieb Stephan
 Friedrich Gotthelf Kiesling
 Johann Gottfried Weitzmann
 Johann Gottfried Rühle
----------------- x132
+1830
+1831
+Johann Gottlieb Talkenberg
+Johann Gottlob Menzel
+Johann Gottlieb Herrmann
+Christian Traugott Schlechte
+----------------
+1832
+Carl Traugott Lesche
+Johann Georg Wendt
+1834
+Johann Gottlob Perschel
+Johann Christoph Bahrmann
+Johann Gottlob Loewe
+1835
+Johann Gottfried Fichtner
+Johann Gottlieb Marx
+----------------
+1836
+Christian Gottfried Lunkwitz
+Johann Gottfried Klotsche
+Carl Gottlieb Löwe
+Johann Christian Grille
+1837
+Friedrich August Klau
+Ernst August Worm
+1838
+Samuel Friedrich Einhorn
+Johann Gottlob Ludwig
+Friedrich Wilhelm Steffgen
+----------------
+Traugott Leberecht Klotsche
+Carl Joseph Nicolaus
+1839
+Johann Christian Gottlieb Melzer
+Christian Traugott Schlechte
+Siegismund Adolph Schade
+Carl Friedrich Tanneberger
+Johann Gottlieb Zoch
+---------------- x129
 1777
 1778
 1779
@@ -486,7 +526,50 @@ Johann Gottfried Zocher
 Johann Christian Petsch
 Carl Gottfried Säurig
 1829
----------------- x64
+1830
+Friedrich Bahrmann
+----------------
+Johann Heinrich Gotthelf Krause
+Johann Gottfried Bahrmann
+1831
+Johann Gottfried Leutritz
+1832
+Johann Gottlob Fuhrmann
+----------------
+1833
+Johann Wilhelm Ernst Vetter
+Johann Gottfried Thiele
+1834
+Johann Gottlob Rothe
+Johann Christian Gottlieb Jähnigen
+Johann Gottfried Schlechte
+Johann Gottfried Klinger
+Christian Gottlieb Bretschneider
+----------------
+1835
+Johann Gotthelf Türke
+Christian Friedrich Weser
+Carl Gottlob Fuhrmann
+Carl Gottlieb Leuteritz
+1836
+Johann Christlieb Poitzsch
+Johann Gottlob Ernst Krause
+Friedrich August Ziegenbalg
+Johann Gottfried Wachsmuth
+----------------
+1837
+Friedrich Traugott Ehregott Vetter
+Johann Gottlob Bretschneider
+Johann Gottfried Barth
+Johann Friedrich Seifert
+1838
+Johann Christian Gottlieb Schlage
+1839
+Gottfried Heinrich Harx
+Johann Gottfried Schulze
+----------------
+Christian Gottfried Richter
+---------------- x59
 1778
 Gottfried Rensch
 1782
@@ -534,3 +617,6 @@ Johann Gottfried Krebs
 1821
 1822
 Johann Gottlieb Händel
+----------------
+1831
+Carl Gottlob Wolf
