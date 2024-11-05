@@ -1,5 +1,5 @@
 Leuben bei Lommatzsch (Buch 13)
-Trauungen 1802-1829
+Trauungen 1802-1833
 https://www.archion.de/de/viewer/churchRegister/282600?pageId=39041412
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 2 Stunden
 Mai 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1018,3 +1019,164 @@ Johann Gottlieb Wackwitz
 Leberecht Scheufler
 Johann Joseph Lissner
 Johann Christian Gottlob Voigtländer
+----------------
+1830
+Johann Carl Traugott Funke
+Johann Carl Gottlieb Liebe
+Christian Traugott Bruy
+Johann Carl Gottlob Dietrich
+Johann August Schüler
+----------------
+Johann Gottlieb Müller
+Johann Traugott Geisel
+Heinrich August Götze
+Carl Gottlob Röber
+Johann Gottlieb Fischer
+Johann Carl Gottlieb Pannier
+----------------
+Johann Carl Friedrich Naumann
+Johann Christlieb Zieger
+Carl Gottlieb Eger
+Johann August Schütze
+Johann Friedrich Wilhelm Naumann
+Carl Gotthelf Lincke
+----------------
+Johann Gottfried Wackwitz
+Christian Gottfried Möbius
+Johann Gottlieb Wagner
+Johann Georg Großmann
+Carl Gottlieb Straube
+Gabriel Liebegott Friedrich
+----------------
+Carl Gotthelf Eulitz
+Karl Gottlob Starke
+Johann Gottlieb Hädelt
+Johann Gottfried Bruy
+Friedrich Wilhelm Fauft
+Johann Gottlob Nicoli
+----------------
+Johann Wilhelm Merke?
+Johann Carl Gottlieb Schneeweis
+Johann Gotthelf Kretzschmer
+Johann Gottlieb Herbst
+Carl Wilhelm Pärisch
+----------------
+1831
+Carl Friedrich Böhme
+Johann Gottlob Weber
+Carl Gottlieb Werner
+Christian Wilhelm Herrmann
+Johann Carl Gottfried Naumann
+Johann Carl Gottlieb Richter
+----------------
+Carl Gottlieb Casper
+Gottfried Leberecht Andrig
+Christian Gottlieb Ziegs
+Johann Friedrich Fiedler
+Johann Gottlieb Reinhardt
+Johann Gottlob Moekus
+Carl Gottlob Eckelmann
+----------------
+Johann Gottlieb Winckler
+Friedrich Wilhelm Eulitz
+Ernst Friedrich Wilhelm Oehmigen
+Johann Gottlieb Wilsdorf
+Johann Gottlieb Poenitz
+Carl Gotthelf Backofen
+Christian Gottfried Heyde
+Johann Gottlieb Zocher
+----------------
+Johann Carl Gottfried Schumann
+Carl Gottlob Blau
+Johann Gottfried Schumann
+Christian Gottlieb Jaeger
+Carl Gottfried Schmidt
+Johann Gottlob Caspari
+Johann Gotthelf Kohlstrunk
+Carl Gottlob Ficke
+----------------
+1832
+Carl Gottlieb Zimmermann
+Carl Traugott Thürmer
+Johann Carl Gottlieb Sachse
+Carl Friedrich August Böhme
+Carl Friedrich Schumann
+Carl Gottlieb Elschner
+----------------
+Johann Gottfried Zimmer
+Johann Carl Traugott Wackwitz
+Johann Gottlieb Leberecht Tutzsche
+Johann Traugott Zieger
+Carl Gottlieb Meyer
+Johann Gotthelf Mietdank
+----------------
+Christian Gottlieb Rüdger
+Johann Gotthelf Hanitzsch
+Johann Christian Friedrich Schmidt
+Carl Gottlob Rentzsch
+Johann Gottlob Aurich
+Friedrich Wilhelm Beyer
+----------------
+Johann Gottlob Böhme
+Christian Gottlieb Eulitz
+Carl Gottlieb Höhme
+Johann Gottfried Stubenrauch
+Johann Gotthelf Elschner
+Gottlob Ehregott Wagner
+----------------
+Carl Wilhelm Götze
+Johann Gottfried Bruße
+Christian Gottlieb Kretzschmar
+Johann Karl Friedrich Höhme
+Johann Christian Richter
+Johann Gotthelf Kretzschmar
+----------------
+1833
+Johann Carl Gottfried Lorenz
+Christian Gottlob Fritzsche
+Johann Gottfried Gühne
+Johann Heinrich Holfert
+Johann Gottlob Schönert
+Johann Gottlieb Zieger
+----------------
+Johann Leberecht Mietdank
+Carl Gottlieb Meyer
+Johann Gottfried Seifert
+Heinrich Ferdinand Uhlemann
+Johann Friedrich August Hering
+Traugott Leberecht Knolauch
+----------------
+Christian Gottlob Sommer
+Johann Traugott Oswald
+Ernst Ferdinand Clauß
+Carl Gottlob Striegler
+Carl Gottlob Richter
+Johann Gottlob Hofmann
+----------------
+Johann Carl Gottlob Liebe
+Johann Gottlob Kielwagen
+Johann Gottlieb Götze
+Johann Gottlob Schreiber
+Johann Gottlieb Golde
+Johann Carl Gotthelf Heinrich Müller
+Carl August Neuhhäußer
+----------------
+Carl Gottlob Haupt
+Johann Gotthelf Zieger
+Johann Andreas Spieß
+Carl Gottlob Schütze
+Friedrich Lehmann
+Carl Traugott Berger
+Carl Theodor Oschatz
+----------------
+Friedrich August John
+Carl Gottlob Thomas
+Johann Gottlieb Gühne
+Johann Gottlob Müller
+Johann Karl Gottlieb Burkhardt
+Christian Gottlob Lantzsch
+Wilhelm Friedrich
+----------------
+Johann Gottfried Ernst Schumann
+Carl Gottlob Pinkert
+Johann Carl Gottlieb Lorenz
