@@ -1,15 +1,16 @@
 Meißen Johanneskirche (Buch 11)
-Trauungen 1809-1829
+Trauungen 1809-1839
 https://www.archion.de/de/viewer/churchRegister/281140?pageId=38794104
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunde
 Mai 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -468,3 +469,256 @@ Johann Carl Gottlieb Beckert
 Johann Gottlob Starke
 Johann Gotthelf Schlechte
 Johann Gottfried Beger
+----------------
+1830
+Johann Christian Gottlieb Krause
+Johann Gottfried Mäser
+Johann Gottlob Schulze
+Carl August Kleeberg
+Johann Gottlob Engelmann
+Carl Gottlieb Ulbricht
+----------------
+Heinrich Eduard Benisch
+Ernst Adolph Sprößig
+Johann Gottlieb Hirsch
+Johann Gottfried Jenzsch
+----------------
+Johann Gottlieb Zabel
+Johann Gotthelf Herrmann
+Johann Carl Gottfried Herrmann
+Johann Gotthelf Krause
+----------------
+Johann Michael Thiele
+Johann Gottfried Jacob
+Johann Gottlieb Zimmermann
+----------------
+1831
+Gottfried Müller
+Alexander Julius Marschall
+Johann Gottlob Wolf
+Johann Gottlob Wittig
+----------------
+Johann Gottfried Kost
+Gottlieb Mohn
+Johann Gottlieb Ilgner
+Karl Gottlob Roßberg
+Karl Christian Gottlieb Mehlig
+----------------
+Christian Gotthelf Schlechte
+Johann Christian Gottlieb Zschoche
+Johann Traugott Möglich
+Johann Christian Petzsch
+Friedrich Gotthelf Goltzsch
+----------------
+Johann Gottlieb Pottig
+1832
+Karl Gotthelf Roitzsch
+Johann Gottlob Dämmich
+Johann Adam Klunker
+Johann Gottlieb Umlauf
+----------------
+Karl Gottfried Melzer
+Johann Heinrich Hanke
+Johann Christian Bischoff
+Johann Christlieb Gottlieb Talkenberger //korrigiert
+Johann Christian Vetter
+----------------
+Christian August Talkenberger
+Johann Gottlob Beuchelt
+Johann Karl Gottlob Grille
+Johann Christian Grabia
+Karl Ludwig Balthasar
+----------------
+Johann Gottlob Maune
+1833
+Johann Gottlieb Wackwitz
+Johann Gottlieb Ziller
+Carl Gottlob Keil
+----------------
+Karl Gottlob Werner
+Johann Traugott Melzer
+Johann Karl Gottlieb Funke
+Heinrich August Grille
+Johann Gottlieb Graf
+----------------
+Johann Gottlieb Keil
+Johann Karl Gottfried Bretschneider
+Johann Gottfried Mietzsche
+Johann Christian Gottlob Schumann
+Johann Carl August Schreiber
+----------------
+Carl Gottlieb Grafe
+1834
+Friedrich Wilhelm Däbritz
+Friedrich August Damm
+Johann Gottlieb Herrman
+Johann Gottlob Rühle
+----------------
+Johann Gottfried Pappermann
+Traugott Wilhelm Beckert
+Johann Christian Gottlieb Dieze
+Johann Christian Fleischmann
+Johann August Fehrmann
+----------------
+Johann Gottlieb Herzog
+Karl Adolph Werner
+Karl Moritz Claus
+August Wilhelm Herbst
+Johann Laurentius Schwarz
+----------------
+----------------
+Karl Gottlob Klunker
+Ernst Ludwig Hallbauer
+Johann Gottlieb Riemel
+Johann Friedrich Nitzsche
+----------------
+Johann Samuel Herrmann
+Johann Samuel Herrmann
+Johann Christian Walther
+1835
+Karl Gottlieb Claus
+Karl Friedrich August Heinze
+----------------
+Johann Gottlob Beger
+Christian Gottlob Görlitz
+Friedrich August Hempel
+Johann Gottfried Teubert
+Johann Ehregott Beulich
+----------------
+Karl Gotthelf Keil
+Christian Friedrich Weser
+Johann Christian Bielitz
+Johann Karl Gottlob Grimmer
+Johann Gottfried Stepan
+----------------
+Johann August Weser
+Karl Gottlieb Leuteritz
+Johann Gottlob Schulze
+Johann Carl August Leuteritz
+----------------
+Karl August Legler
+Johann Carl Traugott Funke
+Johann Gotthelf Rentzsch
+1836
+Karl Gottlieb Klemm
+Johann Christian Herrmann
+----------------
+Johann Gottlob Löwe
+Christian Gottlieb Starke
+Johann Gottfried Bode
+Johann Gotthelf Poppe
+Johann Gottlob Schurig
+----------------
+Ernst Heinrich Julius Thalwitzer
+Karl Wilhelm Rüdrich
+Karl Gottlieb Lippmann
+Christian Gottlob Thomas
+Friedrich Wilhelm Klunker
+----------------
+Johann Gottfried Jakob
+Christian Gottlieb Grimmer
+Johann Gottlob Axt
+Johann Gottfried Klunker
+Johann Gottfried Haase
+----------------
+Johann Adam Borsdorf
+Johann Gotthelf Schlechte
+1837
+Karl Friedrich Eduard Oette
+Johann Traugott Horst
+----------------
+Karl August Schumann
+Johann Gottlob Pink
+Karl Gottlieb Wendsche
+Johann Gottfried Mohn
+Johann Gottlieb Schütze
+----------------
+Karl Heinrich Kleeberg
+Gustav Moritz Ulrich
+Friedrich Wilhelm Görne
+Johann Samuel Sylbe
+Carl Gottlob Heller
+----------------
+Karl Gottlob Leonhard
+Karl Ernst Spiegelhauer
+Karl Fürchtegott Frenzel
+Heinrich Schmidhuber
+----------------
+Johann Traugott Starke
+Georg Lowatzsch
+Friedrich Heinrich Däbitz
+Karl Gustav Adolph Görne
+----------------
+Karl Wilhelm Bretschneider
+Johann Gottfried Gaschütz
+1838
+Johann Karl Gottlieb Melzer
+Christian Gottlieb Herrmann
+Johann Gottfried Zschietzschmann
+----------------
+Johann Christian Reiche
+Johann Gotthelf Horst
+Karl Gottfried Fritzsche
+Herrman Ernst Benisch
+Johann Gottfried Marx
+----------------
+Johann Christian Rühle
+Johann Karl Gottlob Enger
+Johann Karl Gottlob Hund
+Johann Wilhelm Herrmann
+Johann Gottfried Götze
+----------------
+Karl Gottlieb Hering
+Emil Ranft
+Friedrich Gotthelf Goltzsch
+Christian Gottlieb Borsdorf
+Johann Karl Gottlieb Hofmann
+----------------
+Johann Gottlob Rothe
+Christian Gottlieb Zocher
+Friedrich Wilhelm Bachmann
+Gottfried Hänschen
+----------------
+Karl August Thieme
+Johann Gottfried Möbius
+Karl Gottlieb Leberecht Zschoche
+Friedrich August Ockert
+----------------
+Friedrich August Riegel
+Johann Gottlob Beger
+Karl Gottlieb Sämmang
+Johann Christian Gottlieb Melzer
+----------------
+1839
+Johann Christian Gühne
+Johann Gotthelf Köhler
+Friedrich Wilhelm Hoffmann
+Johann Gottlieb Fichtner
+----------------
+Johann Gottfried Rotzsch
+Karl Friedrich Zschetzsche
+Johann Gottlieb Grundmann
+Johann Gottlieb Reiche
+Johann Wilhelm Kretzschmar
+----------------
+Karl Traugott Erler
+Johann Gotthelf May
+Karl Gottlieb Scheuer
+Karl Christlieb Starke
+Heinrich Ludwig Hünig
+----------------
+Georg Wilhelm Hofmann
+Johann Gottlob Ilschner
+Johann Friedrich August Steiniger
+August Wilhelm Kirsten
+----------------
+Johann Christian Rühle
+Friedrich August Erler
+Friedrich Wilhelm Ziesler
+Carl Gotthelf Herzog
+Johann Gottfried Krüger
+----------------
+Karl Gottlieb Gottschalk
+Johann August Dörschel
+Johann Christian Heinrich Kind
+Johann Gotthelf Marx
