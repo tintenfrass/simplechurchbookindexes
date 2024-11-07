@@ -1,5 +1,5 @@
 Meißen Trinitatiskirche (Buch 4)
-Trauungen 1818-1829
+Trauungen 1818-1838
 https://www.archion.de/de/viewer/churchRegister/281154?pageId=38796750
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -163,3 +164,131 @@ Chrustan? Gottfried Richter
 Friedrich August Henze
 Johann Gottlieb Drache
 Johann Gottlieb Rehn
+----------------
+1830
+Karl Friedrich Moritz Heise
+Christian Gottlieb Tögel
+Johann Gottlieb Klemm
+Karl Gotthelf Schulze
+----------------
+Karl Gottfried Hauswald
+Johann Gottfried Jacob
+1831
+Friedrich David Trache
+Karl August Rösler
+Johann Gottlieb Martin
+----------------
+Christian Friedrich Maximilian Müller
+Johann Gottlieb Bürkner
+Ernst Friedrich Wilhelm Ohmigen
+Christian Gottlieb Gleisberg
+----------------
+Friedrich Kutzsche
+Christian Gottlieb Stelzner
+Johann Anton Pietzsch
+Christian Förster
+Christian Traugott Schlechte
+----------------
+Wilhelm August Kummer
+1832
+Johann Traugott Pappermann
+Johann Christian August Umlauft
+Johann Gottfried Schumann
+----------------
+1833
+Johann Gotthelf Engelmann
+Johann Gottlieb Wackwitz
+Johann Wilhelm Hetzel
+Johann Traugott Leberecht Baarmann
+Johann Christian Friedrich Thieme
+----------------
+Johann Gottfried Nangel
+Wilhelm August Gotthelf Holtzsch
+Georg Friedrich Fischer
+Gottlob Lamm
+----------------
+Karl Traugott Pappritz
+Karl August Köhler
+Johann Karl Traugott Mehlig
+Karl Gottlob Grafe
+----------------
+Christian Ehregott Pause
+1834
+Johann Gottlob Ballmann
+Johann Gottlieb Zieger
+Karl Gottlob Fehrmann
+----------------
+Karl Gottfried Melzer
+Karl Eduard Kost
+Johann Gottfried Schlechte
+Johann Gottlieb Borschütz
+----------------
+Johann Gottlieb Neßmann
+Johann Karl Gottfried Gießmann
+1835
+Friedrich Gottlob Löbbe
+Karl Gottlob Petzsch
+----------------
+Friedrich August Streubel
+Johann Gottfried Reichel
+Karl Gottlieb Mahnert
+Johann Gotthelf Altermann
+Johann Gottlob Spieler
+Karl Gottlob Scheiblich
+----------------
+Christian Gottlieb Wachs
+Johann Gottlob Lorenz
+Christian Karl Menge
+Johann Gotthelf Jähnige
+Friedrich Eduard Uhlemann
+----------------
+Karl Gottlob Klunker
+Traugott Leberecht Tränkner
+1836
+Johann Friedrich Schumann
+----------------
+Friedrich Gottlob Ehregott Müller
+Herrman Ludwig Fischer
+Karl Gottlob Münch
+----------------
+Karl Gotthelf Zscherpel
+Friedrich August Richter
+Johann Christlieb Poitzsch
+Johann Gottlieb Scheffler
+----------------
+Johann Christian Maune
+Johann Gottlob Krause
+Karl Gottlieb Striegler
+Karl Gottlieb Witschold
+Johann Gottfried Krell
+----------------
+Karl Gottlieb Hottewitzsch
+Johann Gottlieb Kretzschmar
+Friedrich Adolph Gotthold Lamm
+----------------
+1837
+Karl August Freyer
+Wilhelm Ferdinand Klinger
+Johann Gotthelf Dörschel
+Johann Christian Richter
+----------------
+Karl Gottlieb Kühnel
+Karl Wilhelm Bretschneider
+1838
+Reinhold Albrecht Heise
+----------------
+Gotthelf Schneider
+Karl Gotthelf Seifert
+Karl August Müller
+Johann Gottlieb Wefer
+----------------
+Johann Gotthelf Mohn
+August Wilhelm Friedrich Adalbert Gottlob Müller
+Johann Gotthelf Claus
+Ernst Gottlieb Zschäbitz
+----------------
+Karl August Harzt
+Johann Gottfried Beulich
+Johann Gottlob Berger
+Johann Gottfried Kirschstein
+Johann Friedrich Heinrich Claus
