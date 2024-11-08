@@ -1,5 +1,5 @@
 Niederau (Buch 4)
-Trauungen 1810-1829
+Trauungen 1810-1839
 https://www.archion.de/de/viewer/churchRegister/283209?pageId=39158623
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -146,3 +147,86 @@ Johann Gottlob Weser
 Johann Gottfried Marx
 ----------------
 Gottfried Grimmer
+1830
+Johann Gottfried Mäser
+Johann Gottfried Schneider
+Johann Gottlieb Belke
+Johann Gottlob Vetter
+----------------
+Christian Stolle
+Johann Gottfried Schumann
+Johann Gottfried Richter
+Johann Gottfried Jacob
+Johann Gottlob Franke
+Johann Gottfried Peschel
+----------------
+Johann Gottfried Renzsch
+Friedrich August Hornemann
+1831
+Johann Samuel Hartmann
+Johann Gottlieb Schneider
+----------------
+Christian Gottlob Rühle
+Johann Samuel Vetter
+Christian Schramm
+----------------
+1832
+Johann Georg Marr
+Johann Carl Traugott Lösche
+Johann Christlieb Schumann
+Johann Gottlieb Bischof
+Johann Gottlieb Stelzner
+----------------
+Johann Gottlob Mäser
+Johann Gottlob Starke
+Franz Ludwig Vogel
+Johann Christlieb Teichmann
+Johann Gottfried Bährisch
+----------------
+1833
+Johann Gottfried Starke
+Johann Gotthelf Hirschnitz
+1834
+Johann Christoph Belke
+Johann Georg Krause
+Johann Gottlob Klare
+----------------
+Johann Christlieb Berger
+1835
+Friedrich Leberecht Uhlmann
+Johann Christian Schneider
+Johann Gottlieb Haußmann
+----------------
+Johann Gottlieb Leuschner
+1836
+Johann Michael Schumann
+Johann Gottlob Ballmann
+Johann Gottfried Drache
+----------------
+Johann Gottlob Ernst Krause
+Johann Traugott Stephan
+Karl Gottfried Rost
+Andreas Schüster
+Johann Christian Weser
+----------------
+1837
+Friedrich Traugott Ehregott Vetter
+Gottfried Kirsten
+Johann Gottfried Adam
+Johann Christian Marr
+Johann Gottlieb Schönfeld
+----------------
+Johann Christian Lehmann
+1838
+Johann Gottlob Tronicke
+Carl Gottlieb Leischner
+Johann Gottlieb Schneider
+----------------
+1839
+Christian Gottlieb Grimmer
+Johann Gottlob Kirste
+Johann Gottfried Krüger
+Johann Gottfried Hecht
+----------------
+Johann Christian Mohn
+Johann Friedrich Wilhelm Sachse

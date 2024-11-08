@@ -1,15 +1,16 @@
 Naustadt (Buch 8)
-Trauungen 1808-1829
+Trauungen 1808-1839
 https://www.archion.de/de/viewer/churchRegister/283176?pageId=39153226
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Mai 2024
 Juli 2024
 Oktober 2024
+Novemeber 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -539,3 +540,280 @@ Carl Gottlieb Ranft
 ----------------
 Christian Traugott Hempel
 Johann Christian Fischer
+1830
+Carl Leberecht Weinhold
+Carl Gottlieb Schiffner
+Johann Gottlieb Schreiber
+----------------
+Carl Gottlob Schulze
+Johann Friedrich Gottlob Schlauch
+Johann Gotthelf Geißler
+Johann Gotthelf Bernstein
+Johann Gottlob Grellmann
+Friedrich Adolph Wagner
+----------------
+Carl Fürchtegott Schlicke
+Carl August Hückel
+Johann Traugott Stelzer
+Johann Gottlob Scheffler
+Carl Gottlieb Brater
+Georg Wilhelm Neummeister
+Christian Gottfried Möbius
+----------------
+Christian Gottlob Dögel
+Johann Gottlob Schmidt
+Carl Gottlob Kirsten
+Johann August Schanze
+Christian Gottfried Krauspe
+Johann Gotthelf Wilhelm Saupe
+Johann Gotthelf Schmidtchen
+----------------
+Johann Gottfried Ganzauge
+Johann Carl August Saupe
+1831
+Johann Gottlob Schmidtchen
+Johann Gottlob Leberecht Buchmann
+Johann Heinrich Benjamin Angermann
+----------------
+Johann Gottlob Keil
+Johann Carl Gottfried Rabe
+Johann Gottfried Sachse
+Carl Gottlieb Müller
+Johann Carl Gottfried Kretzschmar
+Johann Gottfried Otto
+----------------
+Johann Gottfried Stephan
+Johann Gottlieb Ilschner
+Friedrich August Schlechte
+Christian Wahl
+Andreas SchirzuchHippatzsch
+----------------
+Johann Adolph Friedrich Lommatzsch
+Johann Christoph Zimmermann
+Carl Gottlob Ranft
+----------------
+1832
+Carl Gottlob Ficke
+Johann Carl Gottlieb Liebschner
+Johann Gottlob Lippert
+Johann Traugott Klotzsche
+Johann August Lange
+Johann Gottlob Krause
+----------------
+August Leberecht Rüdiger
+Johann Gottlob Naumann
+Ernst Adolph Ehregott Saupe
+Christian Gottfried Herrmann
+Johann Traugott Harz
+Christian August Talkenberger
+----------------
+Jacob Ritzscher
+Johann Gottlob Trunk
+Carl Gottlob Fischer
+Carl Gottfried Schumann
+Johann Georg Hofmann
+Johann Christian Richter
+----------------
+August Wilhelm Fischer
+Johann Gottlob Neukirch
+Friedrich Wilhelm Schubert
+Friedrich August Schlechte
+? Zastrow
+----------------
+1833
+Johann Gottlob Wittig
+Carl Gottlob Saupe
+Carl Gottlieb Johne
+Johann Samuel Jacob
+Johann Benjamin Kohlsdorf
+Carl Gottlob Haupt
+Carl Gottfried Hillig
+Johann Gottlieb Keil
+----------------
+Carl Gotthelf Köhler
+Gottfried Leberecht Saupe
+Carl Gottlob Lange
+Johann Gottlieb Ilschner
+Wilhelm August Winkler
+Johann Gottlob Leberecht Hüfler
+Johann Gottlieb Sohr
+----------------
+Christian Friedrich Schmutzler
+Johann Carl Klotzsche
+Johann Georg Wittig
+Carl Gottlieb Schubert
+Carl Gottlieb Weisenfels
+Johann Georg Fitzler
+Carl August Umlauft
+----------------
+Johann Christian Traugott Gühne
+Johann Herrmann Grille
+1834
+Johann Carl August Große
+Carl August Kost
+Carl Gottlieb Harz
+----------------
+Johann Gottlob Zimmermann
+Johann Gottlieb Gürtler
+Carl Gottlob August Mehlig
+Johann Gottfried Klügel
+Carl August Weise
+Carl Gottfried Mende
+----------------
+Heinrich Eduard Heßler
+Johann Gottfried Petermann
+Johann Gottlieb Wagner
+Traugott Wilhelm Beckert
+Johann Gottfried Scheffler
+Johann Gottlob Dürichen
+Carl Gottlieb Zimmer
+Peter Schmidt
+----------------
+Carl Gottlieb Otto
+Benjamin Gotthold Leberecht Kunath
+Carl Gottlob Saupe
+Johann Gottlieb Neßmann
+Carl Gottfried Kunze
+Johann Christian Jacob
+Christian Gottlob Finke
+Johann Gottlob Wanke
+----------------
+Johann Traugott Hillig
+Carl August Krause
+Johann Christian Rentzsch
+Carl Gottlieb Schanze
+Johann August Grellmann
+----------------
+1835
+Carl Traugott Grundmann
+Carl Gottlieb Albrecht
+Johann Gottlieb Kretzschmar
+Johann Carl Gottlob Gauernack
+Gottfried Eduard Teichert
+Christian Gottlieb Lampe
+Christian Gottlob Schlechte
+----------------
+Carl Gottlob Kohl
+Johann Gottfried Horn
+Johann Gottlieb Schubert
+Johann Carl Gottlob Lippert
+Johann Andreas Proschmann
+Gottlieb Leberecht Ryßel
+----------------
+Johann Gottlob Birndt
+Johann Christian Taschenberger
+Johann Gotthelf Borsdorf
+Johann Gottlieb Claus
+? Sunzenad?
+----------------
+1836
+Johann Carl Gottfried Edel
+Johann Gottlieb Wilhelm
+Christian Gottlieb Wittig
+Carl August Schlegel
+Johann August Prater
+Johann Gottlob Klotzsche
+----------------
+Carl Gottlieb Meister
+Heinrich August Lommatsch
+Johann Ernst Gottlieb Neubert
+Carl August Werner
+Gottfried Leberecht Haufe
+Friedrich Ernst Mosch
+----------------
+Johann Gottlob Müller
+Andreas Kuiawa
+Christian Friedrich Rüdiger
+Carl Gottlob Gärtner
+Johann Gottlieb Horn
+Carl Gottlieb Rändler
+----------------
+Carl Traugott Panier
+Christian Gottfried Krauspe
+1837
+Johann Gottlieb Sohr
+Carl Gottlieb Grießbach
+Johann Gottfried Saupe
+Johann Gotthelf Rüdiger
+----------------
+Carl Friedrich Grimmer
+Johann Carl Gottlieb Benjamin Schmidt
+Johann Gottfried Kleßig
+Johann Gottlieb August Schüller
+Johann Carl Gottlieb Burkhardt
+Gottlieb August Handrich
+----------------
+Johann Carl Gottlob Golschmidt
+Carl Gotthelf Dietrich
+Johann Traugott Rüdiger
+Carl August Dreyßig
+Johann Christian Gottlieb Zimmermann
+Christian Gottlieb Ritter
+----------------
+Johann Gottlieb Heinrich Seidler
+Carl Gottlob Junghans
+Friedrich Gottlob August Pietzsch
+Johann Christlieb Gast
+Carl Gottlob Lohse
+----------------
+Johann Carl Gottlob Lippert
+Carl August Simon
+Johann Gotthelf Fischer
+Johann Gottlob Wilhelm
+Johann Gottlieb Neumann
+Johann Schmidt
+----------------
+Johann Adam August Petzold
+August Wilhelm Paul
+1838
+Johann August Tauchert
+Johann Gottlob Zschoche
+Carl Gottlieb Claus
+----------------
+Carl August Franke
+Ernst Gottlob Neumann
+Johann Gottlieb Schackert
+Ernst Ludwig Pötzsch
+Gottlieb Traugott Hempel
+Carl Gottlob Schöne
+----------------
+Johann Carl Gottlieb Lippert
+Johann Gottlob Albrecht
+Johann Traugott Ranft
+Johann Traugott Mürzin
+Johann Gottfried Schnee
+----------------
+Johann Christian Rentzsch
+August Wilhelm Görtz
+Johann Gotthelf Schmidt
+Gottlieb Gäbisch
+Johann Gottlob Berger
+Johann Gottlob Grafe
+----------------
+Carl Julius Ernst Große
+Johann Christlob Herbst
+----------------
+1839
+Carl Gottlob Handrick
+Johann Gottlob Leberecht Hempel
+Christian Gottlieb Starke
+Johann Traugott Tränkner
+Carl Gottlieb Körner
+Carl Gottlob Horn
+----------------
+Carl Gottlieb Kretzschmar
+Johann Carl Gottlob Grellmann
+Johann Gotthelf Ludwig
+Friedrich Wilhelm Götze
+Carl Friedrich Spieler
+----------------
+Carl Gottlieb Gräfe
+Johann Gottfried Traugott Gansauge
+Carl Gotthelf Böhme
+Johann Carl August Stelzer
+August Leberecht Borsdorf
+----------------
+Johann Gotthelf Leberecht Sönitz
+Carl Wilhelm Gierisch
+Johann Traugott Neßmann
+Johann Gottlieb Däbler

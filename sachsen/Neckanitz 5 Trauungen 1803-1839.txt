@@ -1,5 +1,5 @@
 Neckanitz (Buch 5)
-Trauungen 1803-1829
+Trauungen 1803-1839
 https://www.archion.de/de/viewer/churchRegister/283191?pageId=39155504
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 1 Stunde
 Mai 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -360,3 +361,135 @@ Johann Traugott Fuchs
 Carl August Schurich
 Johann Gottlieb Reinhard
 Christian Friedrich Eckart
+----------------
+1830
+Christian Friedrich Sprößig
+Johann Carl Traugott Funke
+Johann Gottlieb Schlick
+Carl Gottlob Rüderich
+Carl Gottlob Reichel
+----------------
+Johann Gottfried Frohberg
+Johann Gottlieb Scheunert
+Johann Gottlob Schneider
+1831
+Carl Gottlieb Kranert
+Christian Gottlob Handschack
+----------------
+Friedrich August Eduard Heyne
+Carl Gotthelf Barth
+August Salomon Träger
+Christian Gotthelf Gast
+Carl Gottlob Glanzberg
+Johann Gottfried Geißler
+----------------
+Carl Gottlieb Eulitz
+Karl Gottlob Krügel
+1832
+Johann Gottlob Hantschmann
+Christian Gottfried Lehmann
+Christian Gotthelf Dietrich
+----------------
+Friedrich Wilhelm Knauth
+Johann Gottfried Riedrich
+Carl Gottfried Lantzsch
+Carl Gottfried Naumann
+Johann Christian Röber
+Samuel Gottlieb Ulbrich
+Johann Gottlob Müller
+----------------
+1833
+Johann Gottlieb Lehmann
+Johann Carl Gottlob Bormann
+Johann Gottfried Beuchel
+Johann Gottlob Müller
+Johann Gottfried Graßelt
+Heinrich Carl Schröter
+----------------
+Carl Gottlob Naumann
+Johann Carl Gottlob Frohberg
+----------------
+1834
+Johann Gottlob Naumann
+Christian Gottlieb Mierisch
+Carl Friedrich Liebe
+Carl Gottlieb Naumann
+Carl Gottlob Voigt
+Johann Christian Däbritz
+Carl Gottlob Steude
+----------------
+Johann Carl Daniel Oeltzner
+Johann Carl Friedrich Dietzdorf
+Carl Gotthelf Mehner
+Christian Gottlieb Kreyßer
+Johann Gotthelf Mehnert
+----------------
+Johann Georg Hermann
+Carl Wilhelm Vogel
+Johann Gotthelf Eulitz
+Johann Gottlob Heinrich Richter
+Carl Christlieb Miersch
+----------------
+1835
+Christian August Sprößig
+Johann Gotthelf Böttcher
+Christian Heinrich Sprößig
+Friedrich August Ronneberger
+Carl David Wackwitz
+----------------
+Karl Gottlieb Plattner
+Heinrich Wilhelm Sucher
+Johann Gottfried Wunderlich
+Johann Gottlob Wilhelm Hempel
+Johann Gottfried Sprößig
+----------------
+1836
+Karl Gottlob Kirbach
+Johann Gottlob Müller
+Johann Gottlieb Fritzsche
+Johann Gottfried Müller
+Friedrich Wilhelm Schneider
+----------------
+Karl Eduard Heinrich Pflug
+Johann Christian Mierisch
+----------------
+1837
+Karl Gottlob Lohse
+Johann Gottlieb Claus
+Johann Traugott Harz
+Friedrich Wilhelm Heße
+Johann Gottlob Klingner
+Ernst Friedrich Markendorf
+----------------
+Johann Karl Gotthelf Voigt
+Johann Gotthelf Müller
+Karl Heinrich Gottlob Krapf
+Johann Christian Kreyser
+Johann Gotthelf Lippold
+Johann Gotthelf Beuchel
+----------------
+1838
+Johann Carl Gottlob Erler
+Christian Gottlieb Böhme
+Johann Christlieb Rüderich
+Johann Gottlob Rentzsch
+Carl Gottlieb Voigt
+----------------
+Johann Carl Gottlob Keutel
+1839
+Carl Wilhelm Mohr
+Johann Friedrich Lehmann
+----------------
+Johann Gottfried Clauß
+Johann Traugott Otto
+Carl Gottlob Maul
+Johann Gotthelf Donat
+----------------
+Johann Carl Gottlob Sachse
+Friedrich August Hennig
+Carl Gottlob Zschimmer
+Johann Friedrich Wilhelm Sachse
+Carl Wilhelm Springefeld
+----------------
+David Gottlob Eulitz
+Johann Carl Scheibe

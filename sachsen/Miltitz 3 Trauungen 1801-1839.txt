@@ -1,5 +1,5 @@
 Miltitz (Buch 3)
-Trauungen 1801-1829
+Trauungen 1801-1839
 https://www.archion.de/de/viewer/churchRegister/283156?pageId=39147935
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 0,5 Stunden
 Mai 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -189,3 +190,66 @@ Johann Gottlob Mühlberg
 Johann Gottfried Steude
 August Ludwig Keilhauer
 Johann Gottlieb Philipp
+1830
+----------------
+Carl Friedrich August Böhme
+Carl Gottfried Haetzmann
+Johann Christian Rost
+Carl Gotthelf Engelmann
+Carl Gottlieb Kühne
+Johann Gottfried Starke
+Johann Gottfried Krauspe
+Heinrich Eduard Settenborn
+Gottfried Leberecht Adam
+----------------
+Johann Gottlob Krumpiegel
+1831
+Johann Gottfried Wendt
+1832
+Johann Adam Klunker
+Johann Gottfried Leberecht Riedrich
+Carl Gottlob Pietzsch
+Johann Gottlob Naumann
+Johann Benjamin Windschüttel
+1833
+Johann Gotthelf Junghans
+Friedrich Franz Rabe
+----------------
+Carl Gottlieb Baerwald
+Heinrich August Haynitz
+Carl Gottfried Wackwitz
+1834
+Johann Gottlieb Poppe
+Carl Gottlieb Hähnel
+Carl Gottlob Fischer
+Johann Christian Gottlieb Voigt
+----------------
+Johann Gotthelf Thieme
+1835
+Johann Gottlob Löwe
+Johann August Mühlner
+Wilhelm Fürchtegott Herrmann
+Carl Adolph Schuster
+Carl Gottlieb Grübler
+Friedrich Leberecht Franke
+----------------
+1836
+Johann Gottlob Kunze
+Johann Gottlob Wachsmuth
+Carl Gottlieb Walther
+Johann Gottlieb Krauspe
+Johann Gottlieb Legler
+1837
+Carl Gottlob Schöne
+Carl Heinrich Wagner
+Friedrich Wilhelm Kegel
+----------------
+1838
+Carl Gottlob Dietrich
+Carl Gottfried Döring
+Friedrich Gottlob Bretschneider
+Johann Gotthelf Fehrmann
+1839
+Johann Gottlob Steude
+Johann Gottfried Fischer
+Johann Christian Gottlieb Rentsch

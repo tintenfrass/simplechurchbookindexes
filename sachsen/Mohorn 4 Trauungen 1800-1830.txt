@@ -1,5 +1,5 @@
 Mohorn (Buch 4)
-Trauungen 1800-1829
+Trauungen 1800-1830
 https://www.archion.de/de/viewer/churchRegister/283160?pageId=39148949
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -11,6 +11,7 @@ Erstellt in ca. 1,5 Stunde
 Mai 2024
 Juni 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -686,3 +687,30 @@ Johann Gottlieb Schlegel
 Carl Gottfried Zschokke
 Johann Gottlob Wagenknecht
 Carl Gottlob Stubenrauch
+----------------
+1830
+Johann Gottfried Schubert
+Carl Gottlob Ludewig
+Johann Traugott Mahlberg
+Johann Gottlob Müller
+Johann Gottlob Ludewig
+Johann Carl Gottlieb Bachmann
+----------------
+Hans Teuchert
+Gottlieb Heinrich Fritzsche
+Traugott Leberecht Felber
+Carl Gotthelf Schanz
+Johann Gottfried Kandler
+Johann Gottlob Kandler
+----------------
+Samuel Friedrich Erler
+Carl August Kurze
+Carl August Nacke
+Johann Gottfried Fischer
+Johann Gottlob Remschel
+Johann Gottlieb Uhlemann
+----------------
+Johann Christian Henker
+Johann Gottlieb Rüdiger
+Joseph Börner
+Johann Gotthelf Winkler
