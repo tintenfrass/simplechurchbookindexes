@@ -1,5 +1,5 @@
 Oberau (Buch 4)
-Trauungen 1800-1829
+Trauungen 1800-1839
 https://www.archion.de/de/viewer/churchRegister/289461?pageId=40223208
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Mai 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -206,3 +207,73 @@ Johann Gottfried Marx
 Johann Gottlieb Rühle
 Carl Herrmann Menert
 Carl Friedrich Ebert
+----------------
+1830
+Gottfried Kunze
+Johann Gottfried Sachse
+Carl Gottlob Rothe
+Johann Christoph Rothe
+Christian August Krille
+Johann Gottlieb Kretzschmar
+----------------
+Jacob Bodner
+Friedrich August Hornemann
+1831
+Traugott Leberecht Rothe
+Johann Gottlob Eckardt
+----------------
+Gottlieb Mohn
+Hans Heinrich Oppell
+Ferdinand August Schwarz
+Gottfried Marx
+----------------
+1832
+Johann Gottlieb Stelzner
+Christian Gottlieb Gommlich
+Johann Gottlob Mäser
+Johann Gottfried Große
+Johann Christian Hoyer
+----------------
+1833
+Johann Gotthelf Raum
+Johann Gottlob Rühle
+Hans Ludwig Oppell
+Johann Gottlob Häßler
+Gottlieb Hildebrand
+----------------
+Johann Gottlieb Lamm
+Johann Carl Friedrich Helmert
+Christian Gottfried Schweigler
+Johann Gottlob Zocher
+----------------
+1834
+Johann Gottfried Münch
+1835
+Johann Gottfried Pottig
+Johann Gottlob Rothe
+Johann Traugott Rändler
+----------------
+Johann Gottfried Bertuch
+Johann Gottfried Thieme
+Martin Drünke
+1836
+Carl Gottlob Richter
+----------------
+Johann Gottlieb Trobisch
+1837
+Friedrich Gotthelf Grimmer
+Johann Gottlob Ehlert
+Friedrich Christoph Leberecht Bär
+----------------
+1838
+Johann Gottfried Schramm
+Friedrich Adolph Mahnert
+Johann Gottlob Naumann
+Johann Hanke
+Christian Friedrich Hünig
+----------------
+Johann Christian Sachse
+1839
+Johann Traugott Weinhold
+Johann Carl Gottlob Müller
+Samuel Schlechte

@@ -1,5 +1,5 @@
 Rothschönberg (Buch 3)
-Trauungen 1801-1829
+Trauungen 1801-1839
 https://www.archion.de/de/viewer/churchRegister/289506?pageId=40233324
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Mai 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -181,3 +182,61 @@ Johann Carl Gottfried Silbermann
 Arthur Schoenberg
 Johann Gottlob Rösiger
 Friedrich Wilhelm Grätschel
+1830
+Johann Gottfried Thiemig
+----------------
+Carl August Günther
+Johann Gottlob Niklisch
+1831
+Carl Gottlieb Klöfer
+Friedrich Wilhelm Hofmann
+Carl Friedrich Käßberg
+----------------
+Johann Friedrich Wilhelm Steiger
+1832
+Johann Gottfried Leberecht Lommatzsch
+Johann Friedrich Richter
+1833
+Carl Gottfried Seiler
+Johann Gottfried Leberecht Gläßer
+----------------
+Christian Traugott Hofmann
+Carl Gottlieb Ehrlich
+1834
+1835
+Karl August Wilhelm Täger
+Johann Ehregott Barthel
+----------------
+Johann Karl Gottfried Prasch
+Johann Gottfried Rüdiger
+Carl Gottfried Flößner
+Carl Gottlob Arnhold
+1836
+Carl Gottlieb Lorenz
+Johann Christlieb Lutze
+----------------
+Karl Gottlob Reich
+Gottlob Adam Liebezeit
+Carl Gottlieb Paul
+1837
+Carl Gottlieb Erler
+August Benjamin Schuricht
+----------------
+Carl Gottfried Ehregott Schubert
+Johann Georg Wilhelm Berger
+Johann Gottlieb Möbius
+1838
+Ernst Heinrich Ferdinand Rühle
+----------------
+Carl Gottfried Schmidt
+Friedrich Wilhelm Gustav Schmidt
+1839
+Carl Gottlieb Butter
+Carl Gottlieb Barth
+Friedrich Traugott Fischer
+Carl Gottlieb Klotsche
+----------------
+Johann Gottlieb Böhme
+Johann Heinrich Eichhorn
+Johann Carl Gottfried Kurth
+Carl August Gläser

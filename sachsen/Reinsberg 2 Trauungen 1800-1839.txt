@@ -1,5 +1,5 @@
 Reinsberg (Buch 2)
-Trauungen 1800-1829
+Trauungen 1800-1839
 https://www.archion.de/de/viewer/churchRegister/289497?pageId=40272581
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -10,6 +10,7 @@ Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 Mai 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -355,3 +356,125 @@ Carl Friedrich Wilhelm Rysel?
 Johann Michael Limbach
 Friedrich Wilhelm Graetschel
 Carl Gottlob Schumann
+----------------
+1830
+Christian Cornelius Jordan
+Johann Carl Gottfried Berger
+Johann Gottfried Gülner
+Carl Christoph Heerklotz
+Johann Carl Gottlieb Krüger
+Christian Gottlieb Pallmann
+----------------
+Karl August Löffler
+Carl Gottlob Leberecht Berger
+Ehregott Leberecht Kappler
+1831
+Johann Georg Gottfried Müller
+Johann Gottlob Voigt
+Johann Gottlieb Günther
+Johann Gottlieb Kampe
+Gottlieb Uhlig
+Johann Carl Gottlieb Götze
+----------------
+Carl Gottlieb Büttner
+Johann Carl Gottfried Paul
+Carl Friedrich August Rüdiger
+Eduard Unteutsch?
+Johann Friedrich Wilhelm Steiger
+Friedrich Adolph Claus
+Johann August Gottlob Gabriel
+Gottfried Hartwig
+Johann Gotthelf Wätzig
+----------------
+1832
+Johann Gottlieb Kunze
+Carl Wilhelm Bernhard
+Karl Gottlieb Sohr
+Carl Gottlob Vogel
+Carl Friedrich Schumann
+Carl Gottlob Mahne
+Johann Gottlieb Leschke
+Carl Gottlieb Maune
+Johann Friedrich Dachsel
+----------------
+Johann Carl Wilhelm Tamm
+Johann Gottlieb Mehner
+Johann Gottlob Schütze
+1833
+Carl Friedrich Streller
+Carl Gotthold Lorenz
+Johann Jacob Schubert
+Karl August Günther
+Carl Gottfried Haupt?
+----------------
+Traugott Gottlieb Chemnitzer
+Carl Gottlob Rötha?
+Carl Gottfried August Hübler
+1834
+Carl Gottfried Watzig
+Carl Friedrich Adolph Rysel?
+Johann Gottlob Steiger
+Christian Traugott Seyfert
+Carl Gottlob Gläser
+----------------
+Johann Gottfried Lippmann
+Johann Gottlob Heinrich
+Friedrich August Ilgen
+Friedrich August Lobin
+Johann Gottlob Halsig
+1835
+Carl August Günther
+Carl Gottlob Staude
+Johann August Kühne
+Friedrich Gotthelf Lamm?
+----------------
+Johann August Grahl
+Johann Gottfried Bernhard
+Johann Gottfried Rüdiger
+Karl Gotthelf Wolf
+Friedrich Wilhelm Häntschel
+Gotthelf Leberecht Schreiber
+Carl Friedrich Gottlob Haupt
+1836
+Carl Gottlieb Günther
+Carl Wilhelm Bernhard
+----------------
+Julius Anton Werner
+Carl Gottlieb Streller
+August Friedrich Wolf
+Wilhelm Leberecht Lommatsch
+Johann Adolph Leberecht Rosberg
+Carl Gottlob Diersche
+1837
+Friedrich Wilhelm Werner
+Johann Gottlieb Dahten?
+----------------
+Johann Gotthelf Löffler
+Johann Gottfried Carl
+Friedrich Naumann
+Gottlob Leberecht Weber
+1838
+Johann Christian Kreysig
+Johann Christian Götze
+Carl Leberecht Merbeth
+Carl August Theodor Rysel
+----------------
+Carl Gottlob Lippmann
+Carl Gottlob Simon
+Traugott Friedrich Uhlemann
+Karl August Bock
+Johann Gottlieb Sonnag
+Paul Uhle
+1839
+Johann Gottlob Kühnel
+Johann Gotthelf Glöckner
+----------------
+Johann Carl Gottlieb Diersche
+Friedrich Wilhelm Pitsch
+August Leberecht Dietze
+Carl Gottlob Wayher?
+Carl Gottlob Ebert
+Martin Gottlob Pinkert
+Johann Friedrich Wilhelm Wätzig
+Carl Gottlieb Stiel
+Johann Friedrich August Lobin
