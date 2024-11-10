@@ -1,5 +1,5 @@
 Tanneberg (Buch 762)
-Trauungen 1801-1829
+Trauungen 1801-1839
 https://www.archion.de/de/viewer/churchRegister/289595?pageId=40251741
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Mai 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -251,3 +252,96 @@ Johann Gottlob Geißler
 Johann Gottlob Gebhard
 Gottlieb Leberecht Jurisch
 Christlieb Geißler
+----------------
+1830
+Johann Gottlob Krause
+Johann Gottlieb Dachsel
+Karl Julius Otto Nitzschke
+Johann Gottlob Tümmich
+1831
+Johann Gottlob Liebschner
+Johann Gottlieb Tenzel
+Karl Gottlob Richter
+Friedrich Gottlieb Busch
+Karl Traugott Birkner
+----------------
+1832
+Karl Gottfried Neidhardt
+Friedrich August Geißler
+Johann Gottfried Nestler
+Karl Friedrich Benjamin Kiesling
+Johann Karl Gottlieb Beier
+Christian Gottlob Fehrmann
+Karl Gottlob Schubert
+Karl Gottlob Hänsel
+Christian August Eichler
+Karl Gottfried Schumann
+----------------
+1833
+Johann Gottlieb Hanike
+Karl Gottlob Grötschel
+Karl Gottlieb Rost
+Friedrich Traugott Ehrenreich Oettler
+Adolph Leberecht Palitzsch
+Karl Gottlob Heide
+August Wilhelm Kost
+Karl Wilhelm Rieß
+Johann Gottlob Zimmermann
+----------------
+1834
+Johann Kaspar Kehr
+Traugott Leberecht Zimmermann
+Johann Gottlieb Stange
+Karl Gottlob Göhler
+1835
+Johann Gottlieb Schumann
+Johann Gottlob Krause
+Carl Gottlob Heide
+Johann Gottlob Leberecht Wachsmuth
+Friedrich Wilhelm Grätzschel
+Johann Gottlob Heide
+----------------
+Karl Gottlieb Dachsel
+Karl August Täger
+1836
+Karl Gottlob Benisch
+Karl August Otte
+Karl Gottlieb Zimmermann
+Johann Gottlob Weber
+Karl Gottlob Johne
+Karl Gottlieb Pietzsch
+Johann Christian Beuchel
+Karl Gotthelf Zimmermann
+Gotthelf August Wackwitz
+Johann August Nötzold
+Johann Traugott Kittner
+----------------
+Karl Gottlieb Diersche
+Karl Gottlieb Naumann
+1837
+Karl Gottlieb Paul
+Johann Gotthelf Rost
+Karl Gottlieb Funke
+Karl Gottfried Güldner
+Johann Gottlob Wittig
+Johann Karl Gottfried Kost
+1838
+Karl Gotthelf Zimmermann
+Johann Karl Gottlob Winkler
+----------------
+Johann Gotthelf Johne
+Karl Gottlob Schulze
+Johann Gotthelf Pönisch
+Johann Gottlieb Schubert
+Karl Gottlob Beuchel
+Johann Karl Gottfried Pinker
+1839
+Carl Friedrich Wilhelm Röstel
+Johann Friedrich Seiler
+Friedrich Wilhelm Funke
+----------------
+Carl Gottlieb Dietze
+Carl Gottlieb Legler
+Johann Friedrich Leberecht Talkenberger
+Gottfried August Schumann
+Johann Friedrich August Lobin?

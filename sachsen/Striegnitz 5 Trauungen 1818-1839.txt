@@ -1,5 +1,5 @@
 Striegnitz (Buch 5)
-Trauungen 1818-1829
+Trauungen 1818-1839
 https://www.archion.de/de/viewer/churchRegister/289585?pageId=40250508
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -7,6 +7,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
 Oktober 2024
+Novemeber 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -105,3 +106,96 @@ Friedrich Carl Leidert
 Johann Gotthelf Lindner
 Johann Gottlob Hencker
 Johann Adolph Semmich
+1830
+Friedrich Gottlieb Hölzner
+Johann Gottfried Richter
+----------------
+Johann Gottlob Wermey
+Johann Gottlieb Voyzel?
+Carl Gottfried Lehmann
+Carl Gottlieb Dietrich
+Friedrich Traugott Jahn
+Johann Gottlob Hebestreit
+Carl Gottlieb Rühle
+1831
+Carl Wilhelm Lorenz
+Christian Gottlob Jaschke
+Christian Gottfried Heyde
+----------------
+Johann Gottlieb Schaaf
+Johann Christoph Funke
+Johann Gotthelf Hanke
+Simon Adolph Sonntag
+Johann Carl Heinrich Funke?
+Johann Leberecht Hüfler
+Johnn Gottlob Häufel
+----------------
+1832
+Johann Gottfried Lehmann
+Carl Gottlob Ritter
+Carl Gottfried Lanzsch
+Johann Gottlob Andrä
+Johann Gottlieb Arndt
+Johann Gottlieb Rolle
+Christian Gottlieb Reichel
+----------------
+1833
+Johann Gottfried Weiser
+Johann Gottlieb Hänsel
+Johann Gottlob Kielmayer
+Carl Gottlob Zieger
+Carl Christian Friedrich Pönisch
+----------------
+1834
+Carl Gottlieb Naumann
+Johann Gottfried Weber
+Carl August Fietzsche
+Johann Christian Urban
+1835
+Johann Gottlob Hüfler
+Johann Christian Dörschmann
+----------------
+Johann Friedrich Polster
+Carl Friedrich Frohberg
+Carl Gottfried Jahn
+Carl Gottlieb Reiche
+Gottfried Voigt
+Georg Röder
+Johann Gottlob Fischer
+----------------
+1836
+Johann Gottfried Neidert
+Carl Gottlob Vogel
+Johann Gottfried Schuster
+Johann Gottfried Jentzsch
+Carl Eduard Kühnel
+Carl Heinrich Schindler
+Johann Gottlieb Staude
+----------------
+Johann Gottfried Grusche
+Gottlob Benjamin Münch
+Johann Carl Gottlob Haferland
+Friedrich Wilhelm Wolf
+Carl Gottfried Tränkner
+Johann Gottlob Ostermey
+----------------
+1837
+Johann Gottlob Franke
+Johann Gottfried Beger
+Johann Christian Eichler
+Christian Gottlieb Hummel
+----------------
+1838
+Johann Gottfried Wagner
+Friedrich Wilhelm Schulze
+Carl Gotthelf Lehmann
+Christian Gottlieb Hennig
+Johann Carl Friedrich Zscherpel
+Carl Moritz Wollmann
+----------------
+Johann Gottlob Rösler
+1839
+Johann Gotthelf Schneider
+Johann Gottlieb Klügel
+Christian Gottlieb Frohberg
+Carl Adolph Hüffel

@@ -1,15 +1,16 @@
 Siebenlehn (Buch 8)
-Trauungen 1800-1829
+Trauungen 1800-1839
 https://www.archion.de/de/viewer/churchRegister/289546?pageId=40244159
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stunde
+Erstellt in ca. 2 Stunde
 Mai 2024
 Juli 2024
 Oktober 2024
+Novemeber 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -606,3 +607,228 @@ Carl Gottfried Rößiger
 Johann Salomon Wolf
 Johann Christian Eduard Bitterlich
 Johann Christian Spindler
+----------------
+1830
+Ferdinand August Friedrich
+----------------
+Carl August Hehler
+Carl Wilhelm Schmieder
+Johann Friedrich Reimann
+Friedrich Wilhelm Fischer
+Carl Gottlob Schnerr
+Carl Heinrich Haupt
+Johann Carl Gottlob Rost
+Johann Carl Gottfried Rost
+----------------
+Traugott Leberecht Rost
+Carl Gottlieb Schwenke
+Johann Gottfried Güldner
+Johann Wilhelm Krause
+Johann Carl Wilhelm Schwenke
+Johann Christian Frenzel
+Johann Gotthelf Winkler
+Johann Martin Haller
+----------------
+Johann Jacob Losner
+Carl Gottlob Dämmig
+Johann Georg Köhler
+Carl August Ferdinand Krumbiegel
+1831
+Johann Gottfried Günther
+Friedrich Wilhelm Reinsberg
+Johann Gottlieb Günther
+----------------
+Johann Gottlob Otto
+Carl Gottlob Ruscher
+Johann Gottfried Otto
+Georg Christoph Schmozer
+Johann Carl August Dietrich
+Johann Friedrich August Thomas
+Johann Wilhelm Kumbiegel
+1832
+Carl Eduard Seidel
+----------------
+Friedrich Wilhelm Reinsberg
+Friedrich August Schubert
+Johann Gottlob Wittich
+Friedrich August Ferdinand Kunze
+Johann Carl Felsch
+Johann Carl Gottlieb Mayer
+Ernst Heinrich Moritz Burkhard
+----------------
+Gottlob August Schneider
+Johann Carl Gottlieb Büttner
+Friedrich August Reinhold
+Johann Gottfried Hopfner
+Johann Carl Ludwig Rost
+August Wilhelm Büttner
+Franz Adolph Falkenberger
+Johann Gottlieb Altner
+----------------
+Christian Friedrich Voigt
+Friedrich August Reymann
+Johann Gottfried Krause
+1833
+Carl Friedrich Richter
+Carl Gottlob Wolf
+Albert Springer
+Franz Schlegel
+Ludwig Jacob Heimrich
+----------------
+Carl Gottfried Saupe
+Johann Gottlob Lauenstein
+Heinrich Moritz Lichtenberger
+Johann Gottlob Opitz
+Carl Gotthelf Haupt
+Johann Friedrich Klöpfel
+Carl Gotthelf Talkenberger
+Carl Gottlob Müller
+Ehrenfried Krumbiegel
+----------------
+Carl Gottlob Laudel
+Johann Christian Spindler
+Johann Carl Gotthelf Naupert
+Carl Wilhelm Roßberg
+Friedrich Wilhelm Haupt
+Carl Wilhelm Rieß
+Carl David Moritz Wolf
+Johann Carl Gottlob Thümmel
+----------------
+1834
+Carl Gottlieb Schubert
+Carl Friedrich Göhler
+Carl Gottlob Winkler
+Eduard Georg Philip Seliger
+Johann Gottlob Pietzsch
+Martin Lose
+Johann Gottlob Ehrlich
+Carl Friedrich August Funke
+----------------
+Heinrich Ferdinand Schuppe
+Christian Gotthelf Putzger
+Gottlieb Ferdinand Krause
+Johann Karl August Lauenstein
+Carl August Putzger
+Friedrich Wilhelm Putzger
+Gotthelf Eduard Bauermeister
+Ernst August Kalkoff
+----------------
+1835
+Carl Gottlob Haupt
+Johann Carl Tägler
+Friedrich August Beck
+Johann Peter Groß
+Friedrich Wilhelm Odrich
+Gottlieb Krumbiegel
+Ernst Franz Putzger
+Friedrich Wilhelm Krumbiegel
+Johann Gottfried Leberecht Reichel
+Carl Gottfried Reichel
+----------------
+Johann Ferdinand Wilsdorf
+Carl Moritz Clauß
+Friedrich August Vielmuth
+Carl Gottlieb Ulbrich
+Johann Gottfried Reichel
+Friedrich David Seiler
+Johann Gottlob Opitz
+Carl August Dietrich
+Gottlieb Traugott Schreiber
+----------------
+Johann Gottlob Rost
+1836
+Carl Gottlieb Dietzel
+Johann Leberecht Haubold
+Ernst Julius Wünsch
+Carl Friedrich Weigel
+Johann Gottlob Gabriel Merxer
+Franz Moritz Häuselt
+Carl Gottlob Grunewald
+----------------
+Gottlob Friedrich Doebler
+Christian Carl Heinrich Bauer
+Johann Leberecht Löffler
+Johann Georg Albert
+Johann Carl Gottlieb Stolpe
+Peter Andreas Christoph Dewald
+Carl Gottlob Reich
+Johann Wilhelm Krumbiegel
+----------------
+Gottlob Friedrich Müller
+Friedrich Robert Heymann
+Friedrich Wilhelm Lucius
+Johann Gottfried Pietzsch
+Johann Daniel Dachsel
+Johann Carl Gottfried Starke
+Christian Gottlob Haubold
+Carl Heinrich Schwenke
+Carl Friedrich Metzler
+Carl Gottlob Laudel
+----------------
+1837
+Carl Friedrich Lauenstein
+Johann Carl Gottlob Thümmel
+Carl Wilhelm Reich
+Friedrich Wilhelm Hillig
+Wilhelm Gustav Heine
+Carl Wilhelm Klemm
+Christian Heinrich Kleeberg
+Wilhelm Philip Oppermann
+August Heinrich Beuchel
+Carl August Weiße
+----------------
+Carl August Zeugfang
+Carl August Bretschneider
+Friedrich Traugott Felsch
+Johann Christian Leberecht Dindorf
+Carl Gottlob Riemer
+1838
+Johann Michael Berthold
+Johann Friedrich Nagel
+Christian Ludwig Lauenstein
+----------------
+Carl Friedrich Diezel
+Johann Friedrich Winkler
+Johann Benjamin Hänselt
+Carl Gottlieb Hahnefeld
+Friedrich Wilhelm Ries
+Johann Adam Hopf
+Johann Gottfried Nagel
+Johann Gottfried Stempel
+Carl Gottlieb Leberecht Müller
+Johann Carl Gottlieb Reimer
+----------------
+Ernst Wilhelm Günther
+Johann Jacob Loßner
+Johann Christian Leberecht Rost
+Johann Gottlieb Sonntag
+Ernst Ludwig Schwarz
+Camillo Friedrich Kreyß
+Carl August Graupner
+Carl Julius Ernst Sperling
+Johann Gottfried Triebe
+Carl Wilhelm Haupt
+----------------
+1839
+Johann Carl Gottlieb Schubert
+Johann Gottfried Rüdiger
+Friedrich Wilhelm Rost
+Johann Adam Geipel
+Carl August Helm
+Johann Friedrich August Hampel
+Johann Adam Metzler
+Christian Friedrich Krumbiegel
+Carl Bernhard Fürchtegott Richter
+----------------
+Albert August Walcha
+Carl Gottlob Johne
+August Tugendreich Putzger
+Herrmann Robert Habenicht
+Lothar Valz
+Ernst Heinrich Lommatzsch
+Christian August Meerstein
+Christian Ludwig Lauenstein
+Wilhelm Julius Clauß
+Friedrich August Wilhelm Häusler
+----------------
+Camillo Friedrich Kreyß

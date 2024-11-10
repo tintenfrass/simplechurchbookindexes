@@ -1,5 +1,5 @@
 Sora (Buch 4)
-Trauungen 1799-1829
+Trauungen 1799-1839
 https://www.archion.de/de/viewer/churchRegister/289558?pageId=40245630
 
 
@@ -9,6 +9,7 @@ Mai 2023
 Mai 2024
 Juli 2024
 Oktober 2024
+Novemeber 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -227,3 +228,84 @@ Carl Gottlob Schönhals
 Johann Christian Udolph
 Johann Gottlieb Starke
 Johann Gottlob Nietzsche
+----------------
+1830
+Friedrich Adolph Wilhelm Döring
+Carl Gottlob Hillig
+Johann Traugott Tamme
+Carl Gotthelf Schanz
+Johann Gotthelf Kaltschmidt
+Johann Christian Gottlieb Grundmann
+----------------
+1831
+Carl Gotthelf Krause
+Carl Gottlieb Gabriel
+Friedrich Wilhelm Tamme
+Johann Gottlieb Merbitz
+1832
+Johann Gottlob Kobisch
+Johann Carl Gottlob Müller
+----------------
+Carl Gottlieb Leberecht Weichhold
+August Leberecht Rüdiger
+Carl Gottlieb Pohle
+Heinrich Wilhelm Singer
+1833
+Johann Gottlob Schanz
+Johann Eduard Kiehl
+----------------
+Johann Gottlob Schmidt
+Carl Christoph Steude
+Carl Gottlieb Rüter
+Johann Benjamin Günther
+Ernst Eduard Täger
+1834
+Carl Gotthelf Kunze
+----------------
+Johann Gottlieb Poppe
+Gottlob Leberecht Philipp
+Johann Gotthelf Leberecht Dietze
+Johann Traugott Hillig
+Johann Gottlob Jünger
+----------------
+1835
+Carl August Wilhelm Täger
+Carl Gottlob Börner
+Carl Gottlieb Gebhard
+1836
+Friedrich Adolph Täger
+Carl Gottlob Raabe
+Samuel Gottlieb Kuhnert
+----------------
+Johann Gottlieb Legler
+Carl Gotthelf Jähnig
+Carl Gottlob Funke
+1837
+Friedrich Wilhelm Pinkert
+Johann Gotthelf Heinrich
+Johann Gottlieb Merbitz
+----------------
+Johann Gottfried Leberecht Schubart
+Johann Gottlob Friedrich Klemm
+Johann Carl Gottfried Raabe
+Carl Gottlob Wittig
+Carl Gottlob Ebert
+Gottfried August Pietzsch
+Traugott Leberecht Küttner
+----------------
+August Heinrich Beuchel
+Carl August Schäfer
+1838
+Carl August Thierbach
+Johann Gottfried Metzsching
+Carl Gottlieb Jacob
+Carl Gottlieb Rabis
+----------------
+1839
+Johann Carl Gottlieb Kästner
+Johann August Triebe
+Johann Carl Gottlob Roßberg
+Carl Gottlob Legler
+Johann Salomo Richter
+Carl Traugott Trepte
+Johann Gotthelf Böhme
