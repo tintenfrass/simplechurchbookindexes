@@ -1,5 +1,5 @@
 Weinböhla (Buch 4)
-Trauungen 1801-1829
+Trauungen 1801-1839
 https://www.archion.de/de/viewer/churchRegister/289622?pageId=40256912
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ Erstellt in ca. 1 Stunde
 Mai 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -479,3 +480,181 @@ Johann Gottlob Thiele
 ----------------
 Franz Julius Martini
 Johann Andreas Ssuchy
+1830
+Johann Gottfried Leuteritz
+Johann Gottlob Richter
+Gottlob Zabel
+Daniel Mögel
+----------------
+Gottlob Mohn
+Samuel Seifert
+Christian Stolle
+Johann Gottlob Händel
+Johann Gottlieb Mohn
+Johann Gotthelf Vetter
+Christian Friedrich August Brandt
+----------------
+1831
+Johann Georg Friedrich Werner
+Johann Gottlieb Schneider
+Johann Gottlieb Leumer
+Johann Christian Hempel
+Johann Gottlieb Schütze
+Johann Gotthelf Rühle
+----------------
+Johann Gottlob Naumann
+Traugott Leberecht Rothe
+Gottlieb Mohn
+Johann Gottlieb Illgner
+Christian Gottlieb Weikert
+Johann Gottfried Hecht
+Johann Gotthelf Krause
+----------------
+Johann Carl Gottfried Zocher
+Johann Christian Förster
+Johann Gottfried Schumann
+Johann Gottlob Dietze
+1832
+Gottlob Reiche
+----------------
+Johann Christoph Hanisch
+Johann Gotthelf Zscheile
+Johann Andreas Pyatz
+Johann Gottfried Haase
+Johann Gottfried Bretschneider
+Johann Gottfried Marx
+Johann Christian Bischoff
+----------------
+Johann Gottfried Jahn
+Johann Gottlob Herrmann
+Johann Christian Riemer
+Carl Ludwig Ludwig Schütz
+Christian Hohnstein
+Johann Gottlob Beuchelt
+Johann Christian Hohnstein
+----------------
+Johann Gottlieb Händel
+Friedrich Theodor Martini
+1833
+Carl Gottfried Müller
+Heinrich Moritz Stertz
+----------------
+Carl August Loesch
+Carl Gottlieb Meier
+Johann Gottfried Wittich
+Heinrich Gottlieb Kühn
+Traugott Beuchelt
+----------------
+1834
+Johann Gottlob Mohn
+Carl Gottfried Eichler
+Johann Gottlieb Voigt
+Johann Gottlob Knoblauch
+Friedrich Wilhelm Wagner
+Johann Gottlieb Schütze
+----------------
+Johann Gottfried Schlechte
+Gottfried Schumann
+Johann Gottlieb Bärisch
+Christian Gottfried Andrich
+Karl Gottlieb Schober
+Johann Gottlieb Miesler
+Gottfried Fritzsche
+----------------
+Johann Gottlob Mohn
+Johann Samuel Herrmann
+Johann Samuel Zocher
+1835
+Johann Gottlieb Mohn
+Carl Gottlob Kirsten
+Johann Gottfried Naumann
+Samuel Marx
+----------------
+Johann Gotthelf Schlechte
+Johann Gottlob Beger
+Johann Gottlob Spieler
+Johann Gotthelf Birnstengel
+Johann Gottlob Heinrich Martin
+Christian Gottfried Herrmann
+Johann Gottfried Ernst Humpisch
+Johann Gottfried Thieme
+Johann Christian Schneider
+----------------
+Carl Gottlieb Sommer
+Johann Christian David Bärisch
+Johann Gottlieb Haußmann
+Johann Gottfried Seifert
+----------------
+1836
+Johann Christian Obenaus
+Johann Gottfried Hohenstein
+Johann Christian Herrmann
+Johann Michael Schumann
+Johann Gotthelf Fiichtner
+Johann Carl Gottlob Reber
+Johann Gottfried Haupt
+Johann Gottlob Ballmann
+Johann Gottfried Platz
+----------------
+Carl Gottlieb Küchenmeister
+Johann Michael Joseph
+Johann Gottfried Rothe
+Johann Gottfried Jacob
+Johann Gottfried Seifert
+Johann Carl Gottfried Strehle
+Johann Gottlob Fichtner
+Johann Christian Tamme
+Johann Gotthelf Schlechte
+Johann Carl Gottlob Seidel
+----------------
+1837
+Johann Christian Herrmann
+Friedrich August Klau
+Carl Gottlieb Wendsche
+Johann Christian Große
+Johann Christian Bäsler
+Johann Gottlob Schubert
+Johann Christian Koitzsch
+Johann Gottlob Leunert
+Ferdinand Leberecht Schubert
+----------------
+Johann Gottfried Hartmann
+Johann Gottlob Roeder
+Johann Friedrich Seifert
+1838
+Johann Gottfried Marx
+Johann Gottlob Hänisch
+Johann David Kretzschmar
+Johann Gotthelf Beulich
+----------------
+Friedrich Gotthelf Müller
+Johann Traugott Zschaber
+Adolph Eduard Proelß
+Carl Friedrich Schmidt
+Christian Eichler
+Johann Gottlob Richter
+Johann Gottlieb Schneider
+----------------
+Johann Gottfried Melzer
+Gottlob Starke
+Johann Heinrich Goeckritz
+Carl Gottfried Wahl
+Johann Georg Gommlich
+----------------
+1839
+Johann Gottlieb Mohn
+Johann Gottfried Zabel
+Johann Gottlob Thiele
+Johann Carl Gottlob Müller
+Johann Gottfried Finke
+Carl Gottfried Poch
+Carl Gottlob Haase
+Johann Gottfried Glauche
+----------------
+Johann Gotthelf Naumann
+Johann Christian Gottlob Nitsche
+Johann Gottfried Bergmann
+Johann Gotthelf Klunker
+Johann Gottlob Scheiblich
+Johann Christian Haase
+Johann Gottfried Seifert

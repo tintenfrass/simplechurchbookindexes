@@ -1,5 +1,5 @@
 Wendischbora (Buch 3)
-Trauungen 1801-1829
+Trauungen 1801-1837
 https://www.archion.de/de/viewer/churchRegister/289653?pageId=40262133
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Mai 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -282,3 +283,65 @@ Johann Wilhelm Paul
 Johann Gottlob Fischer
 Johann Gotthelf Roesger
 Karl Gottlob Graf
+----------------
+1830
+Johann Karl Gottlob Naumann
+Karl August Thiemig
+Karl Wilhelm Paerisch
+----------------
+1831
+Johann Gottlob Opitz
+Johann Gottlob Streller
+Johann August Kretzschmar
+Christlieb Ehregott Gappisch
+Karl Friedrich Lautel
+----------------
+Christoph Friedrich Schnaer
+Johann Karl Friedrich Naumann
+Karl Gottlob Paul
+Johann Leberecht Holtz
+----------------
+1832
+Johann Gottlob Johne
+Johann Gotthelf Schumann
+Karl August Gürtler
+Johann Georg Otto
+Johann Friedrich Wilhelm Wiesner
+Johann Traugott Leberecht Döring
+Johann Gottfried Beger
+----------------
+Karl Friedrich Naumann
+Karl Friedrich Streller
+1833
+Karl Gottlieb Gebhardt
+Johann Christian Krumbiegel
+Karl Gottlieb Wolf
+Karl Gottlieb Ficke
+Johann August Clauß
+----------------
+Karl Gottlieb Schubart
+Karl Gottlieb Streller
+1834
+Karl Gottfried Horn
+Christoph Heinrich Hunger
+----------------
+Carl Heinrich Lindner
+1835
+Friedrich August Beck
+Johann Gottlieb Schumann
+Traugott Leberecht Gühne
+Johann Gottfried Ekelmann
+1836
+Johann Wolf
+----------------
+Johann Gottlob Faust
+Johann Gottfried Arnold
+Carl Ferdinand Ulrich
+Johann Gottfried Weber
+Gottlob Adam Liebezeit
+Friedrich Herrmann Geudtner
+----------------
+1837
+Gottfried Leberecht Poetzsch
+Carl Gottlieb Winkler
+Carl Gottlob Barth
