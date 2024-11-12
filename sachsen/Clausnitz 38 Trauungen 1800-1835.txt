@@ -1,5 +1,5 @@
 Clausnitz (Buch 38)
-Trauungen 1800-1829
+Trauungen 1800-1835
 https://www.archion.de/de/viewer/churchRegister/340836?pageId=47871545
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 1 Stunde
 Mai 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -414,3 +415,97 @@ Samuel Gottlieb Schneider
 Christian Gottlob Müller
 Gottlob Friedrich Lohse
 Gottlob Friedrich Morgenstern
+1830
+Johann Gottlob Seyfert
+Gottlieb Friedrich Lippmann
+----------------
+Christian Friedrich Müller
+August Friedrich Müller
+Johann Gottlieb Heinrich
+Carl Friedrich Müller
+Friedrich Traugott Löwe
+Gottlob Leberecht Erler
+----------------
+Christian Friedrich Diehnel
+Carl Gottlob Weidensdörfer
+1831
+Johann Gottlob Lippmann
+Friedrich Wilhelm Beilicke
+Christian Friedrich Kesemadel
+Carl Gottlob Beckert
+----------------
+Samuel Friedrich Clausnitzer
+Adam Friedrich Erler
+Christian Gottlieb Fuchs
+Gotthelf Friedrich Schlegel
+Christian Friedrich Glöckner
+Friedrich Fürchtegott Rupprecht
+----------------
+Gottlob Friedrich Werner
+Gottlob Friedrich Heerklotz
+1832
+Johann Gottlieb Mirsch
+Friedrich Fürchtegott Wagner
+Gottlob Friedrich Hampel
+----------------
+Carl Jacob Hornickel
+Adolph Moritz Schaarschmidt
+Johann Gottlob Zemmrich
+Carl Gottlob Thierisch
+Christian Friedrich Hauschild //durchgestrichen
+Carl Gottlob Kempe
+----------------
+Friedrich Traugott Göhler
+1833
+Christian Friedrich Hauschild
+Carl Friedrich Köhler
+Traugott Friedrich Arnhold
+Gotthelf Friedrich Zemmrich
+August Friedrich Matthes
+----------------
+Gottlob Carl Friedrich Göpfert
+Gotthelf Friedrich Einhorn
+Traugott Friedrich Seifert
+Traugott Leberecht Neubert
+August Friedrich Zemmrich
+Carl Gottlob Gehmlich
+----------------
+1834
+Gottlob Friedrich Lippmann
+Johann Gottfried Fischer
+Samuel Gottlieb Schneider
+Christian Friedrich Matthes
+Traugott Friedrich Lippmann
+Adam Friedrich Lohse
+Johann Christoph Tanneberger
+----------------
+Carl Gottlieb Oehme
+Johann Samuel Mende
+Carl Friedrich Steinert
+Traugott Friedrich Schlegel
+Carl August Hegewald
+Johann Christian Friedrich Richter
+Johann Ehregott Schönherr
+----------------
+1835
+Carl Gottlieb Göhler
+Carl Traugott Zemmrich
+Carl Gottlieb Müller
+August Friedrich Wagner
+Johann Gottlob Lehmann
+Gottlob Friedrich Morgenstern
+----------------
+Gottlob Leberecht Kümmer
+Christian Gottlieb Herklotz
+Friedrich Fürchtegott Wagner
+Friedrich Fürchtegott Ihle
+Carl Gottlieb Schlegel
+Gottlob Friedrich Müller
+Traugott Friedrich Lippmann
+----------------
+Gottlob Friedrich Lippmann
+Adam Traugott Wagner
+Carl Gottlieb Winkler
+Friedrich Ehregott Müller
+Christian Gottlieb Hebert
+Johann Georg Morgenstern

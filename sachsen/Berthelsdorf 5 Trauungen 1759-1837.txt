@@ -1,5 +1,5 @@
 Berthelsdorf (Buch 5)
-Trauungen 1759-1829
+Trauungen 1759-1837
 https://www.archion.de/de/viewer/churchRegister/340797?pageId=47865152
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -10,11 +10,12 @@ Teil 1: Trauungen in Berthelsdorf
 Teil 2: Auswärtige Trauungen
 
 
-Erstellt in ca. 2,5 Stunden
+Erstellt in ca. 3 Stunden
 Oktober 2023
 Mai 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -832,7 +833,103 @@ Carl Gottfried Pflugbeil
 Israel Uhlemann
 ----------------
 Carl Gottlob Mehlig
----------------- x16
+1830
+Johann Samuel Schiffel
+Gottlieb Friedrich Wahl
+Johann Gottfried Hegewald
+Gottfried Uhlig
+----------------
+Ehregott David Sachse
+Johann Gottlieb Köhler
+Carl Gottlob Loose
+Friedrich Fürchtegott Biber
+1831
+Carl Gottfried Arnhold
+Carl August Haupt
+----------------
+Carl Friedrich Sandig
+Johann Gottfried Zeller
+Christian Gottlieb Biber
+Carl Gottlieb Bellmann
+1832
+Johann Traugott Müller
+Johann Carl Traugott Bellmann
+Carl August Martin
+----------------
+Carl Gottlob Dietze
+Johann Traugott Börner
+Carl Traugott Schiffel
+Karl Gottlob Fleischer
+Benjamin Friedrich Schwinger
+----------------
+Carl Gottlob Keil
+August Friedrich Mältzer
+1833
+Christian Gottlieb Ziller
+Carl Friedrich Dittrich
+Friedrich Wilhelm Illgen
+----------------
+Carl Heinrich August Straßburger
+Johann Ehregott Kaden
+Carl Gottlob Erler
+Christian Friedrich Dittrich
+1834
+Carl Gottlob Zimmermann
+Johann Christian Friedrich Morgenstern
+----------------
+Christian Friedrich Gottlieb Dietrich
+Carl Gottlieb Fischer
+Gotthelf Friedrich Neubert
+Benjamin Friedrich Uhlemann
+Ferdinand Friedrich Säuberlich
+Carl Gottlieb Geisler
+----------------
+Carl Gottlieb Trinks
+Johann Carl August Wolf
+Johann Georg Lehmann
+Traugott Leberecht Bellmann
+Carl Friedrich Hegewald
+----------------
+Eduard Moritz Timmel
+Johann Christoph Lange
+Samuel Friedrich Muster
+1835
+Carl Traugott Kandler
+Johann Samuel Hoyer
+Christian Friedrich Klemm
+----------------
+Christian Gottfried Horn
+Johann David Hunig
+Johann Heinrich Gottfried Richter
+Carl Gottlieb Glaß
+----------------
+Gotthelf Friedrich Haupt
+Johann Gottlieb Schenke
+1836
+Carl Friedrich Auerbach
+Johann Traugott Keil
+----------------
+Carl Gottlob Mäcke
+Carl Heinrich Lehnert
+Christian Friedrich Wilhelm Stoll
+Samuel Friedrich Heinzmann
+----------------
+Christoph Adam Auerbach
+Johann Carl Gottlob Walther
+August Ferdinand Köhler
+Eduard Moritz Henker
+----------------
+1837
+Carl Gottlieb Richter
+Friedrich August Sterl
+Traugott Leberecht Zimmermann
+----------------
+Friedrich Gottlieb Wahl
+Johann Gottlob Zeller
+Friedrich Ehregott Wolf
+Carl Gottlieb May
+----------------
+----------------
 1759
 Carl Gottlieb Zimmermann
 Christoph Böhme

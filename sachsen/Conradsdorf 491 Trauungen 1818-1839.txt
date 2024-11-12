@@ -1,5 +1,5 @@
 Conradsdorf (Buch 491)
-Trauungen 1818-1829
+Trauungen 1818-1839
 https://www.archion.de/de/viewer/churchRegister/340854?pageId=47875286
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -310,3 +311,237 @@ Carl Gottfried Bernhard
 Johann Gottlieb Mehnert
 ----------------
 Johann August Sparmann
+1830
+Carl David Hammer
+Johann Gottlieb Böhme
+----------------
+August Gottlob Ludewig
+Gotthelf August Schienbold
+Johann Gottlob Wagner
+Carl August Böhme
+----------------
+Friedrich August Haupt
+Johann Gottfried Fischer
+Carl Gottfried Reichardt
+Johann Carl Traugott Seiffert
+----------------
+Carl Friedrich Lohse
+Carl Gotthelf Schmidt
+1831
+Carl Gottlieb Franke
+Gotthelf Leberecht Falke
+----------------
+Carl Gottlieb Lehnert
+Carl August Dachselt
+Carl Gottfried Candler
+Johann Gottlob Totterwitz
+Carl Gotthelf Sterl
+----------------
+Johann Moritz Schneider
+Carl Gotthelf Schulze
+Julius Eduard Hedenus
+----------------
+Carl Gottfried Hachenberger
+Carl Friedrich Müller
+Carl Traugott Küchenmeister
+----------------
+August Wilhelm Schelzig
+1832
+Johann Samuel Venus
+Carl Gotthelf Oppelt
+Carl Gottfried Thürmer
+----------------
+Johann Samuel Dachsel
+Carl Gotthelf Griesbach
+Carl Gottlieb Dachselt
+Carl Benjamin Schaarschuch
+Johann Gottfried Dachselt
+----------------
+Johann Traugott Kunze
+Carl Gottlob Schroot
+Johann Gottlieb Fischer
+Carl Gottlob Hübler
+----------------
+Carl Gottfried Rudolph
+Johann August Schmidt
+Johann Gottfried Lippmann
+Johann Gottlob Wollmann
+Carl Gottlieb Trinks
+----------------
+Carl Samuel Bachmann
+Johann Gottfried Berger
+August Gotthelf Schubert
+Johann Gottfried Frenzel
+----------------
+1833
+Carl Gottlieb Zimmer
+Johann Gottfried Goldschmidt
+Carl Gottfried Zimmer
+Carl August Liebscher
+----------------
+Carl Gottlob Feldmann
+Friedrich Moritz Seyffert
+Christian Traugott Reiche
+Carl Gottlieb Dittrich
+----------------
+Carl Gottlieb Büttner
+Heinrich Wilhelm Kaltofen
+Carl Gottlieb Weber
+Gotthelf Friedrich Kühn
+----------------
+Heinrich Moritz Gemlich
+Carl Gottlieb Wolff
+Carl Gottlieb Krumbiegel
+Carl August Franz
+Carl Gottfried August Hübler
+----------------
+Johann Gottlieb Leberecht Kirchner
+Gotthelf Wilhelm Zeinert
+1834
+Traugott Leberecht Wollmann
+Carl Gottlob Claußnitzer
+----------------
+Friedrich August Venus
+Carl Gottlieb Horn
+Carl Gotthelf Glöckner
+Johann Gotthelf Schulze
+----------------
+Carl Gottlieb Rüdiger
+Paul Gottfried Schubert
+Ernst Leberecht Schelzig
+----------------
+Johann Heinrich Wiesner
+Friedrich Joseph Weber
+Carl Gottlieb Birndt
+Carl Heinrich Hanschmann
+----------------
+Johann Friedrich Walther
+Johann Daniel Scheunpflug
+Carl Gottfried Kirchner
+Gottfried Müller
+----------------
+Carl Gottlob Heinrich
+David Israel Band
+Friedrich Traugott Ihle
+Carl Gottlob Ihle
+----------------
+Carl Gottlieb Kretzschmar
+1835
+Carl Gottlob Bachmann
+Carl Gotthelf August Böhme
+Johann Gotthelf Naumann
+----------------
+Johann Traugott Ohndorf
+Friedrich Wilhelm Stoerzel
+Carl Gotthelf Lange
+Carl Gotthelf Schmidt
+----------------
+Cuno Richter
+Carl Gottfried Hedrich
+Carl Gottlob Liebscher
+Carl Friedrich Walther
+----------------
+Johann Gottlob Reichler
+Johann Christoph Dienelt
+Carl Gotthelf Heinrich
+Ernst Heinrich Wolf
+----------------
+Carl August Friedrich Zimmermann
+Friedrich Wilhelm Keßler
+Carl Friedrich Petzold
+Friedrich August Sacher
+----------------
+Friedrich August Wagner
+Friedrich August Venus
+Johann Gottlob Richter
+----------------
+1836
+Carl Gottlob Kade
+Carl Gottfried Weichelt
+Carl August Töppner
+Carl August Braune
+Johann Georg Küchenmeister
+Christian Friedrich Mehnert
+Carl Gottfried Wunderwald
+----------------
+Christian Gottlob Hofmann
+Carl Gotthelf Ludewig
+Johann Gottlieb Richter
+Johann Gotthelf Schubert
+Karl Gottlob Schmidt
+Traugott Leberecht John
+----------------
+Johann Gottlieb Griesbach
+Carl Israel Griesbach
+Moritz Fürchtegott Trinks
+Carl Gotthelf Hachenberger
+1837
+Johann Christlieb Goldbach
+----------------
+Karl Gottlob Jäpelt
+Karl Gottlob Dietze
+Karl Gottlieb Reh
+Traugott Leberecht Schubert
+----------------
+Wilhelm Ferdinand Trinks
+Ernst Gottlob Limbach
+Lobegott Ehrenfried Mätzler
+Carl Wilhelm Griesbach
+----------------
+Johann Traugott Hilbrig
+Carl Friedrich Lehnert
+Johann Christian Hachenberger
+Johann August Zschöckel
+----------------
+Carl August Dietrich
+Carl Ehregott Schubert
+Carl Gottlob Ludwig
+----------------
+1838
+Carl Gottlieb Wollmann
+August Friedrich Hofmann
+Carl Gottlieb Bachmann
+Johann Carl Gottlob Kühn
+----------------
+Carl Gotthelf Drechsler
+Johann Gottlieb Schubert
+Christian Adolph Lobegott Börner
+Johann Carl Traugott Seifert
+----------------
+Carl Gottlieb Köhler
+Johann Gotthelf Harzbecker
+Friedrich Constantin Erttel
+----------------
+Carl Gottlieb Bellmann
+Johann Traugott Richter
+Carl August Müller
+----------------
+Johann Carl Gottlieb Müller
+Ernst Wilhelm Liebscher
+Friedrich Gottlob Hahmann
+----------------
+1839
+Johann Gottlob Hähnel
+Carl Gottfried Ebert
+Carl Gottlieb Schulze
+Carl Gottlob Streller
+----------------
+Carl Wilhelm Mende
+Johann Ehregott Wilhelm Schier
+Peter Heldt
+Johann August Oppelt
+----------------
+Carl Gottlieb Richter
+Friedrich Ferdinand Schlitter
+Carl Gottlob Friedrich Lohse
+Carl Gottlieb Schmidt
+----------------
+Carl Gottlob Barthel
+Johann Traugott Leberecht Hübler
+Carl August Gottlieb Forberger //Vorwerk
+Carl Christlieb Drechsler
+----------------
+Friedrich Wilhelm Horn
+Gotthelf August Fritzsche
+Carl August Krätzer
+Johann Friedrich Schesauer
