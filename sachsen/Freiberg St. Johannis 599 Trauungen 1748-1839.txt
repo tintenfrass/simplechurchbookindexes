@@ -1,16 +1,17 @@
 Freiberg St. Johannis (Buch 599)
-Trauungen 1748-1829
+Trauungen 1748-1839
 https://www.archion.de/de/viewer/churchRegister/341064?pageId=47913243
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 2 Stunden
+Erstellt in ca. 2,5 Stunden
 Oktober 2023
 Mai 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1008,3 +1009,183 @@ Johann Ehregott Oesterich
 Carl August Ritter
 ----------------
 Johann Gottlieb Tümmrich
+----------------
+1830
+Christian Friedrich Hengst
+Johann Gottfried Fritzsche
+August Friedrich Metzler
+Friedrich August Hengst
+----------------
+Carl August Wenzel
+August Ferdinand Meißner
+Johann August Fischer
+Johann Samuel Ebelt
+----------------
+Franz Johann Neubert
+----------------
+1831
+Carl Dankegott Küttner
+Traugott Friedrich Zein
+Gottlob Friedrich Fischer
+Gustav Richard Hedenus
+----------------
+Heinrich Eduard Röhling
+Carl Gottlob Traugott Franke
+Friedrich August Wetzel
+Friedrich Eduard Heil
+----------------
+Friedrich Gotthelf Pilz
+----------------
+1832
+Carl Gottlieb Halfter
+Carl Gottlieb Börner
+Gottlob Friedrich Müller
+Carl Friedrich Freyer
+----------------
+Carl Gottlob Werker
+Johann Gottlob Horn
+Carl Gottfried Borckhardt
+Carl Gottlob Fischer
+----------------
+Heinrich Friedrich Fleischer
+Christian Friedrich Göhler
+Carl Gottlob Teuchert
+Carl Gottfried Schneider
+----------------
+Christian Fürchtegott Hölzel
+August Berthold
+Carl August Berger
+Carl Friedrich Müller
+----------------
+Johann Gottlob Friedrich Just
+Carl Gottlieb Helbig
+Michael Schnabel
+Johann Carl Gottlob Weichelt
+----------------
+1833
+Carl Friedrich Kunze
+Carl Gottlieb Einert
+Samuel Friedrich Kirsch
+August Friedrich Jobst
+----------------
+Carl Salomo Roll
+Carl Friedrich Ehregott Herrmann
+Wilhelm Leberecht Hoyer
+Gottlob Wilhelm Geißler
+----------------
+Johann Friedrich Mehlig
+Moritz Theodor Weisner
+Johann Daniel Friedrich Meitzner
+Carl Friedrich Heyne
+----------------
+Friedrich Wilhelm Kirbach
+Christian Friedrich Werner
+Christian Friedrich Schiffel
+Johann Samuel Kaiser
+----------------
+Christian Friedrich Jobst
+Johann Traugott Teuchert
+Carl Gottfried John
+Fürchtegott Leberecht Hoyer
+----------------
+Johann Daniel Selle
+----------------
+1834
+Friedrich August Siegert
+Carl Gottlob Krumpfer
+Johann August Blume
+Carl August Franke
+----------------
+Johann Gottlieb Butter
+Ernst Julius Geißler
+Friedrich Wilhelm Imhof
+Carl Gottlieb Horn
+----------------
+Johann Daniel Friedrich Meitzner
+Carl Gottlieb Störzel
+Carl Gottlieb Ehregott Franke
+Johann Gotthelf Leberecht Renkewitz
+----------------
+Carl Gottlob Fischer
+----------------
+1835
+Carl Gottfried Krämer
+Carl Leberecht Lehnert
+Christian Friedrich John
+----------------
+Carl August Richter
+Carl Gottfried Krause
+Gustav Adolph Werner
+Carl Gottlieb Schütze
+----------------
+Friedrich Werner
+Ehregott Wilhelm Gründler
+Carl August Hennig
+Carl Gottlob Lohse
+----------------
+Christian Traugott Körbach
+Carl Gottlieb Trauzold
+Gottlieb Friedrich Auerbach
+Carl Gottlob Birndt
+----------------
+1836
+August Wilhelm Wagner
+Carl Gotthelf Maukisch
+Friedrich August Büchling
+Carl August Wilhelm Schubert
+----------------
+Ernst Moritz Müller
+Eduard Ferdinand Scheidhauer
+Johann Georg Leberecht Gößel
+Carl August Wilhelm Reh
+----------------
+Johann August Metzler
+Carl Gottlieb Börner
+Johann Carl Gottlob Walther
+Johann Christian Voigt
+----------------
+1837
+Friedrich Eduard Etter
+Carl Samuel Fischer
+Carl Christian August Musch
+Friedrich August Walther
+----------------
+Johann Gottlob Hallfarth
+Johann Michael Zickmantel
+Johann Christian Gruhlig
+Carl Gottlob Drechsler
+----------------
+Johann Samuel Porstein
+Johann Carl August Enold
+Gotthelf Friedrich Thomas
+Karl Gottlieb Franke
+----------------
+1838
+Karl Gottlob Haubold
+Friedrich Wilhelm Rößiger
+Johann Gottlob Köhler
+Johann Gottlob Krause
+----------------
+August Ferdinand Köhler
+Johann Gottlob Klotz
+----------------
+1839
+Eduard Julius Dittrich
+Johann Gottlieb Butter
+Johann Gotthelf Leberecht Renkewitz
+Ehregott Friedrich Starcke
+----------------
+Christian Friedrich Schiffel
+August Friedrich Ihle
+Karl Friedrich Henker
+Johann Christian Friedrich Richter
+----------------
+Carl Samuel Wilhelm Glöckner
+Johann Gottlieb Kluge
+Carl August Friedrich Wenzel
+Christian Friedrich Zschoke
+Herrmann Gottlob Julius Ulm
+----------------
+Johann Christian Schroth
+Gotthelf August Fritzsche
+Christian Wilhelm Richter

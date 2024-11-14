@@ -1,5 +1,5 @@
 Freiberg Dom St. Marien (Buch 523)
-Trauungen 1801-1829
+Trauungen 1801-1833
 https://www.archion.de/de/viewer/churchRegister/340986?pageId=47900039
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 2 Stunde
 Mai 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -953,3 +954,163 @@ Carl Ludwig Montag
 Amandus Heinrich Moritz Fritzsche
 Johann Gottlieb Mende
 Friedrich Gotthold Müller
+----------------
+1830
+Christian Heinrich Müller
+Wilhelm Eduard Hermsdorf
+Friedrich August Helmert
+Gotthelf Friedrich Schirmer
+Carl Friedrich Leonhardt
+----------------
+Carl Ferdinand Winkler
+Julius August Schlichling
+Johann Eduard Klengel
+Carl August Oelschlägel
+----------------
+Carl Friedrich Schürer
+Johann Eduard Heuchler
+Johann Christoph Gauditz
+Friedrich Wilhelm Tränkner
+----------------
+Gotthelf Heinrich Göhlert
+Johann Gottfried Kaltofen
+Johann Heinrich Grünewald
+August Ferdinand Meißner
+----------------
+Carl Adolph Krause
+Johann David Rothe
+Julius Bernhardt Fromberg
+----------------
+Friedrich Ferdinand Fischer
+Ernst Traugott Görne
+Franz Eduard Rößler
+Carl Christian Friedrich Keller
+----------------
+Johann Gottfried Göhler
+Johann Gottlob Mammitzsch
+Carl August Goldbach
+Gustav Adolph Ost
+----------------
+Gottfried Traugott Gersdorf
+Christian Friedrich Arnold
+Johann Gotthelf Händel
+----------------
+1831
+Traugott Wilhelm Zocher
+Carl Wilhelm Heinrich Ranft
+Carl Dankegott Küttner
+Christian Gotthelf Griesbach
+Rudolph Moritz Sieghardt
+Carl Friedrich Pförtner
+----------------
+Gustav Michael Hedenus
+Bernhard Friedrich Theodor Heinze
+Christian Friedrich Kraut
+Johann Gottlieb Stein
+Johann Friedrich Fischer
+Johann Michael Hofmann
+----------------
+Christian Heinrich Körbach
+Christian Friedrich Krell
+Carl Gottlob Schaarschmidt
+Gottlieb August Weber
+Johann Ferdinand Martin
+Wilhelm Friedrich Merkel
+Gottlob Leberecht Neumann
+----------------
+Georg Adolph Albert
+Johann Carl August Lorenz
+Johann Moritz Schneider
+Johann Carl Gottlieb Thorschmidt
+Julius Eduard Hedenus
+August Leberecht Nagel
+----------------
+Friedrich Wilhelm Schmidt
+Johann Julius Eduard Schreyer
+Carl Ludwig Meltzer
+Carl Robert Mühlhaußen
+Friedrich Franz Burich
+----------------
+1832
+Friedrich Moritz Herrmann
+Gottfried Samuel Wähnert
+Carl Adolph Schönherr
+Friedrich August Naumann
+----------------
+Carl Christian Friedrich Schiffler
+Carl Traugott Kraut
+Carl Friedrich Stein
+Johann Gottlieb Diecke
+Friedrich Eduard Rudolph Werneck
+----------------
+Christian Rudolph Erdmann
+Friedrich August Kotzsch
+Friedrich August Klengel
+Carl August Jahn
+Johann Carl Gottfried Wilhelm
+----------------
+Carl Gottfried Bernhard
+Carl Gottlieb Oertel
+Christian Gottlob Klemm
+Andreas Erdmann Bensel
+Friedrich August Ferdinand Kunz
+Carl Friedrich August Seyfert
+----------------
+Johann Friedrich Fischer
+Carl Friedrich August Lange
+Johann Carl Gottlieb Heber
+Adolph Benjamin Eydam
+Johann Paul Christoph Sandig
+----------------
+Carl August Berger
+Anton Eduard Federkiehl
+Johann August Imhof
+Carl Friedrich Müller
+August Friedrich Hänel
+----------------
+Johann David Döhler
+August Friedrich Brendel
+----------------
+1833
+Johann Gottfried Samuel Klengel
+August Benjamin Geißler
+Carl August August Krause
+Friedrich Benjamin Eduard Krause
+Johann Friedrich Gäbelt
+----------------
+Johann Gottlieb Techert
+Carl Friedrich Gottlob Freisleben
+Carl Christoph Zschocke
+August Zehl
+Heinrich Ernst Dettmar
+----------------
+Fürchtegott Friedrich Richter
+Johann Gottlieb Voigt
+Carl Gottlob Kaden
+Johann Friedrich Gottlob Braune
+Georg Robert Bauer
+Christoph Ludwig Bartlau
+----------------
+Carl Gottlob Straßberger
+Carl Wilhelm Schumann
+Carl August Bemmann
+Carl Wilhelm Schmidt
+Gottlob Börner
+Johann David Fischer
+----------------
+Johann Gottlob Hedrich
+Gustav Bursian
+Carl Heinrich Winckler
+August Friedrich Erler
+Carl Siegismund August Müller
+Friedrich August Langer
+----------------
+Ernst Rudolph Warnsdorf
+Carl August Curtius
+Samuel Friedrich Rösiger
+Friedrich Samuel Hensel
+Carl Heinrich August Fischer
+----------------
+Carl Friedrich Braun
+Christoph Friedrich Nobst
+Julius Weisbach
