@@ -1,15 +1,16 @@
 Großschirma (Buch 740)
-Trauungen 1800-1829
+Trauungen 1800-1839
 https://www.archion.de/de/viewer/churchRegister/359805?pageId=50660939
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 2,5 Stunden
+Erstellt in ca. 3 Stunden
 Mai 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1385,3 +1386,441 @@ Karl Friedrich Leberecht Wolf
 August Friedrich Dietze
 Karl Wolfgang Hoffmann
 Adam Friedrich Otto
+----------------
+1830
+Traugott Leberecht Ufer
+Johann August Beckert
+Karl Gottlieb Friedrich Wätzig
+Johann Gottlieb Schubert
+Karl Christoph Heidrich
+Karl Gottlob Kreysig
+Karl Gottlieb Weinhold
+----------------
+Karl Gottlieb Sterl
+Gotthelf Leberecht Winkler
+Karl Gottlob Winterlich
+Karl Friedrich Weicher
+Johann Gottfried Schneider
+Johann Traugott Müller
+Johann Karl Gottlob Rost
+----------------
+August Wilhelm Böhme
+David Friedrich Hunger
+Johann Leberecht Traugott Lohse
+Johann Karl Gottlieb Lantsch
+Christian Friedrich Lippmann
+Karl Gottfried Fischer
+----------------
+Karl Gottfried Butze
+August Leberecht Rädel
+Gottlieb Ehregott Uhlich
+Johann Gottlob Scheinpflug
+Christian Friedrich Händel
+Gotthold Friedrich Heumann
+----------------
+Johann Gotthelf Voigt
+August Friedrich Busch
+Karl Gottfried Weiher
+Karl Gottfried Glöckner
+Karl Gottlob Beckert
+August Friedrich Metzler
+----------------
+1831
+Karl Gottlieb Jähler
+Gotthold Friedrich Wätzig
+Johann Gottlieb Rädel
+Karl Gottlieb Störl
+Karl Gottfried Klemm
+Karl Gottlieb Heerklotz
+Johann Gottfried Raffelt
+----------------
+Traugott Leberecht Kaiser
+Karl Leberecht Galffer
+Karl Heinrich Ferdinand Johannes
+Johann Gottfried Erler
+Christian Friedrich Kraut
+Johann Gottlob Wolf
+----------------
+Karl Christoph Seyfert
+Karl Ferdinand Glöckner
+Traugott Friedrich Bernd
+Gottlob Friedrich Latur?
+Johann Gottlieb Steude
+Friedrich Wilhelm Gierisch
+----------------
+Johann Karl Gottfried Schönberg
+Gotthelf Herklotz
+Friedrich Salomo Vogel
+August Friedrich Dietze
+Gottlob Uhlig
+Johann Traugott Talkenberg
+Karl Gottlieb Jänichen
+----------------
+Friedrich August Ölschlägel
+Johann Friedrich Imhof
+Johann Gotthelf Wustig
+Fürchtegott Leberecht Hofmann
+Johann Christian Schönberg
+Karl August Büttner
+----------------
+Johann Gotthelf Paul
+Friedrich Ernst Dorn
+Friedrich Wilhelm Jänike
+Karl Gottlob Richter
+Karl Gottfried Milke
+Karl Gottfried Hachenberger
+----------------
+Karl Adolph Öhme
+Johann Gottfried Wolf
+Karl Gottlieb Ehregott Krumpfert
+Johann Gottfried Pinkert
+Christian Putscher
+Karl Friedrich Küchenmeister
+----------------
+Karl Gottlieb Eidam
+Johann Gottlob Franke
+Karl Gottlieb Schlicke
+August Friedrich Weichold
+Johann Gottlob Schiffel
+1832
+Karl August Meutzner
+Gottlob Friedrich Dietze
+----------------
+Karl Ehregott Voigt
+August Friedrich Weiher
+Johann Daniel Berthold
+Johann Gottlieb Knäbel
+Karl Gottfried Zschomer
+Karl Gottlieb Bormann
+Johann David Pönitz
+Daniel Friedrich Rolle
+Ehregott Friedrich Emrich
+Karl Gottlob Steude
+----------------
+Carl Gottlieb Kaden
+Gotthelf Friedrich Ufer
+August Friedrich Scheunpflug
+Karl Traugott Lippmann
+Karl Christoph Uhlig
+Carl Gottlob Samuel Hegewald
+Carl Gottfried Hammermüller
+Carl Friedrich Schubert
+Carl Gottlieb Sterl
+Johann Gottlob Winterlich
+----------------
+Johann Gotthelf Lantsch
+Carl Gottlob Dietze
+Gotthelf Friedrich Wätzig
+Johann Gottlieb Limbach
+August Friedrich Winterlich
+Ehregott Krumbiegel
+Christian Gotthelf Köhler
+Salmono Dietze
+Ephraim Gottlieb Schindler
+----------------
+Carl Gottlieb Franke
+Wilhelm Friedrich Heidrich
+Christian Friedrich Winterlich
+Ernst Daniel Oehme
+Christian Friedrich Traugott Löwe
+Carl August Findeisen
+Johann Friedrich Traugott Dietze
+Johann Christian Friedrich Fischer
+----------------
+1833
+Johann Gotthelf Raum
+Johann Traugott Stenker
+Johann Gottfried Kobitzsch
+Christian Friedrich Voigt
+Carl Friedrich Wunderwald
+Carl Gottlob Plee
+----------------
+Johann Michael Kunze
+Carl Gottlob Fischer
+Carl Gottlob Beger
+August Friedrich Wenzel
+August Wilhelm Obendorf
+Carl Gottlob Köthling
+August Friedrich Beier
+----------------
+Christian Friedrich Tränkner
+Johann Carl Gottfried Gebhardt
+Christian August Lesch
+Johann David Roßberg
+Friedrich Wilhelm Henker
+Carl Gottlob Schmieder
+Johann Gottlob Schüller
+----------------
+David Friedrich Straßburger
+Christian Friedrich Jobst
+Carl Gottlob Kreißig
+Johann Carl Traugott Geißler
+Ernst Wilhelm Schlenkrich
+Johann Christian Spindler
+----------------
+Johann Michael Klaußnitzer
+Karl Friedrich Bormann
+Karl Ehregott Vogel
+Johann Christoph Fischer
+Ehregott Fürchtegott Oelschlägel
+----------------
+1834
+Carl Traugott Bär
+Johann Christoph Hartwig
+Karl Gottlieb Hänrig
+Johann Heinrich Haupt
+Johann Gotthelf Büttner
+Gottlob Friedrich Meutzner
+Gudtoph Benjamin Christoph
+----------------
+Carl Gottlieb Joseph Heyde
+Johann Gottfried Begenau
+Carl Gottlob Wilhelm Nebe
+Carl August Lehmann
+Gottfried Israel Felgner
+Johann Gabriel Winterlich
+Johann Gottfried Richter
+----------------
+Karl Friedrich Ufer
+Carl Gottlieb Steude
+Immanuel August Gierisch
+Friedrich Gottlieb Tittel
+Carl Gottfried Petzold
+Carl Wilhelm Heymann
+Karl Heinrich Schulze
+----------------
+Christian Friedrich Fürchtegott Christoph
+Gotthold Friedrich Weichold
+Johann Carl Gottlieb Wolf
+Friedrich Adolph Hofmann
+Karl Gottlob Richter
+Johann Gottfried Lange
+Johann Carl Gottlieb Eckardt
+----------------
+Carl Gottlob Kunze
+Johann Ehregott Rößiger
+Carl Christian Friedrich Peuckert
+Friedrich Wilhelm Wiedemann
+Johann Gottlieb Mende
+Traugott Wilhelm Ufer
+Gottlieb Friedrich Krause
+Christoph Friedrich Klaußnitzer
+----------------
+Christian Friedrich Schröter
+Johann Gottlob Sparmann
+Johann Gottfried Ehrenreich Erbert
+Friedrich Altmann
+Johann Traugott Erler
+Carl Gottlob John
+Traugott Friedrich Börner
+----------------
+Traugott Krumbiegel
+Johann Gotthelf Heidrich
+Johann Gottlieb Leberecht Büttner
+1835
+Johann Karl Gottlob Hauntschmann
+August Friedrich Wilhelm Fröbel
+Johann Gottfried Walluss
+----------------
+Karl August Kunze
+Christian Friedrich Weichold
+Gottlob Friedrich Schubert
+Johann Leberecht Jirst?
+Christian Friedrich Voigt
+Johann Gotthelf Friedrich Winterlich
+Johann Christian Friedrich Endig
+----------------
+Johann Gotthelf Ertelt
+Christian Friedrich Forberger
+August Robert Wenzel
+Karl Gottfried Bayer
+Johann Gotthelf Geißler
+Johann Christian Friedrich Liebschner
+----------------
+Christian Friedrich Dietrich
+Ehregott Leberecht Ufer
+Karl Gottlieb Haymann
+Johann Wilhelm Haußner
+Dankegott Drechsler
+Johann Gottfried Heidrich
+----------------
+Karl Gottlieb Franke
+Johann Gotthelf Sparmann
+Karl Traugott Scheunpflug
+Johann Gottlieb Hallfarth
+Johann Heinrich Rößiger
+Friedrich Wilhelm Weiher
+----------------
+Friedrich August Schöne
+Johann Karl Gottlob Siede
+Karl Gottlieb Böhme
+Karl Gottfried Weinhold
+Wilhelm Ehregott Dietze
+Karl Gottlieb Köhler
+----------------
+Karl Gottlob Bellmann
+Karl Gottlieb Mühlberg
+Gottlieb Friedrich Ufer
+Johann Gottfried Damm
+Friedrich Wilhelm Braun
+----------------
+1836
+Johann Anton Küster
+Karl Gottlieb Ufer
+Johann Gottfried Thielemann
+Johann Gottlob Henker
+Johann Gottlieb Rudolf
+Karl August Leberecht Zimmermann
+Karl Gottlieb Burkhardt
+----------------
+Johann August Heidemann
+Johann Friedrich Wilhelm Schöne
+Karl Gotthelf Baumann
+Karl Traugott Starke
+Johann Christian Thielemann
+Karl Friedrich Schiffel
+August Friedrich Krumbiegel
+----------------
+Johann Gottlieb Barthel
+Johann Gottlieb Leuschner
+Karl Gottfried Sterl
+Karl Gotthelf Moritz Büttner
+Karl Gottlieb Klößer
+Karl Friedrich August Fischer
+Traugott Leberecht Bär
+----------------
+August Friedrich Wolf
+Wilhelm Friedrich Haufe
+Gotthelf Wilhelm Stein
+Johann Michael Wolf
+Karl August Weise
+Christian Friedrich August Wagner
+Karl Gottlieb Fischer
+----------------
+Karl Friedrich Leberecht Jehmlich
+Karl Gottlob Eichhorn
+Gottlob Friedrich Goldmann
+1837
+Johann Salomo Eckardt
+Karl Friedrich August Wolf
+Karl Traugott Geißler
+----------------
+Ernst Wilhelm Silbermann
+Gottfried Metzler
+Friedrich Wilhelm Zein
+Karl Gottlob Meutzner
+Karl Gottfried Hofmann
+Johann Gottfried Straube
+----------------
+Aam? Wilhelm Gödorf
+Karl Friedrich Leuschner
+August Leberecht Leberecht Jähler
+August Friedrich Heymann
+Gottfried Wilhelm Ritter
+Johann Karl Friedrich Petzold
+Johann Friedrich Leberecht Voigt
+----------------
+Karl August Krönert
+Johann Gottfried Störl
+Karl Gottlieb John
+Karl Gottlieb Sohr
+Karl Gottlob Ebert
+Johann Gottfried Wilhelm John
+Christian Friedrich Börner
+----------------
+Friedrich August Götze
+August Eduard Büttner
+Johann Gottfried Gebhardt
+Karl Gottlob Richter
+Karl Gottfried Hänel
+Karl Ehregott Glöckner
+Johann Carl Gottfried Dehne
+----------------
+Karl Gottlieb Gähner
+Johann Karl Gottlob Weigold
+Karl Friedrich Humpisch
+Friedrich Adolph Nothdurft
+Karl Ehregott Schubert
+Karl Gottlieb Köhler
+Christian Wilhelm Eckart
+----------------
+1838
+Karl Friedrich Matthä
+Johann Gottfried Ufer
+Traugott Leberecht Wallus
+Karl Gottlob Henker
+Karl Gotthold Geißler
+Gottlob Friedrich Braune
+Johann Heinrich Kunze
+----------------
+Karl Gotthelf Erler
+Gottlob Friedrich Schindler
+Karl Friedrich Obendorf
+Karl Gotthelf Erler
+Karl Gottfried Fischer
+Gustav Schubert
+Immanuel Händler
+----------------
+August Friedrich Franke
+Johann Gottlieb Paul
+Karl Gotthelf Lehnert
+Karl Gottlob Geißler
+Karl August Ihle
+Karl Gottlob Schlicke
+Karl Gottlob Bug
+----------------
+Johann Gottlieb Böttger
+Karl Friedrich Straßburger
+Johann Friedrich Horn
+Karl Samuel Jobst
+Gotthold Friedrich Nebe
+Karl Gotthelf Böhme
+Gottfried Wilhelm Schubert
+----------------
+Karl Gotthelf Sterl
+Karl Friedrich Ufer
+Friedrich Wilhelm Hachenberger
+Johann Gottlieb Zimmer
+Johann Gottfried Thielemann
+Karl Gottlieb Barthel
+Christian Friedrich Großer
+----------------
+Johann Gottfried Weise
+1839
+Ernst Heinrich Horn
+August Friedrich Richtold?
+Karl Gottlieb Hänig
+Johann Traugott Kräher
+Gottlob Friedrich Kröhnert
+----------------
+Karl Gottfried Löwe
+Friedrich Wilhelm Fleischer
+Karl Friedrich Dietrich
+Johann Christian Schönberg
+Gotthelf August Erler
+Johann Gottfried Bachmann
+Johann Christoph Friedrich Schlicke
+----------------
+Friedrich Theodor Volkmar Dzondi
+Johann Gottfried Heber
+Karl Gottlieb Döring
+Friedrich August Dietze
+Ernst Weber
+Karl Gottlob Weiher
+Karl Wilhelm Limbach
+----------------
+Christian Gottfried Höppner
+Karl David Sterl
+Karl Adolph Winkler
+Karl Ehregott Händel
+Christian Friedrich Ritter
+Johann Gottlob Paul
+Karl Wilhelm Nothdurft
+Johann Gottfried Uhlig
+----------------
+Johann Gottlieb Voigt
+Karl Gottlieb Döschel
+Christian Friedrich Zschoke
+Karl Christian Wilhelm Henker
+Karl Gottlob Hiller
+Karl Gottfried Ludwig

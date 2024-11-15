@@ -1,5 +1,5 @@
 Gränitz (Buch 158)
-Trauungen 1801-1829
+Trauungen 1801-1839
 https://www.archion.de/de/viewer/churchRegister/359753?pageId=50652055
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Mai 2024
 Juni 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -152,3 +153,57 @@ Johann David Lohse
 ----------------
 Carl Friedrich Fischer
 August Friedrich Krumbiegel
+1830
+Traugott Friedrich Käsmodel
+----------------
+Carl Gottlob Geißler
+1831
+Johann Gottlieb Uhlig
+Johann David Wilhelm Berger
+----------------
+David Friedrich Reichelt
+Johann Friedrich Fischer
+Daniel Müller
+Carl Gottlob Hermdorfer
+----------------
+1832
+Fürchtegott Leberecht Kunze
+Carl Gottlob Schröter
+Carl Gottlob Arnold
+Carl Gottlob Kirchner
+----------------
+1833
+Johann Gottfried Otto
+Johann Traugott Schröter
+----------------
+1834
+Christian Friedrich Lohse
+Carl Gottlob Müller
+Carl Gottlob Thiele
+Carl Traugott Leberecht Kröner
+----------------
+1835
+Johann Christian Döber
+Christian Friedrich Forberger
+1836
+Christian Friedrich Wilhelm Stoll
+Johann Gottlieb Frohlich
+----------------
+Carl Gottlob Streubel
+1837
+Carl Gottlob Hermsdorfer
+Johann Gottlob Steude
+Carl Gottlob Schubert
+----------------
+Ernst Heinrich Uhlmann
+Johann Traugott Rothe
+1838
+Friedrich Wilhelm Terter
+----------------
+Christian Heinrich Müller
+1839
+Johann Traugott Rothe
+Johann Traugott Wolf
+Johann Gottlieb Tannberger
+----------------
+Carl Friedrich Müller
