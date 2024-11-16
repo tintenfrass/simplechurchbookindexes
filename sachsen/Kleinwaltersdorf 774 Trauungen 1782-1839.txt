@@ -1,14 +1,15 @@
 Kleinwaltersdorf (Buch 774)
-Trauungen 1782-1829
+Trauungen 1782-1839
 https://www.archion.de/de/viewer/churchRegister/359862?pageId=50670802
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Januar 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -290,3 +291,159 @@ Traugott Benjamin Halm
 ----------------
 Johann Gottlieb Höppner
 Carl Gottfried Kluge
+----------------
+1830
+Christian Friedrich Schramm
+Carl Gotthelf Köhler
+Gotthelf Friedrich Schirmer
+----------------
+Johann Gottfried Kaltofen
+Carl Gottlob Glöckner
+Johann Gottfried Felgner
+----------------
+1831
+Johann Gottlieb Rädler
+Traugott Friedrich Zein
+Christian Gottfried Krumbiegel
+----------------
+Johann Gottfried Prinz
+Christian Friedrich Fischer
+Johann Gottfried Böhme
+----------------
+Johann Samuel Schönfeld
+Carl August Gotthold Arnold
+Carl Friedrich Treuth
+----------------
+Carl Friedrich Zehl
+----------------
+1832
+Johann Traugott Zimmermann
+Karl Gottlieb Börner
+Carl Gottlieb Zschocke
+----------------
+Carl Gottlieb Krause
+Carl Gottlieb Zein
+Carl Gottlob Obendorf
+----------------
+Johann Traugott Voigt
+Carl Gottfried Schneider
+Carl Gottfried Richter
+----------------
+Johann Traugott Pomsel
+Carl Gottfried Liebscher
+----------------
+1833
+Johann Carl Stein
+Carl Gottlob Wözel
+Johann Gottfried Leuschner
+----------------
+Johann Gottfried Straßburger
+Carl Gottfried Geißler
+Carl August Back
+----------------
+Christian Klemm
+Christian Friedrich Traugott Berger
+Friedrich Wilhelm Börner
+----------------
+Friedrich Wilhelm Illgen
+Carl Friedrich Krumbiegel
+Carl Gottfried Straßburger
+----------------
+Carl Gottfried Preiß
+Carl Gottfried Brix
+----------------
+1834
+Johann Heinrich Haupt
+Carl Gottfried Schneider
+Carl Gottlieb Heyde
+----------------
+Carl Friedrich Kretzschmar
+Carl Heinrich Schulze
+Carl Gottlieb Horn
+----------------
+Traugott Leberecht Herrmann Koch
+Carl Gotthelf Heyde
+Friedrich Wilhelm Wiedemann
+----------------
+Carl Gottlieb Friedrich Starke
+Johann Gottfried Martini
+Carl Gottfried Heubold
+----------------
+1835
+Gotthelf Leberecht Zschoke
+Carl August Rieß
+Carl Friedrich Stein
+----------------
+August Leberecht Weichelt
+Heinrich Wilhelm Zschoke
+Carl Gottfried Schramm
+----------------
+Carl August Richter
+----------------
+1836
+Johann Gottlob Klemm
+Johann Traugott Erler
+Carl Traugott Mühlberg
+----------------
+Johann Gottfried Neumann
+Carl Gottlob Störl
+Carl Gottlob Richter
+----------------
+Carl Gottlieb Kunze
+Carl Friedrich Rümmler
+Johann Daniel Herklotz
+----------------
+Friedrich Bernhard Münzner
+Johann Gottlob Dathe
+Johann August Hanisch
+----------------
+Christian Friiedrich August Wagner
+Friedrich August Walthersberger
+----------------
+1837
+Johann Samuel Anke
+Carl Gottlob Heinrich Zaspel
+Friedrich Traugott Zein
+----------------
+Carl Friedrich Wilhelm Rost
+Carl August Störzel
+Christian Friedrich Voigt
+----------------
+Johann August Ferdinand Jobst
+Carl August Wolf
+Johann Christoph Frey
+----------------
+Carl Christoph Böhme
+Carl Friedrich August Müller
+Friedrich August Gabriel
+----------------
+Christian Leberecht Löbel
+----------------
+1838
+Carl Gottfried Feldmann
+Carl Gottlieb Straßburger
+----------------
+Carl Gottfried Richter
+Christian Traugott Klemm
+Johann Heinrich Gottlieb Werner
+----------------
+Friedrich Fürchtegott Fischer
+Carl Gottlob Schlicke
+Carl Gottlob Helbig
+----------------
+Carl Gottlob Straßburger
+Traugott Leberecht Heym
+Carl Christian Friedrich Weichelt
+----------------
+Johann Gotthelf Schramm
+----------------
+1839
+Carl Gottlob Rothe
+Johann Friedrich Wilhelm John
+Carl Gottlieb Böhme
+----------------
+Ehregott Leberecht Störl
+Johann August Hänlein
+Christian Gottlieb Heinrich Teigk
+----------------
+Carl Gottlieb Hammermüller

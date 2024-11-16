@@ -1,5 +1,5 @@
 Langhennersdorf (Buch 833)
-Trauungen 1817-1829
+Trauungen 1817-1831
 https://www.archion.de/de/viewer/churchRegister/359947?pageId=50688161
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -948,3 +949,127 @@ Karl Gottlieb Leonhardt
 Christian Friedrich Krumpfer
 ----------------
 Karl Gottfried Büttner
+----------------
+1830
+Friedrich August Dehne
+Christian Friedrich Schramm
+Karl Gotthelf Hammer
+Johann Gottfried Feldmann
+Johann Gottlieb Pfeiffer
+----------------
+Johann Gotthelf Kunze
+Karl August Schmidt
+Johann Gottlob Merkel
+Karl Christoph Richter
+----------------
+Johann Gotthelf Gippner
+Johann Gotthelf Lippmann
+Johann Christlieb Thiele
+Christian Friedrich Obendorf
+Johann Gottlieb Küttner
+----------------
+Johann Christian Friedrich Schüttauf
+Johann Traugott Liebschner
+Karl Gottfried Heymann
+Karl Gottfried Zickow
+----------------
+Johann Karl Gottlob Ludwig
+Christian Friedrich Uhlmann
+Karl August Wetzig
+Friedrich August Ludwig
+----------------
+Johann Gottfried Glauch
+Christian Gottlob Benjamin Franke
+Karl Gottlob Göhler
+Christian Friedrich Hofmann
+----------------
+Johann Caspar Vogel
+Traugott Friedrich Erler
+Johann Gottlieb Rockof
+Johann Gotthelf Weigold
+----------------
+Karl Gottlob Wagner
+August Leberecht Rädler
+Christian Gottfried Arnold
+Karl Gottlieb Liebe
+----------------
+Johann Christian Richter
+Johann Traugott Rost
+Christian Friedrich August Wittig
+Karl August Friedrich Rast
+Johann Gottfried Richter
+----------------
+Karl August Heymann
+Karl August Löffler
+Karl Gottlob Hallfart
+Johann Gottfried Richter
+Johann Gottfried Becher
+----------------
+Christian Ehregott Brethner
+Karl Gottlieb Halm
+Johann Gotthelf Höppner
+Karl Gottfried Weiher
+August Friedrich Metzler
+----------------
+Johann Gottlob Mönch
+----------------
+1831
+Johann Gottlieb Haupt
+Karl Gottlieb Jehler
+Karl Gottlieb Störl
+Gottfried Heinrich Kunze
+Karl Leberecht Emmrich
+----------------
+Johann Friedrich Adolph Metzler
+Johann Gottfried Winkler
+Karl Friedrich Helbig
+Karl Leberecht Halfter
+----------------
+Johann Gottlieb Ferdinand Klemm
+Christian Friedrich Liebschner
+Karl Gottlieb Schmidt
+Johann Karl Gottlob Löwe
+Karl Gottfried Ettelt
+Johann Gottlob Wolf
+----------------
+Karl Gottlob Hiller
+Johann Traugott Küttner
+Christian Traugott Liebschner
+Karl Traugott Schubert
+Johann Karl Gottlob Löwe //durchgestrichen
+----------------
+Johann Karl Gottfried Schönberg
+Friedrich Salomo Vogel
+Johann Gottlieb Otto
+Johann Gottlieb Huhn
+Gottlob Immanuel Polster
+----------------
+Johann Gotthelf Lange
+Karl Gottlieb Richter
+Karl Gottlieb Franke
+Karl Friedrich Franke
+Friedrich Traugott Zill
+Karl Gottfried Forberg
+----------------
+Karl August Gotthold Arnold
+Johann Gottlob Zschoche
+Johann Georg Benjamin Pfeiffer
+Johann Gottfried Gotthold Fischer
+Karl Gottlob Uhlig
+Johann Christian Schönberg
+----------------
+Gottfried Thiele
+Johann Gotthold Kunze
+Christian Friedrich Ehregott Kohl
+Johann Michael Küttner
+Karl August Störr
+Karl Friedrich Götze
+----------------
+Friedrich Traugott Bönisch
+Friedrich Gotthelf Pilz
+Friedrich Traugott Braune
+Karl David Damm //Thamm
+Karl Gottlob Zwintscher
+Karl Gottlieb Klemm
+----------------
+Johann David Tippmann

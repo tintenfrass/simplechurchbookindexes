@@ -1,5 +1,5 @@
 Kleinschirma (Buch 763)
-Trauungen 1800-1829
+Trauungen 1800-1839
 https://www.archion.de/de/viewer/churchRegister/359851?pageId=50669246
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Mai 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -212,3 +213,88 @@ Traugott Friedrich Müller
 Carl August Fischer
 Christian Friedrich Leonhard
 Johann Traugott Keßler
+----------------
+1830
+Carl August Günzel
+Johann Caspar Fischer
+----------------
+1831
+Carl August Hunger
+Friedrich Ehregott Köhler
+Carl Friedrich Zehl
+----------------
+Friedrich Benjamin Böhme
+----------------
+1832
+Carl Gottlob Schroob
+Samuel Friedrich Müller
+Friedrich August Keßler
+----------------
+Johann Carl Gottlob Weichold
+----------------
+1833
+Carl Gottlob Schmidt
+Carl Friedrich Einhorn
+Carl Gottlieb August Lohse
+----------------
+Carl Gottfried Preiß
+----------------
+1834
+Carl August Franke
+Johann Gotthelf Schulze
+Carl Friedrich Straßberger
+----------------
+Carl Gottfried Lotze
+Carl Gottlieb Friedrich Starke
+Carl Gotthelf Fritzsche
+----------------
+Johann Carl Samuel Erler
+Carl Gottlieb Ae
+Carl Gottfried Beier
+----------------
+1835
+August Friedrich Schreiter
+Friedrich Gottlieb Kaurisch
+Johann Traugott Obendorf
+----------------
+Carl Friedrich Walther
+Friedrich Wilhelm Keßler
+----------------
+1836
+Johann Carl Gottfried Schulze
+Carl Friedrich Neubert
+Albert Moritz Hene
+----------------
+Carl Traugott Mühlberg
+Christian Gottlob Hofmann
+Friedrich Bernhard Münzner
+----------------
+Christian Traugott Hofmann
+Carl Israel Griesbach
+----------------
+1837
+Christian Friedrich Zehl
+Carl Gottlob Zimmermann
+Christian Friedrich Zimmermann
+----------------
+1838
+Johann Carl Christian Tobias Richter
+Ehregott Benjamin Keßler
+Traugott Friedrich Kunze
+----------------
+Johann Gottfried Richter
+Carl Gotttrau Wilhelm Müller
+Carl Gottlieb Fischer
+----------------
+Friedrich Fürchtegott Fischer
+Traugott Leberecht Heyn
+Johann August Arnold
+----------------
+Christian Wilhelm Hofmann
+----------------
+1839
+Johann August Hänlein
+Carl Gottfried Borrmann
+Christian David Hofmann
+----------------
+Carl Traugott Mühlberg

@@ -1,5 +1,5 @@
 Helbigsdorf (Buch 203)
-Trauungen 1794-1829
+Trauungen 1794-1830
 https://www.archion.de/de/viewer/churchRegister/359824?pageId=50664437
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -15,6 +15,7 @@ Januar 2024
 Mai 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -327,7 +328,16 @@ Friedrich Traugott Geisler
 Christian Friedrich Frey
 Carl Friedrich Ulbricht
 Carl Friedrich Franke
----------------- x2
+1830
+Carl Gottlob Meyer
+Friedrich Fürchtegott Hennig
+----------------
+Christian Friedrich Obendorf
+Christoph Friedrich Wilhelm Kaden
+Traugott Friedrich Lichtenberger
+Christian Friedrich Arnold
+Carl Gottlob Loose
+----------------
 1794
 Carl Gottlieb Fischer
 Johann Gottfried Schultz
@@ -499,7 +509,15 @@ August Friedrich Preisler
 1829
 Carl August Kaden
 Gottlob Friedrich Krumbiegel
----------------- x3
+----------------
+1830
+Carl Gottfried Böhme
+Carl Gottlob Homburg
+Samuel Friedrich Schwinger
+----------------
+Johann Samuel Beyer
+Carl Friedrich Müller
+----------------
 1794
 Johann Traugott Wolf
 Carl Gottlob Schneider
@@ -624,3 +642,4 @@ Friedrich Traugott Bellmann
 Friedrich Ehregott Kunze
 Wilhelm Liebegott Trepte
 Traugott Friedrich Clausnitzer
+1830
