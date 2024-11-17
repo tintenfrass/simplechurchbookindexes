@@ -1,5 +1,5 @@
 Niederbobritzsch (Buch 874)
-Trauungen 1800-1829
+Trauungen 1800-1831
 https://www.archion.de/de/viewer/churchRegister/360036?pageId=50705721
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 1,5 Stunden
 Juni 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -622,3 +623,57 @@ Johann Gotthelf Erler
 Carl Gottfried Müller
 Jonathan Ludewig
 Traugott Benjamin Wunderwald
+----------------
+1830
+Karl Gottfried Horn
+Johann David Hammer
+Carl Samuel Leberecht Gretzschel
+Friedrich August Schmidt
+Carl Gottlieb Juhrs
+Carl Gottlob Froebe
+Carl Gottlob Sandig
+----------------
+Johann Gottlob Wagner
+Johann Traugott Klaußnitzer
+Carl Gottlieb Köhler
+Carl Gottlieb Walther
+Carl Gotthelf Gimmer
+Johann Gottlob Berndt
+Carl Gottlob Seifert
+Carl Gottlieb Claußnitzer
+----------------
+Johann Gotthelf Froebe
+Carl Gottlieb Schröter
+Carl Gottlieb Hauschild
+Traugott Leberecht Braune
+Carl Gottfried Köhler
+Johann Samuel Herod
+Friedrich Wilhelm Wolf
+----------------
+1831
+Johann Gottlob Friedrich Keller
+Carl Gottlob Hofmann
+Carl Gottlob Friedrich
+Carl Gottlieb Fischer
+Carl Gotthelf Schmidt
+Carl Gottlieb Klemm
+Johann Gottlieb Otto
+----------------
+August Friedrich Dietze
+Carl Gottfried Klemm
+Carl August Wolf
+Wilhelm Heinrich Schlegel
+Carl Gottlieb Berger
+Friedrich Wilhelm Lohse
+Carl Gottlieb Braune
+Carl Gottfried Goetze
+Carl Friedrich Traugott Beier
+----------------
+Carl Gottlob Beier
+Johann Gottfried Müller
+Johann August Beier
+Friedrich Gotthelf Kummer
+Traugott Leberecht Braune
+Carl August Fritzsche
+Carl Daniel Gelfert
+Johann Gottfried Hauschild

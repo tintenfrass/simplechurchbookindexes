@@ -1,5 +1,5 @@
 Niederschöna (Buch 892)
-Trauungen 1813-1829
+Trauungen 1813-1831
 https://www.archion.de/de/viewer/churchRegister/360054?pageId=50708757
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -462,3 +463,60 @@ Carl Gottlob Streller
 Carl Gottlob Lorenz
 Johann Gottlob Pietsch
 Carl August Sättler
+1830
+Johann Gottfried Hauptmann
+Johann Gottlieb Richter
+Carl Gottlob Ludwig
+Carl Gottlob Richter
+Carl Gottfried Rentsch
+Siegmund Winckler
+Gotthelf August Schiewald
+----------------
+Carl August Schramm
+-
+Carl Gotthold Lorenz
+Carl Friedrich Stock
+Johann Gottlieb Zimmermann
+Friedrich Wilhelm Schneider
+Gottlob Heinrich Fritzsch
+Carl Gottlob Starke
+Carl Gottlieb Knebel
+Carl August Kaiser
+Johann Samuel Ebelt
+Johann Gotthelf Förster
+Carl Gottlob Dietrich
+----------------
+Johann Gottlob Gerlach
+Johann Gottlob Tümmich
+Carl Gotthold Küttner
+Johann Carl Traugott Becker
+Carl Gottlieb Schubart
+1831
+Carl Gottfried Rost
+Johann Traugott Kleinpaul
+Carl Wilhelm Krause
+Johann Friedrich Goldammer
+Gotthelf Friedrich Ficker
+----------------
+Carl Gottlieb Dietrich
+Johann Samuel Schlicke
+Carl Gottfried Candler
+Carl Gottlob Grötschel
+Johann Gottlob Opitz
+Johann Gotthelf Lange
+Hans Eduard Trebra
+Johann Gottlieb Brendel
+Johann Gottlob Kirrbach
+Carl Gottlob Dachselt
+Johann Carl August Schubert
+Carl Gottlob Rentsch
+Johann Traugott Neumann
+----------------
+Carl Gotthelf Stein
+Heinrich Porstmann
+Carl Friedrich Küchenmeister
+Carl Gottlieb Künzelmann
+Carl Gottlieb Kießlig
+Johann Christoph Zimmermann
+Johann Gottfried Drache
+Johann Gottlob Fritzsch

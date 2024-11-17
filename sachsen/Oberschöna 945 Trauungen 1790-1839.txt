@@ -1,5 +1,5 @@
 Oberschöna (Buch 945)
-Trauungen 1790-1829
+Trauungen 1790-1839
 https://www.archion.de/de/viewer/churchRegister/360097?pageId=50717506
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,11 +9,12 @@ Hinweis:
 Filialkirche Wegefarth
 
 
-Erstellt in ca. 1,5 Stunden
+Erstellt in ca. 2 Stunden
 Januar 2024
 Juni 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -315,7 +316,7 @@ Carl Gottlieb Kohl
 Johann Gottfried Tränkner
 Christian Friedrich Ehregott Starke
 ----------------
-Carl Gottlob Scheunplug
+Carl Gottlob Scheunpflug
 Samuel Ehregott Hubricht
 Johann Gottlieb Schubert
 Christian Gottlieb Schmidt
@@ -341,7 +342,7 @@ Johann Traugott Gläser
 1824
 Carl Gottfried Haubold
 Johann August Carl Hinkelmann //korrigiert
-Carl Gottlieb Scheunplug
+Carl Gottlieb Scheunpflug
 ----------------
 Christian Ehregott Haubold
 Carl Wilhelm Friedrich Bär
@@ -395,3 +396,98 @@ Friedrich August Ludwig
 Johann Martin Kelligus
 Johann Christian Hauptmann
 Johann Gottfried Tränkner
+1830
+Carl Gotthelf Köhler
+Carl Gottlieb Weinhold
+Johann Samuel Oehme
+Christian Gottlob Oelsner
+----------------
+Gotthold Friedrich Heumann
+1831
+Johann Christia Rolle
+Carl Friedrich Zemmrich
+Carl Friedrich Müller
+Carl Friedrich Weichelt
+Carl Joseph Paul
+Carl Christoph Seifert
+----------------
+August Friedrich Seifert
+Friedrich August Oelschlägel
+Carl Friedrich Wilhelm Leder
+Johann Eduard Leberecht Körner
+Christian Carl Holzmüller
+1832
+Carl Gottlieb Scheunpflug
+Gottlob Weigand
+Christian Gottlieb Hofmann
+----------------
+Christian Gottlieb Schmidt
+Johann Christian Friedrich Metzler
+Carl Gottfried Schulze
+Johann Traugott Irmscher
+Carl Gottfried Schmidt
+1833
+Johann Carl Stein
+Carl Gotthelf Reiß
+----------------
+Johann Christoph Fritzsche
+Carl Friedrich Ernst Grundmann
+Carl Gottlob Feldmann
+Friedrich Traugott Kraft
+Carl Christoph Nüßner
+Adam Friedrich Fleischer
+Carl Gottlob Talkenberger
+Johann Gottlob Steiger
+----------------
+1834
+Carl Gottlieb Schnecke
+Friedrich Ehregott Morgenstern
+Friedrich Fürchtegott Leonhardt
+Johann David Schubert
+Carl Ehregott Zemmrich
+Carl Gotthelf Fischer
+Friedrich August Steyer
+Carl Gottlob Trommler
+Christian Friedrich Rösch
+----------------
+Carl Gottfried Naumann
+1835
+Carl Christian Hofmann
+Friedrich Maximilian Mühlee
+Carl Traugott Scheunpflug
+Christian Wilhelm Hofmann
+Carl August Eckardt
+1836
+Carl Gottlob Henig
+August Friedrich Kröhner
+----------------
+Johann Dolliß
+1837
+Friedrich Ehregott Henig
+Carl Friedrich Braun
+Carl Gottfried Hofmann
+Carl Christian Hofmann
+Carl Gottlieb Tippmann
+Carl Straube
+Johann Christian Hofmann
+----------------
+Johann Gotthelf Gelbrich
+Johann Gottlob Oelschlaegel
+Traugott Leberecht Mehnert
+Friedrich Wilhelm Böhme
+Johann David Straßburger
+1838
+Johann Gottfried Ufer
+Gustav Schubert
+----------------
+Gotthold Leberecht Henig
+Carl Traugott Haubold
+1839
+Friedrich Wilhelm Obendorf
+Carl Christian Scheunpflug
+Carl Gotthelf Friedrich Klemm
+Johann Gottlieb Börner
+Carl Gottlieb Peukert
+Johann Traugott Kühn
+----------------
+Carl Gottfried Schmidt

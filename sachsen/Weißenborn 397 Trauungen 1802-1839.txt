@@ -1,5 +1,5 @@
 Weißenborn (Buch 397)
-Trauungen 1802-1829
+Trauungen 1802-1839
 https://www.archion.de/de/viewer/churchRegister/360196?pageId=50736819
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Juni 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -233,3 +234,116 @@ Carl Friedrich August Götzel //korrigiert
 Carl Traugott Kahl
 ----------------
 Friedrich Adolph Braun
+1830
+Johann Daniel Lohse
+Carl Gottlieb Anders
+Carl Christoph Neubert
+----------------
+Carl Gottlieb Götzel
+Carl Gottlob Bernhardt
+Carl Gottlieb Fischer
+Friedrich Wilhelm Fischer
+----------------
+Carl Friedrich Lohse
+Johann David Gottlob Kahl
+1831
+Carl Gottlob Thierbach
+Carl Gottlob Lohse
+Friedrich Gottlob Bernhardt
+----------------
+Friedrich Gotthelf Kummer
+Carl August Böhme
+Gottlieb Ehregott Martin
+1832
+Fürchtegott Leberecht Kunze
+----------------
+August Lobegott Heinsius
+Carl Gottlob Zimmermann
+Georg Friedrich Kummer
+Carl Gottfried Jünger
+----------------
+Gottlob Wilhelm Than
+Carl Gottlieb Stein
+Carl August Walther
+----------------
+1833
+Christian Friedrich Schröder
+Gottlieb Friedrich Fischer
+Carl Friedrich Küchenmeister
+Carl Gotthelf Herrmann
+----------------
+Friedrich Wilhelm Thieme
+Carl Gottlieb Dittrich
+Carl Traugott Wetzel
+August Gottlob Köhler
+Friedrich Benjamin Fischer
+----------------
+Ernst Wilhelm Uhlmann
+1834
+Christian Friedrich Eduard Rechenberger
+Carl Friedrich Humpisch
+August Friedrich May
+----------------
+Carl Gottlieb Wittig
+Friedrich Gottlob Köhler
+Friedrich Wilhelm Hennig
+Carl Gottlieb Wunderwald
+Friedrich Gottlob Beyer
+----------------
+1835
+Friedrich Gottlieb Kummer
+Christian Friedrich Schramm
+Christian Gottlieb Lotze
+Johann Traugott Obendorf
+Carl Gottlieb Böhme
+----------------
+Johann Friedrich Kirschner
+Johann Gottfried Dietrich
+Johann Samuel Walther
+Ehregott Heinrich Fischer
+----------------
+1836
+Johann Gottlob Fischer
+Carl Friedrich Walther
+Johann Traugott Fischer
+Gottlieb Friedrich Schröder
+Ernst Moritz Lehmann
+----------------
+Friedrich Gotthelf Lorenz
+Carl Gottfried Lohse
+1837
+Johann Gottlob Scheunpflug
+Otto Friedrich Heinrich Watzdorf
+----------------
+Friedrich Gottlieb Wahl
+Johann Christoph Fischer
+Carl Gottlob Walther
+Carl Traugott Burckhardt
+Carl Gottlob Müller
+----------------
+Ernst Wilhelm Klitsch
+Carl Christoph Böhme
+Friedrich Traugott Lohse
+Johann Gottlob Straube
+Carl Gottfried Börner
+----------------
+1838
+Christian Friedrich Günzel
+Carl Friedrich Schlegel
+Christian Friedrich Lägel
+Christian Gotthelf Kunze
+----------------
+Ernst Wilhelm Steinert
+Georg Julius Hofmann
+Carl Gottlob Ebert
+Friedrich Anton Reichel
+----------------
+1839
+Friedrich Gottlob Jünnger
+Carl Gottfried Lempe
+Carl Friedrich Fischer
+August Friedrich Wilhelm Gottschalk
+----------------
+August Friedrich Julius Leibner
+Georg Friedrich Götzel
+Gotthold Friedrich Hänig

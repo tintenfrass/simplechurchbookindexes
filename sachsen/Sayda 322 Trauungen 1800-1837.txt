@@ -1,15 +1,16 @@
 Sayda (Buch 322)
-Trauungen 1800-1829
+Trauungen 1800-1837
 https://www.archion.de/de/viewer/churchRegister/360112?pageId=50721624
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 2 Stunden
+Erstellt in ca. 2,5 Stunden
 Juni 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1397,3 +1398,434 @@ Traugott Friedrich Wilhelm Philipp
 Carl Gottlieb Lohse
 Carl Gottlieb Glöckner
 Friedrich Gottlob Wilhelm Vogelgesang
+----------------
+1830
+Carl Gottlieb Wiegand
+Carl Gottlieb Schlegel
+Carl Gottlieb Wiesner
+Christian Gottlob Lohse
+Daniel Gottlob Friedrich Bach
+Johann Gotthelf Geißler
+Carl Gottlieb Beer
+Wilhelm Friedrich Müller
+Carl Gottlob Kuhnert
+----------------
+Johann Gotthold Kirchhübel
+Carl Friedrich Ficke
+Christian Friedrich Schwalbe
+Carl Gottlieb Seipt
+Carl Gottlieb Rechenberger
+Friedrich Wilhelm Tränkner
+Carl Friedrich Tränkner
+----------------
+Johann Gottlob Reichelt
+Fürchtegott Friedrich Schneider
+Johann Christian Bäsler
+Carl Gottfried Leutert
+Johann Gottlob Beyer
+Christoph Friedrich Drechsel
+Friedrich Wilhelm Walther
+----------------
+Carl Gottlieb Meyer
+August Friedrich Wagner
+Carl Gotthold Rauer
+Christian Gottlieb Krönert
+Carl August Dietrich
+Traugott Friedrich Hegewald
+Carl Friedrich Wächtler
+----------------
+Traugott Friedrich Preißler
+August Friedrich Ihle
+1831
+Johann Friedrich Rauscher
+Gottlob Friedrich Mende
+August Friedrich Fritzsche
+----------------
+Karl Gottlieb Drechsel
+Carl Gottlieb Ficke
+Karl Gottlob Beckert
+Gotthold Fürchtegott Kaden
+Johann Gottlob Neubert
+Johann Gottlieb Oehme
+----------------
+Traugott Leberecht Klemm
+Johann Gotthelf Beger
+Christian Friedrich Liebscher
+Ehregott Wilhelm Flade
+Carl Gottlieb Friedrich Schramm
+Carl Friedrich Grimmer
+Gotthelf Friedrich Glöckner
+----------------
+Gotthelf Friedrich Schlegel
+Gotthelf Friedrich Hunger
+Friedrich Wilhelm Schwenk
+Carl Friedrich Breitfeld
+Friedrich Fürchtegott Beckert
+Samuel Friedrich Glöckner
+Carl Gottlob Müller
+----------------
+Karl Friedrich Ehrenreich Strauß
+Carl Traugott Wagner
+Friedrich Ferdinand Leichsenring
+Johann Gottfried Zemmrich
+Traugott Friedrich Beer
+August Friedrich Schmieder
+Carl Friedrich Hensel
+----------------
+Carl Traugott Schmerler
+Carl Gottlieb Drechsel
+Christian Friedrich Fischer
+Karl Gottlieb? Legler
+Johann Traugott Wicke
+Traugott Heinrich Leipner
+Johann Gottlieb Bertholdt
+----------------
+Carl Gottlob Schubert
+Leberecht Friedrich Einert
+August Friedrich Becker
+1832
+Gotthelf Leberecht Werner
+Friedrich Gottlieb Wilhelm Glöckner
+Carl Gottlob Brückner
+----------------
+Carl Gottlieb Franke
+Johann Gotthelf Trinks
+Gotthelf Friedrich Preißler
+Carl Gottlieb Kreher
+Carl Gottlieb Heeger
+Carl Friedrich Walther
+Christian Traugott Enzmann
+----------------
+Samuel Gottlieb Beyer
+Gotthelf Friedrich Herrmann
+August Friedrich Grimmer
+Friedrich Fürchtegott Wagner
+Ernst Leberecht Lippmann
+Joseph Prascheck
+----------------
+Samuel Gottlieb Kaden
+Gotthelf Friedrich Fürchtegott Schneider
+Christian Friedrich Köhler
+Carl August Friedrich Fischer
+Traugott Friedrich Heerklotz
+Carl Friedrich Bach
+----------------
+Gottlob Friedrich Hampel
+Carl Gottlieb Müller
+Carl Friedrich Stein
+Carl Friedrich Traugott Strauß
+Ernst Heinrich Obendorf
+Johann August Nelius
+----------------
+Gotthold Friedrich Ubermann
+August Friedrich Wicke
+Johann Heinrich Ernst Niezel
+Carl Friedrich Walther
+Gotthelf Friedrich Glöckner
+Karl Gotthelf Kempe
+----------------
+Heinrich August Schlegel
+Carl Christian Escher
+Otto Eduard Schlegel
+Gottlob Friedrich Meyer
+Christian Friedrich Weißbach
+Johann Gottlieb Eilenberger
+Carl Gottlieb Müller
+----------------
+Gotthold Friedrich Fischer
+Carl Friedrich Schmidt
+Traugott Friedrich Kluge
+Carl August Kreher
+Karl Gottlieb Richter
+Johann Gottlob Venus
+----------------
+Gotthelf Friedrich Kempe
+Christian Wilhelm Börner
+Gottlob Friedrich Müller
+Carl Gottlieb Rauer
+Johann Gottlob Kirchhübel
+Carl Friedrich Nestler
+----------------
+Johann Gottlob Lichtenberger
+Carl Gottlob Drechsel
+Leberecht Fürchtegott Weintauer
+1833
+Friedrich August Walther
+Christoph Heinrich Beutmann
+----------------
+Carl August Müller
+Karl Friedrich Gotthelf Knoll
+Johann Gotthelf Gründig
+Carl Gottlob August Werner
+Karl August Fritzsche
+Heinrich Fürchtegott Lohse
+August Friedrich Brückner
+----------------
+Carl Gottlieb Krönert
+Ernst Philipp Graf
+Christian Friedrich Heinrich
+Gottlieb Leberecht Mende
+Johann Heinrich Moritz Wärzner
+Christian Friedrich Weidensdorfer
+----------------
+Carl Gottlob Tanneberger
+Carl Gottlieb Ziller
+Johann Gottlieb Köhler
+Christian Friedrich Beer
+Carl Friedrich Wagner
+Karl Adolph Martin
+Friedrich Adolph Schubert
+----------------
+Gotthelf Friedrich Wolf
+August Friedrich Müller
+Johann Gottlieb Butter
+Gotthelf Friedrich Zenker
+August Friedrich Weidensdörfer
+Traugott Friedrich Schlegel
+----------------
+Traugott Friedrich Schlesier
+Gotthold Friedrich Krönert
+Carl August Neubert
+Gotthold Friedrich Walther
+August Friedrich Heerlotz
+Carl Gottlieb Braune
+Andreas Petzschke
+----------------
+Gotthold Friedrich Mattheß
+Christian Gottlieb Härtwig
+August Friedrich Graf
+Gotthelf Friedrich Trabschuh
+Carl Friedrich Schmieder
+Traugott Leberecht Neubert
+August Friedrich Ferdinand Illing
+----------------
+Carl Gottfried Oehme
+Carl August Ulbricht
+Carl Gottlieb Müller
+Johann Fürchtegott Walther
+Traugott Friedrich Trinks
+Carl Gotthelf Lichtenberger
+Carl August Schubert
+----------------
+Ernst Wilhelm Uhlmann
+Carl Friedrich Weißbach
+Carl Gottlieb Hengst
+1834
+Christian August Kunath
+Friedrich August Richter
+Gottlieb Beer
+Carl Gottlieb Heerklotz
+----------------
+Karl Anton Gottlieb Schlegel
+Carl Gottlieb Fröbel
+Carl Gottlob Preißler
+Johann Traugott Huß
+Gotthelf Friedrich Glöckner
+August Friedrich Leipner
+Gotthelf Friedrich Hunger
+----------------
+Traugott Friedrich Glöckner
+Carl Franz Theodor Leonhardt
+August Friedrich Heerklotz
+August Friedrich Hartwig
+Gottlieb Friedrich Weißbach
+Ernst Heinrich Schlegel
+Carl Gottlieb Hetzel
+----------------
+Karl Ludwig Eulenberger
+Karl Friedrich Fürchtegott Dietel
+Karl Gottlob Beer
+Karl Friedrich Böhme
+Friedrich Wilhelm Oelschlägel
+Karl Friedrich Glöckner
+Karl Friedrich Hengst
+Karl August Leberecht Hachenberger
+----------------
+Karl Moritz Klopfer
+Karl Gottlieb Oehme
+Johann Traugott May
+Karl Gottlieb Kempe
+Traugott Friedrich Illing
+Karl Gottlieb Beckert
+Traugott Friedrich Lippmann
+----------------
+Karl Friedrich Martin
+Andreas Petzschke
+Gottlieb Köhler
+Karl Gottlob Hetze
+Gotthelf Friedrich Leberecht Neubert
+Fürchtegott Leberecht Kaden
+Karl Friedrich Meyer
+August Friedrich Ilgen
+----------------
+Christian Gottlieb Dietrich
+Karl August Leberecht Heerklotz
+Gottlob Friedrich Hampel
+Friedrich Ferdinand Niezel
+Wilhelm Fürchtegott Maeke
+----------------
+1835
+Johann Gottlieb Friedrich Philipp
+Christian Gottlob Beyer
+Johann August Haferkorn
+Traugott Friedrich Fischer
+Johann Gottfried Fleischer
+Heinrich Fürchtegott Lohse
+Johann Gottlieb Schmerler
+Karl Traugott Zemmrich
+August Friedrich Böttger
+----------------
+Karl Gottlieb Gehmlich
+Wilhelm Fürchtegott Zimmermann
+Karl Gotthold Lichtenberger
+Gottlieb Friedrich Weiß
+Karl Friedrich Grösel
+Gottlob Friedrich Mattheß
+Karl August Schlegel
+Gotthelf Friedrich Schubert
+Heinrich Fürchtegott Wagner
+August Friedrich Neubert
+----------------
+Karl Gottlieb Schlegel
+Karl Gottlieb Neubert
+Christian Gottlieb Heinrich Drechsel
+Karl Gottlob Kreller
+Gotthelf August Müller
+Gottlob Friedrich Ferdinand Richter
+Karl Gottlob Müller
+Christian Wilhelm Schmieder
+Johann Friedrich Müller
+----------------
+Friedrich Fürchtegott Beer
+Daniel Heydenreich
+Johann Gottlieb Ziller
+Karl Friedrich Heinrich
+Gotthelf Heinrich Stiehl
+Moritz Tränkner
+Friedrich Gotthelf Fischer
+August Friedrich Heinrich
+Georg Friedrich Einert
+----------------
+Christian Traugott Siegert
+Gotthelf Friedrich Meyer
+Wilhelm Gustav Gleditzsch
+Traugott Friedrich Müller
+Christian Friedrich Müller
+Friedrich Wilhelm Schlesier
+August Friedrich Thiele
+August Friedrich Herrmann
+----------------
+Karl Gottlieb Hofmann
+Karl Moritz Walter
+Karl Julius Granert
+Gottlob Friedrich Kempe
+Traugott Friedrich Beer
+----------------
+1836
+August Friedrich Schlegel
+Karl Friedrich Schickel
+August Friedrich Richter
+Christian Samuel Fürchtegott Steinert
+Johann Karl Gottlob Liebscher
+Christian Friedrich Tränkner
+August Friedrich Müller
+Karl Gottlob Kempe
+----------------
+Adam Friedrich Kaden
+Karl Gottlob Helmert
+Friedrich Fürchtegott Hunger
+Gottlob Leberecht Meyer
+Christian Friedrich Gotthold Rauh
+Gotthelf Friedrich Fritzsche
+Johann Gottfried Oelschlägel
+Karl Friedrich Müller
+----------------
+Wilhelm Leichsenring
+Karl Friedrich Schlesier
+August Friedrich Dietel
+Wilhelm Friedrich Pflugbeil
+August Friedrich Beyer
+Karl Eduard Hengst
+Johann Gottlieb Tanneberger
+Johann Friedrich Schlack
+Gotthelf Friedrich Andreas
+----------------
+Traugott Friedrich Eilzer
+Karl Wilhelm Gleditzsch
+Karl August Butter
+Gottlob Friedrich Beer
+Karl August Dittrich
+Karl Gottlieb Butter
+Traugott Friedrich Kempe
+Karl Gotthold Schlegel
+Karl August Müller
+----------------
+Karl Gottlob Drechsel
+Karl Gottlieb Böhme
+August Friedrich Hinkel
+Karl Gotthelf Müller
+Traugott Leberecht Hensel
+Karl Gottlieb Jeheber
+Franz Joseph Hinkel
+August Friedrich Beer
+Adolph Ludwig Niezel
+----------------
+Karl Friedrich Liebscher
+Adolph August Friedrich Thiele
+Karl Gottlieb Hegewald
+Johann Friedrich Krämer
+Friedrich Wilhelm Müller
+Gotthelf Friedrich Leberecht Mattheß
+Gotthold Friedrich Ubermann
+----------------
+1837
+Traugott Friedrich Kempe
+Gotthelf Friedrich Friedemann
+Gotthold Friedrich Krönert
+Gotthelf Friedrich Meyer
+Karl August Schmidt
+Friedrich Ludwig Wilhelm Beyer
+Karl August Helbig
+Christian Fürchtegott Richter
+----------------
+August Friedrich Fischer
+Karl Gottlieb Fritzsche
+Heinrich Albrecht Schmieder
+Johann Gottlieb Drechsel
+August Sigismund Böttger
+Karl Gottlob Drechsel
+Karl Friedrich Fürchtegott Tanneberger
+Franz Ferdinand Kropf
+----------------
+Johann Gotthold Helbig
+Christian Gottlob Liebscher
+Gottlieb Friedrich Biedermann
+Karl Gotthold Friedrich Hofmann
+Karl Friedrich Müller
+Karl Gottlieb Braune
+Traugott Friedrich Schlegel
+Samuel Friedrich Neuber
+----------------
+Ernst Fürchtegott Leberecht Böttger
+Gotthelf Friedrich Heinrich
+Friedrich Gottreich Böhme
+Karl August Kirschen
+Karl Gottlieb Neubert
+Gottlob Friedrich Mehner
+Karl Gottlob Morgenstern
+Karl Friedrich Walter
+----------------
+Johann Traugott Nicht
+Gotthelf Friedrich Hensel
+Karl Gottlieb Lippmann
+Friedrich Fürchtegott Kempe
+Carl Gottlieb Dietel
+Karl August Hegewald
+Carl Gottlob Bach
+Carl Friedrich Müller
+----------------
+Gottlob Friedrich Müller
+Friedrich Fürchtegott Haertwig
+Karl Friedrich Ehrenreich Strauß
+Carl Gotthold Beer
+Gotthelf Friedrich Fritzsche

@@ -1,5 +1,5 @@
 Mulda (Buch 282)
-Trauungen 1802-1829
+Trauungen 1802-1835
 https://www.archion.de/de/viewer/churchRegister/360014?pageId=50700759
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 1 Stunde
 Juni 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -426,3 +427,112 @@ Wilhelm Ferdinand Fischer
 Carl Gotthold Fritzsche
 Carl Friedrich Franke
 Carl Traugott Fischer
+----------------
+1830
+Christian Gottlieb Dietrich
+Joseph Laßmann
+Traugott Friedrich Clausnitzer
+Gottlieb Ehregott Grumbach
+----------------
+Friedrich Joseph Käßner
+Gottlieb Friedrich Burkhardt
+Johann Gotthelf Höppner
+Carl Friedrich Dienel
+----------------
+----------------
+1831
+Carl Friedrich Arnold
+Carl Friedrich Arnold
+Carl Gottlob Timmel
+Samuel Friedrich Schmerler
+----------------
+Fürchtegott Wolf
+Carl Gottlob Erler
+Johann Georg Höppner
+----------------
+Carl Gotthelf Göbelt
+Traugott Leberecht Hähnel
+1832
+Carl Friedrich Thiele
+----------------
+----------------
+Gotthold Friedrich Dietrich
+Carl Gottlieb Lehmann
+Friedrich Traugott Kunze
+Carl Friedrich Stiel
+----------------
+Carl Traugott Philipp
+Carl Gottlob Kirchner
+Gottlob Friedrich Thiele
+Gotthelf Friedrich Schröder
+----------------
+Carl Gottlieb Arnold
+Christian Gottlob Erler
+Christian Gottlieb Dietrich
+Christian Friedrich Morgenstern
+----------------
+1833
+Christian August Lippmann
+Carl Gottlieb Erler
+Wilhelm Clemens Ottomar Freyer
+Carl Friedrich Dittrich
+----------------
+Carl Gottlieb Irmer
+Friedrich Ehregott Morgenstern
+Carl Gottlieb Walther
+Carl Gottlob Beier
+----------------
+Carl Gottlob Gehmlich
+Carl Traugott Dienel
+Carl Gottlob Beier
+Friedrich Fürchtegott Heerklotz
+----------------
+Carl August Fischer
+1834
+Johann Traugott Thümmel
+Johann Gottlob Einert
+----------------
+Christian Friedrich Dietrich
+Carl Gottlieb Schulze
+Friedrich Fürchtegott Fritzsche
+----------------
+Carl Gottlob Dietrich
+Carl Gottlob Schramm
+Christian Engelhard Glaeser
+----------------
+Christian Gottlob Erler
+Carl August Uhlig
+August Friedrich May
+----------------
+Traugott Leberecht Fischer
+Carl Friedrich Anders
+Friedrich Fürchtegott Fritzsche
+----------------
+Carl Gottlieb Fischer
+Carl August Schönherr
+Ehregott Leberecht Herrmann
+----------------
+Carl Friedrich Thiele
+Carl Gottlieb Kempe
+----------------
+1835
+Friedrich Gottlieb Kummer
+Traugott Leberecht Andreas
+Carl Gotthold Hähnel
+----------------
+Johann Gotthelf Fuchs
+Johann Gottlob Dehnert
+----------------
+Christian Wilhelm Härtel
+Samuel Friedrich Pflugbeil
+----------------
+Friedrich Wilhelm Lippmann
+Carl Friedrich Killig
+----------------
+Johann Gottlieb Glaßer
+Johann Samuel Walther
+----------------
+Gotthelf Friedrich Göhler
+Carl August Neubert
+----------------
+Ernst Wilhelm Andreas
