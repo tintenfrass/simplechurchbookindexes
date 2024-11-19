@@ -1,5 +1,5 @@
 Dittersdorf (Buch 127)
-Trauungen 1784-1829
+Trauungen 1784-1836
 https://www.archion.de/de/viewer/churchRegister/294215?pageId=40868969
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -11,6 +11,7 @@ Oktober 2023
 Juni 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -576,3 +577,81 @@ Johann Gottlob Bormann
 Carl Wilhelm Mühle
 Johann Gottfried Weichelt
 Johann Carl Christlieb Hauswald
+1830
+Traugott Leberecht Büttner
+Friedrich Traugott Eichler
+Gottfried Ehregott Hesse
+----------------
+Carl Christian Kempe
+Friedrich August Stock
+Johann Gottlieb Mey
+Johann Gottfried Patzig
+Johann Gottlob Hesse
+Samuel Gottlieb Weinhold
+Carl Friedrich Nitzsche
+Johann Friedrich August Kleinert
+----------------
+Johann Gottlieb Hauschild
+1831
+Carl Friedrich Tiebel
+Johann Carl Gotthelf Mühle
+Johann Gottlob Lehmann
+Johann Christlieb Grahl
+----------------
+Carl Christlieb Schloffer
+Carl Gottlieb Heinrich Dietrich
+Johann Gottlieb Legler
+Johann Gottlob Heinrich Mühle
+1832
+Johann Gottfried Pellmann
+Johann Carl Gottlieb Lehmann
+Christoph Gottlieb Rehn
+----------------
+Johann Gottfried Reck
+Carl Traugott Pautsch
+Johann Gottfried Keiligt
+Carl Friedrich Estler
+Christian Traugott Jungnickel
+1833
+Carl Friedrich Traugott Liebert
+Johann Christlieb Gleditzsch
+----------------
+Friedrich August Büttner
+Friedrich Wilhelm Zimmerhäckel
+Carl Friedrich Gotthelf Hempel
+Johann Gottlieb Pellmann
+Anton Körner
+1834
+Carl Gottlob Grahl
+Johann Christlieb Schwenke
+----------------
+Johann Gottlieb Keiligt
+Carl Gottfried Zimmermann
+Carl Traugott Wolf
+Johann Traugott Stock
+Johann Gottlob Gäbler
+Johann Gottlob Geißler
+Christian Gottlieb Hauke
+----------------
+Johann Gottlob Holfert
+Johann Carl Gottlieb Patzig
+1835
+Johann Carl Gottlieb Weichelt
+Carl Gottlob Schütze
+Carl Gottfried Ehrhold
+----------------
+Johann Friedrich Traugott Knauthe
+Immanuel Ehrenreich Legler
+Carl Friedrich Schneider
+1836
+Carl Gottlieb Bobe
+Johann Gottfried Dittrich
+----------------
+Johann Christlieb Wahl
+Carl Gottlieb Gössel
+Johann Gottlieb Günther
+Johann Gottlob Schulze
+Carl Friedrich August Schubert
+Carl Gottlob Müller
+Johann Heinrich Holfert
+Carl Gottlieb Paust
