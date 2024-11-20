@@ -1,15 +1,16 @@
 Johnsbach (Buch 398)
-Trauungen 1803-1829
+Trauungen 1803-1839
 https://www.archion.de/de/viewer/churchRegister/294444?pageId=40915258
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 Juni 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -365,3 +366,171 @@ Johann Christlieb Kühnel
 Johann Christian Baron
 Carl Gotthelf Manzer
 Christian Friedrich Franke
+----------------
+1830
+Traugott Leberecht Büttner
+Carl Gottlieb Gietzelt
+Carl Friedrich Hornoff
+Johann Gottlieb Vogler
+Carl Gottfried Reichel
+Johann Christoph Güntzel
+----------------
+Carl Gottfried Bobe
+Carl Gottlob Friebel
+Carl Friedrich Traugott Kadner
+Johann Gottlieb Vogler
+Christian Friedrich Träger
+----------------
+1831
+Carl Friedrich August Martin
+Friedrich Gotthelf Friebel
+Carl Friedrich August Schwenke
+Carl Gottlieb Müller
+Carl August Fischer
+Johann Christian Palisch
+----------------
+Heinrich Wilhelm Sander
+Carl Gottfried Büttner
+Carl Gottlob Fuhrmann
+Johann Christlieb Grahl
+Carl Friedrich Neubert
+Carl Gottfried Träger
+----------------
+Johann Carl Gottlob Fuß
+Carl Gottlob Mühle
+Johann Gottlob Mühle
+Carl Gotthelf Fürchtegott Güldner
+Johann Gottfried Scharfe
+----------------
+1832
+Carl August Neubert
+Carl Gottlob Schmieder
+Carl Gottfried Wolf
+Carl August Friedrich Vogel
+Carl Friedrich Pieschel
+Johann Gottlob Lohse
+Carl Christlieb Pieschel
+----------------
+Johann Heinrich Traugott Querner
+Johann Gottfried Jäpelt
+Johann Gottlieb Reichel
+Carl Christlieb Schwenke
+Carl Gotthelf Löwe
+1833
+Johann Leberecht Mietdank
+Johann Friedrich Neubert
+Johann Ferdinand Estler
+----------------
+Carl Gottlob Zeibig
+Johann Gottlob Klotz
+Johann Christian Friedrich Büttner
+Carl Christian Schwenke
+Carl Gottlieb Büttner
+Johann Gottfried Stürmer
+Johann Gottlieb Pellmann
+Gottlob Friedrich Berger
+Carl Gottlob Wolf
+----------------
+Johann Carl August Mäschke
+Johann Gottlob? Erhard
+Carl Gottlob Erhard
+1834
+Carl Friedrich Wilhelm Kästner
+Johann Gottlieb Löwenstein
+Carl Gottlieb Legler
+Friedrich Wilhelm Gietzelt
+----------------
+Carl Friedrich Legler
+Johann Gottlob Vogler
+Carl Christlieb Leberecht Büttner
+Carl Gottlieb Thiele
+Johann Gottlob Geißler
+Carl Gottlieb Bobe
+Johann Gottlob Schmieder
+Friedrich Leberecht Querner
+Johann Gottlob Querner
+----------------
+Gottlob Friedrich Walther
+Johann Gottfried Bällmann
+Johann Gottlieb Udolph
+Carl Gottlob Wolf
+Carl Gotthelf Lohse
+1835
+Carl Gottfried Büttner
+Johann Christian Lohse
+Gottlob Friedrich Helbig
+Traugott Leberecht Rüthrich
+----------------
+Johann Gottlob Lohse
+August Friedrich Wilhelm Klotz
+Carl Gottlieb Lohse
+Johann Gottfried Ebert
+Carl Gottlob Baumgarten
+Carl Friedrich Gotthelf Klotz
+Carl Gottlieb Kühnel
+Johann Traugott Leberecht Erhard
+Johann Gottlob Gößel
+----------------
+Carl Gottfried Stock
+Carl Gottlob Kästner
+Johann Friedrich Mende
+1836
+Carl Friedrich Ferdinand Uhlig
+Carl Gottlob Löwe
+Carl August Neubert
+Carl Christlieb Höntzsch
+Friedrich August Gößel
+Carl Gottlieb Bobe
+Friedrich August Meißner
+----------------
+Johann Christlieb Wahl
+Carl Gottlob Kuntze
+Carl Gottlieb Klotz
+Carl Gottlieb Leberecht Schütze
+Carl Gottlieb Günthermann
+Carl Gottlieb Kayser
+Carl Gottfried Köhler
+Friedrich August Grimmer
+1837
+Friedrich Julius Friebel
+Carl Gottlob Träger
+----------------
+Johann Gottlob Bobe
+Carl Gottlob Crönerz
+Johann Christlieb Kühnel
+Carl Gottlieb Richter
+Carl Gottlieb Liebscher
+Johann Gottlob Friebel
+Carl Gottlob Löwe
+Friedrich Gotthelf Büttner
+1838
+Johann Christoph Ehrenreich Hempel
+Johann Gottlob Reichert
+----------------
+Carl Gottlob Zeibig
+Carl Christlieb Baumgarten
+Carl Gottlieb Fischer
+Johann Friedrich August Pretzschner
+Johann Christlieb Reichel
+1839
+Johann Traugott Mathe
+Carl Gottlob Merbst
+Friedrich Traugott Tittel
+Johann Friedrich August Köhler
+----------------
+Carl Gottlieb Vogler
+Johann August Stock
+Johann Gottlieb Traugott Hauswald
+Johann Christoph Giebe
+Friedrich August Stephan
+Julius Alexander Bruhm
+Johann Gotthelf Jungnickel
+Carl Christian Hannapp
+----------------
+Carl Gottlieb Baumgarten
+Carl Gottlob Leberecht Erhard
+Joseph Anton Jungmann
+Johann Gottfried Schelle
+Carl Gottlieb Träger
+Johann August Friedrich Hahmann
+Carl Friedrich Fischer

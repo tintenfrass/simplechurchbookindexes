@@ -1,5 +1,5 @@
 Fördergersdorf (Buch 199)
-Trauungen 1778-1829
+Trauungen 1778-1832
 https://www.archion.de/de/viewer/churchRegister/294274?pageId=40884243
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -12,6 +12,7 @@ August 2023
 Juni 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -861,3 +862,52 @@ Carl Gotthelf Köhler
 Carl Gottlob Fiedler
 Johann Gottlob Wachsmuth
 Johann Gottlob Betsch
+1830
+Johann Gottlieb Hensel
+Johann August Kühne
+Johann Christian Schulze
+Johann Gottlieb Fleischer
+August Leopold Groß
+Carl Gottlob Roch
+Christian August Göpfert
+Johann Heinrich Ende
+Christian Friedrich Müller
+Johann Carl Friedrich Horn
+Johann David Treffkorn
+Johann Friedrich Baumhart
+Israel Ehregott Keller
+1831
+Johann Gottlieb Iltzsche
+Johann Gottlieb Dietrich
+Carl August Richter
+Carl Gottlob Patzig
+Carl Gottlob Treffkorn
+Johann Gottlob Schumann
+Carl David Böhme
+Johann Christian Schubert
+Johann Traugott Irmer
+Friedrich Gotthelf Bock
+Friedrich Götze
+Christian Traugott Neumann
+Carl Moritz Ferdinand Zschoche
+Carl Gottfried Strohbach
+1832
+Johann Gotthelf Richter
+Carl Friedrich Taubig
+Christian Gottlieb Pietsch
+Johann Carl Gottlieb Meltzer
+Carl Gottlieb Büttner
+Christian Gottlieb Lindner
+Friedrich August Töpfer
+Carl Gottlob Ritter
+Christian Friedrich Strohbach
+Carl Friedrich August Pommrich
+Emil Friedrich Gutkäs
+Franz Xaver Hille
+Christian Gottlieb Kleber
+Johann Traugott Funke
+Carl Gottlieb Büttner
+Carl Gotthelf Köhler
+Johann Friedrich Wilhelm Vetter
+Johann Carl Gottlieb Fritzsche
+Carl Gottlieb Göpfert

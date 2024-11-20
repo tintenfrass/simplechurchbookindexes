@@ -1,5 +1,5 @@
 Fürstenwalde (Buch 278)
-Trauungen 1800-1829
+Trauungen 1800-1830
 https://www.archion.de/de/viewer/churchRegister/294344?pageId=40895333
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 0,5 Stunde
 Juni 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -257,3 +258,8 @@ Friedrich Gotthelf Nitsche
 Johann Carl Heinrich Tempel
 Samuel Siegfried Schramm
 Carl Gottlob Bierig
+1830
+Johann Friedrich Löwe
+----------------
+Johann Gottlieb Löwe
+Carl Gottlieb Daniel Eichler

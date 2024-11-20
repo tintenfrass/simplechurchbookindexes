@@ -1,5 +1,5 @@
 Fürstenau (Buch 249)
-Trauungen 1800-1829
+Trauungen 1800-1830
 https://www.archion.de/de/viewer/churchRegister/294318?pageId=40893929
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 0,5 Stunde
 Juni 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -254,3 +255,9 @@ Carl Gottlieb Leonhard
 Carl Gottlieb Knauthe
 Karl Gottlob Heinrich Küchler
 Immanuel Friedrich Knauthe
+----------------
+1830
+Friedrich Ehregott Kirsten
+Carl Gottlieb Dietrich
+Carl Gottlieb Gössel
+Carl Gotthelf Beyer

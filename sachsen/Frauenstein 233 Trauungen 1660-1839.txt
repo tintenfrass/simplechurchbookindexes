@@ -1,15 +1,16 @@
 Frauenstein (Buch 233)
-Trauungen 1660-1829
+Trauungen 1660-1839
 https://www.archion.de/de/viewer/churchRegister/294306?pageId=40890969
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 3,5 Stunden
+Erstellt in ca. 4 Stunden
 Oktober 2023
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -2324,3 +2325,204 @@ Carl Gottlob Schlider
 Gotthelf Immanuel Philipp
 Carl Gottlob Schulze
 Carl Gottlieb Kaiser
+----------------
+1830
+Carl Gottlob Zimmermann
+August Nicolai
+Christian Friedrich Müller
+Johann Christoph Weise
+Carl Leberecht Bachmann
+----------------
+Friedrich August Göpfert
+Carl Gottlob Wilisch
+Carl Gustav Schmidt
+Friedrich August Göhler
+Carl Gottlob Zimmermann
+----------------
+Johann Samuel Rudolph
+Johann Carl Gottlieb Kästner
+Carl Gotthelf Reichelt
+Fürchtegott Leberecht Martini
+----------------
+1831
+Carl Eduard Raschig
+Johann Gottlieb Bernd
+Christian Friedrich Ihle
+Friedrich Fürchtegott Rülke
+Johann Gottfried Neuhäuser
+----------------
+Friedrich Fürchtegott Lohse
+Carl Gottlieb Richter
+Johann Gottlieb Dittrich
+Carl Gottfried Liebscher
+Carl Gottlob Erler
+----------------
+Gotthelf Friedrich Wolf
+Carl Gottlieb Wolf
+Carl Friedrich August Kaden
+Christlieb Friedrich Müller
+Carl Friedrich Böhme
+----------------
+Carl August Stübner
+Moritz August Liebsch
+Carl Friedrich Gotthelf Reichel
+Carl Friedrich Grimmer
+----------------
+Carl August Zimmermann
+1832
+Carl Friedrich Dittrich
+Georg Carl Wolf
+Johann Friedrich Gottlieb Lohse
+----------------
+----------------
+Carl Gottlob Schäfer
+Johann Christoph Fischer
+Johann Christoph Böhme
+Samuel Gottlieb Glöckner
+Carl August Ferdinand Schmieder
+----------------
+Carl Gottlieb Hänel
+Ehregott Michael Walter
+Carl Friedrich Hofmann
+Carl Friedrich August Polster
+----------------
+1833
+Johann Gottlieb Hering
+Johann Gottlieb Wolf
+Carl Friedrich Schlorke
+Johann Christoph Liebscher
+Carl Gottlieb Köhler
+----------------
+Traugott Böhme
+Christian Friedrich Schmutzler
+August Leberecht Kämpfe
+Carl Gottlieb Schneider
+----------------
+Friedrich Gottlieb Seyfried
+Carl Göhler
+Carl Traugott Dienel
+Friedrich Gottlieb Polster
+Carl Gottlieb Bernd
+----------------
+1834
+Johann Gottlob Richter
+August Friedrich Göhler
+Johann Gottfried Dünger
+Johann Christoph Kaubisch
+----------------
+Gottfried Lehmann
+Carl Gottlieb Lose
+Friedrich August Hofmann
+Carl Gottlieb Göhler
+Carl Gottlob Friedrich Jäkel
+----------------
+Wilhelm Fürchtegott Mäke
+Johann Gottlieb Leiteritz
+Johann Samuel Richter
+----------------
+1835
+Johann Gottfried Richter
+Johann Ehregott Schönherr
+Johann Ehregott Ludwig Göhler
+Wilhelm Ehregott Heynig
+----------------
+Gustav Raschig
+Carl August Walter
+Christian Friedrich Eulenberger
+Constantin Flade
+Christian Friedrich Kirsch
+----------------
+Johann Gottlieb Schubert
+Carl Gottlieb Göhler
+Carl Gottlieb Schramm
+Carl Gottlob Kaltofen
+Friedrich Zacharias Wolf
+----------------
+Johann Gottlob Richter
+Carl Friedrich Joseph Stachel
+1836
+Carl Friedrich Tröger
+Georg Gottlieb Richter
+----------------
+----------------
+Carl Friedrich Preißler
+Carl Gottlieb Niewand
+Friedrich Wilhelm Schicketanz
+Carl Adolph Weinhold
+----------------
+Johann Gottlieb Böhme
+Albert Leonhard Kaden
+Heinrich Ferdinand Langer
+Christian Gottfried Leberecht Stange
+Johann Mieth
+----------------
+Johann Christian Gottlieb Richter
+Johann Gottfried Lippmann
+Carl Friedrich Göhler
+1837
+Carl Friedrich Müller
+----------------
+Carl Gottlob Schröder
+Carl Gottlieb Richter
+Johann Carl Gottlieb Heymann
+Carl Friedrich Weise
+Carl Gottlieb Rietzschel
+----------------
+Friedrich Ludwig Wilhelm Beyer
+Johann Gottlob Reiher
+Christian Gottfried Zennich
+Philip Jacob Raparlie
+Friedrich Wilhelm Beyer
+----------------
+Christian Friedrich Kempe
+Carl Ludwig Größel
+Heinrich Ludwig Belzing
+Carl August Wenzel
+----------------
+Christian Friedrich Zinke
+Max Julius Böhme
+Albert Rupprecht
+Carl Traugott Franke
+----------------
+Adam Friedrich Köhler
+Johann Gottlieb Walther
+1838
+Christian Friedrich Reichel
+Joseph Dittrich
+----------------
+Ehregott Leberecht Stenzel
+Carl Christoph Schmelzer
+Carl August Dittrich
+Gustav Anton Steudel
+Johann Carl Gottlob Beutner
+----------------
+Christian Gottlieb Schneider
+Johann Friedrich Hanberger
+Ehregott Friedrich Kröner
+Carl August Heinrich Winter
+----------------
+Johann Friedrich Gottlob Löhr
+Friedrich Wilhelm Eduard Schumann
+Carl Friedrich Zimmermann
+----------------
+1839
+Carl Gottlob Börner
+Carl Friedrich Wilhelm Herklotz
+Carl Friedrich Gotthelf Tröger
+Carl August Kaden
+----------------
+Gottlob Friedrich Hennig
+Friedrich Ehregott Richter
+Johann Samuel Klotz
+Johann Gottlieb Göhler
+Christian Friedrich Kirschen
+----------------
+Carl Gottlob Naumann
+Carl Christoph Kaden
+Georg Friedrich Bernd
+Carl Traugott Richter
+Georg Friedrich Göhler
+----------------
+Carl Gotthelf Hähnel
+Friedrich Wilhelm Machold
+Christian Gottlob Benjamin Kliemann

@@ -1,15 +1,16 @@
 Höckendorf (Buch 384)
-Trauungen 1800-1829
+Trauungen 1800-1839
 https://www.archion.de/de/viewer/churchRegister/294433?pageId=40911950
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stunden
+Erstellt in ca. 2 Stunden
 Juni 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -606,3 +607,200 @@ Johann Gottlieb Köhler
 Carl Traugott Uhlich
 Gustav Ludwig Ernst Junghaehnel
 Heinrich Gottlob Berthold
+1830
+Johann Gottlieb Hamann
+Daniel Gottlieb Baumgart
+----------------
+Carl Gottlieb Krumbholz
+Christian Friedrich Albrecht
+Johann Gottlob Bernhardt
+Carl Gottlieb Grahl
+Christian Gottlieb Geißler
+Christian Gottlieb Lotze
+Gotthelf Benjamin Fischer
+Johann Gottlob Hegewald
+Johann Christian Conrad
+Johann Gottfried Richter
+Carl Gottlieb Kohl
+Johann Samuel Gottlieb Grahl
+----------------
+Carl Gottfried Heinrich Zimmermann
+Johann Christian Hamann
+Carl Gottlieb Richter
+Carl Gottlieb Clausnitzer
+1831
+Carl Gottlieb Thiele
+Carl Friedrich Krause
+Johann Samuel Gottlieb Lohse
+Johann Gottfried Hegewald
+Carl Gottlieb Böhme
+Carl Gottlieb Geißler
+----------------
+Johann Gottlob Klotz
+Johann Friedrich August Zimmermann
+Carl Christian Hauptvogel
+Carl Gottlieb Töpfer
+Johann Gottlieb Schmieder
+Carl Gottfried Ebert
+Friedrich Benjamin Löbner
+Carl Heinrich Schröder
+Carl Gottlieb Lempe
+Carl Gottlieb Grimmer
+----------------
+1832
+Gotthelf Friedrich Lange
+Johann Gottlieb Patzig
+Johann Gottlob Ebert
+Johann Gottlieb Daniel Müller
+Johann Daniel Heinrich Böhme
+Friedrich August Neubert
+Johann Gotthelf Holfert
+Johann Christoph Zimmermann
+Johann Schramm
+Traugott Leberecht Berthold
+Carl Gottfried Ebert
+Johann Gottfried Nacke
+----------------
+1833
+Johann Gottlob Krause
+Carl Gottfried Richter
+Carl Gottfried Böhne
+Carl August Zimmermann
+Carl Gottlieb Böhme
+Johann Gottfried Lohse
+Friedrich Wilhelm Böhme
+Carl Gottlieb Seliger
+Ferdinand Anselm Lindenau
+Johann Ehregott Schultze
+Carl Gotthelf Ruhland
+----------------
+Johann Gottlieb Grimmer
+Carl Gottfried Kleber
+Carl Christian Hauptvogel
+Daniel Heinrich Hehne
+1834
+Carl Gottfried Patzig
+Daniel Gottlieb Holfert
+Johann Gottlieb Böhme
+Herrmann Adolph Klinger
+Johann Gotthelf Bretschneider
+----------------
+August Wilhelm Richter
+Carl Gottlieb Erler
+Johann Gottfried Zimmer
+Johann Carl August Neubert
+Johann Gottlieb Enderlein
+Carl Friedrich August Funke
+Carl Friedrich Traugott Dittrich
+Friedrich August Krumbholz
+----------------
+Ehrenfried Gottlieb Kohl
+August Heinrich Bütner
+Johann Gottlieb Ephraim Zimmermann
+Carl Gottlieb Müller
+Carl Traugott Wagner
+Friedrich Wilhelm Ebert
+Carl Traugott Pöschel
+----------------
+Christian Heinrich Jänich
+Friedrich Haehle
+1835
+Johann August Köppe
+Carl Gottfried Baumgart
+Johann Heinrich Schubert
+Carl Heinrich Baumgart
+Christian Gottlieb Baumgart
+Carl Gottlieb Holfert
+Samuel Gottlieb Bormann
+Johann Carl Wilhelm Köppe
+----------------
+Johann Gottlieb Traugott Leuteritz
+Carl Gottlieb Braune
+Samuel Gottfried Baumgart
+Abraham Gottfried Menzer
+Gottfried Leberecht Holfert
+Carl Gottlieb Uhlemann
+Johann Carl Friedrich Müller
+Christian Traugott Menzer
+Johann Gottfried Krumbholz
+Carl Friedrich Uhlemann
+----------------
+Friedrich August Hartmann
+Johann Gotthelf Erler
+Johann Christian Keilig
+Heinrich Wilhelm Kunath
+1836
+Johann Gotthelf Arnold
+Christian Gottlieb Kohl
+Johann Julius August Horn
+Carl Traugott Wolf
+Carl Gottlieb Richter
+Johann Carl Traugott Wünschmann
+----------------
+Heinrich August Stein
+Johann Carl Gottlob Zänker
+Carl Daniel Bormann
+Johann Gottlieb Schiffel
+Heinrich Gottlieb Jänich
+Carl Gottlieb Patzig
+Johann Gottfried Richter
+1837
+Johann Christoph Aßmann
+Carl Benjamin Pfeifer
+Carl Gottlieb Ebert
+----------------
+Carl Wilhelm Friedrich Walther
+Carl Gottlieb Zimmermann
+Johann Carl Gotthelf Hofmann
+Samuel Gottlieb Grahl
+Carl Gottlieb Zimmermann
+Johann Gottfried Büttner
+Johann Samuel Patzig
+Karl Gottfried Ihle
+Johann Gottfried Hauptvogel
+Friedrich Wilhelm Dietrich
+Christian Gottlieb Stenzel
+Carl Gottlieb Fischer
+Carl Lobegott Ehrenreich Heber
+----------------
+1838
+Johann Carl Gottlieb Boehme
+Carl Gottlieb Patzig
+Johann Gottlob Baumgart
+Carl August Schönberger
+Johann Carl Gottlieb Kimmelberger
+Carl August Grimmer
+Carl Gottfried Zimmermann
+Johann Gottlob Graf
+Gottlob Heinrich Klemm
+Johann Heinrich Schneider
+Gustav Wilhelm Kluge
+----------------
+Johann Gottlieb Näcke
+Carl Friedrich Schneider
+Ernst Ferdinand Dietrich
+Carl Gottlieb Schneider
+Carl Gottlieb Kohl
+Friedrich August Büttner
+Johann Christian Gottlieb John
+Carl Gottlieb Nitzsche
+Johann Gottlieb Zscheile
+Gotthold Friedrich Schneider
+----------------
+Gustav Friedrich John
+Gottlieb Ehrenfried Hehne
+1839
+Johann Christoph Rau
+Christian Gottlieb Irmer
+August Benjamin Morgenstern
+Carl August Nitzsche
+Gottlieb Heinrich Heber
+Carl Gottfried Geißler
+Ferdinand Schillhahn
+Christian Gottlieb Lotze
+----------------
+August Leberecht Glöckner
+August Robert Boerner
+Johann Carl Müller
+Johann Gottlieb Wegbrod
+Johann August Friedrich Bellmann

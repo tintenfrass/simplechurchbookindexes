@@ -1,5 +1,5 @@
 Hartmannsdorf (Buch 322)
-Trauungen 1764-1829
+Trauungen 1764-1839
 https://www.archion.de/de/viewer/churchRegister/294383?pageId=40903926
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -11,11 +11,12 @@ Teil 2: Aufgebote
 Teil 3: Trauungen
 
 
-Erstellt in ca. 1,5 Stunde
+Erstellt in ca. 2 Stunden
 Oktober 2023
 Juni 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -685,7 +686,104 @@ Johann Carl Samuel Richter
 Johann Gottlieb Zimmermann
 Johann Gottlob Schulze
 Johann Carl Friedrich Müller
----------------- x18
+----------------
+1830
+Carl Gottlob Zimmermann
+Georg Gottlieb Börner
+Friedrich August Zimmermann
+Johann Gottlieb Kästner
+Johann Carl Gottlieb Kästner
+Carl Gottfried Fischer
+----------------
+1831
+Johann Christoph Diener
+Carl Friedrich Bernhardt
+Daniel Träger
+David Wilhelm Dietrich
+Carl Salomo Liebscher
+Friedrich Gotthelf Zimmermann
+----------------
+Samuel Friedrich Lehmann
+1832
+Carl Christoph Träger
+Gottlob Böhme
+Carl Friedrich Tröger
+----------------
+Carl Gottlob Gelfert
+Carl Gottlieb Fischer
+Carl Friedrich Schubert
+Carl Gottfried Ernst
+Georg Caspar Göhler
+----------------
+1833
+Johann Michael Loose
+Carl Gottfried Köhler
+Samuel Bernhardt
+Carl Christoph Fischer
+Friedrich Wilhelm Träger
+----------------
+Carl Gottfried Schneider
+Carl Gottlieb Göhler
+1834
+Friedrich Wilhelm Zimmermann
+----------------
+Johann Friedrich Rüger
+Johann Gottlieb Träger
+Johann Gottlieb Menzer
+Johann Gottlieb Roth
+----------------
+1835
+Georg Friedrich Kempe
+Carl Friedrich Ficke
+Traugott Leberecht Kandler
+Johann Gottlieb Dittrich
+Georg Friedrich Böhme
+----------------
+Carl Gottlieb Schneider
+Carl Wilhelm Feller
+1836
+Carl Friedrich Schneider
+Carl Gottlieb Morgenstern
+----------------
+Carl August Bellmann
+Carl Wilhelm Bernhardt
+1837
+Traugott Friedrich Liebscher
+Gottlieb Friedrich Göhler
+----------------
+Friedrich August Richter
+Carl Gottlieb Ernst
+Johann Christlieb Hofmann
+Carl Friedrich Ernst
+----------------
+Ehregott Wilhelm Dietze
+Carl Gottlieb Glaser
+Johann Samuel Köhler
+Carl Gottlieb Haebelt
+----------------
+Carl Friedrich Grimmer
+1838
+Mattheus Anton Maier
+Christian Friedrich Reichel
+----------------
+Georg Friedrich Weichelt
+Carl Gottlieb Köhler
+Christian Friedrich Leiteritz
+Johann Gottlieb Weichelt
+----------------
+Carl Gottlob Fischer
+Carl Gottlieb Bernhardt
+Johann Samuel Rietzschel
+----------------
+Carl Gottlieb Zimmermann
+Johann Daniel Leiteritz
+Georg Gottlieb Kaestner
+Carl Friedrich Richter
+----------------
+Johann Carl Christoph Hennig
+Friedrich August Börner
+Johann Samuel Fischer
+----------------
 1764
 Johann Christian Götzelt
 Christoph Zimmermann
@@ -859,3 +957,12 @@ Johann Gottlieb Lippmann
 Johann Gottlob Zimmermann
 Friedrich Gottlieb Lippmann
 Gottfried Andreas Müller
+----------------
+1839
+Johann Gottlieb Mende
+Samuel Friedrich Böhme
+Carl Gottlob Richter
+Johann Gottlieb Hennig
+----------------
+Carl Gottlob Rüdiger
+Christian Friedrich Körner
