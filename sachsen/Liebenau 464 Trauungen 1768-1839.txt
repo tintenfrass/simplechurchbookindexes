@@ -1,16 +1,17 @@
 Liebenau (Buch 464)
-Trauungen 1768-1829
+Trauungen 1768-1839
 https://www.archion.de/de/viewer/churchRegister/305485?pageId=42939248
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stunden
+Erstellt in ca. 2 Stunden
 Oktober 2023
 Juni 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -663,3 +664,126 @@ Johann Gottlieb Friebel
 Carl Gottlob Heinrich Küchler
 Carl August Leopold
 Johann Carl Christlieb Hauswald
+1830
+Johann Gottlieb Bretze
+Johann Gottlieb Heinrich Peukert
+Carl Gotthelf Richter
+----------------
+Immanuel Friedrich Weiland
+Carl Gottfried Reichel
+Carl Christian Kempe
+Carl Friedrich Bretschneider
+Johann Gottlieb Berthold
+1831
+Carl Gottlob Bretschneider
+----------------
+Georg Adam Scherer
+Wilhelm Friedrich Heymann
+Johann Gotthelf Küchler
+Ernst August Glauch
+Carl Gottlieb August Ehrlich
+----------------
+Christlieb Leberecht Peukert
+Johann Gottlieb Zillger
+Carl Friedrich Böhme
+Johann Gottlob Bretschneider
+1832
+Christian Gottlob Grahle
+----------------
+Carl August Neubert
+Carl Gottfried Seyffert
+1833
+Christlieb Heinrich Fischer
+Samuel Bernhardt
+----------------
+Carl Gottlob Scharfe
+Johann Gottlob Heinrich Schiebel
+Johann Gottlob Zimmerhäckel
+Johann Gottlieb Ehrenberg
+----------------
+Christoph Gotthelf Lehmann
+Friedrich August Küchler
+Johann Traugott Klengel
+Johann Christian Friedrich Schindler
+----------------
+1834
+Carl Friedrich August Glauch
+Christian Friedrich Schmiedel
+Heinrich Christlieb Schneider
+Georg Friedrich Fuchs
+Carl August Schulze
+----------------
+Friedrich August Wald
+Johann Gottlob Schneider
+Carl Friedrich Pech
+Johann Gottlieb Kühnel
+1835
+Carl Friedrich Pech
+Carl Gottlieb Mathe
+----------------
+Friedrich Gotthelf Lamm
+Carl Gottlieb Ölschlegel
+Christian Gottlob Kunau
+Carl Friedrich August Drechsler
+Carl Gottlob Ganßauge
+Johann Friedrich August Franke
+----------------
+Gottfried Heinrich Jäpel
+Johann Gottlob Pezold
+Carl Christoph Hauswald
+Carl Gottfried Scharfe
+1836
+August Gottlieb Bekkert
+Carl Christoph Jäpel
+----------------
+Johann Daniel Göbel
+Johann Gottlob Gottschalk
+Carl Gottlob Rosch
+Johann Carl Gottlob Schurig
+Christoph Gottlob Franke
+Heinrich Christoph Gottlob Mühle
+----------------
+Johann Carl Gottlob Gössel
+Carl Siegismund Rehn
+Carl Gottlieb Heinrich Tiebel
+Johann Christian Gottlob Sethmacher
+Carl Gottfried Grahle
+Christian Gottfried Gäbler
+----------------
+1837
+Gotthold Leberecht Zilcher
+Carl Gottlob Jäpel
+Samuel Traugott Schütze
+Carl August Kühnel
+Carl Heinrich Bretschneider
+August Gotthold Friebel
+----------------
+Friedrich Gottlieb Goldammer
+Johann Gottfried Heinrich Appelt
+Anton Hubertus Wiedenhein
+Carl Gottlieb Peukert
+1838
+Heinrich August Lotze
+----------------
+Friedrich Wilhelm Lehmann
+Johann Gottlieb Heinrich Peukert
+Johann Gottlob Leupold
+Johann Gottfried Kohl
+Johann Carl Gottlieb Hauswald
+Carl Heinrich Ernst Kühnel
+----------------
+Carl Friedrich Kühnel
+Carl Gottlieb Schneider
+Johann Carl Wilhelm Jäpel
+Friedrich Gottlieb Rietschel
+Christoph Gottlieb Bretschneider
+Gottlieb Heinrich Mühle
+----------------
+Johann Christian Flasche
+1839
+Carl Gottlob Philipp
+Carl Friedemann Mühle
+Johann Carl Gottlieb Mühlbach
+Carl Wilhelm Seyfert
+----------------
+Carl Gottlieb Scheinert
