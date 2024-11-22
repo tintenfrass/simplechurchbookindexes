@@ -1,15 +1,16 @@
 Reichstädt (Buch 602)
-Trauungen 1800-1829
+Trauungen 1800-1839
 https://www.archion.de/de/viewer/churchRegister/305602?pageId=42965675
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Juni 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -482,3 +483,176 @@ Carl Friedrich Jähmlich
 Carl Christoph Lohse
 Carl Friedrich Zönnchen
 Carl Wilhelm Schneider
+1830
+Johann Gottlieb Irmisch
+----------------
+Carl Friedrich Hornuff
+Carl Gottlieb Gietzelt
+Carl Gottlieb Grahle
+Carl Gottlieb Glöckner
+Johann Gottfried Trobisch
+Johann Gottlieb Francke
+Johann Gottlieb Köhler
+Carl Gottlieb Fuchs
+----------------
+Friedrich Wilhelm Scheinpflug
+Carl Friedrich Reichel
+Johann Gottlob Wolf
+Friedrich August Orgus
+Caspar Carl Philip Eitz
+1831
+Carl Gottlieb Rüdiger
+----------------
+Carl Gottfried Beyer
+Carl Gottfried Praßer
+Johann Christian Fuchs
+Carl Gottfried Dittrich
+Carl Heinrich Wenzel
+Johann Gottlieb Liebscher
+Carl Friedrich Richter
+----------------
+Johann Gottlob Uhlig
+Carl Gottlob Reichel
+Daniel Braune
+Gotthelf Schneider
+Friedrich August Weise
+Carl Gottlieb Reichel
+Carl Traugott Gölfert
+----------------
+Heinrich Sigismund Heber
+Carl Gotthelf Ebert
+1832
+Carl Gottlob Friedrich Wolf
+Christian Gottlieb Mäcke
+Christian Friedrich Voigt
+Johann Gottlieb Fischer
+----------------
+Johann Gottlieb Grahl
+Carl Leberecht Fuchs
+Carl Gottlieb Köhler
+Carl Friedrich Grimmer
+Carl Gotthelf Voigt
+Johann Friedrich Zönnchen
+Johann Adolph Klinger
+Carl Friedrich Voigt
+Daniel Gottlieb Herklotz
+----------------
+1833
+Gustav Friedrich Harnisch
+Johann Samuel Geier
+Carl Friedrich Börner
+Carl Gottfried Voigt
+Carl Friedrich Schmieder
+Christian Gottlieb Irmisch
+Johann Gottlob Zimmermann
+----------------
+Christian Gottlob Borrmann
+Christian Daniel Borrmann
+Johann Leberecht Ehrenfried Fuchs
+Adolph Leberecht Kleinpaul
+Georg Gottfried Erler
+Christian Traugott Fischer
+Johann Gottlieb Müller
+----------------
+Christian Gottlieb Weinhold
+Christian Friedrich Reichel
+Johann Gottlieb Zeibig
+1834
+Johann Gottlieb Winkler
+Johann Friedrich Daniel Oslaub
+Carl Gotthelf Göhler
+Carl Gotthelf Friebel
+----------------
+Johann Gottlob Göpfert
+Carl Gottlieb Voigt
+Carl Christoph Baumgarten
+Friedrich Wilhelm Gietzelt
+Samuel Gottfried Scheinpflug
+Johann Samuel Borrmann
+Johann Christian Müller
+Carl Gottlieb Reichel
+----------------
+Johann Gottlieb Fuchs
+Carl Gottfried Voigt
+Johann Gottlob Kittner
+Carl Traugott Wagner
+Carl Gottlieb Herklotz
+1835
+Carl Wilhelm Marbach
+Carl Gottfried Kästner
+----------------
+Carl Friedrich Voigt
+Christian Friedrich Fuchs
+Carl Gottlieb Böhme
+Carl Christoph Liebscher
+Carl Gottlieb Liebscher
+Carl Traugott Scheinpflug
+Johann Gottlieb Jungnickel
+Carl Christoph Richter
+----------------
+August Fürchtegott Reichel
+Christian Friedrich Rehm
+Christian Gottlieb Holzhöfer
+Johann Gottfried Andreas
+Christian Gottlob Borrmann
+Carl Gottlob Müller
+1836
+Johann Friedrich Zimmermann
+Johann Gottlieb Kästner
+----------------
+Johann Gottlieb Helbig
+Johann Gottlob Kästner
+Carl Friedrich Herklotz
+Johann Gottfried Liebscher
+Carl David Franke
+Johann Gottlieb Fischer
+Johann Gottlieb Schiffel
+Friedrich Wilhelm Geier
+Carl Gottlieb Geier
+----------------
+1837
+Christian Friedrich Grahl
+Johann Gotthelf Bretschneider
+Johann Christian Büttner
+Carl Friedrich Zönnchen
+Christian Friedrich Voigt
+Carl Gottlieb Glöckner
+Johann Friedrich Zönnchen
+Johann Samuel Patzig
+Carl Gottlob Holfert
+----------------
+Friedrich Traugott Kästner
+Johann Gottlieb Bretschneider
+Friedrich Traugott Bellmann
+1838
+Johann Christian Krumpolt
+Carl Gottlob Zinke
+Johann Gottlieb Reichel
+Friedrich August Scheinpflug
+Fürchtegott Leberecht Liebscher
+Johann Gottfried Hofmann
+----------------
+Carl Gottfried Zimmermann
+Johann Georg Glöditzsch
+Carl Gottlob Grumpelt
+Johann Gotthelf Bretschneider
+Carl Gottlieb Zönnchen
+Christian Friedrich Glöckner
+1839
+Carl Gottlieb Donath
+Carl Friedrich Leberecht Mai
+Johann Gottlob Schmieder
+----------------
+Johann Gottlieb Reichel
+Traugott Leberecht Bierig
+Johann Gottfried Wagner
+Johann Georg Gottlieb Göhler
+Samuel Friedrich Kästner
+Carl Gottlieb Zönnchen
+Carl Gotthelf Funke
+Christlieb Friedrich Stenzel
+Johann Gottlob Neubert
+----------------
+Johann Daniel Kästner
+Carl Gottlob Zimmermann
+Johann August Friedrich Bellmann

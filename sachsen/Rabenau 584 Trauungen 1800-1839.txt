@@ -1,5 +1,5 @@
 Rabenau (Buch 584)
-Trauungen 1800-1829
+Trauungen 1800-1839
 https://www.archion.de/de/viewer/churchRegister/305588?pageId=42962788
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 1 Stunde
 Juni 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -421,3 +422,147 @@ Johann Christian Lorenz
 Karl Gottfried Wolf
 Christian Gottfried Köhler
 Johann Christoph Pilz
+----------------
+1830
+Johann Gottlob Liebschner
+Friedrich Traugott Fleischer
+Karl Friedrich Geyer
+Karl Gottlieb Reißig
+Karl Gottlieb Hauschld
+Johann Gottlob Leberecht Reichel
+Karl Gottfried Wilhelm Franz
+----------------
+Karl August Böhme
+Karl Gottlieb Schubert
+----------------
+1831
+Karl August Hänel
+Johann Gottlob Schneider
+Johann Christoph Friedrich Zönchen
+Karl Christian Kohl
+Johann Gottlob Kirsten
+Gotthelf Leberecht Keppler
+Johann Christian Wünschmann
+----------------
+Johann Gottlieb Heyne
+Johann Gottlieb Dietrich
+Christian Friedrich Wolf
+----------------
+1832
+Franz Julius Seidel
+Johann Knoch
+Karl Friedrich Hieronymus Kiesling
+Karl Gottlieb Bellmann
+Karl August Wolf
+Gotthelf Leberecht Zimmermann
+----------------
+Johann Gottlob Noach
+----------------
+1833
+Christian Gottlieb Schumann
+Johann Gotthelf Prüfer
+Johann Gottlieb Genauk
+Johann Gottfried Künzelmann
+Karl Eduard Seidel
+Peter Fränzel
+----------------
+Friedrich Traugott Fleischer
+Karl Rathjens Sebastian
+----------------
+1834
+Karl Gottlieb Haschke
+Johann Gottfried Zöllner
+Johann Karl Gottlieb Lauterbach
+Karl Gottlieb Schubert
+Karl August Kunath
+Karl Gottlob Keller
+----------------
+Karl August Dreschke
+Johann Gottlieb Liebert
+Karl August Lorenz
+Karl Friedrich August Bitterlich
+----------------
+1835
+Johann Christian Bellmann
+Johann Gottfried Wilhelm Hünig
+Karl Gotthelf Lorenz
+Moritz August Petermann
+Karl Friedrich August Reuter
+Karl Friedrich Stürmer
+----------------
+Johann Gottfried Tschentschel
+Christian Gottlob Wolf
+August Gottlieb Klemm
+Christian Gottlieb Börner
+Karl Friedrich Lorenz
+Karl Traugott Schneider
+----------------
+Friedrich August Böttcher
+Johann Gottlieb Zeiske
+Johann Gottlieb Heger
+Christian Gottlieb Schumann
+----------------
+1836
+Johann Gottlieb Eberth
+Carl Gottlieb Noah
+Julius Eduard Dreschke
+Johann Ehregott Leberecht Thomas
+Querfurth Oscar Müller
+----------------
+Carl August Fritzsche
+Carl Gottlieb Garbe
+Johann Julius Schmidt
+Carl Friedrich Lippisch
+Carl Traugott Schumann
+Carl Traugott Wünschmann
+Carl Gottlieb Heinrich Reichardt
+----------------
+Friedrich Moritz Flemming
+Johann Gottfried Grumbt
+----------------
+1837
+Johann Gotthelf Böhme
+Carl Heinrich Leopold Sachse
+Johann Gottfried Ehrlich
+Karl Friedrich Dreschke
+Carl Wilhelm Griesbach
+Ferdinand Georg Meisel
+----------------
+Gottfried Heinrich Hamann
+Johann Gottlieb Böhme
+Johann Carl Gottlieb Nitzsche
+Johann Gottlieb Köhler
+Christian Gottlieb Keppler
+----------------
+1838
+Carl Wilhelm Wünschmann
+Johann Christian Ferdinand Wünschmann
+Johann Gottlieb Müller
+Carl August Schubert
+Carl Gottfried Zimmermann
+Johann August Querner
+----------------
+Carl Rabert Sauer
+Carl August Klippel
+Carl Gottlob Böhme
+Gottlob August Bormann
+----------------
+1839
+Friedrich Christian Ullrich
+Carl Wilhelm Anders
+Carl Gottlieb Reichel
+Carl Gottfried Genauck
+Johann Carl Gottlob Huhle
+----------------
+Carl August Köhler
+Karl Wilhelm Fritzsche
+Carl Gottlieb August Freund
+Johann Christoph Baumgart
+Carl Gottlieb Thomas
+Johann Gotthelf Hauptmann
+----------------
+Johann Gottlob Wolf
+Friedrich Albert Schumann
+Johann Gottfried Gebauer
+August Robert Börner
+Christian Gottlob Wolf

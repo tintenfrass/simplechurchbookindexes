@@ -1,5 +1,5 @@
 Ruppendorf (Buch 645)
-Trauungen 1812-1829
+Trauungen 1812-1839
 https://www.archion.de/de/viewer/churchRegister/305633?pageId=42973225
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -286,3 +287,198 @@ Samuel Gottlieb Richter
 ----------------
 Heinrich Gottlob Berthold
 Johann Gottlieb Kirchner
+1830
+Johann Gottlob Liebschner
+Carl Christoph Bellmann
+Georg Friedrich Wolf
+Gottfried Kunert
+Johann Georg Braune
+----------------
+Daniel Ehregott Bormann
+Johann Samuel Schubert
+Carl Gottlieb Böhme
+Daniel Gottlieb Berthold
+1831
+Friedrich Benjamin Michaelis
+Carl Gottfried Wintrich
+----------------
+Carl Gottlieb? Wenzel
+Johann Gottlieb Grimmer
+Johann Gotthelf Hempel
+Carl Gottlieb Klotz
+Daniel Gotthelf Legler
+Carl Gottlieb Geisler
+Johann Gottlob Uhlig
+----------------
+Johann Gottlieb Baumgart
+Carl Christlieb Schloßel
+Carl Friedrich Renner
+Heinrich Siegesmund Heber
+1832
+Friedrich Benjamin Zimmermann
+Carl Gottlieb Zöller
+Friedrich Ernst Leberecht Mußick
+----------------
+Johann Gottlieb Patzig
+Johann Ehregott Israel
+Carl Friedrich Arnhold
+Carl Friedrich Zimmermann
+Johann Christian Straßberger
+Johann Gottlob Nitsche
+Carl Heinrich Kummer
+Traugott Leberecht Berthold
+----------------
+Carl Gottlieb Holfert
+Carl Gottlieb Fleischer
+Johann Gottfried Bellmann
+Johann Gottlob Wießner
+1833
+Ehregott Leberecht Mehner
+Johann Heinrich Holfert
+August Friedrich Geißler
+Friedrich Ehregott Morgenstern
+----------------
+Johann Gottlieb Zimmermann
+Carl Gottfried Röhringer
+Johann Gottlob Liebschner
+Johann Leberecht Ehrenfried Fuchs
+Johann Gottfried Liebschner
+Carl Gottlieb Holfert
+Gottlieb Holfert
+Friedrich August Wintrich
+Christian Friedrich Enderlein
+----------------
+Johann Gottlieb Müller
+Carl Gottlieb Kästner
+Christian Friedrich Reichel
+Friedrich August Heber
+Traugott Leberecht Heber
+Johann Gottlieb Grimmer
+1834
+Johann Gottlob Renner
+Carl Christoph Baumgart
+Daniel Gottlieb Holfert
+----------------
+Carl Gottlob Holfert
+Johann Gottlob Göpfert
+Johann Samuel Bormann
+Carl Gottlob Lohse
+Johann Gottlieb Göpfert
+Johann Gotthelf Weinhold
+Johann Christian Zimmermann
+Karl Gottlieb Lempe
+Heinrich Gottlieb Heber
+----------------
+Gottlieb Heinrich Holfert
+Carl Gottlob Holfert
+Johann Gottlieb Fuchs
+Gottlieb Leberecht Schelle
+Carl Gottfried Voigt
+Carl Gottlieb Müller
+Johann Samuel Renner
+Johann Gottfried Geißler
+Carl Friedrich Leutheritz
+----------------
+1835
+Carl Gottfried Baumgart
+Friedrich August Feller
+Carl Ehrenfried Richter
+Carl Alexander Ehregott Trautmann
+Carl Gottlieb Lieber
+Carl Heinrich Baumgart
+Christian Gottlieb Baumgart
+----------------
+Carl Gottlieb Baumgart
+Carl Friedrich August Reuter
+Wilhelm Heinrich Schleinitz
+Carl Christoph Liebscher
+Johann Ehrenfried Geißler
+Carl Gotthelf Egelhardt
+August Fürchtegott Reichel
+Gottfried Leberecht Holfert
+----------------
+Carl Friedrich Hofmann
+Johann Friedrich August Weinhold
+Carl Gottlieb Schmieder
+Christian Gottlieb Neubert
+Immanuel Ehrenreich Legler
+----------------
+1836
+Johann Daniel Holfert
+Johann Carl Gottlieb Roßburg
+Johann Heinrich Neubert
+Christoph Friedrich Günther
+Johann Heinrich Leberecht Lieber
+Carl Heinrich Renner
+----------------
+Carl Gottfried Klügel
+Samuel Heinrich Just
+1837
+Carl Ehrenfried Richter
+Carl Gottlob Bernhard
+Johann Carl Gottlob Ebert
+Carl Gottlob Berthold
+----------------
+Christian Gottlieb Bormann
+Carl Gottlieb Pönsel
+Johann Carl Gottlieb Hahmig
+Johann Gottlieb Lotze
+Carl Gottlob Lohse
+Carl Gottlieb Roch
+Carl Gottfried Mende
+----------------
+Carl Gottlob Holfert
+Wilhelm Friedrich Göhler
+Carl Friedrich August Haberland
+Carl Heinrich Neubert
+Carl Gottlieb Schmieder
+1838
+Gottlob Friedrich Kirchner
+----------------
+Johann Gottlob Baumgart
+Carl Heinrich Friebel
+Carl Gottlieb Gemeiner
+Johann Heinrich Renner
+Friedrich August Lotze
+Carl Heinrich Neubert
+----------------
+Johann Heinrich Schneider
+Johann Heinrich Holfert
+Traugott Leberecht Berthold
+Carl Gottfried Holfert
+Friedrich August Berthold
+Johann Christian Gottlieb John
+Carl August Aestel
+----------------
+Carl Friedrich Richter
+Johann Gottlob Friedrich
+Johann Daniel Böhme
+Carl Gottfried Jäckel
+Gottlieb Ehrenfried Hehne
+1839
+Carl Heinrich Roßburg
+----------------
+Johann Leberecht Lotze
+Johann Christian Thielemann
+August Benjamin Morgenstern
+Carl Wilhelm Heber
+Samuel Ehrenfried Lohse
+August Gottlob Friedrich Schickel
+----------------
+Carl Gottlieb Walther
+Carl Hennig
+Johann Gottlieb Liebschner
+Gottlieb Heinrich Grimmer
+Johann Georg Menzel
+Carl Gottlob Zimmermann
+----------------
+Carl Friedrich Kirchner
+Carl Gottlob Richter
+Carl Gottlob Enderlein
+Johann Carl August Holfert
+Carl Gottlob Näcke
+Daniel Gottlieb Näke
+----------------
+Johann Gottlob Neubert
+Carl Friedrich Berthold
+Christian Friedrich Hofmann
