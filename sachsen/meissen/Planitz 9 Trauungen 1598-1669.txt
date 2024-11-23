@@ -1,0 +1,211 @@
+Planitz (Buch 9)
+Trauungen 1598-1669
+https://www.archion.de/de/viewer/churchRegister/289478?pageId=40227299
+
+Trauungen ab 1670 => Siehe Buch 3
+
+Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
+Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
+Zusätzlich sind einige Namen im Buch nicht klar lesbar.
+
+Hinweis:
+Teile des Kirchenbuches sind kaputt, unvollständig und zwischen den Trauungen befinden sich teilweise Beerdigungen.
+
+
+Erstellt in ca. 1 Stunde
+Juni 2022
+https://github.com/tintenfrass/simplechurchbookindexes
+
+
+
+---------------- x2
+1597 ?
+? Wittig?
+Martin Hanzschman
+Thomas Erfurt
+1598
+Marhart? Ulman
+Maurg? Inda?
+Georg Tilman?
+Fabian Sehberg
+1599
+Mats Begel?
+----------------
+? ?
+Peter Steude
+Hans Tzschoche
+Peter Arlt
+Caspar Böhme
+Hans Wutzsche
+Georg Seiffert
+1600
+Martin Kil?
+Christoph ?
+Barthel Wagwitz
+Wilhelm Beichne?
+Gregor Retzsch
+Martin Buchne?
+----------------
+Martin Buhne
+Mats Hacken?
+Gregor Fischer
+Peter Schmidt
+1601
+Egidius Schneider
+Benedig Mebis
+Martin Große?
+Hans Ruel
+----------------
+Andreas ?
+Andreas Spenge
+Andreas Büle
+Valentin Starcke
+Hans Ganßauge
+1600 ?
+Peter Monnich
+Caspar Wittich
+1601
+1601
+Sebastian Schumann
+Adam Beier
+1603
+1604
+Egidius Bohner
+Peter Schmidt
+----------------
+1605
+Jacob Hennig?
+Urban Ulman
+Michael Henßel
+1606
+Thomas Erfurt
+Paul Buchner
+1607
+Caspar Braubitz
+Abraham Tiel
+? ?
+1608
+Peter Brettschneider
+Michael Mebus
+1609
+Martin Henßel
+1610
+Jonas Conradus
+Hans Beuler?
+Blasius Behme
+1611
+Peter Zeiger
+? Brizsch?
+----------------
+1612 [Teil 1]
+Georg ?itzschwitz
+Georg Deiß
+Barthel Hehlmud
+Abraham Schultze
+Mats Lommitzsch
+1613
+Barthel Erlich
+Asman Ölschleger
+Martin ?
+1614
+Georg ?
+Peter Hentzschel
+1615
+Lorenz Voitlen
+Friedrich Schweger
+Melchior Veng?
+Mats Lommitzsch
+? Vagwitz
+----------------
+1616 [Teil 1]
+? ?
+Balthasar Cuntzsche
+Hans Heinrich
+Caspar Stöckburg?
+1617
+Georg Naumann
+Georg Maune
+1618
+Fabian Schonberg
+1619
+Nicol Raft
+? ?
+1612 [Teil 2]
+Paul Wagwitz
+Fabian Schonberg
+Lorenz Voit
+Hans-Christoph Nitzschwitz
+1613
+Hans Eilenberg
+Bernhard Ditrich
+----------------
+Valentin Borschtruff
+Andreas Schütze
+Dronisig? Möckel
+Martin Burckhart
+Peter Hermann
+Jacob Kuntze
+Peter Lommitzsch
+Hans Rede
+Bernhard Ditrich
+Hans Schultze
+----------------
+Melchior Hanzschman
+Hans Hauben
+Martin Zieger
+Hans Tritzman?
+Clemens Hoffmann
+1616 [Teil 2]
+Gregor Donat
+1638 ?
+Hans Ustlich?
+1639
+Hans Einnach
+Hans Lehmann
+Peter Roßberg
+Thomas Sibman?
+Gregor Zieger
+----------------
+Paul Kirman?
+1640
+Hans Kürne?
+Barthel Möckel
+Martin Grumbach
+----------------
+----------------
+Gregor Mehner?
+Peter Möller
+1641
+Martin Zeiger
+Hans Jäger
+----------------
+1642
+Thomas Burckhart
+Michael Donisch
+Georg Löbner
+----------------
+----------------
+1663 ?
+Jacob Ehrlman
+1664
+Gregor Uhlman
+Hans Görne
+1665
+David Güse?
+1666
+Hans Hencker
+----------------
+Georg Hoffmann
+Georg Krause
+Peter Bögen
+1667
+Gottfried Hoffmann
+David Kürbach
+1668
+Jacob Schreiber
+Georg Kehler
+Peter Beyner?
+Mattheus Barthe?
+1669
+Cornelius Wehser
+David Boden?

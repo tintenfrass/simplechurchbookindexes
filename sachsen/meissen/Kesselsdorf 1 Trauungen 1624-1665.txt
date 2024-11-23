@@ -1,0 +1,458 @@
+Kesselsdorf (Buch 1)
+Trauungen 1624-1665
+https://www.archion.de/de/viewer/churchRegister/282550?pageId=39030184
+
+Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
+Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
+Zusätzlich sind einige Namen im Buch nicht klar lesbar.
+
+Hinweis 1:
+Für das Kirchenbuch selber gibt es ein alphabetisches Register, welches für diesen Index aber nicht verwendet wurde.
+
+Hinweis 2:
+Die Reihenfolge der Einträge ist nicht chronologisch sondern wie im Buch.
+
+Hinweis 3:
+Im Buch Kesselsdorf 4 befinden sich ebenfalls Trauungen für diesen Zeitraum, das sind zu 90% die Selben.
+
+
+Erstellt in ca. 2 Stunden
+Juni 2022
+https://github.com/tintenfrass/simplechurchbookindexes
+
+
+
+---------------- x286
+1654
+Georg Schirmer
+Peter Patzig
+Georg Hecke
+1655
+Georg Kuntze
+Peter Hillig
+Georg Wolf
+Hans Scharf
+1656
+Hans Kohlsdorf
+Georg Weise
+----------------
+Martin Pietzsch
+Andreas Schirmer
+Martin Irmer
+Georg Hennig
+Martin Schirmer
+1657
+Blasius Schirmer
+Michael Hillig
+Georg Irmer
+Georg Borman
+1658
+Georg Andrige
+Hans Pausa
+Christoph Beyer
+Georg Begen
+Georg Grahl
+Hans Porisch
+Michael Schuman
+Martin Klöber
+Georg Dietze
+Martin Kohlsdorf
+1659
+Lorenz Grahl
+----------------
+Georg Höhrman
+Georg Kirchner
+Georg Kühnel
+Georg Brendel
+1660
+Georg Peschel
+Georg Nußgen
+Peter Pietzsch
+Michael Patzig
+1661
+Martin Große
+Martin Winckler
+Valentin Pietzsch
+Jacob Hillig
+Georg Küntzel
+Michael Mätzel
+Georg Andrige
+Hans Kohlsdorf
+Michael Borman
+----------------
+1662
+Martin Mahn
+Georg Kuntze
+Georg Patzig
+Georg Pfützner
+Gabriel Goldman
+1663
+Erhard Schuman
+Michael Grahl
+Christian Scharfuch
+Balthasar Pietzsch
+Christoph Pähling
+Christoph Keller
+Michael Grahl
+1664
+Donat Pietzsch
+Georg Becker
+Mattheus Hencker
+Michael Köhler
+----------------
+Mattheus Schultze
+Georg Hillig
+1665
+Georg Grahl
+Stephan Donat
+Balthasar Töpffer
+Michael Grahl
+Jacob Berner
+Martin Richter
+---------------- x28
+1624
+Paul Dögel
+Caspar Becker
+Georg Patzig
+Valentin Berthold
+Georg Günther
+Caspar Müller
+Hans Jhen
+Michael Pietzsch
+----------------
+1625
+Nicol Patzig
+Barthel Patzen
+Thomas Schuman
+Martin Patzig
+Martin Günther
+Jacob Donat
+Paul Borman
+Georg Berndt
+Michael Pause
+Hans Ranisch
+1626
+Georg Näcke
+Georg Kohlsdorf
+Martin Patzig
+Martin Fehrman
+Hans Hermsdorf
+Jacob Walther
+Brosius Jhen
+Peter Pietzsch
+Jacob Müller
+----------------
+Georg Patzig
+Georg Berner
+Hans Gutkäse
+Jacob Hennig
+Hans Knebel
+Georg Donat
+Georg Graupitz
+Balthasar Sperhack
+1627
+Martin Heckel
+Hans Kohlsdorf
+Paul Borman
+Michael Köhler
+Hans Winckler
+Hans Große
+Joseph Kupffer
+----------------
+Lorenz Walther
+Martin Ranft
+Georg Kuntze
+Jacob Jepel
+Georg Neukirch
+Andreas Fickler
+Peter Grahl
+Georg Potzscher
+Georg Wustlich
+1628
+Hans Pietzsch
+Martin Wendt
+Andreas Starcke
+Georg Irmer
+Hans Pietzsch
+Christoph Götze
+Georg Lotze
+Valentin Pache
+Georg Müller
+----------------
+1629
+Georg Müller
+Caspar Wustlich
+Abraham Hermes
+Jacob Müller
+Georg Dietrich
+Andreas Sorman
+Peter Grahl
+Martin Große
+Georg Andrige
+1630
+Martin Ebert
+Peter Berner
+Georg Müller
+Peter Patzig
+Hans Hermsdorf
+Erasmus Sehlige
+Hans Hauptvogel
+----------------
+1631
+Georg Hennig
+Georg Patzig
+Mats Günther
+Martin Hermsdorf
+Valentin Schönberg
+Mats Winckler
+Balthasar Jentzsch
+Hans Berthold
+Blasius Patzig
+Blasius Kuntze
+Peter Lotze
+Hans Stübner
+Martin Limpich
+Wenzel Andrige
+Georg Lotze
+Jacob Strohbach
+----------------
+1632
+Jacob Müller
+Martin Leuteritz
+Martin Müller
+Georg Wustlich
+Georg Pietzsch
+Martin Zeibig
+Jacob Pfützner
+Daniel Kuntze
+Mats Heckel
+Martin Kohlsdorf
+1633
+Georg Leuteritz
+Martin Hennig
+Georg Müller
+Georg Erlich
+Jacob Köhler
+Georg Dietrich
+Jacob Richter
+Jacob Pfützner
+Georg Näcke
+Jacob Kuntze
+Christoph Keller
+Hans Hörnig
+----------------
+1634
+Martin Zeibig
+Martin Irmer
+Peter Hörman
+Georg Brendel
+Donat König
+Martin Pfützner
+Martin Grundman
+Georg Limpich
+Hans Andrige
+Georg Winckler
+Georg Donat
+Martin Patzig
+Hans Thamm
+Hans Schuman
+Hans Knebel
+Jacob Limpich
+Georg Müller
+Friedrich Eibe
+Martin Herman
+Balthasar Kummer
+Blasius Kuntze
+----------------
+1635
+Martin Braune
+Georg Leuteritz
+Melchior Borman
+Peter Mahn
+Mattheus Lowe?
+Georg Andrige
+Michael Schuman
+Blasius Brendel
+Christoph Floß
+Georg Kirchner
+Georg Steiner
+Caspar Richter
+Martin Pietzsch
+Martin Hartman
+Nicol Pause
+Gregor Häncker
+----------------
+1636
+Paul Hennig
+Hans Richter
+Georg Pietzsch
+Lorenz Hennig
+Georg Gritner
+Stephan Leuteritz
+Lorenz Pietzsch
+Georg Müller
+Georg Jepel
+Georg Grundman
+Georg Peterman
+Hans Kohlsdorf
+Martin Kuntze
+Georg Hillig
+1637
+Paul Müller
+Abraham Schneider
+Michael Kohlsdorf
+Hans Limpach
+Barthel Diener
+----------------
+Balthasar Hauptvogel
+Hans Mehlich
+1638
+Michael Haltberger
+Caspar Kühn
+Georg Beudner
+Jacob Irmer
+Georg Dögel
+Hans Stubenrauch
+Sebastian Müller
+Georg Schultze
+Jacob Schimrig
+Jacob Müller
+Jacob Neukirch
+Georg Leuteritz
+Jacob Günther
+1639
+Michael Pietzsch
+Martin Pause
+Jacob Nietzsche
+Georg Grundman
+Jacob Jepel
+Georg Grahl
+Jacob Heubtman
+Martin Kuntze
+Georg Kuntze
+----------------
+1640
+Sebastian Prötzsch
+Michael König
+Christoph Floß
+Hans Specht
+Paul Hencker
+Mats Günther
+Michael Hencker
+Hans Sander
+Georg Richter
+Michael Grahl
+1641
+Nicol Schirmer
+Hans Limpach
+Barthel Dehner
+Peter Pietzsch
+1642
+Martin Rühle
+Mattheus Heckel
+Andreas Fickler
+Jacob Kuntze
+Peter Vogel
+Martin Petz
+Martin Kummer
+----------------
+1643
+Donat Töpffer
+Michael Francke
+Martin Pietzsch
+Peter Ditrich
+Georg Hennig
+Georg Grahl
+Martin Zschoncke
+Martin Leuteritz
+Andreas Hörman
+Hans Specht
+1644
+Andreas Hennig
+Balthasar Töpffer
+Mattheus Rüdiger
+Barthel Küntzelman
+Jacob Ditrich
+Hans Döhner
+Andreas Nietzsche
+1645
+Peter Lotze
+Georg Lotze
+Caspar Weber
+Georg Donat
+Georg Müller
+Georg Rost
+Georg Jepel
+Hans Hörnig
+Caspar Fehrman
+----------------
+1646
+Georg Kohlsdorf
+Andreas Hempel
+Georg Thamm
+Hans Ditrich
+Martin Pietzsch
+Jacob Hörman
+Balthasar Töpffer
+Valentin Pietzsch
+1647
+Christoph Schneider
+Georg Pietzsch
+Hans Weihener
+Martin Rüdiger
+1648
+Michael Leuteritz
+Martin Meger
+Michael Dögel
+Heinrich Underheil
+Hans Fromhalt
+Hans Herms
+Hans Große
+Theodor Schönert
+Georg Rüdiger
+Martin Hörnig
+Georg Hörman
+----------------
+1649
+Gregor Patzig
+Balthasar Töpffer
+Michael Irmer
+Andreas Nußgen
+Hans Hillig
+Georg Scharfuch
+Georg Beger
+Georg Merbitz
+Georg Voigt
+1650
+Blasius Hennig
+Friedrich Küntzelman
+Michael Hermes
+Hans Kuntze
+Jacob Patzig
+Thomas Ditrich
+Georg Rülcker
+Peter Leuteritz
+1651
+Peter Andrige
+Peter Barth
+Georg Koch
+Hans Porisch
+Georg Palisch
+Martin Spieß
+1652
+Martin Thamm
+Stephan Grahl
+Martin Burckhart
+Nicol Patzig
+----------------
+1653
+Martin Müller
+Nicol Lohse
+Barthel Küntzelman
+Thomas Heuptman
+Georg Graupitz
+Christian Reichel
+Martin Kohlsdorf
+Martin Becker
+1654
+Michael Grahl

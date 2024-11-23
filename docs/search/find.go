@@ -3,7 +3,6 @@ package search
 import (
 	"fmt"
 	"math"
-	"path"
 	"strings"
 
 	gophonetics "gopkg.in/Regis24GmbH/go-phonetics.v3"
@@ -143,7 +142,7 @@ func FindMarriage(search string, min, max int, churches map[string]bool, algo in
 			if Data.Offset[match.S] > 0 {
 				pageId = Data.Offset[match.S] + uint32(match.P)
 			}
-			output = append(output, fmt.Sprintf("%d %s#%s#%d#%s#%d", match.Y, match.L, path.Base(Data.Sources[match.S]), i, Data.Links[match.S], pageId))
+			output = append(output, fmt.Sprintf("%d %s#%s#%d#%s#%d", match.Y, match.L, Data.Sources[match.S], i, Data.Links[match.S], pageId))
 			count++
 		}
 	}
