@@ -1,15 +1,16 @@
 Somsdorf (Buch 725)
-Trauungen 1800-1829
+Trauungen 1800-1839
 https://www.archion.de/de/viewer/churchRegister/305695?pageId=42986231
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Juni 2024
 Juli 2024
 Oktober 2024
+November 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -419,3 +420,176 @@ Johann Gottfried Müller
 Carl Gottfried Bachmann
 Christian Gottlieb Richter
 Anton Zizula
+1830
+Johann August Butter
+Friedrich Traugott Fleischer
+August Ferdinand Richter
+----------------
+Christian Friedrich August Heinz
+Karl Gottlieb Fischer
+Karl Gottlob Reiche
+Alexander Zeis
+Karl Gottlieb Hauschild
+Karl Gottfried Heinrich Zimmermann
+Christian Gottlieb Ehrlich
+Christian August Staude
+----------------
+1831
+Johann August Heine
+Karl Gottlieb Langbein
+Johann Gottlieb Knecht
+Johann Samuel Gelfert
+Karl Gottlob Scheermesser
+Johann Gottlieb Schuster
+Karl Gottlieb Müller
+Karl Friedrich Wilhelm Leder
+Johann Karl Gottlob Dietze
+----------------
+Karl Gottlieb Helbig
+Johann Gottfried Schöne
+Johann Leberecht Glöckner
+1832
+Karl Gottlieb Pöschel
+Christian Karl Traugott Schneider
+Andreas Heinrich Tenner
+Johann Christian Bürger
+Karl Wilhelm Anders
+Karl August Gläser
+----------------
+Karl Gottlob Krumbholz
+Johann David Wünschmann
+Karl August Neumann
+Johann Gottlob Harnsch
+Karl Gottlob Prätzsch
+Johann Georg Jahn
+Johann Karl Gottlob Zeiske
+Johann Georg Gottlob Schiefner
+----------------
+1833
+Karl Traugott Heßler
+Johann Samuel Gottlieb Hamann
+Christian Gottlieb Eisold
+Karl August Engelhard
+Karl Gottlieb Schulz
+Karl Gottlob Pögen
+Friedrich August Wintrich
+Karl Gottlieb Scheermesser
+Johann Gottlob Schütze
+----------------
+Johann Gottlieb Seifert
+Karl Gottlieb Grellmann
+Karl Gottfried Kleber
+Johann Traugott Böhme
+Karl Gottlieb Haschke
+----------------
+1834
+Karl Gottlieb Sparmann
+Christian Gottlieb Richter
+Karl Gottlieb Schubert
+Karl Gottlieb Schumann
+Johann Karl August Neubert
+Johann Gottfried Dietze
+Ernst Ludwig Pienemann
+Karl Ehregott Adolph Bär
+Johann Gottlieb Wolf
+Karl Gottlieb Rentsch
+Johann Gottlieb Zschisang
+----------------
+Karl Gottlieb Dietrich
+Karl Gottlob Angermann
+Christian Ferdinand Gentsch
+Johann Caspar Reichenbach
+Friedrich August Griesbach
+Friedrich August Schmidt
+Karl Traugott Pöschel
+----------------
+1835
+Gottlieb Kästner
+Karl Wilhelm Friedrich Zschoke
+August Leberecht Querner
+Karl Friedrich Weißbach
+Karl Friedrich Richter
+Karl Gotthelf Baumgart
+Karl August Strohbach
+Johann Gottlieb Traugott Fritzsche
+Christian Traugott Zimmermann
+Christian Gottlieb Klügel
+Karl Christian Schneider
+----------------
+Karl Gottlieb Junold
+Johann Gottlieb Traugott Leutritz
+Abraham Gottfried Menzer
+Gottlieb Traugott Bürger
+Friedrich Eduard Jochen
+----------------
+1836
+Johann Gottfried Saupe
+Johann Christoph Birke
+Christian Gottlob Schumann
+Karl Christian Gottlieb Eisold
+Karl Gottlieb Garbe
+Gottfried Wilhelm Lehmann
+Karl Traugott Schumann
+Friedrich Robert Schmuck
+Karl August Pögen
+Karl Gottlob Schumann
+Karl August Butter
+----------------
+Johann Gotthelf Schumann
+Johann Samuel Gottlieb Franke
+Johann Gotthelf Karl Klemm
+Karl Gottlieb Leberecht Schumann
+1837
+Karl Gottfried Dittrich
+Christian Leberecht Richter
+Karl Traugott Bormann
+Johann Gotthelf Mende
+Karl Traugott Bürger
+----------------
+Karl Zeis
+Karl Friedrich Dreschke
+Ewald Joachim Ottomar Schmidt
+Johann Christlieb Karis
+Karl Gottfried Schlicke
+Karl Gottlieb Sparmann
+Karl Gottlob Ehrenfried Karis
+Johann Gottfried Pögen
+Christian Gottlieb Leberecht Eisold
+Karl Traugott Franke
+----------------
+Gottfried Heinrich Hamann
+Johann Christian Gottlieb Schneider
+Christian Gottlieb Stenzel
+Johann Christoph Hauswald
+Karl Traugott Zimmermann
+1838
+Johann August Daniel Bündiger
+Johann Gottlob Böhme
+Johann Gottlieb August Ebert
+Karl August Grimmer
+Johann Gottlob Loreck
+----------------
+Friedrich Ferdinand Müller
+Johann Gotthelf Grellmann
+Karl August Kaltschmidt
+Gotthelf Traugott Walther
+Johann Gottlieb Schuster
+Johann Gottfried Borschdorf
+Karl Gottlob Böhme
+Gottlob August Bormann
+Karl Gottfried Küchler
+Wilhelm August Römer
+----------------
+1839
+Heinrich Friedrich Wanke
+Johann Heinrich Samuel Eichler
+Karl August Pöschel
+Karl Gottlob Bürger
+Ernst Gottlieb Ferdinand Schiefner
+Karl Gottfried Leberecht Bürger
+Karl Gottlieb Reck
+Karl Gottlieb Zimmermann
+Friedrich August Limbach
+Ferdinand Zeis
+Karl Gottlieb Zimmermann
+Johann Herrmann
