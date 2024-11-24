@@ -2,12 +2,12 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta content name="author">
+<meta name="author" content>
 <meta name="description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
-<meta name="keywords" content>
+<meta content name="keywords">
 <meta name="theme-color" content="#2d2c2c">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover">
-<meta property="og:url" content="http://127.0.0.1:57238/">
+<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover" name="viewport">
+<meta content="http://127.0.0.1:58097/" property="og:url">
 <meta property="og:title" content="Trau-Index Dresden-Meißen">
 <meta property="og:description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
 <meta property="og:type" content="website">
@@ -15,10 +15,10 @@
 <title>
 Trau-Index Dresden-Meißen
 </title>
-<link href="https://storage.googleapis.com/murlok-github/icon-192.png" rel="icon">
-<link rel="apple-touch-icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
+<link rel="icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
+<link href="https://storage.googleapis.com/murlok-github/icon-192.png" rel="apple-touch-icon">
 <link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
-<link type="text/css" rel="stylesheet" href="/simplechurchbookindexes/app.css">
+<link href="/simplechurchbookindexes/app.css" type="text/css" rel="stylesheet">
 <script defer="true" src="/simplechurchbookindexes/wasm_exec.js"></script>
 <script defer="true" src="/simplechurchbookindexes/app.js"></script>
 <!-- Google tag (gtag.js) -->
@@ -54,7 +54,7 @@ Dresden-Meißen-Freiberg-Dippoldiswalde
 <label>
 Jahr Min 
 </label>
-<input max="1839" value="0" style="width: 600px;" type="range" min="1541">
+<input type="range" min="1541" max="1839" value="0" style="width: 600px;">
 <label>
 0
 </label>
@@ -62,7 +62,7 @@ Jahr Min
 <label>
 Jahr Max
 </label>
-<input value="0" style="width: 600px;" type="range" min="1541" max="1839">
+<input min="1541" max="1839" value="0" style="width: 600px;" type="range">
 <label>
 0
 </label>
@@ -78,7 +78,7 @@ Erweiterte Einstellung zum Suchalgorithmus (experimentell):
 </div>
 <br>
 <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.4 werden danach mit DamerauLevenshtein genau berechnet. Dieses zweistufe Vorgehen macht die Suche schnell und trotzdem genau.">
-<input type="radio" checked="true" name="algo">
+<input checked="true" name="algo" type="radio">
 Jaro + DamerauLevenshtein
  ----&gt; best Kombination aus Geschwindigkeit und Komplexität
 </div>
@@ -93,9 +93,14 @@ OSA
  ----&gt; einfacher und schneller als DamerauLevenshtein, für schwächere Geräte
 </div>
 <div title="einfachere Version von DamerauLevenshtein, ohne Vorfilterung">
-<input type="radio" title="einfachere Version von DamerauLevenshtein" checked="false" name="algo">
+<input type="radio" checked="false" name="algo">
 Levenshtein
  ----&gt; einfacher und schneller als OSA, für schwache Geräte
+</div>
+<div title="Bei langem Suchtext sehr schnell, aber kann bei kurzem Suchtext in großem Suchraum das System überlasten.">
+<input type="radio" checked="false" name="algo">
+Exakt
+ ----&gt; sucht nach exakt diesem Suchtext innerhalb des Namens. Muss mindestens 3 Zeichen lang sein.
 </div>
 <br>
 <a href="https://de.wikipedia.org/wiki/Levenshtein-Distanz" style="color:grey;">
@@ -398,24 +403,67 @@ Hinweise:
 </h3>
 Die Suche erfolgt über den Namen des Bräutigams.
 <br>
-Dabei wird eine Ähnlichkeitssuche benutzt und die Ergebnisse nach Treffergenauigkeit aufgelistet.
+Dabei wird eine Ähnlichkeitssuche benutzt und die Ergebnisse nach Treffergenauigkeit aufgelistet. (Ausnahme Suchmodus Exakt)
+<br>
+Die Suche wird direkt im Browser ausgeführt, die Suchgeschwindigkeit ist damit stark abhängig vom Gerät womit diese Seite aufgerufen wird.
 <br>
 Es wird Groß- und kleinschreibung unterschieden.
+<br>
+Komplexe Suchen (kurze Suchtexte im großen Suchgebiet) können die Suche abstürzen lassen, in diesem Fall muss oft die Seite im Browser neu geladen werden.
 <br>
 <br>
 Bsp: für die Suche:
 <br>
-Max Mustermann =&gt; Sucht nach Vor- und Nachnamen in dieser Kombination
+<b>
+Max Mustermann
+</b>
+ =&gt; Sucht nach Vor- und Nachnamen in dieser Kombination
 <br>
-Man kann auch mit mehrere Vornamen suchen z.B: Max Moritz Mustermann
+<b>
+Max Moritz Mustermann
+</b>
+ =&gt; bei mehreren Vornahmen.
+<br>
+<b>
+Max *
+</b>
+ =&gt; Sucht nach Vornamen Max
+<br>
+<b>
+* Schönberg
+</b>
+ =&gt; Sucht nach Nachname Schönberg. (Adelige Nachnamen z.B. &#39;von Schönberg&#39; sind im Index ebenfalls als &#39;Schönberg&#39; geführt)
+<br>
+<b>
+* VitzthumEckstädt
+</b>
+ =&gt; als Bps. für den Nachnamen &#39;Vitzthum von Eckstädt&#39;. (Nachname bestehen im Index immer nur aus einem Wort)
 <br>
 <br>
-* als Platzhalter:
+Suchmodus Exakt:
 <br>
-Max * =&gt; Sucht nach Vornamen Max
+<b>
+Napoleon *
+</b>
+ =&gt; Liefert Ergebnisse, wo der Vorname &#39;Napoleon&#39; enthalten ist
 <br>
-* Mustermann =&gt; Sucht nach Nachname Mustermann
+<b>
+* dorf
+</b>
+ =&gt; Liefert Ergebnisse, wo im Nachnamen &#39;dorf&#39; enthalten ist
 <br>
+<b>
+lieb Qu
+</b>
+ =&gt; Liefert Ergebnisse, wo im Vornamen &#39;lieb&#39; und im Nachnamen &#39;Qu&#39; enthalten ist
+<br>
+<b>
+Thoma
+</b>
+ =&gt; Liefert Ergebnisse, wo &#39;Thoma&#39; im Vor- oder Nachnamen enthalten ist
+<br>
+<br>
+Ergebnisse:
 <br>
 In den Ergebnissen führt der erste Link zur Datei mit den Roh-Daten, das kann helfen die genaue Position des Eintrages im Kirchenbuch zu finden.
 <br>
@@ -447,11 +495,15 @@ https://github.com/tintenfrass/simplechurchbookindexes
  v1.10 (November 2024) latest updates:
 </h3>
 <label>
-Trauungen 1820-1839 hinzugefügt
+Trauungen 1830-1839 hinzugefügt
 </label>
 <br>
 <label>
 Trauungen Freiberg (katholisch) hinzugefügt
+</label>
+<br>
+<label>
+neuer Suchmodus &#39;Exakt&#39; hinzugefügt
 </label>
 </div>
 </div>

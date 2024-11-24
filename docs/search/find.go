@@ -39,6 +39,9 @@ func FindMarriage(search string, min, max int, churches map[string]bool, algo in
 		//für Soundex brauchen wir einen geringen Grenzwert
 		jaroTreshold = JaroTresholdSoundex
 	}
+	if algo == 4 && len(search) < 3 {
+		return
+	}
 
 	for church, sourceMarriages := range Data.Marriages {
 		//Prüfen, ob wir in dieser Quelle suchen wollen

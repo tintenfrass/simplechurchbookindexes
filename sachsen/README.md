@@ -14,6 +14,8 @@ Die Daten sind für die Forschung gedacht, es ist keine kommerzielle Nutzung erl
 ### Online Durchsuchen des Index
 https://tintenfrass.github.io/simplechurchbookindexes/
 
+Die meisten Roh-Daten sind online durchsuchbar, aber nicht alle.
+
 
 ### Warum sind hauptsächlich Daten vor 1800 erfasst?
 Dafür muss man sich das Kosten-Nutzen-Verhältnis angucken, ob der Aufwand dafür gerechtfertigt ist, ein paar Punkte:

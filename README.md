@@ -6,7 +6,14 @@ https://tintenfrass.github.io/simplechurchbookindexes/
 
 ### Umfang
 Gebiet: Dresden-Meißen-Freiberg-Dippoldiswalde<br>
-Zeitraum: 16-18Jh
+Zeitraum: 16. bis Anfang 18.Jh.
+
+### Die Roh-Daten
+Alle bisher erfassten Daten befinden sich im Ordner "sachsen"
+
+https://github.com/tintenfrass/simplechurchbookindexes/tree/main/sachsen
+
+Ein Großteil davon ist über die Online-Suche durchsuchbar.
 
 ### Beschreibung
 
@@ -17,12 +24,15 @@ Der Index ist ein Hilfsmittel und dient dazu in den Kirchenbüchern schneller be
 Die vollen Einträge der Kirchenbücher können im sächsischen Landeskirchlichen Archiv oder auf Archion betrachtet werden (evangelisch).
 Die katholischen Kirchenbücher sind kostenlos auf Matricula einsehbar.
 
-### Die Roh-Daten
-Alle bisher erfassten Daten befinden sich im Ordner "sachsen"
+Dieses Projekt ist gedacht für:
+1. Familienforschung, um Trauungen schneller zu finden und tote Punkte zu überwinden.
+2. Forschung z.b. Bevölkerungsentwicklung, Namensverbreitung, ...
+4. Inspiration für ähnliche Projekte
+3. sonstige nichtkommerzielle Nutzung
 
-https://github.com/tintenfrass/simplechurchbookindexes/tree/main/sachsen
+Dieses Projekt ist lokal begrenzt ausgerichtet, kann aber als Vorlage für ähnliche Projekte in anderen Gebieten genutzt werden. Das betriftt sowohl die Datenerfassung als auch die Online-Suche.
+Der Quellcode zur Online-Suche ist vollständig einsehbar im Ordner docs. (Open Source)
 
-Ein Großteil davon ist über die Online-Suche durchsuchbar.
 
 ### Lizenz beachten (Creative Commons Attribution-NonCommercial (CC BY-NC) 3.0)
 Die Daten sind für die Forschung gedacht, es ist keine kommerzielle Nutzung erlaubt.
