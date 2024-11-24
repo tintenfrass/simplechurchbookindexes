@@ -4,21 +4,21 @@
 <meta charset="UTF-8">
 <meta name="author" content>
 <meta name="description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
-<meta content name="keywords">
-<meta name="theme-color" content="#2d2c2c">
+<meta name="keywords" content>
+<meta content="#2d2c2c" name="theme-color">
 <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover" name="viewport">
-<meta content="http://127.0.0.1:58097/" property="og:url">
-<meta property="og:title" content="Trau-Index Dresden-Meißen">
+<meta content="http://127.0.0.1:61106/" property="og:url">
+<meta content="Trau-Index Dresden-Meißen" property="og:title">
 <meta property="og:description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
 <meta property="og:type" content="website">
-<meta property="og:image" content>
+<meta content property="og:image">
 <title>
 Trau-Index Dresden-Meißen
 </title>
 <link rel="icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
-<link href="https://storage.googleapis.com/murlok-github/icon-192.png" rel="apple-touch-icon">
-<link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
-<link href="/simplechurchbookindexes/app.css" type="text/css" rel="stylesheet">
+<link rel="apple-touch-icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
+<link href="/simplechurchbookindexes/manifest.webmanifest" rel="manifest">
+<link type="text/css" rel="stylesheet" href="/simplechurchbookindexes/app.css">
 <script defer="true" src="/simplechurchbookindexes/wasm_exec.js"></script>
 <script defer="true" src="/simplechurchbookindexes/app.js"></script>
 <!-- Google tag (gtag.js) -->
@@ -33,7 +33,7 @@ Trau-Index Dresden-Meißen
 </head>
 <body>
 <div>
-<aside id="app-wasm-loader" class="goapp-app-info">
+<aside class="goapp-app-info" id="app-wasm-loader">
 <img id="app-wasm-loader-icon" class="goapp-logo goapp-spin" src="https://storage.googleapis.com/murlok-github/icon-192.png">
 <p id="app-wasm-loader-label" class="goapp-label">
 0%
@@ -78,12 +78,12 @@ Erweiterte Einstellung zum Suchalgorithmus (experimentell):
 </div>
 <br>
 <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.4 werden danach mit DamerauLevenshtein genau berechnet. Dieses zweistufe Vorgehen macht die Suche schnell und trotzdem genau.">
-<input checked="true" name="algo" type="radio">
+<input type="radio" checked="true" name="algo">
 Jaro + DamerauLevenshtein
  ----&gt; best Kombination aus Geschwindigkeit und Komplexität
 </div>
 <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.3 werden danach mit Soundex umgewandelt und diese dann mit DamerauLevenshtein berechnet. Das ist sehr langsam aber findet viel mehr Treffer. Große Suchen brechen manchmal ab.">
-<input type="radio" checked="false" name="algo">
+<input name="algo" type="radio" checked="false">
 Jaro + Soundex + DamerauLevenshtein
  ----&gt; mehr Treffer, sehr langsam, nicht für große Suchen geeignet
 </div>
@@ -107,7 +107,7 @@ Exakt
  (Damerau-)Levenshtein-Distanz
 </a>
 <br>
-<a href="https://srinivas-kulkarni.medium.com/jaro-winkler-vs-levenshtein-distance-2eab21832fd6" style="color:grey;">
+<a style="color:grey;" href="https://srinivas-kulkarni.medium.com/jaro-winkler-vs-levenshtein-distance-2eab21832fd6">
  Jaro-Winkler vs. Levenshtein
 </a>
 <br>
@@ -401,7 +401,7 @@ Search
 <h3>
 Hinweise:
 </h3>
-Die Suche erfolgt über den Namen des Bräutigams.
+Die Suche erfolgt über alle Vornamen, den Nachnamen oder den kompletten Namen des Bräutigams. Eine Suche über Namensteile ist im Suchmodus Exakt möglich. (siehe Beispiele)
 <br>
 Dabei wird eine Ähnlichkeitssuche benutzt und die Ergebnisse nach Treffergenauigkeit aufgelistet. (Ausnahme Suchmodus Exakt)
 <br>
@@ -422,7 +422,7 @@ Max Mustermann
 <b>
 Max Moritz Mustermann
 </b>
- =&gt; bei mehreren Vornahmen.
+ =&gt; bei mehreren Vornahmen, dabei ist die Reihenfolge wichtig. Hat diese Person im Index aber noch weitere Vornamen, dann wird sie wahrscheinlich nicht gefunden.
 <br>
 <b>
 Max *
@@ -440,12 +440,14 @@ Max *
  =&gt; als Bps. für den Nachnamen &#39;Vitzthum von Eckstädt&#39;. (Nachname bestehen im Index immer nur aus einem Wort)
 <br>
 <br>
-Suchmodus Exakt:
+Für spezielle Suchen kann rechts oben der Suchmodus ausgewählt werden.
+<br>
+Im Suchmodus Exakt kann als Einziger gezielt nach Namensbestandteilen gesucht werden, z.B:
 <br>
 <b>
 Napoleon *
 </b>
- =&gt; Liefert Ergebnisse, wo der Vorname &#39;Napoleon&#39; enthalten ist
+ =&gt; Liefert Ergebnisse, wo der Vorname &#39;Napoleon&#39; enthalten ist, egal ob es weitere Vornamen gibt.
 <br>
 <b>
 * dorf
