@@ -329,8 +329,8 @@ func (h *searchComp) Render() app.UI {
 					),
 				),
 				app.Td().Body(
-					app.Div().Style("margin-left", "60px").Style("color", "dimgrey").Body(
-						app.Div().Style("font-weight", "bold").Body(app.Text("Erweiterte Einstellung zum Suchalgorithmus (experimentell):")).Title("Bestimmt wie schnell und genau die Ähnlichkeitssuche funktioniert, je nach Algorithmus können die Ergebnisse leicht abweichen. Im Zweifelsfall einfach so lassen."),
+					app.Div().Style("margin-left", "60px").Body(
+						app.Div().Style("font-weight", "bold").Body(app.Text("Suchalgorithmus:")).Title("Bestimmt wie schnell und genau die Ähnlichkeitssuche funktioniert, je nach Algorithmus können die Ergebnisse abweichen."),
 						app.Br(),
 						app.Div().Title("Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.4 werden danach mit DamerauLevenshtein genau berechnet. Dieses zweistufe Vorgehen macht die Suche schnell und trotzdem genau.").Body(
 							app.Input().Type("radio").Checked(true).OnChange(func(ctx app.Context, e app.Event) { h.algo = search.JaroDamerauLevenshtein }).Name("algo"),
@@ -345,24 +345,18 @@ func (h *searchComp) Render() app.UI {
 						app.Div().Title("Die OSA-Variante von DamerauLevenshtein, ohne Vorfilterung").Body(
 							app.Input().Type("radio").Checked(false).OnChange(func(ctx app.Context, e app.Event) { h.algo = search.Osa }).Name("algo"),
 							app.Text("OSA"),
-							app.Text(" ----> einfacher und schneller als DamerauLevenshtein, für schwächere Geräte"),
+							app.Text(" ----> einfacher und schneller als DamerauLevenshtein"),
 						),
 						app.Div().Title("einfachere Version von DamerauLevenshtein, ohne Vorfilterung").Body(
 							app.Input().Type("radio").Checked(false).OnChange(func(ctx app.Context, e app.Event) { h.algo = search.Levenshtein }).Name("algo"),
 							app.Text("Levenshtein"),
-							app.Text(" ----> einfacher und schneller als OSA, für schwache Geräte"),
+							app.Text(" ----> einfacher und schneller als OSA"),
 						),
-						app.Div().Title("Bei langem Suchtext sehr schnell, aber kann bei kurzem Suchtext in großem Suchraum das System überlasten.").Body(
+						app.Div().Title("Der einzige Algorithmus ohne Ähnlichkeitssuche sondern klassisch nach einer festen Buchstabenkombination.").Body(
 							app.Input().Type("radio").Checked(false).OnChange(func(ctx app.Context, e app.Event) { h.algo = search.Exact }).Name("algo"),
-							app.Text("Exakt"),
-							app.Text(" ----> sucht nach exakt diesem Suchtext innerhalb des Namens. Muss mindestens 3 Zeichen lang sein."),
+							app.Text("Klassisch"),
+							app.Text(" ----> sucht buchstabengenau nach dem Suchtext innerhalb des Namens."),
 						),
-						app.Br(),
-						app.A().Href("https://de.wikipedia.org/wiki/Levenshtein-Distanz").Text(" (Damerau-)Levenshtein-Distanz").Style("color", "grey"),
-						app.Br(),
-						app.A().Href("https://srinivas-kulkarni.medium.com/jaro-winkler-vs-levenshtein-distance-2eab21832fd6").Text(" Jaro-Winkler vs. Levenshtein").Style("color", "grey"),
-						app.Br(),
-						app.A().Href("https://de.wikipedia.org/wiki/K%C3%B6lner_Phonetik").Text(" Soundex (Kölner Phonetik)").Style("color", "grey"),
 					),
 				),
 			),
@@ -404,9 +398,9 @@ func (h *searchComp) Render() app.UI {
 		),
 		app.Div().Body(h.results...),
 		app.H3().Body().Text("Hinweise:"),
-		app.Text("Die Suche erfolgt über alle Vornamen, den Nachnamen oder den kompletten Namen des Bräutigams. Eine Suche über Namensteile ist im Suchmodus Exakt möglich. (siehe Beispiele)"),
+		app.Text("Die Suche erfolgt über alle Vornamen, den Nachnamen oder den kompletten Namen des Bräutigams. Eine Suche über Namensteile ist im Suchmodus Klassisch möglich. (siehe Beispiele)"),
 		app.Br(),
-		app.Text("Dabei wird eine Ähnlichkeitssuche benutzt und die Ergebnisse nach Treffergenauigkeit aufgelistet. (Ausnahme Suchmodus Exakt)"),
+		app.Text("Dabei wird eine Ähnlichkeitssuche benutzt und die Ergebnisse nach Treffergenauigkeit aufgelistet. (Ausnahme Suchmodus Klassisch)"),
 		app.Br(),
 		app.Text("Die Suche wird direkt im Browser ausgeführt, die Suchgeschwindigkeit ist damit stark abhängig vom Gerät womit diese Seite aufgerufen wird."),
 		app.Br(),
@@ -433,9 +427,9 @@ func (h *searchComp) Render() app.UI {
 		app.Text(" => als Bps. für den Nachnamen 'Vitzthum von Eckstädt'. (Nachname bestehen im Index immer nur aus einem Wort)"),
 		app.Br(),
 		app.Br(),
-		app.Text("Für spezielle Suchen kann rechts oben der Suchmodus ausgewählt werden."),
+		app.Text("Für spezielle Suchen kann rechts oben der Suchalgorithmus ausgewählt werden."),
 		app.Br(),
-		app.Text("Im Suchmodus Exakt kann als Einziger gezielt nach Namensbestandteilen gesucht werden, z.B:"),
+		app.Text("Im Suchmodus Klassisch kann als Einziger gezielt nach Namensbestandteilen gesucht werden, z.B:"),
 		app.Br(),
 		app.B().Text("Napoleon *"),
 		app.Text(" => Liefert Ergebnisse, wo der Vorname 'Napoleon' enthalten ist, egal ob es weitere Vornamen gibt."),
@@ -448,6 +442,15 @@ func (h *searchComp) Render() app.UI {
 		app.Br(),
 		app.B().Text("Thoma"),
 		app.Text(" => Liefert Ergebnisse, wo 'Thoma' im Vor- oder Nachnamen enthalten ist"),
+		app.Br(),
+		app.Br(),
+		app.Text("Weitere Informationen zu den Suchalgorithmen:"),
+		app.Br(),
+		app.A().Href("https://de.wikipedia.org/wiki/Levenshtein-Distanz").Text(" (Damerau-)Levenshtein-Distanz"),
+		app.Br(),
+		app.A().Href("https://srinivas-kulkarni.medium.com/jaro-winkler-vs-levenshtein-distance-2eab21832fd6").Text(" Jaro-Winkler vs. Levenshtein"),
+		app.Br(),
+		app.A().Href("https://de.wikipedia.org/wiki/K%C3%B6lner_Phonetik").Text(" Soundex (Kölner Phonetik)"),
 		app.Br(),
 		app.Br(),
 		app.Text("Ergebnisse:"),
@@ -472,12 +475,12 @@ func (h *searchComp) Render() app.UI {
 		app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 		app.Br(),
 		app.Br(),
-		app.H3().Body().Text(" v1.10 (November 2024) latest updates:"),
+		app.H3().Body().Text(" v1.10 (Dezember 2024) latest updates:"),
 		app.Label().Text("Trauungen 1830-1839 hinzugefügt"),
 		app.Br(),
 		app.Label().Text("Trauungen Freiberg (katholisch) hinzugefügt"),
 		app.Br(),
-		app.Label().Text("neuer Suchmodus 'Exakt' hinzugefügt"),
+		app.Label().Text("neuer Suchmodus 'Klassisch' hinzugefügt"),
 		//app.Br(),
 		//app.Label().Text("Trauungen Meißen (katholisch) hinzugefügt"),
 		//app.Br(),
@@ -506,6 +509,15 @@ func (h *searchComp) onClick(ctx app.Context, e app.Event) {
 			break
 		}
 		full = dis
+
+		if strings.Contains(res, "0 Zu viele Ergebnisse") {
+			boxes[dis] = append(boxes[dis], app.Tr().Body(
+				app.Td().Body(app.Label().Text("»»»").Style("font-weight", "bold").Attr("style", "color: "+getColor(dis))),
+				app.Td().Body(app.Text(parts[0][2:])),
+			))
+			continue
+		}
+
 		src := getSource(parts[3])
 		if parts[4] != "0" && src == "Archion" {
 			parts[3] += "?pageId=" + parts[4]

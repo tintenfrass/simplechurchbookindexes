@@ -3,6 +3,7 @@ package search
 import (
 	"fmt"
 	"math"
+	"strconv"
 	"strings"
 
 	gophonetics "gopkg.in/Regis24GmbH/go-phonetics.v3"
@@ -38,9 +39,6 @@ func FindMarriage(search string, min, max int, churches map[string]bool, algo in
 	if algo == 1 {
 		//für Soundex brauchen wir einen geringen Grenzwert
 		jaroTreshold = JaroTresholdSoundex
-	}
-	if algo == 4 && len(search) < 3 {
-		return
 	}
 
 	for church, sourceMarriages := range Data.Marriages {
@@ -138,6 +136,10 @@ func FindMarriage(search string, min, max int, churches map[string]bool, algo in
 	count := 0
 	for i := 0; i < 32; i++ {
 		if count > 50 {
+			break
+		}
+		if len(results[i]) > 1000 {
+			output = append(output, fmt.Sprintf("%d %s#%s#%d#%s#%d", 0, "Zu viele Ergebnisse zum Anzeigen ("+strconv.Itoa(len(results[i]))+")", "", i, "", 0))
 			break
 		}
 		for _, match := range results[i] {
