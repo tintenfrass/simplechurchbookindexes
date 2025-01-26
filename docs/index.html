@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta content name="author">
+<meta name="author" content>
 <meta name="description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
 <meta name="keywords" content>
 <meta name="theme-color" content="#2d2c2c">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover">
-<meta property="og:url" content="http://127.0.0.1:50419/">
-<meta content="Trau-Index Dresden-Meißen" property="og:title">
+<meta property="og:url" content="http://127.0.0.1:50468/">
+<meta property="og:title" content="Trau-Index Dresden-Meißen">
 <meta property="og:description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
 <meta property="og:type" content="website">
 <meta property="og:image" content>
@@ -19,7 +19,7 @@ Trau-Index Dresden-Meißen
 <link rel="apple-touch-icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
 <link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
 <link type="text/css" rel="stylesheet" href="/simplechurchbookindexes/app.css">
-<script defer="true" src="/simplechurchbookindexes/wasm_exec.js"></script>
+<script src="/simplechurchbookindexes/wasm_exec.js" defer="true"></script>
 <script defer="true" src="/simplechurchbookindexes/app.js"></script>
 <!-- Google tag (gtag.js) -->
 			<script async src="https://www.googletagmanager.com/gtag/js?id=G-S2D2V6SHXE"></script>
@@ -35,7 +35,7 @@ Trau-Index Dresden-Meißen
 <div>
 <aside id="app-wasm-loader" class="goapp-app-info">
 <img id="app-wasm-loader-icon" class="goapp-logo goapp-spin" src="https://storage.googleapis.com/murlok-github/icon-192.png">
-<p class="goapp-label" id="app-wasm-loader-label">
+<p id="app-wasm-loader-label" class="goapp-label">
 0%
 </p>
 </aside>
@@ -54,7 +54,7 @@ Dresden-Meißen-Freiberg-Dippoldiswalde
 <label>
 Jahr Min 
 </label>
-<input style="width: 600px;" type="range" min="1541" max="1839" value="0">
+<input min="1541" max="1839" value="0" style="width: 600px;" type="range">
 <label>
 0
 </label>
@@ -78,7 +78,7 @@ Suchalgorithmus:
 </div>
 <br>
 <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.4 werden danach mit DamerauLevenshtein genau berechnet. Dieses zweistufe Vorgehen macht die Suche schnell und trotzdem genau.">
-<input type="radio" checked="true" name="algo">
+<input checked="true" name="algo" type="radio">
 Jaro + DamerauLevenshtein
  ----&gt; best Kombination aus Geschwindigkeit und Komplexität
 </div>
@@ -93,7 +93,7 @@ OSA
  ----&gt; einfacher und schneller als DamerauLevenshtein
 </div>
 <div title="einfachere Version von DamerauLevenshtein, ohne Vorfilterung">
-<input type="radio" checked="false" name="algo">
+<input checked="false" name="algo" type="radio">
 Levenshtein
  ----&gt; einfacher und schneller als OSA
 </div>
@@ -107,12 +107,12 @@ Klassisch
 </tr>
 </table>
 <td>
-<button disabled="true" title="Dresde-Meißen-Freiberg-Dippolsidwalde">
+<button disabled="true" title="Dresde-Meißen-Freiberg-Dippoldiswalde">
 DD-MEI-FG-DW
 </button>
 </td>
 <td>
-<button title="Bautzen" disabled="false">
+<button disabled="false" title="Bautzen">
 BZ
 </button>
 </td>
@@ -651,7 +651,7 @@ Nichts
 </div>
 </table>
 <p>
-<input type="text" placeholder="Vorname Nachname" autofocus="true" style="width: 250px;">
+<input style="width: 250px;" type="text" placeholder="Vorname Nachname" autofocus="true">
  
 <button style="width: 100px;">
 Search

@@ -365,7 +365,7 @@ func (h *searchComp) Render() app.UI {
 				),
 			),
 		),
-		app.Td().Body(app.Button().Disabled(h.displayTab[0] == "block").Text("DD-MEI-FG-DW").OnClick(h.tab0).Title("Dresde-Meißen-Freiberg-Dippolsidwalde")),
+		app.Td().Body(app.Button().Disabled(h.displayTab[0] == "block").Text("DD-MEI-FG-DW").OnClick(h.tab0).Title("Dresde-Meißen-Freiberg-Dippoldiswalde")),
 		app.Td().Body(app.Button().Disabled(h.displayTab[1] == "block").Text("BZ").OnClick(h.tab1).Title("Bautzen")),
 		app.Table().Body(
 			//Tab 0
