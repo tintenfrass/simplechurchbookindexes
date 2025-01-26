@@ -6,9 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	gophonetics "gopkg.in/Regis24GmbH/go-phonetics.v3"
-
 	"github.com/antzucaro/matchr"
+	gophonetics "gopkg.in/Regis24GmbH/go-phonetics.v3"
 )
 
 func FindMarriage(search string, min, max int, churches map[string]bool, algo int) (output []string, debug string) {
@@ -44,7 +43,7 @@ func FindMarriage(search string, min, max int, churches map[string]bool, algo in
 	for church, sourceMarriages := range Data.Marriages {
 		//Prüfen, ob wir in dieser Quelle suchen wollen
 		_, exists := churches[church]
-		if exists && !churches[church] {
+		if !exists || !churches[church] {
 			continue
 		}
 

@@ -2,22 +2,22 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="author" content>
+<meta content name="author">
 <meta name="description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
 <meta name="keywords" content>
 <meta name="theme-color" content="#2d2c2c">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover">
-<meta content="http://127.0.0.1:61149/" property="og:url">
-<meta property="og:title" content="Trau-Index Dresden-Meißen">
+<meta property="og:url" content="http://127.0.0.1:50419/">
+<meta content="Trau-Index Dresden-Meißen" property="og:title">
 <meta property="og:description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
 <meta property="og:type" content="website">
 <meta property="og:image" content>
 <title>
 Trau-Index Dresden-Meißen
 </title>
-<link href="https://storage.googleapis.com/murlok-github/icon-192.png" rel="icon">
+<link rel="icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
 <link rel="apple-touch-icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
-<link href="/simplechurchbookindexes/manifest.webmanifest" rel="manifest">
+<link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
 <link type="text/css" rel="stylesheet" href="/simplechurchbookindexes/app.css">
 <script defer="true" src="/simplechurchbookindexes/wasm_exec.js"></script>
 <script defer="true" src="/simplechurchbookindexes/app.js"></script>
@@ -35,7 +35,7 @@ Trau-Index Dresden-Meißen
 <div>
 <aside id="app-wasm-loader" class="goapp-app-info">
 <img id="app-wasm-loader-icon" class="goapp-logo goapp-spin" src="https://storage.googleapis.com/murlok-github/icon-192.png">
-<p id="app-wasm-loader-label" class="goapp-label">
+<p class="goapp-label" id="app-wasm-loader-label">
 0%
 </p>
 </aside>
@@ -54,15 +54,15 @@ Dresden-Meißen-Freiberg-Dippoldiswalde
 <label>
 Jahr Min 
 </label>
-<input value="0" style="width: 600px;" type="range" min="1541" max="1839">
+<input style="width: 600px;" type="range" min="1541" max="1839" value="0">
 <label>
 0
 </label>
 <br>
 <label>
-Jahr Max
+Jahr Max 
 </label>
-<input value="0" style="width: 600px;" type="range" min="1541" max="1839">
+<input max="1839" value="0" style="width: 600px;" type="range" min="1541">
 <label>
 0
 </label>
@@ -78,12 +78,12 @@ Suchalgorithmus:
 </div>
 <br>
 <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.4 werden danach mit DamerauLevenshtein genau berechnet. Dieses zweistufe Vorgehen macht die Suche schnell und trotzdem genau.">
-<input checked="true" name="algo" type="radio">
+<input type="radio" checked="true" name="algo">
 Jaro + DamerauLevenshtein
  ----&gt; best Kombination aus Geschwindigkeit und Komplexität
 </div>
 <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.3 werden danach mit Soundex umgewandelt und diese dann mit DamerauLevenshtein berechnet. Das ist sehr langsam aber findet viel mehr Treffer. Große Suchen brechen manchmal ab.">
-<input checked="false" name="algo" type="radio">
+<input type="radio" checked="false" name="algo">
 Jaro + Soundex + DamerauLevenshtein
  ----&gt; mehr Treffer, sehr langsam, nicht für große Suchen geeignet
 </div>
@@ -106,8 +106,284 @@ Klassisch
 </td>
 </tr>
 </table>
+<td>
+<button disabled="true" title="Dresde-Meißen-Freiberg-Dippolsidwalde">
+DD-MEI-FG-DW
+</button>
+</td>
+<td>
+<button title="Bautzen" disabled="false">
+BZ
+</button>
+</td>
 <table>
-<div style="border:1px solid #D3D3D3;">
+<div style="border:1px solid #D3D3D3;display:block;">
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+<button style="width: 70px;">
+Alles
+</button>
+</td>
+<td>
+<button style="width: 70px;">
+Nichts
+</button>
+</td>
+</tr>
+</div>
+<div style="border:1px solid #D3D3D3;display:none;">
 <tr>
 <td></td>
 <td></td>
@@ -375,7 +651,7 @@ Nichts
 </div>
 </table>
 <p>
-<input style="width: 250px;" type="text" placeholder="Vorname Nachname" autofocus="true">
+<input type="text" placeholder="Vorname Nachname" autofocus="true" style="width: 250px;">
  
 <button style="width: 100px;">
 Search
@@ -398,6 +674,8 @@ Die Suche wird direkt im Browser ausgeführt, die Suchgeschwindigkeit ist damit 
 Es wird Groß- und kleinschreibung unterschieden.
 <br>
 Komplexe Suchen (kurze Suchtexte im großen Suchgebiet) können die Suche abstürzen lassen, in diesem Fall muss oft die Seite im Browser neu geladen werden.
+<br>
+Über die Reiter kann das Suchgebiet ausgewählt werden.
 <br>
 <br>
 Bsp: für die Suche:
@@ -497,18 +775,10 @@ https://github.com/tintenfrass/simplechurchbookindexes
 <br>
 <br>
 <h3>
- v1.10 (Dezember 2024) latest updates:
+ v1.11 (Januar 2025) latest updates:
 </h3>
 <label>
-Trauungen 1830-1839 hinzugefügt
-</label>
-<br>
-<label>
-Trauungen Freiberg (katholisch) hinzugefügt
-</label>
-<br>
-<label>
-neuer Suchmodus &#39;Klassisch&#39; hinzugefügt
+Aufgebote und Trauungen Bautzen hinzugefügt (extra Reiter)
 </label>
 </div>
 </div>

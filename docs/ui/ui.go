@@ -4,64 +4,25 @@ import (
 	"fmt"
 	"onlinefuzzysearch/config"
 	"onlinefuzzysearch/search"
-	"path"
-	"strconv"
 	"strings"
 	"time"
 
 	"github.com/maxence-charriere/go-app/v9/pkg/app"
 )
 
-var grid = map[int]map[int]string{}
+const tabs = 2
+const rows = 21
+const cols = 10
 
-func (h *searchComp) OnMount(ctx app.Context) {
-	start := time.Now()
-	search.LoadData()
-	dur := time.Since(start)
+var grid = map[int]map[int]map[int]string{} //tab, row, col, name
 
-	//Defaults
-	h.slideValueMin = config.YearMin
-	h.slideValueMax = config.YearMax
-
-	count := 0
-	h.checked = make(map[string]bool)
-	for key, val := range search.Data.Marriages {
-		h.checked[key] = true
-		count += len(val.Data)
-	}
-
-	h.debug = fmt.Sprintf("%d Datensätze geladen in %s", count, dur.Round(time.Millisecond).String())
-}
-
-func replace(input string) (output string) {
-	output = input
-	output = strings.Replace(output, "dresden/", "", 1)
-	output = strings.Replace(output, "meissen/", "", 1)
-	output = strings.Replace(output, "freiberg/", "", 1)
-	output = strings.Replace(output, "dippoldiswalde/", "", 1)
-	output = strings.Replace(output, "Dresden", "DD", 1)
-	output = strings.Replace(output, "Böhmische", "Böhm.", 1)
-	output = strings.Replace(output, "Exulantengemeinde", "Exulanten", 1)
-	output = strings.Replace(output, "Meißen ", "MEI ", 1)
-	output = strings.Replace(output, "Freiberg ", "FG ", 1)
-	output = strings.Replace(output, "Friedrichstadt St. Michael", "Friedrichstadt", 1)
-	return
-}
-
-func replaceKK(input string) (output string) {
-	output = input
-	output = strings.Replace(output, "dresden", "DD", 1)
-	output = strings.Replace(output, "meissen", "MEI", 1)
-	output = strings.Replace(output, "freiberg", "FG", 1)
-	output = strings.Replace(output, "dippoldiswalde", "DW", 1)
-
-	return
-}
-
-var rows = 21
-var cols = 10
-
+//Render the full ui
 func (h *searchComp) Render() app.UI {
+
+	//show only first tab
+	if len(h.displayTab) == 0 {
+		h.displayTab = []string{"block", "none"}
+	}
 
 	kath := map[string]struct{}{
 		"dresden/Dresden Hofkirche":                  {},
@@ -71,242 +32,285 @@ func (h *searchComp) Render() app.UI {
 		"freiberg/Freiberg":                          {},
 	}
 
-	grid = map[int]map[int]string{
-		0: make(map[int]string),
-		1: make(map[int]string),
-		2: make(map[int]string),
-		3: make(map[int]string),
-		4: make(map[int]string),
-		5: make(map[int]string),
-		6: make(map[int]string),
-		7: make(map[int]string),
-		8: make(map[int]string),
-		9: make(map[int]string),
+	grid = map[int]map[int]map[int]string{
+		0: {
+			0: make(map[int]string),
+			1: make(map[int]string),
+			2: make(map[int]string),
+			3: make(map[int]string),
+			4: make(map[int]string),
+			5: make(map[int]string),
+			6: make(map[int]string),
+			7: make(map[int]string),
+			8: make(map[int]string),
+			9: make(map[int]string),
+		},
+		1: {
+			0: make(map[int]string),
+			1: make(map[int]string),
+			2: make(map[int]string),
+			3: make(map[int]string),
+			4: make(map[int]string),
+			5: make(map[int]string),
+			6: make(map[int]string),
+			7: make(map[int]string),
+			8: make(map[int]string),
+			9: make(map[int]string),
+		},
 	}
-	grid[0][0] = "meissen/Bloßwitz"
-	grid[1][0] = "meissen/Staucha"
-	grid[2][0] = "meissen/Striegnitz"
-	grid[3][0] = "meissen/Dörschnitz"
-	grid[5][0] = "meissen/Großdobritz"
-	grid[8][0] = "dresden/Großdittmannsdorf"
+	grid[0][0][0] = "meissen/Bloßwitz"
+	grid[0][1][0] = "meissen/Staucha"
+	grid[0][2][0] = "meissen/Striegnitz"
+	grid[0][3][0] = "meissen/Dörschnitz"
+	grid[0][5][0] = "meissen/Großdobritz"
+	grid[0][8][0] = "dresden/Großdittmannsdorf"
 
-	grid[1][1] = "meissen/Lommatzsch"
-	grid[2][1] = "meissen/Zehren"
-	grid[3][1] = "meissen/Zadel"
-	grid[4][1] = "meissen/Gröbern"
-	grid[5][1] = "meissen/Oberau"
-	grid[8][1] = "dresden/Medingen"
-	grid[9][1] = "dresden/Ottendorf"
+	grid[0][1][1] = "meissen/Lommatzsch"
+	grid[0][2][1] = "meissen/Zehren"
+	grid[0][3][1] = "meissen/Zadel"
+	grid[0][4][1] = "meissen/Gröbern"
+	grid[0][5][1] = "meissen/Oberau"
+	grid[0][8][1] = "dresden/Medingen"
+	grid[0][9][1] = "dresden/Ottendorf"
 
-	grid[0][2] = "meissen/Neckanitz"
-	grid[2][2] = "meissen/Meißen St. Afra"
-	grid[3][2] = "meissen/Meißen Trinitatiskirche"
-	grid[4][2] = "meissen/Niederau"
-	grid[7][2] = "dresden/Grünberg"
-	grid[8][2] = "dresden/Seifersdorf"
-	grid[9][2] = "dresden/Wachau"
+	grid[0][0][2] = "meissen/Neckanitz"
+	grid[0][2][2] = "meissen/Meißen St. Afra"
+	grid[0][3][2] = "meissen/Meißen Trinitatiskirche"
+	grid[0][4][2] = "meissen/Niederau"
+	grid[0][7][2] = "dresden/Grünberg"
+	grid[0][8][2] = "dresden/Seifersdorf"
+	grid[0][9][2] = "dresden/Wachau"
 
-	grid[0][3] = "meissen/Leuben"
-	grid[1][3] = "meissen/Planitz"
-	//grid[2][3] = "meissen/Meißen"
-	grid[3][3] = "meissen/Meißen Frauenkirche"
-	grid[4][3] = "meissen/Meißen Johanneskirche"
-	grid[5][3] = "meissen/Weinböhla"
-	grid[8][3] = "dresden/Lausa"
-	grid[9][3] = "dresden/Schönborn"
+	grid[0][0][3] = "meissen/Leuben"
+	grid[0][1][3] = "meissen/Planitz"
+	//grid[0][2][3] = "meissen/Meißen"
+	grid[0][3][3] = "meissen/Meißen Frauenkirche"
+	grid[0][4][3] = "meissen/Meißen Johanneskirche"
+	grid[0][5][3] = "meissen/Weinböhla"
+	grid[0][8][3] = "dresden/Lausa"
+	grid[0][9][3] = "dresden/Schönborn"
 
-	grid[1][4] = "meissen/Ziegenhain"
-	grid[4][4] = "meissen/Brockwitz"
-	grid[5][4] = "meissen/Coswig"
-	grid[6][4] = "dresden/Reichenberg"
-	grid[7][4] = "dresden/Wilschdorf"
-	grid[8][4] = "dresden/Radeberg"
-	grid[9][4] = "dresden/Langebrück"
+	grid[0][1][4] = "meissen/Ziegenhain"
+	grid[0][4][4] = "meissen/Brockwitz"
+	grid[0][5][4] = "meissen/Coswig"
+	grid[0][6][4] = "dresden/Reichenberg"
+	grid[0][7][4] = "dresden/Wilschdorf"
+	grid[0][8][4] = "dresden/Radeberg"
+	grid[0][9][4] = "dresden/Langebrück"
 
-	grid[2][5] = "meissen/Krögis"
-	grid[3][5] = "meissen/Miltitz"
-	grid[5][5] = "meissen/Naustadt"
-	grid[6][5] = "dresden/Kötzschenbroda"
-	grid[7][5] = "dresden/Klotzsche"
-	grid[8][5] = "dresden/Dresden Neustadt"
-	grid[9][5] = "dresden/Kleinwolmsdorf"
+	grid[0][2][5] = "meissen/Krögis"
+	grid[0][3][5] = "meissen/Miltitz"
+	grid[0][5][5] = "meissen/Naustadt"
+	grid[0][6][5] = "dresden/Kötzschenbroda"
+	grid[0][7][5] = "dresden/Klotzsche"
+	grid[0][8][5] = "dresden/Dresden Neustadt"
+	grid[0][9][5] = "dresden/Kleinwolmsdorf"
 
-	grid[0][6] = "meissen/Rüsseina"
-	grid[1][6] = "meissen/Raußlitz"
-	grid[2][6] = "meissen/Heynitz"
-	grid[3][6] = "meissen/Taubenheim"
-	grid[4][6] = "meissen/Röhrsdorf"
-	grid[5][6] = "meissen/Constappel"
-	grid[6][6] = "dresden/Dresden Friedrichstadt St. Michael"
-	grid[7][6] = "dresden/Kaditz"
-	grid[8][6] = "dresden/Dresden Dreikönigskirche"
-	grid[9][6] = "dresden/Großerkmannsdorf"
+	grid[0][0][6] = "meissen/Rüsseina"
+	grid[0][1][6] = "meissen/Raußlitz"
+	grid[0][2][6] = "meissen/Heynitz"
+	grid[0][3][6] = "meissen/Taubenheim"
+	grid[0][4][6] = "meissen/Röhrsdorf"
+	grid[0][5][6] = "meissen/Constappel"
+	grid[0][6][6] = "dresden/Dresden Friedrichstadt St. Michael"
+	grid[0][7][6] = "dresden/Kaditz"
+	grid[0][8][6] = "dresden/Dresden Dreikönigskirche"
+	grid[0][9][6] = "dresden/Großerkmannsdorf"
 
-	grid[0][7] = "meissen/Wendischbora"
-	grid[1][7] = "meissen/Rothschönberg"
-	grid[2][7] = "meissen/Burkhardswalde"
-	grid[3][7] = "meissen/Sora"
-	grid[4][7] = "meissen/Weistropp"
-	grid[5][7] = "dresden/Briesnitz"
-	grid[6][7] = "dresden/Dresden Friedrichstadt"
-	grid[7][7] = "dresden/Dresden Sophienkirche"
-	grid[8][7] = "dresden/Dresden Hofkirche"
-	grid[9][7] = "dresden/Weißig"
+	grid[0][0][7] = "meissen/Wendischbora"
+	grid[0][1][7] = "meissen/Rothschönberg"
+	grid[0][2][7] = "meissen/Burkhardswalde"
+	grid[0][3][7] = "meissen/Sora"
+	grid[0][4][7] = "meissen/Weistropp"
+	grid[0][5][7] = "dresden/Briesnitz"
+	grid[0][6][7] = "dresden/Dresden Friedrichstadt"
+	grid[0][7][7] = "dresden/Dresden Sophienkirche"
+	grid[0][8][7] = "dresden/Dresden Hofkirche"
+	grid[0][9][7] = "dresden/Weißig"
 
-	grid[0][8] = "meissen/Nossen"
-	grid[1][8] = "meissen/Deutschenbora"
-	grid[2][8] = "meissen/Tanneberg"
-	grid[3][8] = "meissen/Limbach"
-	grid[4][8] = "meissen/Wilsdruff"
-	grid[5][8] = "meissen/Unkersdorf"
-	grid[6][8] = "dresden/Dresden Kreuzkirche"
-	grid[7][8] = "dresden/Dresden Frauenkirche"
-	grid[8][8] = "dresden/Loschwitz"
+	grid[0][0][8] = "meissen/Nossen"
+	grid[0][1][8] = "meissen/Deutschenbora"
+	grid[0][2][8] = "meissen/Tanneberg"
+	grid[0][3][8] = "meissen/Limbach"
+	grid[0][4][8] = "meissen/Wilsdruff"
+	grid[0][5][8] = "meissen/Unkersdorf"
+	grid[0][6][8] = "dresden/Dresden Kreuzkirche"
+	grid[0][7][8] = "dresden/Dresden Frauenkirche"
+	grid[0][8][8] = "dresden/Loschwitz"
 
-	grid[0][9] = "meissen/Siebenlehn"
-	grid[1][9] = "meissen/Hirschfeld"
-	grid[2][9] = "meissen/Neukirchen"
-	grid[3][9] = "meissen/Blankenstein"
-	grid[4][9] = "meissen/Grumbach"
-	grid[5][9] = "meissen/Kesselsdorf"
-	grid[6][9] = "dippoldiswalde/Pesterwitz"
-	grid[7][9] = "dresden/Dresden Annenkirche"
-	grid[8][9] = "dresden/Dresden Böhmische Exulantengemeinde"
-	grid[9][9] = "dresden/Schönfeld"
+	grid[0][0][9] = "meissen/Siebenlehn"
+	grid[0][1][9] = "meissen/Hirschfeld"
+	grid[0][2][9] = "meissen/Neukirchen"
+	grid[0][3][9] = "meissen/Blankenstein"
+	grid[0][4][9] = "meissen/Grumbach"
+	grid[0][5][9] = "meissen/Kesselsdorf"
+	grid[0][6][9] = "dippoldiswalde/Pesterwitz"
+	grid[0][7][9] = "dresden/Dresden Annenkirche"
+	grid[0][8][9] = "dresden/Dresden Böhmische Exulantengemeinde"
+	grid[0][9][9] = "dresden/Schönfeld"
 
-	grid[0][10] = "meissen/Obergruna"
-	grid[1][10] = "meissen/Bieberstein"
-	grid[2][10] = "meissen/Reinsberg"
-	grid[3][10] = "meissen/Dittmannsdorf"
-	grid[4][10] = "meissen/Herzogswalde"
-	grid[5][10] = "dippoldiswalde/Döhlen"
-	grid[6][10] = "dresden/Plauen"
-	grid[7][10] = "dresden/Leubnitz"
-	grid[8][10] = "dresden/Leuben"
-	grid[9][10] = "dresden/Hosterwitz"
+	grid[0][0][10] = "meissen/Obergruna"
+	grid[0][1][10] = "meissen/Bieberstein"
+	grid[0][2][10] = "meissen/Reinsberg"
+	grid[0][3][10] = "meissen/Dittmannsdorf"
+	grid[0][4][10] = "meissen/Herzogswalde"
+	grid[0][5][10] = "dippoldiswalde/Döhlen"
+	grid[0][6][10] = "dresden/Plauen"
+	grid[0][7][10] = "dresden/Leubnitz"
+	grid[0][8][10] = "dresden/Leuben"
+	grid[0][9][10] = "dresden/Hosterwitz"
 
-	grid[0][11] = "freiberg/Großschirma"
-	grid[1][11] = "freiberg/Krummenhennersdorf"
-	grid[2][11] = "freiberg/Niederschöna"
-	grid[3][11] = "meissen/Mohorn"
-	grid[4][11] = "dippoldiswalde/Fördergersdorf"
-	grid[5][11] = "dippoldiswalde/Tharandt"
-	grid[8][11] = "dresden/Lockwitz"
+	grid[0][0][11] = "freiberg/Großschirma"
+	grid[0][1][11] = "freiberg/Krummenhennersdorf"
+	grid[0][2][11] = "freiberg/Niederschöna"
+	grid[0][3][11] = "meissen/Mohorn"
+	grid[0][4][11] = "dippoldiswalde/Fördergersdorf"
+	grid[0][5][11] = "dippoldiswalde/Tharandt"
+	grid[0][8][11] = "dresden/Lockwitz"
 
-	grid[0][12] = "freiberg/Langhennersdorf"
-	grid[1][12] = "freiberg/Tuttendorf"
-	grid[2][12] = "freiberg/Conradsdorf"
-	grid[3][12] = "freiberg/Naundorf"
-	grid[4][12] = "dippoldiswalde/Dorfhain"
-	grid[5][12] = "dippoldiswalde/Somsdorf"
-	grid[6][12] = "dippoldiswalde/Rabenau"
-	grid[7][12] = "dippoldiswalde/Possendorf"
-	grid[8][12] = "dresden/Röhrsdorf"
+	grid[0][0][12] = "freiberg/Langhennersdorf"
+	grid[0][1][12] = "freiberg/Tuttendorf"
+	grid[0][2][12] = "freiberg/Conradsdorf"
+	grid[0][3][12] = "freiberg/Naundorf"
+	grid[0][4][12] = "dippoldiswalde/Dorfhain"
+	grid[0][5][12] = "dippoldiswalde/Somsdorf"
+	grid[0][6][12] = "dippoldiswalde/Rabenau"
+	grid[0][7][12] = "dippoldiswalde/Possendorf"
+	grid[0][8][12] = "dresden/Röhrsdorf"
 
-	grid[0][13] = "freiberg/Bräunsdorf"
-	grid[1][13] = "freiberg/Freiberg Dom St. Marien"
-	grid[2][13] = "freiberg/Freiberg St. Nikolai"
-	grid[4][13] = "dippoldiswalde/Klingenberg"
-	grid[5][13] = "dippoldiswalde/Höckendorf"
-	grid[6][13] = "dippoldiswalde/Seifersdorf"
-	grid[8][13] = "dippoldiswalde/Kreischa"
+	grid[0][0][13] = "freiberg/Bräunsdorf"
+	grid[0][1][13] = "freiberg/Freiberg Dom St. Marien"
+	grid[0][2][13] = "freiberg/Freiberg St. Nikolai"
+	grid[0][4][13] = "dippoldiswalde/Klingenberg"
+	grid[0][5][13] = "dippoldiswalde/Höckendorf"
+	grid[0][6][13] = "dippoldiswalde/Seifersdorf"
+	grid[0][8][13] = "dippoldiswalde/Kreischa"
 
-	grid[0][14] = "freiberg/Kleinwaltersdorf"
-	grid[1][14] = "freiberg/Freiberg St. Petri"
-	grid[2][14] = "freiberg/Freiberg St. Jacobi"
-	grid[3][14] = "freiberg/Hilbersdorf"
-	grid[4][14] = "dippoldiswalde/Colmnitz"
-	grid[5][14] = "dippoldiswalde/Ruppendorf"
-	grid[6][14] = "dippoldiswalde/Dippoldiswalde"
-	grid[7][14] = "dippoldiswalde/Reinhardtsgrimma"
+	grid[0][0][14] = "freiberg/Kleinwaltersdorf"
+	grid[0][1][14] = "freiberg/Freiberg St. Petri"
+	grid[0][2][14] = "freiberg/Freiberg St. Jacobi"
+	grid[0][3][14] = "freiberg/Hilbersdorf"
+	grid[0][4][14] = "dippoldiswalde/Colmnitz"
+	grid[0][5][14] = "dippoldiswalde/Ruppendorf"
+	grid[0][6][14] = "dippoldiswalde/Dippoldiswalde"
+	grid[0][7][14] = "dippoldiswalde/Reinhardtsgrimma"
 
-	grid[0][15] = "freiberg/Kleinschirma"
-	grid[1][15] = "freiberg/Freiberg St. Johannis"
-	grid[2][15] = "freiberg/Freiberg"
-	grid[3][15] = "freiberg/Niederbobritzsch"
-	grid[6][15] = "dippoldiswalde/Reichstädt"
+	grid[0][0][15] = "freiberg/Kleinschirma"
+	grid[0][1][15] = "freiberg/Freiberg St. Johannis"
+	grid[0][2][15] = "freiberg/Freiberg"
+	grid[0][3][15] = "freiberg/Niederbobritzsch"
+	grid[0][6][15] = "dippoldiswalde/Reichstädt"
 
-	grid[0][16] = "freiberg/Oberschöna"
-	grid[1][16] = "freiberg/Erbisdorf"
-	grid[2][16] = "freiberg/Berthelsdorf"
-	grid[3][16] = "freiberg/Weißenborn"
-	grid[4][16] = "freiberg/Oberbobritzsch"
-	grid[5][16] = "dippoldiswalde/Pretzschendorf"
-	grid[8][16] = "dippoldiswalde/Glashütte"
+	grid[0][0][16] = "freiberg/Oberschöna"
+	grid[0][1][16] = "freiberg/Erbisdorf"
+	grid[0][2][16] = "freiberg/Berthelsdorf"
+	grid[0][3][16] = "freiberg/Weißenborn"
+	grid[0][4][16] = "freiberg/Oberbobritzsch"
+	grid[0][5][16] = "dippoldiswalde/Pretzschendorf"
+	grid[0][8][16] = "dippoldiswalde/Glashütte"
 
-	grid[0][17] = "freiberg/Langenau"
-	grid[1][17] = "freiberg/Weigmannsdorf"
-	grid[2][17] = "freiberg/Lichtenberg"
-	grid[3][17] = "dippoldiswalde/Burkersdorf"
-	grid[4][17] = "dippoldiswalde/Hartmannsdorf"
-	grid[5][17] = "dippoldiswalde/Hennersdorf"
-	grid[6][17] = "dippoldiswalde/Sadisdorf"
-	grid[7][17] = "dippoldiswalde/Schmiedeberg"
-	grid[8][17] = "dippoldiswalde/Johnsbach"
-	grid[9][17] = "dippoldiswalde/Dittersdorf"
+	grid[0][0][17] = "freiberg/Langenau"
+	grid[0][1][17] = "freiberg/Weigmannsdorf"
+	grid[0][2][17] = "freiberg/Lichtenberg"
+	grid[0][3][17] = "dippoldiswalde/Burkersdorf"
+	grid[0][4][17] = "dippoldiswalde/Hartmannsdorf"
+	grid[0][5][17] = "dippoldiswalde/Hennersdorf"
+	grid[0][6][17] = "dippoldiswalde/Sadisdorf"
+	grid[0][7][17] = "dippoldiswalde/Schmiedeberg"
+	grid[0][8][17] = "dippoldiswalde/Johnsbach"
+	grid[0][9][17] = "dippoldiswalde/Dittersdorf"
 
-	grid[0][18] = "freiberg/Gränitz"
-	grid[1][18] = "freiberg/Großhartmannsdorf"
-	grid[2][18] = "freiberg/Helbigsdorf"
-	grid[3][18] = "freiberg/Mulda"
-	grid[4][18] = "dippoldiswalde/Frauenstein"
-	grid[7][18] = "dippoldiswalde/Bärenstein"
-	grid[8][18] = "dippoldiswalde/Lauenstein"
-	grid[9][18] = "dippoldiswalde/Liebenau"
+	grid[0][0][18] = "freiberg/Gränitz"
+	grid[0][1][18] = "freiberg/Großhartmannsdorf"
+	grid[0][2][18] = "freiberg/Helbigsdorf"
+	grid[0][3][18] = "freiberg/Mulda"
+	grid[0][4][18] = "dippoldiswalde/Frauenstein"
+	grid[0][7][18] = "dippoldiswalde/Bärenstein"
+	grid[0][8][18] = "dippoldiswalde/Lauenstein"
+	grid[0][9][18] = "dippoldiswalde/Liebenau"
 
-	grid[1][19] = "freiberg/Zethau"
-	grid[2][19] = "freiberg/Dorfchemnitz"
-	grid[3][19] = "dippoldiswalde/Dittersbach"
-	grid[4][19] = "dippoldiswalde/Nassau"
-	grid[5][19] = "dippoldiswalde/Hermsdorf"
-	grid[6][19] = "dippoldiswalde/Schellerhau"
-	grid[7][19] = "dippoldiswalde/Altenberg"
-	grid[8][19] = "dippoldiswalde/Geising"
-	grid[9][19] = "dippoldiswalde/Fürstenwalde"
+	grid[0][1][19] = "freiberg/Zethau"
+	grid[0][2][19] = "freiberg/Dorfchemnitz"
+	grid[0][3][19] = "dippoldiswalde/Dittersbach"
+	grid[0][4][19] = "dippoldiswalde/Nassau"
+	grid[0][5][19] = "dippoldiswalde/Hermsdorf"
+	grid[0][6][19] = "dippoldiswalde/Schellerhau"
+	grid[0][7][19] = "dippoldiswalde/Altenberg"
+	grid[0][8][19] = "dippoldiswalde/Geising"
+	grid[0][9][19] = "dippoldiswalde/Fürstenwalde"
 
-	grid[1][20] = "freiberg/Voigtsdorf"
-	grid[2][20] = "freiberg/Sayda"
-	grid[3][20] = "freiberg/Clausnitz"
-	grid[4][20] = "freiberg/Cämmerswalde"
-	grid[8][20] = "dippoldiswalde/Fürstenau"
+	grid[0][1][20] = "freiberg/Voigtsdorf"
+	grid[0][2][20] = "freiberg/Sayda"
+	grid[0][3][20] = "freiberg/Clausnitz"
+	grid[0][4][20] = "freiberg/Cämmerswalde"
+	grid[0][8][20] = "dippoldiswalde/Fürstenau"
+
+	grid[1][2][8] = "bautzen/Bautzen"
+
+	grid[1][2][9] = "bautzen/Bautzen St. Michael"
+	grid[1][3][9] = "bautzen/Bautzen St. Petri"
 
 	raw := "https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/"
 
 	//Checkboxes
-	cbs := map[string]app.HTMLDiv{}
-	for key, _ := range search.Data.Marriages {
-		k := key //prevent Bug
-		changeValue := func(ctx app.Context, e app.Event) {
-			h.checked[k] = !h.checked[k]
-		}
+	cbs := make(map[int]map[string]app.HTMLDiv)
+	for tab := 0; tab < tabs; tab++ {
+		cbs[tab] = make(map[string]app.HTMLDiv)
+		for key, _ := range search.Data.Marriages {
 
-		//Plus
-		plus := func(ctx app.Context, e app.Event) {
-			h.plusminus(true, k)
-		}
-		//Minus
-		minus := func(ctx app.Context, e app.Event) {
-			h.plusminus(false, k)
-		}
+			//Skip if not belongs to this tab
+			switch {
+			case strings.HasPrefix(key, "dresden/"):
+				fallthrough
+			case strings.HasPrefix(key, "meissen/"):
+				fallthrough
+			case strings.HasPrefix(key, "freiberg/"):
+				fallthrough
+			case strings.HasPrefix(key, "dippoldiswalde/"):
+				if tab != 0 {
+					continue
+				}
+			case strings.HasPrefix(key, "bautzen/"):
+				if tab != 1 {
+					continue
+				}
+			default:
+				continue
+			}
 
-		cb := app.Input().Type("checkbox").Checked(h.checked[k]).OnChange(changeValue).Attr("style", "float:left;")
-		text := replace(k)
-		if _, exists := kath[k]; exists {
-			cb = app.Input().Type("checkbox").Checked(h.checked[k]).OnChange(changeValue).Attr("style", "float:left;accent-color:darkred")
-			text += " (kath)"
+			k := key //prevent Bug
+			changeValue := func(ctx app.Context, e app.Event) {
+				h.checked[h.activeTab][k] = !h.checked[h.activeTab][k]
+			}
+
+			//Plus
+			plus := func(ctx app.Context, e app.Event) {
+				h.plusminus(true, k)
+			}
+			//Minus
+			minus := func(ctx app.Context, e app.Event) {
+				h.plusminus(false, k)
+			}
+
+			cb := app.Input().Type("checkbox").Checked(h.checked[tab][k]).OnChange(changeValue).Attr("style", "float:left;")
+			text := replace(k)
+			if _, exists := kath[k]; exists {
+				cb = app.Input().Type("checkbox").Checked(h.checked[tab][k]).OnChange(changeValue).Attr("style", "float:left;accent-color:darkred")
+				text += " (kath)"
+			}
+			cbs[tab][k] = app.Div().Body(
+				app.Div().Style("float", "left").Body(
+					app.Img().Src(raw+"plus.jpg").Style("display", "flex").Style("margin-top", "1px").OnClick(plus).Title("mehrfach Klicken um dieses Suchgebiet zu vergrößern"),
+					app.Img().Src(raw+"minus.jpg").Style("display", "flex").Style("margin-top", "0px").OnClick(minus).Title("mehrfach Klicken um dieses Suchgebiet zu verkleiner"),
+				),
+				cb,
+				app.Div().Style("float", "left").Body(
+					app.Label().Text(text).OnClick(changeValue),
+					app.Br(),
+					app.Label().Text(search.GetMinMax(k)).OnClick(changeValue).Attr("style", "color:dimgrey;font-size:7pt"),
+				),
+			)
 		}
-		cbs[k] = app.Div().Body(
-			app.Div().Style("float", "left").Body(
-				app.Img().Src(raw+"plus.jpg").Style("display", "flex").Style("margin-top", "1px").OnClick(plus).Title("mehrfach Klicken um dieses Suchgebiet zu vergrößern"),
-				app.Img().Src(raw+"minus.jpg").Style("display", "flex").Style("margin-top", "0px").OnClick(minus).Title("mehrfach Klicken um dieses Suchgebiet zu verkleiner"),
-			),
-			cb,
-			app.Div().Style("float", "left").Body(
-				app.Label().Text(text).OnClick(changeValue),
-				app.Br(),
-				app.Label().Text(search.GetMinMax(k)).OnClick(changeValue).Attr("style", "color:dimgrey;font-size:7pt"),
-			),
-		)
 	}
 
 	return app.Div().Body(
@@ -320,7 +324,7 @@ func (h *searchComp) Render() app.UI {
 						app.Input().Type("range").Attr("min", config.YearMin).Attr("max", config.YearMax).OnChange(h.ValueTo(&h.slideValueMin)).Value(h.slideValueMin).Attr("style", "width: 600px"),
 						app.Label().Text(h.slideValueMin),
 						app.Br(),
-						app.Label().Text("Jahr Max"),
+						app.Label().Text("Jahr Max "),
 						app.Input().Type("range").Attr("min", config.YearMin).Attr("max", config.YearMax).OnChange(h.ValueTo(&h.slideValueMax)).Value(h.slideValueMax).Attr("style", "width: 600px"),
 						app.Label().Text(h.slideValueMax),
 						app.Br(),
@@ -361,15 +365,45 @@ func (h *searchComp) Render() app.UI {
 				),
 			),
 		),
+		app.Td().Body(app.Button().Disabled(h.displayTab[0] == "block").Text("DD-MEI-FG-DW").OnClick(h.tab0).Title("Dresde-Meißen-Freiberg-Dippolsidwalde")),
+		app.Td().Body(app.Button().Disabled(h.displayTab[1] == "block").Text("BZ").OnClick(h.tab1).Title("Bautzen")),
 		app.Table().Body(
-			app.Div().Style("border", "1px solid #D3D3D3").Body(
+			//Tab 0
+			app.Div().Style("border", "1px solid #D3D3D3").Style("display", h.displayTab[0]).Body(
 				func() (row []app.UI) {
 					for j := 0; j < rows; j++ {
 						row = append(row, app.Tr().Body(
 							func() (ele []app.UI) {
 								for i := 0; i < cols; i++ {
-									if val, ok := grid[i][j]; ok {
-										ele = append(ele, app.Td().Body(cbs[val]))
+									if val, ok := grid[0][i][j]; ok {
+										ele = append(ele, app.Td().Body(cbs[0][val]))
+									} else {
+										ele = append(ele, app.Td())
+									}
+								}
+								return
+							}()...,
+						))
+					}
+
+					//Extra Buttons
+					row = append(row, app.Tr().Body(
+						app.Td().Body(app.Button().Text("Alles").OnClick(h.all).Attr("style", "width: 70px")),
+						app.Td().Body(app.Button().Text("Nichts").OnClick(h.nothing).Attr("style", "width: 70px")),
+					))
+
+					return
+				}()...,
+			),
+			//Tab 1
+			app.Div().Style("border", "1px solid #D3D3D3").Style("display", h.displayTab[1]).Body(
+				func() (row []app.UI) {
+					for j := 0; j < rows; j++ {
+						row = append(row, app.Tr().Body(
+							func() (ele []app.UI) {
+								for i := 0; i < cols; i++ {
+									if val, ok := grid[1][i][j]; ok {
+										ele = append(ele, app.Td().Body(cbs[1][val]))
 									} else {
 										ele = append(ele, app.Td())
 									}
@@ -392,7 +426,7 @@ func (h *searchComp) Render() app.UI {
 		app.P().Body(
 			app.Input().Type("text").Placeholder("Vorname Nachname").AutoFocus(true).OnChange(h.ValueTo(&h.searchValue)).Attr("style", "width: 250px"),
 			app.Text(" "),
-			app.Button().Text("Search").OnClick(h.onClick).Attr("style", "width: 100px"),
+			app.Button().Text("Search").OnClick(h.search).Attr("style", "width: 100px"),
 			app.Text(" "),
 			app.Label().Text(h.debug),
 		),
@@ -407,6 +441,8 @@ func (h *searchComp) Render() app.UI {
 		app.Text("Es wird Groß- und kleinschreibung unterschieden."),
 		app.Br(),
 		app.Text("Komplexe Suchen (kurze Suchtexte im großen Suchgebiet) können die Suche abstürzen lassen, in diesem Fall muss oft die Seite im Browser neu geladen werden."),
+		app.Br(),
+		app.Text("Über die Reiter kann das Suchgebiet ausgewählt werden."),
 		app.Br(),
 		app.Br(),
 		app.Text("Bsp: für die Suche:"),
@@ -475,12 +511,8 @@ func (h *searchComp) Render() app.UI {
 		app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 		app.Br(),
 		app.Br(),
-		app.H3().Body().Text(" v1.10 (Dezember 2024) latest updates:"),
-		app.Label().Text("Trauungen 1830-1839 hinzugefügt"),
-		app.Br(),
-		app.Label().Text("Trauungen Freiberg (katholisch) hinzugefügt"),
-		app.Br(),
-		app.Label().Text("neuer Suchmodus 'Klassisch' hinzugefügt"),
+		app.H3().Body().Text(" v1.11 (Januar 2025) latest updates:"),
+		app.Label().Text("Aufgebote und Trauungen Bautzen hinzugefügt (extra Reiter)"),
 		//app.Br(),
 		//app.Label().Text("Trauungen Meißen (katholisch) hinzugefügt"),
 		//app.Br(),
@@ -488,163 +520,42 @@ func (h *searchComp) Render() app.UI {
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
 }
 
-const linkPrefix = "https://github.com/tintenfrass/simplechurchbookindexes/blob/main/sachsen/"
-
-func (h *searchComp) onClick(ctx app.Context, e app.Event) {
+//after rendering
+func (h *searchComp) OnMount(ctx app.Context) {
 	start := time.Now()
-
-	h.results = []app.UI{}
-	full := -1
-
-	boxes := make(map[int][]app.UI, 10)
-	for i := 0; i < 8; i++ {
-		boxes[i] = []app.UI{}
-	}
-
-	data, debug := search.FindMarriage(h.searchValue, h.slideValueMin, h.slideValueMax, h.checked, h.algo)
-	for _, res := range data {
-		parts := strings.Split(res, "#")
-		dis, _ := strconv.Atoi(parts[2])
-		if dis > 7 {
-			break
-		}
-		full = dis
-
-		if strings.Contains(res, "0 Zu viele Ergebnisse") {
-			boxes[dis] = append(boxes[dis], app.Tr().Body(
-				app.Td().Body(app.Label().Text("»»»").Style("font-weight", "bold").Attr("style", "color: "+getColor(dis))),
-				app.Td().Body(app.Text(parts[0][2:])),
-			))
-			continue
-		}
-
-		src := getSource(parts[3])
-		if parts[4] != "0" && src == "Archion" {
-			parts[3] += "?pageId=" + parts[4]
-		}
-
-		boxes[dis] = append(boxes[dis], app.Tr().Body(
-			app.Td().Body(app.Label().Text("»»»").Style("font-weight", "bold").Attr("style", "color: "+getColor(dis))),
-			app.Td().Body(app.Text(parts[0])),
-			app.Td().Body(app.Label().Style("margin", "16px")),
-			app.Td().Body(app.Text(replaceKK(path.Dir(parts[1])))).Style("color", "dimgrey;font-size:7pt"),
-			app.Td().Body(app.A().Href(linkPrefix+parts[1]).Text(path.Base(parts[1]))),
-			app.Td().Body(app.Label().Style("margin", "16px")),
-			app.Td().Body(app.A().Href(parts[3]).Text(src)),
-		))
-	}
-
-	for i := 0; i < 8; i++ {
-		if len(boxes[i]) == 0 {
-			boxes[i] = append(boxes[i], app.Text("--------"))
-			if i > full {
-				if full == -1 {
-					h.results = append(h.results, app.H4().Body().Text("Keine Ergebnisse gefunden").Style("color", "red"))
-				}
-				break
-			}
-		}
-
-		//result table
-		rs := []app.UI{}
-		for _, b := range boxes[i] {
-			rs = append(rs, b)
-		}
-		tbl := app.Table().Body(
-			rs...,
-		)
-
-		h.results = append(h.results, app.H4().Body().Text(fmt.Sprintf("Ergebnisse mit Abweichung von ~%d-%d:", i, i+1)), tbl)
-	}
-
+	search.LoadData()
 	dur := time.Since(start)
-	h.debug = fmt.Sprintf("Suchzeit: %s%s", dur.Round(time.Millisecond).String(), debug)
-}
 
-func (h *searchComp) all(ctx app.Context, e app.Event) {
-	for key, _ := range search.Data.Marriages {
-		h.checked[key] = true
-	}
-}
+	//set defaults, slider and checkboxes
+	h.slideValueMin = config.YearMin
+	h.slideValueMax = config.YearMax
 
-func (h *searchComp) nothing(ctx app.Context, e app.Event) {
-	for key, _ := range search.Data.Marriages {
-		h.checked[key] = false
-	}
-}
-
-func getColor(distant int) (color string) {
-	switch distant {
-	case 0:
-		color = "green"
-	case 1:
-		color = "#4CBB17"
-	case 2:
-		color = "#C4B454"
-	case 3:
-		color = "#FFC300"
-	case 4:
-		color = "orange"
-	case 5:
-		color = "#FF7518"
-	default:
-		color = "red"
-	}
-
-	return
-}
-
-func getPos(key string) (posi, posj int) {
-	posi = -1
-	posj = -1
-	for i := 0; i < cols; i++ {
-		for j := 0; j < rows; j++ {
-			if grid[i][j] == key {
-				posi = i
-				posj = j
-				break
+	count := 0
+	h.checked = make(map[int]map[string]bool)
+	for tab := 0; tab < tabs; tab++ {
+		h.checked[tab] = make(map[string]bool)
+		for key, val := range search.Data.Marriages {
+			if tab == 0 {
+				count += len(val.Data)
 			}
-		}
-	}
-	return
-}
-
-func (h *searchComp) plusminus(value bool, k string) {
-	posi, posj := getPos(k)
-
-	for r := 0; r < 42; r++ {
-		next := true
-		for i := 0; i < cols+r; i++ {
-			if i >= posi-r && i <= posi+r {
-				for j := 0; j < rows+r; j++ {
-					if j >= posj-r && j <= posj+r {
-						if val, ok := grid[i][j]; ok {
-							if h.checked[val] != value {
-								h.checked[val] = value
-								if r > 0 {
-									next = false
-								}
-							}
-						}
-					}
+			switch {
+			case strings.HasPrefix(key, "dresden/"):
+				fallthrough
+			case strings.HasPrefix(key, "meissen/"):
+				fallthrough
+			case strings.HasPrefix(key, "freiberg/"):
+				fallthrough
+			case strings.HasPrefix(key, "dippoldiswalde/"):
+				if tab == 0 {
+					h.checked[tab][key] = true
+				}
+			case strings.HasPrefix(key, "bautzen/"):
+				if tab == 1 {
+					h.checked[tab][key] = true
 				}
 			}
 		}
-		if !next {
-			break
-		}
 	}
-}
 
-func getSource(link string) string {
-	switch {
-	case strings.Contains(link, "archion.de"):
-		return "Archion"
-	case strings.Contains(link, "matricula-online.eu"):
-		return "Matricula"
-	case strings.Contains(link, "familysearch.org"):
-		return "Familysearch"
-	default:
-		return "Online-Link"
-	}
+	h.debug = fmt.Sprintf("%d Datensätze geladen in %s", count, dur.Round(time.Millisecond).String())
 }
