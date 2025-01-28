@@ -9,6 +9,9 @@ Zusätzlich ist das Kirchenbuch nur schwer lesbar und viele Namen exotisch, oft 
 Die Fehlerquote in diesem Index ist sehr hoch.
 
 
+Diese Kirche hat katholisch getraut.
+
+
 Janaur 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
