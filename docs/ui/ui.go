@@ -320,8 +320,8 @@ func (h *searchComp) Render() app.UI {
 			app.Tr().Body(
 				app.Td().Body(
 					app.Div().Body(
-						app.H2().Body(app.Text("Onlinsuche im Trau-Schnell-Index")),
-						app.H3().Body(app.Text("Dresden-Meißen-Freiberg-Dippoldiswalde")),
+						app.H2().Body(app.Text("Onlinesuche im Trauindex")),
+						app.H3().Body(app.Text("Dresden-Meißen-Freiberg-Dippoldiswalde (+Bautzen)")),
 						app.Label().Text("Jahr Min "),
 						app.Input().Type("range").Attr("min", config.YearMin).Attr("max", config.YearMax).OnChange(h.ValueTo(&h.slideValueMin)).Value(h.slideValueMin).Attr("style", "width: 600px"),
 						app.Label().Text(h.slideValueMin),
