@@ -30,6 +30,7 @@ func (h *searchComp) Render() app.UI {
 		"dresden/Dresden Friedrichstadt St. Michael": {},
 		"meissen/Meißen":                             {},
 		"freiberg/Freiberg":                          {},
+		"bautzen/Bautzen Dom":                        {},
 	}
 
 	grid = map[int]map[int]map[int]string{
@@ -246,6 +247,7 @@ func (h *searchComp) Render() app.UI {
 	grid[0][8][20] = "dippoldiswalde/Fürstenau"
 
 	grid[1][2][8] = "bautzen/Bautzen"
+	grid[1][3][8] = "bautzen/Bautzen Dom"
 
 	grid[1][2][9] = "bautzen/Bautzen St. Michael"
 	grid[1][3][9] = "bautzen/Bautzen St. Petri"
