@@ -10,7 +10,25 @@ import (
 	gophonetics "gopkg.in/Regis24GmbH/go-phonetics.v3"
 )
 
-func FindMarriage(search string, min, max int, churches map[string]bool, algo int) (output []string, debug string) {
+type Result struct {
+	Year   int
+	Line   string
+	Source string
+	Dis    int
+	Link   string
+	Page   int
+}
+
+const MaxDistance = 7
+const MaxResultsDis = 1000
+
+func FindMarriage(search string, min, max int, churches map[string]bool, algo int) (resultList []Result, debug string) {
+	defer func() {
+		if r := recover(); r != nil {
+			debug = fmt.Sprintf(" Es ist ein Fehler aufgetreten. Seite muss neu geladen werden! (F5)")
+		}
+	}()
+
 	search = strings.TrimSpace(search)
 	//Alle bis auf das letzte Leerzeichen ersetzen, damit Vornamen zusammengehangen werden
 	for {
@@ -128,25 +146,48 @@ func FindMarriage(search string, min, max int, churches map[string]bool, algo in
 				}
 			}
 
-			results[distance] = append(results[distance], entry)
+			if distance > MaxDistance {
+				continue
+			}
+
+			if len(results[distance]) <= MaxResultsDis {
+				results[distance] = append(results[distance], entry)
+			}
 		}
 	}
 
 	count := 0
-	for i := 0; i < 32; i++ {
+	for i := 0; i < MaxDistance+1; i++ {
 		if count > 50 {
 			break
 		}
-		if len(results[i]) > 1000 {
-			output = append(output, fmt.Sprintf("%d %s#%s#%d#%s#%d", 0, "Zu viele Ergebnisse zum Anzeigen ("+strconv.Itoa(len(results[i]))+")", "", i, "", 0))
-			break
+
+		//too much
+		if len(results[i]) > MaxResultsDis {
+			resultList = append(resultList, Result{
+				Year:   0,
+				Line:   "Zu viele Ergebnisse zum Anzeigen (>" + strconv.Itoa(MaxResultsDis) + ")",
+				Source: "",
+				Dis:    i,
+				Link:   "",
+				Page:   0,
+			})
+			return
 		}
+
 		for _, match := range results[i] {
-			pageId := uint32(0)
+			pageId := 0
 			if Data.Offset[match.S] > 0 {
-				pageId = Data.Offset[match.S] + uint32(match.P)
+				pageId = int(Data.Offset[match.S] + uint32(match.P))
 			}
-			output = append(output, fmt.Sprintf("%d %s#%s#%d#%s#%d", match.Y, match.L, Data.Sources[match.S], i, Data.Links[match.S], pageId))
+			resultList = append(resultList, Result{
+				Year:   match.Y,
+				Line:   match.L,
+				Source: Data.Sources[match.S],
+				Dis:    i,
+				Link:   Data.Links[match.S],
+				Page:   pageId,
+			})
 			count++
 		}
 	}

@@ -37,40 +37,38 @@ func (h *searchComp) search(ctx app.Context, e app.Event) {
 		boxes[i] = []app.UI{}
 	}
 
-	data, debug := search.FindMarriage(h.searchValue, h.slideValueMin, h.slideValueMax, h.checked[h.activeTab], h.algo)
-	for _, res := range data {
-		parts := strings.Split(res, "#")
-		dis, _ := strconv.Atoi(parts[2])
-		if dis > 7 {
+	resultList, debug := search.FindMarriage(h.searchValue, h.slideValueMin, h.slideValueMax, h.checked[h.activeTab], h.algo)
+	for _, res := range resultList {
+		if res.Dis > search.MaxDistance {
 			break
 		}
-		full = dis
+		full = res.Dis
 
-		if strings.Contains(res, "0 Zu viele Ergebnisse") {
-			boxes[dis] = append(boxes[dis], app.Tr().Body(
-				app.Td().Body(app.Label().Text("»»»").Style("font-weight", "bold").Attr("style", "color: "+getColor(dis))),
-				app.Td().Body(app.Text(parts[0][2:])),
+		if strings.Contains(res.Line, "Zu viele Ergebnisse") {
+			boxes[res.Dis] = append(boxes[res.Dis], app.Tr().Body(
+				app.Td().Body(app.Label().Text("»»»").Style("font-weight", "bold").Attr("style", "color: "+getColor(res.Dis))),
+				app.Td().Body(app.Text(res.Line)),
 			))
 			continue
 		}
 
-		src := getSource(parts[3])
-		if parts[4] != "0" && src == "Archion" {
-			parts[3] += "?pageId=" + parts[4]
+		src := getSource(res.Link)
+		if res.Page != 0 && src == "Archion" {
+			res.Link += "?pageId=" + strconv.Itoa(res.Page)
 		}
 
-		boxes[dis] = append(boxes[dis], app.Tr().Body(
-			app.Td().Body(app.Label().Text("»»»").Style("font-weight", "bold").Attr("style", "color: "+getColor(dis))),
-			app.Td().Body(app.Text(parts[0])),
+		boxes[res.Dis] = append(boxes[res.Dis], app.Tr().Body(
+			app.Td().Body(app.Label().Text("»»»").Style("font-weight", "bold").Attr("style", "color: "+getColor(res.Dis))),
+			app.Td().Body(app.Text(strconv.Itoa(res.Year)+" "+res.Line)),
 			app.Td().Body(app.Label().Style("margin", "16px")),
-			app.Td().Body(app.Text(replaceKK(path.Dir(parts[1])))).Style("color", "dimgrey;font-size:7pt"),
-			app.Td().Body(app.A().Href(linkPrefix+parts[1]).Text(path.Base(parts[1]))),
+			app.Td().Body(app.Text(replaceKK(path.Dir(res.Source)))).Style("color", "dimgrey;font-size:7pt"),
+			app.Td().Body(app.A().Href(linkPrefix+res.Source).Text(path.Base(res.Source))),
 			app.Td().Body(app.Label().Style("margin", "16px")),
-			app.Td().Body(app.A().Href(parts[3]).Text(src)),
+			app.Td().Body(app.A().Href(res.Link).Text(src)),
 		))
 	}
 
-	for i := 0; i < 8; i++ {
+	for i := 0; i < search.MaxDistance+1; i++ {
 		if len(boxes[i]) == 0 {
 			boxes[i] = append(boxes[i], app.Text("--------"))
 			if i > full {

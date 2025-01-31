@@ -517,8 +517,8 @@ func (h *searchComp) Render() app.UI {
 		app.Label().Text("Aufgebote und Trauungen Bautzen hinzugefügt (extra Reiter)"),
 		//app.Br(),
 		//app.Label().Text("Trauungen Meißen (katholisch) hinzugefügt"),
-		//app.Br(),
-		//app.Label().Text("kleinere Fehlerkorrekturen"),
+		app.Br(),
+		app.Label().Text("kleinere Fehlerkorrekturen"),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
 }
 
