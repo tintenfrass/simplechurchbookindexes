@@ -1,5 +1,5 @@
 Dresden Sophienkirche (Buch 481)
-Trauungen 1813-1839
+Trauungen 1813-1842
 https://www.archion.de/de/viewer/churchRegister/280096?pageId=38534208
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Juli 2024
 September 2024
 Oktober 2024
+Januar 2024
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -483,3 +484,79 @@ Friedrich Moritz Lehmann
 Gustav Adolph Erdtel
 August Eduard Segnitz
 Carl Friedrich Hofmann
+----------------
+1840
+Heinrich Bernhard Peter
+Christian Gustav Holtzendorf
+Ludwig Ferdinand Ehrler
+Ernst Emil Bülow
+Carl Julius August Plato Emil PawlRammingen
+----------------
+Franz Conrad Arnold
+Carl Gotthelf Lehmann
+Siegfried Kospoth
+Gustav Herrmann Schweinitz
+Carl Joseph Parpalioni
+Georg Herrmann Criegern
+----------------
+Carl Georg Wilhelm Eduard Schmidt
+Max Albert Hauschild
+Friedrich Herrman Matthäi
+Maximilian Wilhelm Auenmüller
+Otto Ferdinand Brück
+August Julius Herrmann Vogel
+----------------
+Friedrich Eduard Nieritz
+August Robert Lembcke
+Theobald Reinold Anton Oer
+Wolf Heinrich Friedrich Carl Baudißin
+August Paul Winkler
+Heinrich Adolph Attrock
+----------------
+Anton August Goblenz
+Michael Christian Gustav WiegandtHohenastenberg
+----------------
+1841
+Carl Wilhelm Blase
+Franz Wilhelm Damm
+Emanuel Aurel Martin Schlieben
+Anselm Bruno Stübel
+Carl Leonhard Vetthusen
+Herrmann Eduard Schneider
+----------------
+Heinrich Gustav Matteis
+Christian Friedrich Moritz Krebß
+August Friedrich Richter
+Georg Ernst Richard Oertzen
+Carl Gustav Laurin
+----------------
+August Albert Tschertwitz
+August Gottlob Locke
+Heinrich August Manitius
+Ernst Moritz Junkhänel
+Carl Adolph Bachmann
+Heinrich Ferdinand Waentig
+Georg Bernhard Minkwitz
+----------------
+Anton Moritz Theodor Birnbaum
+Gustav Eduard Schwender
+1842
+Gottlieb Daniel Fischer
+Ernst Zobeltitz
+Friedrich Moritz Oswald Baumgarten
+----------------
+Georg Friedrich Emil Haag
+Bernhard Schimpff
+Carl Friedrich August Braune
+Ernst Moritz Zacharias
+Friedrich Alexander Linke
+Gustav Ernst Eduard Dietrich
+Herrmann Ewald Gareis
+----------------
+Hans Carl Zehman
+Carl Ludwig Langbein
+Ludwig Wilhelm Jagemann
+Franz Adolph Carlowitz
+Gustav Traugott Mangoldt
+----------------
+Eduard Gustav Feller

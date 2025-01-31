@@ -1,5 +1,5 @@
 Dresden Böhmische Exulantengemeinde (Buch 491)
-Trauungen 1801-1839
+Trauungen 1801-1849
 https://www.archion.de/de/viewer/churchRegister/264671?pageId=36998576
 
 
@@ -8,6 +8,7 @@ April 2024
 Juli 2024
 September 2024
 Oktober 2024
+Januar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -126,3 +127,22 @@ Carl August Siegel
 Johann Gottlob Unger
 1839
 Johann David Müller
+1840
+Johann Christlieb Berthold
+1845
+Christian Gottlieb Wilhelm Gallus
+Ernst Adam Robert Strehle
+----------------
+Joseph Daniel Hennisch
+Karl Eduard Hertel
+1846
+Johann Friedrich Hoßfeld
+Johann Gotthelf Richter
+1847
+Johann Karl Gottlob Schneider
+1848
+Johann Joseph Gabriel
+Jacob Rölke
+----------------
+1849
+Friedrich Ferdinand Kern

@@ -6,7 +6,7 @@ Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Zusätzlich ist das Kirchenbuch nur schwer lesbar und viele Namen unklar.
 
-Dieser Index später überarbeitet auf der Grundlage des Werkes "Die Dresdner Schlosskirchenbücher" von Christa Maria Richter erstellt:
+Dieser Index wurde später überarbeitet auf der Grundlage des Werkes "Die Dresdner Schlosskirchenbücher" von Christa Maria Richter erstellt:
 https://slub.qucosa.de/landing-page/?tx_dlf[id]=https%3A%2F%2Fslub.qucosa.de%2Fapi%2Fqucosa%253A74092%2Fmets
 
 
