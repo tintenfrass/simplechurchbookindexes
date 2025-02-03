@@ -180,9 +180,13 @@ func FindMarriage(search string, min, max int, churches map[string]bool, algo in
 			if Data.Offset[match.S] > 0 {
 				pageId = int(Data.Offset[match.S] + uint32(match.P))
 			}
+			line := match.L
+			if len(line) == 0 {
+				line = match.V + " " + match.N
+			}
 			resultList = append(resultList, Result{
 				Year:   match.Y,
-				Line:   match.L,
+				Line:   line,
 				Source: Data.Sources[match.S],
 				Dis:    i,
 				Link:   Data.Links[match.S],

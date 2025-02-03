@@ -12,7 +12,11 @@ require (
 )
 
 require (
+	github.com/deckarep/golang-set v1.8.0 // indirect
+	github.com/eskriett/strmet v0.0.0-20200126103939-2653f802bdb0 // indirect
 	github.com/google/uuid v1.3.0 // indirect
+	github.com/jamesturk/go-jellyfish v0.0.0-20190821175037-81d50ddab23b // indirect
+	github.com/masatana/go-textdistance v0.0.0-20191005053614-738b0edac985 // indirect
 	golang.org/x/text v0.7.0 // indirect
 	gopkg.in/Regis24GmbH/go-diacritics.v2 v2.0.3 // indirect
 )

@@ -7,103 +7,176 @@ import (
 
 	"github.com/alextanhongpin/stringdist"
 	"github.com/antzucaro/matchr"
+	"github.com/eskriett/strmet"
 	"github.com/hbollon/go-edlib"
+	"github.com/jamesturk/go-jellyfish"
 	tdl "github.com/lmas/Damerau-Levenshtein"
+	"github.com/masatana/go-textdistance"
 )
 
-func TestFind(t *testing.T) {
+const s1 = "Johann Georg Friedrich"
+const s2 = "Johann Gotthelf Benjamin"
+const rotations = 100000
+
+func TestDamerauLevenshtein(t *testing.T) {
 	s := time.Now()
-	for i := 0; i < 100000; i++ {
-		matchr.Levenshtein("Johann Gottfried", "Joseph Wilhelm")
-	}
-	fmt.Println(time.Since(s))
-
-	for i := 0; i < 100000; i++ {
-		matchr.OSA("Johann Gottfried", "Joseph Wilhelm")
-	}
-	fmt.Println(time.Since(s))
+	d := 0
 
 	s = time.Now()
-	for i := 0; i < 100000; i++ {
-		matchr.DamerauLevenshtein("Johann Gottfried", "Joseph Wilhelm")
+	for i := 0; i < rotations; i++ {
+		d = matchr.DamerauLevenshtein(s1, s2)
 	}
-	fmt.Println(time.Since(s))
+	fmt.Println("matchr.DamerauLevenshtein", time.Since(s), d)
 
 	s = time.Now()
-	for i := 0; i < 100000; i++ {
-		matchr.JaroWinkler("Johann Gottfried", "Joseph Wilhelm", true)
+	for i := 0; i < rotations; i++ {
+		d = tdl.Distance(s1, s2)
 	}
-	fmt.Println(time.Since(s))
+	fmt.Println("tdl.Distance", time.Since(s), d)
 
 	s = time.Now()
-	for i := 0; i < 100000; i++ {
-		matchr.JaroWinkler("Johann Gottfried", "Joseph Wilhelm", false)
+	true := tdl.New(100)
+	for i := 0; i < rotations; i++ {
+		d = true.Distance(s1, s2)
 	}
-	fmt.Println(time.Since(s))
+	fmt.Println("tdl.Distance", time.Since(s), d)
 
 	s = time.Now()
-	for i := 0; i < 100000; i++ {
-		matchr.Jaro("Johann Gottfried", "Joseph Wilhelm")
+	for i := 0; i < rotations; i++ {
+		d = edlib.DamerauLevenshteinDistance(s1, s2)
 	}
-	fmt.Println(time.Since(s))
+	fmt.Println("edlib.DamerauLevenshteinDistance", time.Since(s), d)
 
 	s = time.Now()
-	for i := 0; i < 100000; i++ {
-		tdl.Distance("Johann Gottfried", "Joseph Wilhelm")
+	for i := 0; i < rotations; i++ {
+		d = jellyfish.DamerauLevenshtein(s1, s2)
 	}
-	fmt.Println(time.Since(s))
+	fmt.Println("jellyfish.DamerauLevenshtein", time.Since(s), d)
+}
+
+func TestLevenshtein(t *testing.T) {
+	s := time.Now()
+	d := 0
 
 	s = time.Now()
-	for i := 0; i < 100000; i++ {
-		edlib.LevenshteinDistance("Johann Gottfried", "Joseph Wilhelm")
+	for i := 0; i < rotations; i++ {
+		d = matchr.Levenshtein(s1, s2)
 	}
-	fmt.Println(time.Since(s))
+	fmt.Println("matchr.Levenshtein", time.Since(s), d)
 
 	s = time.Now()
-	for i := 0; i < 100000; i++ {
-		edlib.DamerauLevenshteinDistance("Johann Gottfried", "Joseph Wilhelm")
+	for i := 0; i < rotations; i++ {
+		d = edlib.LevenshteinDistance(s1, s2)
 	}
-	fmt.Println(time.Since(s))
+	fmt.Println("edlib.LevenshteinDistance", time.Since(s), d)
 
 	s = time.Now()
-	for i := 0; i < 100000; i++ {
-		edlib.OSADamerauLevenshteinDistance("Johann Gottfried", "Joseph Wilhelm")
+	dl := stringdist.NewDamerauLevenshtein(100) //algorithm is wrong, this is Levenshtein
+	for i := 0; i < rotations; i++ {
+		d = dl.Calculate(s1, s2)
 	}
-	fmt.Println(time.Since(s))
+	fmt.Println("stringdist.NewDamerauLevenshtein", time.Since(s), d)
 
 	s = time.Now()
-	for i := 0; i < 100000; i++ {
-		edlib.JaroWinklerSimilarity("Johann Gottfried", "Joseph Wilhelm")
+	l := stringdist.NewLevenshtein(100)
+	for i := 0; i < rotations; i++ {
+		d = l.Calculate(s1, s2)
 	}
-	fmt.Println(time.Since(s))
+	fmt.Println("stringdist.NewLevenshtein", time.Since(s), d)
 
 	s = time.Now()
-	for i := 0; i < 100000; i++ {
-		edlib.JaroSimilarity("Johann Gottfried", "Joseph Wilhelm")
+	for i := 0; i < rotations; i++ {
+		d = strmet.DamerauLevenshtein(s1, s2, 100) //algorithm is wrong, this is Levenshtein
 	}
-	fmt.Println(time.Since(s))
+	fmt.Println("strmet.DamerauLevenshtein", time.Since(s), d)
 
 	s = time.Now()
-	for i := 0; i < 100000; i++ {
-		stringdist.NewDamerauLevenshtein(100).Calculate("Johann Gottfried", "Joseph Wilhelm")
+	for i := 0; i < rotations; i++ {
+		d = strmet.Levenshtein(s1, s2, 100)
 	}
-	fmt.Println(time.Since(s))
+	fmt.Println("strmet.Levenshtein", time.Since(s), d)
 
 	s = time.Now()
-	for i := 0; i < 100000; i++ {
-		stringdist.NewLevenshtein(100).Calculate("Johann Gottfried", "Joseph Wilhelm")
+	for i := 0; i < rotations; i++ {
+		d = textdistance.DamerauLevenshteinDistance(s1, s2) //algorithm is wrong, this is Levenshtein
 	}
-	fmt.Println(time.Since(s))
+	fmt.Println("textdistance.DamerauLevenshteinDistance", time.Since(s), d)
 
 	s = time.Now()
-	for i := 0; i < 100000; i++ {
-		stringdist.JaroWinkler("Johann Gottfried", "Joseph Wilhelm")
+	for i := 0; i < rotations; i++ {
+		d = jellyfish.Levenshtein(s1, s2)
 	}
-	fmt.Println(time.Since(s))
+	fmt.Println("jellyfish.Levenshtein", time.Since(s), d)
+}
+
+func TestOSA(t *testing.T) {
+	s := time.Now()
+	d := 0
 
 	s = time.Now()
-	for i := 0; i < 100000; i++ {
-		stringdist.Jaro("Johann Gottfried", "Joseph Wilhelm")
+	for i := 0; i < rotations; i++ {
+		d = matchr.OSA(s1, s2)
 	}
-	fmt.Println(time.Since(s))
+	fmt.Println("matchr.OSA", time.Since(s), d)
+
+	s = time.Now()
+	for i := 0; i < rotations; i++ {
+		d = edlib.OSADamerauLevenshteinDistance(s1, s2)
+	}
+	fmt.Println("edlib.OSADamerauLevenshteinDistance", time.Since(s), d)
+}
+
+func TestJaro(t *testing.T) {
+	d := 0
+	f64 := float64(0)
+	f32 := float32(0)
+	s := time.Now()
+
+	s = time.Now()
+	for i := 0; i < rotations; i++ {
+		f64 = matchr.JaroWinkler(s1, s2, true)
+	}
+	fmt.Println("matchr.JaroWinkler", time.Since(s), f64)
+
+	s = time.Now()
+	for i := 0; i < rotations; i++ {
+		f64 = matchr.JaroWinkler(s1, s2, false)
+	}
+	fmt.Println("matchr.JaroWinkler", time.Since(s), f64)
+
+	s = time.Now()
+	for i := 0; i < rotations; i++ {
+		f64 = matchr.Jaro(s1, s2)
+	}
+	fmt.Println("matchr.Jaro", time.Since(s), f64)
+
+	s = time.Now()
+	for i := 0; i < rotations; i++ {
+		f32 = edlib.JaroWinklerSimilarity(s1, s2)
+	}
+	fmt.Println("edlib.JaroWinklerSimilarity", time.Since(s), f32)
+
+	s = time.Now()
+	for i := 0; i < rotations; i++ {
+		f32 = edlib.JaroSimilarity(s1, s2)
+	}
+	fmt.Println("edlib.JaroSimilarity", time.Since(s), f32)
+
+	s = time.Now()
+	for i := 0; i < rotations; i++ {
+		f64 = stringdist.JaroWinkler(s1, s2)
+	}
+	fmt.Println("stringdist.JaroWinkler", time.Since(s), f64)
+
+	s = time.Now()
+	for i := 0; i < rotations; i++ {
+		f64 = stringdist.Jaro(s1, s2)
+	}
+	fmt.Println("stringdist.Jaro", time.Since(s), f64)
+
+	s = time.Now()
+	for i := 0; i < rotations; i++ {
+		f64, d = textdistance.JaroDistance(s1, s2)
+	}
+	fmt.Println("textdistance.JaroDistance", time.Since(s), f64, d)
 }

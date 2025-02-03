@@ -7,10 +7,10 @@
 <meta name="keywords" content>
 <meta name="theme-color" content="#2d2c2c">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover">
-<meta content="http://127.0.0.1:64628/" property="og:url">
+<meta property="og:url" content="http://127.0.0.1:58654/">
 <meta property="og:title" content="Trau-Index Dresden-Meißen">
 <meta property="og:description" content="Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde">
-<meta property="og:type" content="website">
+<meta content="website" property="og:type">
 <meta property="og:image" content>
 <title>
 Trau-Index Dresden-Meißen
@@ -19,7 +19,7 @@ Trau-Index Dresden-Meißen
 <link rel="apple-touch-icon" href="https://storage.googleapis.com/murlok-github/icon-192.png">
 <link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
 <link type="text/css" rel="stylesheet" href="/simplechurchbookindexes/app.css">
-<script src="/simplechurchbookindexes/wasm_exec.js" defer="true"></script>
+<script defer="true" src="/simplechurchbookindexes/wasm_exec.js"></script>
 <script defer="true" src="/simplechurchbookindexes/app.js"></script>
 <!-- Google tag (gtag.js) -->
 			<script async src="https://www.googletagmanager.com/gtag/js?id=G-S2D2V6SHXE"></script>
@@ -34,8 +34,8 @@ Trau-Index Dresden-Meißen
 <body>
 <div>
 <aside id="app-wasm-loader" class="goapp-app-info">
-<img class="goapp-logo goapp-spin" src="https://storage.googleapis.com/murlok-github/icon-192.png" id="app-wasm-loader-icon">
-<p class="goapp-label" id="app-wasm-loader-label">
+<img id="app-wasm-loader-icon" class="goapp-logo goapp-spin" src="https://storage.googleapis.com/murlok-github/icon-192.png">
+<p id="app-wasm-loader-label" class="goapp-label">
 0%
 </p>
 </aside>
@@ -54,7 +54,7 @@ Dresden-Meißen-Freiberg-Dippoldiswalde (+Bautzen)
 <label>
 Jahr Min 
 </label>
-<input min="1541" max="1839" value="0" style="width: 600px;" type="range">
+<input type="range" min="1541" max="1839" value="0" style="width: 600px;">
 <label>
 0
 </label>
@@ -62,7 +62,7 @@ Jahr Min
 <label>
 Jahr Max 
 </label>
-<input type="range" min="1541" max="1839" value="0" style="width: 600px;">
+<input min="1541" max="1839" value="0" style="width: 600px;" type="range">
 <label>
 0
 </label>
@@ -83,17 +83,17 @@ Jaro + DamerauLevenshtein
  ----&gt; best Kombination aus Geschwindigkeit und Komplexität
 </div>
 <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.3 werden danach mit Soundex umgewandelt und diese dann mit DamerauLevenshtein berechnet. Das ist sehr langsam aber findet viel mehr Treffer. Große Suchen brechen manchmal ab.">
-<input type="radio" checked="false" name="algo">
+<input name="algo" type="radio" checked="false">
 Jaro + Soundex + DamerauLevenshtein
  ----&gt; mehr Treffer, sehr langsam, nicht für große Suchen geeignet
 </div>
 <div title="Die OSA-Variante von DamerauLevenshtein, ohne Vorfilterung">
-<input checked="false" name="algo" type="radio">
+<input type="radio" checked="false" name="algo">
 OSA
  ----&gt; einfacher und schneller als DamerauLevenshtein
 </div>
 <div title="einfachere Version von DamerauLevenshtein, ohne Vorfilterung">
-<input checked="false" name="algo" type="radio">
+<input type="radio" checked="false" name="algo">
 Levenshtein
  ----&gt; einfacher und schneller als OSA
 </div>
@@ -107,12 +107,12 @@ Klassisch
 </tr>
 </table>
 <td>
-<button disabled="true" title="Dresde-Meißen-Freiberg-Dippoldiswalde">
+<button title="Dresde-Meißen-Freiberg-Dippoldiswalde" disabled="true">
 DD-MEI-FG-DW
 </button>
 </td>
 <td>
-<button title="Bautzen" disabled="false">
+<button disabled="false" title="Bautzen">
 BZ
 </button>
 </td>

@@ -4,6 +4,7 @@ import (
 	"strings"
 
 	"github.com/antzucaro/matchr"
+	"github.com/eskriett/strmet"
 )
 
 const (
@@ -52,7 +53,7 @@ func (osa) search(s1, s2 string) int {
 type levenshtein struct{}
 
 func (levenshtein) search(s1, s2 string) int {
-	return matchr.Levenshtein(s1, s2)
+	return strmet.Levenshtein(s1, s2, 100)
 }
 
 type exact struct{}
