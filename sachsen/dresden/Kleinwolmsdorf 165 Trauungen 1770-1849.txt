@@ -1,5 +1,5 @@
 Kleinwolmsdorf (Buch 165)
-Trauungen 1770-1839
+Trauungen 1770-1849
 https://www.archion.de/de/viewer/churchRegister/264497?pageId=36954139
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -12,6 +12,7 @@ April 2024
 Juli 2024
 September 2024
 Oktober 2024
+Januar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -535,3 +536,125 @@ Johann Gottlieb Traugott Rosenkranz
 Johann Gottlob Lunze
 Karl Gottlieb Mädger
 Karl Gottlieb Klahre
+----------------
+1840
+Johann Christoph Großmann
+Johann Gottfried Forkert
+Karl Christoph Großmann
+Johann Gottlob Kuhnath
+Johann Gottfried Schröder
+Karl Traugott Philipp
+1841
+Ernst Gottlieb Philipp
+Johann Traugott Seidel
+Johann Gottlob Traugott Fiedler
+Karl Traugott Forke
+Johann Gottfried Köckritz
+----------------
+Karl Gottlieb Großmann
+Friedrich Wilhelm Barthel
+Johann Gottlob Just
+Johann Schmeiß
+Carl Gottfried Gäbler
+Carl Gottlob Schön
+----------------
+August Friedrich Philipp
+Carl August Feller
+1842
+Friedrich August Herrig
+Friedrich August Kühne
+Carl Gottfried Richter
+Christoph Leberecht Karisch
+Moritz Schöne //durchgestrichen
+----------------
+Carl Friedrich Lösche
+Ernst Moritz Schöne
+Johann August Nitsche
+Carl Ehrenfried Philipp
+Johann Gottfried Wustmann
+Carl Traugott Schölzel
+Friedrich August Jaenichen
+----------------
+Carl Friedrich Müller
+1843
+Friedrich Heinrich König
+Johann Gottlob Hantche
+Carl Gottlieb Fasold
+Johann Gottlieb Gröber
+Johann Friedrich Carl Domaschky
+----------------
+Carl Gottlieb Hantsche
+Carl Gottlob Gröber
+Johann Carl Gottlieb Leberecht König
+Johann Gottlob Hantsche
+Carl Traugott Mai
+Johann Traugott Winckler
+Friedrich Wilhelm Gauernack
+----------------
+1844
+Johann Gottfried Philipp
+Carl August Peukert
+Carl Gottlieb Michel
+Carl August Janke
+Carl August Feller
+Carl Gottfried Wustmann
+Heinrich Ehrenfried Wolf
+----------------
+1845
+Carl Gottlieb Hauptmann
+August Theodor Raue
+Johann Gotthelf Hübner
+Christoph Gröber
+Karl August Henker
+Karl August Michel
+Karl August Fritsche
+----------------
+1846
+Karl Heinrich Kurtz
+Johann Gottlieb Michel
+Johann Gottlieb Berthold
+Johann Traugott Fasold
+Karl August Hämpel
+Johann Traugott Domsch
+Karl Traugott Sahre
+----------------
+Gottfried August Mittag
+Gotthelf August Karisch
+1847
+Karl Gottlieb Hantsche
+Johann Friedrich Gotthelf Zenker
+August Wilhelm Mai
+Karl August Grauck
+----------------
+Karl Traugott Barthel
+Fürchtegott Leberecht Philipp
+Karl Gottlieb Leberecht Jänichen
+1848
+Karl Gottlieb Roch
+Johann Gottlieb Karisch
+Fürchtegott Leberecht Lunze
+Johann Friedrich Gäbler
+----------------
+Friedrich Traugott Hartmann
+Friedrich Wilhelm Golde
+Johann Friedrich August Grützner
+Karl Traugott Mittag
+Johann Gottfried Leunert
+Woldemar Kahle
+Karl August Gäbler
+----------------
+Karl August Klahre
+Johann Gottfried Schütze
+Johann Gottfried Gärtner
+1849
+Karl Friedrich Leberecht Mädiger
+Karl Gottlieb Hantsche
+Johann August Fasold
+Karl Heinrich Schöne
+----------------
+Karl Gottlieb Gräber
+Gottfried Bernhard Hesse
+Ernst Heinrich Traugott Gebler
+Johann Christoph Schöne
+Heinrich August Zenker
+Karl Gottlob Hühngen

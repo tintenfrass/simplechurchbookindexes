@@ -1,5 +1,5 @@
 Langebrück (Buch 48)
-Trauungen 1800-1839
+Trauungen 1800-1849
 https://www.archion.de/de/viewer/churchRegister/279967?pageId=38504680
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ April 2024
 Juli 2024
 September 2024
 November 2024
+Januar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -440,3 +441,115 @@ Friedrich August Müller
 Johann Christian Kotte
 Johann Christoph Müller
 Christian Wilhelm Clauß
+1840
+Johann Christoph Großmann
+Carl Christian Günther
+Johann Heinrich Hildebrandt
+----------------
+Johann Heinrich Dreßler
+Johann Carl Udolph
+Carl Gottlob Rothe
+Johann Christian Michael
+Johann Christoph Wagner
+Carl Gottlob Schmidt
+1841
+Ernst Friedrich Zieger
+----------------
+Johann Heinrich Trepte
+Johann Carl Gottfried Johne
+Johann Christian Grünberg
+Johann Gottfried Carl Trepte
+Johann Heinrich Treppte
+Carl Gottlob Haubold
+Carl Gottlob Schelle
+----------------
+1842
+Johann Heinrich Ghoßmann
+Friedrich August Wünsche
+Johann Gottlieb Hofmann
+Carl Christian Schütze
+Heinrich Ernst Creutz
+Carl Gottlieb Stiehler
+----------------
+1843
+Johann Heinrich Karisch
+Johann Gottlob Schäfer
+Carl Gottfried Hennig
+Johann Heinrich Kunath
+Johann Gottlieb Leberecht König
+Johann Carl Traugott Leuthold
+Johann Christian Blüthig
+Carl Friedrich Kuntzsch
+----------------
+Carl Traugott Riemer
+Christian Heinrich Tronicke
+Johann Gottlieb Trepte
+Johann Gottlob Schneider
+Johann Heinrich Großmann
+Johann Gottlob Schmidt
+----------------
+1844
+Carl Traugott Waitzmann
+Carl Christoph Richter
+Johann Heinrich Dreßler
+Michael Lorenz
+Johann Carl Benjamin Riemer
+Hironimus Carl Julius Walde
+Carl Gottfried Strauß
+----------------
+Carl Friedrich Claus
+Carl Gottfried Schmidt
+1845
+Johann Heinrich Kotte
+Gottlieb Schmidt
+Johann Gottfried Schmidt
+Johann Gottfried Schmidt
+----------------
+Johann Gottlob Schröder
+Johann David Findeisen
+Carl Christoph Birger
+Carl Gottlob König
+Carl Heinrich Schmidt
+Ehrenfried Wilhelm Gutte
+----------------
+1846
+Johann Traugott Kunath
+Johann Gottlieb Dreßler
+Johann Carl Berger
+Carl Christian Trepte
+Andreas Reck
+Johann Carl August Görke
+----------------
+Johann Gottlob Trepte
+Johann Gotthelf Kunath
+Johann Gottlob Natzsch
+Johann Heinrich Dreßler
+Johann Gotthelf Schütze
+Gotthelf Klotzsche
+----------------
+1847
+Johann Gottlob Schütze
+Heinrich Traugott Trepte
+Johann Heinrich Schneider
+Johann Heinrich Hennig
+Johann Carl Gottlieb Stäglich
+Friedrich August Bormann
+----------------
+1848
+Carl Gottlob Werner
+Carl Traugott Schmidt
+Andreas Hausche
+Carl Gottfried Schmidt
+Johann Gottfried Pietzsch
+----------------
+Johann Gottlieb Vetters
+1849
+Friedrich Clemens Richter
+Johann Georg Trepte
+Johann Gottfried Müller
+Johann Carl Gottlob Fischer
+----------------
+Johann Heinrich Trepte
+Heinrich Richter
+Carl Gottfried Böhme
+Johann Gottfried Zichner

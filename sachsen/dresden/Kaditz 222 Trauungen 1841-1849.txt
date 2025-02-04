@@ -25,12 +25,12 @@ Johann Ehrhard SchulteFlemminghausen
 Johann Gottfried Neumann
 Carl Gottlieb Kohl
 Carl Friedrich Ernst Zieger
-Franz _Rudolph Himer
-_Gottlob Hertzschuch
+Franz Rudolph Himer
+Gottlob Hertzschuch
 Johann Gottfried Schumann
 Johann Gottfried Vogel
 Ernst August Steudel
-_Friedrich August Thomas
+Friedrich August Thomas
 Johann Gottlieb Kegel
 Carl Moritz Köhler
 ----------------
@@ -54,10 +54,10 @@ August Lucien Großmann
 Carl Gottfried Türke
 Johann Gottlob Vogel
 ----------------
-_Johann Gottlob Damme
+Johann Gottlob Damme
 Carl Gottlob Fleischer
 Johann Gottlob Schwenke
-_Gottfried Trenzsch
+Gottfried Trenzsch
 Eduard Glewander Laspe
 Johann Gottfried Türke
 Carl Gottlieb Rump
@@ -65,7 +65,7 @@ Johann Gottfried Weidel
 Johann Samuel Pietzsch
 ---------------- x31
 1842
-Friedrich _August Adolph Leiteritz
+Friedrich August Adolph Leiteritz
 Johann Friedrich Traugott Vogel
 Gottlob Leberecht Findeisen
 Gottlob Traugott Krause
@@ -80,7 +80,7 @@ Johann Gottlieb Angermann
 Johann Gottlieb Klotzsche
 Johann Gottfried Kegel
 Christian Ernst Schulze
-Wilhelm Ferdinand _Alexander Stremel
+Wilhelm Ferdinand Alexander Stremel
 Carl Gottfried Schumann
 ----------------
 Johann Gottfried Reh
@@ -110,13 +110,13 @@ Johann Christian Scheibe
 Johann Christoph Bürger
 Johann Carl Gottlob Griesbach
 Friedrich Wilhelm Carl Damm
-Carl _Friedrich _Ernst Zieger
+Carl Friedrich Ernst Zieger
 Johann Christian Börner
 Johann Traugott Köhler
 Johann Christian Beuhne
 ----------------
 Ernst Wilhelm Naumann
-Carl _Christoph Sonntag
+Carl Christoph Sonntag
 Johann Gottfried Findeisen
 Johann Gottlob Hofmann
 Johann Gottlob Lange
@@ -126,7 +126,7 @@ Johann Carl Gottlob Winkler
 Carl Gottlieb Simang
 Johann Georg Klotzsche
 Johann Traugott Weidel
-Johann _Rudolph Griesbach
+Johann Rudolph Griesbach
 Johann Gottlob Klotzsche
 Carl Christian Lochmann
 Carl Friedrich Schurig
@@ -157,8 +157,8 @@ Johann Gottlieb Große
 Johann Gottlob Klotzsche
 Johann Gottlob Rump
 ----------------
-Friedrich August _Joseph Smolinsky
-Ernst _Otto Löhnig
+Friedrich August Joseph Smolinsky
+Ernst Otto Löhnig
 Johann Christian Pohle
 Carl Christian Klotzsche
 Carl Friedrich Hartmann
@@ -181,7 +181,7 @@ Johann Gottlieb Hauptmann
 ----------------
 Gustav August Kunze
 Christian Gottlieb Klotzsche
-Johann _Moritz Erdmann Wahl
+Johann Moritz Erdmann Wahl
 Johann Gottfried Kind
 Carl Friedrich August Müller
 Johann Gottfried Beuhne
@@ -262,7 +262,7 @@ Johann Traugott Fickler
 Friedrich August Damme
 Karl Gottlieb Vogel
 Johann Pöthig
-_Ferdinand Distel
+Ferdinand Distel
 ----------------
 Karl Gotthelf Grahl
 Johann Gottlieb Friedrich Reiche
@@ -281,7 +281,7 @@ Karl August Stübler
 Carl Gottlob Eymann
 Ernst Heinrich Hofmann
 Karl Gottlob Götze
-Georg Friedrich Edmund _Ludwig Barchewitz
+Georg Friedrich Edmund Ludwig Barchewitz
 Johann Traugott Findeisen
 ----------------
 Friedrich Ernst Weber
@@ -302,7 +302,7 @@ Johann Christian Schumann
 Robert Wilhelm Schulze
 Johann Gottlob Klotzsche
 Daniel Traugott Brandt
-Polycarp _Rudolph Lechla
+Polycarp Rudolph Lechla
 Johann Traugott Bergmann
 ----------------
 Johann Gottfried Tränkner
@@ -316,7 +316,7 @@ Friedrich Gottfried Kauer
 Karl Adolph Haubold
 Karl August Lesch
 Christian Gottlieb Saupe
-_Johann _Traugott _Samuel Schumann
+Johann Traugott Samuel Schumann
 ---------------- x36
 1848
 Karl Gottlob Hauswald
@@ -331,25 +331,25 @@ Carl Gottlob Klotzsche
 Johann Christian Rüdiger
 Johann Gottfried Enßlinger
 Karl Julius Illig
-Friedrich Wilhelm _Alexander Frantz
+Friedrich Wilhelm Alexander Frantz
 Johann Gottlob Vogel
 ----------------
 Karl Gottfried Lehmann
 Johann Friedrich Menzel
 Johann Gottfried Klotzsche
 Johann Gottlob Rump
-Ernst _Friedrich _Gustav Korb
+Ernst Friedrich Gustav Korb
 Johann Gottlieb Damme
 Karl Gottfried Wittig
 ----------------
 Johann Christian Tränkner
 Johann Gottfried Adam
 Johann Gottlieb Findeisen
-_Paul _Theodor Neo Kadner
+Paul Theodor Neo Kadner
 Friedrich August Ringel
 Friedrich Wilhelm Förster
 ----------------
-August _Louis Bretschneider
+August Louis Bretschneider
 Friedrich Wilhelm Gommlich
 Christian Traugott Griesbach
 Johann Gottfried Franze
@@ -365,7 +365,7 @@ Karl Eduard Dietrich
 Johann Gottlieb Vogel
 Friedrich Theobald Leuner
 ----------------
-_Otto Börner
+Otto Börner
 Johann Gottfried Schumann
 Johann Gottlieb Gommlich
 Friedrich August Ziller

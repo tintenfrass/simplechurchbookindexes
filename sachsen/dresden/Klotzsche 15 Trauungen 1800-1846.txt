@@ -1,5 +1,5 @@
 Klotzsche (Buch 15)
-Trauungen 1800-1839
+Trauungen 1800-1846
 https://www.archion.de/de/viewer/churchRegister/279934?pageId=38497302
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ April 2024
 Juli 2024
 September 2024
 Oktober 2024
+Januar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -279,3 +280,76 @@ Johann Gottlieb Heichen
 Johann Gottlob Zscheile
 Johann Gottfried Bergmann
 Johann Christian Schröter
+1840
+Heinrich Stelzer
+Johann Gottlieb Thalheim
+----------------
+Johann Georg Kuntzsch
+Johann Gottlob Freund
+Johann Christian Schröter
+Johann Gottlieb Zeibig
+Carl Friedrich Kuntzsch
+Johann Gottlieb Bergmann
+----------------
+Johann Friedrich Philipp
+Johann Carl Heinrich Moche
+Carl Gottlob Schmidt
+1841
+Johann Gottlieb Kuntzsch
+----------------
+Carl Gottlob Görner
+Johann Gottlieb Messer
+Johann Gottlieb Frund
+Johann Gottlieb Paehlig
+Johann Gottfried Wehse
+----------------
+Friedrich August Maul
+1842
+Johann Schulze
+Johann Carl Wolschke
+Johann Georg Zscheile
+Friedrich August Ranitztch
+----------------
+1843
+Johann Christoph Klinger
+Johann Heinrich August Günscher
+Ernst Moritz Jenichen
+Carl Gotthelf Jedermann
+----------------
+Johann Gottlieb Trepte
+Carl Gottlob Kutzsch
+1844
+Friedrich August Schumann
+Johann Heinrich Dreßler
+----------------
+Heinrich Rudolph Jenichen
+Carl Gottfried Bergmann
+Karl Heinrich Oehme
+Johann Gottlieb Pohle
+1845
+Johann Gotthelf Leischner
+----------------
+Carl Gottlob Grohmann
+Johann Gottfried Freund
+Johann Gottlieb Schulze
+Johann Gottlieb Bergmann
+Johann Gottlob Schütze
+Carl Gottlob Görner
+----------------
+Johann Gottlieb Meißner
+Johann Gottlob Messer
+Johann Gottlob Riemer
+1846
+Friedrich Wilhelm Beuhne
+----------------
+Johann Traugott Kunath
+Johann Friedrich Hofmann
+Friedrich Traugott Ernst Kühn
+Carl Gottlieb Bergmann
+Johann Traugott Tamm
+----------------
+Carl Friedrich August Schreiber
+Carl Friedrich Zscheile
+Johann Heinrich Dreßler
+Johann Gottlob Pohle
+Johann Gottfried Wilhelm Petermann
