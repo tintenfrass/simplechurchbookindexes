@@ -1,5 +1,5 @@
 Medingen (Buch 65)
-Trauungen 1801-1839
+Trauungen 1801-1849
 https://www.archion.de/de/viewer/churchRegister/279985?pageId=38507912
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -10,7 +10,8 @@ Erstellt in ca. 1 Stunde
 April 2024
 Juli 2024
 September 2024
-November 20024
+November 2024
+Januar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -302,3 +303,101 @@ Carl Adolph Kuhrig
 Christian Gottlieb Eichhorn
 Carl August Himmler
 Christian Gottlieb Eger
+----------------
+1840
+Johann Christian Eichhorn
+Carl Heinrich Pöhland
+Johann Gottfried Mager
+Carl Friedrich Wagner
+----------------
+1841
+Carl Friedrich Eichhorn
+Friedrich August Rauchfuß
+Johann Carl Gottlieb Peschel
+Johann Gottfried Kotte
+Carl Gottlob Schütze
+Johann Gottlob Schütze
+----------------
+Johann Gottlob Eichhorn
+1842
+Carl Gottlieb Jähnichen
+Johann Gottlob Hähne
+Johann Gotthelf Eger
+Johann Gotthelf Rühmer
+Johann Gottfried Tronicke
+----------------
+Friedrich Ernst Vogel
+Johann Traugott Menzel
+Johann Gottfried Trepte
+Johann Christoph Schütze
+Carl Gottlob Meißner
+Carl Friedrich Louis Scheibe
+Johann Gottlieb Mischke
+----------------
+Johann Carl Wilhelm Schmidt
+Johann Gottlieb Schütze
+Christian Heinrich Wagner
+1843
+Johann Friedrich Philipp
+Friedrich August Lieder
+----------------
+Johann Gotthelf Rühmer
+Johann Gotthelf Gottweiß
+Carl Gotthelf Thieme
+Christian Friedrich Wilhelm Meißner
+Christian Gottfried Fritzsche
+Gottlieb Friedrich Partzsch
+----------------
+Gotthelf Heinrich Schöne
+1844
+Carl Gotthelf Zumpe
+Johann Gottfried Stange
+Carl Friedrich Menzel
+Johann Gottfried Schüler
+----------------
+Johann Gotthelf Zumpe
+Carl Friedrich Weide
+Johann Christian Wagner
+Christian Friedrich Traugott Meißner
+----------------
+1845
+Johann Gotthelf Kotte
+Johann August Lange
+Carl Gotthelf Stange
+Carl Gottlieb Traugott Lindner
+Johann Gotthelf Kunze
+----------------
+Gottfried Donath
+Johann Gottfried Mager
+Ferdinand Leberecht Bader
+Johann Carl Gottfried Bode
+Johann Heinrich Mäbert
+----------------
+1846
+Christian Gottlieb Hartmann
+Johann Gottlieb Gladewitz
+Adolph Wilhelm Straube
+Johann Gottlob Richter
+Herrmann Rudolph Fritzsche
+Friedrich Traugott Schöne
+----------------
+Johann Georg Hartmann
+Johann Gottlob König
+1847
+Carl Friedrich Eichler
+Johann Gottlob Heinrich Richter
+Carl Gottfried Schütze
+----------------
+Carl Christian Stange
+Johann Gottlob Hartmann
+Johann Gottlob Schulze
+Carl Gottlieb Peschel
+Johann Christian Wagner
+----------------
+1849
+Carl August Oemky
+Johann Gottfried Haase
+Johann Gotthelf Müller
+Carl Gottlieb Grützner
+Carl Gottlieb Hähne
+Johann Gotthelf Klotzsche
