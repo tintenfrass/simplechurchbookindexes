@@ -1,5 +1,5 @@
 Seifersdorf (Buch 192)
-Trauungen 1800-1839
+Trauungen 1800-1849
 https://www.archion.de/de/viewer/churchRegister/264523?pageId=36963541
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -11,6 +11,7 @@ April 2024
 Juli 2024
 September 2024
 November 2024
+Januar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -400,3 +401,121 @@ Johann Gottlob Vetters
 Johann Christoph Jähnichen
 Johann Gottlob Großmann
 Johann Gottlob Zumpe
+----------------
+1840
+Johann Gottlieb Lohrmann
+Johann Gottlob Küttner
+Johann Gottlob Philipp
+Johann Gottfried Claus
+Johann Christian Zschischank
+Friedrich Wilhelm ? Müller
+Johann Traugott Gebler
+Gottlieb Traugott Tam?
+Liebegott Thurrecht? Mißbach
+----------------
+1841
+Carl Friedrich Arnold
+Gottlob Traugott Schlenkrich
+Carl Gottlieb Leberecht Forke
+Johann Gottlob Gärtner
+Carl Friedrich Leberecht Wolf
+Johann Gottlob Schütze
+Johann Gottlieb Richter
+Traugott Leberecht Förster
+----------------
+1842
+Johann Heinrich Großmann
+Carl Traugott Lelenz
+Johann Gottfried Gärtner
+Johann Christoph Müller
+Heinrich Samuel Wolfersdorf
+Johann Christoph Schütze
+Carl Gottlob Mißbach
+Carl Gottlob Gärtner
+----------------
+1843
+Friedrich Traugott Gebauer
+Carl Friedrich August Grützner
+Carl August Tamme
+Johann Christoph Claus
+Johann Gottlob Kotte
+Johann Gottfried Philipp
+Adolph Moritz Menzel
+Samuel Traugott Nitzsche
+----------------
+Johann Gottlob Hantsche
+Carl August Hübner
+Johann Traugott Völkel
+Johann Heinrich Großmann
+----------------
+1844
+Johann Gottlieb Voigt
+Johann Gottlieb Kreßner
+Johann Traugott Krause
+Christian Gotthelf Bartzsch
+Johann Gottlob Großmann
+Carl Gottlieb Philipp
+Johann Gottlieb Jähniche
+----------------
+Traugott Ernst Trepte
+Johann Gottfried Großmann
+Friedrich Gotthelf Richter
+Johann Heinrich Beier
+Carl Gottlieb Peschel
+----------------
+1845
+Johann Gotthelf Kotte
+Heinrich Traugott Philipp //korrigiert
+Carl Gottlieb Vogel
+Johann Gottfried Kunath
+----------------
+1846
+Johann Gotthelf Heiche
+Heinrich Samuel Wolffersdorf
+Johann Gottfried Großmann
+Friedrich August Rosenkranz
+Johann Gottlob Born
+Johann Gottlob August Richter
+----------------
+Friedrich Wilhelm Gärtner
+Gustav Golz
+Johann Gottlob Gärtner
+----------------
+1847
+Johann Gottlob Kunath
+Karl Gottfried Zumpe
+Johann Gottlob Grützner
+Carl Friedrich Gommlich
+Christian Gottlob Wilhelm Wilisch
+----------------
+Carl Gottlieb Herklotz
+Carl Gottfried Zumpe
+Johann Traugott Techert
+Johann Heinrich Beier
+Carl Gottlieb Beier
+----------------
+1848
+Carl Gottlieb Grützner
+Johann Gottlob Schütze
+Johann Carl Traugott Gebauer
+Carl Gustav Schalig
+Johann Gottfried Kunath
+----------------
+Johann Traugott Pietzsch
+Carl Gottlob Schmidt
+Osmar Julius Daniel Köhler
+Johann Gottlieb König
+Carl August Sickert
+----------------
+1849
+Wilhelm Heinrich Hickmann
+Carl Gottlob Roch
+Johann Christian Trepte
+Johann Christoph Völkel
+Johann Gottlieb Gäbler
+----------------
+Carl Gottlieb Haase
+Carl August Winkler
+Johann Gottlob Bärisch
+Johann Gottfried Zichner
+Ernst Böhme

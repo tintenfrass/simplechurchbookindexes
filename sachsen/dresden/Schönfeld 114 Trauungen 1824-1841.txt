@@ -1,5 +1,5 @@
 Schönfeld (Buch 114)
-Trauungen 1824-1839
+Trauungen 1824-1841
 https://www.archion.de/de/viewer/churchRegister/280034?pageId=38521649
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 September 2024
 November 2024
+Januar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -764,3 +765,136 @@ Gotthelf Kaiser
 Johann Christoph Hempel
 Johann Friedrich Traugott Jentzsch
 Johann Daniel Kernt
+----------------
+1840
+Carl Gottlieb Harnisch
+Carl Gottlieb Müller
+Friedrich Traugott Karsch
+Johann Gottlob Traugott Thieme
+----------------
+Friedrich August Schneider
+Johann August Hoehle
+Carl Gottlob Leupold
+Carl Gottlob Suelze
+----------------
+Johann Gotthelf Schmidt
+Carl Gottlieb Hauer
+Carl Christian Ettrich
+Friedrich Wilhelm Mauksch
+----------------
+Carl Gottlieb Leberecht Henker
+Carl Traugott Roch
+Carl Traugott Sieber
+Carl Gottfried Bienert
+----------------
+Johann Gottlob Naumann
+Carl Traugott Roßig
+Johann Gottlieb Karsch
+Carl Gottlob August Sahr
+----------------
+Gottlob Petzold
+Johann Gottlob Hantzsche
+Johann Gottlob Kuhnath
+Heinrich Gotthelf Furkert
+----------------
+Johann Gottlob Roch
+Johann Carl Traugott Thieme
+Carl Heinrich Gehre
+Johann Christian Pappritz
+----------------
+Johann Gottfried Zentgraf
+Johann Gottlob Kunze
+Johann Gottlieb Göbel
+Carl Gottlob Frauenlob
+----------------
+Johann Gottlieb Hähle
+Johann Gotthelf Traugott Huhle
+Carl August Wenzel
+Johann Gottlieb Wustmann
+----------------
+Carl August Jaehnigen
+Carl Gottlob Hempel
+Johann Gottlieb Richter
+Carl Heinrich Schumann
+----------------
+Carl Gottlieb Treber
+Carl August Thieme
+Carl Traugott Hartmann
+Johann Gottlob Hempel
+----------------
+Johann Gottfried Wilhelm Zschaler
+Johann Carl Gottlieb Schäfer
+Gottlob Gehre
+Carl Gottlob Große
+----------------
+Carl Ferdinand Krell
+Johann Carl Traugott Leuschke
+Johann Gottlob Röllig
+Johann Gottfried Richter
+----------------
+1841
+Friedrich Wilhelm Jänel
+Johann Christoph Müller
+Johann Carl Traugott Schäfer
+Johann Christian Bungert
+----------------
+Johann Gottfried Bräunig
+Carl Gottlieb Hartmann
+Christoph Adolph Jahn
+Carl Gottlieb Angermann
+----------------
+Ernst Carl Friedrich Hempel
+Friedrich Conrad Flößel
+Friedrich Ehregott Dintner
+Johann Georg Gierth
+Johann Gottfried Wilhelm Zschaler
+----------------
+Carl August Naake
+Traugott Wilhelm Harz
+Mattheus Korch
+Gottfried August Ufer
+Friedrich Traugott Steinigen
+Johann Gotthelf Klein
+----------------
+Johann Gotthelf Fritzsche
+Johann Gottlob Petzold
+Christian Traugott Sohrmann
+Johann Gottlieb Hamisch
+Carl Gottlieb Harnisch
+----------------
+Johann Christian Ferdinand Specht
+Friedrich August Knüpfer
+Friedrich August Meißner
+Carl Gottlieb Franke
+Johann Gottfried Rueßel
+----------------
+Johann Christian Franke
+Friedrich Traugott Kunze
+Carl Traugott Jäckel
+Johann Gottlob Bräunig
+Johann Gottfried Huhle
+----------------
+Johann Krautz
+Carl Gottfried Gotthelf Wehner
+Johann Gottlieb Huhle
+Johann Friedrich Traugott Jentzsch
+Carl Gottlieb Gnauk
+----------------
+Carl August Müller
+Carl Friedrich Siegismund Lohrmann
+Johann Carl Wilhelm Arnold
+Johann Carl August Jentzsch
+Johann Gottlieb Pählig
+----------------
+Johann Gotthelf Giebe
+Carl August Huhle
+Gottfried August Wilhelm Naake
+Carl August Gutmann
+Johann Daniel Kernt
+----------------
+Johann Carl August Petzold
+Carl Traugott Hartmann
+Johann Christian Herrich
+Heinrich Gotthelf Ufer
+----------------
+Johann Gottlieb Richter

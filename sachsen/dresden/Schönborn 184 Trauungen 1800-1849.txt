@@ -1,5 +1,5 @@
 Schönborn (Buch 184)
-Trauungen 1800-1839
+Trauungen 1800-1849
 https://www.archion.de/de/viewer/churchRegister/264515?pageId=36960284
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ April 2024
 Juli 2024
 September 2024
 November 2024
+Januar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -319,3 +320,82 @@ Johann Heinrich Schmidt
 Johann Gottlob Stein
 Karl Gottfried Schmidt
 Karl Gottfried Pietzsch
+----------------
+1840
+Johann Siegmund Hofmann
+Johann Friedrich Brade
+1841
+Friedrich Traugott Tamme
+Karl August Friedrich Kaulfuß
+Johann Gottlob Eichler
+Christian Gottlob Weber
+Karl Gottfried Johne
+----------------
+Carl Heinrich Kühne
+1842
+Carl August Stelzer
+Julius Herold
+Gottlob Leberecht Pietzsch
+1843
+Gottfried Ernst Pflugbeil
+----------------
+Carl Gottlob Johne
+Carl Gottlob Wolf
+1844
+Johann Gottlob Heintzsch
+----------------
+Carl Gottlob Klahre
+Carl Gottlob Stelzer
+Johann Gottlob Schmidt
+----------------
+1845
+Friedrich Gotthelf Raabes
+Johann Traugott Leberecht Schmidt
+----------------
+Johann Gottfried Schmidt
+Johann Gottfried Schmidt
+Carl Gottlieb Vogel
+Gottlob August Stein
+----------------
+1846
+Gottlob August Gärtner
+Johann Gottfried Gätner
+Johann Karl Gottfried Naumann
+----------------
+Johann Gottlob Pietzsch
+Johann Gottlob Schmidt
+Carl Gottlob Pietsch
+Friedrich August Hofmann
+----------------
+Friedrich Traugott Tamme
+Johann Christoph Brauny
+Carl Heinrich Klengel
+----------------
+1847
+Albrecht Pfeiffer
+Carl Gottfried Schmidt
+Carl August Leberecht Kaulfuß
+----------------
+Carl Christoph Hofmann
+Christian Gottfried Tamme //korrigiert
+Eduard Morgenstern
+----------------
+1848
+Johann Gottlieb Karisch
+Johann Traugott Pietzsch
+Carl Gottlob Schmidt
+----------------
+Gotthelf Moritz Scherz
+Johann Georg Zscheile
+Johann Gottfried Pietzsch
+----------------
+Johann Gottfried Böhme
+1849
+Carl Gottlob Roch
+----------------
+Carl Gotthelf Partsch
+Johann Traugott Crenz
+Heinrich August Pietzsch
+----------------
+Gottlob Leberecht Pietzsch
+Carl Gottfried Böhme

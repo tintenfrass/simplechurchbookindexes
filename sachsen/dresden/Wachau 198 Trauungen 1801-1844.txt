@@ -1,5 +1,5 @@
 Wachau (Buch 198)
-Trauungen 1801-1839
+Trauungen 1801-1844
 https://www.archion.de/de/viewer/churchRegister/264529?pageId=36969455
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ April 2024
 Juli 2024
 September 2024
 November 2024
+Januar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -500,3 +501,79 @@ Johann Christoph Lehmann
 ----------------
 Johann Christoph Müller
 Johann Gottfried Großmann
+1840
+Karl Friedrich Kluge
+----------------
+Wilhelm Friedrich Schindler
+Johann Christoph Großmann
+Carl Friedrich Jentzsch
+Johann Gotthelf Seifert
+Carl Christoph Großmann
+Georg Werner
+----------------
+Christian Heinrich Birnstengel
+Heinrich Stelzer
+Johann Gottlieb Kretschel
+Johann Gottlieb Mißbach
+Johann Traugott Gäbler
+Johann Christoph Haubold
+----------------
+Johann Gottfried Kiesling
+Johann Gottlob Kind
+1841
+Karl Friedrich August Buch
+Johann Gottlieb Rosenkranz
+Johann Christian Mißbach
+----------------
+Johann Christoph Kaenner
+Gotthelf Ephraim Sickert
+Gottlieb Mediger
+Johann Traugott Gäbler
+Karl Gottlob Görner
+Gottlob Just
+----------------
+Karl Heinrich Trentsch
+Johann Christlieb Kühne
+Kurt Herrmann Eras
+Karl Gottlob Haubold
+Gottfried Haase
+----------------
+1842
+Johann Karl Angermann
+Johann Gotthelf Herrlich
+Johann Gottlieb Ebert
+Johann Gottlob Kaenner
+Christoph Görner
+----------------
+Gottfried Heinrich Sonntag
+Christoph Richter
+Johann Gottlob Angermann
+Karl August Stelzer
+Christoph Müller
+Karl Gottlob Mißbach
+----------------
+Johann Christoph Wustmann
+Karl Gottlob Gaertner
+Johann Gottlieb Schmid
+Johann Christoph Klengel
+----------------
+1843
+Gottlob Großmann
+Johann Gottlieb Schäfer
+Johann Gottfried Lehmann
+Johann Traugott Keiling
+Karl August Schnecker
+----------------
+Johann Gottfried Schulze
+Karl Friedrich Klauß
+----------------
+1844
+Johann Gottlob Müller
+Johann Gottlob Großmann
+Johann Gottfried Großmann
+Johann Gottlieb Großmann
+----------------
+Karl Traugott Gärtner
+Franz Heinrich Schardeng
+Johann Christian Höntsch
+Johann Gottlob Görner
