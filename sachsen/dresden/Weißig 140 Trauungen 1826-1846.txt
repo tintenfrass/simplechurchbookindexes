@@ -1,5 +1,5 @@
 Weißig (Buch 140)
-Trauungen 1826-1839
+Trauungen 1826-1846
 https://www.archion.de/de/viewer/churchRegister/280060?pageId=38527256
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 September 2024
 November 2024
+Januar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -280,3 +281,248 @@ Carl Christian Rodig
 ----------------
 Johann Gottlob Keßler
 Johann Daniel Karndt
+----------------
+1840
+Johann Gottlob Lehmann
+Johann Carl Gottlieb Nacke
+Johann Gotthelf Schöne
+----------------
+Johann Gottfried Gebauer
+Johann Gottfried Hähnel
+Johann Gottfried Zirkel
+----------------
+Friedrich Wilhelm Maucksch
+Gottlieb Friedrich Heinrich Wagner
+Johann Nicolaus Frauenstein
+----------------
+Johann Gotthelf Voigt
+Carl Traugott Roßig
+Johann Gottlob Roch
+Anton Friedrich Pritzkow
+----------------
+Johann Gottlob Mai
+Traugott Leinert
+Johann Gottlob Göbel
+Johann Gottlob Kind
+----------------
+Carl Ferdinand Woldemar Weinhold
+Johann Gottfried Schröder
+Johann Gottlieb Richte
+Johann Gottlob Schütze
+----------------
+Carl August Thieme
+Gottlob Gehre
+Johann Traugott Arnold
+Johann Samuel Häbig
+----------------
+1841
+Johann August Furckert
+Carl Ernst Pommrich
+----------------
+Johann Christoph Müller
+Mattheus Korch
+Johann Gottfried Bräunig
+Carl Gottlieb Angermann
+----------------
+Johann Friedrich Wilhelm Grötsch
+Johann Gotthelf Fritzsche
+Johann Gottfried Leipert
+Johann Gottfried Schütze
+----------------
+Johann Christian May
+Johann Gottfried August Nacke
+Carl Moritz Pommrich
+Carl Gottlieb Franke
+----------------
+Carl Heinrich Hennig
+Johann Carl Helas
+Rudolph Uktz Schönberg
+----------------
+Johann Friedrich August Kunze
+Johann Traugott Klotsche
+Johann Gottfried Naumann
+Johann Carl Gottlieb Mögel
+Johann Gottlob Angermann
+----------------
+Gottfried August Wilhelm Nacke
+Johann Benjamin Freudenberg
+Johann Daniel Kerndt
+Johann August Fritsche
+Johann Gottlieb Richter
+----------------
+Carl August Haupmann
+1842
+Carl August Klein
+----------------
+Carl Gottfried Krey
+August Gottlieb Greye
+Johann Christian Höhne
+----------------
+Johann Gottfried Kegel
+Johann Gottfried Gehre
+Johann Carl August Schuster
+----------------
+Johann Carl Gottfried Schöne
+Carl Gottlieb Großmann
+Johann Georg Lehnert
+----------------
+Johann Carl Gottfried Braeunig
+Johann Carl August Schreiber
+Johann Carl Gottlieb Tillner
+----------------
+Friedrich Traugott Sachse
+Johann Gottlieb Grüser
+Carl Gottfried Angermann
+----------------
+Carl Gotthelf Schmidt
+Johann Gottfried Greue
+Johann Carl Hempel
+----------------
+Johann Carl Gottlieb Klotsche
+Carl Christian Huhle
+Carl Gottlieb Hofmann
+----------------
+Carl Traugott Henker
+Carl Gottfried Schröder
+Johann Gottfried Mögel
+----------------
+Carl Gottlob Grafe
+Johann Carl Gottlob Wehner
+----------------
+1843
+Johann August Henker
+Johann Traugott Beyer
+Georg Kojczka
+----------------
+Friedrich August Beckert
+Johann Friedrich August Henker
+Carl Gotthelf Gäbisch
+----------------
+Carl Gottlieb Angermann
+Johann Gottfried Sachse
+Johann Samuel Werner
+----------------
+Johann Gotthelf Träber
+Johann Carl Christian Räpe
+Johann Gottfried Lebrecht Huhle
+----------------
+Johann Samuel Hempel
+Johann August Schmidt
+Gottlieb Siegmund Gäbel
+----------------
+Johann Georg Lehnert
+Johann August Müller
+Johann Anton Kinnert
+----------------
+Carl Gottfried Müller
+Johann August Reimann
+Johann Traugott Schöne
+----------------
+Johann Carl Gottlieb Grützner
+Friedrich August Gebler
+Johann August Schöne
+----------------
+Johann August Berthold
+Johann Samuel Rietzscher
+Carl Gustav Eppendorf
+----------------
+1844
+Carl Traugott Johne
+Friedrich Traugott Künzel
+Friedrich Wilhelm Arnold
+----------------
+Johann Traugott Hennig
+Johann Carl Gotthelf Menzel
+Carl Noack
+----------------
+Ernst Leberecht Wemme
+Johann Gottlieb Henker
+----------------
+Johann Gotthelf Hantsche
+Carl Gottlieb Fokert
+Friedrich Wilhelm Kegel
+----------------
+Carl Gottlieb Weber
+Carl Gottfried Kegel
+Carl Gottlob Angermann
+Johann Gotthelf Hoffmann
+----------------
+Johann Friedrich Angermann
+Carl Gottlieb Sachse
+Friedrich Wilhelm Hertler
+----------------
+Carl Gottlieb Köckritz
+Carl Gottlieb Mißbach
+Johann Gotthelf Angermann
+----------------
+Carl Gottlieb Schindler
+1845
+Carl Gottlieb Müller
+Carl Gottfried Petzold
+----------------
+Christian Adolph Eduard Henker
+Carl Gottlieb König
+Carl Traugott Meschke
+Johann Friedrich August Kunze
+----------------
+Johann Georg Lehnert
+Johann Traugott Schöne
+Johann Carl Leberecht Höhne
+Carl Wilhelm Naake
+----------------
+Johann August Böhme
+Carl August Müller
+Carl Gottlob Hempel
+----------------
+Johann Carl Ehrenfried Hempel
+Johann Carl Gottlieb Berge
+Johann Carl Gottlob Träber
+Johann Gottfried Bräunig
+----------------
+Michael Schuster
+Johann Gottfried Leberecht Räpe
+Ernst Julius Weiß
+Johann Gottlob Richter
+----------------
+Johann Gottlieb August Schröder
+Carl August Friedrich
+Carl August Schöne
+Friedrich Ernst Holzhäuser
+----------------
+Johann August Jacob
+Johann Carl Gottlieb Angermann
+Friedrich August Kegel
+Johann August Schuster
+----------------
+Carl August Süße
+Andreas Heinrich Tenner
+----------------
+1846
+Johann August Großmann
+Johann Kittan
+Johann August Helas
+Friedrich August Gebauer
+----------------
+Johann Friedrich Schröder
+Friedrich August Gaebisch
+Gottfried Heinrich Schöne
+----------------
+Friedrich August Müller
+Johann Georg Anders
+Carl August Pappritz
+----------------
+Johann Traugott Lehnert
+Carl Ehrenfried Mittag
+Johann Gotthelf Richter
+Johann Gottlieb Bräunig
+----------------
+Johann Gottlieb Schuster
+Carl Gottlob Sachse
+Johann Friedrich Naake
+----------------
+Carl Gottlob Höhne
+Johann Christoph Friedrich Schuster
+Christian Friedrich Mittag
+----------------
+Carl Friedrich August Raffs
+Friedrich Wilhelm Leubert
