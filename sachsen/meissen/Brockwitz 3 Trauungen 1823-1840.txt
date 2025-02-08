@@ -1,5 +1,5 @@
 Brockwitz (Buch 3)
-Trauungen 1823-1839
+Trauungen 1823-1840
 https://www.archion.de/de/viewer/churchRegister/281038?pageId=38770878
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -7,6 +7,7 @@ Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
 September 2024
 November 2024
+Januar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -310,3 +311,22 @@ Carl Gottlob Schneweiß
 Johann Gottlieb Kühne
 Johann Gotthelf Marx
 Friedrich Wilhelm Finke
+---------------- x7
+1840
+Carl Christian Gottfried Schumann
+Christian Gottlieb Fichtner
+Johann Gotthelf Döring
+Johann Gottfried Franke
+Johann Gotthelf Schumann
+Johann Gotthelf Züchner
+Christian Gottlieb Schröter
+Wilhelm Gotthelf Fischer
+Johann Gottlieb Seifert
+Christian Gottlieb Marx
+Carl Friedrich Funke
+Ludwig Eduard Oehlicke
+Friedrich Wilhelm Segelhorst
+Gottlieb Wilhelm Schumann
+Johann Gottfried Schebe
+Christian Gottlieb Hermann
+Christian August Sachse

@@ -1,5 +1,5 @@
 Constappel (Buch 4)
-Trauungen 1800-1839
+Trauungen 1800-1849
 https://www.archion.de/de/viewer/churchRegister/281052?pageId=38773698
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ Mai 2024
 Juli 2024
 September 2024
 November 2024
+Januar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -575,3 +576,170 @@ Carl August Schubert
 Christian Carl Gottfried Löwe
 ----------------
 Carl Gottlob Schneeweiß
+1840
+Carl Friedrich Zetzschka
+Alexander Emil Hennig
+Johann August Hörnig
+----------------
+Friedrich Wilhelm Ferdinand Schneider
+Johann Gottfried Roßberg
+Matthias Lippisch
+Christian Traugott Döhnert
+Friedrich Wilhelm Schubert
+----------------
+Johann Gottlieb Oehmichen
+Johann Christian Heidemüller
+Friedrich August Döring
+Johann Gotthelf Patzig
+Carl Gottlob Just
+----------------
+Johann Gottlieb Kästner
+Gottfried August Grafe
+1841
+Karl Friedrich Adam
+Friedrich August Kunert
+Johann Christian Gottlob Lindner
+Johann Christian Traugott Gesa
+----------------
+Johann Traugott Hofmann
+August Eduard Wehner
+Johann Gottlob Mayer
+Friedrich August Kühn
+Julius Bernhardt Vogel
+Karl Adolph Jänke
+----------------
+Karl Traugott Schirmer
+Johann Traugott Leberecht Angermann
+1842
+Karl Gottlieb Schubert
+Christian Heinrich Roßberg
+Johann Gottfried Tiebel
+----------------
+Harald Heinrich August Heinsius
+Karl August Rüdiger
+Johann Karl August Schreiber
+Friedrich Adolph Wolf
+----------------
+Karl Friedrich Wilhelm Zimmermann
+Gottlob Adam Jäpel
+Johann Gottlieb Fischer
+Karl Gottlob Loßnitzer
+Karl Gottlob Güldner
+----------------
+Karl Gottfried Hauswald
+Friedrich August Liebeheim
+Karl Moritz Fischer
+Johann Traugott Griesbach
+----------------
+1843
+Karl Gotthelf Kiesling
+Karl Wilhelm Scheiblich
+Karl Friedrich Herzer
+Gottfried August Dachsel
+Christian Friedrich Richter
+----------------
+Georg Holfeld
+Christian Traugott Mehlig
+Johann David Jentsch
+August Friedrich Wilhelm Oehlke
+----------------
+Karl Gottlob Scheeweiß
+Johann Karl Traugott Büttner
+Traugott Leberecht Henschke
+----------------
+1844
+Friedrich Wilhelm Rauer
+Karl August Wimmer
+Gottlob Traugott Franz
+Karl Ludwig Puckelwarz
+----------------
+Gottlob Wilhelm Faust
+Johann Georg Jacob
+Johann Karl Gottlieb Hachenberger
+Friedrich August Mehlig
+----------------
+Johann Gottlieb Petzold
+Johann Karl Gotthelf Pietsch
+Johann Karl Gottlob Münch
+Karl August Körner
+----------------
+Johann Gottlob Grellmann
+Johann Gottlieb Schneekarl
+Christian August Mehlig
+Johann Gottfried Schiffler
+----------------
+1845
+Johann Karl Friedrich Klinkicht
+Wilhelm August Jacob
+Heinrich Ernst Grützner
+----------------
+Johann Traugott Leberecht Schumann
+Karl Heinrich Sommer
+Karl Friedrich August Hantzsch
+Heinrich Eduard Kemper
+Johann Gottfried Tränkner
+----------------
+Karl Traugott Adam
+Karl Samuel Angermann
+Johann Gottfried Kotsch
+----------------
+1846
+Karl Gottlob Zimmer
+Karl Traugott Paulich
+Karl Gottlieb Geier
+Johann Karl Gottfried Schulze
+----------------
+Ernst Theodor Moritz
+Jacob Hammer
+Karl Ludwig Uchdorf
+Johann Wilhelm Uchdorf
+----------------
+Christian Gottlob Franz
+Ernst Traugott Henker
+Friedrich August Robert Blüher
+----------------
+1847
+Karl August Richter
+Johann Gottfried Rüdiger
+Christian Friedrich Steuer
+Johann Karl Gottlieb Schubert
+----------------
+Heinrich Hermann Gast
+Karl Friedrich Christian Kästner
+Friedrich August Kemmel
+----------------
+Ernst Heinrich Knothe
+Karl Gotthelf Henze
+1848
+Karl Gotthelf Haupt
+Johann Gottlieb Richter
+----------------
+Johann Gottlob Ernst Pinkert
+Joseph Uhlarz
+Johann Gottlieb Glöckner
+----------------
+Karl Gottlob Weber
+Karl Gottlieb Meyer
+Friedrich Ernst Damme
+Gottlieb August Faust
+----------------
+Julius Wilhelm Ulbricht
+Julius Imhoff
+Karl Gottlob Leberecht Hildebrandt
+----------------
+1849
+Gottfried Theodor Müller
+Johann Gottlob Barth
+Karl Gottlieb Zimmermann
+Johann Friedrich August Pautsch
+----------------
+Johann Karl Gottlob Vogel
+Johann Ernst Heinrich Gühne
+Christian Gottlieb Leberecht Bennewitz
+Traugott Leberecht Damme
+----------------
+Michael Frenzel
+Karl Gottlieb Gießmann
+Karl Gotthelf Güldner
+Johann Gottlieb Löwe
+Karl Gottlieb Mehlig

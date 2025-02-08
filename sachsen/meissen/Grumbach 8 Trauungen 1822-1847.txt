@@ -1,5 +1,5 @@
 Grumbach (Buch 8)
-Trauungen 1822-1839
+Trauungen 1822-1847
 https://www.archion.de/de/viewer/churchRegister/282519?pageId=39024440
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Oktober 2024
 November 2024
+Januar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -389,3 +390,221 @@ Carl Traugott Rudolph
 Carl Gottlob Walther
 Friedrich Gottlob Atteniuß
 Johann Gotthelf Büttner
+----------------
+1840
+Carl Gottlob Troisch
+Johann August Tamme
+Johann Wilhelm Eger
+Johann Gottlieb Böhme
+Johann Carl Gottlob Emmerich
+----------------
+Johann Carl Gottlieb Naumann
+Carl Heinrich Lehmann
+Carl Gottlob Kühne
+Johann Gottlob Diersche
+Johann Gottlob Rudolph
+----------------
+Johann Carl Gottlob Schubert
+Carl Adolph Horn
+Johann Gottfried Eckoldt
+Johann Sauer
+Johann Gottlob Schlicke
+Johann Gottfried Blümel
+----------------
+Carl Gottlob Michael
+Carl Gottlob Zweinig
+Carl Gottlob Nüßgen
+Johann Gottlieb Leberecht Weber
+Carl Gottlieb Böhme
+Carl Gottfried Ehrlich
+----------------
+Carl Gotthelf Winckler
+Johann Gottlob Echler
+Carl Gottlieb Döring
+1841
+Johann Gotthelf Andrä
+Johann Adolph Lommatzsch
+----------------
+Carl Gottlieb Reichel
+Carl Gottlob Amposeck
+Johann Gottfried Wilhelm Bomsdorf
+Johann Carl August Roch
+Johann Traugott Irmer
+Friedrich August Carl Schneider
+----------------
+Johann Gottlob Kuntze
+Carl Gottlob Mitscherlich
+Carl Friedrich Ernst Mütterlein
+Carl Gotthelf Kleine
+Carl Friedrich Wilhelm Hiller
+Friedrich August Kühne
+----------------
+Carl Gotthelf Brühl
+Carl August Günther
+Friedrich August Heeger
+Carl Gottlieb Benjamin Meitzner
+Johann Gottlob Belke
+Johann Carl Gottlob Heyne
+----------------
+Johann Traugott Krille
+1842
+Johann Gottlob Jähnigen
+Carl Wilhelm Schwenke
+Carl Friedrich August Wahl
+Johann Christian Pahlitzsch
+Carl Gottfried Ferdinand Röthig
+----------------
+Carl Gotthelf Lützner
+Carl Traugott Schäfer
+Carl August Schermeßer
+Harald Heinrich Christian August Heinsius
+Johann Traugott Brendel
+----------------
+Johann Gottlob Erbe
+Carl Gottfried Hamann
+Johann August Ficke
+Johann Gotthelf Kuppe
+Carl Gottlob Peschel
+Carl Gottfried Kannegießer
+----------------
+Christian Adolph Tamm
+Carl Gottlob Obermann
+Carl Gottlieb Fischer
+Johann Gottlieb Hamann
+1843
+Herrmann Steidel
+----------------
+Johann Gottfried Mögel
+Carl Heinrich Fritzsche
+Johann Friedrich Aaron Tränkner
+Johann Georg Richter
+Carl Friedrich Ernst Richter
+----------------
+Friedrich August Kretzschmar
+Johann Gottlieb Schütze
+Carl Wilhelm Kuntze
+Carl August Henker
+Carl August Chemnitzer
+----------------
+Carl August Ulbricht
+Johann Carl Gottlieb Kühne
+Johann Gottlieb Berthold
+Johann Christoph Trentzsch
+Johann August Fritzsche
+----------------
+Carl Friedrich Ferdinand Florer
+Carl Gottlieb Böhme
+Heinrich Gottlob Müller
+Carl August Scharfe
+August Ferdinand Mittag
+----------------
+Carl Christlieb Klinkicht
+Carl David Richter
+Johann Traugott Döring
+Carl Heinrich Ernst Kühne
+Jacob Müller
+Christian Friedrich August Lützner
+----------------
+Gottfried Hennig
+Friedrich Traugott Francke
+Carl Friedrich August Crönert
+Johann Carl Gottlieb Kühne
+Carl Gottlieb Mütterlein
+Eduard Gustav Haase
+----------------
+Carl Traugott Winckler
+Johann Georg Dittrich
+1844
+Friedrich Traugott Francke
+Carl August Brückner
+Johann Gottlieb Günther
+----------------
+Johann Gottfried Walther
+August Friedrich Wilhelm Ulbrich
+Carl Gottlieb Kleine
+Johann Carl Gottlieb Maul
+Johann Carl Gottlieb Treppt
+Carl Gottlob Grellmann
+----------------
+Christian Friedrich Ehregott Eckelt
+Carl Gottlieb Starcke
+Johann Gottfried Lehnert
+Johann Carl Gottlieb Schulze
+Carl Gottlob Johne
+Carl Gottlieb Lehmann
+----------------
+Friedrich August Opitz
+1845
+Friedrich Ernst Ulbrich
+Carl August Kuntze
+Carl August Francke
+Carl Gottlob Claußnitzer
+----------------
+Hans Kutschik
+Carl August Wilhelm Dittrich
+Carl Friedrich Wilhelm Schäfer
+Johann Gottlob Starcke
+Johann Gottlieb Hauschild
+Johann Gottlieb Dietze
+Johann August Tamme
+----------------
+Carl Gottfried Dittrich
+Carl Traugott Hauptmann
+Carl Adolph Schubert
+Johann Gotthelf Ziehnert
+Carl August Steiger
+Carl Gottlob Nacke
+Gottlieb Heinrich Berthold
+----------------
+Friedrich Wilhelm Horn
+Carl Traugott Winckler
+1846
+Johann Gottlieb Hennig
+Carl August Amposeck
+Johann Gottfried Frauenstein
+----------------
+Gotthelf Traugott Weber
+Carl Heinrich Ferdinand Pfützner
+Johann Gottfried Fürchtegott Ebert
+Johann Carl Gottfried Lehmann
+Johann Gottlieb Jähnig
+Carl Heinrich Döhnert
+----------------
+Carl Ernst Pinkert
+Carl Friedrich Teuchert
+Carl August Georges
+Traugott Friedrich Berthold
+Johann Carl Gottlieb Eger
+Johann Gottfried Wustlich
+Carl Gotthelf Schanz
+----------------
+Carl Gottlieb Pfützner
+Wilhelm Moritz Bähr
+Carl Gottfried Rüdiger
+Johann Carl Krebß
+Friedrich August Kunerth
+----------------
+1847
+Johann Gottlieb Schubert
+Carl Friedrich Funcke
+Carl Friedrich Lorentz
+Gottlieb Schubarth
+Johann Michael Mögel
+----------------
+Carl Gottlieb Lutzner
+Carl Gottlieb Adolph Schlicke
+Johann Gottlieb Donath
+Carl August Kießling
+Johann Gottlieb Hennig
+----------------
+Carl Gotthelf Schanz
+Johann Gottfried Kühne
+Carl Gottlob Henker
+Gottlieb Leberecht Zimmermann
+Johann Carl Gottlieb Schmidt
+Carl Gottlob Gabriel
+----------------
+Carl Gottlieb Brückner
+Christian Gottlieb Pallmann
+Johann Carl Gottlob Lange
+Johann Gottlieb Schrödter

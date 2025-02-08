@@ -1,5 +1,5 @@
 Deutschenbora (Buch 3)
-Trauungen 1801-1839
+Trauungen 1801-1840
 https://www.archion.de/de/viewer/churchRegister/281068?pageId=38776650
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -11,6 +11,7 @@ Mai 2024
 Juli 2024
 September 2024
 November 2024
+Januar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -379,3 +380,16 @@ Johann Gottlieb Donat
 Carl Wilhelm Gierisch
 ----------------
 Carl August Roch
+----------------
+1840
+Johann Gottlob Prater
+Johann Carl Gottlob Wilsdorf
+Carl Gottfried Dachsel
+Johann Christian Ferdinand Birkner
+----------------
+Carl Friedrich Traugott Wippler
+Johann Gottfried Müller
+Carl Gottlieb Hofmann
+Carl Gottfried Hanschmann
+Carl Gottlieb Opitz
+Johann Traugott Leberecht Leuteritz

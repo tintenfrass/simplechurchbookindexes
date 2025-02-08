@@ -1,5 +1,5 @@
 Großdobritz (Buch 2)
-Trauungen 1799-1839
+Trauungen 1799-1841
 https://www.archion.de/de/viewer/churchRegister/282510?pageId=39021714
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -13,6 +13,7 @@ Erstellt in ca. 0,5 Stunden
 Juli 2024
 Oktober 2024
 November 2024
+Januar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -319,7 +320,23 @@ Johann Carl Gottlob Haase
 ----------------
 Johann Gottfried Weser
 Gotthelf Herrmann
----------------- x81
+1840
+Carl Gottlob Grafe
+Johann Christian Adam Schulze
+Samuel Gommlich
+Carl Friedrich August Wagner
+Carl Christian Moritz Bertram
+Johann Gottlob Gebauer
+Johann Gottlieb Borsdorf
+Carl Gottlieb Streller
+1841
+Johann Gotthelf Jentsch
+Carl Gottlob Pinkert
+Friedrich Wilhelm Zocher
+Johann Carl Gottlieb Richter
+Christian Gotthelf Richter
+Johann Gottlieb Thieme
+---------------- x79
 1799
 Johann Gottfried Bärwald
 1800
@@ -362,3 +379,5 @@ Johann Christoph Zscheile
 ----------------
 1837
 Carl Friedrich Zschoche
+1840
+Johann Gottlieb Borsdorf

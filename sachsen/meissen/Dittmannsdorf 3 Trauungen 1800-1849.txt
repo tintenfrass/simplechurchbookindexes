@@ -1,5 +1,5 @@
 Dittmannsdorf (Buch 3)
-Trauungen 1800-1839
+Trauungen 1800-1849
 https://www.archion.de/de/viewer/churchRegister/281074?pageId=38777739
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ Mai 2024
 Juli 2024
 September 2024
 November 2024
+Januar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -415,3 +416,105 @@ Carl Gottlieb Stirl
 ----------------
 Johann Gottlieb Oehme
 Johann Carl Gottlieb Hachenberger
+----------------
+1840
+Johann Friedrich Hofmann
+Carl Wilhelm Langer
+Johann Wilhelm Naumann
+Carl Gottfried Müller
+Carl Gottlieb Böhme
+----------------
+1841
+Carl Gottlieb Böhme
+Carl August Lucius
+Johann Gottfried Schubert
+Carl August Bäßler
+Carl Wilhelm Beyer
+----------------
+1842
+Carl Gottlob Franz
+Carl Gottlob Damm
+Johann Christian Höschler
+Johann Carl Gottlieb Jäpel
+Carl Gottlob Damm
+Carl Ehrenfried Heber
+Carl Gottlob Lucius
+----------------
+Johann Samuel Hofmann
+Carl Gottfried Mühlberg
+Johann Gotthelf Hunger
+Christian Gottfried Philipp
+Carl Traugott Höschler
+Carl August Dittrich
+----------------
+1843
+Christian Gottlieb Johne
+Carl Gottlob Weinhold
+Christian Traugott Großöhmigen
+Leberecht Siegmund Schumann
+Christian Leberecht Rost
+Carl Gottlieb Dürsche
+Carl August Zeller
+----------------
+1844
+Carl Gottlieb Köhler
+Carl Ferdinand Fleischer
+Johann Gottfried Fröbe
+Carl Wilhelm Bachmann
+Friedrich Gotthelf Wunderwald
+Carl Friedrich August Böhme
+----------------
+1845
+Johann Gottlob Starke
+Carl August Köhler
+Carl Gottlob Eckelmann
+Carl Gotthelf Näcke
+Carl Adolph Fleischer
+Johann Gottlob Jähnich
+----------------
+1846
+Carl Gottlieb Johne
+Carl Gottlob Zschoge
+Carl Friedrich Heber
+Carl Traugott Brückner
+Carl Wilhelm Börner
+Friedrich Wilhelm Stirl
+----------------
+Carl Ehregott Schumann
+Christian Gotthelf Fischer
+Carl Gottfried Böhme
+Carl Gottlieb Jäkel
+Carl Gotthelf Fröbe
+----------------
+1847
+Friedrich Gottlob Schmidt
+Carl August Friedrich Zeller
+Johann Gottlieb Höschler
+Carl Gottlieb Lorenz
+Johann Gottfried Dachsel
+Friedrich August Otto
+Carl Traugott Müller
+----------------
+Carl Gottlieb Günther
+Johann Gottfried Fehrmann
+Johann Gotthelf Tenzel
+----------------
+1848
+Johann Heinrich Wüstling
+Carl Friedrich Jacob
+Carl Friedrich Schulze
+Carl Heinrich Wagner
+Johann Gottfried Leberecht Limbach
+----------------
+1849
+Carl Gotthelf Heede
+Julius Moritz Munckel
+Carl Wilhelm Berthold
+Carl Gottlob Fritzsche
+Franz Eduard Schenth?
+Friedrich Wilhelm Krieger
+----------------
+Traugott Leberecht Damme
+Ernst Leberecht Lindner
+Johann Friedrich Haubold
+Carl Gottlieb Jäpel

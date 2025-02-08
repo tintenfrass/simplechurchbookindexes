@@ -1,5 +1,5 @@
 Blankenstein (Buch 2)
-Trauungen 1824-1839
+Trauungen 1824-1849
 https://www.archion.de/de/viewer/churchRegister/281021?pageId=38766340
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 September 2024
 November 2024
+Januar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -194,3 +195,161 @@ Carl Leberecht Pinkert
 Johann Gottlob Schuster
 Carl Traugott Rudolph
 Gotthelf Ferdinand Weber
+----------------
+1840
+Gottfried Wilhelm Behrisch
+Johann Gotthelf Sohr
+Carl Gotthelf Fehrmann
+Johann Traugott Tögel
+Johann Carl Gottlob Schubert
+Carl Ernst Kippe //korrigiert
+Moritz Leberecht Rüdiger
+Heinrich Fürchtegott Andrä
+----------------
+Carl Gotthelf Bellmann
+Eduard Wilhelm Schubert
+Johann Gottlieb Tögel
+Carl Gottlieb Goltzsch
+----------------
+1841
+Johann Gottlob Schumann
+Traugott Leberecht Herrmann
+Carl Ernst Faust
+Johann Gotthelf Fehrmann
+Johann Christian Gottlieb Naumann
+Adolph Eduard Pietzsch
+Carl Wilhelm Lange
+----------------
+Carl Gottfried Döring
+Johann Gottfried Wilhelm Schubert
+Friedrich August Schlechte
+Johann Gottlieb Heinrich Borrmann
+Christian Gottfried Poitz
+Carl Friedrich Wilhelm Bartzsch
+Johann Gottfried Pötzsch
+----------------
+1842
+Carl Gottlob Damm
+Christoph Gottlieb Rosenkranz
+Carl Ernst Pötzsch
+Carl Friedrich Haupt
+Johann Gottlieb Bretschneider
+----------------
+1843
+Johann Gottlieb Gerhold
+Johann Gottlieb Moses
+Johann Georg Stelzer
+Gottlieb Moritz Stange
+Carl August Gottfried Petermann
+Carl Friedrich August Krönert
+----------------
+1844
+Johann Gottfried Schieritz
+Carl Gottlob Borrmann
+Carl Gottlob Ferdinand Frohberg
+August Ferdinand Richter
+Carl Ernst Dietze
+Carl Ernst Borsdorf
+Carl Gottlieb Müller
+----------------
+Johann Gottlieb Wirth
+Carl August Ernst Goldbach
+Carl August Ullrich
+Gotthelf Leberecht Ranft
+Gotthelf Leberecht Döring
+Carl Gottlieb Leberecht Grahl
+August Eduard Röhborn
+----------------
+1845
+Carl Traugott Tränkner
+Johann Gottlob Ernst Fehrmann
+Johann Gottfried Walther
+Carl Gottlob Heyde
+Johann Friedrich August Berthold
+Friedrich Wilhelm Bellmann
+Friedrich August Wagner
+----------------
+Johann August Fichtner
+Johann Traugott Pohle
+Carl Ernst Kirsten
+----------------
+1846
+August Friedrich Fischer
+Carl Gottlieb Philipp
+Friedrich Wilhelm Dathe
+Friedrich Wilhelm Schuster
+Carl Gottlieb Ullbricht
+Johann Gottlob Höntzsch
+Johann Carl Gottlob Dietze
+----------------
+Johann Christian Borschdorf
+Carl Gottfried Raue
+Carl Friedrich Winkler
+Carl Friedrich Kreidel
+Carl Gottlob Rost
+Ernst Julius Dietze
+Carl Ernst Pinkert
+----------------
+Friedrich Wilhelm Bebs
+Samuel Kirsten
+Julius Robert Sulzberger
+Carl Franz Emilius Ranft
+Carl August Schuster
+Heinrich Theodor Schubert
+Johann Carl Ernst Ranft
+Johann Carl August Hahn
+----------------
+1847
+Gotthelf Leberecht Döring
+Heinrich Ferdinand Beyer
+Johann Christian Gottlieb Lehmann
+Julius Heinrich Neubert
+Carl Gottlieb Ficke
+Gottfried Wilhelm Schubert
+----------------
+Carl Christian Knorr
+Carl Wilhelm Schulze
+Carl Gottlob Ernst Dietrich
+Friedrich August Imhof
+Carl Gotthelf Tamme
+Carl August Bachmann
+Carl Gottlob Heinrich Böhme
+----------------
+Ernst Adolph Roßberg
+Gustav Ehrenhardt Legler
+Franz Julius Pinkert
+----------------
+1848
+Carl Gotthelf Melzer
+Carl Gottfried Hammer
+Friedrich Leberecht Tauchert
+Carl Moritz Ferdinand Zschoche
+Friedrich Wilhelm Zeller
+Carl Gottlieb Lohse
+Ernst Adolph Heyde
+Carl Leberecht Borschdorf
+----------------
+Carl Leberecht Gerhold
+August Richter
+Carl Traugott Ferdinand Winkler
+----------------
+1849
+Johann Leberecht Schantze
+Friedrich Leopold Opitz
+Carl Ernst Kleber
+Ernst Theodor Gebauer
+Carl Wilhelm Kirsten
+Carl Gottfried Leberecht Fichtner
+Carl Ernst Gerhold
+Carl Gottlieb Bachmann
+----------------
+Friedrich Wilhelm Hennig
+Carl August Schumann
+Carl Wilhelm Göpfert
+Franz Ludwig Schetelig
+Carl August Strohbach
+Carl Gottlieb Fritzsche
+----------------
+Carl Friedrich Fischer
+Friedrich Wilhelm Kohlsdorf
+Johann Gottlieb Kühne

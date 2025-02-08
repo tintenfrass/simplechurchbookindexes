@@ -1,5 +1,5 @@
 Gröbern (Buch 2)
-Trauungen 1777-1839
+Trauungen 1777-1840
 https://www.archion.de/de/viewer/churchRegister/282506?pageId=39020782
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -16,6 +16,7 @@ Mai 2024
 Juli 2024
 Oktober 2024
 November 2024
+Januar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -337,6 +338,9 @@ Christian Traugott Schlechte
 Siegismund Adolph Schade
 Carl Friedrich Tanneberger
 Johann Gottlieb Zoch
+1840
+Johann Gottfried Dähnert
+Carl Gottlieb Reinhardt
 ---------------- x129
 1777
 1778
@@ -569,6 +573,9 @@ Gottfried Heinrich Harx
 Johann Gottfried Schulze
 ----------------
 Christian Gottfried Richter
+1840
+Carl Gotthelf Krause
+Johann Gottlieb Backofen
 ---------------- x59
 1778
 Gottfried Rensch

@@ -1,12 +1,12 @@
 Dörschnitz (Buch 6)
-Trauungen 1824-1839
+Trauungen 1824-1849
 https://www.archion.de/de/viewer/churchRegister/282501?pageId=39019843
 
-Das ist ein Index der Trauungen. (Nur die Bräutigame)
 
 
 September 2024
 November 2024
+Januar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -183,3 +183,127 @@ Gottfried Leberecht Roßberg
 Johann Gottlieb Schneider
 ----------------
 Johann Gottfried Kirchner
+1840
+Johann Samuel Tronicke
+Christian Gottfried Hebenstreit
+Friedrich Wilhelm Kegel
+----------------
+Johann Christian Gottlieb Lippert
+Karl August Lehmann
+Friedrich Wilhelm Funke
+Carl Wilhelm Eidner
+----------------
+Johann Gottlob Starke
+Heinrich Moritz Speer
+----------------
+1841
+Johann Gottlob Mann
+Carl Gottlob Müller
+Johann Gottlieb Kohlsdorf
+Christian Gottlieb Heinze
+----------------
+Johann Gottlob Gehre
+Carl Gottlieb Käseberg
+Johann Gottfried Berge
+Christian Gottlieb Kopp
+----------------
+1842
+Johann Gotthelf Mehnert
+Friedrich Ernst Kürcher?
+Carl Benjamin Eckert
+Christian Gottlieb Mehnert
+----------------
+Johann Gottlob Lehmann
+Carl August Rabs
+Johann Gotthelf Bennewitz
+Friedrich Albert Böhme
+----------------
+Johann Carl Gottlieb Bormann
+1843
+Carl Heinrich Adolph Wackwitz
+Carl Heinrich Schmidt
+----------------
+Johann Carl Gottlob Oder
+Christian Friedrich Wilhelm Voigt
+Johann Wilhelm Schulze
+Johann Carl Gottlob Knof
+Christian Gottlieb Gühne
+----------------
+Carl Gotthelf Petermann
+Johann Carl Gottlob Vogel
+Johann Gotthelf Kürcher
+Johann Lobegott Kretzschmar
+Johann Heinrich Lommatzsch
+----------------
+Johann Gottlob Weber
+Friedrich August Werner
+1844
+Carl Gottlob Schietzel
+Ernst Ferdinand Harz
+----------------
+Carl Gottlob Kühner
+Christian Gottlieb Thielemann
+Johann Friedrich Wilhelm Straube
+Carl August Lehmann
+----------------
+Johann Gottlieb Poppe
+Carl Gottlieb Ehrenfried Hamann
+Carl Gottlob Starke
+----------------
+1845
+Christian August Heinze
+Johann Gottlob Großöhmichen
+Gotthelf Moritz Harz
+Friedrich Wilhelm Dietze
+----------------
+Friedrich Wilhelm Lehmann
+Carl Gottlieb Bode //korrigiert
+Traugott Leberecht Löbe
+----------------
+1846
+Johann Gottfried Leberecht Mehnert
+Johann Christian Petzsch
+Johann Gotthelf Schirrmeister
+Carl Gotthelf Koch
+----------------
+Johann Carl Gottlob Funke
+Friedrich August Kirbach
+1847
+Christian Gottlieb Hüfer
+Johann Gottlieb Schulze
+----------------
+Friedrich August Wilhelm Schroth
+Johann Carl Gottlob Heinrich
+Johann Gottlieb Leuschner
+Carl Gottlob Pfeifer
+----------------
+Johann Friedrich Carl Baum
+Friedrich August Möbius
+Friedrich Traugott Bäumler
+1848
+Johann Gottlieb Gottschall
+----------------
+Friedrich Carl Traugott Stumpf
+Friedrich Wilhelm Thielemann
+Christian August Beger
+Carl Gotthelf Dommisch
+----------------
+Gottlieb Leberecht Hahnefeld
+Carl Friedrich Schröber
+Christian Gottlieb Starke
+1849
+Johann Friedrich Ernst Pöckelmann
+Johann Carl Gottlob Ritter
+----------------
+Carl Gottlob Hebenstreit
+Johann Gottlob Broschwitz?
+Christian Carl Beger
+Friedrich Ernst Roßberg
+Friedrich August Straube
+----------------
+Carl Friedrich August Weichert
+Carl Gotthelf Lenghof
+Christian Gotthelf Hänsel
+Friedrich Wilhelm Kühn
+----------------
+Carl Gottlieb Straube
