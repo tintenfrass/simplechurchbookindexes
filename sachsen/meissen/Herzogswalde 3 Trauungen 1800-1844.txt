@@ -1,5 +1,5 @@
 Herzogswalde (Buch 3)
-Trauungen 1800-1839
+Trauungen 1800-1844
 https://www.archion.de/de/viewer/churchRegister/282528?pageId=39025810
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ Mai 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -565,3 +566,75 @@ Johann Carl Gottlob Klunker
 ----------------
 Johann Gottlieb Oehme
 Friedrich Traugott Naumann
+----------------
+1840
+Johann Traugott Wustlich
+Johann Gottlieb Böhme
+Carl Gottlieb Börner
+Moritz Leberecht Rüdiger
+Johann Wilhelm Naumann
+----------------
+Carl Gottfried Teichmann
+1841
+Carl Gottlob Haußwald
+Johann Gottlob Lange
+----------------
+Friedrich Salomo Funke
+Carl Gottlob Koch
+Carl Gotthelf Dittrich
+Carl Gottlob Barthel
+Johann Gottlob Belke
+----------------
+1842
+Carl Traugott Müller
+Carl Gottlieb Zschunke
+Ehregott Daniel Klemm
+Carl Gottlob Sohrmann
+Carl Christian Moritz Zschoche
+----------------
+Carl Friedrich Eduard Claus
+Ernst Wilhelm Thiele
+Johann Carl Gotthelf Kramer
+Johann Christian Lindner
+Carl Gottlieb Hamann
+----------------
+Johann Gottlob Müller
+Christian Friedrich Schreiber
+Johann Gottlieb Werner
+----------------
+Johann Gottfried Geroldt
+Christian Gottfried Philipp
+August Friedrich Oswald Hamanni
+----------------
+1843
+Gotthelf Leberecht Schramm
+Johann Gottfried Wilhelm Walther
+Carl August Ulbricht
+Johann Gotthelf Engelmann
+Johann Carl Gottlob Heuschkel
+----------------
+Johann Carl Gottlob Räubig
+Johann Gottlob Illgen
+Gottlieb Tenzel
+Carl Gottlob Köhler
+----------------
+Adolph Leberecht Gabriel
+1844
+Ernst Heinrich Schubert
+Carl Gottlieb Haine
+----------------
+Carl Gottfried Lange
+Johann Gottlieb Preusker
+Carl Gottfried Brendel
+Carl Gottlieb Wilhelm Gäbisch
+Johann Gotthelf Tenzel
+----------------
+Friedrich August Beger
+Johann Gottlob Tögel
+Carl Gottfried Preusker
+Christian Friedrich Ehregott Eckelt
+Carl Gottlob Andrä
+----------------
+Gottlieb Leberecht Müller
+Carl Wilhelm Pietzschky
+Johann Friedrich Müller

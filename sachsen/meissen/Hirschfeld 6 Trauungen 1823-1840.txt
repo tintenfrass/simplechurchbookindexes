@@ -1,10 +1,11 @@
 Hirschfeld (Buch 6)
-Trauungen 1823-1839
+Trauungen 1823-1840
 https://www.archion.de/de/viewer/churchRegister/282544?pageId=39029243
 
 
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -194,3 +195,14 @@ Johann Heinrich Böhme
 Carl Gottlieb Wiedemann
 Carl Gotthelf John
 Carl Gottlieb Döschild
+----------------
+1840
+Johann August Friedrich Hett
+Ernst Wilhelm Striegler
+Friedrich August Limbach
+Friedrich Wilhelm Dietrich
+Johann Gottlieb Fischer
+Johann Gottlob Schubert
+Carl Gottlob Nestler
+Johann Carl Gottlob Ficke
+Johann Gottfried Mühlberg

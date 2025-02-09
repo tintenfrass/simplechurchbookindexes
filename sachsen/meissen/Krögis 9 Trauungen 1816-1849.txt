@@ -1,5 +1,5 @@
 Krögis (Buch 9)
-Trauungen 1816-1839
+Trauungen 1816-1849
 https://www.archion.de/de/viewer/churchRegister/282581?pageId=39038257
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -517,3 +518,264 @@ Karl Gottlob Richter
 Karl Gottfried Hombsch
 Gotthelf Heinrich Hase
 Johann Gottlieb Wachsmuth
+----------------
+1840
+Johann Gottlieb Hoerig
+Friedrich Wilhelm Händel
+Friedrich Wilhelm Haupt
+Traugott Leberecht Funke
+Carl David Neidhardt
+----------------
+Rudolph Eduard Röthing
+Johann Gottfried Müller
+Carl Julius Röthing
+Johann Gottlieb Naumann
+Friedrich Wilhelm Muster
+----------------
+Johann Traugott Pönisch
+Johann Traugott Schulze
+Friedrich Wilhelm Melzer
+Carl Gottfried Schulze
+Johann Karl Gottlob Gebhardt
+----------------
+Carl Gottlob Bretschneider
+----------------
+1841
+Carl Gottlieb Altermann
+Johann Gottlob Kramer
+Friedrich August Erler
+Christian Friedrich Rudolph
+----------------
+Carl Gotthelf Beulich
+Carl Gottlieb Guertler
+Johann Gottlieb Koede
+Friedrich Wilhelm Claus
+Friedrich Wilhelm Böhme
+----------------
+Ernst Friedrich Philipp
+Carl Gottlob Roesiger
+Carl Gottlob Krebsky
+Johann Wilhelm Rost
+----------------
+Carl Wilhelm Patzig
+Johann Christian Gottlieb Kirstein
+Wilhelm Eduard Helm
+Carl Gottlob Müller
+Christian Wilhelm Binning
+----------------
+Johann Traugott Leberecht Richter
+Carl Gottlob Kelker
+1842
+Johann Gotthelf Binning
+Carl Gottlob Fuhrmann
+----------------
+Carl Friedrich Wilhelm Hanisch
+Christian Gottlieb Poetzsch
+Johann Gottlob Just
+Carl August Leberecht Hummitzsch
+Johann Gotthelf Fiedler
+----------------
+Johann Gotthelf Sternberger
+Johann Friedrich Fischer
+August Heinrich Roeßiger
+Franz Ferdinand Horn
+Johann Carl Gottlieb Muetterlein
+----------------
+Carl Gottlieb Schneider
+Carl Gottlieb Haase
+Johann Ferdinand Lehmann
+Christian August Sorge
+----------------
+Ernst Julius Horst
+Karl Gottlieb Leonhardt
+1843
+Christian Friedrich John
+----------------
+Friedrich Wilhelm Hummitzsch
+Johann Gottlob Weber
+Karl Wilhelm Frohberg
+Johann Gottfried Ballack
+----------------
+Johann Liebegott Heymann
+Heinrich Ernst Richter
+Johann Gottfried Ueschner
+Friedrich Wilhelm Schröter
+----------------
+Karl Gotthelf Benedix
+Johann Friedrich Wilhelm Müller
+Johann Karl Moritz Schreiber
+Carl Friedrich Rehn
+Johann Gottlieb Gierisch
+----------------
+Johann Gottlob Lißner
+Karl Gottlob Klöser
+Carl Gottlob Fürchtegott Fischer
+Johann Gottlieb Steinert
+----------------
+Carl Traugott Dreissig
+Adolph Moritz Preißer
+Carl Gottlob Junghanß
+----------------
+Friedrich Ernst Thimmig
+Johann Karl Gottlob Patzig
+Johann Friedrich Wilhelm Geneuß
+----------------
+Christian August Friedrich Richter
+Johann Heinrich Lützner
+Karl Gottlieb Kirstein
+Carl Wilhelm Funke
+----------------
+Johann Gottlob Ohrisch
+1844
+Christian Gottlob Henker
+Wilhelm Fürchtegott Franz
+Karl Wilhelm Hörig
+----------------
+Johann August Guschmasch
+Carl Wilhelm Dietrich
+Karl Gottlob Kaule
+Carl Gottlieb Roßberg
+----------------
+Carl Gottlob Sommer
+Carl Gottlieb Kießling
+Heinrich Ferdinand Philipp
+Johann Gotthelf Fiedler
+----------------
+Carl August Hanicke
+Johann Traugott Leberecht Richter
+Carl Gottlieb Borschdorf
+Christian Friedrich Ulbrich
+----------------
+1845
+Carl Gottlob Richter
+Carl Gottfried Grübler
+Carl Wilhelm Güldner
+----------------
+Carl Adolph Trepte
+Johann August Wilhelm
+Carl Friedrich Ernst Barth
+Johann Gottfried Herzog
+----------------
+Johann Gottlob Jentzsch
+Carl Gottlob Janke
+Carl Gottlieb Nestler
+Carl Gottfried Grellmann
+----------------
+Gottfried Wilhelm Richter
+1846
+Christian Friedrich Wilhelm Mehner
+Traugott Leberecht Schumann
+Johann Carl Jacob Kaufmann
+----------------
+Johann Gottlob Haupt
+Carl Wilhelm Güldner //korrigiert
+Johann Traugott Herzog
+Johann Friedrich Wilhelm Hauffe
+Carl Gottfried Richter
+----------------
+Christian Friedrich Winterlich
+Ernst Adolph Möhler
+Gustav Ferdinand Gierisch
+Gustav Moritz Daeberitz
+Christian Wilhelm Lippert
+----------------
+Johann Christoph Vogel
+Johann Gotthelf Birnbaum
+1847
+August Wilhelm Schütze
+Karl Traugott Ernst Jahn
+----------------
+Friedrich Wilhelm Herrmann
+Carl Gottlieb Roßberg
+Franz Louis Köhler
+Friedrich August Tösel
+Carl Gottlieb Damme
+----------------
+Christian Wilhelm Wackwitz
+Carl Friedrich Dietrich
+Carl Gottlob Schmiedgen
+Christian Gotthelf Schulze
+Franz Julius Gappisch
+----------------
+Johann Traugott Hombsch
+Friedrich Wilhelm Fichtner
+Ernst Wilhelm Schumann
+Johann Gottlob Demmich
+Carl Wilhelm Kost
+----------------
+Johann Gottlieb Zschoche
+Friedrich August Damme
+Carl Gotthelf Leuteritz
+Johann Gottlieb Dörsell
+Karl Friedrich Zechel
+----------------
+Friedrich Wilhelm Eulitz
+1848
+Johann Gottlieb Müller
+Carl Gottlob Koch
+Johann Traugott Muster
+----------------
+Maximilian Julius Köhler
+David Gottlob Beltzich
+Carl Gottlob Köhler
+Carl Gotthelf Junghans
+----------------
+Carl Friedrich Wilhelm Herrnsdorf
+Carl Ferdinand Duerichen
+Carl Heinrich Leonhardt
+Johann Friedrich Gotthelf Berge
+----------------
+Karl Gottlob Lißner
+Christian Friedrich Ernst Dienelt
+Friedrich August Krug
+Carl Gottfried Schmidt
+Karl Wilhelm Stoll
+----------------
+Carl Gottlieb Schubert
+Christian Leberecht Grübler
+Carl Friedrich Schneider
+Ernst Heinrich Wilhelm Mirisch
+Franz Julius Köhler
+----------------
+Johann Gottfried Begenau
+Carl Gotthelf Ulbricht
+Friedrich Wilhelm Hiller
+Karl Gottlieb Ebert
+Carl Friedrich Möbius
+----------------
+Christian Friedrich Wilhelm Döring
+1849
+Johann Carl Gottlob Preiß
+Gottfried Leberecht Gierisch
+----------------
+Carl Gottlob Rüdrich
+Friedrich Wilhelm Schmidt
+Johann Gottlieb Günthner
+Carl Gottfried Wilhelm
+----------------
+Johann Carl Gottlob Hempel
+Julius Adelgrund Bretschneider
+Friedrich Wilhelm Schreber
+Carl Ferdinand Otto
+----------------
+Carl Gottlob Nitzsche
+Johann Gottfried Findeisen
+Friedrich Wilhelm Gründel
+Carl Eduard Große
+----------------
+Carl Gottlob Bäuchler
+Christian Gottlieb Leberecht Bennewitz
+Eduard Moritz Reinhard Budich
+Johann Friedrich Carl Hofmann
+----------------
+Carl Heinrich Schmidt
+Johann Gottfried Ernst Neidthardt
+Friedrich Gustav Kaul
+Christian Rudolph Steiger
+----------------
+Gottfried August Junghauß
+Johann Carl Gottlieb Wittig
+Johann Carl Ehregott Kühne
+----------------
+Johann Carl Gottlieb Ulbrich
+Johann Friedrich Wilhelm Kühne

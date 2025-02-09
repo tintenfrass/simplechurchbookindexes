@@ -1,5 +1,5 @@
 Heynitz (Buch 4)
-Trauungen 1827-1839
+Trauungen 1827-1849
 https://www.archion.de/de/viewer/churchRegister/282536?pageId=39027554
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -157,3 +158,152 @@ Carl Gottlob Schmieder
 Carl August Lommatzsch
 Johann Heinrich Möbius
 Johann Gottlieb Wachsmuth
+----------------
+1840
+Gottfried Wilhelm Pärisch
+Friedrich Wilhelm Schreiber
+Johann Gotthelf Israel Henker
+Johann Gottlob Thierbach
+Carl Samuel Richter
+Johann Carl Gottlob Fischer
+----------------
+Johann Gotthelf Schmidt
+Johann Traugott Vetter
+Carl August Lantzsch
+Johann Christian Jäckel
+----------------
+1841
+Carl Gottlob Junghans
+Traugott Leberecht Götze
+Johann Gottlieb Köde
+Carl Gottlieb Starke
+Carl Wilhelm Jauernack
+Johann Gottfried Funke
+----------------
+Johann Carl Wilhelm Hahn
+Carl Gottfried Hennig
+Gottfried Leberecht Sorge
+Johann Traugott Löser
+Johann Gottfried Kretzschmar
+----------------
+1842
+Carl Gottfried Hahnefeld
+Carl Gottlob Fuhrmann
+Carl Gottlieb Schüttof
+Christian Gottlieb Pötzsch
+Johann Gotthelf Pannier
+----------------
+Johann Gottlieb Fritzsche
+Johann Gottlob Leberecht Funke
+August Heinrich Rößiger
+Adolph Leberecht Richter
+Johann Gottfried Fischer
+Christian August Sorge
+Johann Christian Jäckel
+----------------
+Traugott Wilhelm Kießlich
+Christian Friedrich Junghans
+Friedrich Wilhelm Hennig
+Carl Gottlieb Mittag
+----------------
+1843
+Johann Adolph Funke
+Johann Gottlieb Gerthold
+Carl Gottlob Pannier
+Gotthelf Ferdinand Geißler
+Carl Gottlob Kießlich
+Johann Gottfried Scheffel
+----------------
+Carl Adolph Richter
+Johann Friedrich Leberecht Talkenberg
+Johann Gottfried Heinrich Horn
+Carl Wilhelm Mittag
+Johann Gottlieb Gühne
+Carl Wilhelm Öhmigen
+----------------
+Carl Gottlob Mai
+1844
+Gottfried Leberecht Geißler
+Friedrich Wilhelm Geißler
+Gotthelf Leberecht Schmieder
+----------------
+Gottlieb Traugott Tränkner
+Friedrich Traugott Tanneberger
+Carl Gottlieb Fischer
+Heinrich Schultes
+Gottfried Wilhelm Hennig
+----------------
+Carl Gottlob Zill
+Johann Gottfried Sorge
+Johann Leberecht Wachsmuth
+Carl Gottlieb Kersten
+Friedrich Daniel Kroß
+Johann Christian Gottlieb Horn
+----------------
+1845
+Johann Gottlob Geißler
+Carl Friedrich August Henker
+Bernhard Adolph Langbein
+Gottlob Leberecht Gebhardt
+August Wilhelm Siegert
+----------------
+1846
+Johann Christian Gotthelf Thieme
+Johann Gottlieb Panier
+Johann Gottfried Lantzsch
+Johann Melchior Wießinger
+Johann Gottlieb Sohrmann
+----------------
+Friedrich August Zechel
+Carl August Mittas
+Carl Wilhelm Lorenz
+Carl Gottlob Jost
+Carl Heinrich Dautz
+----------------
+Christian Gottlieb Roitzsch
+Samuel David Roller
+Johann Gotthelf Kost
+Carl August Ackermann
+Friedrich Wilhelm Fritzsche
+----------------
+1847
+Friedrich Wilhelm Nitzsche
+Friedrich Paul Rüdiger
+Carl Traugott Werner
+Carl Gottlob Wenzel
+Johann Gotthelf Wilhelm Funke
+----------------
+Carl Friedrich Zechel
+Gustav Ehrenhard Legler
+1848
+Johann Heinrich Eduard Böttcher
+Christian Wilhelm Fürchtegott Schmieder
+----------------
+Carl Wilhelm Erfurt
+Carl Gottlieb Schneider
+Friedrich Wilhelm Bönitz
+Carl August Krause
+Carl Gottfried Uhlmann
+----------------
+Friedrich Traugott Starke
+Ernst Louis Kloß
+Carl Friedrich Nestler
+Johann Carl Gottlieb Wachsmuth
+Gustav Adolph Goltzsch
+----------------
+August Wilhelm Lange
+Gottfried Heinrich Hempel
+Carl August Heinnich
+1849
+Johann Gottlieb Fichtner
+----------------
+Carl Heinrich Schröter
+Carl Gottlob Eckelmann
+Julius Moritz Munkel
+Carl August Hachenberger
+----------------
+Carl Gottlob Klemm
+Carl August Kunze
+Friedrich Wilhelm Kohlsdorf
+Carl Gottlob Groitzsch
+Johann Gottlieb Köhler

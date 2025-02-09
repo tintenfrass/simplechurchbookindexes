@@ -1,5 +1,5 @@
 Limbach (Buch 6)
-Trauungen 1820-1839
+Trauungen 1820-1840
 https://www.archion.de/de/viewer/churchRegister/283111?pageId=39138870
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -281,3 +282,11 @@ Carl Christlieb Lehmann
 Johann Gotthelf Leberecht Dietze
 Carl Traugott Trepte
 Johann Gotthelf Böhme
+----------------
+1840
+Karl August Becker
+Karl Gottlob Ranft
+Carl Gottfried Kretzschmar
+Carl Gottlob Reiche
+Carl August Poppe
+Carl Gottlieb Metzsching
