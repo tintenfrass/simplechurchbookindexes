@@ -1,16 +1,17 @@
 Meißen Johanneskirche (Buch 11)
-Trauungen 1809-1839
+Trauungen 1809-1849
 https://www.archion.de/de/viewer/churchRegister/281140?pageId=38794104
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stunde
+Erstellt in ca. 2,5 Stunde
 Mai 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -722,3 +723,327 @@ Karl Gottlieb Gottschalk
 Johann August Dörschel
 Johann Christian Heinrich Kind
 Johann Gotthelf Marx
+----------------
+1840
+Johann Friedrich August Lansky
+Carl Traugott Bach
+Johann Gottlob Hanisch
+Johann Gottfried Franke
+Karl Gottlieb Thiele
+----------------
+Johann Gottfried Müller
+Karl Ernst Rühle
+Christian Gottlieb Uhlmann
+August Volkmar Zimmermann
+Johann Gottfried Gehre
+----------------
+Friedrich Hermann Müller
+Johann Gottlieb Mahnert
+Johann Gottlieb Adam
+Franz Ferdinand Wilke
+----------------
+Hans Karl Friedrich Manteuffel
+Friedrich Wilhelm Sachse
+Christian Gottlob Vetter
+Johann Christian Gottfried Beulich
+Karl Gottlieb Wendsche
+----------------
+Carl Gottlob Krüger
+Karl August Opitz
+Karl Gottlob Tenner
+Johann Gottlieb Borsdorf
+Karl Gottfried Kiesling
+----------------
+Karl Gottfried Birke
+1841
+Johann Gottlob Prößer
+Karl Friedrich Gumlich
+----------------
+Karl Gottfried Schumann
+Karl Gottlieb Metzsching
+Johann Gottlob Behnisch
+Johann Gottfried Birkner
+----------------
+Christian Christlieb Schnabel
+Johann Gottlieb Gey
+Friedrich Gottlob Birke
+Johann Gottlieb Klunker
+----------------
+Karl Heinrich Reinhardt
+Friedrich August Kretzschmar
+Karl Gottlob Zabel
+Karl Wilhelm Kleeberg
+----------------
+Johann Karl Gottlob Heinrich Adam
+Karl Gottlob Grafe
+Karl Gottlob Grille
+August Gottfried Fritzsche
+----------------
+Karl Gottlob Heinrich Grafe
+Karl Theodor Hammer
+Johann Gottlob Thieme
+Johann Gotthelf Braune
+----------------
+Karl Gottlob Schumann
+Karl Gottlob Kirstein
+Johann Ernst Seyfert
+1842
+Johann Carl Gottlieb Rösler
+----------------
+Friedrich Wilhelm Hörig
+Anton David Balthasar
+Gotthelf Traugott Fleischhauer
+Karl Theodor Emil Zeidler
+----------------
+Johann Heinrich Eduard Clauß
+Michael Pech
+Johann Karl Traugott Funke
+Wilhelm August Röder
+Karl Adolph Claußq
+----------------
+Karl August Dietze
+Karl Gottlieb Petzsch
+Gottfried Heinrich Marx
+Johann Heinrich Ferdinand Kurth
+Johann August Reyer
+----------------
+Johann Gottfried Rentzsch
+Karl Heinrich Moritz Birkenfeld
+Friedrich Wilhelm Grille
+Friedrich Adam Köppe
+Johann Gottfried Reiche
+----------------
+Karl Friedrich Frohberg
+Friedrich Wilhelm Frenzel
+Johann Carl Gottlob Gebauer
+Karl Gottlieb Schumann
+----------------
+Johann Gottlob Lange
+Johann Gotthelf Leuschner
+Karl Gottlob Walther
+1843
+Karl Gotthelf Gäbisch
+----------------
+Johann Gottlieb Funke
+Johann Paul Trache
+Johann Friedrich Wilhelm Münnich
+Karl Gottfried Lauterbach
+----------------
+Karl August Tränkner
+Martin Petscho
+Johann Karl Gottlob Blobel
+Johann Gottfried Ballack
+----------------
+Karl August Leuteritz
+Karl Gotthelf Juhr
+Friedrich Wilhelm Adam
+Christlieb Friedrich August Bahrmann
+----------------
+Karl Gotthold Wittig
+Johann Gottfried Bormann
+Karl August Ernst Thämelt
+Friedrich Ernst Poitzsch
+----------------
+Traugott Ernst Bernhard
+Johann Gottfried Tenner
+Ernst Albert Röhr
+Georg Eduard Philipp
+----------------
+Traugott Leberecht Schumann
+Karl August Gläser
+Ludwig Eduard Martin
+Friedrich August Wilhelm Schumann
+----------------
+Karl Gottfried Schulze
+Johann Friedrich Meinert
+Friedrich Traugott Beger
+Christian Gottlob Zabel
+----------------
+Ernst Friedrich Claus
+Johann Friedrich Traugott Beyrich
+Karl August Kotte
+Johann Gottlieb Zimmer
+----------------
+1844
+Karl Friedrich Wilhelm Seifert
+Carl Gottlob Wanke
+Karl August Grafe
+Karl Heinrich Thiele
+----------------
+Friedrich Traugott Sohr
+Carl Gottfried Adolph Döbold
+Franz Ferdinand Clauß
+Karl Gottlob Börner
+----------------
+Friedrich Traugott Rentsch
+Karl Gottlieb Wustlich
+Carl August Hase
+----------------
+Friedrich Wilhelm Schrempel
+Johann Traugott Heinrich Költz
+Karl Gottlieb Fritzsche
+Johann Friedrich Brand
+----------------
+Friedrich Karl Walther
+1845
+Friedrich Wilhelm Faulwaßer
+Johann Friedrich Hanisch
+----------------
+Traugott Leberecht Gerbert
+Samuel Golde
+August Wilhelm Kirsten
+Karl Gottlieb Bähr
+----------------
+Johann Karl Gottlob Dekow
+Gottfried Talkenberger
+Friedrich August Vollsack
+Karl Christian Umlauft
+Carl August Leonhardt
+----------------
+Gotthelf Leberecht Philipp
+Johann Carl Wilhelm Börner
+Carl Gottlob Klingner
+Carl Gottlob Stolle
+----------------
+Johann August Münnich
+Johann Christian Gottlieb Schneider
+Carl Traugott Kern
+Friedrich Carl Gottlob Borsdorf
+----------------
+Johann Heinrich Herrmann
+Johann Wilhelm Hausdorf
+Karl Gottlob Thiele
+Heinrich Ernst Starke
+----------------
+Carl Gottlieb Thiele
+Johann Wilhelm Böhme
+Carl Gottlob Jacob
+----------------
+1846
+Johann Wilhelm Hausdorf
+Johann Friedrich Wilhelm Kluge
+Christian Gottlieb Andrich
+Traugott Leberecht Kost
+----------------
+Johann Gottlob Rühle
+Carl Gottlob Leberecht Klunker
+Johann Gottlob Schuster
+Johann Gottfried Eichler
+----------------
+Johann Gottlob Zabel
+Carl Gottlob Kühne
+Johann Carl Gottlob Johne
+Johann Traugott Berger
+----------------
+Johann Gottfried Stolle
+Carl Traugott Süßemilch
+Johann Friedrich Eichhorn
+Carl Gottlob Kießling
+Johann Christian Pahlitzsch
+----------------
+Carl Friedrich Hegewald
+Johann Gottlieb Jacob
+Hermann Trepte
+Johann Gottfried Zömisch
+----------------
+Johann August Tepold
+August Wilhelm Küster
+Carl Friedrich Wilhelm Böhlisch
+Hans Woldemar Scheufler
+----------------
+Carl Gottlob Behnisch
+Johann Heinrich Jähnichen
+Carl August Richter
+Johann Gottlob Brendel
+Carl Gottlob Schulze
+----------------
+Carl Friedrich Moritz Seiler
+Gotthelf Leberecht Schumann
+1847
+Carl Friedrich Jähnichen
+Johann Gottlieb Carl Hofmann
+Johann Gottlob Ueschner
+----------------
+Johann Conrad Oette
+Christian Gottlieb Grimmer
+Christian Wilhelm Harzbecker
+Friedrich Gotthelf Rentzsch
+Carl Traugott Sylbe
+----------------
+Ernst Ludwig Benigsen
+Friedrich Traugott Umlauft
+Johann Friedrich Wilhelm Stecher
+Ernst August Hornis
+----------------
+Johann Gottlieb Striegler
+Gottfried Leberecht Gäbisch
+Johann Carl Gotthelf Hönicke
+Friedrich Wilhelm Schrempel
+Friedrich Gotthelf Melzer
+Johann Carl Traugott Funke
+----------------
+Carl Gottlieb Ebert
+Carl Wilhelm August Nacke
+Carl Gotthelf Förster
+----------------
+1848
+Carl Christian Pfützner
+Johann Ferdinand Röber
+Christian Gottlieb Roitzsch
+Carl Gottlob Clauß
+Carl Gottlob Tutzsch
+----------------
+Franz August Helbig
+Carl Friedrich August Berger
+Carl Gottlieb Leberecht Leuteritz
+Friedrich August Meier
+Johann Gotthelf Grille
+----------------
+Johann Carl Gottlob Wittig
+Friedrich Christian Petzsch
+Friedrich Wilhelm Dierchen
+Heinrich Wilhelm Heller
+Johann Gottfried Tronicke
+----------------
+Johann Gottfried Dekow
+Carl Gottlob Mißbach
+Christian Carl Fischer
+Johann Christian Krause
+----------------
+Johann Gotthelf Zocher
+1849
+Johann Gottfried Zschieschang
+Johann Daniel Benedix
+Johann Gottfried Kühne
+----------------
+Johann Traugott Grabs
+Johann Friedrich Wilhelm Weser
+Carl Gottlob Mai
+Carl Friedrich Reiche
+----------------
+Carl August Täubert
+Friedrich August Steiniger
+Johann Gottfried Haase
+Johann Gotthelf Zieger
+Carl Gottlob Thiele
+----------------
+Friedrich Wilhelm Scheiblich
+Wilhelm Ernst Ludwig
+Johann Carl Friedrich Hammer
+Johann Heinrich Strohbach
+Johann Gotthelf Müller
+Friedrich August Roßberg
+----------------
+August Leberecht Flemming
+Carl Heinrich Zabel
+Johann Gottfried Klingner
+Carl Wilhelm Lehmann
+Johann Wilhelm Prater
+----------------
+Johann Gottlob Haase
+Friedrich Wilhelm Fritzsche
+August Gebauer
+Ernst Heinrich Gotthelf Klunker
+----------------
+Carl Gottlob Rotzsch
+Carl Friedrich Ernst Schleuber
