@@ -1,5 +1,5 @@
 Neckanitz (Buch 5)
-Trauungen 1803-1839
+Trauungen 1803-1846
 https://www.archion.de/de/viewer/churchRegister/283191?pageId=39155504
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ Mai 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -493,3 +494,99 @@ Carl Wilhelm Springefeld
 ----------------
 David Gottlob Eulitz
 Johann Carl Scheibe
+1840
+Johann Gotthelf Weber
+----------------
+Johann Christian Gottlieb Lippert
+Carl Gottfried Reichel
+Carl Heinrich Schröter
+David Traugott Winkler
+Johann Christian Gottlieb Merker
+----------------
+Friedrich Wilhelm Richter
+1841
+Ernst Wilhelm Brühl
+Johann Gottlob Ernst Lippert
+----------------
+Johann Gottfried Steude
+Christian Gottlieb Frenzel
+Johann Gottlieb Altendorf
+Friedrich Gottlieb Gast
+Carl Gotthelf Leberecht Trinitz
+----------------
+Carl Gottlieb Reichel
+Friedrich Wilhelm Schumann
+Johann Gottlieb Schneider
+Carl Gottlieb Petzhold
+----------------
+Johann Gotthelf Scheibe
+1842
+Friedrich Wilhelm Träger
+Friedrich August Hühndorf
+----------------
+Eduard Robert Kunze
+Carl Friedrich Gast
+Friedrich August Ferdinand Bernhardt
+Friedrich August Lunkwitz
+----------------
+Carl Gottlieb Zieger
+Johann Gottlieb Hennig
+Johann Gottlieb Brauer
+Johann Carl Gottlob Münch
+Carl Heinrich Haubold
+Carl Gottlob Steude
+----------------
+Johann Gotthelf Träger
+1843
+Johann Gottlieb Jast
+Carl Gottlieb Schmidt
+Friedrich Wilhelm Blümich
+----------------
+Christian Friedrich Matthes
+Johann Gottlob Sachse
+Carl Gotthelf Petermann
+Johann Carl Gebhardt
+Johann Gottfried Böhme
+----------------
+Traugott Helm
+Carl Gottlieb Gast
+Johann Christlieb Reinhardt
+Friedrich Wilhelm Naumann
+Carl Gottlob Saupe
+----------------
+1844
+Johann Carl Gotthelf Eulitz
+Ernst Friedrich Graßelt
+Carl Gottlieb Weber
+Carl August Ferdinand Günsel
+Johann Heinrich Wilhelm Zieger
+----------------
+Johann Gottlieb Hölzig
+Gottlob Eduard Wackwitz
+Carl Wilhelm Ehregott Burkhardt
+Carl Gottlieb Huhn
+Johann Traugott Hempel
+----------------
+Franz Anton Pöschel
+1845
+Johann Wilhelm Ernst Lunkwitz
+Johann Gottlieb Ulbrich
+----------------
+Carl Gottlob Fleischhauer
+Johann Gottfried Neukirch
+Johann Friedrich Anker
+Carl Heinrich Haubold
+----------------
+Johann Gottlieb Roßberg
+Carl Gottlieb Pinker
+Johann Gottlieb Kühne
+----------------
+1846
+Friedrich Wilhelm Müller
+Christian Gottfried Hennig
+Johann Ferdinand Blümich
+Ernst Maximilian Dielitzsch
+----------------
+Heinrich Gottlieb Liebe
+Gotthelf Heinrich Triebe
+Carl Friedrich Heinrich Rudolph

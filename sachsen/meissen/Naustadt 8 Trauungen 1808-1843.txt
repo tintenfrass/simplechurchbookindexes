@@ -1,5 +1,5 @@
 Naustadt (Buch 8)
-Trauungen 1808-1839
+Trauungen 1808-1843
 https://www.archion.de/de/viewer/churchRegister/283176?pageId=39153226
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ Mai 2024
 Juli 2024
 Oktober 2024
 Novemeber 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -817,3 +818,119 @@ Johann Gotthelf Leberecht Sönitz
 Carl Wilhelm Gierisch
 Johann Traugott Neßmann
 Johann Gottlieb Däbler
+----------------
+1840
+Friedrich Wilhelm Rothe
+Johann Gottlob Roitzsch
+Johann Traugott Naumann
+Carl Gottlieb Starke
+Carl Wilhelm Hebeld
+----------------
+Johann Gottlob Töpel
+Carl Gottlob Tränkner
+August Leberecht Horn
+Andreas SchurzuchHippatzsch
+Gottlieb August Wolf
+----------------
+Johann Christoph Heinrich Krause
+Johann Carl Gottlieb Starke
+Carl Gottlob Petzschke
+Carl Gottlieb Schütze
+Johann Gottlob Hummitzsch
+Christian Gottlob Zimmermann
+----------------
+Carl Gottlob Schubert
+Heinrich Wilhelm Voigt
+----------------
+1841
+Carl August Elgner
+Carl Gottlieb Clauß
+Johann Herrman Ohmicher
+Johann Traugott Grießbach
+Johann Gottlieb Klemm
+----------------
+Friedrich Carl Gottlieb Deich
+Johann Gottlob Schmidt
+Johann Gottlob Schubert
+Carl Gottlob Meier
+Carl Wilhelm Gaunack
+----------------
+Johann Gottlob Molke
+Friedrich August Winter
+Johann Traugott Leberecht Angermann
+Carl August Kost
+Johann Friedrich Berger
+----------------
+Johann Carl Gottlob Marx
+Traugott Wilhelm Rothe
+Carl Gottlob Riemer
+Moritz Herrmann Lyon
+Carl Gottlob Hempel
+----------------
+1842
+Christian Friedrich Weichelt
+Carl Gottlob Hahn
+Johann Traugott Hoyer
+Ernst Friedrich Paul
+Carl August Leberecht Hummitzsch
+----------------
+Ernst Wilhelm Grießbach
+Carl Adolph Claus
+Johann Gottlob Jünger
+Johann Christlieb Beuchel
+Carl Gottlob Hanschmann
+----------------
+Johann Christian Gottlieb Schumann
+Johann Carl Gottlieb Mütterlein
+Johann Gottlieb Müller
+Johann Carl Gottlob Luther
+Johann Gottlob Schumann
+Carl Gottlob Kohl
+----------------
+Gottfried Eichhorn
+Johann Gotthelf Petzschke
+Carl Wilhelm Klinkicht
+Johann Gottlob Franz
+Johann Traugott Grießbach
+Johann Traugott Miersch
+----------------
+1843
+Friedrich Wilhelm Hummitzsch
+Johann August Döring
+Gottlob Benjamin Stephan
+Carl Gottlieb Lange
+August Leberecht Borsdorf
+----------------
+Carl Heinrich Rötzsch
+Carl Gottlieb Schiffner
+Johann Christian Mehlig
+Johann Gottlieb Joseph Junghanns
+Carl Eduard Herrmann
+----------------
+Leberecht Wilhelm Rothe
+Johann Carl Gottlob Winkler
+Carl Gottlieb Schirmer
+Johann Gottfried Weber
+Carl Gottlob Adam
+Johann Carl Gottlob Wirth
+----------------
+Johann Gottlieb Ranze
+Johann Traugott Leberecht Käppler
+Carl Gottfried Wilhelm Nake
+Johann Carl Gottlob Döring
+Carl Gottlob Tränkner
+Carl Gottlieb Friedrich
+----------------
+Julius Hickhardt
+Carl Gottlob Eiselt
+Johann Gottlieb Ernst Walther
+Friedrich Gottlob Moritz Franke
+Johann Traugott Schmidt
+----------------
+Johann Gottfried Philipp
+Johann Christoph Zimmermann
+Ernst August Albrecht
+Christian Leberecht Keller
+Carl Gottlieb Burkhardt
+Johann Christian Thalheim
+Julius Herrmann Fischer

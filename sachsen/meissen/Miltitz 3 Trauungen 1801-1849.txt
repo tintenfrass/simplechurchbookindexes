@@ -1,5 +1,5 @@
 Miltitz (Buch 3)
-Trauungen 1801-1839
+Trauungen 1801-1849
 https://www.archion.de/de/viewer/churchRegister/283156?pageId=39147935
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ Mai 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -253,3 +254,83 @@ Johann Gotthelf Fehrmann
 Johann Gottlob Steude
 Johann Gottfried Fischer
 Johann Christian Gottlieb Rentsch
+----------------
+1840
+Johann Gottlieb Gabisch
+Christian Friedrich Wilhelm Pietzsch
+Johann Christian Ferdinand Birkner
+Johann Traugott Vetter
+Johann Gottlieb Schmorll
+Carl Gotthelf Praßer
+Carl Heinrich Lantsch
+Adolph Friedrich Trepte
+Carl August Mai
+----------------
+1841
+Carl Gottlob Junghans
+Carl Gottlob Lützner
+Johann Friedrich August Wachs
+Johann Gottlob Weinhold
+1842
+Johann Gottfried Ostermai
+Johann Carl Leberecht Ruschig
+Johann Gottlob Leberecht Funke
+----------------
+Robert Herrmann Nestler
+Carl Gottlieb Herrfurth
+Johann Gotthelf Knäbel
+Gottlieb Leberecht Köhler
+Carl Friedrich Tutzschky
+Johann Gotthelf Kleemann
+1843
+Johann Gottlieb Funke
+Johann Christian Lommatzsch
+----------------
+Johann Gottfried Ueschner
+Johann Gottfried Lützner
+Gotthelf Ferdinand Geißler
+Carl Gottlob Laue
+Carl Friedrich Rehn
+Carl Gottlob Klösert
+Johann Gottlieb Gühne
+1844
+Johann Gottlob Leberecht Funke
+----------------
+Johann Friedrich Biehayn
+Carl Gottlob Arnhold
+Johann Gottlieb Legler
+Gottlieb Friedrich Harder
+1845
+Ferdinand Gottlieb Fischer
+Johann Carl Gottlieb Gebhardt
+Carl Heinrich Urban
+Carl Gottlob Weber
+----------------
+Friedrich Wilhelm Bellmann
+Carl Gotthelf Geißler
+Carl Wilhelm Voigt
+1846
+Carl Wilhelm Harzbecker
+Heinrich Wilhelm Schreiber
+Christian Leberecht Meister
+----------------
+Gottlob Leberecht Geißler
+Matthias Winzer
+Georg August Louis Wilke
+1847
+Johann Gotthelf Ernst Wolf
+Carl Gottlob Rentzsch
+Johann Gotthelf Schulze
+----------------
+1848
+Carl Gottlieb Möbius
+Carl Traugott Findeisen
+Carl Gotthelf Geißler
+1849
+Johann Gottfried Arnhold
+Friedrich Wilhelm Rehn
+Franz Eduard Damm
+----------------
+Carl Gottlieb Tottwitz
+Carl Eduard Braun
+Johann Gotthelf Walther

@@ -1,5 +1,5 @@
 Niederau (Buch 4)
-Trauungen 1810-1839
+Trauungen 1810-1849
 https://www.archion.de/de/viewer/churchRegister/283209?pageId=39158623
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -230,3 +231,113 @@ Johann Gottfried Hecht
 ----------------
 Johann Christian Mohn
 Johann Friedrich Wilhelm Sachse
+1840
+Johann Gottlob Rändler
+Carl Gottlieb Melzer
+Theodor Wüstner
+----------------
+Carl Gotthelf Krause
+Carl Christian Moritz Bertram
+Johann Gottfried Hüttig
+1841
+Gottfried Kotscher
+----------------
+Johann Traugott Grießbach
+Johann Traugott Müller
+Johann Carl Gottlob Beuchel
+Christian Gotthelf Richter
+1842
+Johann Gottlieb Frenzel
+----------------
+Johann Samuel Grimmer
+Theodor Wüstner
+Johann Gottfried Fichtner
+Johann Gottfried Haase
+Johann Christian Bäßler
+Carl Gottlob Thieme
+----------------
+Carl Gottlieb Michael
+Johann Gottlob Golde
+Carl Gottlieb Petzsch
+Gottfried Carl Freytag
+Johann Christian Drache
+Johann Christlieb Tutzsch
+----------------
+1843
+Johann Samuel Lommatzsch
+Christian Gottlieb Sparmann
+Johann David Hofmann
+Heinrich Wilhelm Haferburg
+Carl Gottlob Tutzsch
+Carl Gottlob Dürichen
+----------------
+Carl Gottlob Bier
+1844
+Friedrich Traugott Sohr
+Johann Samuel Mögel
+Johann Friedrich Wilhelm Böhlig
+Carl Gottlob Starke
+Johann Gottlob Schneider
+----------------
+Christian Meier
+Johann Friedrich Rühle
+Johann August Tischer
+Johann Gottlob Scheffler
+1845
+Johann Gottfried Marx
+Carl Christoph Rotzsch
+----------------
+Johann Christian Weinert
+Christian Gottlieb Dörr
+Carl Gottlob Richter
+Carl Gottlieb Cubasch
+Carl Traugott Dietze
+1846
+Friedrich August Sachse
+----------------
+Johann Gottlob Herrmann
+August Wilhelm Döring
+Johann Carl Gottfried Schönberg
+Johann Gottfried Schade
+Carl Gottfried Berger
+Carl Gottlob Kießling
+----------------
+Christian Gottlieb Krause
+Johann Gottlob Döhnert
+Johann Gottlob Zocher
+Johann Gottlob Starke
+1847
+Gottfried Schumann
+Carl Gottlob Grimmer
+----------------
+Christian Gottlieb Grimmer
+Johann Michael Rox
+Gotthelf Leberecht Fritzsche
+Johann Gottlob Hausmann
+Johann Traugott Rühle
+Heinrich Gotthelf Melzer
+----------------
+1848
+Johann Gottlieb Keil
+Johann Gottfried Kohkisch
+Carl Gottlob Tutzsch
+Carl Gottlob Wolf
+Heinrich Ernst Seifert
+----------------
+Johann Gottlob Krüger
+Johann Carl Gottlob Müller
+Johann Christlieb Fiedler
+Traugott Leberecht Seyferth
+Johann Gottlob Sachse
+Johann Gottfried Melzer
+----------------
+Wilhelm Ernst Brödling
+Johann Gottfried Thomas
+1849
+Ernst Julius Nagel
+Ernst August Binner
+Carl Ernst Niese
+----------------
+Carl Gottlieb Helbig
+Johann Carl Gottlob Schöne
+Johann Gottlob Wilhelm
