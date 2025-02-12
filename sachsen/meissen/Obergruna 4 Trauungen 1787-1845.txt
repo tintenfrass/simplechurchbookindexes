@@ -1,17 +1,18 @@
 Obergruna (Buch 4)
-Trauungen 1787-1839
+Trauungen 1787-1845
 https://www.archion.de/de/viewer/churchRegister/289468?pageId=40224865
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stunde
+Erstellt in ca. 2 Stunden
 September 2023
 Mai 2024
 Juli 2024
 Oktober 2024
 Novemeber 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -742,3 +743,114 @@ Johann Gotthelf Kunze
 Johann Traugott Berger
 Johann Gottlob Paul
 Carl Gottlieb Gottschalk
+----------------
+1840
+Carl Gottlob Beier
+Carl Gottlob Simon
+August Friedrich Hänel
+Johann Daniel Straube
+Johann Gottfried Schade
+Johann Daniel Schmieder
+Friedrich August Trautmann
+August Friedrich Büttner
+Carl Samuel Schönberg
+Johann Gottlieb Baumhard
+----------------
+1841
+Carl Gottlieb Morgenstern
+Johann Gottlieb Kinzel
+Carl Gottfried Tscheil
+Johann Carl Gottlob Fleischer
+Johann Traugott Fritzsche
+Carl Gottlieb Steier
+Carl Gottlob Tschömmler
+Johann Christian Simon
+Johann Daniel Straube
+Carl Gottfried Straube
+----------------
+Gotthold Friedrich Schubert
+Carl Friedrich Frohs
+Ehrenfried Wilhelm Wenke
+Constant Ferdinand Hofmann
+Carl August Wätzig
+Johann Gottlob Weinhold
+Johann Heinrich Franz Büttner
+----------------
+1842
+Carl Gottlob Röde
+Johann Gottlieb Kittler
+Johann Gabriel Straube
+Friedrich Wilhelm Peukert
+Carl Heinrich Metzler
+Carl Gottlob Rietzschel
+Carl August Günther
+Johann Gottfried Richter
+Johann Carl Gottlob Döring
+Friedrich Wilhelm Döring
+Johann Carl Gottlob Bretschneider
+----------------
+Carl Gottlob Stelzer
+Christian Gottlob Pritz
+Carl Gottfried Geißler
+Johann Wilhelm Heinrich Gottschalt
+Carl Friedrich Wilhelm Illgen
+Johann Heinrich Gottlob Wiesner
+Johann Christian Friedrich Straube
+Carl Friedrich Lommatzsch
+Friedrich Wilhelm Thimmel
+----------------
+Johann Gotthelf Hennig
+Johann Gottfried Wüstner
+1843
+Johann Gottlieb Halm
+Johann Carl Ernst Scheunert
+Johann Christian Straube
+Johann Traugott Friedrich Matthäus
+Carl Adolph Illgen
+----------------
+Friedrich Wilhelm Küttner
+Christian Gottlieb Reichel
+Daniel Donat
+Carl Heinrich Hermann
+Johann Daniel Beier
+Carl August Hammer
+Carl Heinrich Sitter
+Johann Traugott Leberecht Gebhard
+Carl August Schmidt
+Carl Gottlieb Lantzsch
+----------------
+Carl Gottlieb Henker
+Johann Gotthelf Lutze
+Johann Gottlieb Meyer
+1844
+Carl Traugott Geisler
+Carl August Illgen
+Gottfried Zschoche
+Carl August Roetzsch
+Carl Gottfried Kaiser
+----------------
+Julius Herrmann Keller
+Carl Ferdinand Telchner?
+Carl Daniel Weise
+Carl August Dehne
+Johann Samuel Starke
+Carl Gottlieb Bagmann
+Ephraim Gottlieb Silbermann
+Johann Carl Gottlob Oehmichen
+Johann Christian Simon
+Carl Gottlob Henker
+Gottlob Salomon Schulze
+----------------
+Johann August Schramm
+Johann Traugott Schlorke
+Karl Gottlob Wilhelm Müller
+1845
+Christian Friedrich Bachmann
+Johann Gottlob Hähnel
+Johann Gottfried Fischer
+Maximilian Moritz Kirbach
+----------------
+Johann August Schramm
+Ferdinand Herrmann Fischer
+Carl Traugott Franke
+Friedrich Moritz Wolf

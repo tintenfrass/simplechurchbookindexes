@@ -1,5 +1,5 @@
 Oberau (Buch 4)
-Trauungen 1800-1839
+Trauungen 1800-1848
 https://www.archion.de/de/viewer/churchRegister/289461?pageId=40223208
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Mai 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -277,3 +278,66 @@ Johann Christian Sachse
 Johann Traugott Weinhold
 Johann Carl Gottlob Müller
 Samuel Schlechte
+----------------
+1840
+Johann Gottlieb Stolle
+Christian Gottlieb Fichtner
+Johann Gottfried Ockert
+Friedrich August Mielsch
+Christian Gottlob Gliemann
+----------------
+Christian Gottlieb Rothe
+Johann Gottlieb Vogel
+Christian Friedrich Apelt
+Gottlieb Beulich
+Johann Gottfried Starke
+Johann Christlieb Sommer
+----------------
+Johann Gottfried Leitritz
+1841
+Gottfried August Grafe
+Johann Christian Thieme
+Carl August Burkhardt
+Johann Georg Melzer
+----------------
+1842
+Friedrich August Zettwitz
+Carl Traugott Kern
+Johann Gotthelf Thiele
+1843
+Johann Gottlieb Beege
+Carl Gottlob Dürichen
+Carl Ludwig Alexander PawelRammingem
+----------------
+Johann Gottlieb Rühle
+Carl Gotthelf Stephan
+1844
+Johann Gottfried Schlechte
+Friedrich August Mehlig
+Johann Christian Gottlieb Rühle
+Johann Gottlob Rühle
+----------------
+1845
+Johann Christian Starke
+Carl Ludwig Battmann
+Carl Gottlieb Hirschnitz
+1846
+1847
+Friedrich Wilhelm Zschoche
+Friedrich Samuel Grille
+----------------
+Carl Eduard Scheibe
+Friedrich Traugott Rühle
+Carl August Adam
+1848
+Gottlob Heinrich Grille
+Johann August Kupper
+----------------
+Johann Gottfried Rothe
+Joseph Deutz
+Johann Carl Gottlieb Sachse
+Johann Gotthelf Gliehmann
+Carl Gottlieb Albrecht
+----------------
+Johann Gottlob Rothe
+Ernst Eduard Richter

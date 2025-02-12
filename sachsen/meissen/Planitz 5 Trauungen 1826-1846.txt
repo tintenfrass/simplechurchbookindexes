@@ -1,5 +1,5 @@
 Planitz (Buch 5)
-Trauungen 1826-1839
+Trauungen 1826-1846
 https://www.archion.de/de/viewer/churchRegister/289475?pageId=40226607
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -177,3 +178,98 @@ Louis Gustav Wolf
 Johann Traugott Treppt
 ----------------
 Gottlob Friedrich Müller
+1840
+Christian Gottlieb Müller
+----------------
+Ernst Gustav Beuß
+Friedrich Wilhelm Lorenz
+Johann Carl Gottlob Starke
+----------------
+Johann Karl Gottlob Hörig
+Karl Gotthelf Striegler
+Heinrich Adolph Steiger
+----------------
+Carl Friedrich Funke
+Johann Gottlieb Riemer
+Johann Gottlieb Oehmichen
+----------------
+Friedrich Julius Steiger
+Johann Gottlob Schubert
+Ferdinand Heinrich Lommatzsch
+----------------
+1841
+Johann Gottlob Krämer
+Johann Friedrich Wilhelm Ziegenhals
+Johann Gotthelf Zieger
+----------------
+Carl August Buchert
+Carl Gottlob Förster
+Johann Gottlieb Stoerl
+----------------
+Johann Gottlieb Sorge
+Carl Gottlob Kirstein
+----------------
+1842
+Carl Gottfried Starke
+Gottlieb Ferdinand Roitzsch
+Ernst Wilhelm Griesbach
+----------------
+Carl Gottlob Merzdorf
+Johann Wilhelm Lanzsch
+Johann Gottlieb Kiesler
+----------------
+Friedrich Wilhelm Hauptmann
+Johann Carl Gottlieb Schneider
+----------------
+1843
+Carl Friedrich Lademann
+Christian Wilhelm Jentzsch
+Friedrich Wilhelm Starke
+----------------
+Carl Friedrich Flohr
+Carl Traugott Pinker
+Carl Gottlob Gruetze
+----------------
+Carl Gottlob Kaeseberg
+Carl Gottlob Förster
+Johann Christian Ehregott Lehmann
+----------------
+1844
+Carl Friedrich Hanitzsch
+Johann Gottfried Jentzsch
+Friedrich August Wilhelm Schuster
+----------------
+Johann Gotthelf Schmidt
+Johann Christlieb Mehnert
+----------------
+1845
+Friedrich Eduard Oehmichen
+Christian Gottlieb Heyde
+Johann Carl Gottfried Wiede
+----------------
+Johann Gottlieb Winkler
+Christian Wilhelm Geitzsch
+Johann Gottlob Eberhardt
+----------------
+1846
+Christian Gottlob Heyde
+Johann Carl Gotthelf Otto
+Carl Gottfried Roh
+----------------
+Gottlob Friedrich Reymann
+Carl Gottfried Milde
+Carl Wilhelm Beuchler
+----------------
+Johann Gottfried Wiede
+Johann Carl Gottlieb Wittig
+Carl Wilhelm Starke
+----------------
+Julius Andreas Keeberg
+Friedrich Wilhelm Krauspe
+Friedrich Gotthelf Junghanns
+----------------
+Carl Gottlob Bindig
+Carl Traugott Richter
+Carl August Vogel
+----------------
+Carl Gottlob Hummel
