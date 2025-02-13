@@ -1,5 +1,5 @@
 Reinsberg (Buch 2)
-Trauungen 1800-1839
+Trauungen 1800-1849
 https://www.archion.de/de/viewer/churchRegister/289497?pageId=40272581
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -11,6 +11,7 @@ Mai 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -478,3 +479,161 @@ Martin Gottlob Pinkert
 Johann Friedrich Wilhelm Wätzig
 Carl Gottlieb Stiel
 Johann Friedrich August Lobin
+----------------
+1840
+Johann Friedrich Hofmann
+Carl Gottlieb Jost
+Johann Gotthelf Kleenberg?
+Johann Gottlob Kanpt?
+Johann Gottlieb Adolph Marx
+Johann Gottlob Kempe
+Johann Friedrich Wilhelm Dietrich
+Friedrich Traugott Hecht?
+Carl Friedrich Tamm
+----------------
+Johann Gottlob Trenkert?
+Gotthelf Ernst Klengel
+Carl August Lantzsch
+Carl Gottfried Döhnert
+Friedrich August Trautmann
+Carl Gottlob Wätzig
+Johann Carl Gottlob Gebhardt
+Carl Gottfried Pomsel
+Karl Gottlob Grahl
+----------------
+1841
+Carl Gotthard Peul
+Carl Gottlieb Böhme
+Carl Gottfried Gruhl
+Johann Gottlieb Wilhelm Günther
+Karl Gottlob Ludwig
+Karl Friedrich Kraetzel
+Traugott Leberecht Niederbackr
+Carl Gottlieb Ptzold
+Friedrich August Spamann
+----------------
+Friedrich Leberecht Wolf
+Eduard Erdmann
+Carl Gottlob Schaaf
+Friedrich Ludwig Wolf Oswald Schönberg
+August Friedrich Wilhelm Berg?
+Johann Gottfried Schubert
+Friedrich Ferdinand Louis Untze
+Carl Gottlob Günther
+Carl August Waetzig
+----------------
+Johann Carl Gottfried Ernst Thamm
+Friedrich Wilhelm Stumpf
+1842
+Carl Gottlob Damm
+Johann Gotthelf Deißig
+Johann Gottlieb Simon
+Johann Traugott Leberecht Funke
+Johann Carl Gottlob Bretschneider
+Carl Friedrich Lommatzsche
+Carl Traugott Köhler
+----------------
+1843
+Johann Gotthelf Krüger
+Friedrich Wilhelm Dachsel
+Carl August Wilhelm Kirbach
+Carl Friedrich Seydel
+Friedrich Maximilian Ullrich
+Carl Friedrich Grätschel
+Carl Friedrich Klenker
+Franz Eduard Rysel
+Johann Friedrich Gotthelf Gabriel
+----------------
+Johann Georg Dietrich
+1844
+Karl Gottlob Kramer
+Carl Wilhelm Bachmann
+Carl August Naumann
+Carl Adolph Ryßel
+Johann Samuel Starke
+Gottlob Leberecht Damm
+Karl August Werner
+August Leberecht Haubold
+----------------
+Johann Carl Gottlieb Sonnag
+Johann Gottlob Klinkig
+Johann Friedrich Reinard
+Johann Carl Gottlieb Bellmann
+Carl Heinrich Adolph Ficke
+1845
+Karl Gottlob Mann
+Carl Wilhelm Ernst Limbach
+Johann Carl Gottfried Sattler
+Gottlob Leberecht Schanze
+----------------
+Carl August Zenert
+Johann Friedrich August Berthold
+Carl August Lippmann
+Johann Carl Gottlob Ficker
+Carl Friedrich Riedel
+1846
+Johann Georg Kleeberg
+Carl August Stenzel
+August Leberecht Dietze
+Carl Gottlieb Schmieder
+----------------
+Carl Traugott Limbach
+Johann Gottlieb Sohrmann
+Johann Georg Starke
+Christian Traugott Heße
+Friedrich Ehrenreich? Schneider
+Carl Christian Bernhard
+Carl Gotthelf Ditrich
+Johann Gottlieb Robert Dathen?
+Carl August Bilz
+----------------
+Carl Gottlieb Erler
+Johann Gottlob Kempe
+Carl Gottlob Günther
+Christian August Hese
+1847
+Johann August Henschel
+Johann Gottlieb Koechler?
+August Friedrich Adolph Starke
+Friedrich Julius Pietzsch
+Johann Ferdinand Mosch
+----------------
+Carl Gottlieb Ernst Sonntag
+Johann Gottlob Hahnel?
+Friedrich Wilhelm Reiche
+Carl Gottlob Backofen
+Johann Gottlob Riedel
+Carl Gottlob Oehme
+Gustav Berthold
+1848
+Friedrich Wilhelm Ilgner
+Eduard Hahn
+----------------
+Carl Gottlieb Starke
+Carl Heinrich Wilhelm Döhnert
+Carl Wilhelm Marx
+Johann Traugott Wilhelm Jahn
+Gustav Adolph Flemming
+Heinrich Julius Beckert
+Johann Carl Gottlob Krüger
+Carl August Theodor Rysel
+Ernst Maximilian Rysel
+----------------
+Johann Salomo Liebschner
+Carl August Friedrich Baech?
+Johann Carl Friedrich Weber
+1849
+Carl Otto Welcke
+Friedrich Wilhelm Schneider
+A? Reinhold Treger
+Traugott Friedrich Herklotz
+Johann Friedrich Sohrmann
+----------------
+Johann Friedrich Sohrmann
+Franz Eduard Damm
+Carl August Bock
+Johann Heinrich Kühne
+Carl Gottfried Krüger
+Carl August Berger
+Carl Traugott Berger
+Friedrich Gottlob Thiele

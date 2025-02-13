@@ -1,5 +1,5 @@
 Rothschönberg (Buch 3)
-Trauungen 1801-1839
+Trauungen 1801-1849
 https://www.archion.de/de/viewer/churchRegister/289506?pageId=40233324
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -10,6 +10,7 @@ Mai 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -240,3 +241,77 @@ Johann Gottlieb Böhme
 Johann Heinrich Eichhorn
 Johann Carl Gottfried Kurth
 Carl August Gläser
+1840
+Christian Friedrich Fiedler
+Friedrich Wilhelm Oehlschlägel
+Johann Georg Lischke
+----------------
+1841
+Johann Carl Wilhelm Schubert
+Carl August Lindner
+Johann Gottfried Müller
+Johann Gottfried Roßberg
+Carl August Roitzsch
+Johann Gottlob Töpfer
+Heinrich Traugott Presch
+----------------
+Carl August Schumann
+1842
+Johann Gottlieb Schröter
+Heinrich Gustav Heinze
+Friedrich Wilhelm Anders
+Johann Carl Gottlieb Kretzschmar
+Christian Wilhelm Wittig
+----------------
+Carl Ernst Pötzsch
+Carl Gottlob Ziegenbalg
+1843
+Carl August Schubert
+Friedrich Wilhelm Tauchert
+Traugott Leberecht Schumann
+----------------
+Johann Christian Prasch
+Heinrich August Müller
+Traugott Leberecht Felber
+Gottlieb Adolph Wittig
+1845
+Johann Traugott Vetter
+Carl Adolph Schubert
+----------------
+Carl Gotthelf Heinrich Conrad
+Carl August Steiger
+1846
+Johann Adolph Prasch
+Christian Gottlieb Conrad
+Johann August Vetter
+----------------
+Gottfried Ehregott Schubert
+Johann Friedrich Wilhelm Steiger
+Johann Friedrich Eichhorn
+Carl Gottlieb Barth
+Johann Gottlieb Schumann
+Johann Christian Gärtner
+Carl Heinrich Hempel
+----------------
+1847
+Gottfried Wilhelm Schubert
+Johann Traugott Kunze
+Carl Heinrich Schmidt
+Heinrich Adolph Becker
+Carl Gottlob Leuschner
+Friedrich Wilhelm Jobst
+1848
+Johann August Leberecht Petzschke
+----------------
+Johann Friedrich Gottlob Münch
+Johann Friedrich Wilhelm Steiger
+Carl Friedrich Wilhelm Krieger
+Johann Gottfried Herrmann
+Johann Carl Pundermann
+----------------
+1849
+Carl Gottlob Schlorke
+Gotthelf Lebrecht Friedrich
+Carl August Hachenberger
+Johann Carl Gotthelf Schulze
+Johann Gottlieb Talkenberger

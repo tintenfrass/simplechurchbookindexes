@@ -1,5 +1,5 @@
 Siebenlehn (Buch 8)
-Trauungen 1800-1839
+Trauungen 1800-1840
 https://www.archion.de/de/viewer/churchRegister/289546?pageId=40244159
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -11,6 +11,7 @@ Mai 2024
 Juli 2024
 Oktober 2024
 Novemeber 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -832,3 +833,27 @@ Wilhelm Julius Clauß
 Friedrich August Wilhelm Häusler
 ----------------
 Camillo Friedrich Kreyß
+----------------
+1840
+Christoph Heinrich Gottlob Reimann
+Carl Gottlieb Rost?
+Moritz Wilhelm Schlegel
+Johann Gottlob Opitz
+Friedrich Wilhelm Haupt
+Carl Friedrich Tittmann
+Friedrich Ludwig Habenicht
+Carl Gottlieb Spindler
+Friedrich Wilhelm Tietze
+Carl Gottlieb Zschoke
+Friedrich August Eichler
+Carl Gottlob Wolf
+Christian Gottlieb Hoffmann
+Johann Ehregott Claus
+Johann Adam Reinhard
+Moritz Friedrich August Clausnitzer
+Carl Ludwig Putzger
+----------------
+Carl August Teichmann
+Friedrich Ernst Fehrmann
+August Ludwig Schubert
+Heinrich Gottfried Fleischer
