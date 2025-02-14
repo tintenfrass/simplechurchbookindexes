@@ -1,5 +1,5 @@
 Staucha (Buch 12)
-Trauungen 1820-1839
+Trauungen 1820-1840
 https://www.archion.de/de/viewer/churchRegister/289571?pageId=40248384
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Erstellt in ca. 1,5 Stunden
 Oktober 2024
 Novemeber 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -846,3 +847,49 @@ Johann Karl Gottlob Gall
 Johann Gotthelf Böhme
 Johann Gottfried Müller
 Friedrich Leberecht Wichmann
+----------------
+1840
+Gottfried Heinrich Münch
+Christian Gottlieb Marx
+Johann Gotthelf Knobus
+Johann Carl Gottfried Richter
+Johann Gottlieb Kaditz
+Johann Karl Gottlob Roßberg
+----------------
+Friedrich Gottlieb Kuntert
+Friedrich Wilhelm Vogel
+Karl Gottlob Förster
+Johann Gotthelf Weißhorn
+Friedrich Wilhelm Maul
+Christian Gottlieb Fuhrmann
+----------------
+Johann Heinrich Wilhelm Moritz
+Friedrich August Hänsel
+Christian Friedrich August Escherig
+Carl Heinrich Teichmann
+Johann Gottlieb Schuster
+Johann Gottlieb Zschippich
+----------------
+Alexander Johann Viehweg
+Gottlob Traugott Henzschel
+Hans Karl Schröter
+Johann Gottfried Schönert
+Johann Friedrich Wilhelm Pönitz
+Christian Gottlieb Hennig
+----------------
+Johann Carl Wilhelm Eulitz
+Karl Eduard Kraft
+Friedrich August Oehmichen
+Karl Friedrich Ebock
+Christian Gottlieb Weise
+Friedrich August Boden
+Johann Gottlob Müller
+----------------
+Johann Gottfried Gerhardt
+Karl Gottlob Görnitz
+Johann Christian Naumann
+Johann Gottlob Eulitz
+Karl Gotthelf Hamann
+Johann Gotthelf Jahn
+Samuel Friedrich Clauß
+Friedrich August Nicol

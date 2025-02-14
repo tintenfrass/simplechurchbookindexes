@@ -1,5 +1,5 @@
 Striegnitz (Buch 5)
-Trauungen 1818-1839
+Trauungen 1818-1849
 https://www.archion.de/de/viewer/churchRegister/289585?pageId=40250508
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Oktober 2024
 Novemeber 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -198,4 +199,132 @@ Johann Gottlob Rösler
 Johann Gotthelf Schneider
 Johann Gottlieb Klügel
 Christian Gottlieb Frohberg
-Carl Adolph Hüffel
+Carl Adolph Hüssel
+----------------
+1840
+Carl Gottlob Kießling
+Carl Gottlob Damm
+Johann Gottlieb Zimmermann
+Johann Gottlieb Fischer
+Christian Gotthelf Lindner
+Carl Gottlieb Schlimpert
+----------------
+Christian Gottlieb Holley
+1841
+Christian Gottlob Ziegs
+Carl Gottfried Fiedler
+Carl Wilhelm Voigt
+Carl Gottlieb Zettler
+----------------
+Johann Gottlob Wittig
+Johann Gottlieb Naake
+Carl Traugott Vogel
+1842
+Friedrich Wilhelm Rudolph
+Friedrich Wilhelm Jeschke
+Johann Gottfried Schwarze
+----------------
+Carl Friedrich Ulmann
+Johann Gottfried Ehrlich
+Carl Gotthelf Kippe
+Carl Wilhelm Reschich?
+Gottlieb Heinrich Haupt
+----------------
+1843
+Gottlieb Paul Schäfer
+Carl Friedrich Nicol
+Friedrich Ferdinand Hänsel
+Johann Traugott Walther
+Friedrich Gotthelf Müller
+----------------
+Carl Friedrich Fischer
+Johann Adolph Kippe
+Carl Gotthelf Mendel
+Gustav Adolph Reinhard
+Franz Fürchtegott Rost?
+----------------
+1844
+Carl Gottfried Schüller
+Carl Eduard Hensel
+Johann Gottlob Aurich
+Carl Gottfried Holey
+Christian Gottlieb Thielemann
+Gottlob Gustav Petermann
+----------------
+Carl Ernst Scheibe
+Johann Gottlob Berger
+Friedrich Ernst Richter
+Christian Gottlieb Wittig
+Johann Heinrich Frohberg
+Johann Gottlob Grafe
+Gottfried Wilhelm Blaas
+----------------
+Carl Wilhelm Steude
+1845
+Carl Gottlob Voigt
+Carl Friedrich Böttcher
+Carl Gotthelf Wittig
+Christian Gottlieb Potzscher
+----------------
+Johann Carl Gottlieb Röber
+Carl August Bernhardt
+Christian Traugott Schaaf
+Heinrich Wilhelm Görnitz
+Friedrich Gotthelf Striegler
+Friedrich August Haupt
+----------------
+Johann Gottfried Kutzsche
+Heinrich Wilhelm Nicolai //korrigiert
+Johann August Schwarze
+Christian Gottlieb Helig
+1846
+Christian Gottlob Klaus
+Carl Gottlieb Jeschke
+----------------
+Christian Traugott Hairich?
+Christian Gottlob Röder
+1847
+Ernst Gotthelf Thromas
+Johann Gottlob Hesse
+Karl August Zschornitzscher
+Johann Gotthelf Wilhelm Hänsel
+----------------
+Friedrich Wilhelm Stephan
+Friedrich August Wilhelm Schroth
+Karl Gottlob Eduard Lätzner
+Karl Gottlob Lippner
+Johann Christian Gotthelf Klinger
+Wilhelm Eduard Genny?
+----------------
+Karl Friedrich Eduard Schneider
+1848
+Friedrich August Kegel
+Christian Gottlieb Dietze
+Johann Gottlob Karl Heller
+Karl Gottlob Zschörnig
+Carl Gottlob Böhme
+----------------
+Johann Karl Gottlieb Stelzner
+Friedrich Wilhelm Gründling
+Johann Georg Erhard Lindner
+Carl Gottfried Humpsch
+Christian Gottlieb Hesse
+Friedrich Gottlieb Grübler
+----------------
+1849
+Johann Karl Gottlob Hentschel
+Johann Gottlieb Panitz
+Christian Gottlieb Gruhle
+Johann Gotthelf Steide
+Karl August Karing
+----------------
+Karl Gottfried Vetter
+Johann Heinrich Schönberg
+Johann Traugott Gasch
+Gotthelf Wilhelm Maul
+Gottlob Rudolph Henker
+----------------
+Johann Gottfried Winkler
+Karl August Flader
+Karl Gottlieb Weiße
+Karl Friedrich Gottlob Borsdorf

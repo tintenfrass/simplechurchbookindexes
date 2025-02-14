@@ -1,5 +1,5 @@
 Sora (Buch 4)
-Trauungen 1799-1839
+Trauungen 1799-1849
 https://www.archion.de/de/viewer/churchRegister/289558?pageId=40245630
 
 
@@ -10,6 +10,7 @@ Mai 2024
 Juli 2024
 Oktober 2024
 Novemeber 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -309,3 +310,78 @@ Carl Gottlob Legler
 Johann Salomo Richter
 Carl Traugott Trepte
 Johann Gotthelf Böhme
+----------------
+1840
+Carl August Becker
+Carl Gottlob Ranft
+Carl Gottfried Kretzschmar
+Carl August Poppe
+Carl Gottlieb Metzsching
+----------------
+1841
+Carl Gottlob Grötzsch
+Adolph Eduard Pietzsch
+Johann Christian Krause
+Carl Adolph Saupe
+1842
+Carl Friedrich Syatz
+----------------
+Johann August Börner
+Johann Gottlieb Küttner
+1843
+Carl Gottlob Hornhauer
+Johann Gottlieb Leberecht Roßberg
+Carl Gottlieb Hillig
+Friedrich Wilhelm Hempel
+----------------
+Carl August Seidel
+Friedrich Robert Tamm
+Carl Gottlob Eiselt
+Carl Gotthelf Merker
+1844
+Johann Gottfried Schiritz
+----------------
+Johann Gottfried Barth
+Johann Gottlob Zscherper
+Johann Gottfried Leberecht Müller
+Carl Gottlob Mehlig
+Johann August Börner
+Johann Gottlieb Lehmann
+----------------
+1845
+Carl Gottlob Beger
+Johann Gottlieb Borsdorf
+Carl Gottlieb Erfurt
+1846
+Friedrich Wilhelm Julius Horney
+Johann Gottlieb Giesmann
+----------------
+Gottlob Liesche
+Carl Gottlieb Ernst Pfützner
+1847
+Carl Heinrich Täger
+Georg August Rühle
+Johann Gotthelf Jurisch
+----------------
+Carl Ernst Lehmann
+Friedrich Wilhelm Müller
+Ernst Adolph Roßberg
+1848
+Franz Julius Täger
+Ernst August Göpfert
+----------------
+Johann Friedrich Bennewitz
+Johann Adolph Poppe
+Carl Ernst Rülker
+Johann Carl Gottlob Heinske
+Johann Adolph Märker
+----------------
+1849
+Johann Georg Wilhelm Stange
+Johann Traugott Leberecht Schubert
+Carl Wilhelm Kirsten
+Carl Gottlieb Bachmann
+Carl Heinrich Bartzsch
+Johann Friedrich Bennewitz
+----------------
+Johann Gotthelf Walther

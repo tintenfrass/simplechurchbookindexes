@@ -1,5 +1,5 @@
 Tanneberg (Buch 762)
-Trauungen 1801-1839
+Trauungen 1801-1849
 https://www.archion.de/de/viewer/churchRegister/289595?pageId=40251741
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Mai 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -345,3 +346,121 @@ Carl Gottlieb Legler
 Johann Friedrich Leberecht Talkenberger
 Gottfried August Schumann
 Johann Friedrich August Lobin?
+1840
+Carl Gottlob Stelzer
+Carl Gottlieb Dämmig
+----------------
+Gottfried Leberecht Johne
+Johann Gottlob Pappelbauer
+Eduard Wilhelm Schubert
+Carl Gottlieb Einert?
+Carl Gottlieb Heinze
+1841
+Traugott Leberecht Hermann
+Christian Gottfried Reichel
+Carl Gottlob Günther
+----------------
+Emil Eduard Philipp
+Gotthelf Leberecht Winkler
+Carl Gottfried Wachsmuth
+Carl Gottlieb Schubert
+Carl Gottlob Günther
+1842
+Christian Friedrich Reichel
+Carl Gottlieb Paul
+----------------
+Johann Carl Gottfried Hanns
+Carl Gottlob Kühne
+Johann Gottfried Kühne
+Johann Gottfried Leuteritz
+Carl Gottlob Zschoge
+Christian Leberecht Sparmann
+1843
+Johann Gottlob Beuchel
+Christoph Friedrich Homilius
+Gotthelf Leberecht Töpfer
+Johann Christian Straube
+----------------
+Johann Friedrich Leberecht Talkenberger
+Carl Gustav Opper
+Johann Carl Gottlieb Birkner
+Heinrich Gustav Pellmann
+August Ferdinand Mittag
+Johann Gottfried Gottschalk
+Friedrich Wilhelm Märker
+----------------
+Friedrich August Lindner
+1844
+Johann Gottfried Birkner
+Johann Gottfried Schieritz
+Karl Gottfried Eduard Haupt
+Gottfried Zschoche
+Johann Traugott Schöne
+Karl Traugott Steltzer
+Karl Gottlieb Fischer
+----------------
+Johann Leberecht Wachsmuth
+Carl Wilhelm Pietzschke
+Carl Gottlob Dieze
+Johann Ernst Wilhelm Talkenberger
+1845
+Johann Carl Gottfried Sattler
+Carl August Möbius
+Carl Gottlob Heyne
+Carl Gottlob Rasch
+----------------
+Karl Gottlieb Vetter
+1846
+Karl Wilhelm Richter
+Karl Friedrich Richter
+Johann Karl Friedrich August Lutze
+Traugott Wilhelm Grubig
+Heinrich Theodor Schubert
+Karl Friedrich Rudolph
+----------------
+Johann Ferdinand Kühne
+1847
+Karl Heinrich Bretschneider
+Ludwig Herrmann Haupt
+Johann Friedrich Richter
+Friedrich Wilhelm Kühne
+Johann Christian Gottlieb Lehmann
+Karl Traugott Krause
+Karl Gottfried Preußer
+----------------
+Karl Gottlob Knöbel
+Eduard Franz Kunze
+Johann Leberecht Kühn
+Johann Friedrich Leberecht Talkenberger
+Carl Gottlob Heinrich Böhme
+Karl Gottlieb Hühnel
+Karl August Schmiedger
+Heinrich Adolph Kost
+----------------
+1848
+Friedrich Heinrich Rost
+Friedrich Herrmann Bautzmann
+Friedrich August Henisch
+Karl Wilhelm Schröer
+Johann Karl August Auerswald
+Christian Ernst Andrä
+Karl August Weinhold
+Karl Gottlieb Huhn?
+----------------
+Johann Friedrich Zabelt
+Carl Gottlob Wilsdorf
+1849
+Johann Gottfried Arnhold
+August Ehregott Heinze
+Johann Samuel Böhme
+Johann Samuel Traugott Hermann
+Karl Gottlob Märker
+Karl Friedrich Bartzsch
+----------------
+Friedrich Gottlieb Busch
+Gotthelf Leberecht Friedrich
+Johann Gottlob Jentzsch
+August Ludwig Hennersdorf
+Ernst Leberecht Lindner
+Ernst August Worm
+Johann Gottlieb Talkenberg
