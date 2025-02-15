@@ -1,5 +1,5 @@
 Conradsdorf (Buch 491)
-Trauungen 1818-1839
+Trauungen 1818-1845
 https://www.archion.de/de/viewer/churchRegister/340854?pageId=47875286
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -544,4 +545,204 @@ Carl Christlieb Drechsler
 Friedrich Wilhelm Horn
 Gotthelf August Fritzsche
 Carl August Krätzer
-Johann Friedrich Schesauer
+Johann Friedrich Schefauer
+----------------
+1840
+Carl August Mehnert
+Carl Gottfried Hübler
+Moritz August Stenzel
+Carl Gottlob Bruchmüller
+----------------
+Carl Leberecht Baumann
+Carl Leberecht Wahl
+Carl Friedrich Franz
+Gottlieb August Reiche
+----------------
+Carl August Willkomm
+Carl Friedrich Richter
+Carl Gottfried Gierisch
+Carl Friedrich Wilhelm Venus
+----------------
+Carl Gottlob Kummer
+Carl Gotthelf Köhler
+Carl August Mehnert
+Carl Gotthelf Wahl
+----------------
+Johann Christian Schönberg
+Carl August Richter
+Johann Carl Gottlieb Schubert
+August Friedrich Beyer
+----------------
+1841
+Christian Friedrich August Mende
+August Gottlob Rüdiger
+Carl Gottfried Helbig
+----------------
+Johann Gottlob Schmidt
+Christian Heinrich Lueck
+Franz Eduard Hentschel
+----------------
+Johann Gottlieb Curth
+Carl Heinrich Müller
+Carl Gotthelf Fischer
+----------------
+Carl August Heede
+Friedrich August Keiling
+Friedrich August Lorenz
+----------------
+Carl August Jünger
+Johann Gottlob Zill
+Johann Wilhelm Priebs
+Carl Heinrich Görldt
+----------------
+Carl Gottlieb Birndt
+Carl Gottlieb Schiebold
+Friedrich Wilhelm Walther
+Carl Traugott Fischer
+----------------
+August Gottlob Walther
+Carl Friedrich Braune
+August Friedrich Arnold
+Johann Christoph Jungnickel
+----------------
+Johann Gottlieb Anders
+----------------
+1842
+Carl Gottlob Franz
+Carl August Heinrch
+Johann August Ulbricht
+Friedrich Wilhelm Dachselt
+----------------
+Carl Israel Kühn
+Carl August Stephan Hofmann
+Carl Gottlieb Dreßler
+Carl Gottlieb Schneider
+----------------
+Carl Gottlob Reiche
+Friedrich Ernst Eduard Herrmann
+Carl Friedrich Ludewig
+Carl Gottlob Gehmlich
+----------------
+Carl Friedrich Rudolph
+Johann Gottlob Schubert
+Christian Friedrich Stephan Hofmann
+Carl August Claußnitzer
+----------------
+Carl Friedrich Wilhelm Franke
+Johann Gottfried Fischer
+Carl Traugott Barthel
+Carl August Schütze
+----------------
+Johann Gottlob Funke
+Carl Wilhelm Teuchert
+Carl Gottlob Raeder
+Friedrich August Ihle
+----------------
+Wilhelm Heinrich Püschel
+Johann Gottlieb Prieps
+Carl August Reiche
+Adolph Ferdinand Beuchel
+----------------
+Carl Gottlieb Limbach
+----------------
+1843
+Carl August Dachselt
+Friedrich Wilhelm Liebert
+Friedrich Wilhelm Fritzsche
+Carl August Götze
+----------------
+Carl Gottlob Fischer
+Christian Gottfried Siegel
+Ernst Heinrich Grötzschel
+Friedrich Gotthelf Krätzschmar
+----------------
+Carl Samuel Wunderwald
+Carl Gottlieb Arnold
+August Wilhelm Glöckner
+Michael Ranig
+----------------
+Carl Ferdinand Zimmler
+Johann Gottlieb Oesterreich
+Carl Leberecht Paulick
+----------------
+Carl August Friedrich Größel
+Carl Gottlob Hauptvogel
+Carl August Wahl
+Johann Traugott Brehme
+----------------
+August Gotthelf Franz
+Johann Samuel Dachselt
+Gotthelf Friedrich Franke
+Carl Gottfried Wagner
+----------------
+Friedrich Wilhelm Walther
+----------------
+1844
+Carl Gottlob Walther
+Johann Traugott Fischer
+Carl Friedrich Traugott Geißler
+Carl Friedrich Jünger
+----------------
+Wilhelm Ferdinand Wolf
+Carl Gotthelf Hamisch
+Carl Friedrich Martin
+Carl Friedrich Eduard Uhlig
+----------------
+Carl August Büttner
+Carl Gotthelf Barthel
+August Heinrich Drechsler
+Carl Gottfried Jäpel
+----------------
+Carl Friedrich Arnold
+Gotthelf August Mende
+Carl Gottlob Kunze
+August Friedrich Richter
+----------------
+Carl Gottfried Straßburger
+Carl Wilhelm Priebs
+Carl August Sterl
+Friedrich Wilhelm Timmel
+----------------
+Johann Gottfried Grötzschel
+Carl Gotthelf Schubert
+----------------
+1845
+Friedrich August Hofmann
+Carl Heinrich Oswald Ludewig
+Friedrich Wilhelm Wagner
+Johann Gottlob Kirchner
+----------------
+Carl Gotthelf Grimmer
+Johann Gottlieb Fröbel
+Carl August Käppler
+Carl Gotthelf Jünger
+----------------
+Carl August Rantzsch
+Carl Gottlob Hase
+Carl Heinrich Philipp
+----------------
+Carl Gottlob Friedrich
+Gottfried Wilhelm Simeon
+Immanuel Händler
+Carl August Barthel
+----------------
+Friedrich Julius Schulze
+Guido Adolph Rümmler
+August Wilhelm Drechsler
+----------------
+Carl Moritz Seiler
+Carl August Wilhelm Löwe
+August Wilhelm Siegert
+Carl Gotthelf Kühn
+----------------
+Carl Gottlob Wagner
+Carl Gottlieb Stelzner
+Carl August Hofmann
+----------------
+Carl Gottlieb Nestler
+Carl Heinrich Goldammer
+Johann Heinrich Ferdinand Hesse
+----------------
+Carl August Göpel
+Friedrich August Neubert
+Heinrich Gottfried Starke

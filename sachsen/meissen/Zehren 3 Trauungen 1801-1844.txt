@@ -1,5 +1,5 @@
 Zehren (Buch 3)
-Trauungen 1801-1839
+Trauungen 1801-1844
 https://www.archion.de/de/viewer/churchRegister/289677?pageId=40268641
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -7,11 +7,12 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Zusätzlich sind einige Namen im Buch nicht klar lesbar.
 
 
-Erstellt in ca. 2 Stunde
+Erstellt in ca. 2,5 Stunde
 Mai 2024
 Juli 2024
 Oktober 2024
 Novemeber 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1115,3 +1116,158 @@ Gottlob Leberecht Fichtner
 Johann Gottlieb Mierisch
 Traugott Gottlieb Müller
 Johann Gottlob Müller
+---------------- x148
+Gottlieb August Moritz Müller
+Johann Christlieb Dietze
+1840
+Johann Ehrenfried Gantzsch
+Karl Gottlob Pradel
+Karl Wilhelm Reppe
+Gottfried Ernst Kegel
+Karl Gottlob Förster
+Karl Wilhelm Julius Polmes
+Christian Heinrich Schräber
+----------------
+Karl Gottlieb Scheuer
+Johann Gottlob Thierbach
+Johann Gottlob Papperitz
+Karl Wilhelm Bretschneider
+Karl Gottlob Kießling
+Wilhelm Theodor Pfützner
+Karl Gottlieb Roßberg
+Johann Gottfried Helm
+Ernst Leberecht Janke
+Christian Gottlieb Berger
+----------------
+Johann Christian Gottlieb Beger
+Johann Friedrich Hausmann
+Karl Eduard Wobst
+Heinrich Wilhelm Fichtner
+Friedrich Wilhelm Hauffe
+Karl Gottlob Kobisch
+Karl Wilhelm Bernhard
+Curt Louis Bromme
+Karl Gottfried Geyer
+----------------
+Karl Traugott Müller
+1841
+Johann Gotthelf Finke
+Friedrich Wilhelm Fichtner
+Karl Gottlob Nun
+Karl Gottlob Rüdrich
+Karl Gottlob Fichtner
+Johann Gottfried Schuster
+----------------
+Traugott Leberecht Seifert
+Johann Gottlob Krause
+Johann Gottlieb Keller
+Karl August Schwager
+Christian Gottlieb Herrmann
+Christian Gottlieb Mohn
+Heinrich Wilhelm Menzel
+Karl Gottlob Altermann
+Johann Gottlob Friedrich Richter
+Johann Gottfried Ostermann
+----------------
+1842
+Friedrich Wilhelm Hörig
+Karl Gottlieb Eulitz
+Johann Gotthelf Naumann
+Karl Gottlieb Hennig
+Christian Gottlieb Quitsch
+Wilhelm Möbius
+Christian Wilhelm Wittig
+Johann Traugott Grödel
+Johann Gottlob Gebauer
+----------------
+Friedrich August Rentsch
+Johann Gotthelf Thierbach
+Karl Heinrich Moritz Birkenfeld
+Johann Gotthelf Staar
+Carl Gottlob Uhlemann
+Johann Karl Gottlieb Stiefler
+Karl August Thieme
+Friedrich Wilhelm Bretschneider
+Johann Gottfried Reiche
+Friedrich Wilhelm Schiedig
+Karl Gottlob Köhler
+----------------
+Johann Gottlieb Hofmann
+Johann Traugott Richter
+Christian Gottlieb Naake
+Johann Gottlob Lorenz
+Johann Wilhelm Sturm
+1843
+Karl Gottlieb Moritz
+Christian Gottlob Herrmann
+Johann Peter Salomo Thon
+----------------
+Johann Karl Gottlob Stelzer
+Johann Traugott Köhler
+Friedrich Wilhelm Uhlemann
+Christian Ferdinand Altermann
+Johann Karl Gottlob Hempel
+Carl August Löbe
+Johann Karl Kadner
+Friedrich Ferdinand Rühle
+Karl Gottlob Reinhardt
+----------------
+Johann Gottlieb Richter
+Christian Gottlob Naumann
+Karl August Rüdrich
+Johann Traugott Leberecht Käppler
+Friedrich Wilhelm Gersten
+Johann Gottfried Tenner
+Traugott Leberecht Schumann
+Karl Christian Friedrich Bundermann
+Friedrich Ernst Adolph Borschdorf
+Karl Gottlob Dolch
+Karl Gottlob Broschwitz
+----------------
+Erdmann Theodor Bellmann
+Karl Leberecht Neider
+Johann Heinrich Lommatsch
+Heinrich Wilhelm Kahle
+Ehrenfried Schlegel
+Friedrich Ernst Beeger
+Karl Gottlob Fischer
+Johann Gottlieb Fichtner
+Karl Gottlieb Hentschel
+Friedrich Wilhelm Ringsleben
+Johann Traugott Riemel
+----------------
+Johann Karl Gottlob Hase
+1844
+Friedrich Wilhelm Rauer
+Karl Wilhelm Zschoche
+Karl Gottlob Müller
+Karl Friedrich Herzog
+Karl Gottlob Roßberg
+Friedrich August Stelzer
+Karl Friedrich Trensch
+Karl Julius Weinhold
+---------------- x13
+Friedrich Wilhelm Pocher
+Johann Gottfried Reißig
+Gottfried Leberecht Fischer
+Johann Gottlob Sommer
+Karl Gottlob Ziller
+Friedrich Ernst Seifert
+Johann Gotthelf Förster
+Karl Traugott Just
+Karl Friedrich August Kuppe
+August Ferdinand Reinhoff
+Christian Gottlieb Alexander
+----------------
+Friedrich Ernst Scheuer
+Karl August Lehmann
+Karl Gottlieb Hilbert
+Johann Wilhelm Sturm
+Carl Gottfried Müller
+Friedrich Leberecht Köhler
+Johann Gottlieb Leberecht Schurig
+Friedrich Wilhelm Krause
+Jacob Tieg
+Karl Gottlob Starke
+----------------
+Karl Heinrich Adolph Ficke

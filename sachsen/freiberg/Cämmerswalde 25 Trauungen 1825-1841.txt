@@ -1,5 +1,5 @@
 Cämmerswalde (Buch 25)
-Trauungen 1825-1839
+Trauungen 1825-1841
 https://www.archion.de/de/viewer/churchRegister/340823?pageId=47869487
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -286,3 +287,46 @@ Carl Gotthelf Dietel
 ----------------
 Gotthelf Friedrich Bieber
 Gottlieb Friedrich Kirschen
+----------------
+1840
+Gotthelf Friedrich Böhme
+Carl Gottlieb Bellmann
+Carl August Helbig
+August Friedrich Meyer
+Carl Gottlieb Walther
+Carl Gottlob Neuber
+----------------
+Carl Gottlob Müller
+Friedrich Ehregott Preißler
+Carl Friedrich Klemm
+Carl Heinrich Adolph Krause
+----------------
+August Friedrich Kaltofen
+Carl Heinrich Müller
+Johann Gotthold Schlesier
+August Friedrich Hegewald
+Carl Traugott Wagner
+Carl Traugott Friedrich Tippmann
+----------------
+Carl Gottlieb Uhlmann
+Carl Heinrich Grimmer
+August Friedrich Lahl
+Carl Gottlieb Schneider
+Johann Heinrich Wagner
+----------------
+1841
+Traugott Leberecht Löppmann
+August Friedrich Kaltofen
+Johann Friedrich Fürchtegott Philipp
+Wilhelm Friedrich Börner
+Carl Heinrich Müller
+Christian Friedrich Hegewald
+----------------
+Carl Gotthold Friedrich Hoffmann
+Gotthelf Friedrich Mende
+Traugott Friedrich Zemmrich
+Carl Gottlieb Hegewald
+Carl August Altmann
+Gotthelf Friedrich Hegewald
+----------------
+Carl Heinrich Meyer

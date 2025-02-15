@@ -1,5 +1,5 @@
 Ziegenhain (Buch 4)
-Trauungen 1827-1839
+Trauungen 1827-1849
 https://www.archion.de/de/viewer/churchRegister/289690?pageId=40271144
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -187,3 +188,159 @@ Carl Wilhelm Hähnert
 ----------------
 Carl Gottlob Schirrschmidt
 Johann Friedrich Wilhelm Kläber
+1840
+Johann Gottlieb Börner
+Carl Friedrich Wilhelm Schreiber
+Friedrich Wilhelm Hartzbecker
+----------------
+Carl Gottfried Reichel
+Christian Wilhelm Seifert
+Johann Gottlieb Fischer
+Johann Traugott Oehmichen
+Johann Traugott Pöhnisch
+Johann Gottlob Schreiber
+----------------
+Heinrich Gustav Seifert
+Friedrich Moritz Lehmann
+Liebegott Thuerecht Mißbach
+----------------
+1841
+Carl Gottlieb Golde
+Johann Carl Gottlob Gühne
+Johann Gotthelf Jentzsch
+----------------
+Carl Wilhelm Starke
+Carl Gottlob Mittag
+Carl Gottfried Fritzsche
+----------------
+Johann Gottlieb Schumann
+1842
+Carl Wilhelm Hofmann
+----------------
+Johann Gotthelf Schreiber
+Carl Julius Fischer
+Carl Gottlieb Eulitz
+----------------
+Carl Traugott Buschmann
+Carl Gottlieb Wiesner
+Carl Friedrich Frohberg
+----------------
+1843
+Carl Wilhelm Frohberg
+Heinrich Gustav Seifert
+----------------
+Johann Carl Gottlob Conrad
+Johann Carl Gottlob Glauch
+----------------
+Christian August Harzbecker
+Friedrich Wilhelm Guehne
+----------------
+Johann Ferdinand Eduard Ulbricht
+Friedrich Ernst Richter
+----------------
+Johann Carl Gottlieb Starke
+Johann Carl Gottfried Hoelzig
+----------------
+Johann Gottfried Beuchel
+Heinrich Ferdinand Guehne
+----------------
+1844
+Carl Wilhelm Berger
+Johann Christian Thuermer
+Carl August Muehlner
+----------------
+Gottlieb Heinrich Langwagen
+Carl Gottlob Wackwitz
+----------------
+Carl August Ferdinand Ginsel
+Johann Gotthelf Reinhard
+Friedrich Ernst Richter
+----------------
+Friedrich Wilhelm Börner
+Carl Gottfried Breitting
+Johann Traugott Walther
+----------------
+Johann Carl Gottfried Apitz
+Johann Gottfried Melzer
+Carl Heinrich Preußer
+----------------
+Traugott Leberecht Hofmann
+----------------
+1845
+Carl Gottlieb Uhlmann
+Moritz August Wießner
+Carl Friedrich Schumann
+----------------
+Christian Friedrich Thielemann
+Johann Gottlob Kunze
+Wilhelm Traugott Zschaebitz
+----------------
+Carl Gottlob Börner
+1846
+Johann Gottlieb Haupt
+----------------
+Christian Wilhelm Lippert
+Gottlob Ernst Pöhnisch
+Carl Heinrich Kretzschmar
+----------------
+1847
+Carl Gottlob Striegler
+Johann Carl Gottlieb Güldner
+Johann Carl Gottlob Heyde
+----------------
+Johann Carl Gottlob Ginsel
+Johann Gotthelf Voigt
+Carl August Zoscher
+----------------
+Johann Carl Gottlob Krause
+Carl Friedrich Roßberg
+Christian Gottlieb Lorenz
+----------------
+Christian Gottlob Haberecht
+----------------
+1848
+Carl Friedrich Wachsmuth
+Wilhelm Leberecht Kliemann
+----------------
+Johann Gotthelf Harzbecker
+Gottlob Melzer
+----------------
+Gustav Aemilius Sorge
+Christian Gottlieb Harzbecker
+----------------
+Carl Gottlob Wilhelm Schmidt
+Carl Wilhelm Wackwitz
+----------------
+Johann Gottfried Morgenstern
+Gotthelf Heinrich Stoerr
+----------------
+Carl Gottlob Wackwitz
+Carl Gottlieb Kretzschmar
+----------------
+Johann Gotthelf Beger
+Johann Gottlob Wilhelm Arnhold
+----------------
+Johann Christian Moritz Hanisch
+Johann Carl Adolph Horn
+----------------
+Carl Traugott Lösner
+Friedrich August Thomas
+----------------
+1849
+Carl Gottlob Ruedrich
+Johann Traugott Lanzsch
+Johann Friedrich Wilhelm Klaeber
+----------------
+Julius Moritz Munkel
+Carl August Donat
+----------------
+Carl Gottlob Stein
+Carl Friedrich Frohberg
+----------------
+Carl Ernst Klopfer
+Johann Christian Gottlob Zaeubig
+----------------
+Carl Wilhelm Zscherper
+Friedrich Wilhelm Eduard Beyrich
+----------------
+Ernst Heinrich Gotthelf Klunker

@@ -1,5 +1,5 @@
 Unkersdorf (Buch 4)
-Trauungen 1793-1839
+Trauungen 1793-1849
 https://www.archion.de/de/viewer/churchRegister/289610?pageId=40255438
 
 
@@ -9,6 +9,7 @@ Mai 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -320,3 +321,67 @@ Johann Gottlob Trepte
 1839
 Johann Carl Iltzsche
 Johann Carl Traugott Abraham Kühne
+----------------
+1840
+August Wilhelm Palitzsch
+Traugott Leberecht Zoelner
+----------------
+1841
+Johann Gottfried Zimmermann
+Johann Gottfried Leonhard
+Johann Gottlob Fehre
+----------------
+1842
+Carl August Schubert
+Carl Gotthelf Höhle
+Johann Heinrich Fehrer
+Carl Gottlieb Schubert
+Friedrich Wilhelm Moitz
+----------------
+Gottlob Adam Jäpel
+Carl August Endlich
+Johann Carl August Gorx
+----------------
+1843
+Johann Gottfried Gaebler
+Johann Georg Türke
+----------------
+1844
+Gustav Moritz Wahl
+Johann Gottlieb Henker
+Friedrich Wilhelm Heinrich Lödlich
+Carl August Schaarschuch
+----------------
+1845
+Friedrich August Dachsel
+Johann August Tamm
+Johann Carl Jentzsch
+Johann Gotthelf Herrnsdorf
+----------------
+1846
+August Leberecht Bormann
+Carl Gottlieb Gießmann
+Carl Heinrich Schumann
+Friedrich August Ernst Beuchel
+Heinrich Gottlob Müller
+----------------
+Johann Gottlieb Gierth
+August Wilhelm Wagner
+Ernst Traugott Henker
+----------------
+1847
+Christian August Müller
+Johann Gottlob Herrnsdorf
+Johann Carl Gottfried Ritzscher
+Christian Gottlieb Eiselt
+----------------
+Friedrich August Harter
+Carl August Hertmann
+----------------
+1848
+Carl Heinrich Ernst Lucius
+Carl Gottlob Ilzsche
+Friedrich Erdmann Jentzsch
+----------------
+1849
+Carl Friedrich Moritz Knebel

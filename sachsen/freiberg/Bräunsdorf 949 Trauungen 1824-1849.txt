@@ -1,5 +1,5 @@
 Bräunsdorf (Buch 949)
-Trauungen 1828-1839
+Trauungen 1828-1849
 https://www.archion.de/de/viewer/churchRegister/281027?pageId=38768099
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -46,3 +47,24 @@ Carl Gottlob Naumann
 ---------------- x6
 1838
 Johann August Heinemann
+---------------- x18
+1841
+Friedrich Ehregott Weinhold
+---------------- x7
+1842
+Karl August Thomas
+---------------- x7
+1843
+Johann Christlieb Stecher
+---------------- 12
+1845
+Friedrich Ernst Oehner
+---------------- x6
+1846
+Adam Gotthelf Würker
+---------------- x12
+1848
+Karl August Wiedemann
+---------------- x6
+1849
+Carl Christoph Hoyer

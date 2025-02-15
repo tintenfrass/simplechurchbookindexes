@@ -1,5 +1,5 @@
 Zadel (Buch 4)
-Trauungen 1813-1839
+Trauungen 1813-1843
 https://www.archion.de/de/viewer/churchRegister/289667?pageId=40266294
 
 Das ist ein Index der Trauungen.
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -507,3 +508,98 @@ Johann Gottlob Renker
 Johann Gottlieb Lehmann
 Johann Karl Uebiger
 Johann Gottlob Taggeselle
+1840
+Johann Gottfried Traugott Böhme
+Johann Gottfried Traugott Häslich
+Johann Gottlob Bischoff
+Karl Gottlob Heinrich Kretzschmar
+Johann Gottlob Weser
+----------------
+Johann Gottfried Herrmann
+Johann Gottfried Rehn
+Karl Gottlob Lange
+Johann Gottlieb Reschke
+Johann Christian Gottlieb Herrmann
+Johann Christian Klunker
+Johann Christian Rühle
+Karl Gottlieb Spmrmann
+Karl Gottfried Schuster
+----------------
+Karl August Eduard Horney
+Christian Gottlieb Hennig
+Johann Karl Gotthelf Zocher
+Karl Gottlob Kobisch
+Johann Gottfried Berger
+Johann Gottlob Mergner
+----------------
+Carl Gottlieb Teuscher
+Friedrich Traugott Sohrmann?
+Johann Gottfried Köhler
+Johann Christian Vetter
+----------------
+1841
+Johann Gottlob Bretschneider
+Christoph Samuel Börner
+Friedrich Wilhelm Rentsch
+Carl Friedrich Otte
+Carl Gottlieb Säurich
+Carl Gottlob Schöppner
+Johann Gottlieb Münch
+Christian Wilhelm Seelig
+----------------
+Johann Traugott Schippang
+Johann Christian Harke
+Christian Gotthelf Harzbecker
+Johann Christian Gottlieb Mammitzsch
+Friedrich August Klaus
+Johann Carl Gottlieb Richter
+Johann Gottlieb Klunker
+----------------
+1842
+Johann Gottfried Klemm
+Johann Carl Gottlieb Beeger
+Carl Gotthelf Kiesling
+Johann Friedrich Thieme
+Johann Gottlob Säurig
+Johann August Recher?
+Christian Gottlieb Hempel
+----------------
+Carl Gottlob Klotz
+Christian Gottlob Gallschütz
+Johann Carl Gottlieb Stiefler
+Gottlieb Vogel
+Johann Gottlieb Grundmann
+Johann Carl Gottlieb Buchert
+Carl Traugott Erdmann Große
+----------------
+Johann Gotthelf Gießmann
+Johann Gottfried Pöschel
+Christian Carl Kurth
+Alexander Gustav Eduard Helbig
+Johann Gotthelf Henschel
+----------------
+1843
+Carl Gotthelf Gäbisch
+Johann Friedrich Stolle
+Christian Gottfried Grünberg
+Gottlob August Reichelt
+Carl Gottfried Zocher
+Christian Gottlieb Sparmann
+----------------
+Carl Gottlob Zocher
+Friedrich Traugott Otto
+Johann Gotthelf Braune
+Johann ? Gottlieb Flade
+Johann Gottfried Lehmann
+Johann Gottlieb Dürichen
+Christian Gottlob Rothe
+----------------
+Carl Herrmann Schulz
+Johann Gottfried Reißig
+Christian Gottlieb Lehmann
+Carl Gottlob Jungnickel
+Johann Gottfried Horst
+Christian Gottfried Möbius
+----------------
+Johann Friedrich Gotthelf Weishaar
+Carl Gottlob Richter
