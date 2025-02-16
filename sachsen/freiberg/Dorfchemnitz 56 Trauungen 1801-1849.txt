@@ -1,16 +1,17 @@
 Dorfchemnitz (Buch 56)
-Trauungen 1801-1839
+Trauungen 1801-1849
 https://www.archion.de/de/viewer/churchRegister/340875?pageId=47879473
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Mai 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -716,3 +717,263 @@ Carl August Richter
 Gottfried Ernst Dietrich
 ----------------
 Johann Daniel Lempe
+1840
+Johann Gottfried Glöckner
+Traugott Friedrich Traeger
+Carl Gottlob Träger
+Johann David Trager
+Carl Gottlob Gloeß
+----------------
+Johann Christoph Glöß
+August Friedrich Glöckner
+Carl Friedrich Erler
+Christian Friedrich Heinrich
+Traugott Friedrich Seyfferth
+Christian Friedrich Krause
+Carl August Damm
+Carl Gottlieb Dienel
+----------------
+Carl August Lose
+Traugott Friedrich Lippmann
+Friedrich August Benjamin Görpfert
+Traugott Schlegel
+Carl Gottfried Einert
+Carl Friedrich Helbig
+Carl Gottlieb Fischer
+----------------
+Johann Gottlieb Bernhard
+1841
+Carl Gottlob Neubert
+Gotthelf Friedrich Schmieder
+August Friedrich Schmidt
+Joseph Gruber
+----------------
+Carl Gotthelf Rost
+Carl Gottlieb Hengst
+Carl Gottlieb Heinrich
+Carl Friedrich Leipner
+Carl Friedrich Glöß
+Johann Traugott Friedrich Hertwig
+Carl Friedrich Wilhelm Siegert
+----------------
+Carl Friedrich Haumann
+Carl Gottlieb Erler
+Carl Leberecht Heinrich
+Johann Traugott Grauschup
+Carl Gottlob Müller
+Carl Gottlob Zimmermann
+----------------
+1842
+Friedrich Gottlieb Hennig
+Moritz Wilhelm Türke
+Carl Traugott Frose
+Johann Traugott Herrmann
+Carl Heinrich Geyer
+Carl Traugott Roll
+----------------
+August Friedrich Drechsler
+Johann Traugott Glöß
+Christian Ehregott Schubert
+Carl Gottlob Friedrich Neuhaeuser
+Carl Friedrich Werner
+Carl Gottlieb Griesbach
+----------------
+Johann David Tanneberger
+Christian Fürchtegott Feller
+Carl Gottlieb Müller
+Christian Gottlieb Tanneberger
+Christian Gottlob Liebscher
+----------------
+Johann Samuel Traugott Heerklotz
+Christian Friedrich Walther
+1843
+Johann Traugott Leberecht Glöckner
+Ehregott Friedrich Kreher
+Gotthold Leberecht Meyer
+----------------
+Johann Gottlieb Heerklotz
+Carl Gottlieb Wolf
+Carl Friedrich Heinrich
+Carl August Hammer
+Georg Carl Göhler
+----------------
+Christian Friedrich Dienel
+David Moritz Lorenz
+Friedrich August Heerklotz
+Gottlob Friedrich Herrmann
+Johann Traugott Erler
+----------------
+Christian Gottlieb Gehmlich
+Johann Traugott Thomas Korf
+Johann Samuel Wießner
+Carl Gottlieb Heinrich
+Carl Heinrich Tanneberger
+----------------
+1844
+August Friedrich Matthes
+Wilhelm Friedrich Kandler
+Johann Gottlob Grellmann
+Carl Friedrich Morgenstern
+----------------
+August Ferdinand Müller
+Fürchtegott Leberecht Müller
+Carl Wilhelm Wagner
+Traugott Friedrich Kröner
+----------------
+August Friedrich Schlegel
+Carl Friedrich Aehnelt
+Samuel Friedrich Ihle
+Carl Gottlob Liebscher
+----------------
+Carl Friedrich Burkhardt
+Carl Gottlob Fritzsche
+Carl Gottlieb Hauptvogel
+Friedrich August Hübel
+----------------
+Traugott Friedrich Leberecht Hieckel
+Carl Gottlob Kaulfuß
+Ehregott Leberecht Ulbricht
+David Leberecht Walther
+----------------
+Carl Friedrich Kaden
+Gotthelf Friedrich Griesbach
+1845
+Johann Gottlob Rabe
+Christian Heinrich Schubert
+----------------
+Carl Gottlieb Kaden
+Carl Friedrich Richter
+Franz Louis Lippmann
+August Clemens Göpfert
+Carl Gottlob Glaeser
+----------------
+Johann David Hertwig
+Carl Gottlob Köhler
+Carl Gottlob Tanneberger
+August Friedrich Bretschneider
+----------------
+Carl Gottlieb Lippmann
+Carl August Köhler
+Johann Gottlieb Schlesier
+Carl Friedrich Kempe
+----------------
+Carl Christoph Kaden
+Carl Gottlob Hannig
+Carl Gottlieb Grißbach
+Carl Traugott Benjamin Klemm
+Carl Gottlieb Strauß
+----------------
+1846
+Carl Friedrich August Kaden
+Gotthelf Friedrich Clemens Schlegel
+Ehregott Leberecht Müller
+Carl Gottlieb Erler
+----------------
+Carl Gottlob Höbelt
+Gotthelf Friedrich Leberecht Strauße
+Carl Wilhelm Rupprecht
+Carl Gottlieb Göpfert
+Johann Carl Christian Beckert
+Adolph Julius Sandig
+----------------
+Carl Friedrich Zinke
+Adolph Ehregott Barthel
+Johann Gottlieb Seifert
+Carl Wilhelm Erler
+Friedrich Ehregott Hennig
+David Leberecht Lippmann
+----------------
+1847
+Gotthold Friedrich Tanneberger
+Friedrich Gotthelf Richter
+Carl Friedrich Heerklotz
+Johann Christoph Erler
+Carl Gottlob Rupprecht
+----------------
+Gotthelf Friedrich Tanneberger
+Carl Friedrich Dittrich
+Carl Friedrich Heerklotz
+Friedrich August Benjamin Göpfert
+Traugott Friedrich Scheinpflug
+----------------
+Christian Friedrich Schneider
+Carl Gottlieb Börner
+Ernst Leberecht Lippmann
+Gottlieb Rühling
+Carl Traugott Hennig
+----------------
+Ernst Friedemann Morgenstern
+Johann Christian Friedrich Erler
+Johann Gotthold Müller
+Johann Georg Büschel
+Carl Gotthold Sachse
+----------------
+Friedrich August Glöß
+1848
+Fürchtegott Traugott Langer
+Carl Gotthelf Schindler
+Johann Georg Friedrich Bellmann
+----------------
+Carl Gotthold Kaden
+Carl Friedrich Hänel
+Christian Traugott Schneider
+Johann Traugott Griesbach
+----------------
+Carl Friedrich Ihle
+Johann Gotthelf Fuchs
+Traugott Friedrich Tanneberger
+Traugott Leberecht Kunze
+----------------
+Carl Traugott Bellmann
+Friedrich August Heerklotz
+Christian Friedrich Glöß
+Gottlob Friedrich Glöß
+----------------
+Carl Heinrich Glöckner
+Georg Ernst Lippmann
+Johann David Freier
+Ehregott Leberecht Müller
+----------------
+Johann Traugott Friedrich Härtwig
+Johann Gottfried Arnold
+Carl August Fröbel
+Gotthelf Friedrich Lippmann
+----------------
+Carl Gottlieb Neubert
+Friedrich Wilhelm Arnold
+Friedrich Gottlieb Feller
+Carl Gottlieb Ihle
+----------------
+Traugott Leberecht Börner
+August Friedrich Härtwig
+Traugott Friedrich Erler
+Johann Gotthelf Glöß
+----------------
+Friedrich Fürchtegott Lippmann
+Friedrich Wilhelm Porstendorfer
+1849
+Gotthelf Friedrich Helbig
+Christian Traugott Kaulfuß
+----------------
+Johann Christoph Heerklotz
+August Friedrich Glöß
+Friedrich August Kaulfuß
+Gotthelf Friedrich Rauer
+----------------
+Traugott Friedrich Müller
+Carl Wilhelm Braun
+Christian Friedrich Strauß
+Carl Gotthold Lohse
+----------------
+Ehregott Leberecht Kandler
+Carl August Kost
+August Wilhelm Schmidt
+August Friedrich Glöckner
+----------------
+Carl Gottlieb Göbel
+Carl Friedrich Heinitz
+Traugott Friedrich Ihle
+Friedrich Fürchtegott Hennig
+----------------
+Louis Alexander Göpfert
+Traugott Friedrich Glöckner

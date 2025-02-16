@@ -1,17 +1,18 @@
 Freiberg St. Johannis (Buch 599)
-Trauungen 1748-1839
+Trauungen 1748-1849
 https://www.archion.de/de/viewer/churchRegister/341064?pageId=47913243
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 2,5 Stunden
+Erstellt in ca. 3 Stunden
 Oktober 2023
 Mai 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1189,3 +1190,150 @@ Herrmann Gottlob Julius Ulm
 Johann Christian Schroth
 Gotthelf August Fritzsche
 Christian Wilhelm Richter
+----------------
+1840
+Carl Gottlob Hallfarth
+Carl Friedrich August Henker
+Johann August Friedrich Berndt
+Gottlob Ferdinand Müller
+----------------
+Friedrich August Böhme
+Carl Eduard Brandt
+Carl Friedrich Ferdinand Hähnel
+----------------
+1841
+Julius Friedrich Werner
+Johann Carl Gottlob Müller
+August Gustav Richter
+----------------
+Ernst Ferdinand Nestler
+Johann August Kaltofen
+Heinrich Ferdinand Köhler
+Heinrich Gottlob Thümmel
+----------------
+Johann Gottlieb Hüttig
+August Ferdinand Harnisch
+Ernst Ferdinand Wagner
+Friedrich August Schmidt
+----------------
+Carl August Thümler
+Johann Carl Schwenke
+Ernst Wilhelm Henker
+Heinrich Moritz Ehrig
+----------------
+Samuel Friedrich Kirsch
+Gottlob Friedrich Schubert
+----------------
+1842
+August Friedrich Hänel
+Carl Gottlob Rietzschel
+Carl Traugott Hennig
+Oswald Alexander Fischer
+Carl David Berger
+----------------
+Carl Georg Keller
+Carl Heinrich Löschner
+Alexander Moritz Berghänel
+----------------
+1843
+Friedrich Wilhelm Schuhmann
+Carl Gotthelf Goldmann
+Ehregott Leberecht Frohs
+Johann Gottfried Reuschel
+----------------
+Friedrich Wilhelm Rebentisch
+August Julius Zacharius
+Carl Ludwig Grüntzig
+Bernhard Frieß
+Traugott Leberecht Fleischer
+----------------
+Samuel Gotthelf Leberecht Lippmann
+Carl Gottfried Zimmermann
+----------------
+1844
+Carl Gottlieb Strauß
+Carl Gottlob Weber
+Carl Magnus Bahr
+Carl Gottlob Friedrich Weißbach
+----------------
+Johann August Kneschke
+Carl Heinrich Geißler
+Carl August Fischer
+Gustav Richter
+Carl Gotthelf Neubert
+----------------
+Herrmann Julius Schmidt
+August Ferdinand Zeiß
+Johann Friedrich August Kuprasch
+Friedrich August Kirbach
+Johann Christian Adolph Zimmermann
+----------------
+1845
+Johann Friedrich Müller
+Hironimus Alexander Säuberlich
+Carl Gottlob Börner
+Johann Samuel Schiffel
+Carl Wilhelm Bellmann
+----------------
+Friedrich Wilhelm Otto
+Ernst Ferdinand Gersch
+Carl Friedrich Ludwig Kirbach
+Johann Traugott Lippmann
+Carl Gottlob Zschöckel
+----------------
+1846
+Carl Gottfried Franke
+Carl Gottlieb Richter
+Johann Friedrich Müller
+Johann Gottfried Kunad
+Christian Friedrich Klemm
+----------------
+August Friedrich Uhlemann
+Christian Friedrich Hähnel
+Gustav Adolph Herrmann Börner
+Johann Gottlieb Renkewitz
+Johann Gottlieb Kaiser
+----------------
+Johann Friedrich Liebing
+Friedrich August Eichhorn
+Carl August Schumann
+Heinrich Julius Schubert
+----------------
+1847
+Carl Traugott Herrmann
+Johann August Friedrich Glaeßer
+Carl Ehregott Zehl
+Carl Friedrich Wilhelm Zehlt
+Carl August Mühl
+----------------
+Friedrich August Ihle
+Carl Heinrich Kreißler
+Friedrich Wilhelm Zeisig
+Eduard Lange
+Carl Theodor Grund
+----------------
+Ernst Robert Kirbach
+Carl Gottfried Walther
+Carl August Neubert
+----------------
+1848
+Franz Heinrich Weck
+Carl Friedrich August Lippmann
+Carl Friedrich August Lindner
+Friedrich Wilhelm Schreiber
+Friedrich August Harnisch
+Moritz Herrmann Müller
+----------------
+Franz Theodor Friedrich Mühlstädt
+----------------
+1849
+Carl Gottlieb Wetzig
+Johann Friedrich Wilhelm Mord
+Friedrich Amandus Pobel
+Carl Gottlob Richter
+Conrad Wilhelm Netto
+----------------
+Carl Friedrich Feldmann
+Friedrich Ehregott Straus
+Benjamin Traugott Timmel
+Gottlob Eduard Mühlstädt
