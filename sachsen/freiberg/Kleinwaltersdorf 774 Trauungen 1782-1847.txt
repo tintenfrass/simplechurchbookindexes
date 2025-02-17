@@ -1,5 +1,5 @@
 Kleinwaltersdorf (Buch 774)
-Trauungen 1782-1839
+Trauungen 1782-1847
 https://www.archion.de/de/viewer/churchRegister/359862?pageId=50670802
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Erstellt in ca. 1 Stunde
 Januar 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -447,3 +448,158 @@ Johann August Hänlein
 Christian Gottlieb Heinrich Teigk
 ----------------
 Carl Gottlieb Hammermüller
+----------------
+1840
+Carl Gottfried Böhme
+Carl Friedrich Stein
+Gotthold Ehrenreich Ritter
+----------------
+Carl Gottlob Fritzsche
+Johann Traugott Sigismund
+Carl Heinrich Müller
+----------------
+Friedrich Wilhelm Weichelt
+Carl Friedrich Hirschbach
+Carl Ernst Nitzsche
+----------------
+Carl Gottlieb Eilenberger
+Johann August Barthel
+----------------
+1841
+Gottlob Wilhelm Arnold
+Friedrich Ferdinand Heinzmann
+Johann Gottfried Störr
+----------------
+Carl August Seidel
+Friedrich August Pomsel
+Samuel Friedrich Schreiber
+----------------
+Heinrich Ferdinand Köhler
+Johann Heinrich Patzig
+Christian August Friedrich Hofmann
+----------------
+Carl Gottlieb Neubert
+Heinrich Ernst Winterlich
+Johann Salomon Zehl
+----------------
+Johann Carl Christian Gundel
+Wilhelm Friedrich Wetzig
+Carl Gottlob Obendorf
+----------------
+Christian Friedrich Börner
+Carl Christian Friedrich Scheunpflug
+----------------
+1842
+Friedrich Gottlieb Hennig
+Carl Friedrich Illgen
+Friedrich Wilhelm Stein
+----------------
+Johann Carl Christian Tobias Richter
+Friedrich Gottlieb Kirchhübel
+Carl Gottlob Lange
+----------------
+Carl Gottlieb Dietrich
+Carl Gottlieb Nehe
+Johann August Heede
+----------------
+Carl August Winkler
+Carl Christoph Störr
+Carl Friedrich Straßburger
+----------------
+Christian Friedrich Kummer
+Johann Gottfried Uhlemann
+Carl Gottlob Berger
+----------------
+Carl Ernst Görschen
+----------------
+1843
+Heinrich Kretzschmar
+Traugott Friedrich Neubert
+Johann Carl August Teuchert
+----------------
+Traugott Leberecht Ferdinand Hofmann
+Carl Gottfried Naumann
+Gottlob Friedrich Börner
+----------------
+Carl Friedrich Schurig
+Carl Gottlieb Fleischer
+Gottlieb Wilhelm Günther
+----------------
+Johann Heinrich Störr
+Friedrich Wilhelm Fischer
+Gottlob Friedrich Stein
+----------------
+1844
+Friedrich Wilhelm Krellmann
+Friedrich August Münzner
+Johann Gotthelf Schmidt
+----------------
+Fürchtegott Leberecht Sterl
+Carl Friedrich Kirscht
+Johann Traugott Felgner
+----------------
+Carl Gottlieb Schubert
+Johann Traugott Hunger
+Friedrich Wilhelm Gündel
+----------------
+Carl Friedrich Uhlemann
+Carl Ludwig Eulitz
+Herrmann Julius Schmidt
+----------------
+Carl Ernst Ulbricht
+Carl Gottlob Heinzmann
+Johann Carl Gottlib? Bellmann
+----------------
+Carl Gottfried Straßburger
+----------------
+1845
+Carl Moritz Arnold
+Christian Friedrich Zein
+Julius August Scheunert
+----------------
+Traugott Friedrich Neubert
+Traugott Wilhelm Ebelt
+Carl Gotthelf Richter
+----------------
+Carl August Zimmer
+Ernst Ludwig Schubert
+Carl Gottfried Preiß
+----------------
+Carl Gottlob Grießler
+Traugott Wilhelm Brix
+Ernst Moritz Kreisig
+----------------
+Carl Gottlieb Glöckner
+Johann Israel Schuhmann
+Johann Gottlieb Fleischer
+----------------
+1846
+Wilhelm Louis Claus
+Carl Gottfried Schramm
+Carl Ehregott Weckbrod
+----------------
+Carl Gottlob Pflugbeil
+Carl Friedrich Fischer
+Carl Friedrich August Helbig
+----------------
+Friedrich Wilhelm Gündel
+Carl Gottfried Feldmann
+----------------
+1847
+Carl Traugott Fischer
+Carl Friedrich Rudolph
+Carl Wilhelm Störr
+----------------
+August Wilhelm Kirscht
+August Heinrich Milde
+Carl Gotthelf Fischer
+----------------
+Carl Heinrich Wilhelm Zickow
+Joseph Heinrich Klosterknrecht
+August Friedrich Jehmlich
+----------------
+Christian Ehregott Haubold
+Johann Traugott Liebscher
+Carl Friedrich Henker
+----------------
+Carl August Plattner

@@ -1,5 +1,5 @@
 Hilbersdorf (Buch 755)
-Trauungen 1828-1839
+Trauungen 1828-1849
 https://www.archion.de/de/viewer/churchRegister/359843?pageId=50668053
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -161,3 +162,159 @@ Carl Adolph Kraetzer
 Friedrich August Münzner
 Christian Gottlieb Baumann
 Carl August Krätzer
+----------------
+1840
+Carl Ernst Wilhelm Starke
+Carl August Weise
+Carl August Sohr
+Moritz August Stenzel
+----------------
+Carl Gottfried Stein
+Friedrich Wilhelm Schubert
+Georg Friedrich Hamann
+Traugott Leberecht Bretner
+Carl Gottlob Franke
+----------------
+Friedrich Wilhelm Bernhardt
+Carl Friedrich Wilhelm Venus
+Carl Gottlieb Heimann
+Christian Gottlieb Baumann
+----------------
+1841
+Wilhelm Gotttrau Stein
+Christian Friedrich Wilhelm Lange
+Johann Gottlieb Kurth
+Heinrich Friedemann Mühle
+----------------
+Carl Friedrich Maennel
+Joseph Friedrich Krellmann
+Ernst Ferdinand Wagner
+Carl Gottlieb Birndt
+----------------
+Carl Traugott Fischer
+1842
+Johann Gottfried Frenzel
+Carl Gottlob Fritzsche
+Carl Gottlob Lange
+----------------
+Robert Herrmann Puder
+Carl August Claußnitzer
+Carl Friedrich Höppner
+Carl Wilhelm Teuchert
+Gotthelf August Kraetzer
+----------------
+Carl Gotthold Israel Klemm
+Carl Friedrich Schwabe
+1843
+Carl Gottlob Baumgart
+Friedrich Wilhelm Liebert
+----------------
+Georg Christoph Wolf
+Friedrich Gotthelf Kretzschmar
+Carl Gottlob Bernhardt
+Carl Ferdinand Zimmler
+----------------
+Carl Gottlieb Homilius
+Friedrich Wilhelm Salomo Venus
+Carl August Ihle
+Carl Friedrich Höhnel
+----------------
+1844
+Carl August Krätzer
+Christian Friedrich Richter
+Friedrich August Böhme
+Ernst Julius Horn
+----------------
+Ernst Wilhelm Müller
+Carl Friedrich Martin
+Carl Gottlob Silbermann
+Johann Gottlob Israel Fischer
+----------------
+Carl Friedrich Lange
+Friedrich Gottlob Heymann
+----------------
+1845
+Friedrich Wilhelm Seipt
+August Friedrich Homilius
+Friedrich Wilhelm Wagner
+----------------
+Traugott Wilhelm Ebelt
+Friedrich Adolph Braun
+Carl August Käppler
+----------------
+Heinrich August Gelfert
+Carl Friedrich Richter
+Carl Gotthelf Richter
+----------------
+Gottlob Friedrich Dittrich
+Gotthelf Schröter
+Joseph Wilhelm Wolf
+Gotthelf Friedrich Kaden
+Carl Gottfried Scheumann
+----------------
+Friedrich Gottlieb Fleischer
+Carl Friedrich August Richter
+Carl Wilhelm Grimmer
+----------------
+1846
+Carl August Hasche
+Friedrich Wilhelm Berger
+Friedrich Traugott Müller
+----------------
+Carl Gottfried Lohse
+Carl Friedrich Wilhelm Franke
+Johann Carl Wilhelm Hoffmann
+----------------
+Christian Friedrich Wilhelm Berger
+August Friedrich Butze
+Johann Gottlieb Keller
+Friedrich Wilhelm Burkhardt
+----------------
+Friedrich Wilhelm Matther
+Daniel Bernhardt
+Friedrich August Fuhrmann
+----------------
+1847
+Carl Gottlob Wilhelm Horn
+Carl August Wittig
+Johann Traugott Fischer
+Friedrich Wilhelm Fournier
+----------------
+Carl Gottlieb Tamm
+August Heinrich Schmidt
+Carl Otto Dreßler
+Benjamin Gottfried Burkhardt
+----------------
+Carl Friedrich Fürchtegott Zimmermann
+Carl Gottlieb Käppler
+1848
+Johann Christian Gottlieb Humpsch
+----------------
+Heinrich August Krätzer
+Franz Eduard Schmiedgen
+Ernst Wilhelm Wirthgen
+Carl Gottlieb Pauly
+----------------
+Carl Friedrich Wilhelm Hegewald
+Friedrich Traugott Bernhardt
+Carl Gottlob Richter
+Carl Heinrich Weichelt
+Friedrich August Löwe
+----------------
+1849
+Karl Friedrich Feller
+Carl Traugott Wagner
+Gottlob Friedrich Baumhardt
+Julius Ferdinand Halfarth
+----------------
+Carl August Morgenstern
+Heinrich Gottlieb Richter
+Carl Friedrich Martin
+Heinrich Wilhelm Bernhardt
+Carl Gotthelf Venus
+----------------
+Carl Fürchtegott Wolf
+Carl Emil Theodor Groß
+Friedrich Ehregott Strauß
+Carl Friedrich Gottlob Venus
+Andreas Schütze

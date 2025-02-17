@@ -931,6 +931,7 @@ Elias Fröhner
 Michael Ranft
 Hans ?
 ----------------
+1659
 Mattheus Clauß
 Nicol Herman
 Peter Rudolff
@@ -2042,32 +2043,32 @@ Andreas Starcke
 Jacob Herman
 1662
 Michael Patzig
- Martin? Winckler
- Martin Chemnitz
- ----------------
- Georg Neukirch?
- Hans Tzschoche
- 1663
- Georg Burckhard
- Christoph Wegen?
- Jacob Tzschuncke
- Georg Schlegel
- Hans Böhm
- Michael Rudolff
- Martin Spargen
- 1664
- Hans Döring
- Martin Heyer
- Jacob Erlich
- Hans Böhm
- Martin Zeuner
- Michael Kießling
- 1665
- Georg Jeßner
+Martin? Winckler
+Martin Chemnitz
+----------------
+Georg Neukirch?
+Hans Tzschoche
+1663
+Georg Burckhard
+Christoph Wegen?
+Jacob Tzschuncke
+Georg Schlegel
+Hans Böhm
+Michael Rudolff
+Martin Spargen
+1664
+Hans Döring
+Martin Heyer
+Jacob Erlich
+Hans Böhm
+Martin Zeuner
+Michael Kießling
+1665
+Georg Jeßner
 Peter Beuchel
 Stephan Clauß
 ----------------
-Christoph Frebiger
+Christoph Fiebiger
 Hans Schrempel
 Christoph Hörner
 Martin Borsdorf

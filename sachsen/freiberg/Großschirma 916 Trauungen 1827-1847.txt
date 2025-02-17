@@ -1,5 +1,5 @@
 Großschirma (Buch 916)
-Trauungen 1827-1839
+Trauungen 1827-1847
 https://www.archion.de/de/viewer/churchRegister/359817?pageId=50663258
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Filialkirche Rothenfurth
 
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -141,3 +142,97 @@ Karl Gottlieb Scheibe
 Ernst Weber
 Karl Ehregott Händel
 Karl Leberecht Lantsch
+----------------
+1840
+Karl Gotthelf Preußner
+Karl Gotthelf Nagel
+Johann Traugott Siegesmund
+August Heinrich Starke
+Karl Gottlob Engler
+Karl Gottlob Eichhorn
+Karl Gottfried Ihle
+Friedrich Wilhelm Heumann
+----------------
+1841
+Gotthelf Leberecht Frosch
+Johann David Richter
+Karl Gottfried Ihle
+Karl Gottlob Liebegott Körner
+Heinrich Ernst Winterlich
+Karl Christian Friedrich Scheunpflug
+Karl August Fischer
+August Friedrich Küttner
+Karl Ehregott Fritsche
+----------------
+1842
+August Friedrich Heimann
+Traugott Wilhelm Krumbiegel
+Gotthelf Friedrich Kaiser
+Martin Julius Schmidt
+----------------
+Daniel Benjamin Kunze
+Johann Christian Friedrich Walther
+Karl Friedrich Wilhelm Franke
+Karl Friedrich Böhme
+----------------
+Johann August Friedrich Hammerschmidt
+Friedrich August Getschold
+Karl Friedrich Erler
+1843
+Karl Friedrich August Klemm
+Ernst Pöntsch
+Johann David Richter
+Karl Gottlieb Böhme
+----------------
+Karl Gottfried Naumann
+Johann Ehregott Keller
+1844
+Traugott Salomo Starke
+Karl Gottlob Silbermann
+Friedrich Wilhelm Göhlert
+Karl Gottlob Grunewald
+Johann Karl Gottlieb Lange
+----------------
+Christian Friedrich Sachse
+Karl August Günzel
+Karl Christian Peukert
+1845
+Karl Moritz Arnold
+Traugott Ferdinand Fehmel
+Traugott Leberecht Krummbiegel
+Karl Gottlieb Hageweh
+Karl Gottfried Kreisig
+----------------
+Karl Christian Friedrich Beckert
+Karl Gottlob Richter
+Karl Gottlob Tanneberger
+Johann Traugott Schaal
+Ernst Moritz Kreisig
+Karl Gottlieb Sterl
+----------------
+Karl Friedrich Ferdinand Dachsel
+Traugott Leberecht Henke
+Friedrich Ehregott Gerngroß
+1846
+August Friedrich Krumbiegel
+Karl August Henke
+August Wilhelm Krumbiegel
+Johann Gottfried Voigt
+----------------
+Johann Karl Gottlob Richter
+Karl Ernst Horn
+Karl Traugott Gerold
+1847
+Karl Moritz Wiesner
+Friedrich Wilhelm Herhold
+Johann Gottlob Friedrich Barthel
+----------------
+Traugott Leberecht Glöckner
+Friedrich August Jehmlich
+Gottfried Daniel Scheumann
+Julius Alexander Franze
+Friedrich Wilhelm Böhme
+Johann Karl Gottlob Beckert
+----------------
+Karl Gottlieb Walbert
+Johann Karl Friedrich Stoisch

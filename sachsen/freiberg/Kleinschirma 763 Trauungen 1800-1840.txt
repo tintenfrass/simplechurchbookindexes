@@ -1,5 +1,5 @@
 Kleinschirma (Buch 763)
-Trauungen 1800-1839
+Trauungen 1800-1840
 https://www.archion.de/de/viewer/churchRegister/359851?pageId=50669246
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Mai 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -298,3 +299,10 @@ Carl Gottfried Borrmann
 Christian David Hofmann
 ----------------
 Carl Traugott Mühlberg
+----------------
+1840
+Heinrich Joseph Schmelzer
+Johann Christian Friedrich Winkler
+August Friedrich Zimmermann
+Carl Gottlieb Leuschner
+Johann Gottlob Weber

@@ -1,5 +1,5 @@
 Gränitz (Buch 158)
-Trauungen 1801-1839
+Trauungen 1801-1844
 https://www.archion.de/de/viewer/churchRegister/359753?pageId=50652055
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Mai 2024
 Juni 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -207,3 +208,27 @@ Johann Traugott Wolf
 Johann Gottlieb Tannberger
 ----------------
 Carl Friedrich Müller
+1840
+Christian Gottlieb Hänig?
+Fürchtegott Leberecht Stoll
+Johann Samuel Traugott Herklotz
+----------------
+August Friedrich Mehner
+Johann Gottlieb Friedrich Hänig
+1841
+Johann Friedrich Barthel
+----------------
+Carl Traugott Müller
+Johann Gottlob Kaden
+Fürchtegott Leberecht Käsemodel
+----------------
+1842
+Johann Gottfried Glaeser
+Johann Samuel Traugott Herklotz
+1843
+Johann August Winkler
+Karl Ferdinand Stoll
+----------------
+1844
+Johann Christoph Richter
+Christian August Heine
