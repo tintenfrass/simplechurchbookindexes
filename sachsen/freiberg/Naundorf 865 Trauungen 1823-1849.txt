@@ -1,5 +1,5 @@
 Naundorf (Buch 865)
-Trauungen 1823-1839
+Trauungen 1823-1849
 https://www.archion.de/de/viewer/churchRegister/360027?pageId=50703735
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -333,3 +334,232 @@ Gotthelf Heinrich Münzner
 Carl Gottlob Braune
 Carl Gottlieb Adolph Beyer
 Johann Friedrich Schöfauer
+----------------
+1840
+Gottlob Friedrich Kühn
+Johann Gotthelf Keller
+Georg Friedrich August Beier
+Carl Ernst Wilhelm Stake
+Carl August Mehnert
+----------------
+Gottlob Friedrich Patzig
+Carl Gottlieb Klemm
+Johann Gotthelf Wolf
+Friedrich Leberecht Freyer
+Carl Traugott Benjamin Martin
+Carl Leberecht Winkler
+----------------
+Gotthelf Heinrich Böhme
+Heinrich Adolph Zarnokoy
+Carl Gottlieb Ernst Hegewald
+1841
+August Gottlob Rüdiger
+Carl Gottlieb Kummer
+Johann Gottlieb Falke
+----------------
+Carl Friedrich Stein
+Carl Friedrich Benjamin Albert
+Johann Gottlieb Pietzsch
+Carl Gottlob Clausnitzer
+Johann Heinrich Patzig
+Carl Heinrich August Keppler
+----------------
+Johann Gotthelf Zenker
+Johann Gotthelf Maune
+Carl Friedrich Männel
+Carl Gotthelf Richter
+Johann Gottfried Böhme
+----------------
+Carl Traugott Fischer
+Carl Michael Lehmann
+Carl Gottlob Schulze
+Carl Gottfried Zarnokoy
+Carl Gottlieb Richter
+Johann August Lange
+----------------
+Gottlob Friedrich Böhme
+Carl Gotthelf Heinrich Richter
+1842
+Carl Friedrich Herklotz
+Gotthelf Friedrich Kaden
+Carl Gotthelf Patzig
+----------------
+Gotthelf Traugott Rall
+Carl Gottlieb Voigt
+Heinrich Wilhelm Störr
+Carl Friedrich Wilhelm Martin
+Gotthelf Friedrich Paulik
+Johann Gottlob Schubert
+Carl Gottlieb Matthes
+----------------
+Ernst Gotthelf Ficke
+Christian August Schubert
+Carl Gottfried Schubert
+Gotthelf Friedrich Eilzer
+Carl Wilhelm Beier
+Friedrich Wilhelm Eltner
+----------------
+Carl August Glaser
+Carl Gottfried Böhme
+Friedrich Traugott Fischer
+Carl August Stein
+1843
+Johann Gottfried Bormann
+Johann Carl August Teuchert
+----------------
+Carl Friedrich Rüdiger
+Johann Gottfried Keller
+Carl Gottfried Fritzsche
+Carl Friedrich Berger
+Ludwig August Weiß
+Carl Friedrich Bernhard
+Carl Gottlieb Kaden
+----------------
+August Leberecht Patzig
+Carl Friedrich Merkel
+Carl Leberecht Paulik
+Johann Heinrich Störr
+Carl Adolph Metzler
+Johann Gottlob Weichelt
+----------------
+Carl Samuel Wunderwald
+Carl August Schubert
+1844
+Johann Gottfried Börner
+Johann Rudolph Müller
+Friedrich August Münzner
+----------------
+Carl Gotthelf Hofmann
+Gotthelf Friedrich Spörke
+Carl Gottlob Gabriel
+Johann Gottfried Fischer
+Johann Gotthelf Mädler
+Gotthelf Friedrich Schäfer
+----------------
+Carl Gottlieb Schreiber
+Johann Gottlob Israel Fischer
+Carl Gottlieb Lange
+Carl August Störl
+Carl Gotthelf Lange
+----------------
+1845
+Carl Friedrich Traugott Priesing
+Christian August Lange
+Wilhelm Kaden
+Heinrich Gotthelf Schubert
+Ernst Eduard Teißler
+Carl Gottlob Teuchert
+----------------
+Carl Gottlob Kaden
+Ernst Traugott Liebert
+Johann Daniel Böhme
+Carl Wilhelm Heinrich Paulik
+Johann Friedrich Lobegott Bellmann
+Friedrich Ferdinand Schilling
+----------------
+Carl Friedrich Kempe
+Johann Gottlieb Höbelt
+Gotthelf Friedrich Kaden
+Carl Friedrich Geißler
+Christian Gotthold Wagner
+Friedrich August Zieger
+----------------
+Carl Gottfried August Bormann
+Ernst Wilhelm Langhof
+1846
+Carl August Seifert
+Carl August Paulik
+----------------
+Friedrich Wilhelm Schiebold
+Gottlob Heinrich Brückner
+Carl Gottlob Zimmermann
+Johann Carl Gottlieb Lehnert
+Johann Gotthelf Petschmann
+Johann Gottlieb Kaiser
+----------------
+Daniel Bernhard
+Carl Wilhelm Münschner
+Carl Gottlieb Wittig
+Georg Spanke
+Johann Gottlieb Kempe
+----------------
+1847
+Gottlob Friedrich Behr
+Carl Gottlieb Jäckel
+Carl Heinrich Mildner
+Friedrich Wilhelm Gretschel
+Christian Gottlob Teuchert
+Carl August Leberecht Teuchert
+----------------
+Carl Gotthelf Paul
+Carl Gottfried Tottewitz
+Carl Friedrich Ferdinand Werthmann
+Carl Gottlieb Petschmann
+Johann Gotthelf Eltner
+Carl Gottlieb Kost
+----------------
+Carl Gottlieb Fehrmann
+Gotthelf Leberecht Fritzsche
+Johann Gottfried Patzig
+Carl Gottfried Kühn
+Carl Gottlob Böhme
+Johann Gottlob Fischer
+----------------
+Johann Heinrich Andreas Carl Schöner
+Johann Friedrich Krönert
+Carl Gotthelf Patzig
+----------------
+1848
+Johann Gottlob Teichert
+Johann Adolph Kühn
+Johann Gotthelf Richter
+Gotthelf Leberecht Merkel
+Ferdinand Schubert
+Friedrich Wilhelm Götze
+----------------
+Wilhelm Heinrich Fehrmann
+Samuel Friedrich Müller
+Johann Daniel Erler
+August Friedrich Walther
+Gotthelf Heinrich Klöß
+Carl Leberecht Müller
+----------------
+Carl Lobegott Beyer
+August Friedrich Zarnokoy
+Gottlob Fürchtegott Bräuer
+Carl Gottlob Huhn
+Johann Gottfried Thiele
+----------------
+Carl Gottlob Hofmann
+1849
+Carl Friedrich Wilisch
+Herrmann Adolph Henker
+Carl August Lindner
+----------------
+Johann Gottfried Lindner
+Ernst Gottlieb Lange
+Carl Gottlieb Mende
+Carl Gottfried Wittig
+Johann Gottlieb Tröger
+----------------
+Carl Wilhelm Paul
+Johann Gotthold Falke
+Carl Gottlob Patzig
+Friedrich August Böhme
+Friedrich Wilhelm Spörke
+----------------
+August Friedrich Ihle
+Friedrich Wilhelm Merkel
+Johann Gottfried Arnold
+Carl Friedrich Richter
+----------------
+Carl Wilhelm Träger
+Johann Gottlob Fischer
+Carl Gottfried Fischer
+Carl Friedrich Arnold
+Carl August Geyer
+----------------
+Carl Friedrich Bräuer
+Carl Friedrich Rudolph
+Carl Gottfried Beckert
+Carl Gotthelf Schubert
