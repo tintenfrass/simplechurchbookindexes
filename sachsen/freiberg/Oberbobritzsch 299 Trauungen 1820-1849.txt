@@ -1,5 +1,5 @@
 Oberbobritzsch (Buch 299)
-Trauungen 1820-1839
+Trauungen 1820-1849
 https://www.archion.de/de/viewer/churchRegister/360075?pageId=50712541
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -495,3 +496,253 @@ Carl Traugott Uhlig
 Friedrich August Glöckner
 Carl Gottlieb Bellmann
 Gottlieb Friedrich Glöckner
+----------------
+1840
+Gottlob Leberecht Martin
+Christian Friedrich Gottlob Pestel
+August Friedrich Schneider
+Carl Ehregott Göpfert
+Johann Friedrich Zenicker
+Carl Gottlob Müller
+Traugott Friedrich Liebner
+Traugott Leberecht Grimmer
+----------------
+Christian Friedrich König
+Carl Gottlieb Böhme
+Carl Gottfried Schöne
+Carl Gottlieb Neubert
+Carl Gottlieb Heimann
+Gottlieb Richter
+Johann Gottfried Kästner
+----------------
+1841
+August Gustav Richter
+Johann Traugott Franke
+Friedrich Wilhelm Kirbach
+Carl August Griesbach
+Johann Daniel Feller
+Carl Gottlob Sohr
+Christian Friedrich Lange
+----------------
+Carl Gottlob Berger
+Carl Gottlieb Glöckner
+Carl Gottfried Lippmann
+Carl Gottlieb Erler
+Friedrich Traugott Fischer
+Carl Traugott Kröher
+----------------
+Carl Gotthelf Göhler
+Carl Gotthelf Bormann
+----------------
+1842
+Carl Friedrich Beckert
+Carl Friedrich Wetzel
+Carl Friedrich Sättler
+Carl Gottlieb Richter
+Gottlob Friedrich Erler
+----------------
+Carl Christoph Kastner
+Carl Israel Kühn
+Carl Ehregott Scheunpflug
+Gottlob Friedrich Grimmer
+Carl August Kirchner
+Gottlob Friedrich Berthold
+----------------
+Carl Friedrich Richter
+Carl Friedrich Müller
+Traugott Friedrich Uhlig
+Gottlob Friedrich Fischer
+Carl Gotthelf Günther
+Johann Traugott Welz
+----------------
+Carl Friedrich Fischer
+Gotthelf August Krätzer
+Carl Friedrich Kleber
+Friedrich Traugott Fischer
+Friedrich August Ihle
+Gottfried Traugott Wetzel
+Carl Gottlob Zimmermann
+----------------
+1843
+August Friedrich Schneider
+Johann Traugott Fischer
+Johann August Liebert
+Traugott Leberecht Richter
+Carl Gottlob Göhler
+Gottlieb Friedrich Glöckner
+Carl Gottlieb Fehrmann
+----------------
+Carl Gottlob Hähnel
+Gottlob Friedrich Börner
+Gottlieb Friedrich SOhr
+Traugott Friedrich Liebscher
+Carl August Glöckner
+Carl Friedrich Zimmermann
+----------------
+Carl Traugott Schneider
+Carl Gottlieb Wolf
+Friedrich August Wolf
+----------------
+1844
+August Friedrich Grimmer
+Carl Friedrich Ehregott Glöckner
+Johann Daniel Kästner
+August Ferdinand Köhler
+Gottlob Friedrich Glöckner
+Carl Friedrich Wetzel
+Friedrich Eduard Beyrich
+----------------
+Johann Gottlob Dehnert
+Carl Gottlieb Borrmann
+Friedrich Gotthelf Sandig
+Friedrich Gottlob Fischer
+Carl Friedrich Uhlig
+Carl Friedrich Lange
+Carl Heinrich Dietze
+----------------
+Heinrich August Lutze
+Carl Gottlieb Böhme
+Carl Friedrich Zimmermann
+Carl Friedrich Traugott Richter
+----------------
+1845
+Christian Gottlieb Lippmann
+Carl Gottfried Fischer
+Johann Gottlieb Fröbel
+Carl Gottlob Kästner
+Heinrich Gotthelf Schubert
+Gottlieb Friedrich Schneider
+----------------
+Johann Traugott Kaden
+Carl Traugott Schmidt
+Gotthelf Friedrich Seifferth
+Carl Gottlieb Schramm
+Gottlieb Friedrich Hähnel
+Carl Gottlob Lempe
+----------------
+Gotthelf Schröter
+Carl Gottlob Borrmann
+Carl Friedrich Wolf
+----------------
+1846
+Gottlob Friedrich Glöckner
+Johann Gottfried Glöckner
+Carl Gottlieb Wahl
+Carl Friedrich Bernhard
+Carl Friedrich Wilhelm Grosch
+----------------
+Friedrich Wilhelm Neuhäußer
+Johann Friedrich Höhnel
+Johann Gotthelf Böhme
+Gottlieb Friedrich Butze
+Carl Gotthelf Braun
+Christian Gottlob Fischer
+----------------
+Friedrich August Böhme
+Carl Gottlieb Körner
+Christian Ferdinand Richter
+Johann Gottlob Jungnickel
+Johann Gottlieb Lempe
+----------------
+Samuel Friedrich Zinke
+Friedrich Ehregott Höppner
+Christian Friedrich Wilhelm Berger
+Carl Gottlob Lotze
+Johann Gotthelf Göpfert
+Johann Christlieb Kempe
+----------------
+Friedrich Herrmann Richter
+Carl Gottlob Braune
+Johann Gottlob Borrmann
+Carl Gottlieb Schmidt
+Carl Friedrich Wolf
+Johann Traugott Erler
+Johann Gotthelf Dietze
+----------------
+1847
+Carl Gottlieb Grimmer
+Carl Gottlob Ertelt //Oertel
+Carl Gottfried Heinrich Zeller
+Gottlieb Friedrich Köhler
+Gottlieb Friedrich Köhler
+----------------
+Johann Carl Gottfried Arnold
+Carl Gottlieb Geißler
+Ernst Fürchtegott Neühaüßer
+Friedrich Traugott Börner
+Ernst Wilhelm Ferdinand Hammerschmidt
+Carl Friedrich Fleischer
+----------------
+Johann Heinrich Grimmer
+Friedrich Gottlob Hennig
+Carl Gottlob Scheunpflug
+Johann Gottlieb Grimmer
+Carl Gottlob Scheünpflug
+Carl Friedrich Zimmermann
+----------------
+Carl Friedrich Schneider
+Johann Gottlieb Schulze
+Johann Christian Wilhelm Funke
+Carl Gottlob Buchheim
+----------------
+1848
+Fürchtegott Leberecht Beyer
+Adam Gottlieb Rudolph
+Johann Gottlob Friedrich Richter
+Friedrich Leberecht Hempel
+Johann Gottlieb Grimmer
+----------------
+Christian Friedrich Fischer
+Gottlob Friedrich Oertel
+Johann Gottlieb Dachsel
+Carl Gotthelf Fritzsche
+Ernst Traugott Mosch
+Carl Gottlieb Ulbricht
+Carl Gottfried Eilenberger
+----------------
+Gotthelf Friedrich Borrmann
+Friedrich Gottlob Fischler
+Carl Wilhelm Beyer
+Christian Friedrich Wetzel
+Ernst Gottlieb Thiele
+Carl Gottfried Wahl
+Friedrich Wilhelm Nestler
+----------------
+Carl Gottfried Fischer
+Gottlieb Friedrich Glöckner
+Carl Gottlieb Reichelt
+Carl Gottlob Richter
+Friedrich Wilhelm Hennig
+Carl Wilhelm Näcke
+----------------
+Carl Gottlob Müller
+Carl Friedrich Lohse
+----------------
+1849
+Ernst Gottlieb Lange
+Carl Gottlob Fischer
+Johann Traugott Franke
+Carl Gottlieb Friedrich Hegewald
+Christian Gottlob Oeser
+Carl August Heinrich Mehnert
+Carl Samuel Lieber
+Gottlieb Friedrich Kästner
+----------------
+Herrmann Julius Steyer
+Gottlob Friedrich Fleischer
+Carl August Fischer
+Carl Gottlob Porstein
+August Florian Müller
+Carl Friedrich Fischer
+----------------
+Carl Wilhelm Heinrich Morgenstern
+Carl Scheunert
+Friedrich Traugott Leberecht Baumgart
+August Leberecht Richter
+Gottlob Friedrich Porstein
+Carl Gottlieb Göhler
+----------------
+Friedrich August Wolf
+Carl Gottlob Lange
+Carl Friedrich Arnold
+Friedrich Leberecht Zimmermann

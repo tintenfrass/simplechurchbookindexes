@@ -1,5 +1,5 @@
 Weißenborn (Buch 397)
-Trauungen 1802-1839
+Trauungen 1802-1849
 https://www.archion.de/de/viewer/churchRegister/360196?pageId=50736819
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Juni 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -347,3 +348,99 @@ August Friedrich Wilhelm Gottschalk
 August Friedrich Julius Leibner
 Georg Friedrich Götzel
 Gotthold Friedrich Hänig
+1840
+Traugott Friedrich Pomsel
+----------------
+Christian Gottlob Gehmlich
+Friedrich Wilhelm Fischer
+Carl Gottlob Fritzsche
+Carl Gottlob Kaden
+----------------
+Carl Gottlob Müller
+Johann Gottlob Hofmann
+Carl Gottlob Götzel
+Carl Gottlob Kummer
+----------------
+1841
+Carl Samuel Traugott Kirchner
+Friedrich Wilhelm Kirbach
+August Friedrich Seifert
+Gottlob Walther
+Friedrich Wilhelm Götzel
+----------------
+Carl August Fleischer
+Michael Haaser
+Carl Gotthelf Göhler
+Friedrich Wilhelm Wolf
+----------------
+1842
+Friedrich Wilhelm Weise
+Carl Gottlieb Lohse
+Gotthelf Friedrich Thielemann
+1843
+Traugott Friedrich Neubert
+----------------
+Carl Friedrich Ernst Schiffel
+Carl Friedrich Franke
+Carl Traugott Liebscher
+Carl Gottlob Rößiger
+Gottfried Klein
+----------------
+Heinrich Wilhelm Venus
+Carl Friedrich Eduard Krauß
+1844
+Heinrich Wilhelm Venus
+Gottlob Wilhelm Männel
+----------------
+Carl August Grimmer
+Carl Friedrich Günzel
+Carl Traugott Kräher
+Johann Friedrich Müller
+----------------
+Herrmann Julius Finsterbuch
+Carl August Böhme
+1845
+August Friedrich Emmrich
+----------------
+Carl Friedrich Beier
+Carl Gottlob Borrmann
+Johann Friedrich Müller
+Carl Friedrich Lohse
+----------------
+1846
+Johann Gottfried Knöbel
+Carl Gottfried Glas
+Johann Ferdinand Ulbricht //korrigiert
+Friedrich August Klitzsch
+----------------
+Friedrich Ehregott Hennig
+Carl Benjamin Weigold
+Carl Gottlieb Göbel
+1847
+Carl Friedrich Wilhelm Zehl
+----------------
+Heinrich Wilhelm Müller
+Franz August Böhme
+Carl Traugott Hennig
+Johann Wilhelm Lohse
+----------------
+1848
+Carl Gottlob Köhler
+August Franz Scheinert
+Carl Trauaufgott Beyer
+Heinrich Ferdinand Fischer
+Johann Friedrich Böhme
+----------------
+Wilhelm Fürchtegott Gräbner
+Carl Gottlob Andreas
+Friedrich August Ihle
+----------------
+1849
+Carl Gottlieb Büschel
+August Leberecht Richter
+Carl Friedrich Günzel
+Wilhelm Fürchtegott Gräbner
+Carl Gottlieb Göbel
+----------------
+Ferdinand Leberecht Hoyer
+Carl Friedrich Arnold

@@ -1,5 +1,5 @@
 Weigmannsdorf (Buch 386)
-Trauungen 1826-1839
+Trauungen 1826-1846
 https://www.archion.de/de/viewer/churchRegister/360185?pageId=50734996
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -208,3 +209,107 @@ Carl Christoph Lohse
 August Heinrich Göhler
 August Friedrich Hegewald
 Carl August Heidrich
+----------------
+1840
+Carl Fürchtegott Gläser
+Johann Gottlob Merkel
+Johann Carl Gottlieb Fritzsche
+----------------
+Carl Reinhard Merkel
+Carl Friedrich Mattheß
+Carl August Kämpfe
+----------------
+Johann Gottlieb Kaden
+Friedrich Wilhelm Maeke
+Carl Friedrich Richter
+Carl Gottlob Fischer
+----------------
+Samuel Friedrich Gerold
+Carl Gottlob Fürchtegott Peukert
+Gottlieb Friedrich Göpfert
+----------------
+1841
+Johann Gottlieb Kaden
+Carl Friedrich Neuhäuser
+----------------
+Traugott Friedrich Ulbrich
+Johann August Krumbiegel
+Christian Gottlob Fischer
+----------------
+1842
+Johann Gottlieb Fritzsche
+Carl Gottlob Kadens
+----------------
+Carl Traugott Börner
+Carl Traugott Roll
+Friedrich Wilhelm Lohse
+----------------
+Heinrich Ferdinand Berger
+Christian Friedrich Drechsler
+Carl Friedrich Schlesier
+----------------
+Traugott Friedrich Mühl
+Carl Friedrich Klöber
+Gotthelf Friedrich Mäke
+----------------
+1843
+Gottlob Friedrich Richter
+Carl Adolph Göhler
+Carl Friedrich Ferdinand Teiffler
+----------------
+Carl Gottlieb Wolf
+Carl August Püschel
+Carl Gottlob Walther
+Christian Christlieb Kaden
+Gottlieb Friedrich Göpfert
+----------------
+Friedrich Gottlieb Wolf
+1844
+Johann Gottlob Grellmann
+Carl Friedrich Richter
+Carl Traugott Bartzsch
+----------------
+Friedrich August Lehnert
+Carl Wilhelm Braun
+Johann Gottlieb Köhler
+----------------
+1845
+Johann Gottfried Buschbeck
+Carl Friedrich Müller
+Carl Gottlob Liebscher
+Carl Friedrich Fischer
+Carl Gottlob Friedrich Hennig
+----------------
+Heinrich Sieggismund Zimmermann
+Johann Gotthelf Börner
+Christian Friedrich Neuhäuser
+Christian Friedrich Koch
+Gottlob Friedrich Glöckner
+----------------
+Ernst Wilhelm Hornuff
+Ernst Gottlieb Klemm
+Carl Gottlieb Strauß
+Carl Friedrich August Wunderwald
+----------------
+1846
+Gotthelf Friedrich Clemens Schlegel
+Carl Fürchtegott Neuhäuser
+Carl Gottlieb Schmidt
+Gotthold Friedrich Herklotz
+Carl Moritz Richter
+----------------
+Carl Traugott Horn
+Friedrich Wilhelm Scheinpflug
+Carl Gottlob Müller
+Johann Gottfried Glöckner
+Carl Gottlieb Weichelt
+----------------
+Friedrich Gotthelf Fischer
+Carl Gotthold Liebscher
+Carl Gottlob Richter
+Carl Friedrich Wilhelm Schlimpert
+----------------
+Carl August Schmidt
+Johann Gottlieb Helbig
+Carl Gottlob Clausnitzer
+Carl Friedrich August Fischer

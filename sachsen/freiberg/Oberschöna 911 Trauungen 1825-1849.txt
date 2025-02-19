@@ -1,5 +1,5 @@
 Oberschöna (Buch 911)
-Trauungen 1825-1839
+Trauungen 1825-1849
 https://www.archion.de/de/viewer/churchRegister/360091?pageId=50715957
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -281,3 +282,240 @@ Traugott Ehrenfried Liebert
 Carl Gottlob Erler
 ----------------
 Carl August Kaden
+1840
+Johann Gottfried Pötzsch
+Carl Gottfried August Borisch
+Carl August Ufer
+Carl Gottfried Schmidt
+Carl August Fischer
+Gottlieb Ludwig Karl Kind
+----------------
+Johann Gottfried Haumann
+Johann Georg Ackermann
+Carl Friedrich Schmidt
+Johann Gottlieb Berthold
+Carl Gottlieb Kirbach
+Carl Gottlob Rülke
+1841
+Carl Gottlieb Pflugbeil
+Carl August Otte
+Herrmann Christoph Hubricht
+----------------
+Carl Gottlob Weigand
+Johann Eduard Fleischer
+Carl August Nietzel
+Johann August Beltmann
+Ernst Julius Göppler
+Friedrich August Kirchhübel
+Gottlob Ehregott Uhlemann
+Carl Gottlob Fischer
+----------------
+August Wilhelm Liebe
+Carl Gottlieb Friedrich Liebscher
+Carl August Neubert
+Johann Traugott Helbig
+Johann Carl Christian Friedrich
+Friedrich Wilhelm Rockstroh
+Carl August Thümler
+Christian Friedrich Eduard Gläser
+Herrmann Hugo Jacuhius
+----------------
+Carl Gottlieb Barfuß
+Fürchtegott Leberecht Böhme
+Carl Wilhelm Erler
+Carl Friedrich Müller
+Carl Gottlieb Rülke
+Carl August Seidel
+Moritz Eduard Kind
+----------------
+1842
+Carl Friedrich Liebe
+Ernst Louis Hubricht
+Israel Fleischer
+Friedrich Wilhelm Hubricht
+Carl Gottlieb Richter
+Gotthold August Illgen
+Carl Rudolph Frey
+Carl Wilhelm Braun
+Carl Gottfried Schmidt
+----------------
+Gustav Ferdinand Frey
+Samuel Friedrich Fritzsche
+Ernst Haubold
+August Friedrich Müller
+Carl Adolph Leonhardt
+Carl Friedrich Hähnel
+Carl Gottlieb Halm
+Johann Gottlieb Cruschwitz
+Carl Friedrich Gerngroß
+Carl Gottlob Scheunpflug
+----------------
+Carl Wilhelm Pomsel
+Carl Gottlieb Venus
+1843
+Carl Ferdinand Handler
+Christian Friedrich Oesterreich
+Adam Gottlob Friedrich Erler
+Carl Gottfried Schönherr
+Friedrich August Goldbach
+Carl Gottlob Straßberger
+----------------
+Carl Traugott Bellmann
+Carl Gottlob Reichold
+Carl Gottfried Endig
+Johann Traugott Walther
+Johann Traugott Höppner
+Johann Traugott Ohndorf
+Carl August Seydel
+Johann Carl August Erler
+Carl August Moritz Meißner
+Christian Adolph Köpping
+----------------
+Carl Gottlieb Obendorf
+Friedrich August Kluge
+Carl Friedrich Löschner
+Carl Adolph Händler
+Carl Gotthold Matthes
+1844
+Carl Heinrich Einhorn
+Carl Gottlob Müller
+Johann Traugott Straßberger
+Johann Gottlieb Berthold
+Carl Traugott Thiene
+----------------
+August Heinrich Müller
+Johann Gotthelf Müller
+Friedrich August Frank
+Carl Friedrich Helbig
+Friedrich Gotthelf Morgenstern
+Carl Gottlieb Fleischmann
+Carl Heinrich Obendorf
+Johann Carl Friedrich Schubert
+Carl Traugott Biber
+----------------
+Carl Friedrich Wildfeuer
+Johann Traugott Michael
+Johann Gottlieb Fischer
+Carl August Haubold
+Carl Adolph Fleischer
+August Friedrich Meuzner
+1845
+Carl August Große
+Carl Friedrich Hammermüller
+Carl Gottfried Sohr
+----------------
+Carl Adolph Andreas
+Johann David Lange
+August Friedrich Wilhelm Fritzsche
+Carl Gottlieb Rilke
+Carl Adolph Andreas
+Johann Gottlieb Illgen
+Carl Gottlob Reiche
+Conrad Friedrich Lange
+Johann Traugott Illgen
+----------------
+Heinrich Eduard Hubricht
+August Friedrich Forberger
+Friedrich Wilhelm Straube
+Traugott Leberecht Günther
+Carl Traugott Müller
+August Friedrich Meyer
+Carl Gottlieb Kluge
+Johann Traugott Rothe
+Johann Gottlob Illgen
+----------------
+Carl Julius Rau
+Johann Christoph Oehme
+Carl Gottlieb Schneeweiß
+Carl Homilius
+Carl Gottfried August Borrmann
+Carl Gottlob Göppner
+Carl August Forberger
+Friedrich Ehregott Gernegroß
+Carl August Münzner
+----------------
+Carl Friedrich Erler
+1846
+Carl August Kaltofen
+Carl Gottlob Eidner
+Christian Friedrich Dittrich
+Carl Wilhelm Beyer
+Carl Gottfried Schmidt
+Carl Friedrich Forberger
+Carl Gottlieb Hunger
+----------------
+Carl Gotthold Kaden
+Gottfried Wilhelm Fischer
+Friedrich Wilhelm Pomsel
+Friedrich August Wildfeuer
+Johann Samuel Schlimpert
+August Moritz Seyfert
+August Moritz Seyfert //durchgestrichen
+----------------
+August Wilhelm Berndt
+1847
+Johann Samuel Israel Gottlob Löbe
+Friedrich August Forberger
+Carl August Haubold
+Carl Gottlob Fischer
+Christoph Friedrich Teistler
+Johann Gottlob Hermersdörfer
+----------------
+Johann Gottlieb Berthold
+Friedrich Wilhelm Grötzschel
+Johann Gottlob Schmidt
+Christian Heinrich Hübner
+Carl Adolph Andreas
+Carl August Rudolph
+Carl Gottlob Oswald
+----------------
+Carl August Schlimpert
+Friedrich Ehregott Fritzsche
+Johann Christian Fischer
+Carl Friedrich Griesbach
+Carl Friedrich Haselbach
+Herrmann Eugen Brendel
+Carl Adolph Haubold
+----------------
+Gottfried Siegismund Kind
+1848
+Carl Friedrich Weiß
+Carl Gottlob Sohr
+Carl Adolph Börner
+Carl Friedrich Griesbach
+Carl Friedrich Andreas
+----------------
+Ernst Friedrich Homilius
+Johann Friedrich August Gerster
+Gustav Adolph Schwarze
+Theodor Louis Kunze
+Ernst Ferdinand Jobst
+Friedrich Ernst Benisch
+Carl August Grahl
+----------------
+Carl Traugott Richter
+1849
+Carl Friedrich Neubert
+Carl August Hecker
+Gottlieb Fürchtegott Klemm
+Carl August Zeuner
+----------------
+Carl Friedrich Oehme
+Ferdinand Moritz Wünschmann
+Carl Gottlieb Kurth
+Carl August Emil Ludwig
+Ernst Ferdinand Klüge
+----------------
+August Friedrich Wildfeuer
+Ehregott Friedrich Hopf
+Carl Ehregott Viererbe
+Carl Friedrich Feldmann
+Friedrich Wilhelm Barthel
+----------------
+Johann Gottlob Dreißig
+Carl August Heinze
+Carl Friedrich Wolf
+Gottlieb Israel Büttner
+Carl Gottlieb Kunze
+----------------
+Carl Friedrich Griesbach

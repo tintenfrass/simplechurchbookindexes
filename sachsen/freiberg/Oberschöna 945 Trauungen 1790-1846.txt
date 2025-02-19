@@ -1,5 +1,5 @@
 Oberschöna (Buch 945)
-Trauungen 1790-1839
+Trauungen 1790-1846
 https://www.archion.de/de/viewer/churchRegister/360097?pageId=50717506
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,12 +9,13 @@ Hinweis:
 Filialkirche Wegefarth
 
 
-Erstellt in ca. 2 Stunden
+Erstellt in ca. 2,5 Stunden
 Januar 2024
 Juni 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -491,3 +492,102 @@ Carl Gottlieb Peukert
 Johann Traugott Kühn
 ----------------
 Carl Gottfried Schmidt
+----------------
+1840
+Carl Gottlob Fritzsche
+Johann Gottlieb Schubert
+Carl Gottlieb Einrich?
+Johann August Heinrich Ilgen
+Friedrich August Eckardt
+Johann Gottlieb Leberecht Jost
+Carl Adolph Zemmrich
+----------------
+Friedrich Wilhelm Wüstner
+Carl Gottlieb Einert
+Johann Gotthelf Thümler
+Carl Gottlieb Börner
+Carl Wilhelm Liebschner
+Carl August Ulbricht
+Carl August Moritz Engelmann
+1841
+Carl Theodor Schire
+----------------
+August Kröner
+Carl Gottfried Hofmann
+Carl Gottlieb Schneider
+Johann Traugott Fritzsche
+Johann Samuel Ufer
+Carl Gottfried Zarnokay
+Friedrich August Schnecke
+Christian Friedrich Kirsch
+----------------
+Gottfried Gattermann
+Johann Christoph Hermsdorfer
+1842
+Carl Gottlieb Götze
+Carl Traugott Lekscheide
+Johann Gottlob Starke
+Christian Gottlieb Fehrmann
+Carl August Fritzsche
+----------------
+Johann Georg Rottloff
+Carl Gottlob Schmidt
+Carl August Henig
+Eduard Clemens Schulze
+Carl August Schmidt
+1843
+Ehregott Schneider
+Johann Traugott Hanisch
+Johann Carl Gottlob Funke
+Carl Friedrich Zemmrich
+----------------
+Carl Gottlob Panier
+Immanuel Gottlob Hartmann
+Carl August Haubold
+Christian Friedrich Diehnel
+Carl Friedrich Heinrich Haubold
+Carl Adolph Metzler
+Friedrich Louis Faust
+Christian Adolph Köpping
+Christian Joseph Müller
+Carl Gottlob Eckart
+----------------
+1844
+Johann Gottfried Schmidt
+Carl Friedrich Wilhelm Fritsche
+Carl Gottfried Gürtler
+Friedrich Schmidt
+Carl Heinrich Uhlemann
+Samuel Heinrich Heyde
+Friedrich Traugott Müller
+Carl Friedrich August Glös
+Friedrich Wilhelm Willkomm
+----------------
+Carl Gottlob Kunze
+Gottlob Benjamin Steiger?
+Carl Friedrich Möller
+1845
+Carl Traugott Scheinert
+Carl Friedrich Heydenreich
+Carl Ehregott Richter
+Carl August Leonhardt
+Carl Leberecht Rothe
+----------------
+Heinrich Eduard Hubricht?
+Carl Gottlieb Kluge
+Carl Friedrich Schulze
+Carl Heinrich Richter
+Carl Gottlob Morgenstern
+Carl August Stein
+1846
+Heinrich Wilhelm Metzler
+Carl August Zemmrich
+Carl Wilhelm Erler
+----------------
+Carl Christian Hofmann
+Johann Gottlieb Willhelm Haupt
+Wilhelm Ferdinand Talkenberger
+Carl Christian Bernhardt
+Gottlob Leberecht Geißler
+Friedrich Wilhelm Wüstner
+Carl Friedrich Leonhardt
