@@ -1,5 +1,5 @@
 Dorfhain (Buch 137)
-Trauungen 1830-1839
+Trauungen 1830-1846
 https://www.archion.de/de/viewer/churchRegister/294224?pageId=40871229
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -7,6 +7,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -206,3 +207,164 @@ Johann Carl David Thomas
 ----------------
 Carl Gottlieb Baumgarten
 Johann Gottlieb Lotze
+----------------
+1840
+Carl Gottlieb Räntsch
+Friedrich August Traugott Wagner
+----------------
+Emil Julius Adelar Reinsperg
+Carl Wilhelm Kästner
+Christian Gottlob Richter
+----------------
+Georg Schumberg
+1841
+Friedrich August Borrmann
+----------------
+Carl Gottlieb Schäfer
+Johann Gottfried Geißler
+Ernst Wilhelm Beühl
+----------------
+Ehregott Leberecht Merker
+Carl Heinrich Eckhold
+Christian Friedrich Wilhelm Lange
+----------------
+Carl Gottlob Merkel
+Johann Gotthelf Henker
+Carl Christoph Zimmermann
+----------------
+Johann Carl Gottfried Müller
+Christian Friedrich Hähnel
+Carl August Müller
+----------------
+Friedrich Michael Hartmann
+Carl Daniel Henker
+Johann Christian Büttner
+----------------
+Friedrich August Erler
+1842
+Johann Gottlieb Dietrich
+Heinrich? August Geißler
+----------------
+Johann Gottlob Kleber
+Friedrich Traugott Hähnel
+Anton Schillhahn
+Johann Gottlob Lange
+----------------
+Carl Gottfried Ließner
+Johann Gottlob Böhme
+Heinrich Lomazsch
+Friedrich Wilhelm Berthold
+----------------
+Carl Friedrich August Braune
+Johann Gottlieb Borsdorf
+Carl Gottlob Holfert
+----------------
+Heinrich August Berger
+Carl Wilhelm Kleber
+Carl Gottfried Böhme
+----------------
+Carl Gottlob Meißner
+Johann Gotthelf Holfert
+Johann Gottfried Fehrmann
+----------------
+1843
+Carl Gotthelf Fick
+Friedrich August Schurig
+----------------
+Carl Friedrich Ficke
+Adolph Friedrich Wilhelm Berndt
+Gotthelf Friedrich Schwabe
+----------------
+Heinrich Benjamin Ebert
+Gottfried Heinrich Ebert
+Carl Gottlieb Hofmann
+----------------
+Franz Eduard Böhme
+Carl Gottfried Richter
+Johann Gottlieb Andres
+----------------
+Carl Friedrich Zscheile
+Carl Gottlieb Fehrmann
+Johann Samuel Ihle
+----------------
+Johann Gottfried Priebs
+Carl Adolph Thiele
+Carl Gottlieb Fischer
+----------------
+Johann Heinrich Schaarschmidt
+Carl Gottfried Rothe
+August Böhme
+----------------
+Carl Gottlob Zienner
+1844
+Johann Gottlieb Tamm
+----------------
+Carl Friedrich Ranke
+Johann Lobegott Weckbrodt
+Carl Christian Fischer
+Carl Ernst Friedrich Reichardt
+----------------
+Friedrich August Borrmann
+Carl Gottfried Golt
+Johann Friedrich Fährmann
+Carl Gottlieb Ebert
+----------------
+Friedrich Julius Richter
+Carl Gottlieb Walther
+Carl Gottlob Rost
+Carl Gotthelf Grahl
+----------------
+Gottlieb Heinrich Heber
+Friedrich Borrmann
+Johann Gottlieb Zimmermann
+----------------
+1845
+Karl Friedrich Traugott Priesing
+Karl August Hermann
+Karl Schilhahn
+----------------
+Gottlieb Beyer
+August Klemens Göpfert
+Johann Karl Gottfried Tepelt
+----------------
+Karl Friedrich Wolf
+Johann Christian Schlicke
+Friedrich August Schneider
+Ernst Ferdinand Arnold
+----------------
+Friedrich Wilhelm Engler
+Ernst Friedrich Wolf
+Karl Gottlieb Fleischer
+Johann Gottlob Henker
+----------------
+Johann Gottfried Herrmann
+Karl August Schramm
+Karl Friedrich Heber
+----------------
+Johann Gottlieb Schiefner
+1846
+Johann Gottlieb Welde
+----------------
+Christian August Bormann //korrigiert
+Karl Daniel Fleischer
+Karl Friedrich Wilhelm Grosch
+----------------
+Karl Gottlieb Ebert
+Friedrich Karl Gottlieb Neubert
+Karl Gottlieb Franke
+----------------
+Johann Gottlob Müller
+Karl Friedrich August Löfler
+Friedrich August Büttner
+----------------
+Johann Gottlieb Kernth
+Friedrich Wilhelm Schiefner
+Karl Wilhelm Ilgen
+----------------
+Ernst Friedrich Gürner
+Adolph Gustav Wagner
+Johann Gottlieb Opitz
+----------------
+Karl Friedrich Gottlieb Zimmer
+Karl August Keller
+Friedrich August Kunath

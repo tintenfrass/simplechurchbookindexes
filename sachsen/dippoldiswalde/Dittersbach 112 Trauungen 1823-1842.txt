@@ -1,5 +1,5 @@
 Dittersbach (Buch 112)
-Trauungen 1823-1839
+Trauungen 1823-1842
 https://www.archion.de/de/viewer/churchRegister/294205?pageId=40866935
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -218,3 +219,38 @@ Friedrich August Glökner
 Ernst Ferdinand Laube
 Johann Caspar Weichelt
 Friedrich Wilhelm Aehnelt
+----------------
+1840
+Christian Friedrich Kaden
+Carl Friedrich Traugott Liescher
+Johann Gottlieb Günzel
+Johann Gotthelf Sandig
+----------------
+Johann Traugott Berndt
+Gottlob Friedrich Liebscher
+Carl Gottlieb Ebert
+Friedrich Wilhelm Dittrich
+Carl Gottlob Kaden
+Carl Gotthelf Göbelt
+----------------
+Christian Friedrich Fürchtegott Günzel
+1841
+Johann Friedrich Bernd
+Carl Christian Fürchtegott Lohse
+----------------
+Carl Gottlob Donat
+Gotthelf Friedrich Göhler
+Carl Friedrich Zimmermann
+Johann August Krumbiegel
+----------------
+Carl Gottfried Seifert
+Carl Gottlob Lohse
+Johann Gottfried Blochwitz
+----------------
+1842
+Carl Heinrich Richter
+Carl Gottlieb Wolf
+Johann Carl Gottlob Dittrich
+Carl Friedrich Fischer
+----------------
+Carl Gottlob Hauke

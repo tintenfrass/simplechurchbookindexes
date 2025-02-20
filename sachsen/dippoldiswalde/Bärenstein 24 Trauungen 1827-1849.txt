@@ -1,5 +1,5 @@
 Bärenstein (Buch 24)
-Trauungen 1827-1839
+Trauungen 1827-1849
 https://www.archion.de/de/viewer/churchRegister/294130?pageId=40851167
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -194,3 +195,141 @@ Friedrich August Brandner
 Carl August Dietrich
 Johann Christoph Gottlob Mühle
 Johann Gottfried Nitsche
+----------------
+1840
+Carl Gotthelf Löwe
+Franz Theodor Sauer
+Carl August Oelschlägel
+Johann Gotthelf Schütze
+Carl Christlieb Schönberger
+Johann Christian Kümmel
+Carl August Hartmann
+----------------
+Carl August Weichold
+Johann Christian Traugott Jäpel
+Christlieb Heinrich Lehmann
+Eugen Ferdinand Klemmer
+Carl Gottlieb Kästner
+Johann Gotthold Köhler
+Carl Heinrich Gottlieb Thomas
+----------------
+1841
+Johann Traugott Schütze
+Carl Gottlob Hartmann
+Carl Gottlob Bretschneider
+Carl August Angermann
+Carl Gotthelf Traugott Löhnert //korrigiert
+----------------
+1842
+Johann Gottlieb Klengel
+Gustav Adolph Lüttich
+Carl Gottfried Weinhold
+Carl Friedrich Gutte
+Friedrich Wilhelm Förster
+Ernst Ferdinand Ehregott Kranz
+----------------
+Gotthard August Petzold
+August Benjamin Köhler
+Friedrich Wilhelm Göhlert
+Friedrich Wilhelm Kuöhl
+----------------
+1843
+Karl Heinrich Walther
+Christian Gottlieb Liebeheim
+Johann Gottlieb Kühnel
+Johann Gottlob Kühnel
+Karl August Klemmer
+Otto Paschke
+Karl Gottlieb Richter
+Karl Friedrich Wilhelm Löhnert
+Karl August Kadner
+----------------
+Karl August Kempe
+Karl Gotthelf Seifert
+Friedrich August Kühnel
+----------------
+1844
+Karl Gottlieb Ritschel
+Karl Gottlob Hohlfeld
+Christian Gottlob Schütze
+Martin Andreas Böttge
+Johann Karl Gottlob Krummbiegel
+Friedrich Traugott Burkhardt
+Karl Friedrich Kadner
+Friedrich Traugott Ludwig
+Friedrich August Martin
+----------------
+Karl Julius Weichold
+Karl Gottlieb Seifert
+Johann Karl Christian Schmuhl
+Karl Traugott Schürz
+----------------
+1845
+Gottlob Friedrich Hefurth
+Carl Friedrich Wilhelm Löhnert
+Heinrich Gottlob Klengel
+Friedrich August Walther
+Johann Gottfried Bobe
+Johann Karl Gottlieb Zillger
+Johann Gottlieb Mende
+----------------
+Christian Siegismund Homilius
+Karl Wilhelm Ulbrich
+1846
+Karl Gottlieb Ebert
+Karl Gottlob Preußer
+Johann Gottlieb Leberecht Appelt
+----------------
+Karl Gottlieb Schmidt
+Karl August Seidler
+Karl Gottlieb Scharfe
+Friedrich August Bobe
+Karl Gottlieb Klemmer
+Karl Gottlieb Riedel
+----------------
+Karl Friedrich Stephan
+Johann Gottfried Morgenstern
+Karl Gottlieb August Böhme
+Friedrich August Praßer
+Christian Friedrich Walther
+Karl Friedrich Walther
+----------------
+1847
+Karl Traugott Liebeheim
+Johann Karl Gottlieb Franke
+Karl Gottlieb Liebeheim
+Karl Gottlieb Kadner
+Heinrich Wilhelm Wolf
+Karl Gottlieb Schierz
+----------------
+Johann Friedrich August Mende
+Johann Gottlob Hickmann
+Karl Christlieb Schönberg
+Heinrich Wilhelm Weigelt
+Julius Albert Meisenberg
+----------------
+1848
+Karl Gottlieb Hickmann
+Johann Gottlieb Kühnel
+August Gotthelf Günther
+Friedrich August Schierz
+Johann Gottlieb Schütze
+Wilhelm Ferdinand Jungnickel
+----------------
+Ludwig Ferdinand Gollmann
+Karl Julius Haucke
+Christian Adam Braun
+Johann Gottlob Grumbt
+Karl Gottlieb Hickmann
+Karl Gottlieb Menke
+----------------
+Franz Xaver Nickel
+1849
+Karl Gottlieb Steiger
+Karl Moritz Herzog
+Johann Gottlieb Richter
+Johann Gottlieb Bretschneider
+----------------
+Wilhelm August Köhler
+Karl Gottlieb Mende
+Gottlob Friedrich Walther

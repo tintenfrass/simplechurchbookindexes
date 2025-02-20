@@ -1,5 +1,5 @@
 Burkersdorf (Buch 42)
-Trauungen 1817-1839
+Trauungen 1817-1849
 https://www.archion.de/de/viewer/churchRegister/294144?pageId=40852602
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -424,3 +425,238 @@ Johann Daniel Lempe
 Christian Friedrich Börner
 ----------------
 August Friedrich Hegewald
+1840
+Johann Immanuel Holfert
+Friedrich Traugott Göbelt
+----------------
+Johann Gottlieb Straßberger
+Johann Samuel Rothe
+Friedrich Gottlieb Richter
+Gottlob Friedrich Liebscher
+----------------
+----------------
+Carl Gottlieb Ebert
+Carl Ehregott Göpfert
+Christian Friedrich Heinrich
+Carl Christian Gottlob Weichelt
+Friedrich Traugott Böhme
+----------------
+Carl Gottlob Fischer
+Carl Wilhelm Scheunpflug
+Johann Gottfried Theodor Minding
+Johann Heinrich Kaden
+Carl Gottlieb Kaden
+----------------
+Carl Gottlieb Dienel
+Johann Carl Friedrich Goldmann
+Carl Friedrich Ehregott Lehmann
+Gottlieb Friedrich Göpfert
+----------------
+1841
+Carl Gottlieb Künzelmann
+Carl Gottlob Donat
+Carl Samuel Ehregott Kruhnert
+Johann Gotthelf Böhme
+----------------
+Johann Friedrich Griesbach
+Gotthelf Friedrich Göhler
+Johann Gottlob Kaden
+Heinrich August Franke
+----------------
+Christian Friedrich Fröbel
+Johann Gotthelf Braun
+----------------
+1842
+Carl Friedrich Lippmann
+Johann Gottlieb Julius Dietrich
+Carl Friedrich Beier
+Carl Friedrich Böhme
+----------------
+Gotthelf Friedrich Kaden
+Johann Gottlieb Lohse
+August Wilhelm Zimmermann
+Christian Friedrich Heinrich
+----------------
+Gottlob Friedrich Berthold
+Friedrich? Gottlieb Richter //korrigiert
+Carl Friedrich Viebig
+Friedrich Gottlob Böhme
+----------------
+Johann Samuel Kaden
+Carl August Hänel
+Carl Julius Rutzschke
+----------------
+1843
+Carl Gottlieb Franke
+Johann Gottlob Bartzsch
+Christian Gotthelf Schindler
+Gotthelf Friedrich Hampel
+Friedrich Christian Göhler
+----------------
+Carl Friedrich Erler
+Johann Christoph Franke
+Carl Herrmann Ficker
+Gotthelf Friedrich Reißmüller
+----------------
+Carl Gottlieb Mende
+Carl Gottlieb Heinrich
+Gottlieb Friedrich Göpfert
+Traugott Leberecht Schmidt
+Georg Gottlieb Lippmann
+----------------
+1844
+Carl Gottlob Kaden //korrigiert
+Heinrich Wilhelm Liebscher
+Carl Friedrich Fischer
+Carl Gottlieb Köhler
+Carl Gottlob Walther
+----------------
+Gottlieb Leberecht Hahn
+Christian Friedrich Hering
+Friedrich Adolph Stenzel
+Tobias Siegismund Busch
+Friedrich Gottlieb Preuß
+----------------
+Carl August Fischer
+Johann Friedrich Fehrmann
+Carl Friedrich Börner
+Johann Wilhelm Wunderwald
+Carl Friedrich Wetzel
+----------------
+Carl Traugott Kräher
+Traugott Friedrich Hänel
+Carl Gottlieb Zimmermann
+Carl Gottlieb Göpfert
+Friedrich August Lehnert
+----------------
+Gottlieb Heinrich Hegewald
+1845
+Johann Traugott Großmann
+Carl Gottlieb Kaden
+Friedrich Gottlieb Sandig
+----------------
+Johann Gottlieb Menzer
+Carl Friedrich Lohse
+Friedrich Wilhelm Menzer
+August Friedrich Scheinpflug
+----------------
+Carl Gottlob Wolf
+Traugott Friedrich Müller
+Carl Friedrich Hunger
+Carl Gottlieb Lohse
+----------------
+Carl August Löser
+Carl Gottlieb Haebelt
+Johann Gottlieb Börner
+Carl August Wolf
+Carl Gottlieb Pellmann
+----------------
+Carl Friedrich Geißler
+1846
+Carl August Müller
+Johann Gotthelf Haubold
+----------------
+Johann Friedrich Haehnel
+Johann Gotthelf Böhme
+Carl Gottlieb Erler? //korrigiert
+Carl Gotthelf Braune
+----------------
+Carl Gottlob Häbelt
+Carl August Hennig
+Carl Gottlieb Kästner
+Carl Gottfried Zimmermann
+----------------
+Carl Friedrich Schiller
+Gottlob Friedrich Richter
+Carl Friedrich Fritzsche
+Carl Gottlieb Hänel
+----------------
+Johann Gottlob Wolf
+Carl Friedrich Wolf
+Carl Gottfried Göpfert
+Johann Gottlieb Püschel
+----------------
+Carl Gottlieb Wolf
+Carl Adolph Dietrich
+1847
+Johann Samuel Rothe
+Carl Gottlob Ertel
+----------------
+Friedrich Gottlieb Günther
+Johann Heinrich Lohse
+Johann Daniel Arnold
+Carl Friedrich Göpfert
+Christlieb Friedrich Wolf
+----------------
+Friedrich Gotthelf Richter
+Traugott Leberecht Braune
+Carl Gotthelf Paul
+Carl Gottlieb Geißler
+----------------
+August Friedrich Dienel
+Carl Friedrich Fleischer
+Friedrich Gottlieb Lippmann
+Friedrich Gottlob Häbelt
+----------------
+Heinrich Moritz Pohlert
+Johann Gottlieb Grimmer
+Carl Gottlob Göpfert
+Friedrich Gottlieb Erler
+----------------
+Johann Gottlob Zimmermann
+Georg Friedrich Göhler
+Johann Gottlieb Wolf
+----------------
+1848
+Carl Gottlob Bartzsch
+Carl Gotthelf Schindler
+Carl Gottlieb Tittel
+Carl Gottlieb Berndt
+----------------
+August Franz Scheinert
+Johann Friedrich Walther
+Gottreich Leberecht Dietel
+----------------
+Karl Wilhelm Lorenz
+Johann Friedrich Arnold
+Karl Gottlob Franke
+Karl Gottlieb Göpfert
+----------------
+Christian Friedrich Ihle
+Johann Gottfried Arnold
+Karl Wilhelm Weinhold
+Karl Fürchtegott Lohse
+Friedrich Gottlob Fischer
+----------------
+Karl Friedrich Börner
+Christian Friedrich Wezel
+Friedrich Gottlob Hegewald
+Johann Gottlieb Lohse
+Johann Samuel Rothe
+Karl Gottlob Weichelt
+----------------
+August Friedrich Klemm
+Johann Gottlieb Götzelt
+Johann Daniel Gottlob Lippmann
+Karl Traugott Schmidt
+----------------
+1849
+Karl Gottfried Wittig
+Georg Friedrich Schiller
+Friedrich Gottlob Richter
+Friedrich August Richter
+----------------
+Karl Gottlob Porstein
+Karl Friedrich Schiller
+Karl Christlieb Grumt
+Karl Gottlob Friedrich Bellmann
+----------------
+August Friedrich Leberecht Kempe
+Karl Gottlob Seifert
+Friedrich Gottlieb Wolf
+Karl Gottlieb Berndt
+Karl Gottlob Fiedler
+----------------
+Karl Gottlob Berndt
+Karl Friedrich Fritzsche
+Karl Friedrich Wetzel
