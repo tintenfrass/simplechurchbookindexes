@@ -1,5 +1,5 @@
 Geising (Buch 296)
-Trauungen 1819-1839
+Trauungen 1819-1849
 https://www.archion.de/de/viewer/churchRegister/294360?pageId=40898548
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -598,3 +599,324 @@ Carl Gottlieb Weichold
 Friedrich Gottlieb Preußner
 ----------------
 Friedrich Felix Köllner
+----------------
+1840
+Johann Friedrich August Grumpelt
+Carl Gottlieb Weidelt
+Carl August Oelschlägel
+Friedrich Wilhelm Mutze
+Romanus Ferdinand Claus
+Carl Gotthelf Hohlfeld
+----------------
+Emanuel Heinrich Glaß
+Christian Gottlob Lange
+Johann Gotthelf Kirscht
+Carl Heinrich Adolph Krause
+Carl August Städter
+Carl Gottlieb Hohlfeld
+----------------
+Michael Mehnert
+Friedrich August Wilhelm Eichler
+Carl August Hartmann
+Friedrich Traugott Busch
+Carl Gottlieb Knauthe
+Traugott Wilhelm König
+----------------
+Carl Gotthelf Schmelzer
+Carl Gottlieb Tiebel
+Carl Friedrich Kretzschmar
+Friedrich Gotthelf Walther
+Gottlob Friedrich Glöckner
+Heinrich Gottlieb Ullrich
+----------------
+Johann Gottfried Kunath
+Johann Georg Bretschneider
+Carl August Fischer
+----------------
+1841
+Carl August Häcker
+August Benjamin Walther
+Heinrich Daniel Walther
+Christian Gottlob Ullmann
+Carl Heinrich Friedrich Richter
+Johann August Hohlfeld
+----------------
+Ernst Julius Richter
+Johann Friedrich Traugott Höhle
+Carl Gottlieb Ullmann
+Johann Friedrich Mätzold
+Carl Friedrich Jäckel
+Carl Friedrich August Dietrich
+----------------
+Gottlob Friedrich Seyfert
+August Dagobert Fischer
+August Moritz Herrmann Richter
+Friedrich Gotthelf Kadner
+Carl Heinrich Mutze
+Carl Gottlieb Weise
+----------------
+Carl Heinrich Helbig
+Carl Moritz Schmelzer
+Carl Gottlob Grumpelt
+David Benjamin Walther
+Johann Gottfried Brückner
+Karl Friedrich August Oelschlägel
+----------------
+Carl Wilhelm Schiefer
+Carl Friedrich August Berger
+----------------
+1842
+Friedrich Traugott Walther
+Carl Gottlieb Bernhardt
+Friedrich August Weigend
+Carl Franz Moritz Schmidt
+Friedrich August Beyer
+Carl Gottlieb Heyne
+----------------
+Johann Gotthelf Grumpelt
+Carl Friedrich Lohse
+Emanuel Friedrich Dittrich
+Carl Christlieb Dietrich
+Adolph Wilhelm Hesse
+Carl Gotthelf Throrandt
+----------------
+Friedrich Wilhelm Kirsten
+Friedrich Traugott Knauthe
+Karl Friedrich Traugott Krügner
+Heinrich August Böhmer
+Gotthard August Petzold
+Friedrich Wilhelm Göhler
+----------------
+Friedrich Ehregott Schelle
+Johann Gottfried Schmelzer
+Daniel Heinrich Göhler
+Gotthelf Friedrich Lohse
+Karl Friedrich Scharfe
+Johann Gottlob Wiese
+----------------
+1843
+Friedrich August Voigt
+Carl Gottlob Rieß
+Moritz Ferdinand Dietze
+Gustav Adolph Buschbeck
+August Wilhelm Grumbt
+Carl Gottlieb Aupel?
+----------------
+Friedrich August Lohse
+Carl Friedrich Traugott Schramm
+Heinrich Wilhelm Kühnel
+Carl Gottlieb Mühle
+Johann Gotthelf Leberecht Kretzschmar
+Gottlob Heinrich Burkert
+----------------
+Gotthelf Benjamin Mende
+Johann Gottfried Grödel
+Friedrich Gottlieb Böhmer
+Friedrich August Püschel
+Heinrich Gustav Bieler
+Carl Traugott Raffs
+----------------
+Carl Benjamin Schramm
+Carl Wenzel Eduard Pirnbaum
+Moritz August Wilhelm Krase
+Gotthelf Benjamin Seyfert
+Johann Carl Gottlieb Hohlfeld
+Christian Friedrich Hengst
+----------------
+Friedrich Wilhelm Schramm
+Ernst Julius Trommler
+Friedrich Gotthelf Gersch
+August Heinrich Knauthe
+Friedrich Wilhelm Oelschlägel
+----------------
+1844
+Friedrich August Nestler
+Heinrich Samuel Jäpel
+Friedrich Gottlob Melzer
+Franz Oswald Fleck
+Friedrich Gottlieb Seyfert
+Heinrich Wilhelm Kästner
+----------------
+Carl Gottlieb Klengel
+Carl Heinrich Wilhelm Kadner
+Carl Gotthelf Mende
+Friedrich August Walther
+Traugott Bretschneider
+Friedrich Gottlob Böhme
+----------------
+Christian Louis Paul
+Carl Heinrich Hengst
+Heinrich Gottlob Benjamin Billig
+Friedrich August Pech
+Friedrich Wilhelm Pfeifer
+Floria Flasche
+----------------
+Friedrich Gottlob Kühnel
+Johann Ferdinand Querner
+Karl Heinrich Eduard Hubert
+Johann Gottlob Meyer
+Friedrich Benjamin Gieg
+Gotthard August Bindhaase
+----------------
+Ambrosius Ferdinand Grumbt
+----------------
+1845
+Franz Joseph Heß
+Carl Gottlieb Knauthe
+Emanuel Wilhelm Querner
+Friedrich August Weise
+Carl Gotthelf Pfützner
+Carl August Zimmer
+----------------
+Johann Gottlob Israel
+Friedrich Wilhelm Schmatze
+Carl August Friedrich Voß
+Johannes Gowasch
+Carl Heinrich Weigend
+Heinrich Gottlob Klengel
+----------------
+Johann Friedrich Romeo Gödsche
+Carl Wilhelm Behr
+Ernst Ferdinand Thorandt
+Carl Gottlieb Bauch
+Gotthelf Ehrenreich Fürchtegott Nitzsche
+Carl Heinrich Köllner
+----------------
+Ambrosius Ferdinand Grumpt
+Carl Gotthelf Viebig
+Carl Fürchtegott Börner
+Carl Heinrich Grumbt
+Friedrich Traugott Langbein
+Johann Christian Friedrich Lohse
+----------------
+Friedrich Wilhelm Schmatze
+Carl Friedrich Traugott Müller
+----------------
+1846
+Friedrich Gotthelf Voß
+Heinrich Gottlieb Bindhase
+Carl Gottlieb Wilhelm Körner
+Carl August Kirsten
+Peter Petrich
+----------------
+Friedrich Leberecht Kirsten
+Friedrich Traugott Müller
+Friedrich Gottlieb Grumpelt
+Ernst Benjamin Oelschlägel
+Herrmann Fürchtegott Hille
+----------------
+Carl Heinrich Hübsch
+Johann Gottfried Morgenstern
+Herrmann Eduard Schlegel
+Carl Friedrich Heymann
+Friedrich August Kirsten
+----------------
+Friedrich August Hesse
+Karl August Häcker
+Johann Pannasch
+----------------
+Johann Pannasch //durchgestrichen
+Johann Gottfried Walther
+Karl Gustav Schramm
+Friedrich August Küchler
+----------------
+Karl Gotthelf Kleinpaul
+Karl August Grohmann
+August Dagobert Fischer
+Daniel Leberecht Burkhardt
+Karl August Mende
+----------------
+1847
+Ernst Gottlob Seidler
+Friedrich Traugott Busch
+Karl Gottlieb Göhlert
+Karl Ferdinand Pirnbaum
+----------------
+Heinrich Louis Geißler
+Karl Gottlob Behr
+Heinrich Adolph Kunze
+Karl August Hartmann
+----------------
+Heinrich Moritz Kadner
+Karl Gottlieb Lehmann
+Anton Xaver Maximilian Karl Wagner
+Friedrich Wilhelm Aßmann
+----------------
+Friedrich Wilhelm Weigelt
+Karl August Ehrlich
+Karl Gotthelf Liebscher
+Karl Gottfried Lohse
+----------------
+Karl August Ullmann
+Friedrich Samuel Tiebel
+Johann Gottlieb Saupe
+Friedrich August Püschel
+Heinrich Gottlieb Schmelzer
+----------------
+Karl Gottlieb Leberecht Lehmann
+Wilhelm Heinrich Patzig
+----------------
+1848
+Heinrich Wilhelm Pirnbaum
+Friedrich August Klengel
+Friedrich August Zennig
+Friedrich Gotthelf Kadner
+Friedrich August Grundig
+----------------
+Karl Friedrich Scherf
+Friedrich Wilhelm Reuter
+Karl Friedrich Wilhelm Zechel
+Karl Julius Oeschlägel
+Johann Heinrich Pirnbaum
+----------------
+Friedrich Gottlieb Schramm
+Karl August Henker
+Johann Gottfried Scharfe
+Heinrich Julius Ehrlich
+----------------
+Traugott Leberecht Klengel
+Emil Ferdinand Oelschlägel
+Karl August Fischer
+Friedrich August Grumbt
+----------------
+Karl Ehrenreich Kämpfe
+Johann Christian Gottlieb Müller
+Karl Wilhelm Hesse
+Friedrich Wilhelm Ehrhardt
+Friedrich August Löwe
+----------------
+1849
+Johann Gottlieb Figur
+Johann Heinrich Schindler
+----------------
+Johann Gottfried Hännichen
+Karl Gottlob Mende
+August Gottlob Pirnbaum
+Friedrich August Kadner
+Friedrich Gottlob Bilig
+----------------
+Gotthelf Ehrenreich Behr
+Karl Gottlieb Ehrhardt
+Johann Gottlieb Sterll
+Johann Gottfried Klare
+----------------
+Christoph Benjamin Günzel
+Karl Heinrich Winter
+Karl Gottlieb Kästner
+Karl Benjamin Sauerbrey
+Gumal Fischer
+----------------
+Emanuel Heinrich Pirnbaum
+Heinrich Friedrich Hosemann
+Karl Friedrich August Lippoldt
+Karl August Ferdinand Kadner
+----------------
+Albert Ludwig Richter
+Friedrich Ludwig Behr
+Emil Ludwig Grumbt
+Karl Eduard Sommerschuh
+Heinrich Franziscus Gottweis
+----------------
+Karl Fürchtegott Walther
+Carl Gotthelf Ehrenreich Siegel
+Emanuel Heinrich Langbein

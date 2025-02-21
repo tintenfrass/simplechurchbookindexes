@@ -1,16 +1,17 @@
 Frauenstein (Buch 233)
-Trauungen 1660-1839
+Trauungen 1660-1849
 https://www.archion.de/de/viewer/churchRegister/294306?pageId=40890969
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 4 Stunden
+Erstellt in ca. 4,5 Stunden
 Oktober 2023
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -2526,3 +2527,213 @@ Georg Friedrich Göhler
 Carl Gotthelf Hähnel
 Friedrich Wilhelm Machold
 Christian Gottlob Benjamin Kliemann
+----------------
+1840
+Johann Daniel Kaden
+Carl August Helbig
+Carl Gottlob Fischer
+Carl Gottlieb Bellmann
+----------------
+August Friedrich Schneider
+Christian Friedrich Pretzsch
+Johann Carl Gottlieb Grumpt
+Carl Gottlob Schramm
+Johann Heinrich Uhle
+----------------
+Johann Gottfried Köhler
+Carl Gottlieb Grohmann
+1841
+Carl Gottlieb Lempe
+Johann Immanuel Scheibitz
+----------------
+Carl Gottlieb Henel
+Gottlob Friedrich Kirsten
+Carl Gottlieb Göhler
+Carl Gottlieb Schröder
+----------------
+----------------
+Carl August Straßberger
+Adolph Moritz Jungnickel
+Johann Gottlieb Walther
+Johann Carl Gottlieb Kästner
+----------------
+Friedrich Gotthelf Rülke
+Johann Gottlieb Seifert
+Carl Friedrich Seifert
+Carl Gotthelf Heinrich Richter
+Carl Gotthelf Borrmann
+----------------
+Carl Friedrich Gotthelf Reichel
+1842
+Carl Friedrich Grumpelt
+Carl Gottlieb Friedrich Fischer
+Christian Friedrich Heinrich
+Christian Gottlob Kotta
+----------------
+Gottlob Friedrich Bernd
+Gotthold Christlieb Fürchtegott Wolf
+Adolph Ludwig Göhler
+Carl Friedrich Müller
+Friedrich Wilhelm Görner
+----------------
+Wilhelm Friedrich Lehrmann
+Carl Gottlieb Börner
+Samuel Gottlieb Tröger
+Gottlob Ehrenfriedrich Wigt
+----------------
+1843
+August Friedrich Schneider
+Carl Friedrich Dittrich
+Carl Gottlieb Schaale
+Traugott Friedrich Müller
+----------------
+Carl Gotthold Grumt
+August Nicolai
+Carl Friedrich Glöckner
+Carl Heinrich Walter
+----------------
+Christian Gottlieb Wolf
+Carl August Zimmermann
+Carl Gottlob Fischer
+Ernst August Fischer
+----------------
+Johann Gottfried Köhler
+Friedrich Ehregott Greif
+Carl Friedrich Heinrich
+Carl Gottfried Kleeberg
+----------------
+Heinrich Wilhelm Ufert
+Johann Gottfried Walther
+Ernst Wilhelm Herfert
+Gottlieb Friedrich Rudolph
+----------------
+August Forberg
+1844
+Gustav Edmund Jungnickel
+Carl Leberecht Bachmann
+Johann Gottlob Wetzel
+----------------
+Johann Gottlob Wilhelm Merseburger
+Johann Carl Gottlieb Kaden
+Carl Gottlob Müller
+Johann Carl Gottlob Clausnitzer
+----------------
+Gottlob Friedrich Berndt
+Gottfried Moritz Pappermann
+Friedrich Wilhelm Zimmermann
+Friedrich Gotthelf Rüger
+----------------
+Friedrich Wilhelm Reich
+Johann Gottfried Börner
+Carl Gottlob Müller
+Carl Friedrich Tröbner
+----------------
+Carl Gottlieb Walther
+Heinrich August Straßberger
+1845
+Johann Carl Gottlob Legler
+Carl Ehrenreich Herschel
+----------------
+Carl Gottlob Lehmann
+Carl Friedrich Leberecht Lotze
+Carl Heinrich Wolf
+Traugott Friedrich Müller
+----------------
+Carl Wilhelm Klügel
+Friedrich Fürchtegott Lose
+Carl Ernst Böhme
+----------------
+1846
+Johann Gotthelf Dittrich
+Carl Heinrich Scheinpflug
+Wilhelm Friedrich Großmann
+Georg Friedrich Liebe
+----------------
+Wilhelm Friedrich Mehnert
+Friedrich August Wilhelm Jäppelt
+Karl Gottlieb Zimmermann
+----------------
+Karl Gottlieb Liebschner
+Georg Gottlieb Fischer
+Friedrich August Schmieder
+----------------
+Friedrich August Schaal
+Friedrich August Schmieder
+Carl Gottlob Schulze
+----------------
+Carl Samuel Käsemodel
+Carl Gottlieb Kaufer
+Johann Gottlieb Helbig
+----------------
+Friedrich Adolph Stenzel
+Gottlieb Friedrich Zimmermann
+Friedrich Traugott Lohse
+----------------
+Carl Friedrich Weichelt
+Johann Carl Gottfried Rudolph
+----------------
+1847
+Carl Friedrich Traugott Buze
+Carl Gottfried Heinrich Zeller
+Johann Samuel Hunger
+Johann Gottlieb Braune
+----------------
+Carl Gottlieb Göhler
+Christlieb Friedrich Börner
+Carl Gottlob Eichler
+----------------
+Johann Samuel Walther
+Carl Friedrich August Kraft
+Friedrich Fürchtegott Zimmermann
+----------------
+Carl Gottlieb Rothe
+----------------
+1848
+Gottlieb Friedrich Clausnitzer
+Friedrich Leberecht Hempel
+Johann Samuel Göhler
+----------------
+Julius Fischer
+Heinrich Moritz Schulze
+Johann Daniel Zimmermann
+----------------
+Adolph Wilhelm Krause
+August Ferdinand Stenzel
+Friedrich Fürchtegott Börner
+----------------
+Carl Gottlieb Borsdorf
+Carl Gottlieb Kaden
+Carl Traugott Göpfert
+----------------
+Carl Friedrich Löwe
+Albin Friedrich Horlbeck
+Carl Heinrich Ernst Keller
+----------------
+Christian Friedrich Wagner
+Gottlob Friedrich Preußler
+Christian Friedrich Sommerschuh
+----------------
+1849
+Carl Heinrich Lippmann
+Carl Friedrich Feller
+Carl Gottlob Reichel
+Carl Traugott Ernst Grimmer
+----------------
+Traugott Leberecht Fischer
+Gottlob Friedrich Billig
+Johann Friedrich Herrmann Schreyer
+Christian Gotthelf Liebscher
+----------------
+Johann Friedrich Rauscher
+Heinrich August Rüdiger
+Carl Moritz Strauß
+Christian Gottfried Krumbiegel
+----------------
+Carl Adolph Wagner
+Carl August Förster
+Christian Gottlieb Kunzmann
+Carl Gottfried Stenzel
+----------------
+Friedrich Wilhelm Fischer
+Johann Heinrich Wilhelm Görner
+Carl Christian Friedrich Hänel

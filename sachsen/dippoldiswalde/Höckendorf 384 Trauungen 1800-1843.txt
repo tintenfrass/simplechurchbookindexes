@@ -1,16 +1,17 @@
 Höckendorf (Buch 384)
-Trauungen 1800-1839
+Trauungen 1800-1843
 https://www.archion.de/de/viewer/churchRegister/294433?pageId=40911950
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 2 Stunden
+Erstellt in ca. 2,5 Stunden
 Juni 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -804,3 +805,115 @@ August Robert Boerner
 Johann Carl Müller
 Johann Gottlieb Wegbrod
 Johann August Friedrich Bellmann
+1840
+Carl Gottlieb Baumgart
+Johann Gottlieb Süße
+Carl Gottlieb Sparmann
+Gottlieb Daniel Wagner
+Carl Gottfried Wolf
+----------------
+Johann Samuel Böhme
+Johann Samuel Fleischer
+Johann Carl Traugott Kluge
+Carl Gottlieb Kohl
+Carl Gottlieb Schräfer
+Johann Gottlob Kirchner
+Julius Eduard Liebmann
+Friedrich August Pomsel
+Carl Wilhelm Kästner
+Christian Gottlob Richter
+----------------
+----------------
+Carl Wilhelm Keller
+Carl Gottlieb Heinrich Beutel
+Carl Heinrich Bormann
+Christian Gottlieb Schumann
+Friedrich August Lohse
+Carl Gottfried Kärnth
+Carl Gottlob Berger
+1841
+Johann Carl Gottlob Lohse
+Karl Gottlob Menzer
+----------------
+Johann Gottfried Geißler
+Johann Carl Moritz Schmidt
+Johann Gottlob Samuel Schäfer
+Carl August Kunath
+Samuel Gottlieb Zimmermann
+Christian Traugott Lehmann
+Maximilian Heinsius
+Carl Gottlob Erler
+Carl Gottlieb Ebert
+----------------
+Friedrich August Schmidt
+Carl Gottfried Knauth
+Daniel Gottlieb Grahl
+Carl Friedrich Protze
+Johann Carl Gottfried Müller
+Carl Gottlieb Inkermann
+Carl Gottfried Horn
+Carl Heinrich Fleischmann
+Carl Eduard Räntzsch
+----------------
+Friedrich August Bräuer
+Carl Gottlieb Grimmer
+Carl Gottlieb Schäfer
+Friedrich Benjamin Heber
+August Fürchtegott Wolf
+1842
+Samuel Gottlieb Lose
+Christian Heinrich Weißbach
+Carl Gottfried Nitzsche
+----------------
+Carl Gottlob Thiele
+Carl Gottlieb Lotze
+August Heinrich Büttner
+Carl Gottlieb Lotze
+Traugott Leberecht Uhlemann
+Johann Gotthelf Ludwig
+Johann Samuel Glöckner
+----------------
+Johann Carl Gottlieb Richter
+Heinrich Gottlob Weber
+Heinrich Gottlob Grahl
+Carl Gottfried Hofmann
+Carl Wilhelm Kleber
+----------------
+Carl Gottlieb Fleischer
+Gottfried Wilhelm Lehmann
+Carl Gottlieb Rothe
+Carl Heinrich Menzer
+Carl Gottlob Adam Fritsche
+Gottlieb Kunath
+Johann Gotthelf Holfert
+----------------
+1843
+Carl Friedrich Ficke
+Johann Samuel Schubert
+Friedrich Ferdinand Oelschlägel
+Carl Heinrich Grimmer
+Johann Gottlob Zimmermann
+Christian Gottlieb Nitzsche
+Christian Gottlob Kunath
+Johann Gottlieb Kirchner
+----------------
+Carl Gottlieb Richter
+Carl Gottfried Borisch
+Carl Gottlieb Heinemann
+Johann Gottfried Lorenz
+Carl Gottfried Fuchs
+Daniel Gottlieb Göbel
+Carl Gottlieb Kohl
+Carl Gottlieb Schleiniz
+Friedrich Benjamin Heber
+----------------
+Gottlieb Heinrich Winkler
+Johann Carl Gottfried Lieber
+Christian Traugott Heinrich Bärger
+Johann Gottfried Horn
+Gotthelf Eduard Mäcke
+Friedrich August Böhme
+Carl Gottfried Zimmermann
+August Fürchtegott Wolf
+----------------
+Carl Gottfried Thiele

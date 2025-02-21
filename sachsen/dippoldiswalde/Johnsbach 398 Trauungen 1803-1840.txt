@@ -1,5 +1,5 @@
 Johnsbach (Buch 398)
-Trauungen 1803-1839
+Trauungen 1803-1840
 https://www.archion.de/de/viewer/churchRegister/294444?pageId=40915258
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -11,6 +11,7 @@ Juni 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -534,3 +535,18 @@ Johann Gottfried Schelle
 Carl Gottlieb Träger
 Johann August Friedrich Hahmann
 Carl Friedrich Fischer
+----------------
+1840
+Christian Heinrich Liebscher
+Carl Gottlieb Püschel
+Friedrich Traugott Rabe
+Carl Gotthelf Löwe
+Daniel Gottfried Leberecht Müller
+Friedrich Ehregott Laubert
+----------------
+Johann Gottlieb Saupe
+Johann Gottlob Dietze
+Johann Gottlob Fischer
+Friedrich August Lohse
+Johann Gottlob Hirsemann
+Johann Christlieb Schmieder

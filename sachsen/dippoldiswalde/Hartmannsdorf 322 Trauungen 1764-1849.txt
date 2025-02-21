@@ -1,5 +1,5 @@
 Hartmannsdorf (Buch 322)
-Trauungen 1764-1839
+Trauungen 1764-1849
 https://www.archion.de/de/viewer/churchRegister/294383?pageId=40903926
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -17,6 +17,7 @@ Juni 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -966,3 +967,149 @@ Johann Gottlieb Hennig
 ----------------
 Carl Gottlob Rüdiger
 Christian Friedrich Körner
+1840
+Christian Friedrich Kaden
+----------------
+Johann Immanuel Holfert
+Friedrich August Menzer
+Carl Gottlob Hänel
+Carl Gottlieb Fischer
+----------------
+Carl August Friedrich Erler
+Carl Gotthelf Fridzih
+1841
+Carl Gotthelf Ranisch
+----------------
+Carl Gottlieb Erler
+Carl Gottlieb Hänel
+Heinrich Wilhelm Hertel
+----------------
+Adolph Moritz Georgi
+Johann Gottfried Greif
+Friedrich Wilhelm Rudolph
+----------------
+Johann Gottfried Mende
+----------------
+1842
+Johann Gottlieb Grohmann
+Carl Friedrich Böhme
+Gottlob Friedrich Liebscher
+----------------
+Carl Gottlieb Weichelt
+Carl Friedrich Bellmann
+Carl Gottlob Friedrich Schramm
+----------------
+Christian Friedrich Arnold
+Carl Gottlieb Ebert
+Johann Christlieb Kaestner
+Carl Heinrich Leiteritz
+----------------
+Friedrich Wilhelm Nitzsche
+1843
+Christian Friedrich Ebert
+Ernst Rudolph Freyer
+----------------
+Carl Gottlieb Göhler
+Johann Christoph Franke
+Johann Samuel Kaestner
+----------------
+Johann Traugott Erler
+Carl Gottlieb Wolf
+1844
+Traugott Beyer
+----------------
+Samuel Friedrich Fischer
+Johann Gottlieb Richter
+Carl Samuel Zinke
+Gottfried Müller
+----------------
+Johann Wilhelm Wunderwald
+Christian Friedrich Bellmann
+Christian Bernhardt Reinke
+Carl Friedrich Hauptvogel
+----------------
+Johann Gottlieb Geißler
+Carl Friedrich Tröbner
+Carl Friedrich Träger
+Gottlieb Friedrich Hänel
+----------------
+1845
+Carl Gottlieb Grohmann
+Carl Gottlob Lehmann
+Johann Gottlieb Friedrich Lehmann
+----------------
+Johann Gottlieb Schulze
+Carl Gottlob Kaestner
+Carl Friedrich Lohse
+Johann Samuel Zimmermann
+Carl Friedrich Göhler
+----------------
+Carl Gottlieb Ernst
+Carl Gottlieb Lehmann
+Carl Gottlieb Ernst
+Friedrich Wilhelm Walther
+----------------
+Carl Traugott Müller
+Christian Friedrich Bellmann
+Carl Gottfried Ehrlich
+----------------
+1846
+Friedrich Gottlieb Göhler
+Christian Gottfried Jäkel
+Johann Carl August Hennnig
+Johann Gottlob Jungnickel
+----------------
+Carl Gottlieb Kaestner
+Christian Friedrich Göhler
+Samuel Friedrich Zinke
+Johann Gottlieb Kempe
+----------------
+Wilhelm Friedrich Kunze
+1847
+Friedrich August Zimmermann
+Christian Gottfried Jäkel
+----------------
+Carl Friedrich Zimmermann
+Carl Gottlieb Haenel
+Friedrich Gottlieb Erler
+----------------
+Gottlob Friedrich Hofmann
+Johann Gottlieb Wolf
+Georg Friedrich Göhler
+Carl Gottlieb Rothe
+----------------
+Johann Gottlob Börner
+Gottlob Friedrich Kaden
+1848
+Johann Gottlob Börner
+----------------
+Johann Daniel Rothe
+Carl Gottlob Göhler
+Johann Samuel Göhler
+Carl Gottlieb Göhler
+----------------
+Johann Heinrich Pirnbaum
+Carl Friedrich Kempe
+Carl August Petermann
+----------------
+Carl Friedrich Arnold
+Johann Samuel Hennig
+Christian Friedrich Sommerschuch
+----------------
+Carl Gotthold Erler
+Friedrich Gottlieb Hänel
+1849
+Johann Gottlob Geißler
+Samuel Friedrich Kaestner
+----------------
+Carl August Wagner
+Carl Friedrich Kaestner
+Johann Gottlob Kraft
+----------------
+August Friedrich Kaestner
+Georg Gottlieb Göhler
+Samuel Friedrich Hänel
+Johann Gottlieb Arnold
+Carl Friedrich Kaestner
+----------------
+August Friedrich Schneider
