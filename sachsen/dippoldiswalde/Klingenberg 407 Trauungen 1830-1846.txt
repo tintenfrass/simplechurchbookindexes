@@ -1,5 +1,5 @@
 Klingenberg (Buch 407)
-Trauungen 1830-1839
+Trauungen 1830-1845
 https://www.archion.de/de/viewer/churchRegister/294452?pageId=40917049
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -7,6 +7,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -86,8 +87,7 @@ Carl Gotthelf Baumgarten
 Carl Anton Friedrich Michael
 Johann Gottlob Klotz
 Johann Gottlieb Näcke
-----------------
-Carl Gottlieb Fritzsche
+Gottlieb Fritzsche
 Carl Friedrich Schlütter
 Gottlieb Traugott Pfeifer
 Carl Gottlieb Schmieder
@@ -135,3 +135,92 @@ Carl Gottfried Lange
 ----------------
 Johann Carl Gottlob Hofmann
 Johann Gottlieb Müller
+----------------
+1840
+Carl Adam Klemm
+Christian Friedrich Gottlob Pestel
+Johann Gottlieb Tauber
+----------------
+Johann Samuel Arnold
+Johann Gottlob Kirchner
+Carl August Rothe
+----------------
+Carl Friedrich Mierisch
+Johann? Carl Gottlieb Staude
+Johann Gottlob Seifig
+Carl Gottlieb Kästner
+----------------
+Carl Gottlob Oehme
+Johann Daniel Gottfried Richter
+Carl Gottfried Zimmermann
+----------------
+Johann August Petri
+1841
+Carl Gotthelf Rantzsch
+----------------
+Johann Carl Gottfried Petri
+Carl Friedrich August Partsch
+Johann Friedrich August Fischer
+----------------
+Johann Heinrich Reichelt
+Johann Carl Gottlob Müller
+Carl Gottlob Flade
+----------------
+Carl Friedrich Lange
+Karl Gottlieb Baumgart
+Carl Gottlob Merkel
+Johann Gotthelf Henker
+Johann Gottlieb Hagewald
+Johann Karl Wilhelm Nauhäuser
+----------------
+Daniel Friedrich Lehmann
+Johann Carl Seifig
+Johann Samuel Böhme
+Carl Gottlob Liebert
+Karl August Harnapp
+----------------
+1842
+Karl Christlieb Staude //korrigiert
+Johann Friedrich August Rüdiger
+Johann Gottlieb Herklotz
+Traugott Leberecht Baumgart
+Johann Gottlieb Leuschritz
+----------------
+Johann Gottfried Bellmann
+Carl Gottlob Adam Fritzsche
+----------------
+1843
+Friedrich August Schurig
+Johann Gottlob Zimmermann
+Christian Gottlieb Nitzsche
+----------------
+Johann Gottlieb Müller
+Carl Gottfried Lange
+Carl Friedrich Zscheile
+Carl Gottlob Heber
+----------------
+Carl Gottlieb Fischer
+Christian Gottlieb Baumgarth
+Johann Gottfried Liebezeit
+----------------
+1844
+Johann Samuel Schmieder
+Johann Daniel Kästner
+Carl Gottlieb Ebert
+----------------
+Johann Gottlob Heinrich Staude
+1845
+Johann Gottlob Fischer
+Carl Gotthelf Träger
+----------------
+Karl Traugott Müller
+Johann Christian Schlicke
+Friedrich August Schneider
+----------------
+Friedrich Leberecht Seifig
+Karl Gottfried Kästner
+Karl Gottfried Winkler
+----------------
+Karl August Gunther
+Johann Karl Gottfried Heerde
+Johann Ernst Lobegott Kunath //korrigiert

@@ -1,17 +1,18 @@
 Liebenau (Buch 464)
-Trauungen 1768-1839
+Trauungen 1768-1849
 https://www.archion.de/de/viewer/churchRegister/305485?pageId=42939248
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 2 Stunden
+Erstellt in ca. 2,5 Stunden
 Oktober 2023
 Juni 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -787,3 +788,149 @@ Johann Carl Gottlieb Mühlbach
 Carl Wilhelm Seyfert
 ----------------
 Carl Gottlieb Scheinert
+1840
+Carl Friedrich August Lehmann
+Carl Friedrich Böhme
+Carl Gottlieb Müller
+Carl Gottlieb Küchler
+Johann Friedrich Maul
+----------------
+Johann Gottlieb Kleppisch
+Carl Gottlob Leubold
+Heinrich August Leberecht Ehrlich
+Johann Gottlob Gottschalk
+Heinrich Gottlieb Bretschneider
+----------------
+Johann Ferdinand Körner
+Julius Eduard Liebmann
+Johann Christian Friedrich Kümmel
+Carl August Weicholt
+Johann Gottlieb Huhle
+----------------
+Christlieb Heinrich Lehmann
+Carl Gottlieb Kühnel
+Johann Gottlob Bauch
+1841
+Carl Heinrich Gottlob Thomas
+Friedrich August Eichler
+----------------
+Gottlob Leberecht Walther
+Carl Gottlob Schwenke
+Heinrich Gottlieb Schwenke
+Johann Gottfried Brückner
+Friedrich Wilhelm Adam
+----------------
+Johann Gottfried Wolf
+1842
+Carl Gottlieb Schwenke
+Carl Gottlob Bretschneider
+Gottlieb Leberecht Peukert
+----------------
+Ernst Ferdinand Ehregott Kranz
+Gotthard August Petzold
+Gottlob Heinrich Beckert
+Johann Gottlieb Friebel
+Carl Gottlieb Ehrlich
+----------------
+1843
+Carl Gottlieb Scharfe
+Carl Christlieb Friedemann Mühle
+Heinrich Christlieb Schlenkrich
+Johann Samuel Holferth
+Carl Gottlieb Maul
+----------------
+Johann Gottlieb Löwenstein
+Carl Gottlieb Heinrich Eichler
+Carl Gottlieb Heinrich
+Carl Traugott Pohle
+Gottfried August Hamann
+----------------
+Carl Gottlieb Henke
+Carl August Mahnert
+Friedrich Wilhelm Ulbrich
+1844
+Carl August Klunker
+----------------
+Johann Gottlob Ehrenfried Hauswald
+Johann Gotthelf Friebel
+Johann Gottfried Goldammer
+Johann Friedrich Roschig
+Friedrich August Bretschneider
+----------------
+Friedrich Gottlieb Grahl
+Johann Christoph Jäpel
+Carl Friedrich Kühnel
+Carl Friedrich Wünschmann
+Johann Christoph Gottlieb Mühle
+----------------
+1845
+Friedrich Gottlieb Eichler
+Carl Gottfried Rentsch
+Carl Gottlieb Wagner
+Friedrich Traugott Thomas
+Carl Gottlieb Heinrich Mühle
+----------------
+Carl Gottlieb Frenzel
+Carl Wilhelm Ulbrich
+Carl Gottlob Bellmann
+----------------
+1846
+Carl Christlieb Lehmann
+Carl Gottlieb Moche
+Friedrich August Grille
+Carl Gottfried Hauswald
+----------------
+Carl Friedrich Stephan
+Johann Carl Gottfried Gaurig
+Carl Heinrich Gottlieb Kümmel
+Friedrich August Helbig
+Friedrich August Küchler
+----------------
+1847
+Johann Gottfried Hauswald
+Carl Friedrich August Rüstani
+Carl Gottlob Geißler
+Carl August Leschke
+----------------
+Carl Friedrich August Gäbler
+Carl Christlieb Scharfe
+Carl Gottlieb Donat
+Carl Friedrich Pellmann
+----------------
+1848
+Johann Christoph Gottlieb Jäpel
+Carl August Tränkner
+Johann Gottlieb Schütze
+Carl Gottlob Frenzel
+----------------
+Carl Friedrich August Hockauf
+Friedrich August Häfer
+Johann Carl Gottlob Richter
+Christoph Gottlieb Thorand
+----------------
+Carl Friedrich Christian Kohlstrunk
+Carl Gottlieb Schwenke
+Carl Gottlieb Hickmann
+Carl Gottlieb Johne
+----------------
+Heinrich August Rentsche
+Carl Gottlieb Fischer
+1849
+Christlieb Leberecht Mühle
+----------------
+Carl Wilhelm Fischer
+Johann Georg Wendler
+Carl August Goltzsche
+Johann Traugott Ebert
+----------------
+Johann Gottlob Kühnel
+Johann Gottfried Günther
+Christian Gottfried Schwarze
+Robert Kohl
+----------------
+Carl Gottlob Wald
+Carl August Hübsch
+Carl Friedrich Wilhelm Dittrich
+Carl Heinrich Kühnel
+----------------
+Carl Gottlob Leberecht Rietschel
