@@ -84,7 +84,7 @@ func (h *searchComp) Render() app.UI {
 
 	grid[0][0][3] = "meissen/Leuben"
 	grid[0][1][3] = "meissen/Planitz"
-	//grid[0][2][3] = "meissen/Meißen"
+	grid[0][2][3] = "meissen/Meißen"
 	grid[0][3][3] = "meissen/Meißen Frauenkirche"
 	grid[0][4][3] = "meissen/Meißen Johanneskirche"
 	grid[0][5][3] = "meissen/Weinböhla"
@@ -226,6 +226,7 @@ func (h *searchComp) Render() app.UI {
 	grid[0][2][18] = "freiberg/Helbigsdorf"
 	grid[0][3][18] = "freiberg/Mulda"
 	grid[0][4][18] = "dippoldiswalde/Frauenstein"
+	grid[0][5][18] = "dippoldiswalde/Schönfeld"
 	grid[0][7][18] = "dippoldiswalde/Bärenstein"
 	grid[0][8][18] = "dippoldiswalde/Lauenstein"
 	grid[0][9][18] = "dippoldiswalde/Liebenau"
@@ -513,10 +514,12 @@ func (h *searchComp) Render() app.UI {
 		app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 		app.Br(),
 		app.Br(),
-		app.H3().Body().Text(" v1.11 (Januar 2025) latest updates:"),
-		app.Label().Text("Aufgebote und Trauungen Bautzen hinzugefügt (extra Reiter)"),
-		//app.Br(),
-		//app.Label().Text("Trauungen Meißen (katholisch) hinzugefügt"),
+		app.H3().Body().Text(" v1.11 (Februar 2025) latest updates:"),
+		app.Label().Text("Trauungen 1840-1849 hinzugefügt"),
+		app.Br(),
+		app.Label().Text("Meißen (katholisch) hinzugefügt"),
+		app.Br(),
+		app.Label().Text("Schönfeld (bei Frauenstein) hinzugefügt"),
 		app.Br(),
 		app.Label().Text("kleinere Fehlerkorrekturen"),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
