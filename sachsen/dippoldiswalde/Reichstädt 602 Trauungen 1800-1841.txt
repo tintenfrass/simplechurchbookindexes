@@ -1,5 +1,5 @@
 Reichstädt (Buch 602)
-Trauungen 1800-1839
+Trauungen 1800-1841
 https://www.archion.de/de/viewer/churchRegister/305602?pageId=42965675
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -11,6 +11,7 @@ Juni 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -656,3 +657,44 @@ Johann Gottlob Neubert
 Johann Daniel Kästner
 Carl Gottlob Zimmermann
 Johann August Friedrich Bellmann
+1840
+Carl Gottlieb Holfert
+Traugott Wilhelm Bellmann
+Johann Christian Reichel
+Friedrich Wilhelm Fleischer
+Johann Samuel Arnold
+Georg Carl Fischer
+August Moritz Arnold
+----------------
+Carl Gottlieb Löser
+Johann Carl Gottlieb Grummt
+Carl Gottlob Zimmermann
+Carl Daniel Müller
+Carl Friedrich Walther
+Johann Gottlieb August Fuchs
+Samuel Gottfried Zimmermann
+Carl Gottlob Voigt
+Johann Carl Friedrich Goldmann
+Friedrich Ferdinand Sandig
+----------------
+1841
+Johann Traugott Zönnchen
+Carl Gottlieb Kästner
+Johann Gottlieb Reichel
+Carl Gottlieb Kästner
+Carl Gotthelf Schönherr
+Carl Gottlieb Müller
+Carl August Fleischer
+Carl Adolph Arnold
+----------------
+Rudolph Eltz Schönberg
+Johann Gottlieb Geier
+Samuel Reichel
+Carl Gottfried Prasser
+Carl Christian Fuchs
+Carl Gottlob Müller
+Traugott Friedrich Göhler
+Heinrich Siegmund Pahlitzsch
+Johann Christian Büttner
+Carl Gottlieb Königsmerk
+Carl Gottlob Voigt

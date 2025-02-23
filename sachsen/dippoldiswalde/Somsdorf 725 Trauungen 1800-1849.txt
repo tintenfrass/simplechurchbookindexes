@@ -1,16 +1,17 @@
 Somsdorf (Buch 725)
-Trauungen 1800-1839
+Trauungen 1800-1849
 https://www.archion.de/de/viewer/churchRegister/305695?pageId=42986231
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stunden
+Erstellt in ca. 2 Stunden
 Juni 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -593,3 +594,240 @@ Friedrich August Limbach
 Ferdinand Zeis
 Karl Gottlieb Zimmermann
 Johann Herrmann
+----------------
+1840
+Gottlob Traugott Schumann
+Christian Gottfried Traugott Eisold
+Christian Gottlieb Müller
+Johann Benjamin Höpfner
+Karl Gottlob Stürmer
+Karl Traugott Fritzsche
+Johann Gottlieb Rörster
+Karl August Seifert
+Johann Gotthelf Dietrich
+Johann Friedrich Carl Schindler
+Johann Gottlieb Gretschel
+----------------
+Karl Gottfried Palitzsch
+Karl Gotthelf Göbelt
+Andreas Liebich
+Christian Gottlieb Schumann
+1841
+Johann Gottfried Schmidt
+Johann Gottlieb Bürger
+Johann Traugott Gotthold Schiefner
+Karl Christian Gottlieb Eisold
+Christian Traugott Lehmann
+Johann Gottlob Lange
+----------------
+Karl Heinrich Pöschel
+Johann Gottlieb Gräfe
+Karl Traugott Langbein
+Friedrich August Rauchfuß
+Friedrich Wilhelm Juhr
+Karl Gottlieb Braun
+Gottlieb Heinrich Schubert
+----------------
+1842
+Johann Traugott Limbach
+Franz Louis Suhrmann
+Johann Gottlieb August Ebert
+Karl Gottlob Heßler
+Karl Gottlieb Schumann
+Karl Gottlieb Kunadt
+Johann Karl Friedrich Richter
+Johann Gottlob Mehlig
+Friedrich Ernst Viertel
+Johann Gottlieb Traugott Körner
+----------------
+Karl Friedrich Göpfert
+Karl August Steinhaußen
+Johann Gotthelf Ludwig
+Christian Friedrich Stephan Hoffmann
+Theodor Leopold Meyer
+Karl Traugott Kleber
+Johann Gottfried Eckardt
+Gottlieb Traugott Müller
+Johann Benjamin Höpfner
+Heinrich August Bürger
+Karl Friedrich Böttcher
+----------------
+Philip August David Heinemann
+Karl Gottfried Böhme
+Johann Gottfried Dittrich
+Karl Gottlob Götze
+Heinrich Wilhelm Mußbach
+Gottfried Wilhelm Lehmann
+Karl Gottlob Schubert
+----------------
+1843
+Johann Gotthelf Berger
+Karl Traugott Zimmermann
+Karl Wilhelm Viertel
+Karl Traugott Berthold
+Karl Traugott Müller
+Karl Gottlieb Bürger
+Karl August Köhler
+Johann Gottlob Klügel
+----------------
+Karl Leberecht Christmann
+Karl Gottlieb Rüger
+Johann Gottlieb Moses
+Johann Gottlob Eisold
+Michael Ranig
+Karl Gotthelf Böhme
+Gottlieb Traugott Bürger
+Johann August Thieme
+Friedrich Traugott Neumann
+Friedrich Benjamin Heber
+----------------
+Johann Gottfried Priebs
+Karl Gottlieb Viertel
+Karl Friedrich Lorenz
+Karl Gottlieb Ehregott Saupe
+Christian Traugott Heinrich Bürger
+Johann Christian Patzig
+Karl Gottlob Simon
+Johann Gottfried Bergmann
+Karl Traugott Berndt
+----------------
+Gottlieb August Schumann
+Heinrich August Ullrich
+1844
+Karl Traugott Oelschlägel
+Karl August Gottlieb Zschiedrich
+Johann Karl Dümmler
+Johann Traugott Köhler
+Friedrich Adolph Ulbricht
+Johann Gotthelf Bellmann
+----------------
+Karl Gottlob Fleischmann
+Johann Gotthelf Weise
+Karl August Eckardt
+Johann Gottlob Gretschel
+Ernst August Friedrich
+Christian Gotthelf August Eisold
+Karl Gottlob Priebs
+----------------
+1845
+Karl Schillhahn
+Karl August Herrmann
+Karl Gottfried Merkel
+Johann Friedrich Traugott Richter
+Karl Gottlob Lehmann
+Karl Gottlob Andrich
+Johann Traugott Priebs
+Johann Traugott Großmann
+----------------
+Heinrich Julius Reichard
+Christian Gottlob Kunad
+Johann Gottlob Ernst Fehrmann
+Friedrich August Bürger
+Ludwig Herrmann Lindner
+Christian Gottlieb Horn
+Karl Gottlieb Leischke
+Karl Gottfried Rülke
+----------------
+Johann Karl Traugott Thomas
+Karl Gottlob Friedrich Ziehnert
+Karl August Irmer
+Johann Gottlieb Rörster
+Karl Gottlieb Lobegott Schumann
+Christian Gotthelf Kleber
+Karl Heinrich Wilhelm Uhlemann
+Ernst Ferdinand Arnold
+----------------
+Karl Gotthelf Kirsten
+Friedrich Wilhelm Ihle
+Johann Karl Gottlob Irmer
+August Wilhelm Siegert
+1846
+Karl Gottlieb Leberecht Janke
+Karl August Amposeck
+Johann Gottlieb Müller
+----------------
+Johann Gottlieb Welde
+Karl Friedrich Gottlob Lindner
+Johann Gotthelf Heinrich Mehlig
+Johann Gottlob Patzig
+Johann Daniel Gottlieb Grahl
+Johann Gottlieb Richter
+Karl Gottlob August Fischer
+Karl Gottlieb Heinrich Schumann
+----------------
+Johann Gottlob Friese
+Johann Gottlob Bormann
+Johann Gottlob Schmieder
+Karl Friedrich Gotthelf Luther
+Karl Gottlieb Traugott Schumann
+Karl Gottlieb Leberecht Janke
+----------------
+1847
+Johann August Wilhelm Schneider
+Ernst Gottlieb Bürger
+Johann Gottlieb Lange
+Karl Traugott Merbitz
+Karl Gottlieb Horn
+Friedrich Moritz Müller
+Karl Gottlieb Kleber
+Heinrich Clemens Roser
+Johann Karl Gottfried Bug
+----------------
+Karl Friedrich Benjamin Wolf
+Andreas Waker
+Ernst Eduard Julius Nötzold
+Karl Gottlieb Ebert
+Ernst Friedrich August Horn
+Heinrich Hems
+Wilhelm Gottlieb Eisewig
+Christian Friedrich Beckert
+Friedrich August Föhlisch
+Friedrich Eduard Schubert
+Johann Christian Schneider
+----------------
+1848
+Karl Heinrich Zimmermann
+Friedrich August Küchler
+Karl Gottlieb Meyer
+Johann Gottlob Nitzsche
+Gottlieb Ludwig Doerste
+Christian Wilhelm Ullrich
+Karl Friedrich August Cruschwitz
+Karl Gottlob Winkler
+Karl Gottlob Döhnert
+Johann Gotthold Pöschke
+----------------
+Friedrich Alexander Schirmer
+Friedrich August Wilhelm Beier
+Ernst Friedrich Pögen
+1849
+Johann Friedrich Richter
+Friedrich August Schubarth
+Karl Gottlieb Schöne
+Ferdinand Pögen
+Johann Gottlob Zscheile
+----------------
+Karl Friedrich Rüger
+Friedrich Wilhelm Stäglich
+Johann Adolph Büttner
+Gottlob Heinrich Mehlig
+Karl Gottlieb Keller
+Herrmann Isidor Ostermuth
+Friedrich August Planitz
+Karl August Berger
+Johann Gottlob Klemm
+Karl Friedrich August Opitz
+Karl Gotthelf Andreas
+----------------
+Friedrich Eduard Thode
+Johann Friedrich Moritz Schneider
+Karl August Kegel
+Karl Traugott Herrmann
+Karl Gottlieb Mai
+Karl August Gärtner
+Ernst Heinrich Wilhelm Butter
+Ernst Böhme
+Friedrich August Moritz Schumann
+----------------
+Johann Traugott Großmann
+Karl Heinrich Günther

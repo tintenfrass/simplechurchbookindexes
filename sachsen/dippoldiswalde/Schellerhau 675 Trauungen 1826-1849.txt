@@ -1,5 +1,5 @@
 Schellerhau (Buch 675)
-Trauungen 1826-1839
+Trauungen 1826-1849
 https://www.archion.de/de/viewer/churchRegister/305656?pageId=42977900
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -176,3 +177,123 @@ Carl Friedrich Göbel
 ----------------
 Carl Gottlob Popp
 Friedrich Wilhelm Liebscher
+----------------
+1840
+Carl Gottlieb Zeibig
+Carl Gotthelf Hohlfeld
+Christian Gottlieb Lehmann
+----------------
+Carl Friedrich August Grohmann
+Gotthelf Friedrich Sommerschuh
+----------------
+Karl Gottlob Friedrich Walther
+Ehregott Friedrich Börner
+Carl Gottlieb Friebel
+----------------
+Carl Gottlob Schramm
+Gottlieb Ehrenreich Zimmermann
+Carl Gottlieb Renner
+----------------
+1841
+Carl Gottfried Walther
+Johann Carl Gottlob Müller
+Carl August Rümmler
+----------------
+Christian Friedrich Damm
+Gottlob Friedrich Seyfert
+Carl August Nitzsche
+----------------
+1842
+Johann Gottlieb Walther
+Carl Franz Moritz Schmidt
+Johann Gottfried Boettger
+----------------
+Carl Gottfried Weinhold
+Carl Gottlieb Weichelt
+Carl Leberecht Causnitzer
+----------------
+1843
+August Wilhelm Grumbt
+Friedrich Wilhelm Börner
+Carl Gottlieb Auxel
+----------------
+Gottlieb Friedrich Lorenz
+Carl August Hohlfeldt
+Ehregott Friedrich Börner
+----------------
+Carl August Wilhelm Bierig
+Carl Gottlob Sommerschuh
+Carl Gottlob Friedrich Börner
+----------------
+Friedrich Fürchtegott Fischer
+1844
+Carl Gottlob Rudolph
+Johann Gottlob Kempe
+----------------
+Carl Gottfried Merbt
+Friedrich Ehregott Kempe
+Carl Traugott Löschner
+----------------
+Johann Gottfried Walther
+1845
+Johann Christoph Friedrich Horn
+Carl Friedrich Leberecht Lotze
+----------------
+Johann Gottfried Renglack
+Carl August Zimmer
+Johann? Gottlieb Fleischer //korrigiert
+Johann Carl Gottlob Schiller
+----------------
+Johann Friedrich Wilhelm Weckbrodt
+Carl Wilhelm Bähr
+Eduard Julius Schmidt
+----------------
+Carl Gottfried Richter
+Ehregott Weckbrod
+Carl Gottlieb Richter
+----------------
+1846
+Fürchtegott Böhme
+Gottlob Friedrich Walter
+Carl Christian Friedrich Kästner
+Carl Friedrich Wilhelm Scharfe
+----------------
+Johann Christoph Horn
+Carl Wilhelm Kempe
+Johann Gottlob Dittrich
+----------------
+Johann Heinrich Wilhelm Claus
+Carl Gottlob Heinrich Imhof
+----------------
+1847
+Friedrich Gotthold Creutz
+Carl Friedrich Wilhelm Böttger
+Julius Herrmann Schmidt
+----------------
+Johann Friedrich Ehregott Walther
+Friedrich August Ende
+Christian Wilhelm Knobloch
+----------------
+1848
+Johann Gottlob Rüdiger
+Ernst Friedrich Wilhelm Dittrich
+Carl Friedrich Schickel
+Carl Friedrich August Häber
+----------------
+Carl Gotthelf Walther
+Friedrich Traugott Fickler
+Carl Gottlieb Mende
+Friedrich August Hille
+----------------
+David Hengst
+1849
+Carl Heinrich Glöckner
+Johann Gottlieb Gärtner
+Johann Gottlieb Sterl
+----------------
+Heinrich August Leberecht Zimmermann
+Carl August Bobe
+Friedrich August Gutte
+Johann Carl Friedrich Keitzsch
+----------------
+Friedrich Claußnitzer

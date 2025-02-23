@@ -1,5 +1,5 @@
 Rabenau (Buch 584)
-Trauungen 1800-1839
+Trauungen 1800-1845
 https://www.archion.de/de/viewer/churchRegister/305588?pageId=42962788
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -11,6 +11,7 @@ Juni 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -566,3 +567,95 @@ Friedrich Albert Schumann
 Johann Gottfried Gebauer
 August Robert Börner
 Christian Gottlob Wolf
+----------------
+1840
+Carl Gottlieb Sparmann
+Carl Wilhelm Mäder
+Carl Traugott Fritzsche
+Christian Leberecht Lorenz
+Michael Petrichowski
+Friedrich August Adolph Mildner
+Carl Gotthold Orgus
+----------------
+1841
+Johann Gottlieb Uhlemann
+Johann Gottfried Willkommen
+Johann Traugott Wilhelm Loschke
+Carl Gottlieb Lorenz
+Johann Gottfried Helbig
+Johann Christian Wolf
+Friedrich August Michalk
+----------------
+----------------
+----------------
+Carl Friedrich Keuliz
+Carl Gottlieb Dietrich
+1842
+Heinrich August Geißler
+Johann Gottlieb Walther
+Johann Carl Friedrich Pretzsch
+Carl Gotthelf Hamann
+----------------
+Gustav Conrad Dieschke
+Carl August Böhme
+Carl Gottfried Dietrich
+Gustav Adolph Heinrich Fischer
+Johann Christoph Gottfried Zimmermann
+Christian Wilhelm Vörtler
+----------------
+Carl Gottlieb Köppler
+Christian Gottfried Wolf
+Carl Gottfried Lorenz
+----------------
+1843
+Wilhelm Leberecht Wolf
+Johann Gottfried Rossig
+Christian Gottfried Keck
+Christian Gottlieb Pezold
+Johann Christian Herrmann
+Carl Gottlieb Büttner
+Friedrich August Lorenz
+----------------
+Johann Gottlieb Vörtler
+Carl Gottlieb Faulseit
+Friedrich Traugott Neumann
+Johann Gottfried Lorenz
+Johann Traugott Friedrich Böhme
+Johann Carl Gottlob Thomas
+Gottlieb August Schumann
+----------------
+Christian Gottlieb Klozsche
+Carl Friedrich Traugott Fritzsche
+----------------
+1844
+Carl August Klippel
+Carl Christian Fritzsche
+Carl Christian Kock
+Carl August Wünschmann
+Heinrich Moritz Michalk
+Carl Heinrich Münzel
+----------------
+Carl Friedrich August Dietrich
+Gustav Adolph Kretzschmar
+Carl Friedrich Kühnel
+Ernst August Friedrich
+Carl Friedrich Wünschmann
+Johann Gottlob Stephan
+----------------
+Johann Friedrich Gotthelf Stephan
+1845
+Carl Gottlieb Seidler
+Carl Heinrich Oertel
+Friedrich August Bürger
+Ernst Gottlob Schulze
+----------------
+Carl August Michalk
+Johann Christian Wünschmann
+Carl Gottlieb Haubold
+Johann Carl Traugott Thomas
+Carl Friedrich August Gottlöber
+Carl August Lorenz
+----------------
+Carl Wilhelm Friedrich Kindermann
+Wilhelm Ferdinand Kunath
+Carl Heinrich Oehme

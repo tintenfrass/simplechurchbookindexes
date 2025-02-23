@@ -1,5 +1,5 @@
 Schmiedeberg (Buch 691)
-Trauungen 1823-1839
+Trauungen 1823-1849
 https://www.archion.de/de/viewer/churchRegister/305668?pageId=42979753
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -139,3 +140,95 @@ Carl Gustav Eduard Scheibe
 Johann Gottlieb Gottleber
 Johann Gottfried Gabauer
 Friedrich August Köhler
+----------------
+1840
+Bernhard Schneider
+Carl Heinrich Adolph Krause
+Carl Gotthelf Träger
+Friedrich Wilhelm Lohse
+Carl August Lohse
+Johann Friedrich Fischer
+----------------
+1841
+Friedrich August Voigtmann
+Friedrich Wilhelm Thiele
+Friedrich August Büttner
+Johann Gottlieb Goldammer
+Carl Wilhelm Fischer
+1842
+Johann Gottlieb Fischer
+Carl Herrmann Fischer
+Friedrich August Ruffani
+----------------
+Friedrich Wilhelm Reißig
+Jacob Heinrich Storch
+1843
+Carl Wilhelm Uhlig
+Carl Adolph Thiele
+Johann Gottlieb Zeibig
+1844
+Friedrich August Uhlig
+Friedrich August Schneider
+Constantin Alexander Edelmann
+----------------
+Ernst Moritz Beck
+Friedrich Traugott Vogler
+Carl Friedrich Gottlob Aßmann
+Friedrich Wilhelm Valentin
+Herrmann Adolph Moritz Rauchfuß
+Gotthold Abraham Richter
+Ernst Wilhelm Clemens Rauchfuß
+Carl Ernst Salomon
+----------------
+1845
+Johann August Richter
+Johann Christoph Friedrich Menzer
+Johann Gottfried Ranglack
+Carl Gotthelf Pfützner
+Carl Gottlieb Jungnickel
+Carl Gottlob Biebenstein
+August Rackwitz
+Carl Gottlieb Dietrich
+----------------
+Carl Friedrich Wilhelm Kindermann
+Johann Gottlieb Weichhold
+Carl Heinrich Wolf
+1846
+Johann Christian Schellenberger
+Johann Gottlob Starke
+Carl Friedrich Wilhelm Fischer
+Carl Friedrich August Walther
+----------------
+Friedrich August Büttner
+1847
+Carl Friedrich Traugott Lampe
+Wilhelm Leonhard Bieberstein
+Carl Ludwig Edelmann
+Friedrich August Thierfelder
+Johann Wilhelm August Fieber
+----------------
+Ernst Herrmann Uhlig
+Carl Friedrich Leberecht Schneider
+1848
+Carl Friedrich Schmidt
+Carl Gottlob Fischer
+Traugott Apitz
+Traugott Wilhelm Klotz
+----------------
+Carl Gottlob Wahl
+Wilhelm Leonhard Biebersein
+Franz Robert Edelmann
+Carl Gottfried Geißler
+Johann Gotthold Pöschke
+Carl Heinrich Wilhelm Scheinpflug
+----------------
+1849
+Johann Carl Wilhelm Schmid
+Carl Gottlob Hänsel
+Carl Gottlieb Wolf
+Carl August Schönherr
+Carl Julius Kleemann
+Carl Gottlieb Schneider
+Johann Carl Friedrich Koitzsch
+----------------
+Johann Gottlob Zschiedrich

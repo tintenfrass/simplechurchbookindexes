@@ -1,5 +1,5 @@
 Ruppendorf (Buch 645)
-Trauungen 1812-1839
+Trauungen 1812-1849
 https://www.archion.de/de/viewer/churchRegister/305633?pageId=42973225
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -482,3 +483,181 @@ Daniel Gottlieb Näke
 Johann Gottlob Neubert
 Carl Friedrich Berthold
 Christian Friedrich Hofmann
+1840
+Johann Daniel Dietrich
+Gottlieb August Rautenstrauch
+Johann Gottlob Kleber
+Carl Gottlieb Holfert
+----------------
+Gottlob Friedrich Zimmermann
+Johann Gottlob Kaden
+Carl Wilhelm Kästner
+Johann Carl Gottlieb Richter
+Johann Gottlieb Bellmann
+Carl Daniel Müller
+----------------
+Carl Heinrich Bormann
+Christian Friedrich Lohse
+Carl Gottlieb Richter
+1841
+Johann Carl Gottlob Lohse
+Johann August Mende
+Johann Heinrich Reichelt
+----------------
+Alexander Zeis
+Johann Gottlieb Gotte
+Johann Gottlieb Hegewald
+Johann Heinrich Richter
+Johann Gottlieb Richter
+Friedrich Ehregott Kästner
+----------------
+Gottlieb Heinrich Schubert
+David Salomon Buschmann
+Carl Gottlieb Dietrich
+Carl Gottlob Lieber
+1842
+Johann Gottlieb August Ebert
+Gottlob Leberecht Hofmann
+----------------
+Johann Gottlieb Dietrich
+Carl Heinrich Roßberg
+Johann Carl Gottfried Nitzsche
+Johann Heinrich Neubert
+Gottlob Heinrich Richter
+Carl Heinrich Baumgart
+Carl Ehrenfried Heber
+Carl Gottlieb Borrmann
+----------------
+Friedrich Wilhelm Herrmann
+Benjamin Leberecht Legler
+Carl Gottlob Holfert
+Carl Heinrich Wolf
+Carl Heinrich Grahl
+Johann Gottlieb Ehrenfried Roßberg
+Johann Leberecht Hauptmann
+----------------
+1843
+Friedrich Traugott Wolf
+Johann Christoph Zennichen
+Carl Gottlob Höhne
+Johann Gottlieb Müller
+Carl Gottfried Vogel
+Johann Gottlieb Kirchner
+----------------
+Carl Wilhelm Heber
+Johann Gottlieb Baumgart
+Johann Gottlob Eisold
+Daniel Gottlieb Göbel
+Carl Gottlob Heber
+Johann Gottfried Kuntzschner
+Carl Gottlob Born
+----------------
+Carl Gottlieb Müller
+Carl Friedrich Roßburg
+Carl Gottlieb Baumgart
+Carl Gottlieb Richter
+1844
+Carl Gottlieb Göpfert
+Friedrich Traugott Süße
+Johann Gottfried Rothe
+----------------
+Carl Gottlob Baumgart
+David Salomon Buschmann
+Carl Gottlieb Richter
+Carl Gottlob Seidler
+Carl Gottlieb Richter //korrigiert
+Carl Gottlieb Braune
+Johann Daniel Reichel
+Gottlieb Heinrich Heber
+----------------
+Friedrich Wilhelm Liebschner
+1845
+Carl Gottlieb Richter
+Carl Daniel Bormann
+Carl Gottlieb Lehmann
+Johann Gottfried Dietrich
+Carl Christoph Lohse
+----------------
+Friedrich August Baumgart
+August Friedrich Müller
+Johann Gottfried Herrmann
+Volkmar Friedrich Göllnitz
+Carl Gottlieb Heber
+Carl Gottlieb Bormann
+Gottlieb Heinrich Berthold
+----------------
+Johann Gottlob Gietzelt
+Carl Friedrich Bormann
+1846
+Friedrich Wilhelm Göbel
+Johann Gottlob Leberecht Weinhold
+Carl Gottfried Schurig
+Carl Heinrich Schröder
+----------------
+Carl Gottlieb Liebschner
+Heinrich Ferdinand Funke
+Eduard Joseph Berger
+Carl Heinrich Roßburg
+Friedrich Traugott Schneider
+----------------
+Carl Gottlieb Legler
+Johann Gotthelf Klotz
+Carl Gottlob Holfert
+Carl Friedrich Holfert
+Carl Gottfried Berthold
+Carl Heinrich Legler
+----------------
+1847
+Gottlieb Heinrich Arnold
+Carl Gottlieb Hamann
+Friedrich Ehregott Neubert
+Johann Friedrich Rüdger
+August Wilhelm Keppler
+Carl Heinrich Rothe
+----------------
+Gottlob Heinrich Kästner
+Carl Heinrich Wilhelm Holfert
+Carl Friedrich Benjamin Buchmann
+Carl Gottlieb Müller
+Gottlob Heinrich Grahl
+----------------
+Carl Friedrich Richter
+Gottlieb August Helbig
+1848
+Carl Heinrich Zimmermann
+Carl Gottfried Fleischer
+Johann Florenz Holfert
+----------------
+Johann Gottlob Bormann
+Carl Gottfried Berndt
+Johann Christlieb Enderlein
+Johann Daniel Gottfried Menzer
+Carl Friedrich Lieber
+----------------
+1849
+Johann Carl Friedrich Müller
+Johann Heinrich Holfert
+Johann Gotthelf Holfert
+Carl Gottlob Reichel
+Carl Friedrich Göpfert
+Friedrich Wilhelm Horn
+----------------
+Carl Gottlieb Zimmermann
+Johann Gottlob Sterl
+Carl Heinrich Göbel
+August Friedrich Menzel
+Carl Gottlieb Rüdger
+Carl Heinrich Richter
+----------------
+Carl Gottlob Fuhrmann
+Christian Gottlob Kunath
+Carl Gottfried Köhler
+Friedrich Benjamin Liebschner
+Carl Ernst Baumgart
+Friedrich Benjamin Legler
+----------------
+Daniel Friedrich Hoffmann
+Gottlieb Heinrich Reichel
+Christian Friedrich Schmatz
+Carl Gottfried Berthold
+Carl Friedrich Ferdinand Berger

@@ -1,16 +1,17 @@
 Sadisdorf (Buch 662)
-Trauungen 1808-1839
+Trauungen 1808-1849
 https://www.archion.de/de/viewer/churchRegister/305646?pageId=42975987
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Juni 2024
 Juli 2024
 Oktober 2024
 November 2024
+Februar 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -647,3 +648,232 @@ Friedrich August Köhler
 ----------------
 Carl Gotthelf Reichel
 Carl Gottfried Köhler
+1840
+Friedrich August Straßberger
+Carl Gottlieb Zeibig
+Johann Gotthelf Aehlich
+Carl Friedrich Wolf
+----------------
+Carl Gottlieb Salomo
+Carl Gottlieb Hesse
+Johann Gottlob Rudolph
+Carl Gottlob Kuerner
+Carl Gottlieb Löser
+Carl Gottfried Weinhold //korrigiert
+Johann David Herfert
+----------------
+Carl Friedrich Richter
+Carl Gottlieb Leuschke
+Carl Gottlob Wolf
+Adam Friedrich Liebschner
+1841
+Carl Friedrich August Pretzsch
+Carl Christian Weinhold
+Carl Gottlob Flade
+----------------
+Friedrich August Voigtmann
+Carl Friedrich Gustav Hähnel
+Johann Carl Gottlieb Pellmann
+Christian Gottlieb Schmidt
+Carl Gottfried Schmidt
+Johann Carl Gottlieb Püschel
+----------------
+Carl Gotthelf Hempel
+Samuel Reichel
+Carl Gottfried Prasser
+Friedrich August Pretzsch
+Carl Friedrich Mende
+Friedrich Traugott Göhler
+Carl Gottlieb Weinhold
+Carl Friedrich Kaden
+----------------
+Johann Gottlieb Kreische
+Heinrich Siegismund Pahlitzsch
+Johann Gottfried Kayser
+Johann Gottfried Berger
+Johann Gottfried Wolf
+1842
+Johann Gottlieb Fischer
+----------------
+Carl Gottlieb Rüdiger
+Friedrich Gottlob Benjamin Küttner
+Christian Gottlob Köhler
+Johann Carl Friedrich Bellmann
+Carl Friedrich Grumpelt
+Johann Gottlob Knaude
+Friedrich Wilhelm Scheinpflug
+Ehregott Friedrich Bär
+----------------
+Carl Gotthelf Reichert
+Carl Friedrich Thümmel
+Carl Wilhelm Grahl
+Carl Christian Friedrich Löser
+Carl Gottfried Dietrich
+Johann Gottlieb Berger
+Carl Gottlieb Fischer
+Johann Wornatsch
+----------------
+Carl Friedrich August Pieschel
+Johann Traugott Lohse
+Carl Eduard Auxel
+Friedrich August Reichel
+Carl Gottlieb Lohse
+Johann Gottfried Jäckel
+Johann Christian Wolf
+----------------
+Carl Gottlob Grohmann
+Johann Daniel Böhme
+Carl Christian Wolf
+Carl Friedrich August Gloeditzsch
+1843
+Carl Gottlieb Borrmann
+Heinrich Wilhelm Fischer
+----------------
+Carl August Illig
+Carl Gottfried Gaebler
+Carl Gottlob Friedrich Fischer
+Wilhelm August Stenzel
+Friedrich Traugott Berger
+Carl Gottfried Pfeiffer
+Ernst Wilhelm Herfert
+----------------
+Christian Friedrich Scheinpflug
+Friedrich Wilhelm Börner
+1844
+Carl Gotthelf Richter
+Friedrich August Schneider
+Friedrich August Nestler
+----------------
+Carl Friedrich Stenzel
+Carl Gottlieb Grahl
+Carl Gottlieb Reichel
+Johann Heinrich Reichelt
+Johann Carl Gotthelf Erler
+Carl Friedrich August Schwenke
+Karl Gottlob Zoenchen
+----------------
+Carl Gottfried Jaeckel
+Carl Gottlieb Braune
+Christian Friedrich Giebe
+Friedrich Traugott Schmidt
+1845
+Friedrich Gottlob Börner
+Carl August Grosche
+----------------
+Carl Wilhelm Lippmann
+Carl Gottlob Haehnel
+Johann Samuel Zimmermann
+Christian Gottlob Kunath
+Emanuel Heinrich Reichel
+Carl Gottlieb Päschel
+Christian Friedrich Auxel
+----------------
+Carl Friedrich Wilhelm Scharschuh
+Carl Gottlob Bieberstein
+Carl Gottfried Krumpelt
+Carl Gottlob Wolf
+Gotthelf Ehrenreich Fürchtegott Nitzsche
+Christian Gottfried Hofmann
+----------------
+Friedrich August Jungnickel
+Johann Carl Weber
+Carl Gottlieb Kaden
+Carl Gottlieb Göhler
+Carl Gottlieb Kempe
+Johann Gottlieb Rüger
+----------------
+1846
+Carl Friedrich Weise
+Carl Friedrich Adam Zimmermann
+Carl Gottlob Berger
+Carl Christlieb Lohse
+Carl Gottlieb Hahmann
+Heinrich August Langer
+----------------
+Carl August Kirsten
+Friedrich Traugott Kirsten
+Ernst Heinrich Hensel
+Carl Gottlob Irmer
+Carl Heinrich Fleischmann
+Carl Friedrich Weinholdt
+Friedrich August Boden
+----------------
+Christlieb Traugott Weinhold
+Gottlob Leberecht Zilcher
+Carl Gottlob Aßmann
+Johann Ferdinand Reichelt
+Johann Gottfried Fuhrmann
+Friedrich August Büttner
+Carl Gottlob Glöditzsch
+----------------
+Carl Friedrich August Menzel
+August Dabogert Fischer
+Carl Friedrich Voigt
+Friedrich August Grohmann
+1847
+Gottlob Heinrich Arnold
+Johann Georg Leberecht Fleischer
+----------------
+Friedrich Gottlob Tröger
+Carl Friedrich Traugott Löser
+Heinrich Wilhelm Reinhard
+Johann August Julius Jungnickel
+Johann Gottlob Grumbt
+August Gotthelf Ulbrich
+Johann Carl August Müller
+----------------
+Johann Gottlieb Kästner
+Christian Friedrich Göpfert
+Carl Heinrich Weinhold
+Johann Gottlob Hickmann
+Friedrich Wilhelm Mende
+Carl Gottlob Voigt
+Carl August Friedrich Göhler
+----------------
+Gottlob Heinrich Ernst Fleischer
+Johann Gottlob Zimmermann
+Traugott Leberecht Weinhold
+Ernst Herrmann Uhlig
+Carl August Köhler
+----------------
+1848
+Carl Gustav Zickler
+Christian Friedrich Gietzelt
+Carl Gottlieb Püschel
+Johann Gottlob Noack
+Karl Traugott Illig
+Johann Gottlieb Zönnchen
+Carl Friedrich August Thümmel
+----------------
+Johann Gottlob Grumbt
+Friedrich Wilhelm Knaude
+Wilhelm Leonhard Biebenstein
+Carl Gottlieb Köhler
+Carl Friedrich Traugott Wolf
+Traugott Friedrich Zinke
+Carl Gottlieb Claußnitzer
+----------------
+1849
+Johann Gottlieb Köhler
+Carl Friedrich Ernst Unger
+Carl Heinrich Thümmel
+Carl Heinrich Glöckner
+Johann Gottlieb Gärtner
+Carl Friedrich Göpfert
+----------------
+Ernst Wilhelm Lotze
+Johann Gottlob Flemming
+Carl Gottlob Löwe
+Friedrich Wilhelm Ferdinand Kretzschmar
+Johann Karl Gottlieb Köhler
+Friedrich Clausnitzer
+Karl August Gärtner
+----------------
+Karl Gottlob Köhler
+Karl Christlieb Grohmann
+Johann Gottlieb Kühnel
+Karl Friedrich Hohenstein
+Karl Gottlieb Beyer
+Friedrich Wilhelm Dietrich
+----------------
+Friedrich August Wilhelm Püschel
