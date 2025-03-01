@@ -1,5 +1,5 @@
 Dresden Böhmische Exulantengemeinde (Buch 491)
-Trauungen 1801-1849
+Trauungen 1801-1859
 https://www.archion.de/de/viewer/churchRegister/264671?pageId=36998576
 
 
@@ -9,6 +9,7 @@ Juli 2024
 September 2024
 Oktober 2024
 Januar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -146,3 +147,33 @@ Jacob Rölke
 ----------------
 1849
 Friedrich Ferdinand Kern
+1850
+1851
+1852
+1853
+August Wilhelm Dietze
+Benjamin Martin Poscharsky
+1854
+Karl Gottfried Leberecht Lantzsch
+Gotthelf Wilhelm Poscharsky
+Friedrich Gottlob Zieger
+----------------
+1855
+Johann Gottlob Jenichen
+1856
+Karl Julius Philipp
+Camillo Hahn
+Johann Wilhelm Franz Schreiner
+Johann Karl Schutlze
+1857
+Karl Friedrich Fischer
+Christian Wilhelm Gottlob Thomas
+1858
+Gottfried August Hering
+Traugott Moritz Kießling
+Karl Julius Moritz Freitag
+Johann Friedrich Adolph Bischoff
+----------------
+1859
+Karl Ernst Kirbach
+Friedrich August Wilhelm Scheibe
