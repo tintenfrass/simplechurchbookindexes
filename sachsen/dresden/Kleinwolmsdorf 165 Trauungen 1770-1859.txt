@@ -1,18 +1,19 @@
 Kleinwolmsdorf (Buch 165)
-Trauungen 1770-1849
+Trauungen 1770-1859
 https://www.archion.de/de/viewer/churchRegister/264497?pageId=36954139
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 September 2023
 April 2024
 Juli 2024
 September 2024
 Oktober 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -658,3 +659,110 @@ Ernst Heinrich Traugott Gebler
 Johann Christoph Schöne
 Heinrich August Zenker
 Karl Gottlob Hühngen
+----------------
+1850
+Karl August Mai
+Karl August Hantsche
+Karl Gottlob Zitzmann
+Friedrich August Wilhelm Gehre
+Karl August Kunze
+Karl August Große
+Karl Traugott Mädiger
+----------------
+1851
+Johann Karl Gottlieb Walther
+Johann Gottfried Gnauck
+Johann Traugott Michel
+Johann Gottlieb Leberecht Eisold
+Johann Gottfried Hartmann
+Karl Friedrich Hesse
+Karl August Paike
+Friedrich Ernst Moritz Rosenkranz
+----------------
+1852
+Ernst Franz Taupitz
+Johann Gottfried Richter
+Johann Karl Häsel
+Karl August Fritzsche
+Carl Gottlieb Große
+Karl August Richter
+----------------
+1853
+Carl Gottfried Förster
+Karl August Klahre
+Johann Gottlieb Sickert
+Johann Karl Heinrich Walther
+Karl August Wölkel
+Karl August Förster
+Johann Samuel Lau
+----------------
+Karl Traugott Adler
+Johann Ferdinand Zitzmann
+Karl Traugott Kind
+1854
+Carl Christian Richter
+Karl Traugott Fürchtegott Wustmann
+Johann Georg Fürchtegott Förster
+----------------
+Carl August Beyer
+Carl Ferdinand Werner
+Karl Gotthelf Klahre
+Karl Traugott Fuchs
+1855
+Carl August Berger
+Carl Gottlieb Förster
+----------------
+Carl Gottlieb Mai
+Friedrich Gustav Große
+Carl Gottlieb Große
+Johann Carl August Schöne
+Carl August Mehnert
+Karl Friedrich Stölzer
+Johann Karl August Gröber
+----------------
+1856
+Johann Traugott Müller
+Johann Karl Gottlieb Leberecht König
+Traugott Leberecht Gneuß
+Johann Gottlieb Wilhelm Eisold
+1857
+Karl Ferdinand Nitsche
+Friedrich August Wilhelm Gehre
+----------------
+Johann Lobegott Eisold
+Johann Karl Gottlieb Müller
+Johann Gottfried Leunert
+Johann Gottfried Jope
+Carl Gottlieb Bürger
+Carl August Rentzsch
+----------------
+1858
+Ernst August Züchner
+Ernst Ferdinand Kleppsch
+Karl Heinrich Ziesche
+Fürchtegott Leberecht Gröber
+Carl Traugott Leunert
+Carl Gottlob Keßler
+----------------
+Carl Gottlob Säuberleich
+Carl Traugott Peuker
+Carl August Walther
+Carl Traugott Friedrich Gröber
+Carl August Hofmann
+Carl Adolph Bernhardt
+----------------
+1859
+Carl Adolph Leonhardt
+Carl Friedrich August Kluge
+Carl Gottlieb Saitenmacher
+Carl Gottfried Gärtner
+Heinrich Ernst Günther
+Friedrich Wilhelm Lorenz
+----------------
+Karl Friedrich Stelzer
+Ernst Wilhelm Müller
+Friedrich August Teich
+Johann Ernst Krause
+Franz Gottlieb Schmidt
+Carl Friedrich Leberecht Mädiger
+Johann Gottfried Gröber

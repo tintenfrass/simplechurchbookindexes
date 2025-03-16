@@ -1,5 +1,5 @@
 Großdittmannsdorf (Buch 3)
-Trauungen 1808-1849
+Trauungen 1808-1859
 https://www.archion.de/de/viewer/churchRegister/279922?pageId=38495866
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ Juli 2024
 September 2024
 Oktober 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -414,3 +415,132 @@ Johann Gottlob Herrmann
 Friedrich Wilhelm Klinger
 Johann Gottfried Hofmann
 Johann Gotthelf Klotzsche
+1850
+Carl Christian Boden
+Johann Samuel Schmidchen
+Johann Leschau
+Carl Gottlieb Trentzsch
+Johann Friedrich Gotthelf Steinborn
+----------------
+Johann Carl Gottlieb Schmidt
+Johann Gottfried Türke
+Johann Gottfried Böhme
+Johann Gottlieb Eichhorn
+Johann Traugott Gärtner
+Carl Gottlob Meißner
+Johann Willenberg
+Johann Gottlieb Zeidler
+Carl Gottfried Opitz
+----------------
+1851
+Johann Gottlieb Bachmann
+Heinrich August Müller
+Johann Christian Schiefner
+Johann Daniel Wolf
+Christian Carl Riemer
+Friedrich August Juhrsch
+Christian Gottlieb Eichhorn
+Heinrich Ernst Vorwerk
+Ernst Moritz Stelzer
+Carl Gottlob Eichhorn
+----------------
+Johann Friedrich Herrmann
+Christian Heinrich Wagner
+Johann Christian Grafe
+1852
+Johann Gottlieb Philipp
+Carl Gottlieb Ruhland
+Carl Gottlieb Kästner
+August Eduard Born
+Carl August Richter
+----------------
+Johann Carl Gottlieb Creuz
+Carl Friedrich Claus
+Johann Heinrich Eichhorn
+Johann Gottlob Fehrmann
+Carl Gottlob Eichhorn
+1853
+Johann Gottlob Bärisch
+Friedrich Gustav Heinrich Schulze
+Friedrich Wilhelm Seifert
+----------------
+Friedrich Gottlob Jork
+Johann Gottlieb Krätzschmar
+Johann Traugott Eichhorn
+Johann Gottfried Müller
+Friedrich Leberecht Claus
+Johann Gottlob Dreßler
+Carl Gottlieb Richter
+Johann Gottlieb Körner
+----------------
+Johann Gotthelf Schöne
+Johann Gottfried Hausmann
+1854
+Gottlieb Traugott Schulze
+Johann Gotthelf Zeidler
+Johann Friedrich Traugott Richter
+Carl Gottfried Creuz
+Johann Christian Gotthelf Schleinitz
+----------------
+Johann Gottfried Arnold
+Friedrich Wilhelm Ruhland
+August Eduard Born
+1855
+Heinrich Wilhelm Pappritz
+Carl Gottfried Klotzsche
+Johann Gottfried Opitz
+Johann Carl Friedrich Kaden
+----------------
+Johann Gottfried Ruhland
+1856
+Friedrich August Pflaume
+Carl Friedrich Thänert
+Carl Gottfried Pietzsch
+Johann Gottfried Hillig
+Johann Gottlieb Richter
+Carl Traugott Mißbach
+Carl Gottfried Schumann
+----------------
+1857
+Johann Gottlieb Pohle
+Carl Gottlieb Schneider
+Carl Gottlieb Kluge
+Johann Carl Krätzschmar
+Johann Gottlob Krätzschmar
+Johann Christian Gottlob Graf
+Carl August Ludwig
+Johann Traugott Papperitz
+----------------
+Christian Gottlieb Klotzsche
+Johann Carl Gottlob Schulze
+1858
+Carl Friedrich Richter
+Johann Gotthelf Ruhland
+Friedrich Traugott Wagner
+----------------
+Johann Gotthelf Klotzsche
+Carl Traugott Trepte
+Johann Gottfried Richter
+Carl Friedrich Luckner
+Johann Christian Leberecht Koitzsch
+Johann Gotthelf Ernst Hesse
+Johann Gottlieb Schumann
+----------------
+1859
+Ernst Gottlieb Bernhardt
+Johann Ehregott Müller
+Heinrich August Creuz
+Hans Scab
+August Wilhelm Trepte
+Carl Gottlieb Müller
+----------------
+Carl Gottfried Herrmann
+August Wilhelm Samuel Körner
+Carl Gottlob Techert
+Johann Gottlob Schulze
+Johann Gottlob Damme
+Johann Gottlob Krätzschmar
+Friedrich Moritz Oettrich
+----------------
+Johann Friedrich Theodor Fleischer
+Eduard Louis Kaulfuß

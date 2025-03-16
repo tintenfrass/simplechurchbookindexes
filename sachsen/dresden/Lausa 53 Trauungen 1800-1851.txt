@@ -1,5 +1,5 @@
 Lausa (Buch 53)
-Trauungen 1800-1849
+Trauungen 1800-1851
 https://www.archion.de/de/viewer/churchRegister/279972?pageId=38505920
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -12,6 +12,7 @@ Juli 2024
 September 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -920,3 +921,55 @@ Ernst Eduard Menzel
 Carl Gottlieb Schmidt
 Carl Gottlieb Mißbach
 Carl Gottfried Schütze
+----------------
+1850
+Friedrich Gotthelf Felchner
+Johann Friedrich Grafe
+Gottlieb Thieme
+Karl Ehrenfried Wagner
+Gottfried Karl Großmann
+Johann Gottlieb Pietzsch
+Louis August Lange
+----------------
+Karl Christoph Burkhardt
+Karl Heinrich Traugott Menzel
+Herrmann Klippgen
+Johann Karl Gottlob Oderich
+Karl Friedrich Krahl
+Karl Gottfried Kluge
+Ernst August Heim
+----------------
+Jacob Alfred Pourtales
+Johann Traugott Gärtner
+Karl Gottlob Andrich
+Eduard Emil Opitz
+Karl Gottfried Opitz
+Karl Christoph Klaus
+----------------
+1851
+Karl Traugott Engelmann
+Gottfried Mahler
+Karl Friedrich Menzel
+Karl Gottlieb Wagner
+Traugott Leberecht Zichner
+Gottlob Heinrich Richter
+Johann Karl Gottlob Hausmann
+----------------
+Johann Christian Traugott Richter
+Friedrich Wilhelm Lange
+Karl Traugott Scherzog
+Karl Friedrich Hoffmann
+Johann Traugott Schütze
+Karl Traugott Meißner
+Traugott Heinrich Jänichen
+Christian David Ringel
+Christian Traugott Zumpe
+Johann Gottlieb Leberecht Eisold
+----------------
+Gottlieb Karl Dreßler
+Karl Friedrich Schütze
+Michael Laseron
+Friedrich Gottlob Dreßler
+Ernst Gottlieb Böhme
+----------------
+Karl Ernst Otto

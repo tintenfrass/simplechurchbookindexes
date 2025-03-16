@@ -1,5 +1,5 @@
 Kaditz (Buch 222)
-Trauungen 1841-1849
+Trauungen 1841-1850
 https://www.archion.de/de/viewer/churchRegister/264545?pageId=36973855
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -7,6 +7,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -394,3 +395,59 @@ Carl Gottlieb Hertzschuch
 ----------------
 Johann Gottlieb Ringel
 Johann Gottlieb Traugott Huhle
+---------------- x36
+1850
+Karl Friedrich Schmidt
+Johann Gottlieb Heinrich Vogel
+Karl Gottlob Preusche
+Karl August Dünnbier
+Johann Gottlob Griesbach
+Karl Friedrich Ehrig
+Karl Gottfried Eichhorn
+----------------
+Johann Wilhelm Dittrich
+Johann Gottlieb Buhrig
+Karl Gottlob Kühne
+Karl Friedrich Gommlich
+Karl Gotthelf Hübler
+Johann Traugott Conrad
+Karl Gottlob Dießler
+Karl Gottlieb Zschimmer
+----------------
+Friedrich August Schumann
+Johann Gottlob Niederley
+Karl Gottfried Zscheile
+Johann Christian Klotzsche
+Johann Gottlieb Aehlig
+Karl Joseph Watzke
+Johann Gottfried Schumann
+Johann Gottfried Klotzsche
+----------------
+Friedrich August Klotzsche
+Friedrich Ernst Reichelt
+Heinrich August Friebel
+Anton Bongar
+Johann Gottlieb Hertzschuch
+Karl Gottlob Schöne
+Andreas Bautzer
+----------------
+Johann Traugott Kuntzsch
+Karl Gottlob Gruwitzsch
+Karl Friedrich Wolfframm
+Karl Friedrich Rochlitzer
+Karl Gottfried Zscheile
+Friedrich Wilhelm Weinert
+Karl Ernst Richter
+----------------
+Johann Gottfried Horn
+Johann Gottfried Adam
+Johann Heinrich Karl Reiche
+Johann Gottlob Schumann
+Karl Gottfried Bormann
+Friedrich Wilhelm Kühne
+Karl Traugott Hofmann
+----------------
+Johann Gottlieb Heidenreich
+Karl Gottfried Lange
+Johann Gottlieb Hübler
+Johann Christian Werner

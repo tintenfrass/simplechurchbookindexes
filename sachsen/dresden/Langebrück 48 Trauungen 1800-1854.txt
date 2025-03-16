@@ -1,5 +1,5 @@
 Langebrück (Buch 48)
-Trauungen 1800-1849
+Trauungen 1800-1854
 https://www.archion.de/de/viewer/churchRegister/279967?pageId=38504680
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -12,6 +12,7 @@ Juli 2024
 September 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -553,3 +554,67 @@ Johann Heinrich Trepte
 Heinrich Richter
 Carl Gottfried Böhme
 Johann Gottfried Zichner
+1850
+Johann Gottlieb Schütze
+Johann Gottlieb Heinrich Claus
+----------------
+Carl Gottlieb Unger
+Carl Gottlob Partzsch
+Carl August Thomas
+Carl Wilhelm Kade
+Johann Christoph Schmidt
+Johann Heinrich Wiesner
+Friedrich Wilhelm Ehregott Kotzsch
+----------------
+1851
+Carl Traugott Prescher
+Johann Wilhelm Traugott Dreßler
+Johann Gottlob Stiehler
+Carl Gottfried Stiehler
+Johann Gotthelf Kotzsch
+Carl Heinrich Eduard Kade
+----------------
+Johann Gottlob Trepte
+Johann Heinrich Bürger
+Carl Franz Jordan
+Carl Ernst Claus
+Carl Gottlob Pfützner
+Johann Gottfried Schmidt
+----------------
+Johann Gottlieb Rennert
+Johann Heinrich Trepte
+Carl Heinrich Schäfer
+Carl Gottlob Fehrmann
+1852
+Johann Heinrich Hennig
+Johann Gottfried Kunath
+----------------
+Gottfried Heinrich Opitz
+1853
+Johann Heinrich Wilhelm Böhme
+Carl Traugott Leuthold
+Johann Heinrich Harnisch
+Carl Gottfried Zimmer
+----------------
+Johann Gottlieb Claus
+Eduard Wirth
+Johann Carl Tronicke
+Friedrich Gotthelf Claus
+Johann Gottlieb Bruchhold
+Carl Gottlob Rosencranz
+----------------
+1854
+Johann Heinrich Claus
+Carl Gottlieb Preußer
+Carl Traugott Trepte
+Carl August Tronicke
+Johann Heinrich Schmidt
+----------------
+Carl Traugott Trepte
+Johann Carl Robert Geisler
+Carl Christoph Schmidt
+Johann Gotthelf Kotte
+Johann Gottlieb August Philipp
+----------------
+Carl Gottfried Wagner
+Johann Gotthelf Hofmann

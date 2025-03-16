@@ -1,5 +1,5 @@
 Grünberg (Buch 9)
-Trauungen 1837-1849
+Trauungen 1837-1859
 https://www.archion.de/de/viewer/churchRegister/279928?pageId=38496894
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Oktober 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -100,3 +101,92 @@ Friedrich August Trepte
 Johann Gottlieb Leunert
 Friedrich Traugott Felchner
 Carl Gottlieb Hähne
+1850
+Johann Traugott Pfützner
+Carl Samuel Hesse
+----------------
+Carl Gottlob Bergmann
+August Robert Wagner
+Johann Gottfried Grafe
+Johann Gottlob Trepte
+1851
+Johann Gotthelf Kotzsch
+----------------
+Friedrich Wilhelm Boden
+Carl Gottlob Pfützner
+Johann Gottfried Koitzsch
+Carl Gottlieb Menzel
+Johann Carl Gottlieb Nitzsche
+----------------
+1852
+Johann Georg Traugott Schütze
+Johann Gottlob Grunewald
+Carl Gottlieb Trepte
+Carl August Beck
+Carl August Kreyer
+Carl Gotthelf Creutze
+Friedrich Eduard Pöschel
+----------------
+Johann Carl Gottlieb Liebezeit
+Gottfried Heinrich Opitz
+1853
+August Moritz Wagner
+Carl Gottlob Barthel
+Johann Gottlieb Kotte
+----------------
+Carl Gottlieb Thieme
+Carl Gottlob Müller
+Carl Friedrich Eduard Wirth
+Gottlieb Friedrich Hähnel
+Carl Friedrich Kluge
+----------------
+1854
+Carl Friedrich Schöne
+Johann Carl Großmann
+Heinrich Schindler
+Johann Gotthelf Kotte
+Carl Gottlieb Ringel
+----------------
+1855
+Carl Gottlieb Trepte
+Carl Friedrich Lehmann
+Johann Gottlob Kotte
+Carl Christian Müller
+Christian Friedrich Thieme
+Johann Gottlob Kotzsch
+Heinrich Wilhelm Clemens Blochmann
+----------------
+Heinrich Wilhelm Büttner
+1856
+Carl August Leberecht Müller
+Friedrich Wilhelm Ringel
+Carl Gottlob Thalheim
+Friedrich August Menzel
+----------------
+Carl Gottfried Schmidt
+Friedrich August Schneider
+1857
+Johann Gottlieb Körner
+----------------
+Carl Gottlieb Ringel
+Carl Friedrich Moritz Wirth
+Friedrich Wilhelm Tamme
+1858
+Johann Heinrich Dietze
+----------------
+Carl Friedrich Leuschner
+Friedrich August Kotte
+Johann Traugott Kotzsch
+Carl Wilhelm Graefe
+Ernst Heinrich Gottlieb Petzold
+Johann Gottlieb Kotzsch
+----------------
+Johann Gottlieb Kressner
+1859
+Ernst Eduard Höhle
+Johann Heinrich Liebezeit
+August Wilhelm Trepte
+Gottlieb August Kluge
+----------------
+Johann Carl Friedrich
+Johann Gottfried Grünberg
