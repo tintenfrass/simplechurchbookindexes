@@ -1,5 +1,5 @@
 Ottendorf (Buch 75)
-Trauungen 1834-1849
+Trauungen 1834-1859
 https://www.archion.de/de/viewer/churchRegister/279995?pageId=38510925
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -261,3 +262,166 @@ Carl Gottfried Missbach
 ----------------
 Johann Carl Gottfried Stölzer
 Johann August Thieme
+----------------
+1850
+Johann Gottfried Großmann
+Gottfried Gotthelf Partzsch
+Carl August Kluge
+Gustav Adolph Friedrich Clauß
+Johann Gottlob Schirach
+----------------
+Carl August Hoffmann
+Johann Carl Gottlob Kotte
+Johann Gotthelf Menzel
+Heinrich August Körner
+Johann Gottlob Trepte
+Gottlob Beier
+----------------
+1851
+Friedrich Traugott Sickert
+Friedrich Wilhelm Beier
+Carl Traugott Meißner
+Johann Gottlob Hauptmann
+Christian Friedrich Heinz
+Carl Friedrich Claus
+----------------
+Gottlieb August Wagner
+Georg Matthaeus Kulisch
+Johann Gottlob Tischer
+Carl August Grund
+Johann Friedrich Herrmann
+Johann Gottfried Thieme
+----------------
+Eduard Julius Biese
+1852
+Johann Christian Gotthelf Lotzmann
+Johann Gottfried Leuthold
+Friedrich Wilhelm Meißner
+----------------
+Gottlieb August Mitscherling
+Carl August Beck
+Johann Gottlob Güttner
+Johann Traugott Walther
+Friedrich Traugott Leonhardt
+Carl Gottlob Arnold
+----------------
+Friedrich Gottlieb Flasche
+Johann Carl Claus
+Carl Friedrich Mitscherling
+Carl August Heße
+Friedrich August Gottschalk
+Gottlob Traugott Richter
+----------------
+1853
+Johann August Kunath
+Eduard Theodor Ebert
+Heinrich August Meißner
+Carl August Walther
+Johann Traugott Thieme
+----------------
+Johann August Traugott Wierig
+Carl Gotthelf Beier
+Carl August Kluge
+Friedrich August Lödrich
+Johann Gottlob Richter
+Johann Gottfried Kästner
+----------------
+Carl August Knoll
+1854
+Carl Julius Ferdinand Glaser
+Carl Louis Müller
+----------------
+Carl Christoph Böhme
+Ernst Heintze
+August Nentwig
+Friedrich Ernst Stölzer
+----------------
+Friedrich Adolph Wendt
+August Gottfried Thamme
+Johann Gottfried Götze
+Friedrich Wilhelm Lödrich
+Johann Gottfried Jehnichen
+----------------
+Carl Gottlob Lippert
+Friedrich Wilhelm Richter
+Heinrich Haußmann
+Friedrich August Mißbach
+Carl Gottlieb Eduard Lippert
+----------------
+Johann Gottfried Traugott Küttner
+Gottlieb August Kotte
+Johann Gottlob Thieme
+Wilhelm Moritz Teichmann
+----------------
+1855
+Johann Christian Gottlieb Nierich
+Johann Friedrich Meißner
+Carl Gottlob Thamme
+Carl Gotthelf Haase
+Friedrich Wilhelm Beck
+----------------
+Carl Gottlieb Eduard Lippert
+1856
+Johann Gotthold Zschiesche
+Johann Gottlieb Kunath
+Carl Heinrich Guhr
+----------------
+Carl Gottfried Knöfel
+Christian Carl Weser
+Carl Traugott Hauptmann
+Friedrich Ernst Weber
+Ernst Traugott Mißbach
+----------------
+1857
+Johann Skop
+Friedrich Ernst Stölzer
+Johann Gottlob Großmann
+Friedrich August Großmann
+Carl Friedrich Herrmann
+Carl Friedrich Lotzmann
+Carl Gottlieb Peschel
+Johann Gottlieb Walther
+----------------
+Carl Christoph Schütze
+Carl Wilhelm Hauptmann
+Johann Friedrich Lippert
+Johann Gottfried Großmann
+Carl Gottlob Gäbler
+Julius Herrmann Keutel
+Carl Gottlob Thamme
+Carl Friedrich Moritz Wirth
+----------------
+1858
+Carl Andreas Uschner
+Johann Friedrich Leberecht Partsch
+Carl Gottlob Trepte
+Carl Gottfried Kittner
+Friedrich Wilhelm Kotte
+Johann Gottfried Meinert
+----------------
+Carl Gustav Ziller
+Carl Gottlieb Boden
+Carl Traugott Boden
+Carl Gottfried Thamme
+Johann Christoph Zumpe
+Carl August Richter
+August Wilhelm Lotzmann
+Carl Traugott Vetters
+Carl August Lohrmann
+----------------
+1859
+Carl Gottlob Hesse
+Johann Gotthelf Hauswald
+Heinrich Traugott Thieme
+Friedrich Wilhelm Findeisen
+Daniel August Lippert
+Carl August Kelller
+Johann Gottfried Großmann
+Carl Heinrich Carl Fritzsche
+Carl Gottlob Klengel
+Johann Georg Traugott Klotzsche
+Christian Gottlieb Eckert
+----------------
+Friedrich Herrmann Seidel
+Friedrich Robert Ziller
+Carl August Lunze

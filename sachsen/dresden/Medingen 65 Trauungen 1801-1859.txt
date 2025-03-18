@@ -1,5 +1,5 @@
 Medingen (Buch 65)
-Trauungen 1801-1849
+Trauungen 1801-1859
 https://www.archion.de/de/viewer/churchRegister/279985?pageId=38507912
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -12,6 +12,7 @@ Juli 2024
 September 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -401,3 +402,135 @@ Johann Gotthelf Müller
 Carl Gottlieb Grützner
 Carl Gottlieb Hähne
 Johann Gotthelf Klotzsche
+----------------
+1850
+Johann August Wilhelm Schumann
+Johann Gotthelf Ferdinand Philipp
+Carl Friedrich Quosdorf
+Friedrich Gotthold Söhnel
+Johann Gottlieb Umlauft
+Ernst Adolf Wagner
+----------------
+Johann Gottlieb Klotzsche
+Johann Gotthelf Riehle
+Carl Gottlob Andrich
+Carl Friedrich Eger
+Gotthelf Traugott Meißner
+----------------
+1851
+Johann Gottlob Grützner
+Johann Gottfried Schulze
+Friedrich Traugott Huhle
+Johann Gotthelf Zinke
+Johann Gottfried Kästner
+Carl Wilhelm Meyer
+Johann Carl Gottfried Eichhorn
+----------------
+Johann Gottlob Hauptmann
+Friedrich August Juhrsch
+Johann Gottfried Jordan
+Johann Christoph Schütze
+Christian Heinrich Wagner
+----------------
+1852
+Friedrich August Klotzsche
+Johann Gotthelf Zachmann
+Carl Gottlieb Trepte
+Johann Friedrich Ernst Berger
+Johann Gotthelf Fleischer
+Johann Gottfried Hartmann
+----------------
+Carl Ferdinand Eichhorn
+Carl Gotthelf Schütze
+Johann Christian Gotthelf Behrisch
+Johann Friedrich Schütze
+1853
+Friedrich Gustav Heinrich Schulze
+----------------
+August Wilhelm Schöne
+Carl Traugott Damme
+Heinrich August Meißner
+Carl Moritz Meißner
+Friedrich August Protze
+Carl Gottlieb Meißner
+----------------
+Carl Gottlob Meißner
+Friedrich August Lödrich
+Gustav Julius Nichte
+Johann Gottlob Meyer
+----------------
+1854
+Carl Friedrich Traugott Vetters
+Carl Gotthelf Born
+Johann Gottfried Zachmann
+Carl Friedrich Wagner
+Johann Gottlieb Lehmann
+Johann Christoph Schindler
+----------------
+Friedrich August Richter
+Carl Leberecht Schöne
+1855
+Carl Gottlieb Meißner
+Carl Ferdinand Naumann
+Johann Gottfried Patzig
+----------------
+Johann Gottfried Rietzschel
+Friedrich Ernst Lehmann
+1856
+Friedrich Gotthelf Bürger
+Christian Traugott Naumann
+----------------
+Johann Gottfried Brauny
+Johann Samuel Zeiler
+Friedrich August Raphelt
+Christian Heinrich Eduard Georgi
+Carl Friedrich Zickler
+----------------
+Friedrich Wilhelm Gebauer
+1857
+Carl Gottlieb Naumann
+Carl Ferdinand Naumann
+Johann Gottlob Pietzsch
+----------------
+Gottlieb Leberecht Haase
+Carl Gottlieb Peschel
+Carl Gottlieb Kluge
+Johann Ludwig Gottlob Großmann
+Friedrich August Großmann
+----------------
+Johann Hetschick
+Johann Gottfried Großmann
+Carl Gotthelf Kirsten
+----------------
+1858
+Friedrich August Ruhland
+Carl Friedrich Trepte
+Johann Gottfried Mager
+Christian August Neumann
+Carl Gottlob Säuberlich
+----------------
+Heinrich Gottlieb Förster
+Johann Gottfried Meinert
+Johann Gottfried Grützner
+Gottfried Traugott Klotzsche
+Carl Gottlob Andrich
+----------------
+Friedrich Traugott Wagner
+Johann Christoph Zumpe
+Johann Gotthelf Klotzsche
+Johann Gotthelf Hähne
+----------------
+1859
+Johann Gottlieb Hornoff
+Gottlob Traugott Hornuff
+Heinrich Traugott Ritscher
+August Ernst Schütze
+Carl Gottlieb Claus
+Carl Gotthelf Zeidler
+----------------
+Carl Heinrich Klotzsche
+Johann Gottlieb Naumann
+Johann Friedrich Theodor Fleischer
+Johann Gottfried Heinrich Freudenberg
+----------------
+Johann Gottfried Quosdorf
