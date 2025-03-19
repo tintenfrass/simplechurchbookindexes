@@ -1,17 +1,18 @@
 Schönborn (Buch 184)
-Trauungen 1800-1849
+Trauungen 1800-1859
 https://www.archion.de/de/viewer/churchRegister/264515?pageId=36960284
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 0,5 Stunden
+Erstellt in ca. 1 Stunde
 April 2024
 Juli 2024
 September 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -399,3 +400,80 @@ Heinrich August Pietzsch
 ----------------
 Gottlob Leberecht Pietzsch
 Carl Gottfried Böhme
+----------------
+1850
+Carl Gottlob Partzsch
+Friedrich August Schmidt
+----------------
+1851
+Carl August Pietzsch
+----------------
+Friedrich August Voigt
+Johann Gottfried Schmidt
+Carl Gottfried Großmann
+----------------
+Carl Christian Knoll
+Johann Gottfried Thieme
+----------------
+1852
+Gustav Adolph Rudolph
+Friedrich August Klotsche
+----------------
+Carl Gottlob Großmann
+Carl Gottfried Zimmermann
+Friedrich Julius Estler
+----------------
+Gottlob Traugott Richter
+Gottlieb Traugott Samuel Schanze
+Johann Georg Menzel
+----------------
+1853
+Friedrich Wilhelm Kunath
+Carl August Drache
+Johann Gottlieb Ludwig
+----------------
+Carl Friedrich Gottfried Thalheim
+Carl Christoph Schmidt
+----------------
+1854
+Carl Gottlob Tamme
+Johann Gottfried Thalheim
+Johann Gottfried Schmidt
+----------------
+Carl Gottlieb Michael
+Carl Wilhelm Pietzsch
+Carl Gotthelf Hauwald
+----------------
+Gottlob August Stelzer
+Johann Gotthelf Schmidt
+Carl Gottlieb Ringel
+----------------
+1855
+Gottfried Eduard Förster
+Carl Friedrich Wilhelm Schmidt
+----------------
+1856
+Christian Traugott Naumann
+Friedrich Ferdinand Angermann
+Carl August Zichner
+----------------
+Johann Gottlieb Wilhelm Eisold
+Friedrich Wilhelm Huhle
+----------------
+1857
+Johann Gotthelf Claus
+1858
+Karl Gottfried Johne
+Johann Gottlieb Franz Stöpel
+Karl Gottfried Schmidt
+----------------
+Gottlob August Tamme
+Johann Gottfried Pietzsch
+1859
+Carl August Keller
+Johann Gottfried August Schmidtgen
+Julius Adolph Schöne
+----------------
+Friedrich August Johne
+Johann Georg Tamme
+Carl August Stelzer

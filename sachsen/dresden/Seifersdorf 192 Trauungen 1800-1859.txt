@@ -1,5 +1,5 @@
 Seifersdorf (Buch 192)
-Trauungen 1800-1849
+Trauungen 1800-1859
 https://www.archion.de/de/viewer/churchRegister/264523?pageId=36963541
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -12,6 +12,7 @@ Juli 2024
 September 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -519,3 +520,144 @@ Carl August Winkler
 Johann Gottlob Bärisch
 Johann Gottfried Zichner
 Ernst Böhme
+----------------
+1850
+Carl August Rätze
+Johann Christian Carl König
+Eduard Gustav Gelbke
+Franz Eduard Schirmer
+Carl Gottfried Mühlberg
+----------------
+Johann Gottlob Drescher
+Friedrich August Frömmel
+1851
+Johann Wilhelm Traugott Dreßler
+Carl Gottlieb Hofmann
+----------------
+Friedrich Herrmann Robert Wirth
+Johann Ernst Traugott Peschel
+Ernst Emil Schmöger
+Carl Gotthelf Tamme
+Ernst Ludwig Völkel
+Carl Gottlob Haupt
+----------------
+1852
+Friedrich August Klotzsche
+Carl August Heynitz
+Johann Gottlob Geißler
+Johann Christoph Großmann
+Johann Gottlob Grützner
+----------------
+Johann Gottlieb Gärtner
+Carl Gottfried Zimmermann
+Carl Gottlieb Kluge
+Carl Gottlieb Schütze
+Heinrich Alexander Mättig
+----------------
+1853
+Friedrich Wilhelm Kunath
+Carl Traugott Leberecht Völkel
+Johann Gottfried Leipert
+Friedrich Wilhelm Küttner
+August Leberecht Philipp
+----------------
+Ernst Leberecht Klotzsche
+Friedrich Ernst Haufe
+Johann Heinrich Großmann
+Friedrich Moritz Wuttig
+Johann Carl Gottlob Gäbler
+Carl Gottlieb Gebauer
+----------------
+1854
+Friedrich Christlieb Walther
+Traugott Leberecht Grützner
+Carl Traugott Schwibus
+Carl Gottlieb Barth
+Johann Carl Traugott Petzold
+----------------
+Carl Wilhelm Pietzsch
+Carl Friedrich Müller
+Johann Friedrich Tamme
+Johann Carl Großmann
+Johann Friedrich Sickert
+----------------
+1855
+Johann Matthaeus Noack
+Johann Carl Gottfried Stäglich
+Heinrich Louis Wuttig
+Louis Heinrich Hickmann
+Carl Gottlieb Lotzmann
+----------------
+August Fürchtegott Mißbach
+Carl Friedrich Stölzer
+----------------
+1856
+Johann Gottlob Großmann
+Heinrich August Wilhelm Herklotz
+Carl Gottlieb Just
+Friedrich Fürchtegott Nitzsche
+Johann Gottlob Kunath
+----------------
+Traugott Friedrich Winkler
+Johann Gottlob Trepte
+Carl Wilhelm Scheibe
+Carl August Pötzschke
+Ernst Ferdinand Zschaler
+Carl Gottfried Trepte
+----------------
+Carl Gottlieb Leipert
+Friedrich Wilhelm Nötzold
+Johann Gottlieb Zumpe
+Carl Gottfried Schmidt
+Johann Carl Schmidt
+Heinrich Traugott Seidenmacher
+----------------
+Johann Friedrich August Gretschel
+Friedrich Wilhelm Gebauer
+Friedrich Wilhelm Huhle
+Johann Christoph Völkel
+----------------
+1857
+Carl Friedrich August Grützner
+Christian Friedrich Geißler
+Johann Gottfried Leipert
+Gottlieb Traugott Winkler
+Johann Gottfried Müller
+----------------
+Zacharias Otto Herrmann Hilliger
+Gottlob Leberecht Thieme
+Carl Gottlieb Klotzsche
+Gottfried Heinrich Böhme
+Carl Traugott Rüßel
+Carl Friedrich Klotzsche
+----------------
+1858
+Friedrich Wilhelm Großmann
+Christian Traugott Grafe
+Carl Gottfried Kittner
+Carl Ferdinand Klotzsche
+Johann Gottlob Zumpe
+----------------
+Johann Bruno Haas
+Johann Gotthelf Hähne
+Carl Gottlob Kunath
+Carl Gottfried Kühn
+Johann Gottfried Grützner
+Johann Gottlieb Kreßner
+----------------
+Carl Gottfried Kunath
+1859
+Johann Gottfried Großmann
+Carl Eduard Laue
+Carl Wilhelm Mediger
+----------------
+Johann Gottfried Trepte
+Carl Traugott Schindler
+Carl Friedrich Krauß
+Christian Carl August Schreiber
+Samuel Friedrich Hehlig
+Carl Gottlieb Oese
+----------------
+Johann Gottfried Zumpe
+Johann Gottfried Quosdorf
+Carl Gustav Eppendorf

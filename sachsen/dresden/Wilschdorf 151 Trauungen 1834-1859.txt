@@ -1,5 +1,5 @@
 Wilschdorf (Buch 151)
-Trauungen 1834-1849
+Trauungen 1834-1859
 https://www.archion.de/de/viewer/churchRegister/280071?pageId=38529138
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -139,3 +140,82 @@ Christian Traugott Müller
 Johann Gottlieb Gommelich
 Johann Gottfried Rarisch
 Carl Gottfried Gommlich
+1850
+Hans Buscha
+----------------
+Johann Traugott Gommlich
+Carl Gottlob Schönberg
+Johann Carl Traugott Gommlich
+Gottlieb Traugott Wagner
+Friedrich August Erhardt
+----------------
+1851
+Carl Gottlieb Wehner
+Johann Christian Gottlieb Gommlich
+Johann Carl Gottlieb Naumann
+Johann Traugott Naumann
+Carl Traugott Gommlich
+Johann Gottlob Schütze
+----------------
+Johann Gottlob Gäbler
+1852
+Carl Gottlob Kästner
+Karl Gottlieb Franze
+Johann Gottfried Tamme
+----------------
+1853
+Johann Gottlob Bergmann
+Johann Gottfried Hofmann
+Johann Gottlob Kuntzsch
+Johann Georg Rarisch
+1854
+Johann Gottlieb Ruediger
+----------------
+Friedrich August Grießbach
+Karl August Müller
+Johann Gottfried Schütze
+Johann Heinrich August Schmiedchen
+Johann Gottlob Thalheim
+----------------
+Carl Gottfried Hornuff
+Karl Traugott Schütze
+Karl Gottfried Menzel
+Friedrich Traugott Gäbler
+----------------
+1855
+Karl Christian Wolf
+Gottlieb Traugott Tamme
+Ryno? Volkmar Wild
+Karl Gottlieb Lesch
+Alwin Eduard Julius Hofmann
+Karl August Zumpe
+----------------
+Johann Gottlieb Krause
+1856
+Karl Traugott Kaiser
+Johann Friedrich Traugott Gommlich
+Friedrich Traugott Schütze
+----------------
+1857
+Karl Gottlob Rahrisch
+Johann Gottfried Gommlich
+Johann Gottfried Hofmann
+1858
+Johann Christian Gommlich
+Carl Gottlieb Limang
+----------------
+Friedrich Traugott Schütze
+Johann Gottlieb Preusche
+Carl August Gommlich
+1859
+Johann Christian Gommlich
+----------------
+Johann Georg Traugott Klotsche
+Johann August Schlesiger
+Johann Traugott Fürchtegott Kind
+Carl Gottlieb Klotsche
+----------------
+Carl Gotthelf Kutzmann
+Friedrich August Riemer
+Carl Traugott Nicht
+Carl Gottfried Wagner
