@@ -1,5 +1,5 @@
 Burkhardswalde (Buch 3)
-Trauungen 1825-1849
+Trauungen 1825-1851
 https://www.archion.de/de/viewer/churchRegister/281046?pageId=38772281
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 September 2024
 Nobember 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -404,3 +405,38 @@ Johann Gottlieb Kühne
 ----------------
 Traugott Friedrich Richter
 Carl Gottlob Bernd
+1850
+Traugott Ernst Beuthner
+Friedrich August Fischer
+----------------
+Johann Zschech
+Traugott Ernst Müller
+Johann Wilhelm Schumann
+August Ferdinand Sammer
+----------------
+Johann Georg SaherSahr
+Friedrich August Wilhelm Bude
+Johann Christlieb Schroth
+----------------
+Friedrich David Lange
+Carl August Erfurt
+Johann Christian Götze
+Gottfried August Schmorl
+----------------
+Ernst Gottlieb Henke
+Friedrich Moritz Wätzig
+1851
+Traugott Leberecht Käfner
+----------------
+Carl Wilibald Kunze
+Eduard Fürchtegott Hammer
+Gottfried August Schmorl
+Johann David Straßburger
+Carl August Roßberg
+Gotthelf Moritz Franz Voigt
+Carl August Ulbrig
+Ernst Friedrich Langemach
+Johann Gottlieb Gasch
+Johann Gottlieb Ernst Schumann
+Carl Gottlob Poppe
+Friedrich Heinrich Schroth

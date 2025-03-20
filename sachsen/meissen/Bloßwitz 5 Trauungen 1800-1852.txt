@@ -1,17 +1,18 @@
 Bloßwitz (Buch 5)
-Trauungen 1800-1849
+Trauungen 1800-1852
 https://www.archion.de/de/viewer/churchRegister/281027?pageId=38768099
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 2,5 Stunden
+Erstellt in ca. 3 Stunden
 Mai 2024
 Juli 2024
 September 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1540,3 +1541,143 @@ Johann Friedrich Wilhelm Weißhorn
 Johann Gottfried Ziegenbalg
 Friedrich August Wolf
 Friedrich Ferdinand Hornauer
+----------------
+1850
+Gottlieb Friedrich Apitz
+Franz Friedrich Glöckner
+Johann Gottfried Weißhorn
+Friedrich Wilhelm Gatzsch
+Friedrich Ludwig Schnurpel
+Johann Gottlob Lehmann
+----------------
+Heinrich Wilhelm Weißhorn
+Karl August Scholze
+Johann Karl Gustav Theile
+Friedrich Gottlob Burkhardt
+Christian Leberecht Dietze
+Karl Gottlob Müller
+----------------
+Karl Gottlob Schumann
+Karl Friedrich Kretzschmar
+Christian Heinrich Poitz
+Friedrich Wilhelm Grimmer
+Gottlieb Wilhelm Beeger
+Karl Friedrich Wilhelm Reinhardt
+Johann Karl Rothe
+----------------
+Karl Fürchtegott Unze
+Karl Gottlob Glauche
+Ernst Julius Roßberg
+Johann Karl Gottlieb Kühne
+Johann Gottlieb Büttner
+Karl Gottlob Schulze
+----------------
+Karl Gottlob Thomas
+Johann Gottfried Georgi
+Johann Gottfried Leberecht Kretzschmar
+Karl Friedrich Gottlob Müller
+Johann Gottlob Reimar
+----------------
+Ehregott Ernst Eckelmann
+Johann Traugott Dörschel
+Friedrich August Zschörnig
+Friedrich Wilhelm Kökeritz
+Karl Ferdinand Zimmler
+----------------
+Johann Gottlieb Roßberg
+Gottlob Baier
+Friedrich August Reinhardt
+----------------
+1851
+Karl Wilhelm Schneider
+Karl Gottlob Dölitzsch
+Adolph Moritz Michaelis
+Karl Heinrich Donat
+Karl Gottlob Richter
+Karl August Reißig
+----------------
+Christian Gottlob Göckritz
+Karl Gotthelf Sieber
+Johann Traugott Birkner
+Johann August Wilhelm Görne
+Karl Gotthelf Räubig
+Karl Gottfried Fichtner
+----------------
+Johann Gotthelf Thiele
+Karl Gotthelf Gründling
+Johann Gottlob Richter
+Gottfried Ernst Schulze
+Franz Anton Zimmler
+Johann Gottlob Kobisch
+Christian Gottlob Ningert
+----------------
+Johann Ernst Böttcher
+Friedrich Gotthelf Reichel
+Ernst Otto Feist
+Heinrich Wilhelm Teichmann
+Karl Traugott Schumann
+----------------
+Johann Friedrich Wilhelm Richter
+Christian Ernst Thieme
+Friedrich August Ebner
+Johann Karl Traugott Thomas
+Ferdinand Moritz Jentsch
+Friedrich Traugott Graupner
+----------------
+Karl Gottlieb Schwager
+Karl Wilhelm Weinert
+Johann Gottlieb Fischer
+Johann Christian Gottlieb Müller
+Karl Gottlob Lehmann
+Karl Gottlob Helm
+----------------
+1852
+Friedrich August Förster
+Johann Gottlob Fießler
+Friedrich Gottlob Schumann
+Karl Gottlieb Süß
+Karl Gottfried Käseberg
+Karl Friedrich Schüttig
+----------------
+Christian Gottlieb Zschellesky
+Karl Wilhelm Eidner
+Johann Traugott Schmidt
+Friedrich Anton Drüps
+Karl Gottlieb Voigt
+Heinrich Traugott Leschke
+----------------
+Hermannn Leps
+Ernst Ferdinand Wilhelm
+Karl Friedrich Wilhelm Kern
+Johann Karl Gottlieb Aßmann
+Johann Friedrich Seifert
+----------------
+Johann Karl Gotthelf Böhme
+Friedrich August Herrmann
+August Heinrich Haubold
+Johann Fürchtegott Franke
+Karl Gottlob Görne
+----------------
+Friedrich August Krell
+Johann Gottlob Springefeld
+Heinrich Wilhelm Weißhorn
+Heinrich August Tilly
+Johann Traugott Ehregott Wackwitz
+----------------
+Karl Gottlob Martin
+Friedrich Gotthelf Nitzsche
+Ernst Ferdinand Hoppe
+Johann Karl Gottlob Winkler
+Friedrich Wilhelm Krauspe
+Friedrich Wilhelm Nickel
+----------------
+Karl Gottlob Zimmermann
+Karl Traugott Bäsler
+Friedrich August Merzdorf
+Traugott Leberecht Richter
+Christian Gottlieb Wilhelm Bäcker
+Karl Gottlob Erdmann Becker
+Friedrich Wilhelm Kretzschmar
+----------------
+Karl Eduard Wittig
+Karl August Schlehahn

@@ -1,5 +1,5 @@
 Blankenstein (Buch 2)
-Trauungen 1824-1849
+Trauungen 1824-1859
 https://www.archion.de/de/viewer/churchRegister/281021?pageId=38766340
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 September 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -353,3 +354,149 @@ Carl Gottlieb Fritzsche
 Carl Friedrich Fischer
 Friedrich Wilhelm Kohlsdorf
 Johann Gottlieb Kühne
+----------------
+1850
+Carl Gustav Craselt
+Carl Heinrich Störr
+Ernst Ferdinand Fischer
+Carl Wilhelm Gerhold
+Ernst Wilhelm Hofmann
+Ehrhardt Richter
+Johann Gotthelf Kuntze
+----------------
+Gottlob Ernst Großöhmig
+Johann Gottfried David Kohlsdorf
+August Heinrich Böhme
+Carl Adolph Rüdiger
+Johann Christian Schroth
+Gottlieb Leberecht Hammer
+Carl August Seipt
+----------------
+Ernst Julius Zabelt
+Carl August Richter
+Carl Gottfried Patzig
+----------------
+1851
+Carl Gottlob Ernst Preußer
+Eduard Fürchtegott Hammer
+Johann Gottlieb Hoyer
+Carl Gotthelf Just
+Carl Gustav Ranft
+Carl Gottfried Döring
+Heinrich Adolph Pinkert
+----------------
+Carl Christian Moritz Zschoche
+Carl Gustav Kohlsdorf
+Franz Moritz Kleber
+Carl Moritz Friedrich
+Franz Heinrich Lösel
+Carl August Böhme
+----------------
+1852
+Carl Gottlob Weber
+Heinrich Ferdinand Leuschner
+Carl August Wilhelm Philipp
+Heinrich Anton Richter
+Carl August Roitzsch
+Johann Wilhelm Ernst Kühne
+Johann Gottlob Leberecht Birkner
+----------------
+Carl Ernst Geißler
+Johann Gottlieb Geißler
+----------------
+1853
+Friedrich August Böhme
+Friedrich Wilhelm Ferdinand Damme
+Carl Gottlob Ebert
+Carl Gottlob Kretzschmar
+Traugott Leberecht Schlicke
+Carl Gotthelf Hörig
+Johann Gottlob Leberecht Schubert
+Friedrich August Büttner
+----------------
+Johann Gotthelf Schubert
+Johann Gottlob Kleemann
+Carl Friedrich Geißler
+Carl Louis Wolf
+Carl Gustav Strohbach
+Carl Julius Beutner
+----------------
+August Ferdinand Horn
+Friedrich Gottlob Rost
+August Friedrich Hänig
+Carl Gottlob Kubsch
+----------------
+1854
+Johann Gottlob Moses
+Carl Eduard Eger
+Carl Wilhelm Köhler
+Ernst Friedrich Wilhelm Lucius
+Franz Herrmann Zeitschel
+Johann Traugott Löser
+Christian Gottlieb Löser
+----------------
+1855
+Carl August Ufer
+Johann Gottfried Walther
+Carl Gottfried Ludwig
+Ernst August Dachsel
+Christian Friedrich Töpfer
+Carl Gotthelf Richter
+Friedrich Wilhelm Becker
+Friedrich Ernst Kleber
+----------------
+Ernst Samuel Simon
+Carl August Schantze
+Heinrich Wilhelm Eckelmann
+Carl Heinrich Höschler
+Carl August Thieme
+Adolph Julius Schiller
+----------------
+1856
+Carl Gottfried Philipp
+Gustav Adolph Philipp
+Carl Gottlieb Richter
+Carl Adolph Löffler
+Johann Gottlieb Moses
+----------------
+1857
+Carl Gottfried Naumann
+Carl Ernst Hammer
+Ernst Julius Keßler
+Friedrich Wilhelm Deutscher
+Ernst Rudolph Richter
+Carl Gottlob Schöne
+Carl August Böhme
+----------------
+Johann Carl Gottlob Birkner
+Julius Herrmann Rost
+----------------
+1858
+Carl Louis Hähner
+Carl Adolph Adler
+Carl Ernst Kirsten
+Ernst Friedrich Eduard Röder
+Heinrich Robert Hartmann
+Carl Ernst Faust
+----------------
+Carl Ernst Emil Louis Neubert
+August Eduard Röhrborn
+Johann Hollang
+----------------
+1859
+Carl August Hanicke
+Ernst Gottlieb Heinrich Stieler
+Carl Gottlob Feldmann
+Heinrich Eduard Müller
+Carl Gottlieb Schulze
+Carl Louis Werner
+----------------
+Johann Edmund Nicolai
+Adolph Eduard Kleber
+Carl Heinrich Frantz
+Moritz Heinrich Gürtler
+Karl Ernst Roitzsch
+Karl Ernst Kirsten
+----------------
+Heinrich Adolph Knöfel
+Karl Ernst Philipp
