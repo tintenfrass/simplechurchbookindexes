@@ -1,12 +1,12 @@
 Dörschnitz (Buch 6)
-Trauungen 1824-1849
+Trauungen 1824-1859
 https://www.archion.de/de/viewer/churchRegister/282501?pageId=39019843
-
 
 
 September 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -307,3 +307,143 @@ Christian Gotthelf Hänsel
 Friedrich Wilhelm Kühn
 ----------------
 Carl Gottlieb Straube
+1850
+Herrmann August Liebe
+Christian Wilhelm Beger
+----------------
+Johann Paul Raabs
+Carl Gottlob Thielemann
+Johann Friedrich Schneider
+Friedrich Wilhelm Wachtel
+----------------
+Carl Friedrich Sohrmann
+Friedrich August Winkler
+Johann Friedrich Fürchtegott Rabs
+Carl Eduard Striegler
+----------------
+Johann Traugott Heinrich Schwarze
+Carl Gottlob Thieme
+Friedrich Wilhelm Köfler
+Carl Gottlob Nicol
+----------------
+Johann Friedrich Berthel
+Friedrich August Wäser
+1851
+Heinrich Wilhelm Kupfer
+Johann Gottfried Däschke
+----------------
+Friedrich August Rendler
+Carl August Köhler
+Eduard Leopold Beger
+Carl Gottlob Scheck
+Johann Gottlob Burkhardt
+----------------
+Friedrich August Bährisch
+Johann Gottlob Straube
+Friedrich Robert Hempel
+Carl Friedrich Wilhelm Müller
+----------------
+1852
+Carl Friedrich Moritz Junghänel
+Friedrich Wilhelm Zieger
+Carl Gottlieb Wechtel
+Friedrich August Schwube
+----------------
+Christian Traugott Lauremtzsch
+Friedrich August Baldauf
+Carl Gottlob Müller
+Carl Gottfried Baldauf
+Christian Gottlieb Kern
+----------------
+Friedrich Ferdinand Dölitzsch
+Friedrich Gottlieb Kellner
+Christian Gottfried Helz?
+Carl Christian Gottlieb Birckner
+----------------
+1853
+Johann Gotthelf Hennig
+Johann Friedrich Käseberg
+Carl Wilhelm Lunkwitz
+Gottlob Karl Jenichen
+----------------
+Carl Gottfried Beger
+Carl Friedrich Gotthelf Helm
+Carl Raimund Kühne
+Heinrich David Wagner
+----------------
+Friedrich August Sperling
+Carl Heinrich Schumann
+1854
+Carl Adolph Wilhelm Pietzsch
+----------------
+Friedrich Ernst Wittig
+Johann Carl Gottlob Schwäbe
+Ludwig Theodor Lange
+----------------
+Friedrich Ernst Zieger
+Friedrich Wilhelm Gerisch?
+Georg Gottlob Züchner
+----------------
+1855
+Heinrich Wilhelm Förster
+Friedrich Eduard Sommer
+Carl Friedrich Wittig
+Carl Julius Albin Körner
+----------------
+Carl Gottlob Gautzsch
+Carl Wilhelm Grötzsch
+1856
+Georg Friedrich Ernst Hartz
+----------------
+Johann Traugott Müller
+Carl Gotthelf Caspari
+Christian Gottlieb Guitzsch?
+Heinrich Ferdinand Karl
+----------------
+Johann Gottfried Damme
+Johann Gottlob Wetzel
+Friedrich August Moritz Pökelmann
+Carl August Schulze
+----------------
+1857
+Friedrich Wilhelm Hummitzsch
+Friedrich Wilhelm Mehnert
+Friedrich Wilhelm Hummitzsch
+----------------
+Friedrich August Paulbach
+Carl Moritz Hörmann
+Heinrich Adolph Leuteritz
+----------------
+Traugott Fürchtegott Wolke
+1858
+Wilhelm Ernst Hänsel
+Carl Friedrich Ernst Straube
+----------------
+Friedrich Ferdinand Ernst Straube
+Friedrich Wilhelm Mammitzsch
+Johann Christian Herrmann
+Johann Gottlieb Junghanß
+----------------
+Carl Friedrich Blume
+Friedrich Ernst Liebe
+Ernst August Kreischer
+Johann Gottfried August Lindner
+----------------
+Friedrich Wilhelm Krumbiegel
+Johann Friedrich Carl Peschel
+Johann Carl Gottlob Kühne
+----------------
+1859
+August Wilhelm Hormann
+Gustav Adolph Pfeiffer
+Friedrich Adolph Kretzschmar
+----------------
+Friedrich Ernst Kupfer
+Friedrich Wilhelm Naabs
+Moritz Ferdinand Beger
+Johann Gottlob Thiele
+----------------
+Friedrich Ernst Gruhle
+Carl Friedrich Wilhelm Franz
+August Heinrich Göpfert
+Friedrich Wilhelm Oehmichen

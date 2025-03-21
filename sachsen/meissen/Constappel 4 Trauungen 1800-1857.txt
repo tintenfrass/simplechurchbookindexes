@@ -1,5 +1,5 @@
 Constappel (Buch 4)
-Trauungen 1800-1849
+Trauungen 1800-1857
 https://www.archion.de/de/viewer/churchRegister/281052?pageId=38773698
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -12,6 +12,7 @@ Juli 2024
 September 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -743,3 +744,116 @@ Karl Gottlieb Gießmann
 Karl Gotthelf Güldner
 Johann Gottlieb Löwe
 Karl Gottlieb Mehlig
+----------------
+1850
+Johann Gotthelf Uchdorf
+Ernst Gottlieb Leuteritz
+Karl Traugott Zocher
+----------------
+Karl Gottlob Fehrmann
+Johann Ernst Heinrich Gühne
+Karl Gottlieb Knöfel
+Karl August Rüdiger
+----------------
+Karl August Hänsel
+Traugott Leberecht Merbitz
+Johann Martschink
+Karl Gottfried Löser
+----------------
+Traugott Leberecht Kästner
+1851
+Johann Karl Gottlieb Ritzscher
+Johann Gottlob Kästner
+----------------
+Ernst Eduard Lorenz
+Johann Gottlieb Leiteritz
+Karl Friedrich August Zeitschel
+----------------
+Anton Wilhelm Stannis
+Karl Gottlieb Bormann
+Johann Gottfried Naumann
+Ernst Traugott Hänsel
+----------------
+Christian Ferdinand Flemming
+Johann Gottlob Tronicke
+Karl Wilhelm Richter
+Gottlob Heinrich Thiele
+----------------
+Karl Heinrich Ernst Weise
+Heinrich Gotthelf Faust
+1852
+Karl Wilhelm Adam
+----------------
+Ernst Adolph Kutsche
+Johann Friedrich Karl Mende
+Karl Herrmann Uchdorf
+----------------
+Karl Wilhelm Kämmel
+Johann Adolph Ludwig
+Christian Karl Seinenglanz
+----------------
+Karl August Kästner
+Karl Gottfried Franz
+Johann Gottlob Lichtenstein
+----------------
+Friedrich Wilhelm Wildenhayn
+Herrmann Robert Horn
+1853
+Wilhelm Horn
+----------------
+Karl Friedrich August Arnhold
+Karl August Ernst Käseberg
+Eduard Leberecht Hammitzsch
+Friedrich Wilhelm Rüdiger
+----------------
+Friedrich August Grahl
+August Friedrich Lötzsch
+1854
+Johann Karl Gottlob Ernst Findeisen
+----------------
+Johann Gottlieb Petzold
+Johann Wilhelm Findeisen
+Karl Gottlieb Mahner
+----------------
+Johann Gottlob Hendel
+Karl August Richter
+Franz Herrmann Zeitschel
+----------------
+1855
+Karl Friedrich Böhme
+Karl Gottlob Just
+Friedrich Ferdinand Kickelhayn
+----------------
+Karl Traugott Schrader
+Friedrich Karl August Richter
+Johann Gottlieb Hermann
+----------------
+1856
+Friedrich August Kutsche
+Friedrich August Kürsten
+Friedrich Eduard Mehner
+----------------
+Karl Gottlieb Jacob
+Johann Friedrich Wilhelm Schneider
+Johann Friedrich Otto Hennig
+----------------
+Karl Gottlob Grahl
+Johann Karl Gottlob Findeisen
+Johann Gottlieb Schulze
+----------------
+August Moritz Rietschel
+1857
+Karl August Lehmann
+Christian Gottlieb Schlechte
+----------------
+Karl Traugott Leberecht Berger
+Friedrich August Schaffer
+Christian Karl Gottlieb Zocher
+----------------
+Johann Gottlob Strohbach
+Johann Karl Adolph Däbler
+Rudolph Eduard Döhnert
+----------------
+Jacob Retscher //Ramsch
+Karl Gottlieb Wilhelm Grellmann
+Johann Karl August Eisold
