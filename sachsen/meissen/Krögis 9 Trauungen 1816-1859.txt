@@ -1,5 +1,5 @@
 Krögis (Buch 9)
-Trauungen 1816-1849
+Trauungen 1816-1859
 https://www.archion.de/de/viewer/churchRegister/282581?pageId=39038257
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Juli 2024
 Oktober 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -779,3 +780,279 @@ Johann Carl Ehregott Kühne
 ----------------
 Johann Carl Gottlieb Ulbrich
 Johann Friedrich Wilhelm Kühne
+----------------
+1850
+Ernst Julius Schmidt
+Gottfried Ernst Schmiedgen
+Johann Gottlieb Münch
+Carl Gottlieb Roitzsch
+----------------
+Johann Gotthelf Schiewohl
+Carl Gottlob Bindig
+Carl Gottlob Fuhrmann
+----------------
+Gotthelf Harzer
+Traugott Ernst Müller
+Carl August Leberecht Hammer
+----------------
+Johann Wilhelm Schumann
+Friedrich Leberecht Frohberg
+Carl Friedrich August Jüngling
+----------------
+Friedrich Wilhelm Horn
+Carl Wilhelm Hanicke
+Carl Gothelf Junghanß
+Ernst Wilhelm Junghanß
+----------------
+Christian Heinrich Steiger
+Carl Gotthelf Preußer
+Carl Friedrich Heße
+----------------
+Friedrich August Rudolph
+Christian Friedrich Wilhelm Hermsdorf
+Johann Gotthelf Eulitz
+----------------
+1851
+Friedrich Wilhelm Uhlmann
+Friedrich Wilhelm Böhme
+Carl Heinrich Heymann
+----------------
+Carl August Kießlich
+Carl August Schüttoff
+Friedrich August Uhlitzsch
+----------------
+Christian Traugott Grübler
+Johann Carl Gottlieb Erler
+Carl Ernst Kirstein
+----------------
+Johann Traugott Wilhelm Lehmann
+Traugott Leberecht Milde
+Wilhelm Heinrich Kirstein
+----------------
+Christian Friedrich Fischer
+Johann Heinrich Ernst Lehmann
+Friedrich Gustav Oswald
+----------------
+Gottlob Friedrich Müller
+Wilhelm Leberecht Hofmann
+Johann Ernst Adolph Uhlemann
+----------------
+Johann Carl Gottlieb Kühne
+1852
+Johann Gottlieb Langner
+Carl Gottlob Stiehler
+----------------
+Christian Heinrich Liebe
+Carl Gottlob Backofen
+Carl Friedrich Hugo Klopfer
+----------------
+Christian Heinrich Rentzsch
+August Wilhelm Scheunert
+Carl Gottlob Wackwitz
+----------------
+Johann Traugott Michchael
+Ernst Heinrich Töpel
+Carl Gottlob Greif
+----------------
+Carl Gottlob Eulitz
+Carl Heinrich Hammermüller
+Carl Ernst Leonhardt
+----------------
+Heinrich Ferdinand Schulze
+Karl Adolph Hanicke
+Leberecht Fürchtegott Starke
+----------------
+August Leberecht Helm
+August Herrmann Geißler
+Johann Friedrich Junghans
+----------------
+Karl Gotthelf Clauß
+1853
+Christian Gotthelf Brückner
+----------------
+Moritz Leberecht Poppe
+Johann Traugott Seifert
+Carl Gottlob Beger
+----------------
+Carl August Hennig
+Friedrich Ernst Roßberg
+Christian Gottlieb Leberecht Ludwig
+----------------
+Heinrich Adolph Gottschalk
+Johann Gottlieb Barth
+Johann Carl Gottlieb Henke
+----------------
+Julius Eduard Fischer
+Friedrich August Dindorf
+----------------
+Ernst Wilhelm Stoll
+Carl Traugott Leberecht Birkner
+Friedrich Wilhelm Preißer
+----------------
+Friedrich August Busch
+August Ferdinand Barth
+Johann Gotthelf Schumann
+----------------
+Karl Gottfried Ritter
+Johann Gottlob Karl Vogel
+Karl Gottlieb Galle
+Gottlieb Adolph Rumpelt
+----------------
+Johann Gottlob Grellmann
+Christian Gottlieb Grübler
+Friedrich Wilhelm Kurth
+----------------
+Carl Friedrich Lehmann
+Friedrich Wilhelm Beulich
+----------------
+1854
+Karl Gottlieb Schlicke
+Johann Gottlob Geißler
+----------------
+Ernst Wilhelm Kießlich
+Carl Gotthelf Zschäbitz
+Johann August Heinrich Schmiedgen
+----------------
+Ernst Julius Zschoge
+Karl Traugott Fürchtegott Wustmann
+Karl Gottlieb Hempel
+----------------
+Friedrich Oswald Preil
+Karl Gottfried Grellmann
+Ernst Ferdinand Behrisch
+----------------
+Wilhelm Moritz Schmidt
+Christian Gottlieb Funke
+Ernst Moritz Döring
+----------------
+August Julius Pfabe
+Ehregott Karl Ferdinand Schmeißer
+Johann Friedrich Traugott Praßer
+----------------
+Johann Friedrich Moritz Keppler
+Gotthelf Heinrich Böhme
+Gottlieb Leberecht Schumann
+----------------
+1855
+Friedrich Wilhelm Geißler
+Johann Gotthelf Dietze
+Franz Eduard Schulze
+Karl August Wange
+----------------
+Carl Friedrich Wilhelm Leonhardt
+Johann Traugott Hombsch
+Johann Gottlob Liebschner
+----------------
+Karl Traugott Löwe
+Friedrich Ernst Güldner
+Friedrich Ehregott Lutze
+----------------
+Johann Carl Wilhelm Laudel
+Karl Wilhelm Friedrich
+Julius Eduard Fischer
+----------------
+Leberecht Theodor Zschoche
+Karl Gottlob Geißler
+Ernst August Heinrich Dreßler
+----------------
+Friedrich Wilhelm Schröder
+Julius Hermann Mehner
+----------------
+1856
+Johann Gottlieb Hahn
+Karl August Leberecht Müller
+Karl Wilhelm Roßberg
+----------------
+Johann Gottlob Herzog
+Karl Gottfried Pfeiffer
+Julius Louis Müller
+----------------
+Friedrich August Adam
+Friedrich Ernst Hombsch
+Christian Gottlieb Lößner
+----------------
+Traugott August Leberecht Horn
+Heinrich Wilhelm Krumbiegel
+Ernst Moritz Koch
+----------------
+Ernst Moritz Bretschneider
+Friedrich Wilhelm Damm
+Johann Gottlob Ulbrig
+----------------
+Friedrich Baeßler
+Karl Herrmann Poppe
+Friedrich Julius Starke
+----------------
+1857
+Friedrich August Güldner
+Johann Gottfried Müller
+Karl Gotthelf Ferdinand Möbius
+Karl Eduard Schwerdtfeger
+----------------
+Christian Traugott Gottlob Gerngroß
+Karl Gottlob Heinrich Funke
+Karl Ernst Voigt
+----------------
+Karl Gotthelf Richter
+Johann Samuel Müller
+Karl Gottlieb Ernst Pfitzner
+----------------
+Friedrich Wilhelm Ziegenbalg
+1858
+Friedrich Robert Borschdorf
+----------------
+Johann Gottfried Robert Hauswald
+Heinrich August Pönitz
+Johann August Lippert
+----------------
+Friedrich Wilhelm Döring
+Karl Adolph Seifert
+Friedrich Ernst Schwarze
+----------------
+Karl Heinrich Moritz Faust
+Friedrich Wilhelm Meyer
+Karl Heinrich Ziegs
+Karl Gotthelf Roßberg
+----------------
+Gotthelf Moritz Nitzsche
+Friedrich Wilhelm Saalbach
+Ernst Wilhelm Schneider
+----------------
+Wilhelm Gottlieb Ernst Hänschen
+Karl Ehregott Schneeweiß
+Gottlob Leberecht Becker
+----------------
+Robert Steiger
+Karl Gottlieb Ernst Hanschmann
+----------------
+1859
+Karl Heinrich Lautel
+Karl August Heinrich Hanicke
+August Moritz Walther
+Karl Ernst Leberecht Rose
+----------------
+Johann Karl Kallobius
+Ernst Ferdinand Schubert
+Friedrich August Ziegenbalg
+----------------
+Karl Gottlob Zinke
+Moritz Wenke
+Friedrich Franz Silbermann
+----------------
+Anton Julius Pasig
+Karl Heinrich Löwe
+Johann Friedrich Adolph Schöne
+----------------
+Johann Adolph Schneider
+Ernst Julius Bakckofen
+Julius Oskar Grellmann
+----------------
+August Moritz Wittig
+Ernst Adolph Günther
+Gottlieb Moritz Rüdiger
+Karl August Lippert
+----------------
+Karl Gottlieb Wustlich
+Otto Julius Birke
+Ernst Julius Ritter
+Gustav Adolph Birkner

@@ -1,5 +1,5 @@
 Heynitz (Buch 4)
-Trauungen 1827-1849
+Trauungen 1827-1856
 https://www.archion.de/de/viewer/churchRegister/282536?pageId=39027554
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Oktober 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -307,3 +308,129 @@ Carl August Kunze
 Friedrich Wilhelm Kohlsdorf
 Carl Gottlob Groitzsch
 Johann Gottlieb Köhler
+----------------
+1850
+Ernst Julius Scheuer
+Carl Gottlob Michael
+Friedrich August Fischer
+Franz Eduard Heidel
+Carl Friedrich Iltzsche
+Traugott Ernst Müller
+Traugott Leberecht Lommatzsch
+----------------
+Ernst Fürchtegott Zschoche
+Carl August Tittmann
+Carl Gottfried Appelt
+Heinrich Gottlieb Poppe
+Heinrich August Horn
+Johann Carl Wilhelm Möbius
+----------------
+1851
+Friedrich Wilhelm Lützner
+Carl Heinrich Bennewitz
+Gottlieb Ferdinand Hempel
+Johann Gottlieb Melzer
+Carl Gottfried Hänig
+Gotthelf Ehregott Arnhold
+----------------
+Johann Gottfried Kunze
+Heinrich Eduard Haymann
+Johann Gottfried Hausner
+Ernst Wilhelm Rüdiger
+Carl August Kleeberg
+Carl Gottlieb Günther
+----------------
+Christian Gottlieb Garbe
+Johann Gottfried Horn
+Johann Carl Gottfried Benedix
+Johann Carl Gottlieb Kühne
+Johann Carl Gottlieb Richter
+----------------
+1852
+Carl Traugott Schupp
+Christian Heinrich Liebe
+Johann Carl Gottlob Möhler
+Friedrich Wilhelm Graf
+Johann Gottfried Schütze
+----------------
+Christian Wilhelm Schroth
+Christian Gottlieb Schreiber
+August Leberecht Helm
+Johann Adolf Stirl
+Carl August Flach
+----------------
+Friedrich Wilhelm Schade
+Johann Ferdinand Junghanß
+----------------
+1853
+Friedrich Traugott Rüdiger
+Johann Friedrich Wilhelm Henker
+Johann Gotthelf Günther
+Christ Gottlieb Leberecht Ludewig
+Christ Eduard Winckler
+Carl Christ Kirsten
+Carl Gottlob Gabrich
+----------------
+Carl Gottlieb Lehmann
+Johann Gottfried Iltzsche
+Adolph Leopold Tschirschky
+Georg Hannibal Hermann Herzberg
+Gottlob Moritz Becker
+----------------
+Gottfried Leberecht Kolbe
+Ernst Ludwig Funke
+Friedrich Wilhelm Eduard Ludewig
+Carl August Oscar Schmidel
+Carl Friedrich Wilhelm Heyde
+Carl Gotthelf Vogt
+----------------
+1854
+Carl Gottlob Paul
+Johann Gottlob Moses
+Carl Moritz Flecksig
+Johann Friedrich Wilhelm Wachsmuth
+Carl Eduard Eger
+----------------
+Carl Traugott Gotthelf Winckler
+Wilhelm Ernst Haymann
+Ernst Wilhelm Schützel
+Carl Heinrich Saalbach
+Carl Traugott Mann
+Johann Gottfried Hanschmann
+----------------
+Carl Gottlob Zschunke
+Christian Leberecht Fritzsche
+1855
+Friedrich Ernst Kühne
+Georg Benno Heynitz
+----------------
+Carl Gottlob Richter
+Johann Gottlieb Herzog
+Friedrich Wilhelm Schrödter
+Emil Anselmus Hempel
+Carl August Thieme
+Carl Gottlob Maune
+----------------
+1856
+Johann Carl Gottlob Rüdiger
+Johann Gottlob Vetter
+Johann Gottlob Wachsmuth
+Gustav Adolph Philipp
+Franz Emil Gierisch
+Carl Gottlob Kleeberg
+----------------
+Franz Wilhelm Richter
+Johann Friedrich Wilhelm Kühn
+Carl August Wötzel
+Carl Wilhelm Franz Berger
+Friedrich August Lindner
+----------------
+Traugott August Leberecht Horn
+Heinrich August Wustlich
+Heinrich Eduard Schlechte
+Ernst Gottlob Heynitz
+----------------
+Johann Gottfried Panier
+Johann Heinrich Wilhelm Neidhard
+Gottlob Ferdinand Becker
+Carl Gottlob Ernst Steudte

@@ -1,9 +1,10 @@
 Limbach (Buch 5)
-Trauungen 1841-1849
+Trauungen 1841-1859
 https://www.archion.de/de/viewer/churchRegister/283110?pageId=39138791
 
 
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -139,3 +140,92 @@ Johann Gottlob Stelzner
 Friedrich Wilhelm Rietschel
 Johann Friedrich Bennewitz
 Johann Gotthelf Walther
+----------------
+1850
+----------------
+Johann Gottlieb Gierisch
+Karl August Marx
+Friedrich Eduard Engelmann
+Friedrich Ferdinand Geißler
+Johann Gustav Julius Riegel
+Carl Gottlob Döring
+----------------
+Karl Wilhelm Bartzsch
+----------------
+1851
+Friedrich Wilhelm Lützner
+Gottlieb Ernst Stelzner
+Johann Gottlieb Hoyer
+Ernst Traugott Poetzschke
+Carl Traugott Kirchner
+Johann Wilhelm Hammer
+----------------
+1852
+Wilhelm Eduard Krause
+Carl Gottlob Weber
+Karl Heinrich Kirsten
+Karl Eduard Grahl
+Johann Friedrich Wilhelm Wachsmuth
+----------------
+Johann Gottlieb Teichmann
+1853
+Karl August Kubisch
+----------------
+Benjamin Eduard Heinrich Moritz Rüster
+Gottlob Heinrich Wagner
+Johann August Riegel
+Johann Gotthelf Moritz Clauß
+Karl Gottlieb Teichmann
+----------------
+Christian Gottlieb Stieler
+1854
+Karl Gottlob Hauptmann
+----------------
+Karl Wilhelm Ulbricht
+Karl Wilhelm Pötzsch
+Karl Adolph Wilhelm Pietzsch
+----------------
+1855
+Adolf Eduard Bonitz
+Ernst Julius Schroth
+Karl Heinrich Ernst Pietzsch
+Ernst Adolf Tamme
+----------------
+Karl August Hauptmann
+Johann Gottlob Ernst Starke
+Gotthelf Leberecht Lützner
+----------------
+1856
+Ernst Wilhelm Beyer
+Gottlieb Traugott Werner
+Franz Ferdinand Kirsten
+Ernst Wilhelm Döring
+----------------
+Ernst Eduard Bretschneider
+Friedrich Lorenz Metzner
+----------------
+1857
+Karl Gottlieb Scharfe
+Ernst Herrmann Meier
+Heinrich Adolf Wagner
+Johann Karl Gottlieb Stelzer
+----------------
+1858
+Ernst Leberecht Wagner
+Karl Adolf Kirsten
+Karl Gottlieb Ranft
+----------------
+1859
+Friedrich August Täuscher
+Johann Friedrich Gottlob Römer
+Carl Louis Wagner
+Herrmann Theodor Schiller
+Ernst Ludwig Just
+----------------
+Adolph Haymann
+Karl Heinrich Ernst Pietzsch
+Louis Saxenberger
+Andreas Halnik
+Carl Friedrich Rüdrich
+----------------
+Heinrich Ferdinand Beyer
