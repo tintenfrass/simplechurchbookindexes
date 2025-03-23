@@ -1,5 +1,5 @@
 Miltitz (Buch 3)
-Trauungen 1801-1849
+Trauungen 1801-1859
 https://www.archion.de/de/viewer/churchRegister/283156?pageId=39147935
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -12,6 +12,7 @@ Juli 2024
 Oktober 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -334,3 +335,78 @@ Franz Eduard Damm
 Carl Gottlieb Tottwitz
 Carl Eduard Braun
 Johann Gotthelf Walther
+1850
+Friedrich Leberecht Lehlenz
+Gottfried Ernst Geißler
+Carl Gottfried Gläscher
+----------------
+Johann Carl Gotthelf Kretzschmar
+1851
+Carl Gottlieb Roitzsch
+August Herrmann Hanitzsch
+Heinrich Ferdinand Müller
+Carl August Kleeberg
+Carl Friedrich Wittig
+----------------
+1852
+Christian Heinrich Rentzsch
+Carl Friedrich Hugo Klopfer
+Friedrich Adolph Petschke
+Carl Wilhelm Heimann
+Carl Adolph Strohbach
+Heinrich Adolph Kolbe
+----------------
+August Leberecht Wünschüttel
+1853
+Johann Traugott Seifert
+Ernst Adolph Krumpf
+Carl Gottlob Ebert
+Johann Carl Gottlob Kleber
+----------------
+Georg Benno Woldomar Grahl
+Wilhelm Ernst Starke
+Johann Friedrich Wilhelm Wachs
+Ernst Ludwig Funke
+Christian Ehregott Pietzsch
+Johann Wilhelm Wustlich
+----------------
+1854
+Carl Friedrich Wilhelm Lützner
+Carl Heinrich Helm
+Carl Gottlob Wachs
+1855
+Carl August Dähne
+Christian Gottlieb Voigt
+----------------
+August Ferdinand Kunze
+Friedrich Ferdinand Julius Möhler
+1856
+Ernst Julius Hombsch
+Carl August Schilling
+Friedrich Ernst Hombch
+Heinrich Wilhelm Krumbiegel
+----------------
+Gottlob Ferdinand Becker
+August Leberecht Wünschüttel
+CKarl Ernst Simon
+1857
+Carl Wilhelm Streller
+Ernst Ehregott Wilhelm Merker
+Carl Wilhelm Arnhold
+Friedrich August Lipnitz
+----------------
+Johann Gottfried Striegler
+Ernst Gottlieb Wiegand
+1858
+Carl Heinrich Leonhardt
+Friedrich Wilhelm Müller
+Friedrich Wilhelm Dähne
+Friedrich August Groß
+Carl Gottlob Schiller
+Johann Traugott Leberecht Arnhold
+----------------
+1859
+Wilhelm Ehregott Kreße
+Johann Friedrich Adolph Schöne
+Johann Gottlob Hartmann
+August Moritz Wittig
