@@ -1,5 +1,5 @@
 Neukirchen (Buch 4)
-Trauungen 1828-1849
+Trauungen 1828-1859
 https://www.archion.de/de/viewer/churchRegister/283199?pageId=39157125
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Oktober 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -364,3 +365,201 @@ Carl Wilhelm Müller
 Friedrich Wilhelm Krieger
 Carl Gottlob Hörmann
 August Ludwig Hermsdorf
+----------------
+1850
+Emil Louis Wackwitz
+August Wilhelm Schöne
+Johann Carl Gottlieb Henker
+Gottlob Ernst Großöhmig
+Carl Christian Gottlieb Beke
+Carl Friedrich August Jüngling
+----------------
+Friedrich Gotthelf Müller
+Carl Kunze
+Carl Friedrich Ludwig Richter
+Johann Gustav Julius Riegel
+Carl Julius Schwabe
+Carl Friedrich Weise
+----------------
+Friedrich Caspar Dachsel
+1851
+Carl Gottlob Ernst Preußer
+Carl Adolph Pietzsch
+Carl Gotthelf Merbitz
+----------------
+Carl Ernst Thielemann
+Carl Gotthelf Schlimpert
+Gottfried Franz Arnhold
+Carl Gotthelf Just
+Friedrich August Schmidt
+Carl Gottlieb Schlicke
+Carl Heinrich Zuschke
+----------------
+Carl Gotthold Döring
+Carl Friedrich Ernst Lorenz
+Christian Adolph Lange
+Carl Ernst Schmiedgen
+Carl Gottlieb Leonhardt
+----------------
+1852
+Carl Gottlieb Zschoke
+Friedrich Ernst Schirmer
+Friedrich Moritz Uhlemann
+Heinrich Ferdinand Leuschner
+Friedrich August Löser
+Carl August Wilhelm Philipp
+----------------
+Carl Christlieb Petzold
+Wilhelm Ehregott Zill
+August Heinrich Kost
+Johann Wilhelm Ernst Kühne
+Moritz Loewe
+----------------
+Friedrich Wilhelm Siegel
+Carl Gottlieb Krieger
+Robert Theodor Kirbach
+Carl Heinrich Conrad
+Johann Gottlieb Birkner
+----------------
+Carl August Rentzsch
+1853
+Friedrich Wilhelm Damm
+Carl Adolph Kost
+Friedrich Wilhelm Kirbach
+----------------
+Carl Robert Hesse
+Carl August Schmidt
+Gottlieb Ernst Stange
+Friedrich Wilhelm Küttner
+Carl August Bachmann
+----------------
+Anton Moritz Theodor Edel
+1854
+Franz Heyde
+Carl Ernst Gaubig
+August Alexander Fischer
+----------------
+Carl Heinrich Adolph Thielemann
+Carl Gottlieb Pötzsch
+Johann Gottlob Leberecht Geyer
+Carl Gustav Winterlich
+August Friedrich Roll
+----------------
+August Julius Scheunert
+Ernst Friedrich Wilhelm Lucius
+Carl Gotthelf Lehmann
+Carl Wilhelm Leckscheid
+Heinrich Moritz Lucius
+----------------
+Johann Carl Gottlieb Philipp
+Carl Gottlob Stenzel
+Johann Conrad Hotte
+Gottlieb Leberecht Weichold
+----------------
+1855
+Friedrich Wilhelm Haubold
+Carl Gottlieb Kost
+Robert Emil Schirmer
+Adolph Heinrich Schirmer
+----------------
+Carl Heinrich Ernst Pietzsch
+Carl Heinrich Adolph Taschenberger
+Carl Ernst Ranft
+Friedrich Eduard Henke
+----------------
+Johann Heinrich Kost
+Johann Carl Gottlob Lucius
+Wilhelm Louis Fischer
+Carl August Naumann
+Carl August Wendler
+----------------
+Friedrich Wilhelm Leuschner
+Johann Carl Ferdinand Hoppe
+Friedrich Leberecht Kandler
+Carl Gottlob Hofmann
+Carl Heinrich Wilhelm Krönert
+----------------
+Johann Gottfried Hanicke
+Carl Friedrich Wilhelm Lucius
+Carl Herrmann Hesse
+Heinrich Krieger
+----------------
+1856
+Friedrich Wilhelm Legler
+Johann Ferdinand Rüdiger
+Ernst Julius Hese
+Ferdinand Julius Stülpner
+----------------
+Carl August Stirl
+Julius Edmund Weber
+Johann Traugott Funke
+Christian Gottlieb Beger
+----------------
+Ernst Friedrich Wilhelm Sändig
+Carl Ernst Kost
+Ernst Guido Böhme
+Carl Friedrich Zimmermann
+Johann Carl Gottlieb Liebel
+----------------
+1857
+Carl Heinrich Philipp
+Johann Gottfried Ficke
+Carl Gotthelf Wolf
+----------------
+Carl August Voigt
+Julius Theodor Udolph
+Friedrich Moritz Kirsten
+Gottlob Heinrich Leinert
+Johann Gotthelf Schmidt
+Friedrich August König
+----------------
+Karl Friedrich August Partzsch
+Karl August Krieger
+Karl August Borsdorf
+Karl Gottlieb Schädler
+Karl Friedrich Tutzschky
+Gottlob Friedrich Mäder
+Karl Christlieb Schuster
+----------------
+Karl Eduard Zinnert
+Karl Gottlieb Ernst Pfützner
+Friedrich Wilhelm Müller
+Heinrich Adolph Legler
+1858
+Karl August Schneider
+Karl August Hörmann
+----------------
+Friedrich Herrmann Große
+Karl Julius Leuschner
+Karl Heinrich Winkler
+Karl Ernst Kirsten
+Karl Gottlob Miersch
+Wilhelm Eduard Felber
+Karl Ernst Schlicke
+----------------
+Friedrich Wilhelm Gabriel
+Karl Wilhelm Berger
+Heinrich Eduard Geißler
+Traugott Leberecht Köhler
+1859
+Christian Friedrich Lützner
+Karl Ernst Geneuß
+----------------
+Friedrich Traugott Müller
+Christian Friedrich Große
+Eduard Ernst Fehrmann
+Karl August Dietze
+Friedrich Ernst Dietze
+Christian Eduard Dietze
+Friedrich August Andrae
+----------------
+Heinrich Ferdinand Rüger
+Herrmann Theodor Schiller
+Karl Heinrich Hennig
+Ernst Heinrich Beuchel
+Peter August Seiler
+Friedrich August Kästner
+Franz Moritz Schlicke
+----------------
+Gustav Julius Kretzschmar
+Heinrich August Kretzschmar

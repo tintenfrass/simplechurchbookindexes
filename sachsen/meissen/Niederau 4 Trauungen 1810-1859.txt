@@ -1,5 +1,5 @@
 Niederau (Buch 4)
-Trauungen 1810-1849
+Trauungen 1810-1859
 https://www.archion.de/de/viewer/churchRegister/283209?pageId=39158623
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Juli 2024
 Oktober 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -341,3 +342,103 @@ Carl Ernst Niese
 Carl Gottlieb Helbig
 Johann Carl Gottlob Schöne
 Johann Gottlob Wilhelm
+1850
+Johann Gotthelf Haferburg
+Carl Gotthelf Hofmann
+----------------
+Johann Gottlieb Starke
+Carl Gottlob Rühle
+Carl Adolph Walter
+Friedrich August Moritz Berlin
+----------------
+Friedrich August Greiß
+Friedrich Fürchtegott Uhlmann
+1851
+Johann Gottlob Prater
+Johann Gottlob Zscheile
+Christian Friedrich Laube
+----------------
+Heinrich Ferdinand Kirsten
+1852
+Johann Gottfried Krause
+Johann Gottfried Hiller
+Johann Carl Weichert
+----------------
+Johann Carl Gotthelf Starke
+1853
+Carl Heinrich Naumann
+Julius Kuffs
+Johann Christian Lohrmann
+----------------
+Ernst Wilhelm Felgner
+Carl Gotthelf Barth
+1854
+Christian Gottlob Stolle
+----------------
+Christian Traugott Müller
+Johann Gottfried Kießling
+Andreas Hobe
+Carl Eduard Dietze
+----------------
+Johann Gottfried Hiller
+Christian Gottlieb Zocher
+Johann Gottlob Starke
+Johann Carl Friedrich Andrae
+Julius Fürchtegott Dietze
+----------------
+Benjamin Döbert
+Adolph Heinrich Schönert
+1855
+Christian Gottfried Müller
+Franz Adolph Rabe
+----------------
+Leberecht Heinrich Herrmann
+Johann Carl Gottlob Eichler
+Carl Gottlob Koch
+Carl Gottlieb Weiße
+----------------
+Friedrich Adolph Greiß
+1856
+Ernst Ferdinand Bormann
+Carl Heinrich Petzold
+----------------
+Carl Gottlieb Schmidt
+Johann August Grafe
+Johann Christian Fichtner
+Christfried Zocher
+----------------
+Carl Gottlieb Böhme
+Friedrich Traugott Pfützner
+Carl Julius Leypold
+Carl Gottlieb Gühne
+----------------
+1857
+Carl August Voigt
+Friedrich August Meyer
+Johann Gottlob Hausmann
+Carl Oskar Schmorl
+----------------
+Johann Gottfried August Ettrich
+1858
+Carl Gottlieb Wustlich
+Johann Bräuer
+----------------
+Carl Gottfried Rothe
+Wilhelm Adolph Grafe
+Johann Traugott Löbert
+Friedrich Wilhelm Steyer
+----------------
+Johann Gotthelf Krüger
+Samuel Gottfried Mäser
+Traugott Leberecht Voigt
+Ernst Eduard Herrmann
+----------------
+1859
+Johann Franz Anton Held
+Johann Gottfried Trenzsch
+Samuel Schramm
+Gottlob Herrmann Nacke
+----------------
+Gotthelf Zocher
+Friedrich Eduard Fritzsche
+Carl August Müller
