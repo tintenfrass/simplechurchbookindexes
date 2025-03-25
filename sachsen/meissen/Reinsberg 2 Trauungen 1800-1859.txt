@@ -1,5 +1,5 @@
 Reinsberg (Buch 2)
-Trauungen 1800-1849
+Trauungen 1800-1859
 https://www.archion.de/de/viewer/churchRegister/289497?pageId=40272581
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -12,6 +12,7 @@ Juli 2024
 Oktober 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -637,3 +638,168 @@ Carl Gottfried Krüger
 Carl August Berger
 Carl Traugott Berger
 Friedrich Gottlob Thiele
+1850
+Johann August Stelzer
+----------------
+Carl Friedrich Kunert
+Carl August Backofen
+Wilhelm Heinrich Lange
+Carl August Höppner
+Carl August Marx
+Johann August Killig?
+Johann Gottlob Stirl
+Carl Kunze
+Carl Gottlieb Eichhorn
+----------------
+Carl Julius Bernhard
+Carl Heinrich Schmieder
+Carl August Stirl
+Friedrich August Rudolph
+1851
+Karl Gottfried Mann
+Johann Karl Gottlieb Rost
+Karl Gottlieb Roitzsch
+Carl Friedrich Wilhelm Lamm
+Robert August Kieslich
+----------------
+Johann Karl Wilhelm Thiele
+Johann Gottlieb Wilhelm Sonntag
+Ewald Timotheus Trautschold
+Friedrich August Steinbon
+Wilhelm Ernst Funke
+1852
+Friedrich Ludwig Klinger
+Karl August Döhnert
+Johann Gottlieb Blödel
+Michael Wiedemann
+----------------
+Heinrich Wilhelm Hohlfeld
+Johann Karl Eduard Berger
+Otto Ludwig Christoph Schönberg
+Moritz Eduard Damm
+Friedrich Wilhelm Richter
+Johann Adolph Stirl
+Friedrich August Barthel?
+1853
+Karl August Bertold
+----------------
+Karl Gottlieb Marx
+Karl August Küchler
+Gottlob Friedrich Wenzel
+Johann Gottlieb Döhnert
+Karl August Klinkich
+Karl August Ludwig Götze
+Johann Gottfried Haensel
+Karl Traugott Damm
+Johann Ernst Kühne
+----------------
+Karl Ludwig Funke
+Karl Friedrich Bachmann
+Johann Friedrich Moritz Schröter
+Carl Benjamin Gropp
+Carl Daniel Weisbach
+1854
+Gotthold Friedrich Frohs
+Johann Carl Gottlieb Ebert
+Gottfried Leberecht Ebert
+Friedrich Adolph Marx
+----------------
+Wolf Griet? Schönberg
+Carl Gotthelf Bachmann
+Friedrich Wilhelm Graetzschel
+Carl Gottlieb Krüger
+Johann Carl Franz Leonhardt
+Carl Gottlieb Krüger
+August Theodor Klemm
+Johann Friedrich August Schubert
+Hans Wolf Schönberg
+----------------
+Johann Carl Gottlieb Krumpfer
+Carl Gottlob Stenzel
+Johann Karl Gottlob Diersche
+1855
+Carl Ferdinand Starke
+August Fritzsche
+Carl Adolph Backofen
+Johann Traugott Löwe
+Carl Friedrich Wilhelm Weise
+Carl Moritz Gaumnitz
+----------------
+Friedrich Wilhelm Leuschner
+Carl Heinrich Köschler
+Heinrich Traugott Hesse
+Karl Friedrich August Johne
+Bruno Gentar? Becker
+Carl Gottlieb Kieslich
+Carl August Schubert
+1856
+Herrmann Tröger
+Friedrich Anton Großmann
+----------------
+Johann Gottfried Klemm
+Friedrich August Rost
+Karl August Schubert
+Johann Carl Wilhelm Damm
+Traugott Friedrich Erler
+Heinrich Moritz Richter
+Friedrich Ernst Klinkig
+Johann Karl Gottlieb Roscher
+Ernst? Carl August Moritz Kempe
+----------------
+Carl Wilhelm Buttow?
+Ernst Louis Ralle
+Wilhelm Adolf Crellmann
+Gottfried Ludwig Böhme?
+Karl Herrmann Spillner
+Karl August Müller
+1857
+Karl Ferdinand Wollmann
+Karl Heinrich Philipp
+Johann Gottfried Ficke
+----------------
+Karl Gottfried Braunsdorf
+Karl Gottlob Drechsel
+Karl Ernst Ilgen
+Ernst Robert Vesper
+Friedrich Wilhelm Graf
+Carl Gottlob Winkler
+Karl August Lippmann
+Johann Heinrich Moritz Heidler
+Carl August Haupt
+----------------
+Karl Heinrich Adolph Thielemann
+Heinrich Moritz Halfter
+Karl Wilhelm Hummitzsch
+Johann Traugott Peschel
+Carl Otto Oswald Fritzsche
+1858
+August Friedrich Böhme
+Karl August Adolph Berger
+Ernst Friedrich Kunze
+Eduard Moritz Ihle
+----------------
+Johann Gottfried Schumann
+Johann Gottfried Rudolph
+Ernst Julius Weber
+Karl Louis Krause
+Johann Friedrich Traugott Böttcher
+Johann August Lützner
+August Wilhelm John
+1859
+Johann Gottlieb Erfart?
+Carl Heinrich John
+----------------
+Friedrich Wilhelm Böhme
+August Leberecht Silbermann
+Heinrich Moritz Richter
+Carl Heinrich Zichner
+Gustav Herrmann Vesper
+Carl Gottlob Steiger
+Friedrich Wilhelm Döhnert
+August Wilhelm Franz
+Traugott Friedrich Herrmann Schneider
+Carl Gottlieb Wahl
+----------------
+Franz Moritz Schlicke
+Friedrich Herrmann Haupt
+Carl Leberecht Rost
