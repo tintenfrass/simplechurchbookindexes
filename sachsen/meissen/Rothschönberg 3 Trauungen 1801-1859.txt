@@ -1,5 +1,5 @@
 Rothschönberg (Buch 3)
-Trauungen 1801-1849
+Trauungen 1801-1859
 https://www.archion.de/de/viewer/churchRegister/289506?pageId=40233324
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -11,6 +11,7 @@ Juli 2024
 Oktober 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -315,3 +316,99 @@ Gotthelf Lebrecht Friedrich
 Carl August Hachenberger
 Johann Carl Gotthelf Schulze
 Johann Gottlieb Talkenberger
+1850
+Carl Friedrich Unger
+----------------
+Carl Benjamin Süßemilch
+Heinrich Ernst Ebert
+Carl Gottlob Lange
+Christlieb Ehregott Gappisch
+Carl August Leberecht Hammer
+Friedrich Wilhelm Schmidt
+Carl August Weiße
+----------------
+August Ferdinand Sömmer?
+Gottlieb Leberecht Hammer
+Carl Gottlieb Franz
+Carl Wilhelm Adam
+1851
+Carl Heinrich Ferdinand Schnee
+Johann Benjamin Kunze
+----------------
+Heinrich August Uhlemann
+Ernst Fürchtegott Lommatzsch
+Christian Gottfried Höfer
+Gustav Friedrich Eulenstein
+Johann Heinrich Ernst Lehmann
+Carl Fürchtegott Herrmann
+----------------
+1852
+Carl August Clauß
+Johann Friedrich Richter
+1853
+Carl Wilhelm Hofmann
+Carl Gottlob Gabrich
+Johann Friedrich Moritz Schröter
+----------------
+Moritz Ferdinand Bormann
+1854
+Carl Gottlob Hauptmann
+Johann Christian Rühle
+Heinrich Reihardt Ernst Zischang
+Ernst Wilhelm Schützel
+----------------
+Carl Friedrich Wilhelm Rößger
+1855
+Johann Traugott Schlütz
+Carl Friedrich Lasel
+1856
+Friedrich Wilhelm Legler
+----------------
+Ernst Gottlob Andrä
+Ernst Friedrich Kaden
+1857
+Friedrich Wilhelm Philipp
+Carl Gottlob Fritzsche
+Johann Eduard Gierisch
+----------------
+Carl Heinrich Mietzsch
+Carl Gottlob Schlechte
+Carl Ehregott Kühne
+August Wilhelm Zocher
+Christian Carl Gottlob Gernegroß
+Johann Carl Hachenberger
+Carl August Conrad
+----------------
+Johann Traugott Peschel
+1858
+Johann Ehregott Maudrich
+Karl Heinrich Köhler
+Karl Heinrich Ritter
+----------------
+Heinrich Eduard Schneider
+Friedrich August Borngräber
+Karl Gottlob Ernst Ehrlich
+Johann Gottfried Scheunpflug
+----------------
+Heinrich Curt Arnim
+Friedrich Herrmann Zehl
+----------------
+1859
+Karl August Paul
+August Herrmann Lahel
+Karl Gotthelf Fritzsche
+Ernst Gottlieb Wilsdorf
+----------------
+Anton Herrmann Zieschang
+Robert Leberecht Lommatzsch
+Franz Wilhelm Ullrich
+Johann Traugott Seiler
+----------------
+Carl Wilhelm Krüger
+Carl August Leberecht Curth
+Carl Traugott Oehme
+Moritz Ferdinand Ryssel
+----------------
+Friedrich August Leuschner
+Georg Emil Busch
+Peter Moritz Partales
