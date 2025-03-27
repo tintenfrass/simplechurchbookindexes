@@ -1,5 +1,5 @@
 Striegnitz (Buch 5)
-Trauungen 1818-1849
+Trauungen 1818-1852
 https://www.archion.de/de/viewer/churchRegister/289585?pageId=40250508
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Oktober 2024
 Novemeber 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -328,3 +329,49 @@ Johann Gottfried Winkler
 Karl August Flader
 Karl Gottlieb Weiße
 Karl Friedrich Gottlob Borsdorf
+----------------
+1850
+Johann Karl Gustav Thiele
+Carl Gottlob Thielemann
+Carl Friedrich Sohrmann
+Carl Friedrich Kretschmar
+Franz Eduard Nagler
+----------------
+Karl Wilhelm Dürichen
+Karl August Trege
+Ferdinand Kamilli Fischer
+Karl Gottfried Lippert
+Johann Traugott Jeschke
+----------------
+1851
+Johann Ernst Gottfried Fischer
+Friedrich Wilhelm Münch
+Carl Friedrich Wilhelm Altmann
+Johann Christian Gottlob Scherf?
+Johann Gottlieb Wolf
+----------------
+Johann Christlieb Opitz
+Johann August Fichtner
+Friedrich August Berger
+Carl Friedrich Thomas
+Karl Gottlieb Büttner
+----------------
+Christian Gottlob Nickol
+Ernst Eduard Stroisch
+Friedrich August Dietze
+----------------
+1852
+Johann Karl Gottfried Schlimpert
+Johann Gottlob August Große
+Karl Traugott Dolze
+Johann Gottfried Rabe
+Johann Gottfried Gottfried Nickel
+----------------
+Friedrich Wilhelm Dietze
+Friedrich Wilhelm Hüllersen
+Friedrich Ferdinand Bautze
+Christian Gottlieb Ponitz
+Johann Michael Scheller
+----------------
+Karl Elias Roitzsch
+Karl Ferdinand Weihmann

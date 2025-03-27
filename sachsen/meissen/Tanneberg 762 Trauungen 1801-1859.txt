@@ -1,5 +1,5 @@
 Tanneberg (Buch 762)
-Trauungen 1801-1849
+Trauungen 1801-1859
 https://www.archion.de/de/viewer/churchRegister/289595?pageId=40251741
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ Juli 2024
 Oktober 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -464,3 +465,104 @@ August Ludwig Hennersdorf
 Ernst Leberecht Lindner
 Ernst August Worm
 Johann Gottlieb Talkenberg
+1850
+Karl Gottlob Müchael
+Ernst Ferdinand Gabsch
+Traugott Wilhelm Lindner
+Karl Gustav Johne
+----------------
+Karl Albert Hinkelmann
+1851
+Gotthold Heinrich Wüstner
+Julius Ferdinand Leuritz?
+Karl Gottlieb Fischer
+Johann Gottfried Hausner
+Karl Traugott Haucke
+Karl Gotthelf Leberecht Rüdiger
+Ernst Gottlob Märker
+Ernst Eduard Kießlich
+----------------
+Karl Ernst Schmiegen
+1852
+Johann Gottlob Grunewald
+Karl Fürchtegott Mehner
+Karl Gotthelf Ernst Lohse
+Friedrich August Schäfer
+Karl Gotthelf Rechenberger
+Gottfried Ernst Kirbach
+----------------
+Heinrich Ehregott Teuchert
+Carl Gotthelf Lindner
+Carl Erdmann Metzradt
+Wilhelm Ernst Schubert
+Carl Wilhelm Müller
+----------------
+Carl Gotthelf Schubert
+Carl Heinrich Conrad
+----------------
+1853
+Christian Eduard Winkler
+Heinrich Gotthelf Johne
+Ernst Wilhelm Schubert
+Karl Traugott Leberecht Bürkner
+Karl August Rößner
+Karl Gottlob Dachsel
+Johann Gottlob Klemann
+Heinrich Fürchtegott Merker
+----------------
+Karl Gottfried Hammer
+Gustav Bernard SchönbergPötting
+1854
+Franz Heide
+Karl August Beger
+Johann Karl Gottlob Philipp
+Eduard Gustav Schumann
+----------------
+1855
+Friedrich Wilhelm Haubold
+Johann Gottfried Walther
+Friedrich Wilhelm Haußner
+Friedrich Haymann
+Karl August Naumann
+Karl Gustav Schumann
+Karl Samuel Weigelt
+----------------
+August Wilhelm Kost
+Karl Moritz Münch
+1856
+August Gotthelf Dietze
+Karl Gottlieb Birkner
+Heinrich Eduard Schnee
+Friedrich August Lindner
+Ernst Ferdinand Beier
+----------------
+Johann Gottlieb Leberecht Zennig
+Karl Gottlieb Röder
+1857
+Karl Heinrich Philipp
+----------------
+Christian Heinrich Büchner
+Johann Gottlob Hempel
+Karl Ernst Hammer
+Karl Friedrich Conrad
+----------------
+Johann Heinrich Traugott Johne
+Heinrich Wilhelm Birkner
+----------------
+1858
+Carl August Höde
+Carl Herrmann Einert
+Wilhelm Eduard Steudel
+Johann Gottfried Hohnstein
+----------------
+Johann Wilhelm Lösche
+Heinrich August Birkner
+Heinrich Eduard Geißler
+Heinrich Gotthelf Lützner
+Ehregott Leberecht Türmich
+----------------
+1859
+Ernst August Hillig
+Carl Sigismund Kießlich
+Johann Carl Ernst Nestler
+Daniel Frosch

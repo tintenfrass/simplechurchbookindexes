@@ -1,18 +1,18 @@
 Weinböhla (Buch 4)
-Trauungen 1801-1849
+Trauungen 1801-1853
 https://www.archion.de/de/viewer/churchRegister/289622?pageId=40256912
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 Mai 2024
 Juli 2024
 Oktober 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -876,3 +876,97 @@ Johann Gottlob Vetter
 Christian Friedrich Weber
 Christian Gotthelf Scheiblich
 Johann Traugott Melzer
+----------------
+1850
+Johann Traugott Schreiber
+Ernst Wilhelm Tamm
+Carl Gottlob Borsdorf
+Johann Gottlieb Mohn
+Christian Gotthelf Starke
+Johann Traugott Leberecht Petschke
+----------------
+Johann Gotthelf Teuscher
+Johann Gottlob Herrmann
+Carl Friedrich Leuschner
+Carl Gotthelf Zocher
+Johann Gottlob Große
+----------------
+Christian Gottlieb May
+1851
+Johann Gottfried Grünberg
+Johann Gottfried Schneider
+Christian Gottlieb Herrmann
+----------------
+Johann Gottlob Grünberg
+Johann Gottlieb Melzer
+Johann Christoph Kirsche
+Carl Gottlob Tutzsch
+Karl Gottfried Schreiber
+----------------
+Johann Gottfried Seyfert
+Johann Gottlob Zscheile
+Johann Gottfried Richter
+Carl August Pappermann
+Carl Gotthelf Händel
+----------------
+Traugott Wilhelm Hünichen
+Johann Christian Bischoff
+Carl Friedrich August Haase
+Friedrich Wilhelm Wolf
+Gottlieb Polster
+----------------
+Johann Gottlob Spieler
+Johann Gotthelf Findeisen
+Christian Friedrich Jensen
+Johann Gottfried Lommatzsch
+Johann Traugott Ulrich
+----------------
+Johann Friedrich August Melzer
+Karl Gottlieb Bährisch
+Johann Gottlieb Haase
+Johann Carl Gottlob Mohn
+----------------
+1852
+Friedrich August Schleinitz
+Friedrich August Köppe
+Carl Gotthelf Mannschatz
+Carl Heinrich Seyfert
+Carl Gottlob Gommlich
+----------------
+Johann Christian Naumann
+Johann Samuel Gottfried Thieme
+Friedrich August Bretschneider
+Christian Friedrich Protze
+Friedrich Wilhelm Opitz
+----------------
+Johann Adolph Ludwig
+Ernst Gustav Reif
+Johann Gottfried Förster
+Carl Gotthelf Haudel
+Johann Gottlieb Wiedemann
+----------------
+Carl Gottlieb Brendel
+Carl Gotthelf Händel
+Johann Gottfried Quittel
+Johann Gottlieb Vetter
+Johann Gottlieb Hiller
+----------------
+1853
+Johann Carl Gottlob Fischer
+Johann Traugott Ullrich
+Johann Gotthelf Opitz
+Johann Gottfried Strohbach
+Friedrich Wilhelm Vogel
+Christian Gottlieb Marx
+----------------
+Johann Christian Riemer
+Carl Heinrich Naumann
+August Alfred Rumpelt
+Johann Carl Heinrich Kiesling
+Christian Gottlieb Seifert
+Carl Gottlieb Quittel
+----------------
+----------------
+Johann Gotthelf Strohbach
+Johann Gottfried Haase
+Carl Gottlieb Kothe

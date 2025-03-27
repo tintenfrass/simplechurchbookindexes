@@ -1,5 +1,5 @@
 Unkersdorf (Buch 4)
-Trauungen 1793-1849
+Trauungen 1793-1859
 https://www.archion.de/de/viewer/churchRegister/289610?pageId=40255438
 
 
@@ -10,6 +10,7 @@ Juli 2024
 Oktober 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -385,3 +386,72 @@ Friedrich Erdmann Jentzsch
 ----------------
 1849
 Carl Friedrich Moritz Knebel
+----------------
+1850
+Johann Gottlob Schlechte
+Friedrich Wilhelm Horn
+Johann Gottlob Jentzsch
+Moritz Ludwig Waetzel
+Carl August Uhlemann
+----------------
+Carl Traugott Henker
+----------------
+1851
+Carl Gottlieb Löwe
+Christian Gottfried Herrmann
+Johann Gottlieb Gäbel
+Gottlieb Ferdinand Sohrmann
+----------------
+Friedrich Ernst Demnitz
+Carl Gottlieb Fehrmann
+Carl Heinrich Dachsel
+Carl Gottlieb Barth
+----------------
+1852
+Carl Friedrich Roßberg
+Johann Gottlieb Pfützner
+Carl Gustav Kaestner
+Carl Gottlob Henker
+----------------
+1853
+Carl Otto Fiedler
+Gotthelf Ferdinand Voigt
+August Wilhelm Rautenstrauch
+Carl Traugott Kutzsche
+Carl Heinrich Gottlob Ende
+----------------
+1854
+Carl Friedrich August Kühne
+Carl Wilhelm Starke
+----------------
+1855
+Carl Gottfried Maune
+Carl Friedrich August Kühne
+----------------
+1856
+Carl August Umlauft
+Carl Ludwig Ritter
+Traugott Niese
+Johann Gottlob Roitzsch
+Carl Gottlob Ebert
+Carl Heinrich Schaarschuch
+----------------
+1857
+Friedrich Wilhelm Maune
+Carl Friedrich August Adam
+Gottlob Adolph Lotze
+Gustav Moritz Schubert
+----------------
+1858
+Ferdinand Emil Müller
+Carl Ernst Theodor Berthold
+Ernst Eduard Lommatzsch
+August Endlich
+Carl Traugott Menzel
+Johann Gottfried Richter
+----------------
+1859
+Carl August Steude
+Carl Gottlob Philipp
+Carl Ernst Dachsel
+Carl Ludwig Lorentz
