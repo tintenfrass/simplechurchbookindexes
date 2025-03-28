@@ -1,5 +1,5 @@
 Weistropp (Buch 10)
-Trauungen 1830-1849
+Trauungen 1830-1859
 https://www.archion.de/de/viewer/churchRegister/289644?pageId=40260861
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -452,3 +453,266 @@ Johann Friedrich Bennewitz
 ----------------
 Carl Wilhelm Fischer
 Carl Gottlieb Mehlig
+----------------
+1850
+Carl Gottlieb Sohrmann
+Carl Wilhelm Krause
+Johann Gottfried Eduard Jeremias
+Johann Gottlob Frost
+----------------
+Johann Traugott Leindorf
+Christian Friedrich Illgen
+Carl Gottlieb Kühne
+Carl Gottlieb Knöfel
+----------------
+Carl Gottlieb Kobisch
+Johann Gottfried Müller
+Carl Leberecht Schwedler
+Carl August Pietzsch
+----------------
+Friedrich Wilhelm Buhlig
+----------------
+1851
+Carl Gottfried Löser
+August Herrmann Hanitzsch
+Gottlieb Friedrich Schaaf
+Carl August Kohl
+----------------
+Friedrich August Hauswald
+Carl August Voigt
+Johann Gottfried Schütze
+Carl Gottlieb Peschel
+----------------
+Carl Gottlob Rothe
+Ernst David Adolph Kurth
+Carl August Schöne
+Johann Carl Robert Iltsche
+----------------
+Johann Gottfried Richter
+Heinrich Gotthelf Faust
+----------------
+1852
+Johann Gottlieb Thiele
+Friedrich August Wilhelm Schulze
+Johann Christian Friedrich Förster
+Carl Gottlieb Zetsche
+----------------
+Johann Christian Schmidt
+Gottlieb Heinrich Werner
+Franz Michael Götz
+Gustav Eduard Braune
+----------------
+Carl Gottlieb Knöfel
+Carl Gottlieb Maune
+Carl August Fischer
+Carl Gottfried Rost
+Johann Carl August Guschke
+----------------
+Carl Gottlieb Pappritz
+Gottlieb Leberecht Jäger
+Johann Friedrich Traugott Häßlich
+Johann Gottlieb Pfützner
+----------------
+Johann Gottlieb Gräfe
+Carl Ehregott Keller
+Carl Gottlob Jentzsch
+Friedrich August Hübler
+----------------
+Friedrich August Knöfel
+Carl August Leberecht Reif
+Johann Gottlob Gansauge
+Carl Gottlob Reiche
+----------------
+1853
+Carl Gottlieb Jurisch
+Friedrich Wilhelm Zocher
+Christian Heinrich Wend
+Johann Heinrich Eichhorn
+Johann Georg Lehmann
+----------------
+Johann Gottlob Leberecht Schubert
+August Richard Hedenus
+Carl Friedrich Traugott Keller
+----------------
+Johann Gottlieb Ehregott Klotsche
+Carl Traugott Leberecht Kunze
+Johann Christian Michaelis
+Friedrich August Zumpe
+----------------
+Johann Friedrich Albrecht
+Carl Gottlieb Bruchholz
+Carl Gottlieb Wießner
+----------------
+1854
+Carl August Lehmann
+Carl Ferdinand Schaffrath
+Christian Gottfried Ehregott Schmieder
+Ernst Wilhelm Legler
+----------------
+Julius Traugott Pietzsch
+Ernst Gottlieb Beger
+Heinrich Leberecht Löwe
+Carl Gottlob Münch
+----------------
+Johann Eduard Fürchtegott Schmieder
+August Wilhelm Dreßler
+Carl Gottlob Gottschalk
+Johann Gottfried Schramm
+----------------
+Ernst Adolph Löwe
+Carl Gottlob Schumann
+Christian Gottlieb Schmieder
+Gottlieb Heinrich Merbitz
+----------------
+Carl Wilhelm Leckescheid
+Traugott Leberecht Bruchholz
+Eduard Heinrich Lack
+Johann Gottlieb Große
+----------------
+Carl Gottlieb Nuck
+Wilhelm Ernst Goldbach
+Carl Gottlieb Raabe
+Johann Carl August Winsmann
+----------------
+Carl August Rothe
+Carl Gottlieb Leuschner
+Friedrich August Schubert
+Johann Carl Gottlob Clemenz
+----------------
+Johann Gotthelf Vogel
+----------------
+1855
+Carl Friedrich Böhme
+Johann Gottlieb Thiele
+Friedrich August Knöfel
+Carl Gottfried Ludwig
+----------------
+Johann Gottlob Rietzscher
+Carl Heinrich Woldemor Engelmann
+Ernst Wilhelm Theodor Löffel
+Gottfried Münch
+----------------
+Carl Friedrich Ernst Kretzschmar
+Carl Gottlieb Hillig
+Friedrich Ernst Krauspe
+Ernst Wilhelm Heinrich Niezold
+----------------
+Friedrich Adolph Thiele
+Ernst Gustav Preusker
+Johann Gottfried Knöfel
+----------------
+1856
+Friedrich August Kutsche
+Carl Gottlob Lieschke
+Carl Traugott Petzold
+Andreas Noack
+----------------
+Julius Benjamin Hoyer
+Johann Gottlieb Arnold
+Carl Gottlieb Petrich
+Louis Reinhard Kurz
+Johann Gottlob Knöfel
+----------------
+August Moritz Leberecht Gießmann
+Ernst Wilhelm Häßlich
+Gustav Adolph Raabe
+Johann Gottlieb Rabe
+----------------
+Johann Carl Gottlob Findeisen
+Johann Gottlieb Schulze
+Carl Heinrich Küttner
+----------------
+1857
+Friedrich Wilhelm Arnold
+Johann Gotthelf Teuscher
+Ernst Heinrich Dreßler
+Carl Traugott Leberecht Berger
+----------------
+Johann Gottlob Ernst Adam
+Carl August Bachmann
+Friedrich Wilhelm Kirsten
+Carl Gottlob Grellmann
+----------------
+Ernst Wilhelm Burkhardt
+Carl Moritz Hoermann
+Johann Heinrich Eduard Lehmann
+August Leberecht Pietzsch
+----------------
+Johann Adolph Voigt
+August Bernhard Pietzsch
+Carl August Lehmann
+Heinrich Wilhelm Zumpfe
+Carl Traugott Schmidt
+----------------
+Johann Gotthelf Zschoche
+Carl August Trepte
+Carl Friedrich August Reuter
+Johann Wilhelm Liebschner
+----------------
+Johann August Eiselt
+Friedrich Wilhelm Müller
+----------------
+1858
+August Eduard Mohn
+Johann Gottlieb Petzold
+Carl Friedrich Herrmann Keil
+Carl Traugott Baeßler
+----------------
+Carl August Schubert
+Carl Friedrich August Seyfert
+Carl Gottlieb Kirsten
+----------------
+Ernst Eduard Arnold
+Friedrich Ernst Pietzsch
+Carl Eduard Lommatzsch
+Johann Gottlieb Vogel
+----------------
+Johann Friedrich Naumann
+Andreas Roelke
+Johann Christian August Haukold
+Carl Gottlieb Ernst Klotz
+----------------
+Johann Carl Heinrich Lange
+Johann Friedrich Wilhelm Hoermann
+Carl Heinrich Gerlach
+Franz Gotthold Trülsch
+----------------
+Carl Gottfried Tronike
+Friedrich Ernst Müller
+Johann Friedrich Alexander Krieg
+Johann Gottlieb Gründel
+----------------
+Johann Traugott Wilhelm Baumgarten
+Carl August Leuschner
+----------------
+1859
+Johann August Claus
+Johann Carl August Haubold
+Friedrich August Kaeseberg
+----------------
+Friedrich Adolph Herberg
+Carl Gottlieb Döring
+Carl August Loeser
+----------------
+Friedrich August Hennig
+Gottlob Adolph Haubold
+Carl August Große
+----------------
+Johann Gottfried August Maul
+Ernst Heinrich Philipp
+Adolph Paul Pietzsch
+----------------
+Johann Georg Christlieb Naumann
+Carl Ernst Lommatzsch
+Carl August Haensel
+Johann Gottlieb Hermann Beger
+----------------
+Friedrich August Hille
+Heinrich Ehregott Jeremias
+Carl Gottlieb Große
+Andreas Preiske
+----------------
+Ernst Leberecht Lehmann
+August Wilhelm Traenkner
+Carl Gottlob Lehmann
+Ernst Ludwig Zoellner

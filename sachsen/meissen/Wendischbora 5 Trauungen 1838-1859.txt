@@ -1,5 +1,5 @@
 Wendischbora (Buch 5)
-Trauungen 1838-1849
+Trauungen 1838-1859
 https://www.archion.de/de/viewer/churchRegister/289655?pageId=40262477
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -118,3 +119,113 @@ Ernst August Faust
 Carl Gottfried Richter
 Carl Wilhelm Zscherper
 Johann Friedrich Wilhelm Kühne
+1850
+Robert Wolf
+Friedrich Wilhelm Grille
+Carl Gottlob Zimmer
+----------------
+Wilhelm Traugott Thierbach
+Christlieb Ehregott Gappisch
+Carl Friedrich Iltzsche
+Carl Eduard Fischer
+Friedrich Wilhelm Schlechte
+Johann Gottlob Fischer
+1851
+Carl Gottfried Gotte
+----------------
+Carl Gottfried Jäger
+Carl Gottlieb Begenau
+Friedrich August Rost
+Gottfried Franz Arnhold
+Johann Carl Gottlob Büttner
+Johann Gottfried Leberecht Schönfeld
+Friedrich Adolph Wittig
+Johann Wilhelm Eduard Hauschild
+----------------
+Carl Wilhelm Naumann
+Johann Gottlieb Faust
+1852
+Carl Friedrich Delitzsch
+Wilhelm Ernst Eckelmann
+Carl Gottlieb Richter
+Carl Moritz Paul
+Carl Gottlob Molke
+Johann Carl Franz Preußger
+----------------
+Carl Traugott Jentzsch
+Friedrich Gustav Leisner
+Carl Gottlieb Johne
+Traugott Leberecht Begenau
+Carl Gottfried Ziegler
+Johann Gottlob Geißler
+1853
+Carl Traugott Frenzel
+----------------
+Carl Gottlob Schmidt
+Carl Heinrich Feldmann
+Gottlob Heinrich Wagner
+Carl Heinrich Hiller
+Carl Friedrich Weber
+Moritz Ferdinand Bormann
+1854
+Friedrich August Liebschner
+Carl Ernst Lindner
+Heinrich Gottlob Johne
+----------------
+Karl August Hiller
+Karl Moritz Thielemann
+Friedrich Wilhelm Böhme
+1855
+Carl Gustav Siegel
+Wilhelm Moritz Philipp
+Friedrich Ehregott Große
+Carl Gottlob Geißler
+----------------
+1856
+Karl August Jaepel
+Karl Eduard Eichhorn
+Karl Traugott Mohn
+Heinrich Wilhelm Döring
+Heinrich Eduard Schlechte
+Johann Gottlob Ulbrich
+Carl Heinrich Lindner
+----------------
+Friedrich August Fischer
+Carl Heinrich Schlicke
+1857
+Ernst Julius Heinrich
+Johann Friedrich Lange
+Friedrich Wilhelm Graf
+Adolph Robert Wittig
+Christian Friedrich Voigt
+----------------
+Johann Karl Gottlieb Hanschmann
+Gottlieb Ernst Mietzsch
+Carl Wilhelm Schmieder
+Carl Heinrich Paul
+Carl Friedrich Ganßauge
+----------------
+Wilhelm Ernst Lautel
+1858
+Carl Traugott Zwar
+Gottlieb Herrmann Horn
+Carl Friedrich Moritz Franke
+Carl Heinrich Zscherper
+Johann Gottlieb Klunker
+----------------
+Heinrich Ferdinand Gaschütz
+Ernst Wilhelm Rüdiger
+1859
+Carl Ernst Eger
+Friedrich Ernst Graf
+Johann Carl August Heinrich
+Johann Gottlob Peege
+Carl Heinrich Herzog
+----------------
+Carl Julius Paul
+Carl August Leberecht Curth
+Carl Bernhard Franz Reinhardt
+Carl Gottlieb Wustlich
+Carl Wilhelm Eger
+Johann August Gotthelf Borrmann
+Johann Friedrich August Meinig
