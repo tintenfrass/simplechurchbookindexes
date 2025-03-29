@@ -1,5 +1,5 @@
 Erbisdorf (Buch 353)
-Trauungen 1825-1849
+Trauungen 1825-1850
 https://www.archion.de/de/viewer/churchRegister/359739?pageId=50650416
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -10,6 +10,7 @@ Filialkirche St. Michaelis
 Oktober 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -558,3 +559,32 @@ Johann Gotthelf Hammermüller
 August Gottlieb Teuchert
 Carl August Thielemann
 Friedrich Hermann Grellmann
+----------------
+1850
+Carl Gottlob Weiße
+Carl August Hähnel
+Johann Gottlob Hoyer
+Friedrich August Sacher
+Carl Heinrich Schenke
+Christian Gottlieb Wagner
+Johann Friedrich Traugott Beier
+----------------
+Samuel Friedrich Köhler
+Carl Friedrich August Hähnel
+August Wilhelm Hachenberger
+Carl August Kind
+Johann Adolph Ruppert
+Carl Gottlieb Ernst Schreiber
+August Friedrich Nepp
+----------------
+Carl August Grimmer
+Carl Gottlob Seifert
+Traugott Friedrich Schenke
+August Friedrich Mehner
+Carl August Matthäus
+Johann Traugott Schmidt
+Carl Friedrich Klausnitzer
+----------------
+Friedrich Julius Benjamin Preißler
+Carl Gottlieb Reuter
+Samuel Friedrich Lehnert

@@ -1,5 +1,5 @@
 Dorfchemnitz (Buch 56)
-Trauungen 1801-1849
+Trauungen 1801-1850
 https://www.archion.de/de/viewer/churchRegister/340875?pageId=47879473
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -12,6 +12,7 @@ Juli 2024
 Oktober 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -977,3 +978,32 @@ Friedrich Fürchtegott Hennig
 ----------------
 Louis Alexander Göpfert
 Traugott Friedrich Glöckner
+1850
+Carl Friedrich Kempe
+----------------
+Carl Leberecht Kunze
+Carl Gottlieb Heinrich Göhler
+Carl Gotthold Schramm
+Carl Gottlob Walther
+----------------
+Christian Friedrich Kempe
+Carl Friedrich Griesbach
+Adolph Ferdinand Walther
+Traugott Friedrich Strauß
+----------------
+Traugott Leberecht Kunze
+Gottlieb Fürchtegott Glöckner
+Christian Friedrich Beier
+Johann Gottlob Müller
+----------------
+Friedrich August Griesbach
+Carl Gottlob Tanneberger
+Traugott Friedrich Heinrich
+Carl Gottlieb Braun
+----------------
+August Friedrich Neuber
+Carl Gottlieb Herklotz
+Carl Gottlob Neuber
+Ernst Leberecht Kreller
+----------------
+Carl Friedrich Lehmann

@@ -1,5 +1,5 @@
 Bräunsdorf (Buch 949)
-Trauungen 1828-1849
+Trauungen 1828-1857
 https://www.archion.de/de/viewer/churchRegister/281027?pageId=38768099
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Oktober 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -68,3 +69,27 @@ Karl August Wiedemann
 ---------------- x6
 1849
 Carl Christoph Hoyer
+---------------- x6
+1850
+Maximilian Moritz Tutzschmann
+---------------- x6
+1851
+Karl Friedrich Schubert
+---------------- x6
+1852
+August Johannes Schweingel
+Karl Heinrich Lange
+---------------- x5
+1853
+Christoph Friedrich Hänig
+Friedrich Ernst Wiener
+---------------- x7
+1854
+Johann Gottlob Knof
+---------------- x6
+1855
+Friedrich Traugott Louis Lucius
+---------------- x6
+1856
+---------------- x7
+1857
