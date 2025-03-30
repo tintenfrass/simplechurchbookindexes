@@ -1,5 +1,5 @@
 Freiberg St. Nikolai (Buch 635)
-Trauungen 1830-1849
+Trauungen 1830-1859
 https://www.archion.de/de/viewer/churchRegister/341098?pageId=47920100
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -909,3 +910,545 @@ Heinrich Wilhelm Fischer
 Martin Herrmann Meyer
 ----------------
 Carl Julius Lehmann
+1850
+Carl Friedrich Seifert
+Friedrich Herrmann Hache
+Friedrich Anton Scherpe
+----------------
+Carl August Hartwig
+Oscar Meyer
+Carl August Conrad
+Carl Gottlob Moser
+----------------
+Ernst Julius Wegert
+Carl Gottlob Feldmann
+August Wilhelm Grau
+Friedrich Reinhold Barthel
+----------------
+Friedrich August Haase
+Christian Friedrich Rothe
+Carl August Fröbe
+Friedrich Wilhelm Hempel
+----------------
+Gottlieb Friedrich Auerbach
+Friedrich August Sandig
+Ernst Friedrich Wahl
+Wilhelm Theodor Löbel
+----------------
+Carl Gottlob Friedrich Grimmer
+Christian Carl Doberenz
+Christian Friedrich Wiedrich
+Carl Wilhelm Schneider
+----------------
+Ernst Ludwig Klemm
+Carl Gottlob Erler
+Friedrich Eduard Nicolai
+Ludwig Herrmann Dörfel
+----------------
+Eduard Constantin Haupt
+Carl Gottlob Häußler
+Carl Traugott Haupt
+Immanuel Ferdinand Sommer
+----------------
+Ernst Herrmann Mathes
+Ernst Gustav Hansen
+Carl Friedrich Tittel
+Hugo Leopold Elßig
+----------------
+Johann Friedrich Setzkorn
+1851
+Friedrich Wilhelm Rümmler
+Robert Julius Scheunpflug
+Carl August Klemm
+----------------
+Carl Gottfried Teichmann
+Gotthelf Heinrich Fabian
+Friedrich Ludwig Müller
+Ernst Herrmann Eckardt
+----------------
+Johann Gottfried Schlage
+Heinrich August Zschocke
+Ernst Eduard Cyrener
+Heinrich Wilhelm Brandner
+----------------
+Moritz Gustav Schuberth
+Friedrich Ferdinand Häußler
+Johann Carl Gottlieb Eichhorn
+Carl Friedrich Klemm
+----------------
+Gustav Friedrich Erler
+Friedrich Eduard Manitz
+Carl Friedrich Morgenstern
+Carl August Bauer
+----------------
+Carl Heinrich Barthel
+Carl Gottlieb Richter
+Carl Theodor Ferdinand Schützenmeister
+Herrmann Alexander Weise
+----------------
+Friedrich Wilhelm Stecher
+Robert Eduard Barthel
+Traugott Leberecht Günther
+Carl Traugott Hauche
+----------------
+Johann Friedrich Wilhelm Ernst Behnisch
+Heinrich August Siegert
+Carl Gottlieb Krause
+Carl Herrmann Tittel
+----------------
+Christoph Friedrich Leck
+Carl Moritz Schmieder
+Johann Gottfried Böhme
+Johann Gottfried Scheibe
+----------------
+Carl Friedrich Schmidt
+Carl Wilhelm Wagner
+Christian Gottlieb Lange
+Carl Heinrich August Michaelis
+----------------
+Friedrich August Voigt
+August Wilhelm Hertwig
+Traugott Friedrich Drechsler
+Johann Gotthelf Pfennig
+----------------
+Franz Fides Amandus Reiniche
+1852
+Carl Friedrich Heinrich Tanzer
+Gustav Wilhelm Wittig
+----------------
+Paul Reinhard
+Gustav Plohr
+Leberecht Ferdinand Beckert
+Carl Anton Bertram
+----------------
+Johann Gottlob David Pietzsch
+Clemens Julius Marschner
+Carl Gotthelf Heinrich Franke
+Eduard August Schilling
+----------------
+Gottlob Heinrich Rost
+Theodor Wilhelm Carl Limburg
+Johann Martin Lutz
+Rudolph Benno Wappler
+Sigismund Alexander Reinhold Weiber
+Carl Heinrich Hammermüller
+----------------
+Friedrich Wilhelm Vogelgesang
+Ernst Julius Mehner
+Wilhelm Julius Hermann Michaelis
+Anton Bernhard Sommer
+Friedrich Reinhard Bär
+----------------
+Friedrich Moritz Rummler
+Traugott Friedrich Borstendorfer
+Carl Gottlob Brühl
+Carl Traugott Heinrich Kirchner
+Christian August Dietzmann
+----------------
+Carl Gottfried Krebs
+Johann Gottlob Koch
+Johann Gotthelf Jungnickel
+Carl Gottlob Schmieder
+----------------
+Luvo Eckbert Feldmann
+Carl Wilhelm Hönig
+Ernst Julius Hensel
+Carl Moritz Schulze
+----------------
+Georg Sinde
+August Ludwig Gräfer
+Franz Julius Richter
+----------------
+1853
+Heinrich Bruno Hertwig
+Gustav Wöllner
+Friedrich Traugott Fröbe
+Johann Carl Wilhelm List
+----------------
+Friedrich Moritz Eppstädt
+Carl Gottlob Brühl
+Friedrich Adolph Wunderlich
+Christian Friedrich Neubert
+Friedrich Wilhelm Hopfgarten
+----------------
+Carl Heinrich Grube
+Robert Herrmann Kretzschmar
+Christian Friedrich Wiedrich
+Gottlieb Ernst Pahlitzsch
+----------------
+Carl Friedrich Fröbe
+Carl Theodor Füllkruß
+Johann Jacob Thork
+Ernst Wilhelm Julius Franz
+----------------
+Carl Wilhelm Frey
+Heinrich Ferdinand Rudolph
+Carl Gottlob Brand
+Christian Herrmann Wolf
+----------------
+Gotthelf Heinrich Eduard Wittig
+Friedrich Albert Herrlitzky
+Johann Carl Wilhelm Baumann
+Franz Adolph Krauße
+----------------
+Johann Carl Krauße
+Carl Moritz Koch
+Friedrich Wilhelm Kretzschmar
+Friedrich Gottlob Haußmann
+----------------
+Johann Carl Friedrich Kosowsky
+Carl August Pflugbeil
+Gerhard Theobul Meyer
+Ernst Friedrich Pfeiffer
+----------------
+Friedrich Rudolph Helmert
+Albert Moritz Müller
+Johann Carl Herrmann Pertus
+----------------
+Carl Herrmann Werner
+Wilhelm Gustav Thiemer
+Carl August Franz Böhme
+Carl Gottlieb Zimmermann
+----------------
+Johann Julius Meißner
+1854
+Bernhard Herklotz
+Wilhelm Adolph Burwig
+----------------
+Heinrich Eduard Teichmann
+Friedrich August Knauth
+Carl Gottlieb Barth
+Carl August Schmidt
+----------------
+Ernst Friedrich Mehner
+Friedrich Wilhelm Scheinert
+Carl Gustav Eidner
+Johann Gottlob Sacher
+----------------
+Julius Edmund Porstendorfer
+Ernst Wilhelm Ferdinand Hammerschmidt
+August Julius Zacharias
+Friedrich Herrmann Heinz
+----------------
+Carl Gottlob Neubert
+Carl August Porstein
+Eda Bruno Feldmann
+Samuel Cornelius Klemm
+----------------
+Friedrich Arnold Gustav Berg
+Johann Traugott Eichhorn
+Georg Friedrich Carl Puls
+Carl Julius Broschmann
+----------------
+Louis Wilhelm Meeser
+Carl Heinrich Glaeßer
+Christian Ludwig Weigelt
+David Wilhelm Große
+----------------
+Friedrich Wilhelm Güttler
+Moritz Michaelis
+Gustav Anton Zeuner
+Carl Gottlieb Lucius
+----------------
+Johann Samuel Jungnickel
+Gustav Wilhelm Moritz Otto
+Ernst Victor Pohl
+Traugott Friedrich Wilhelm Hänlein
+----------------
+Carl Heinrich Fischer
+Johann Heinrich Widder
+Friedrich Wilhelm Walther
+----------------
+Gustav Franz Schmidt
+1855
+Theodor Friedrich Strehle
+Georg Benno Heynitz
+----------------
+Christian Gottlob Langernickel
+Johann Gottfried Schäfer
+Traugott Leberecht Fischer
+Friedrich August Lichtenberger
+----------------
+Ernst Heinrich Hennig
+Ernst Ferdinand Hugo Singer
+Johann Carl Richter
+Hugo Leopold Elßig
+----------------
+Johann Groß
+Carl Wilhelm Breßer
+Friedrich August Günther
+Johann Julius Thümmrich
+----------------
+Ernst Anton Gey
+Johann Gottlob Schmieder
+Carl Herrmann Fritzsche
+Carl August Schmidt
+----------------
+Carl Adolph Nestler
+Carl August Schulze
+Carl Eduard Göhler
+Friedrich Constantin Alex
+----------------
+Ernst Eduard Cyrener
+Friedrich Wilhelm Lehnert
+Friedrich August Hasche
+Johann Robert Döhler
+----------------
+August Ferdinand Junghanns
+Ernst Wilhelm Zürner
+Ernst Julius Schönherr
+August Herschel
+----------------
+Heinrich Julius Schröder
+Carl Friedrich Träger
+Friedrich Wilhelm Ziegner
+----------------
+1856
+Wilhelm Ehregott Bellmann
+Carl Heinrich Barthel
+Gotthelf Friedrich August Rüdiger
+Christian Friedrich Schauer
+----------------
+Carl Friedrich August Wunderwald
+Johann Heinrich Brügner
+Friedrich August Klemm
+Carl Ernst Moritz Arnold
+----------------
+Friedrich August Müller
+Carl August Seifert
+Fürchtegott Heinrich Langer
+Christian Gottfried Schmidt
+----------------
+Carl August Pflugbeil
+Friedrich August Dämmig
+Carl Leberecht Küttner
+Carl Wilhelm Voigtländer
+----------------
+August Friedrich Ernst Klemm
+Johann Gotthelf Stiebitz
+Carl Heinrich Köhler
+Robert Herrmann Kretzschmar
+----------------
+Carl Friedrich Ernst Eckelmann
+Johann Carl Wilhelm Baumann
+Johann Carl Gottlieb Schmidt
+Alexander Moritz Kästner
+----------------
+Friedrich August Venus
+Johann Ferdinand Waldmann
+Samuel Cornelius Ernst Klemm
+Carl August Rechenberger
+----------------
+Friedrich Wilhelm Lehnert
+Carl August Richter
+Wilhelm Friedrich Uhlig
+Ernst Robert Klingner
+----------------
+Ernst Julius Andreas
+Heinrich August Broschmann
+Johann Heinrich Helmert
+Ernst Friedrich Fuhrmann
+----------------
+Johann August Hansen
+Bruno Oswald Werner
+Friedrich August Kugler
+Christian Friedrich Schmiedel
+----------------
+Carl Herrmann Fischer
+Friedrich Eduard Nollau
+Johann Heinrich Peter
+Gustav Ferdinand Seyffert
+----------------
+Hieronymus Theodor Richter
+Carl Hugo Scheunert
+Johann Oskar Neubert
+Christian Herrmann Wolff
+----------------
+Robert Vogelgesang
+Carl Gustav Lohse
+Wilhelm Moritz Meerstein
+Johann Gottlob Friedrich Lohse
+----------------
+Heinrich Constantin Gerlach
+Carl Friedrich Schmidt
+Christian Friedrich Schramm
+Johann Carl Gottlieb Wießner
+----------------
+Carl Heinrich Philipp
+Carl Friedrich August Mende
+Gustav Eduard Uhlig
+----------------
+1857
+Carl Gottfried Rudolph
+August Robert Lichtenberger
+Friedrich Wilhelm Fritzsche
+Ferdinand Daniel Lohse
+----------------
+Traugott Wilhelm Fleischer
+Ernst Traugott Leberecht Timmel
+Friedrich Gustav Bellmann
+Gustav Gottlob Heinrich Franke
+----------------
+Carl Leberecht Otto Herrmann
+Ernst Wilhelm Eckardt
+Carl Robert Geißler
+Carl Fürchtegott Auerbach
+----------------
+Carl Heinrich Buschmann
+Carl Eduard Kunis
+Friedrich Gustav Krüger
+Friedrich Alwin Ferdinand Heß
+----------------
+Ernst Julius Doberenz
+Carl August Schönberg
+Georg Rudolph Julius Schade
+Carl Traugott Schubert
+----------------
+Carl Bernhard Blütchen
+Friedrich Oskar Reinhard
+Ernst Ferdinand Rehwald
+Friedrich Carl Franz Calow
+----------------
+Julius Fischer
+Johann Carl Eduard Obenaus
+Heinrich Ferdinand Straßburger
+Ernst Julius Donat
+----------------
+Samuel Heinrich Eger
+Franz Herrmann Bretschneider
+Eduard Heinrich Lampadius
+Heinrich Wilhelm Kretzschmar
+----------------
+Carl Gustav Eduard Mende
+Carl Gotthelf Friedrich Leonhardt
+Johann Fürchtegott Hering
+Johann Friedrich Vetterlein
+----------------
+Heinrich Moritz Röhling
+Friedrich Gustav Schneider
+Carl Friedrich Ganßauge
+Johann Friedrich Bellmann
+----------------
+1858
+Carl Wilhelm Dittrich
+Friedrich Louis May
+Friedrich Otto Leonhardt
+Carl Robert Schilling
+----------------
+Ernst Wilhelm Lohse
+Ernst Theodor Henker
+Friedrich Wilhelm Schneider
+Carl Conrad Michael Friedrich Osterland
+----------------
+Bruno Woldemar Hermann
+Friedrich Herrmann Meding
+Friedrich August Arnold
+Robert Gustav Krauskopf
+----------------
+Carl Friedrich Schlegel
+Friedrich Eduard Nestler
+Ludwig Moritz Bach
+Carl Louis Kunis
+----------------
+Carl Gottlob Richter
+Carl Gottlob Schmidt
+Heinrich Woldemar Hofmann
+Herrmann Lorenz Richter
+----------------
+Friedrich Albert Herlitzky
+Carl Julius Rothe
+Friedrich August Wilhelm Zückmantel
+Christian Traugott Haustein
+----------------
+August Wilhelm Nestler
+Carl Heinrich Wilhelm Schreier
+Adolph Heine
+Johann Moritz Meyer
+----------------
+Johann Heinrich Paul
+Friedrich Conrad Scheunert
+Carl Robert Päßler
+Friedrich August Körner
+----------------
+Georg Thieme
+Carl Friedrich Ehregott Richter
+Carl Emil Bose
+Christian Carl Leim
+----------------
+Carl August Helbig
+Gottlob Carl Rothe
+Ernst Gustav Stein
+Heinrich Wilhelm Feldmann
+----------------
+Carl Friedrich Bernhard Frieß
+Franz Bruno Tranko
+Eduard Moritz Roll
+Carl Adolph Grimmer
+----------------
+Friedrich Ludwig Hähnel
+Gustav Arno Schindler
+Carl Friedrich Wilhelm Lehnert
+Carl Moritz Ernst Böhme
+----------------
+August Friedrich Peters
+1859
+Carl Julius Goldmann
+Carl Gotthelf Rudolph
+----------------
+Christian Friedrich August Wagner
+Carl Heinrich Gotthardt
+Traugott Leberecht Hofmann
+Carl Gottlob Sacher
+----------------
+Friedrich Herrmann Wolf
+Heinrich Leopold Bieling
+Heinrich Praße
+Ernst Ludwig Partsch
+----------------
+Carl Fürchtegott Schmidt
+August Friedrich Gey
+Carl August Dietze
+Carl Joseph Keller
+----------------
+Carl Wilhelm Jahn
+Carl Hermann Pfeiffer
+Wilhelm Ehregott Broschmann
+Franz Gustav Wegerdt
+----------------
+Friedrich August Brückner
+Carl Eduard Göhler
+Carl Herrmann Antonius Meißner
+Carl David Uhlig
+----------------
+Carl Traugott Kaden
+Ernst Julius Stecher
+Alfred Julius Eidner
+Gustav Adolph Herrnsdorf
+----------------
+Johann Friedrich Holtze
+Heinrich August Broschmann
+Diedrich Wilhelm Gosekuhl
+Friedrich Herrmann Schneider
+----------------
+Carl Oswald Teichmann
+Ernst Richard Gröger
+August Leberecht Wunderwald
+Friedrich August Richter
+Carl Julius Heyn
+----------------
+Carl Friedrich August Otto
+Carl Friedrich Sigismund Teistler
+Franz Julius Vogel
+Carl Friedrich August Zickmantel
+----------------
+Wilhelm Friedrich August Lohse
+Friedrich Benjamin Rauh
+Heinrich Robert Straßburger
+Johann Edmund Oskar Choulant
+----------------
+Carl Gottlob Kulka
+Carl August Gietzelt
+Ernst Friedrich Wilhelm Steyer
+Julius Maximilian Klemm
+----------------
+Carl Gotthold Braendel
