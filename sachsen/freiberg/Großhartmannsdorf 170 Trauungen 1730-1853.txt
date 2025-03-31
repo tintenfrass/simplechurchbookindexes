@@ -1,5 +1,5 @@
 Großhartmannsdorf (Buch 170)
-Trauungen 1730-1849
+Trauungen 1730-1853
 https://www.archion.de/de/viewer/churchRegister/359765?pageId=50654041
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -13,6 +13,7 @@ Juli 2024
 Oktober 2024
 November 2024
 Februar 2025
+März 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1927,3 +1928,136 @@ Gotthelf Friedrich Uhlig
 Johann Friedrich Beyer
 Ernst Wilhelm Fischer
 Ernst Moritz Keller
+----------------
+1850
+Friedrich Paul Hüfner
+Herrmann Wilsdorf
+Christian Frey
+Carl Gottlob Friedrich Ulbricht
+Carl Gottfried Schubert
+----------------
+Christian Heinrich Hofmann
+Carl Gottlieb Pietrich
+Traugott Friedrich Frey
+August Moritz Buschbeck
+Ernst Wilhelm Schnecke
+----------------
+Johann Christian Zschepank
+Samuel Friedrich Köhler
+Carl Christian Frey
+Carl Christoph Rümmler
+Carl Ferdinand Wilhelm
+Ehregott Leberecht Haubold
+----------------
+Johann Heinrich Eckardt
+Carl Wilhelm Lange
+Carl Friedrich Lindner
+Carl Gottlob Martin
+Heinrich Herrmann Steinmetz
+Christian Friedrich Ferdinand Gackenheimer
+Johann Jacob Uhlig
+----------------
+Julius Bliemel
+Carl August Koch
+Carl Ferdinand Herrmann
+Carl Gottlieb Horn
+Johann Gottlieb Tanneberger
+Carl Gottlob Müller
+Julius Gustav Pretzschendorfer
+----------------
+Johann Georg Heinrich Märker
+Johann Julius Schönlebe
+August Friedrich Endler
+Carl Gottlob Krumbiegel
+Carl Friedrich Wilhelm Rümmler
+----------------
+1851
+Eduard Fürchtegott Haselbach
+Carl August Börner
+Gustav Herrmann Reichel
+Ernst Leberecht Wirth
+Carl Gottlob Kaden
+Friedrich Wilhelm Schneider
+----------------
+Carl August Lichtenberger
+Carl Adolph Dietze
+Carl Gottlieb Thiele
+Carl Friedrich Horn
+Carl Moritz Möbius
+Carl Gottlieb Morgenstern
+----------------
+August Friedrich Dietrich
+Carl Gottlieb Müller
+Friedrich August Welthe
+Carl Gottlieb Schenke
+August Friedrich Lindner
+Gustav Ernst Haucke
+Adolph Heinrich Schenke
+----------------
+Gottlob Friedrich Georgi
+1852
+Christian Friedrich Glöß
+Ernst Eduard Otto
+Carl Friedrich Heinzmann
+Friedrich Oswald Steger
+Carl August Schmidt
+----------------
+Carl Gottlob Julius Martin
+Carl Friedrich Uhlemann
+Carl Gottlob Bretschneider
+Carl Adolph Fritzsche
+Carl Adolph Haupt
+Adolph Wilhelm Uhlig
+Christian Friedrich Stein
+August Friedrich Klemm
+----------------
+Carl August Göhlert
+Carl Ernst Kröner
+August Friedrich Weber
+Heinrich Adolph Seifert
+Carl Gottlieb Kalobius
+Ernst Adolph Horn
+August Friedrich Hähnel
+----------------
+Friedrich Gottlieb Göhlert
+Carl Ernst Härtig
+Carl Friedrich Weinhold
+Carl Gottlieb Straßberger
+Ernst Wilhelm Erler
+Carl August Schwarze
+Traugott Friedrich Weinhold
+Friedrich August Walther
+----------------
+Ernst Wilhelm Uhlemann
+Carl Wilhelm Tränkner
+Carl Wilhelm Ottomar Sallier
+Carl August Schönlebe
+Friedrich Wilhelm Grünewald
+Friedrich Wilhelm Emmerich
+Carl Gottlob Müller
+----------------
+Ernst Fürchtegott Horn
+Franz Fürchtegott Rösiger
+Traugott Leberecht Neubauer
+1853
+Traugott Friedrich Eilenberger
+Ernst Julius Boerner
+Carl Wilhelm Texter
+----------------
+Carl Heinrich Matthes
+August Friedrich Haertig
+Carl August Oehm
+Carl Adolph Haertig
+August Friedrich Mattheß
+Franz Ferdinand Wirth
+Carl August Werner
+Carl Gottlob Reichel
+Carl Gottlob Brand
+----------------
+Adolph Herrmann Haertig
+Ernst Julius Brand
+Johann Christian Adam Brendel
+Heinrich Eduard Fehrmann
+Carl August Schulze
+Johann Samuel Friedrich Franke
+August Friedrich Vogtmann
