@@ -1,5 +1,5 @@
 Hilbersdorf (Buch 755)
-Trauungen 1828-1849
+Trauungen 1828-1853
 https://www.archion.de/de/viewer/churchRegister/359843?pageId=50668053
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Oktober 2024
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -318,3 +319,64 @@ Carl Emil Theodor Groß
 Friedrich Ehregott Strauß
 Carl Friedrich Gottlob Venus
 Andreas Schütze
+----------------
+1850
+Carl August Hammer
+Johann Gottlieb Hennig
+Gottlieb Wilhelm Henker
+Ernst August Dittrich
+----------------
+Carl Ernst Grimmer
+Carl Gottlob Friedrich Grimmer
+Johann Gotthelf Liebscher
+Carl Friedrich August Häßler
+August Friedrich Schmidt
+----------------
+Johann Gottlieb Klemm
+1851
+August Friedrich Unger
+Johann Traugott Hegewald
+Johann Carl Friedrich Pilz
+----------------
+Friedrich Wilhelm Sachse
+Moritz Reinhold Semmig
+Carl Friedrich Hahmann
+Ernst Robert Rümmler
+----------------
+Carl Friedrich Wilhelm Venus
+Carl Gottfried Wolf
+Carl Ernst Grimmer
+1852
+Carl August Keller
+----------------
+Carl Friedrich Schröter
+Johann Conrad Lachner
+Carl August Haupt
+Gottlieb Adolph Stohn
+Carl Wilhelm Schwabe
+----------------
+Carl August Venus
+Carl Wilhelm Böhme
+Carl Gottlieb Schmidt
+Carl Julius Rümmler
+Carl Friedrich Beckert
+----------------
+1853
+Carl Louis Rößler
+Traugott Ferdinand Kohlsdorf
+Carl Friedrich Wilhelm Kröher
+Johann Traugott Fischer
+----------------
+Carl Ferdinand Venus
+Carl Heinrich Goldammer
+Carl Friedrich August Gabriel
+Carl Eduard Müller
+----------------
+Carl Gottlob Glöckner
+Carl Friedrich Feller
+Anton Julius Kauffenstein
+Christian Friedrich Andreas
+Carl Ernst Morgenstern
+----------------
+Ernst Eduard Priebs
+Ehregott August Krätzer

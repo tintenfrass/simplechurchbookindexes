@@ -1,5 +1,5 @@
 Helbigsdorf (Buch 206)
-Trauungen 1831-1849
+Trauungen 1831-1859
 https://www.archion.de/de/viewer/churchRegister/359827?pageId=50665604
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -12,6 +12,7 @@ Teil 3: Randeck
 
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -240,7 +241,154 @@ Carl August Fischer
 Carl Gottlob Fiedler
 Johann Traugott Krönert
 August Friedrich Haustein
----------------- x30
+----------------
+1850
+Johann Heinrich Fürchtegott Dietrich
+Carl Heinrich Rehwald
+Adam Friedrich Fischer
+Carl Christian Frey
+Johann Gottlieb Grau
+Friedrich Wilhelm Braun
+----------------
+Johann Gottlieb Götzelt
+Carl Heinrich Erler
+Carl Carl Scheumann
+Gottlob Friedrich Wagner
+Ernst Friedrich Uhlemann
+----------------
+1851
+Carl Gottlob Zimmermann
+Carl Gottlieb Neubert
+Johann August Uhlemann
+Samuel Friedrich Ulbricht
+August Friedrich John
+----------------
+Carl Friedrich Fürchtegott Anders
+Carl Friedrich Liebscher
+Johann Ferdinand Kluge
+Carl Gottlieb Göpfert
+----------------
+1852
+Carl Friedrich August Kreller
+Carl Traugott Fröbel
+Carl Traugott Fröbel
+Carl Heinrich Martin
+Adolph Wilhelm Uhlich
+----------------
+Carl Gottlob Arnold
+Johann August Göhler
+Christian Friedrich August Günther
+Eduard Moritz Ulbricht
+Carl Gottlob Ernst Würzner
+----------------
+Carl Gottlieb Ulbricht
+Traugott Friedrich Fischer
+1853
+Ernst Gottlieb Müller
+Carl Gottlob Liebscher
+----------------
+Christian Friedrich Erler
+Friedrich August Hähnel
+Carl Friedrich Wilhelm Träger
+Friedrich August Neubert
+Carl August Ulbricht
+----------------
+Gustav Fürchtegott Martin
+Carl Friedrich Illgen
+Carl August Freyer
+Carl August Schmieder
+Carl Wilhelm Müller
+Georg Heinrich Braun
+----------------
+1854
+Clemens Theodor Fischer
+Johann Heinrich Grießbach
+Carl Friedrich Wilhelm Scheumann
+Ernst Friedrich Dietze
+Carl Heinrich Straßburger
+Carl Traugott Mehner
+----------------
+August Friedrich Köhler
+Friedrich Fürchtegott Fischer
+Carl Gottlieb Schlegel
+Carl Gottlieb Ernst Barsch
+Carl Friedrich Erler
+----------------
+Friedrich Gotthold Barthel
+Carl Gottlob Franke
+1855
+Carl August Erler
+----------------
+Carl August Arnold
+Carl Friedrich Träger
+1856
+Carl Friedrich Kaden
+Carl Gottlieb Gläser
+----------------
+Fürchtegott Leberecht Mäder
+Carl Ehregott Neubert
+Johann David Traugott Erler
+Carl Friedrich Braun
+Ernst Wilhelm Göhlert
+----------------
+Ehrlieb Gottlob Klemm
+Carl Gottlieb Götzelt
+Carl Friedrich Braun
+1857
+Friedrich August Arnold
+----------------
+Carl Wilhelm Rewald
+Carl Liebegott Neubert
+Carl August Friedrich Dietze
+Heinrich Wilhelm Richter
+Ernst Ferdinand Haubold
+----------------
+Ernst Ferdinand Rehwald
+Carl Heinrich Potzger
+Gustav Clemaus Spielhaus
+Friedrich Wilhelm Dietrich
+Carl Gottlob Walther
+----------------
+Carl Heinrich Ziegner
+1858
+Carl August Großhanns
+Carl Friedrich August Götzelt
+Carl Friedrich Mehner
+Heinrich Wilhelm Walther
+----------------
+Carl August Ulbricht
+Carl Friedrich Rochlitzer
+Adam Friedrich Wilhelm Braun
+Johann Gottlob Bernd
+Traugott Friedrich Götzelt
+----------------
+Friedrich Ehregott Fischer
+Carl Gottlieb Keller
+Johann Gottfried Fleischer
+Carl Heinrich Bellmann
+Ernst Eduard Fischer
+Johann Christian Traugott Braun
+----------------
+Carl Gottlob Jäkel
+Friedrich Ehregott Heinrich
+1859
+Carl Gottlieb Trinks
+Carl Traugott Viererben
+----------------
+Johann Carl August Walther
+Johann Carl August Lorenz
+Friedrich Wilhelm Erler
+Heinrich August Erler
+August Louis Scheumann
+----------------
+Anton Ferdinand Hase
+Gottlob Friedrich Kuhnert
+Friedrich August Richter
+Carl Ernst Dienel
+Paul Christoph Sandig
+----------------
+Carl Friedrich Dietrich
+---------------- x6
 1831
 Carl Gottfried Leubner
 Johann Gottlob Bäsler
@@ -383,7 +531,94 @@ August Friedrich Oehme
 Carl Fürchtegott Kunze
 Friedrich Gottlieb Butze
 Friedrich Leberecht Zimmermann
----------------- x19
+----------------
+1850
+Carl Traugott Schramm
+Carl Gottlieb Wenzel
+Friedrich Heinrich Göhler
+Carl Leberecht Wilisch
+Friedrich Ferdinand Thiele
+Friedrich Gotthelf Weichelt
+----------------
+Friedrich Wilhelm Müller
+Carl Ernst Berthold
+Carl Friedrich Hähnel
+Carl August Fürchtegott Braun
+Christian Friedrich Ehregott Kahl
+----------------
+1851
+Gottlob Friedrich Helbig
+Carl Friedrich Beyer
+Carl Friedrich Horn
+Christian Leberecht Zeller
+August Friedrich Lindner
+Carl August Lorenz
+----------------
+1852
+Carl Gottlieb Erler
+Carl August Kunze
+Carl August Schwarze
+Ehregott Ferdinand Krummbiegel
+Carl August Friedrich Walther
+----------------
+Carl Gottlieb Bäßler
+1853
+Christoph Wilhelm Seidler
+Carl Gottlieb Neubert
+----------------
+Carl August Friedrich Schiffel
+Christian Gottfried Neubert
+Ferdinand Leberecht Frizsche
+1854
+Clemens Theodor Fischer
+----------------
+Johann Carl Traugott Thiele
+1855
+Carl Friedrich Rupprecht
+Carl Friedrich Ferdinand Schindler
+----------------
+Johann Gottlieb Helbig
+1856
+Traugott Fürchtegott Krummbiegel
+Friedrich Ehregott Fischer
+Christian Friedrich Fuchs
+----------------
+Carl Friedrich Heinzmann
+1857
+Carl Gottlieb Eilzer
+Friedrich Wilhelm Mehner
+August Ferdinand Wilhelm Göpfert
+----------------
+Carl Gottfried Felber
+1858
+Carl Gottlob Schmidt
+Carl Ehregott Ferdinand Fischer
+Carl Heinrich Arnold
+----------------
+Carl Julius Kaltofen
+Carl Gottlieb Günzel
+Carl Heinrich Dietrich
+Carl Heinrich Eilzer
+Carl August Butze
+Friedrich August Hänlein
+----------------
+Heinrich Eduard Berndt
+1859
+Traugott Friedrich Beyer
+Ehregott Fürchtegott Leberecht Zeun
+Carl Heinrich Köhler
+----------------
+Friedrich Maximilian Grünberg
+Carl Gottlob Friedrich Richter
+August Wilhelm Fischer
+Johann Michael Rochlitzer
+Carl Ferdinand Fröbel
+----------------
+Traugott Friedrich Böhme
+Johann Carl August Erler
+Carl Eduard Koch
+Carl August Kaltofen
+---------------- x5
 1831
 Carl Friedrich Müller
 Friedrich August Hänel
@@ -484,3 +719,58 @@ Friedrich Wilhelm Porstendorfer
 1849
 Carl Traugott Richter
 Carl Friedrich Morgenstern
+----------------
+1850
+Carl Friedrich Porstendorfer
+Friedrich Ferdinand Fischer
+Heinrich Gotthelf Wittig
+Johann Gottlieb Lorenz
+Johann Heinrich Porstendorfer
+----------------
+Johann Joseph Walther
+Carl August Porstendorfer
+Johann Traugott Feller
+Carl August Fischer
+----------------
+1851
+Ehregott Friedrich Feller
+Johann August Künzel
+1852
+Carl Friedrich Lehmann
+Carl Friedrich Fürchtegott Richter
+----------------
+Carl Friedrich Martin
+1853
+Liebegott Leberecht Martin
+Carl Friedrich Wilhelm Kunze
+1854
+Carl Friedrich Fürchtegott Richter
+----------------
+Friedrich Wilhelm Vogel
+Carl Wilhelm Ihle
+Carl Gottlieb Grumpelt
+1855
+Carl Friedrich Porstendorfer
+----------------
+Carl Gotthold Schubert
+Carl Gottlieb Weichelt
+Heinrich Wilhelm Fleischer
+1856
+Carl Moritz Küchenmeister
+Leberecht Anton Wickmann
+----------------
+1857
+Friedrich Ferdinand Potzger
+Ernst Wilhelm Moritz Potzger
+Christian Friedrich Winkler
+Ernst Friedrich Claußnitzer
+1858
+Carl Ernst Thiele
+Wilhelm Friedrich Kluge
+----------------
+Carl Gottlieb Heinrich
+1859
+Carl Fürchtegott Fischer
+Ernst Wilhelm Eduard Potzger
+August Friedrich Grießbach
+Friedrich Gottlob Arnold
