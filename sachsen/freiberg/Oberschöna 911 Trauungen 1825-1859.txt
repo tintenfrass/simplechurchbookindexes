@@ -1,5 +1,5 @@
 Oberschöna (Buch 911)
-Trauungen 1825-1849
+Trauungen 1825-1859
 https://www.archion.de/de/viewer/churchRegister/360091?pageId=50715957
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Oktober 2024
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -519,3 +520,275 @@ Gottlieb Israel Büttner
 Carl Gottlieb Kunze
 ----------------
 Carl Friedrich Griesbach
+1850
+Johann Samuel Ulbricht
+Ernst Carl Friedrich Straube
+Carl Friedrich Böttcher
+----------------
+Carl August Teistler
+Friedrich August Noack
+Carl Friedrich Obendorf
+Ernst Friedrich Erler
+Friedrich Wilhelm Pomsel
+----------------
+Traugott Leberecht Uhlmann
+Ehregott Pfeifer
+Carl Ferdinand Uhlmann
+Julius Eduard Bliemel
+Carl August Koch
+----------------
+Israel Reh
+Carl Gottlob Straube
+Ernst Friedrich Uhlemann
+Carl Ferdinand Helbig
+Johann Traugott Schmidt
+----------------
+Friedrich August Thiele
+August Louis Schubert
+Johann Georg Heinrich Märker
+Friedrich Ehregott Otte
+Carl Albrecht Schubarth
+----------------
+1851
+Carl Gottlob Rülke
+Gottlieb Friedrich Weichert
+Heinrich Uhlemann
+Carl Gotthold Andreas
+August Wilhelm Liebe
+----------------
+August Wilhelm Rosin
+Carl August Pöschel
+Friedrich Adolph Gernegroß
+Christian Eduard Voigt
+Ernst Eduard Göpfner
+----------------
+Friedrich Eduard Göpfner
+Samuel Friedrich Börner
+Friedrich Julius Rost
+Carl Gottlieb Ilzig
+Friedrich Ferdinand Thieme
+----------------
+Christian Friedrich Hähnel
+Ernst Gustav Wagner
+Ernst Julius Hofmann
+Carl Traugott Kahl
+Nicolaus Tritzschler
+----------------
+1852
+Carl August Fischer
+Carl Friedrich Heinzmann
+Carl Gotthold Berndt
+Carl Gottlob Müller
+Samuel Ernst Thiele
+----------------
+Carl August Lange
+Ernst Heinrich Haase
+Carl August Gläser
+Christian Traugott Thieme
+Heinrich Wilhelm Haselbach
+----------------
+August Friedrich Haase
+Heinrich Gotthelf Hübner
+Friedrich Fürchtegott Fritzsche
+Friedrich Ferdinand Forberger
+Ernst Wilhelm Vogel
+----------------
+Carl Herrmann Naujek?
+Friedrich August Oswald
+Carl Adolph Seidel
+Carl Adolph Wildfeuer
+Johann Samuel Berndt
+----------------
+Carl Gotthelf Fritzsche
+Traugott Friedrich Göhler
+1853
+Johann Ehrenfried Dreßler
+Friedrich Wilhelm Paßon
+Carl Heinrich Mahler
+----------------
+Friedrich Hironimus Wildfeuer
+Friedrich Wilhelm Höpfner
+Carl Wilhelm Friedrich John
+Carl Ehregott Seidel
+Friedrich Wilhelm Hopfgarten
+Carl Gottfried Richter
+----------------
+Johann Wilhelm Heinze
+Johann Friedrich Haubold
+Carl Ehregott Eichert
+Carl Friedrich Rüger
+Adam Gustav Opitz
+----------------
+Carl Ferdinand Ziehnert
+Carl Traugott Heinrich Göhler
+Carl Wilhelm Obenau
+Johann Ferdinand Straube
+Carl Friedrich Schreiber
+Franz Joseph Tiebel
+----------------
+Friedrich August Lange
+Gottlieb Grünewald
+Carl Gebegott Wüstner
+1854
+Samuel August Wagner
+----------------
+August Händler
+Carl Gottfried Seidel
+Carl August Berndt
+Herrmann Heinrich Göpfner
+Carl Friedrich Fleischer
+Johann Gottlieb Uhlig
+Christian Friedrich Behnisch
+----------------
+Ehregott Friedrich Keßler
+Carl August Porstendorfer
+Carl Friedrich Zimmermann
+Christian Friedrich Kröhnert
+Friedrich Moritz Göhler
+Carl Adolph Hubricht
+Johann Friedrich Samuel Schiffler
+----------------
+Carl Samuel Lohse
+Friedrich Adolph Hubricht
+Carl Heinrich Fischer
+Carl Ewald Schulze
+Georg Carl Jobst
+Carl Leberecht Pfeifer
+----------------
+Carl August Müller
+August Friedrich Wilhelm Rülke
+1855
+Ernst Wilhelm Schlenkrich
+Wilhelm Ernst Oswald
+----------------
+Carl August Tamm
+Carl Friedrich Schubert
+August Ernst Oehme
+Carl Ernst Wagner
+Carl August Beier
+Carl Ernst Bartzsch
+----------------
+August Friedrich Neubert
+Georg Gottfried Göhler
+Friedrich Wilhelm Meyer
+Friedrich Moritz Scheunert
+Carl Benjamin Dietrich
+Carl Gottlob Wilhelm Bieber
+----------------
+Carl Gottlob Weise
+Ernst Friedrich Lange
+Carl Moritz Meyer
+1856
+Christian Gottlieb Richter
+Friedrich Wilhelm Helbig
+Johann August Wange
+----------------
+Wilhelm Friedrich Hofmann
+Corad? Friedrich Lange
+Christian Friedrich Drummer
+Ernst Julius Forberger
+Ernst Wilhelm Wirth
+Carl August Butter
+----------------
+Ernst Julius Heinzmann
+Samuel Herrmann Hubricht
+Traugott Friedrich Lippmann
+Carl Heinrich Schmidt
+Carl Gottlieb Götzelt
+Franz Philipp Scholz
+----------------
+Carl Gotthold Berndt
+Carl Friedrich Muster
+Friedrich August Rost
+Carl Ernst Muster
+1857
+Carl Gottlob Zimmermann
+----------------
+Carl Eduard Kämpte
+Carl Gottlieb Morgenstern
+Heinrich Julius Franz
+Johann Gottfried Rost
+Carl Ferdinand Heinze
+----------------
+Ernst Julius Pfeifer
+Carl Liebegott Neubert
+Gustav Adolph Leonhardt
+Ernst Adolph Sind?
+Friedrich Herrmann Franke
+Carl Gottfried Roßiger
+----------------
+Gotthelf Eduard Meyer
+Carl Gotthelf Wagner
+Louis Albrecht Ficker
+Carl Friedrich Fedgenhäuer
+August Edmund Granert
+Carl August Rudolph
+----------------
+Carl August Hoyer
+1858
+Carl Gottlob Haubold
+Ernst August Schröder
+Gottlieb Heinrich Oswald
+----------------
+Otto Schenck
+Eduard Friedrich Ficker
+Leberecht Werner Schröder
+Carl Adolph Lange
+Ernst Louis Schröter
+----------------
+Carl Heinrich Schmieder
+Adam Friedrich Dersch
+Friedrich Reinhold Schenk
+Heinrich Adolph Opitz
+Carl Gotthelf Mai
+Friedrich Oswald Ihle
+Johann Friedrich Conrad Walther
+----------------
+Ernst Herrmann Wächter
+Heinrich Gretschel
+Carl August Hofmann
+Carl Adolph Teistler
+Carl August Butze
+Carl Wilhelm Zaspel
+----------------
+Carl Wilhelm Ernst Franz
+Traugott Leberecht Oesterreich
+Maximilian Ernst Carlowitz
+Heinrich Eduard Berndt
+Carl Friedrich Haubold
+----------------
+1859
+Heinrich Wilhelm Hofmann
+Carl Gottlieb Barthel
+Carl Gottlob Främer
+Ernst Edmund Zimmermann
+Carl Friedrich Helbig
+Heinrich Wilhelm Scheunpflug
+----------------
+Carl Friedrich Wilhelm Johne
+Friedrich Adolph Metzler
+Carl Friedrich Leipner
+Julius Ludwig Schneider
+Friedrich August Kreller
+Carl Heinrich Wilhelm Barth
+----------------
+Ernst Friedrich Beyer
+Ernst Wilhelm Uhlemann
+David Daniel Dietze
+Ernst Wilhelm Hubricht
+Friedrich Wilhelm Ferdinand Zeuner
+----------------
+August Heinrich Schilling
+Friedrich Wilhelm Kemter
+Theodor Ernst Gehrhardt
+Adolph Wilhelm Müller
+Moritz Herrmann Köhler
+----------------
+August Robert Emil Haferkorn
+August Klippgen
+Carl Friedrich Kirsch
+Carl August Meyer
+Friedrich Wilhelm Dittrich
+----------------
+Johann Gottlieb Fürchtegott Timmel
+Friedrich August Steiger

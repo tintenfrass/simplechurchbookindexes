@@ -1,5 +1,5 @@
 Mulda (Buch 283)
-Trauungen 1836-1849
+Trauungen 1836-1859
 https://www.archion.de/de/viewer/churchRegister/360015?pageId=50701011
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -314,3 +315,231 @@ Johann Gottlob Kummer
 ----------------
 Carl Friedrich Rudolph
 Johann Gottlob Kunze
+1850
+Friedrich Wilhelm Siegert
+----------------
+Carl August Thiele
+Ernst Wilhelm Kluge
+Adam Friedrich Fischer
+Carl Friedrich August Hähnel
+----------------
+Carl Gottlieb Leberecht Krause
+Johann Traugott Feller
+Johann Gottlieb Erler
+Carl Gottlob Richter
+----------------
+Gottlieb Friedrich Buschmann
+Carl August Fischer
+Carl Friedrich Mehnert
+Wilhelm Friedrich Wolf
+----------------
+Friedrich Ehregott Otte
+1851
+Traugott Grießbach
+Carl August Hegewald
+----------------
+Carl Heinrich Hähnel
+Carl Traugott Liebscher
+Carl August Börner
+----------------
+Friedrich Wilhelm Göpfert
+Samuel Friedrich Ulbricht
+Carl Gottlob Schubert
+----------------
+Carl August Gelfert
+Fürchtegott Leberecht Braun
+Julius Alexander Kreyßel
+----------------
+Carl Ernst Dietrich
+Johann Gottlieb Böhme
+Carl Gottlieb Morgenstern
+----------------
+Carl August Fischer
+Johann Carl Ernst Stein
+Carl Leberecht Bellmann
+----------------
+1852
+Carl Wilhelm Timmler
+Carl Friedrich Schmieder
+Gottlieb Traugott Göpfert
+----------------
+Carl Gottlob Arnold
+Christian Heinrich Richter
+Heinrich Gotthelf Hübner
+----------------
+Friedrich Anton Drechsler
+Ernst Heinrich Braun
+Johann Gotthelf Leberecht Jentzsch
+Carl Traugott Burckhardt
+----------------
+1853
+Friedrich Fürchtegott Herklotz
+Christian Traugott Walther
+Carl August Fröhlich
+Carl Friedrich Wilhelm Träger
+----------------
+Carl Heinrich Müller
+Carl Gottfried Lippmann
+Ernst Julius Burkhardt
+----------------
+Friedrich Traugott Börner
+August Adolph Egg
+Carl Gottlieb Fischer
+Carl Friedrich Böttcher
+----------------
+Friedrich Traugott Eckhardt
+Friedrich Louis Uhlig
+Christian Friedrich Andreas
+----------------
+Carl Eduard Kluge
+Carl August Plunert
+Christian Gottlieb Walther
+----------------
+Carl Gottfried Timmel
+1854
+Franz Anton Wobst
+Friedrich Wilhelm Vogel
+----------------
+Carl Friedrich Kannegießer
+Friedrich Wilhelm Ramm
+Johann Heinrich Pfeifer
+Johann Gottlieb Wilhelm Leutritz
+----------------
+Carl Christian Gottlob Weigelt
+Georg Herrmann Wagner
+Ernst Wilhelm Hübner
+Ehregott Friedrich Keßler
+----------------
+Carl Gottlieb Ernst Barsch
+Carl Ernst Eichler
+Heinrich Ernst Börner
+----------------
+Carl Herrmann Wolf
+Carl Gottlob Richter
+Carl August Fritzsche
+----------------
+Wilhelm Friedrich Bergmann
+Traugott Friedrich Barsch
+Traugott Ferdinand Müller
+----------------
+Carl Gottlieb Bellmann
+1855
+Friedrich Wilhelm Fröbel
+Christian Friedrich Gube
+----------------
+Friedrich Julius Schmieder
+Carl Gottlieb Weichelt
+Fürchtegott Heinrich Fischer
+Carl Friedrich Heerklotz
+----------------
+Friedrich Moritz Louis
+Friedrich Wilhelm Körner
+Friedrich Wilhelm Ramm
+Johann Wilhelm Donat
+----------------
+Friedrich Ehregott Scheinpflug
+1856
+Carl Gottlieb Schneider
+Carl Gottlieb Kaden
+----------------
+Christian Gotthold Beckert
+Carl Ehregott Neubert
+Carl Friedrich Hähnel
+Traugott Fürchtegott Buze
+----------------
+Carl Ernst Schmieder
+Friedrich Wilhelm Dienel
+Gotthelf Clemens Wagner
+Friedrich Fürchtegott Schröder
+----------------
+Eduard Engelhard Körner
+1857
+Johann Carl Friedrich Börner
+Gottlieb Friedrich Lempe
+----------------
+Christian Friedrich Kästner
+Adam Gottlieb Fürchtegott Hegewald
+Fürchtegott Leberecht Neubert
+----------------
+Friedrich Ernst Seyffert
+Friedrich Gottlieb Schiller
+Friedrich Ernst Schaal
+Gottlob Friedrich Mäder
+----------------
+Carl Heinrich Herrmann
+Johann Gottfried Eduard Müller
+Heinrich Ernst Börner
+Carl August Glöckner
+----------------
+Friedrich Wilhelm Dietrich
+Heinrich Ernst Börner
+Carl Gottlieb Wolf
+Carl Heinrich Ernst Buze
+----------------
+Friedrich Traugott Bellmann
+1858
+Carl Fürchtegott Eichler
+Julius Wilhelm Hähnel
+Carl Reinhard Göhler
+----------------
+Carl Friedrich Leipner
+August Louis Körner
+Carl Gottlob Schmieder
+Traugott Friedrich Feller
+----------------
+Eduard Magnus Schlegel
+Friedrich Fürchtegott Hegewald
+Carl Friedrich Wilhelm Schmieder
+Carl Ernst Träger
+----------------
+Carl Friedrich Körner
+Carl Heinrich Wilhelm Schubert
+Carl Friedrich Wilhelm Erler
+----------------
+August Friedrich Müller
+Carl Ernst Thiele
+Wilhelm Friedrich Kluge
+Traugott Friedrich Hähnel
+----------------
+Heinrich Gottlob Franke
+Carl Friedrich Mattheß
+Carl Traugott Dietrich
+Ernst Julius Schlesier
+----------------
+Carl Gottlob Barsch
+Carl August Erler
+Friedrich Ernst Dittrich
+----------------
+Carl Friedrich Vogel
+Heinrich Wilhelm Werner
+Traugott Leberecht Bartzsch
+Friedrich Gottlieb Sahre
+----------------
+Carl Friedrich August Erler
+Friedrich Ernst Grundmann
+1859
+Carl Traugott Philipp
+Traugott Friedrich Bernd
+----------------
+Carl Friedrich Wilhelm Fischer
+Johann Carl August Walther
+Traugott Friedrich Dietrich
+Carl Traugott Gehmlich
+----------------
+Friedrich Ehregott Hötzel
+August Wilhelm Köhler
+Carl Gottlieb Barsch
+Ernst Friedrich Wilhelm Vogel
+----------------
+Friedrich Fürchtegott Ramm
+August Friedrich Arnold
+Ernst Fürchtegott Böhme
+Carl Ernst Burckhardt
+----------------
+Carl Ernst Dienel
+Carl Ernst Andreas
+Carl Friedrich Wilhelm Fischer
+----------------
+Carl Friedrich Dietrich
+Johann Heinrich Helbig
+Carl Wilhelm Eichler
