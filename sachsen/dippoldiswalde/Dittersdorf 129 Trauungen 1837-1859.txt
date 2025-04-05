@@ -1,5 +1,5 @@
 Dittersdorf (Buch 129)
-Trauungen 1837-1849
+Trauungen 1837-1859
 https://www.archion.de/de/viewer/churchRegister/294217?pageId=40869484
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -198,3 +199,157 @@ Carl Gottlob Erhard
 Wilhelm August Köhler
 Friedrich Wilhelm Wustlich
 Johann Gotthelf Bobe
+----------------
+1850
+Johann Wilhelm Tzschöckel
+Carl Heinrich Holfert
+Carl Gottlob Reichel
+Carl Gottlieb Heinrich
+Christlieb Heinrich Ferdinand Mühle
+----------------
+Karl Friedemann Seifert
+Eduard Friedrich Gäbler
+Carl Gottlieb Zeibig
+Johann Karl August Schubert
+Carl Gottlob Löwe
+----------------
+Karl Wilhelm Liebscher
+Karl Gottlieb Knoll
+Johann Gottlob Kühnel
+----------------
+1851
+Wilhelm Friedrich Ehrhardt
+Johann Karl Gottfried Kühnel
+Karl August Hofmann
+Johann Heinrich Eichler
+----------------
+Friedrich August Kimmel
+Carl Gottlieb Lehmann
+Carl Christoph Thalheim
+Friedrich August Löwe
+Carl Gottfried Müller
+----------------
+Carl Friedrich Traugott Löwe
+1852
+Johann Christoph Traugott Böhme
+Carl Gottlob Wagner
+----------------
+Johann Christlieb Schwenke
+Heinrich August Trübenbach
+Heinrich Friedemann Hauswald
+Johann Gottlieb Paul
+Karl Julius Leopold Hohenthal
+----------------
+Johann Friedrich August Maul
+Karl Friedrich Fürchtegott Herzog
+1853
+Johann Gottlieb Wolf
+Karl August Tute
+----------------
+Karl Gottlieb Schönberger
+Friedrich Ernst Grahl
+Karl Eduard Bürger
+Gottlieb Heinrich Müller
+Karl August Stock
+----------------
+Karl Robert Kühnel
+Johann Gottlob Schulze
+Friedrich August Adolph Schneider
+Karl Gottlieb Heilfurth
+Karl Friedrich August Leupert
+Karl Gottlieb Böhme
+----------------
+Gustav Ernst Emanuel Meinhold
+Johann Gottlob Klepsch
+Eduard Ernst Strauß
+1854
+Christian Ehregott Bobe
+----------------
+Karl Friedrich Heinrich Gutte
+Johann Christian Moritz Hornburg
+Friedrich Wilhelm Lehmann
+Wilhelm Ehregott Müller
+Johann Gottfried Schwenke
+----------------
+Friedrich August Mühle
+1855
+Friedrich Alexander Bachmann
+Karl Heinrich Franke
+Johann Christian Traugott Bellmann
+----------------
+Johann Gottlieb Ranft
+Karl Gottlob Legler
+Christian Ehregott Bobe
+Karl August Heinrich Thomas
+Ehregott Leberecht Grahl
+----------------
+Karl Gottfried Grahl
+Ernst August Kranz
+Karl Gottfried Klieber
+Karl Gottlieb Mühle
+----------------
+Karl Friedrich Kühnel
+1856
+Karl Friedrich August Rehn
+Gottlieb Adolph Schwenke
+Gottlob Heinrich Jäpel
+----------------
+Karl Gottlieb Bobe
+Heinrich Wilhelm Lohse
+Karl Gottlieb Knauthe
+Gustav Ferdinand Klotz
+----------------
+1857
+Ernst Friedrich Wilhelm Schmidt
+Ernst Friedrich Wilhelm Gerber
+Friedrich Wilhelm Kümmel
+Johann Gottfried Köhler
+----------------
+Heinrich Leberecht Zillcher
+Karl Moritz Nitzsche
+Johann Christlieb Schwenke
+Johann Moritz Uhlig
+----------------
+Gottfried Ehregott Hesse
+Karl Gottlob Zimmermann
+Friedrich August Müller
+Johann Gottlob Klotz
+----------------
+Ernst Wilhelm Bretschneider
+1858
+Karl Gottlob Hanke
+Gustav Ernst Immanuel Meinhold
+----------------
+Johann Karl Friedrich Künzel
+Ernst Ferdinand Grahl
+Johann Christlieb Kleinert
+Karl Friedrich Bährisch
+----------------
+Ernst Gustav Müller
+Friedrich Gottlieb Mildner
+Karl August Geißler
+Johann Gottfried Gliemann
+----------------
+Friedrich August Legler
+Julius Eduard Grahl
+Johann Gotthelf Hahmann
+Friedrich August Hauswald
+----------------
+1859
+Gottlob Friedrich Holfert
+Friedrich Wilhelm Scheinert
+Paul Wilhelm Eberth
+----------------
+Karl Friedrich Nitzsche
+Heinrich Gottlieb Schreiber
+Friedrich August Tzscharschuch
+Karl Friedrich Weinhold
+----------------
+Ernst Ferdinand Mühle
+Ernst Wilhelm Jäpel
+Karl August Seifert
+Johann Ferdinand Ernst Bellmann
+----------------
+Friedrich Wilhelm Büttner
+Karl Gottlieb Böhmert
+Karl Friedrich Kunath

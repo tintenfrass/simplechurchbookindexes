@@ -1,5 +1,5 @@
 Bärenstein (Buch 24)
-Trauungen 1827-1849
+Trauungen 1827-1859
 https://www.archion.de/de/viewer/churchRegister/294130?pageId=40851167
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Oktober 2024
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -333,3 +334,194 @@ Johann Gottlieb Bretschneider
 Wilhelm August Köhler
 Karl Gottlieb Mende
 Gottlob Friedrich Walther
+1850
+Karl Friedrich Mende
+Karl Friedrich Gößel
+----------------
+Ernst Julius Eichler
+Friedrich August Mende
+Friedrich August Zilger
+Christian Friedrich Paps
+Christian Friedrich Hillig
+Karl Friedrich Holzmüller
+----------------
+Karl Gottlieb Aßmann //korrigiert
+Karl Friedrich Traugott Mende
+Friedrich Wilhelm Ruffani
+Heinrich Friedrich Estler
+Karl Magnus Leonhardt
+Karl Gottlieb Schwenke
+----------------
+Johann Christoph Herfurth
+Ludwig Berthold Leonhardt
+Karl Friedrich August Schütze
+----------------
+1851
+Karl Friedrich Schwenke
+Traugott Leberecht Hofmann
+Ernst Moritz Barth
+Gustav Adolph Hermann
+Karl Gottlob Traugott Seifert
+Karl Gotthelf Leberecht Ehregott Estler
+----------------
+Friedrich Ehregott Günther
+Karl Friedrich August Hickmann
+Friedrich Daniel Lehnert
+Karl Gottlob Geisdorf
+Martin Andreas Böttge
+Friedrich Ehregott Schmidt
+----------------
+Karl August Dittrich
+Johann Gotthelf Crönerz
+Ernst Karl August Klemmer
+Johann Gottfried Kühnel
+Carl Gottlieb Mende
+----------------
+1852
+Carl Friedrich Reppchen
+Friedrich Wilhelm Schumann
+Carl Anton Zieger
+Johann Julius Herrmann
+Carl August Stephan
+Heinrich Wilhelm Walther
+Karl Heinrich Schwenke
+----------------
+Gotthard Benjamin Brauer
+Georg Erdmann Dietrich Volger
+Carl Friedrich Schwenke
+Carl Traugott Mende
+Carl Traugott Iltzsche
+Carl Gottlieb Seifert
+----------------
+Carl August Ludwig Mende
+Ehregott Friedrich Börner
+----------------
+1853
+Traugott Leberecht Seifert
+Georg Friedrich August Boden
+Carl Friedrich Weichold
+Carl Ehregott Hickmann
+Eduard Friedrich August Rentsch
+----------------
+Franz Friedrich Fischer
+Carl Heinrich Ebert
+Johann Friedrich Pretschner
+Friedrich August Bretschneider
+Friedrich August Müller
+----------------
+Carl Ernst August Kohl
+Traugott Leberecht Schütze
+Johann Friedrich Hickmann
+----------------
+1854
+Wilhelm Adolph Conrad Kaden
+August Theodor Müller
+Johann Eduard Seidel
+Emanuel Heinrich Glaß
+Carl August Mathe
+----------------
+Friedrich August Tiebel
+Carl Gottlieb Liebeheim
+Friedrich August Braune
+Conrad Friedrich Schütze
+Julius Gottlob Schwarz
+----------------
+1855
+Carl Martin Herrmann Petzold
+Friedrich August Gutte
+Carl August Goltzsche
+Carl August Mauersberger
+Traugott Leberecht Mende
+----------------
+Carl August Kohl
+Friedrich August Meißner
+Carl August Schwenke
+Carl Heinrich Richter
+Christian Friedrich August Feustel
+----------------
+Carl Wilhelm Straßberger
+Johann Gottfried Ebert
+1856
+Friedrich Herrmann Wagner
+----------------
+Carl Gottlob Meißner
+Johann Carl Gottlieb Mehnert
+August Friedrich Busch
+Friedrich August Schwenke
+----------------
+Johann Christlieb Ehregott Pellmann
+Carl Gotthelf Beil
+Friedrich August Brunsch
+Carl Friedrich August Legler
+----------------
+1857
+Carl Gottlob Kranke
+Christian Ehregott Hickmann
+Johann Gottlieb Fischer
+Carl Friedrich Seifert
+Johann Gottfried Wolf
+----------------
+Adolph Moritz Schmidt
+Franz Robert Fleck
+Christoph Heinrich Löwe
+Carl Gottlob Geisdorf
+----------------
+Carl Albrecht Meutzner
+Carl Traugott Klotzsche
+Christian Gottlieb Gubsch
+Friedrich Adolph Schildbach
+----------------
+Friedrich Herrmann Kegel
+Adolph Julius Süßemilch
+Heinrich Gottfried Oelschlägel
+Carl Friedrich August Salomon
+----------------
+Carl Gottlieb Reichel
+Moritz Herrmann Schwenke
+Carl Friedrich Weichold
+----------------
+1858
+Gottlob Leberecht Mende
+Johann Gottlieb Ebert
+Friedrich August Louis Claußnitzer
+Carl Gottlieb Zuchold
+----------------
+Carl Friedrich August Schwenke
+Gustav Moritz Hoffarth
+Friedrich Ehregott Mende
+Friedrich August Oelschlägel
+----------------
+Carl Gottlob Müller
+Carl Friedrich Herrmann Mende
+Carl August Klemmer
+Emmanuel Heinrich Glas
+Adolph Moritz Schmidt
+----------------
+Johann Christoph Herfurth
+Friedrich August Hickmann
+Friedrich Traugott Donath
+Traugott Leberecht Hofmann
+----------------
+1859
+Friedrich Wilhelm Laubert
+Johann Heinrich Paul
+Carl Gottlieb Trepte
+Friedrich Wilhelm Ferdinand Kadner
+----------------
+Carl Gotthelf Stephan
+Carl Gottlob Schwenke
+Paul Wilhelm Eberth
+----------------
+Franz Louis Lindner
+Carl Friedrich August Schwenke
+Carl Gottfried Wustmann
+Christian Gottlieb Lehmann
+----------------
+Friedrich Wilhelm Thiersch
+Carl Julius Aulhorn
+Julius Heinrich Schneider
+Wenzel Ritschel
+Carl August Böhme
+----------------
+August Wilhelm Böhme
+Johann Christian Schelle

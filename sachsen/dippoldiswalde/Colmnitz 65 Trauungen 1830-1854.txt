@@ -1,5 +1,5 @@
 Colmnitz (Buch 65)
-Trauungen 1830-1849
+Trauungen 1830-1854
 https://www.archion.de/de/viewer/churchRegister/294162?pageId=40856565
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -522,3 +523,164 @@ Carl Friedrich August Walther
 Benjamin Traugott Timmel
 Carl Friedrich Zimmermann
 Johann Gottlob Klügel
+----------------
+1850
+Carl Friedrich Haschke
+Carl Gottlieb Börner
+August Friedrich Köhler
+Johann Gottlieb Weint
+Carl Wilhelm Beckert
+Franz August Prakatzsch
+Friedrich Herrmann Beckert
+----------------
+Johann Friedrich Wilhelm John
+Daniel Christoph Böhme
+Carl Wilhelm Renner
+Franz Herrmann Beyer
+Gottlieb Friedrich Zimmermann
+Ernst Moritz Schönherr
+Carl Samuel Fürchtegott Böhme
+----------------
+Johann Gottlob Börner
+Wilhelm Friedrich Klemm
+Johann Gotthelf Aßmann
+Carl Friedrich Lieber
+Carl Ernst Spörke
+Johann Samuel Scheumann
+Karl Heinrich Hofmann
+----------------
+Carl Friedrich Wagner
+Johann Wilhelm Dietze
+Carl August Fischer
+Carl Gottlob Lippmann
+Johann Lobegott Böhme
+Carl Gotthelf Baumgarten
+----------------
+Carl Gottlieb Schiffel
+----------------
+1851
+Carl Gottlieb Börner
+August Gotthelf Klemm
+Carl Fürchtegott Lohse
+Johann Samuel Köhler
+August Heinrich Wilhelm Göhler
+Carl Gottfried Schäfer
+Johann Wilhelm Weichelt
+----------------
+Johann Gottfried Reichelt
+Friedrich August Pellmann
+Johann Gotthelf Lotze
+Carl Gottlob Lieber
+Johann Gottlieb August Höltzel
+Franz Wilhelm Beyer
+Carl Gottlieb Böhme
+----------------
+Carl Gottlieb Böhme
+Carl Gottlieb Merkel
+Johann August Fischer
+Johann Gottlieb Heinrich Lohse
+Carl Gottlieb Fischer
+Johann David Böhme
+Johann Christoph Erler
+----------------
+Johann Gottfried Böhme
+Carl August Fleischer
+Johann Samuel Gehmig
+Johann August Wilhelm Glöckner
+Carl Friedrich August Fischer
+Johann Gottlob Börner
+Johann Carl Christoph Lieber
+----------------
+Carl Friedrich Schmieder
+Johann Gottfried Soho
+Carl Friedrich Göhler
+Friedrich August Feller
+Carl Gottlob Kunze
+----------------
+1852
+Carl Gottlob Richter
+Johann Gottfried Erler
+Carl Gottlieb Preuß
+Johann Samuel Lieber
+Carl Gottlob Böhme
+Gottlob Friedrich Böhme
+Carl August Braun
+----------------
+Johann Gottfried Bellmann
+Carl Gottlob Dachsel
+Franz Emil Lothar Dzondi
+Carl Friedrich Böhme
+Friedrich August Böhme
+Johann Christoph Gahmig
+Johann Samuel Köhler
+Christian Heinrich Jungnickel
+----------------
+Emanuel Gottlieb Holfert
+Friedrich Wilhelm Böhme
+Carl Gottlieb Schiffel
+Carl Gottlieb Böhme
+Carl Friedrich Böhme
+Carl Gottlieb Baumgart
+Friedrich August Lieber
+----------------
+Johann Christoph Menzer
+Johann Samuel Lippmann
+Friedrich Wilhelm Aßmann
+Carl Friedrich Merkel
+----------------
+1853
+Carl Gottlieb Hamann
+Johann Friedrich Börner
+Johann Christian Adolph Döring
+Johann Gotthelf Lippmann
+Friedrich August Klemm
+Johann Gottlieb Geißler
+Carl Gottlieb Müller
+----------------
+Carl Gottlieb Hegewald
+Carl Traugott Mann
+Carl Gottlieb Schiffel
+Christian Friedrich Richter
+Friedrich Moritz Heschke
+Friedrich Christoph Schumann
+Friedrich Gottlob Schiffel
+----------------
+Carl Eugen Woydt
+Gottlieb Friedrich Weber
+Carl Wilhelm Strahl
+Friedrich Wilhelm Menzer
+Carl Gotthelf Hartmann
+Friedrich August Böhme
+Friedrich Gotthelf Schiffel
+----------------
+Johann Gottlieb Gahmig
+Carl Gottlieb Lieber
+----------------
+1854
+Carl Gottlieb Schmeisky
+Johann Daniel Kerndt
+Johann Gottlieb Hofmann
+Johann Carl Gottfried Weichelt
+Johann Samuel Lieber
+Carl Gustav Morgenstern
+Carl Friedrich Böhme
+----------------
+Carl Friedrich Franke
+Friedrich Adolph Baum
+Carl Friedrich Böhme
+Johann Friedrich Fehrmann
+Friedrich Lobegott Böhme
+Friedrich August Schönherr
+Johann Friedrich Baumgarten
+----------------
+Carl Friedrich Böhme
+Johann Gottfried John
+Carl Friedrich Wilhelm Ebert
+Johann Samuel Renner
+Friedrich August Böhme
+Friedrich Wilhelm Gelfert
+Johann Gottfried Lieber
+----------------
+Johann August Schmieder
+Johann Samuel Fischer
+Johann Gottfried Franke

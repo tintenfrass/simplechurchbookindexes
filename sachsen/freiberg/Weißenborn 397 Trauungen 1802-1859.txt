@@ -1,5 +1,5 @@
 Weißenborn (Buch 397)
-Trauungen 1802-1849
+Trauungen 1802-1859
 https://www.archion.de/de/viewer/churchRegister/360196?pageId=50736819
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ Juli 2024
 Oktober 2024
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -444,3 +445,121 @@ Carl Gottlieb Göbel
 ----------------
 Ferdinand Leberecht Hoyer
 Carl Friedrich Arnold
+1850
+Carl Friedrich Eckert
+----------------
+Carl August Böttcher
+Carl Friedrich Horn
+Johann Traugott Feldmann
+Carl Gottlieb Wolf
+----------------
+1851
+Carl Gottlieb Bellmann
+Johann August Horn
+Carl Gottlob Franz
+August Friedrich Jünger
+Traugott Friedrich Richter
+----------------
+Ernst Wilhelm Traugott Eckardt
+Johann Gottlieb Fleischer
+August Friedrich Reh
+Carl August Franz
+----------------
+Carl August Eduard Butze
+Gottfried Samuel Schröder
+Moritz Mehner
+----------------
+1852
+Wilhelm Leberecht Hoyer
+Carl Heinrich Fischer
+Franz Härtig
+Friedrich August Böhme
+Johann Christoph Schubert
+----------------
+Carl Julius Leopold Hohenthal
+Carl Gottlob Börner
+1853
+Carl Gottlob Böhme
+----------------
+Carl Adam Friedrich Fischer
+Gottlieb Julius Lindner
+Johann Gottfried Rudolph
+August Herrmann Grundmann
+----------------
+Friedrich Traugott Böhme
+Israel Köhler
+August Friedrich Kummer
+Friedrich Wilhelm Fritzsche
+----------------
+Carl Friedrich Kirschner
+Carl Gottfried Schneider
+Carl August Weigold
+----------------
+1854
+Carl Friedrich Kannegießer
+Friedrich Gottlieb Borrmann
+Carl Wilhelm Thiele
+Ernst Wilhelm Ferdinand Hammerschmidt
+August Louis Fischer
+----------------
+Carl Wilhelm Pötzsch
+Johann Gottlob Winkler
+Carl Friedrich Müller
+Carl Gotthelf Herrmann
+----------------
+1855
+August Ferdinand Findeisen
+Carl Ernst Bartzsch
+Friedrich Wilhelm Böhme
+Carl Friedrich Kannegießer
+----------------
+1856
+Gotthelf Heinrich Wolf
+Friedrich August Zimmermann
+Johann Friedrich Böhme
+Ferdinand Leberecht Hengst
+----------------
+1857
+Carl Adolph Zehl
+Gustav Ernst Hauke
+Ernst Wilhelm Moritz Potzger
+Friedrich Ferdinand Müller
+----------------
+Friedrich Fürchtegott Bellmann
+Carl Friedrich Hegewald
+Ernst Wilhelm Steinert
+Carl Friedrich Lohse
+Friedrich August Kirschner
+----------------
+Friedrich Ernst Götzel
+Heinrich Traugott Kästner
+Carl Friedrich Ganßauge
+----------------
+1858
+Ernst Wilhelm Köhler
+Carl Friedrich Göpfert
+August Clemens Hunger
+Julius Fürchtegott Eckardt
+----------------
+Gustav Louis Einert
+Carl Heinrich Ferdinand Müller
+Carl Friedrich August Krause
+Johann Traugott Leberecht Bartzsch
+----------------
+Carl Adolph Zehl
+1859
+Carl Fürchtegott Fischer
+Julius Valerius Oscar Heberlein
+----------------
+Johann Traugott Kannegießer
+Friedrich Wilhelm Weise
+Carl Friedrich Lohse
+Emilius Clemens Böhme
+----------------
+Christian Friedrich Fischer
+Carl Traugott Zimmermann
+Christian Friedrich Kannegießer
+Carl Traugott Arnold
+----------------
+Carl Wilhelm Stenzel
+Ernst Julius Braungardt

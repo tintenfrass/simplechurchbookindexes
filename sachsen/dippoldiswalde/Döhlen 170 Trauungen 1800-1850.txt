@@ -1,5 +1,5 @@
 Döhlen (Buch 170)
-Trauungen 1800-1849
+Trauungen 1800-1850
 https://www.archion.de/de/viewer/churchRegister/294252?pageId=40878708
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -12,6 +12,7 @@ Juli 2024
 Oktober 2024
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -2883,3 +2884,116 @@ Carl Gottfried Beckert
 Carl Traugott Grundmann
 ----------------
 Ernst Friedrich Wilhelm Winkler
+----------------
+1850
+Johann Gotthelf Reppe
+Gottlob Friedrich Beer
+Carl Friedrich Fischer
+Johann Christian Müller
+Johann Gotthelf Rühle
+Carl Traugott Waurich
+Carl August Frey
+Carl Gottfried Schlicke
+----------------
+Joseph Ferdinand Dreßler
+Friedrich August Patzig
+Carl Heinrich Garbe
+Andreas Biar
+Johann Schlemmer
+Gottlob Julius Wenzel
+Johann Carl Gottlieb Kühn
+Friedrich August Seidel
+----------------
+Carl Friedrich Wilhelm Winkler
+Friedrich August Wustlich
+August Friedrich Ludwig Lorenz
+Carl Gottfried Prüfer
+Johann Gottlieb Lembach
+Johann Carl Gottlieb Lehmisch
+Christian Joseph Büttner
+Carl August Gäbler
+----------------
+Heinrich Ernst Gottlob Kratz
+Christian Friedrich Keller
+Carl August Prüfer
+Johann Heinrich Traugott Holfert
+Johann Gottlieb Klügel
+Heinrich Wilhelm Körner
+Carl Friedrich Büttner
+Christian Heinrich Schneider
+Johann Friedrich Christoph Kannegießer
+----------------
+Johann Gottlieb Philipp
+Carl Gottfried Heinrich
+Friedrich Wilhelm Böhme
+Christian Erdmann Engelhardt
+Johann Christoph Petzold
+Carl August Pötzsch
+Christian Carl Mackeldei
+Carl Gottlieb Beger
+Carl Gottlieb Grüfer
+----------------
+Johann Gottfried Wilhelm Hartmann
+Carl August Welthe
+Friedrich Wilhelm Starcke
+Carl Ehregott Berger
+Carl Friedrich Traugott Werner
+Johann Gottlob Becker
+Carl August Herrfurth
+Heinrich Wilhelm Körner
+----------------
+Johann Gottlob Adolph Leutritz
+Christoph Traugott Peter Meyer
+Adolph Friedrich Geißler
+Friedrich Ernst Schaffrath
+Johann Gottlieb Petzold
+Johann August Lützner
+Johann Carl Ferdinand Welthe
+Carl Heinrich Silbermann
+Carl Gottlob Bieber
+----------------
+Gustav Leberecht Thomaß
+Carl August Rietschel
+Carl Wilhelm Schwenke
+Johann Friedrich Ehregott Kinslier
+Georg Zimmermann
+Johann Traugott Lembach
+Christian Arthur Buzke?
+Johann Friedrich Stäglich
+Johann Wilhelm Berger
+Johann Gotthelf Lindner
+----------------
+Gottlob Heinrich Petzold
+Carl August Eduard Frey
+Johann David Pfahl
+Johann Christoph Buchheim
+Carl Gottlob Koch
+Christian Gotthelf Traugott Eger
+Carl Traugott Müller
+Carl Friedrich Barthel
+Johann Gottfried Trepte
+Friedrich Wilhelm Kirchner
+----------------
+Carl August Rumberg
+Carl Traugott Herz
+Friedrich Traugott Liebschner
+Carl Benjamin Billig
+Gustav Ferdinand Kneifel
+Carl Heinrich Müller
+Carl Christian Patzig
+Carl August Böhmer
+Carl August Bär
+Friedrich Samuel Clausnitzer
+----------------
+Imanuel Leberecht Bergmann
+August Ludwig Alwin Berger
+Friedrich Wilhelm Noack
+Julius Bernhard Köhler
+Friedrich August Schmiedel
+Carl Gottlob Berger
+Carl Gottlob Lorenz
+Carl Friedrich August Bernhard
+Johann Gottlob Schramm
+Friedrich Wilhelm Hahnel
+----------------
+Friedrich Wilhelm Schubert
