@@ -1,5 +1,5 @@
 Fürstenwalde (Buch 279)
-Trauungen 1831-1849
+Trauungen 1831-1854
 https://www.archion.de/de/viewer/churchRegister/294345?pageId=40895574
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -230,3 +231,68 @@ Karl Gottlieb Franke
 Johann Gottlieb Weiße
 Karl Friedemann Tittel
 Johann Christian Friedrich Tittel
+----------------
+1850
+Ferdinand Ritschel
+Karl August Hähnel
+Johann Gottfried Traugott Dietze
+Christoph Gottlieb Rehn
+----------------
+Friedrich Wilhelm Schöne
+Ernst Gottfried Adolph Böhmer
+Karl Gottlob Gössel
+Karl Heinrich Süß
+----------------
+Karl Gottlieb Kluge
+Karl Gottlieb Lehmann
+August Heinrich Gössel
+Johann Karl August Schubert
+----------------
+August Ferdinand Tittel
+Karl Friedrich Roschig
+1851
+Christoph Gotthelf Rehn
+Christian Gotthelf Tittel
+----------------
+Gotthard Ferdinand Peukert
+Johann Georg Gössel
+Johann Gottfried Herzog
+Karl Gottlieb Felgner
+August Leberecht Mühle
+----------------
+Karl Gottfried Mättig
+Johann Karl Friedrich Hölein
+August Wilhelm Kluge
+Friedrich August Löwe
+----------------
+Karl Friedrich August Rehn
+Karl Friedrich August Hamann
+1852
+Karl August Schubert
+Karl Gottlob Hirschel
+----------------
+Friedrich Eduard Schaffer
+Gottlieb Friedrich Ritschel
+Karl Gottlieb Seifert
+Karl Julius Leopold Hohenthal
+----------------
+Karl Friedrich Fuhrmann
+Karl Gottlob Eichler
+Reinhold Gotthelf Ritschel
+1853
+Karl Ehregott Hiekmann
+----------------
+Johann Gottlob Hauswald
+Karl Friedrich Lau
+Friedrich August Peukert
+Friedrich Hugo Schwerdtfeger
+Christian Friedrich Mühle
+----------------
+Karl Gottfried Hohlfeld
+1854
+Gustav Friedrich Beckert
+Friedrich Wilhelm Theodor Schill
+----------------
+Christian Wilhelm Hohlfeld
+Wilhelm Ehregott Müller
+Karl Friedrich Rehn

@@ -1,5 +1,5 @@
 Hennersdorf (Buch 344)
-Trauungen 1823-1849
+Trauungen 1823-1854
 https://www.archion.de/de/viewer/churchRegister/294402?pageId=40906838
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Oktober 2024
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -493,3 +494,107 @@ Karl Friedrich August Walther
 Johann Gottlob Kummer
 ----------------
 Johann Gottlob Bellmann
+----------------
+1850
+Friedrich August Zönnchen
+Karl Gottlob Hofmann
+Gottlob Friedrich Radestock
+Karl Gottlieb Krumpolt
+----------------
+Karl Ferdinand Zinke
+Friedrich August Zimmermann
+Johann Gottlieb Friedrich Lehmann
+Karl Friedrich Lippmann
+----------------
+Friedrich August Grahl
+Karl Heinrich Müller
+Karl August Louis Funke
+Karl Friedrich Kästner
+Karl Friedrich Wilhelm Thümmel
+----------------
+Karl Wilhelm Franke
+Karl August Kästner
+Karl Gottlieb Braun
+Karl Friedrich Köhler
+Johann Karl Gottlieb Wolf
+----------------
+Friedrich Traugott Steinigen
+----------------
+1851
+Karl Gottfried Walther
+Karl Gottlob Krumpolt
+August Gottlieb Büttig
+Christian Friedrich Walter
+----------------
+Johann Carl Christlieb Thümmel
+Wilhelm Moritz Creutz
+Karl Friedrich August Kempe
+----------------
+Christian Gottwald Hofmann
+----------------
+1852
+Karl Gottlob Walther
+Karl Friedrich Schmieder
+Friedrich Wilhelm Fritsche
+Karl Friedrich Wilhelm Heymann
+----------------
+Friedrich August Pirnbaum
+Karl Friedrich Hunger
+Johann Karl Gottlieb Richter
+Karl Gottlob Göhler
+----------------
+1852
+Karl Wilhelm Menzer
+Johann Gottlob Bretschneider
+Friedrich Wilhelm Richter
+Karl Salomo Stenzel
+Karl Gottlieb Franke
+----------------
+1853
+August Weisgerber
+Georg Traugott Göhler
+Karl August Fischer
+Karl Friedrich Pretzsch
+----------------
+Friedrich August Wilhelm Weichelt
+Carl Ferdinand Preusche
+Karl August Weinhold
+Friedrich Wilhelm Bellmann
+----------------
+Johann Gottlieb Wolf
+Johann Karl Gottfried Göhler
+Karl Gottlieb Krumpolt
+----------------
+1854
+Samuel Gottfried Renner
+Friedrich Gottlob Hegewald
+Friedrich August Pirnbaum
+Karl Friedrich Richter
+----------------
+Christian Friedrich Hofmann
+Karl Friedrich Traugott Göhler
+Ferdinand Heinrich Fischer
+Karl Gottlieb Reichelt
+Karl August Fischer
+----------------
+Samuel Friedrich Walther
+Karl Friedrich Stenzel
+Karl Traugott Fischer
+Traugott Ehrhold Pretzsch
+Karl Gottlieb Köhler
+----------------
+Karl Friedrich Berger
+Karl August Louis Reichel
+Karl Friedrich August Thümmel
+Ehregott Wilhelm Richter
+Karl Friedrich Fischer
+Karl Friedrich Fischer
+Karl Gottfried Schneider
+----------------
+Christian Gottlieb Kreher
+Karl August Schröter
+Karl Gottlob Göhler
+Karl Gotthold Thümmel
+Karl Gottfried Pretzsch
+----------------
+Karl August Berger

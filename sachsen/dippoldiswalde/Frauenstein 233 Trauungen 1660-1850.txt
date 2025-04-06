@@ -1,5 +1,5 @@
 Frauenstein (Buch 233)
-Trauungen 1660-1849
+Trauungen 1660-1850
 https://www.archion.de/de/viewer/churchRegister/294306?pageId=40890969
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -12,6 +12,7 @@ Juli 2024
 Oktober 2024
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -2737,3 +2738,40 @@ Carl Gottfried Stenzel
 Friedrich Wilhelm Fischer
 Johann Heinrich Wilhelm Görner
 Carl Christian Friedrich Hänel
+----------------
+1850
+Traugott Friedrich Lehmann
+Carl Gottlieb Lippmann
+Johann Gottlieb Bellmann
+Elias Traugott Beutel
+----------------
+Carl August Leberecht Hauptvogel
+Carl Gottlieb Heine
+Carl Friedrich Wilhelm Hinkel
+----------------
+Carl Friedrich Wolf
+Johann Gottfried Börner
+Franz Alexander Hilbert
+----------------
+Carl Gottlob Zönnchen
+Carl Gottlob Hubaldt
+Friedrich August Kaden
+----------------
+Carl Heinrich Schuhmann
+Gottlieb Hiller
+Carl Gottfried Arnold
+----------------
+Ehregott Leberecht Haubold
+August Friedrich Gleditzsch
+Johannes Carl Friedrich Merker
+----------------
+Carl Heinrich Traugott Göhler
+Traugott Friedrich Walther
+Carl Wilhelm Ufer
+----------------
+Stephan Laurich
+Heinrich Friedemann Eichler
+Caspar Ehregott Zimmermann
+----------------
+Friedrich Traugott Schramm
+Carl Friedrich Püschel

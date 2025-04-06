@@ -1,5 +1,5 @@
 Fürstenau (Buch 250)
-Trauungen 1831-1849
+Trauungen 1831-1859
 https://www.archion.de/de/viewer/churchRegister/294319?pageId=40894174
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -196,3 +197,123 @@ Heinrich August Brauer
 Friedrich Ferdinand Kadner
 Karl Ferdinand Kadner
 Ferdinand Flasche
+----------------
+1850
+Ferdinand Lippmann
+Carl Heinrich Holfert
+Samuel Ehregott Dietrich
+Johann Samuel Lohse
+----------------
+Johann Traugott Haupt
+Karl Ferdinand Kadner
+Karl Gottlieb Günther
+Ehrenfriedrich Fischer
+----------------
+Karl Gottlieb Rötzschke
+Gotthelf Friedrich Knauthe
+1851
+Gottlieb Friedrich Bellmann
+----------------
+Johann Friedrich Laux
+Joseph Flasche
+Gustav Herrmann Gutte
+Johann Friedrich Wilhelm Schaffer
+----------------
+Karl Friedrich Lehmann
+Johann Heinrich Kadner
+Karl Christoph Kadner
+Johann Christian Lehmann
+----------------
+Karl Friedrich Herrmann Schaffer
+Franz Burock
+1852
+Gottlieb Adolph Herrmann Kempe
+Friedrich August Kadner
+----------------
+Friedrich Ernst Zimmerhäckel
+Friedrich Eduard Schaffer
+Karl Friedrich Knauthe
+Hugo Edmund Leukroth
+----------------
+Karl Julius Leopold Hohenthal
+Christoph Heinrich Kadner
+Friedrich August Knauthe
+Karl Wagner
+----------------
+1853
+Friedrich Herrmann Nitsche
+Friedrich August Kadner
+Traugott Heinrich Knauthe
+Karl Heinrich Kadner
+August Wilhelm Böhme
+----------------
+Karl Gottlieb Kadner
+Friedrich Wilhelm Dietrich
+Friedrich Ehregott Schwenke
+Friedrich Gottlob Schütze
+Samuel Heinrich Kadner
+----------------
+1854
+Karl Christoph Raue
+Franz Benjamin Hippel
+Heinrich August Dietrich
+Woldemar Hugo Gutte
+Gottlieb Ehregott Löwe
+----------------
+Gallus Eichler
+1855
+Karl Gottlieb Kadner
+Karl Ehrenreich Kämpfe
+Karl Gottlob Mühle
+----------------
+1856
+Eduard Traugott Großer
+Stephan Burock
+Karl Gotthelf Schütze
+Johann Karl Wilhelm Lehmann
+Friedrich Wilhelm Hempel
+Karl Gottlieb Friedrich Kadner
+----------------
+1857
+Karl Gotthelf Dietrich
+Friedrich August Schaffer
+Johann Karl Friedrich Leonhardt
+Christoph Heinrich Löwe
+Karl Friedrich Knauthe
+Heinrich Traugott Günther
+Friedrich Christoph Günther
+----------------
+Karl Friedrich Sterl
+Christlieb Leberecht Mühle
+Friedrich August Kotte
+Karl Gotthelf Gaebler
+Karl Heinrich Gustav Knauthe
+1858
+Karl Friedrich Julius Schaffer
+----------------
+Ernst Moritz Beyer
+Karl Gotthelf Seifert
+Friedrich Wilhelm Laux
+Karl Friedrich Günther
+Karl Heinrich Kluge
+August Ferdinand Hohlfeld
+Jacob Nickel
+----------------
+1859
+Karl Gottlob Leberecht Mühle
+Karl Friedrich Weinhold
+Friedrich August Kadner
+Emanuel Wilhelm Gutte
+Karl Friedrich Hartmann
+Friedrich August Kadner
+Johann Joseph Dietrich
+----------------
+Heinrich Gottlob Weicks
+Traugott Ferdinand Gößel
+Heinrich Moritz Kluge
+Traugott Heinrich Meißner
+Karl Ferdinand Engelwardt Dietrich
+Julius Friedrich Meißner
+Julius Ehregott Krügner
+----------------
+August Wilhelm Böhme

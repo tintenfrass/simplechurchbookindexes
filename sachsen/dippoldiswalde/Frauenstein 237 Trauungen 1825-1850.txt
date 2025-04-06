@@ -1,5 +1,5 @@
 Frauenstein (Buch 237)
-Trauungen 1825-1849
+Trauungen 1825-1850
 https://www.archion.de/de/viewer/churchRegister/294310?pageId=40892178
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Oktober 2024
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -943,3 +944,74 @@ Johann Gottfried Dienel
 Carl Christian Friedrich Henel
 Friedrich Wilhelm Dittrich
 Carl Gottlieb Bernhardt
+----------------
+1850
+Traugott Friedrich Lehmann
+Johann Gottlieb Schröder
+Ehregott Friedrich Lohse
+Carl Gottlieb Lippmann
+Johann Gottlieb Bellmann
+Elias Ehregott Beutel
+Carl August Leberecht Hauptvogel
+Carl Traugott Leberecht Uhlig
+----------------
+Carl Gottlieb Heine
+Carl Friedrich Wilhelm Hinkel
+Carl Friedrich Wolf
+Gottlob Friedrich Göhler
+Johann Gottfried Börner
+Christlieb Ferdinand Börner
+Friedrich Herrmann Müller
+----------------
+Johann Gottlieb Lehmann
+Fürchtegott Leberecht Kunze
+Franz Bladeck
+Franz Alexander Hilbert
+Friedrich August Fischer
+Carl Gottlob Zönnchen
+Carl Gottlob Richter
+Heinrich Ferdinand Eichler
+----------------
+Carl Gottlob Heubaldt
+Traugott Friedrich Tröger
+Friedrich Ludwig Schneider
+Traugott Friedrich Lehmann
+Friedrich August Kaden
+Carl Louis Schnabel
+Carl Heinrich Schuhmann
+----------------
+Gottlieb Hiller
+Carl Gottfried Arnold
+Ehregott Leberecht Haubold
+Friedrich Gotthelf Weichelt
+August Friedrich Gleditzsch
+Johannes Carl Friedrich Merker
+August Heinrich Selling
+Carl Heinrich Traugott Göhler
+----------------
+Friedrich Wilhelm Kaden
+Traugott Friedrich Walther
+Carl Wilhelm Ufer
+Johann Samuel Lippmann
+Carl August Louis Finke
+Carl Friedrich Göhler
+Stephan Laurich
+Ferdinand Bernhardt
+----------------
+Heinrich Eduard Weikert
+Carl August Fischer
+Carl Gottlieb Herklotz
+Christian Gottlob Liebing
+Carl Traugott Weikert
+Carl Gottlieb Glöckner
+----------------
+Carl Friedrich Bellmann
+Carl Ehregott Zimmermann
+Friedrich Traugott Schramm
+Carl Friedrich Püschel
+Friedrich Fürchtegott Flade
+----------------
+1843
+Carl Gottlieb Böhme
+August Friedrich Schneider
+Carl Friedrich Dittrich
