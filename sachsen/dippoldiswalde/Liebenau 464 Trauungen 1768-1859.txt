@@ -1,18 +1,19 @@
 Liebenau (Buch 464)
-Trauungen 1768-1849
+Trauungen 1768-1859
 https://www.archion.de/de/viewer/churchRegister/305485?pageId=42939248
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 2,5 Stunden
+Erstellt in ca. 3 Stunden
 Oktober 2023
 Juni 2024
 Juli 2024
 Oktober 2024
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -934,3 +935,169 @@ Carl Friedrich Wilhelm Dittrich
 Carl Heinrich Kühnel
 ----------------
 Carl Gottlob Leberecht Rietschel
+1850
+Carl Friedrich Roschig
+Christlieb Heinrich Ferdinand Mühle
+----------------
+Friedrich August Bretschneider
+Carl Gottlob Fischer
+Friedrich Wilhelm Steudte
+Traugott Leberecht Thorandt
+----------------
+Johann Gottlieb Gottschalk
+Ferdinand Wilhelm Morgenstern
+Wilhelm Romanus Oschatz
+Carl Moritz Lehmann
+----------------
+Carl Friedrich Mühle
+Carl August Müller
+Johann Gottlob Scherber
+Carl Gotthelf Ehrenreich Sieber
+----------------
+Carl Friedrich August Schütze
+Carl Friedrich Roschig
+Carl Friedrich Wilhelm Dittrich
+Adolph Wilhelm Männel
+Ernst Eduard Große
+----------------
+1851
+Gottlieb Friedrich Bellmann
+Johann Gottfried Stübner
+Carl Heinrich Ebert
+Friedrich August Kümmel
+----------------
+Carl Friedrich August Hickmann
+Johann Heinrich Kadner
+Johann Christlieb Hauswald
+Friedrich Ernst Kühnel
+----------------
+Gottlob Moritz Metzner
+1852
+Carl Heinrich Schmiedel
+Gottlieb Adolph Kemper
+----------------
+Carl Gottlob Heinrich Franke
+Carl Heinrich Schwenke
+Carl Gottlob Lehmann
+Johann Gottlob Fritzsche
+----------------
+Hans Georg Aster
+Carl Wilhelm Weiland
+Johann Christlieb Kühnel
+Carl Julius Leopold Hohenthal
+----------------
+Carl Gottlieb Heymann
+Carl Friedrich Kühnel
+Carl Friedrich Führmann
+----------------
+1853
+Carl Gottlieb Wilhelm Philipp
+Carl Traugott Rentsch
+Johann Gottlieb Wolf
+Franz Joseph Schübach
+----------------
+Carl Friedrich Mühle
+Johann Ernst Horn
+Friedrich Ernst Grahl
+Eduard Friedrich Rentsch
+----------------
+Carl Gottlieb Wolf
+Carl Robert Kühnel
+Friedrich August Männchen
+Johann Gottlieb Friedrich Körner
+----------------
+Carl Gottlieb Hichfurth?
+Carl August Schütze
+Carl Fürchtegott Behnisch
+Carl Friedrich Kirsten
+----------------
+1854
+Christian Ehregott Bobe
+Carl Friedrich Müller
+Johann Christlieb Leberecht Franke
+Friedrich August Ehrlich
+----------------
+Carl Gottlob Wilhelm Moche
+Carl Gottlieb Friedemann Eichler
+Carl Friedrich August Hauswald
+Johann Gottlieb Schütze
+----------------
+Johann Gottlob Fritzsche
+Johann Gottlob Mühle
+1855
+Carl Gottlob Legler
+----------------
+Carl Gottlieb Jäpel
+Carl Ferdinand Kühnel
+Friedrich Wilhelm Bretschneider
+Carl Gottlob Eberth
+Carl Gottlieb Mühle
+----------------
+Adolph Heinrich Eichler
+Carl Friedrich Lohse
+Johann Adolph Oswald Aster
+Carl Friedrich Schubert
+----------------
+Carl Gottlieb Mühle
+Carl Gottlob Mühle
+Carl Gustav Willmersdorf
+1856
+Christlieb Heinrich Fischer
+----------------
+Adolph Bruno Saitmacher
+Carl Gottlieb Kühnel
+Friedrich Heinrich Oeser
+Heinrich Gottlob Jäpel
+Johann Gottlob Müller
+----------------
+Johann Carl Lehmann
+Johann Carl Gottlieb Franke
+Carl August Wolf
+Johann Carl Gottlieb Rietschel
+Ernst August Glauch
+----------------
+Gotthelf August Heinze
+Johann Carl Christlieb Mühle
+1857
+Christian Gottlieb Schmiedel
+Carl Friedrich Pech
+----------------
+Carl Friedrich Beckert
+Carl Gottlieb Kasper
+Johann Friedrich Wilhelm Holfert
+Carl Julius Hauswald
+Carl Julius Voigt
+----------------
+Carl Friedrich Eduard Gollmann
+Friedrich Wilhelm Kühn
+Carl Gottlieb Reichel
+----------------
+1858
+Carl Gottlob Aulhorn
+Christlieb Gottlob Heinrich Kühnel
+Friedrich August Löwe
+Carl Friedrich August Petzold
+----------------
+Carl Gottlob Müller
+Friedrich August Schwenke
+Emil Theodor Fritzsche
+Carl Traugott Lehmann
+Friedrich August Hauswald
+----------------
+Carl Gottlob Leberecht Mühle
+Carl Friedrich Eichler
+Gustav Eduard Barthel
+Friedrich Gotthelf Scherber
+----------------
+Carl Friedrich August Ebert
+Carl Gottlob Zimmermann
+1859
+Carl Eduard Kühnel
+Carl Gottlob Rudolph
+----------------
+Carl Friedrich Kürschner
+Johann Gottlob Friedemann Mühle
+Karl Gottlob Schütze
+Friedrich Wilhelm Wolf
+----------------
+Johann Gottlob Ehrenfried Hauswald

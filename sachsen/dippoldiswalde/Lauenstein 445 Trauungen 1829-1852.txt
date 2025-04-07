@@ -1,11 +1,12 @@
 Lauenstein (Buch 445)
-Trauungen 1829-1849
+Trauungen 1829-1852
 https://www.archion.de/de/viewer/churchRegister/305470?pageId=42936531
 
 
 Oktober 2024
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -410,3 +411,61 @@ Carl Ludwig Scharfe
 Heinrich Eduard Herold
 Carl Heinrich Kühnel
 Carl Gottlieb Gutte
+----------------
+1850
+Johann Eduard Heinrich Tittel
+Heinrich Friedrich August Eichler
+Gustav Adolph Mietzschke
+Heinrich Friedemann Eichler
+Karl Julius Peschke
+Heinrich Theodor Stübner
+----------------
+Karl Friedrich Gutte
+Carl Friedrich Holzmüller
+Julius Meitzner
+Ernst Conrad Eduard Rüger
+Carl Heinrich Süße
+Carl Heinrich Raue
+Carl Gottlieb Rötzschke
+----------------
+1851
+Wilhelm Friedrich Ehrhardt
+Ernst Julius Jaenike
+Carl Heinrich Ebert
+Conrad Gottlob Tittel
+Heinrich August Fischer
+Johann Gottlob Schenk
+Carl Gottfried Weller
+----------------
+Friedrich Jacob Peter Herde
+August Ferdinand Scharfe
+Friedrich August Fischer
+Carl Friedrich Lehmann
+Herrmann Moritz Petzold
+Johann Heinrich Eichler
+Ernst Friedrich Berger
+Andreas Traugott Heinke
+----------------
+Eduard Ferdinand Dankegott Schneider
+Friedrich Moritz Gatsche
+Gustav Adolph Riemer
+Carl Ernst Götze
+Robert Kohl
+Carl Friedrich Herrmann Schaffer
+----------------
+Carl Gottlob Friebel
+1852
+Friedrich Adolph Richter
+Johann David Schubert
+Carl August Stephan
+Johann Gottlieb Dörnig
+----------------
+Carl Gottlieb Kühnel
+Carl August Louis Schönherr
+Carl Wilhelm Jaepelt
+Friedrich August Gutdorf
+Friedrich August Loebel
+Friedrich August Knauthe
+----------------
+Carl Gottlob Eichler
+Johann Gotthelf Heinrich Schmidt
