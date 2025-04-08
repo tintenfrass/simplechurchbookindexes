@@ -1,5 +1,5 @@
 Nassau (Buch 483)
-Trauungen 1826-1849
+Trauungen 1826-1855
 https://www.archion.de/de/viewer/churchRegister/305500?pageId=42942908
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Oktober 2024
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -860,4 +861,261 @@ Traugott Friedrich Preußler
 Traugott Friedrich Göhler
 ----------------
 Salomo Heinrich Erler
-Johann Heinrich Wilhelm Görmer?
+Johann Heinrich Wilhelm Görner
+----------------
+1850
+Carl Gottlieb Schneider
+Carl August Göhler
+Friedrich August Freke
+Carl Ferdinand Zinke
+Carl Friedrich Dittrich
+----------------
+Friedrich Gottlob Franke
+Christian Gottlieb Fleischer
+Gottlieb Friedrich Daniel Erler
+Ernst Traugott Leberecht Uhlig
+Carl Gottlob Höbelt
+----------------
+Johann Gottfried Börner
+Carl Eduard Hennig
+Gotthelf Friedrich Göhler
+Friedrich Wilhelm Mattes
+----------------
+Carl Friedrich Gleichmann
+Carl Friedrich Lippmann
+Carl Gottlieb Heinrich Göhler
+Carl Traugott Fischer
+Johann Gottfried Bernd
+----------------
+Friedrich Ehregott Seifert
+Carl Salomo Richter
+Johann Gottlieb Liebscher
+Carl August Porstendorfer
+Julius Heinrich Richter
+----------------
+Carl Heinrich Zimmermann
+Carl Heinrich Liebscher
+Traugott Wilhelm Kaden
+Friedrich Ernst Thieme
+Georg Carl Göhler
+----------------
+Carl Friedrich Matthes
+Johann Christoph Merkel
+Christian Friedrich Göpfert
+August Friedrich Löwe
+Carl Friedrich Wilhelm Thümmel
+----------------
+Carl Gottlieb Rabe
+August Mehlhose
+Gottlieb Samuel Grumpelt
+Carl Heinrich Müller
+Carl Friedrich Mattheß
+----------------
+Carl Friedrich Ehregott Ihle
+1851
+Carl Gottlob Krumpolt
+Carl August Hegewald
+----------------
+Friedrich Wilhelm Herklotz
+Carl August Gotthelf Große
+August Fürchtegott Göhler
+Carl Friedrich Hänel
+----------------
+Carl Friedrich Müller
+Friedrich Fürchtegott Fritzsche
+Carl Gottlieb Zimmermann
+----------------
+Friedrich Traugott Böhme
+Fürchtegott Kaltofen
+August Friedrich Schmieder
+----------------
+Carl August Thiele
+Carl Gottlob Schaarschuh
+Christian Friedrich Kempe
+----------------
+Johann August Kohbach
+Heinrich Eduard Mattheß
+August Friedrich Wilhelm Mäcke
+----------------
+Wilhelm Friedrich Lehmann
+Christian Friedrich Börner
+Ernst Julius Glöckner
+----------------
+Georg Gottlieb Wiegand
+Ferdinand Hieronymus Albertin Börner
+Johann Gottfried Liebscher
+----------------
+Carl Traugott Wolf
+August Friedrich Moritz Höger
+----------------
+1852
+Gottlob Friedrich Kempe
+Carl Gottlieb Rabe
+Carl Traugott Friedrich Erler
+Traugott Friedrich Schüller
+----------------
+Johann Carl Gottlob Kaden
+Christian Gottlieb Göhler
+Carl Gottlieb Lieber
+Julius Ferdinand Dittrich
+----------------
+Carl Gottfried Gretschel
+Carl Christlieb Göhler
+Carl Fürchtegott Kaden
+Carl Gottlob Fleischer
+----------------
+Carl August Göhler
+Carl Heinrich Bretschneider
+Carl Gottlieb Sommerschuh
+Carl Friedrich Leberecht Zimmermann
+----------------
+Johann Heinrich Wilhelm Scheunpflug
+Carl Ferdinand Göhler
+Carl Friedrich Lippmann
+Heinrich Julius Dietrich
+----------------
+Gottlieb August Dietrich
+1853
+Carl Friedrich Fuchs
+----------------
+Carl Christlieb Richter
+August Heinrich Schröder
+Carl Friedrich Mende
+----------------
+Christian Carl Löschner
+Georg Gottlieb Richter
+Friedrich Wilhelm Börner
+----------------
+Carl Moritz Haucke
+Gottlob Friedrich Börner
+Johann Gotthold Müller
+----------------
+Carl Traugott Friedrich Böhme
+Carl Gottlob Tröger
+Christian Friedrich Zacharius
+Traugott Friedrich Liebscher
+----------------
+Carl Gottfried August Greie
+Carl Julius Wolf
+Carl Friedrich Horn
+Carl August Fischer
+----------------
+Christian Gottlob Böhme
+Christian Traugott Bilz
+Carl Friedrich Ferdinand Richter
+Carl Friedrich Dittrich
+----------------
+Friedrich Wilhelm Göhler
+Johann Ferdinand Böhme
+Traugott Friedrich Wolf
+Immanuel Fürchtegott Lieber
+----------------
+Carl Friedrich Sandig
+Heinrich Gottlob Müller
+Gottlob Friedrich Stenzel
+Traugott Heinrich Richter
+----------------
+Gottlob Friedrich Grumbd
+Adolph Friedrich Koch
+Carl Heinrich Pahlitzsch
+Carl Gottlieb Böhme
+----------------
+Johann Carl Gottfried Richter
+Samuel Friedrich Schmieder
+Wilhelm Friedrich Fischer
+Carl Wilhelm Zemmrich
+----------------
+Carl Ferdinand Göhler
+Samuel Friedrich Hofmann
+Gotthelf Friedrich Zimmermann
+----------------
+1854
+Friedrich August Liebscher
+Friedrich August Christlieb Wolf
+Friedrich Fürchtegott Rabe
+Carl Gottlieb Ihle
+----------------
+Johann Christian Friedrich Erler
+Friedrich Fürchtegott Ferdinand Flade
+August Friedrich Ernst Fischer
+Johann Gottlieb Bartzsch
+----------------
+Friedrich Wilhelm Glöckner
+Wilhelm Ferdinand Löwe
+Carl Friedrich Berger
+Carl Friedrich Wilhelm Philipp
+----------------
+Carl Valentin Fritzsche
+Carl Gottlieb Wilhelm Richter
+Christian Friedrich Ferdinand Erler
+Carl Heinrich Göhler
+Carl August Thiele
+----------------
+Gustav Friedrich Wolf
+Johann Gottlieb Friedrich Schmieder
+Christlieb Friedrich Göhler
+Carl Gottlob Göhler
+Carl Gottlieb Grumpelt
+----------------
+Carl Ferdinand Göhler
+Carl Friedrich Richter
+Gottlob Friedrich Fischer
+Carl Friedrich Göhler
+----------------
+Carl Moritz Göhler
+Friedrich Gottlieb Richter
+Carl Heinrich Göhler
+Wilhelm Friedrich Fischer
+----------------
+Traugott Friedrich Liebscher
+Wilhelm Friedrich Langer
+----------------
+1855
+Johann Friedrich Rauscher
+Carl Wilhelm Rabach
+Carl Gottlob Hegewald
+----------------
+Carl Friedrich Fischer
+Carl Gottlieb Erler
+Carl Friedrich Heber
+Carl Friedrich August Zimmermann
+----------------
+Friedrich Bernhard Eckarti
+Ernst Julius Glöß
+Carl Heinrich Zimmermann
+Friedrich Gottlieb Feller
+----------------
+Christian Gottlieb Weinhold
+Carl Gottlieb Julius Bär
+Samuel Heinrich Clausnitzer
+Carl Traugott Friedrich Dietrich
+----------------
+Traugott Friedrich Dittrich
+August Friedrich Heerklotz
+Carl Gottlob Zeun
+----------------
+Carl Friedrich Schubert
+Carl Traugott Wolf
+Gottlob Friedrich Thiele
+----------------
+Friedrich Wilhelm Liebscher
+Friedrich August Kirsten
+Traugott Heinrich Fischer
+----------------
+Gottlob Friedrich Augustin
+Carl Wilhelm Müller
+Louis Höger
+----------------
+Carl Gottlieb Hegewald
+Carl Gottlieb Liebscher
+Wilhelm Ehregott Müller
+Carl Wilhelm Schmieder
+----------------
+Reinhard Christlieb Göhler
+Johann Friedrich Meyer
+Carl Wilhelm Lohse
+Johann Christian Gottlieb Scharfe
+----------------
+Carl Gottlieb Grumpelt
+Traugott Friedrich Ihle
+Carl August Morgenstern

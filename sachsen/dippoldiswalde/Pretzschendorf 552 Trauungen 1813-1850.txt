@@ -1,5 +1,5 @@
 Pretzschendorf (Buch 552)
-Trauungen 1813-1849
+Trauungen 1813-1850
 https://www.archion.de/de/viewer/churchRegister/305562?pageId=42959336
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -11,6 +11,7 @@ Juli 2024
 Oktober 2024
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1140,3 +1141,41 @@ Carl August Linbuch?
 Johann Gottlob Kummer
 Johann Gottfried Dünel?
 Johann Friedrich Geißler
+----------------
+1850
+Carl Friedrich Zimmermann
+----------------
+Carl Gottfried Bahlisch
+Carl Gottlieb Klemm
+Johann Gottlieb Glaser
+Carl Friedrich Fleischer
+Christian Friedrich Schmieder
+----------------
+Johann Friedrich Hähnel
+Carl Friedrich Bernd
+Carl Gottfried Lohse
+Christian Gottlieb Kummer
+Carl Friedrich Fleischer
+----------------
+Ehregott Friedrich Lohse
+Friedrich Ehrenfried Kästner
+Carl Gottfried Schmieder
+Carl Heinrich Zimmermann
+Carl Friedrich Schulz
+----------------
+Johann Samuel Fleischer
+Wilhelm Friedrich Klemm
+Carl Friedrich Kästner
+Carl Gottlob Fritzsche
+Carl Gottlieb Herklotz
+----------------
+Carl Friedrich Köhler
+Carl Gottlieb Neubert
+Heinrich Wilhelm Lohse
+Carl Gottlieb Herklotz
+Carl Gottfried Berndt
+----------------
+Carl Gottlieb Glöckner
+Gottlieb Samuel Grumbelth
+Johann Samuel Bellmann
+Carl Gottlieb Lempe
