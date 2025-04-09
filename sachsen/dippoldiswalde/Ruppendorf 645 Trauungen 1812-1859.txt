@@ -1,5 +1,5 @@
 Ruppendorf (Buch 645)
-Trauungen 1812-1849
+Trauungen 1812-1859
 https://www.archion.de/de/viewer/churchRegister/305633?pageId=42973225
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -10,6 +10,7 @@ Juli 2024
 Oktober 2024
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -661,3 +662,208 @@ Gottlieb Heinrich Reichel
 Christian Friedrich Schmatz
 Carl Gottfried Berthold
 Carl Friedrich Ferdinand Berger
+----------------
+1850
+Carl Heinrich Schneider
+Christian Gottlieb Fleischer
+Christian Friedrich Schmieder
+Carl Friedrich Gleichmann
+Carl Heinrich Bormann
+Johann Gottlob Wilhelm Heinrich Berger
+----------------
+Carl Friedrich Lorenz
+Heinrich Gottlob Richter
+Carl Christian Gottfried Wendel
+Carl Gottlieb Büttner
+Johann Gottfried Krell
+Friedrich Wilhelm Neubert
+Johann Traugott Dittrich
+----------------
+Johann Friedrich August Göpfert
+Johann Carl Gottfried August Berger
+Johann Heinrich Richter
+Carl Gottlieb Lippmann
+Johann Gottlieb Walther
+Johann Gottlieb Müller
+----------------
+Samuel Heinrich Richter
+Carl Heinrich Schröder
+Karl August Eilenberger
+Johann Carl Benjamin Grimmer
+----------------
+1851
+Carl Gottlieb Wunderwald
+Johann Daniel Richter
+Friedrich Ehregott Richter
+Friedrich Ernst Sandig
+August Friedrich Göhlert
+Michael Casper
+----------------
+Samuel Friedrich Bormann
+Karl Gottlieb Rothe
+Carl Friedrich Wilhelm Menzer
+Johann Christlieb Holfert
+Gottlieb Wilhelm Göbel
+----------------
+1852
+Carl Friedrich Lieber
+Johann Samuel Fleischer
+Heinrich Gottlob Näke
+Karl Friedrich Richter
+Friedrich Wilhelm Flathe
+Johann Gottlieb Berndt
+----------------
+Ernst Wilhelm Dietrich
+Johann Gotthelf Baumgart
+Ernst Leberecht Fuchs
+Johann Gottlieb Winkler
+Carl Gustav Kästner
+Johann Gottlieb Dittrich
+----------------
+1853
+Carl Friedrich Zönnchen
+Gottlob Wilhelm Ernst Kästner
+Carl Gottlieb Rülke
+Carl Gottlob Holfert
+Carl Friedrich Heinrich
+Heinrich Wilhelm Baumgart
+Johann Ehrenfried Geißler
+----------------
+Carl Gottlieb Johne
+Friedrich Wilhelm Schneider
+Friedrich August Menzer
+Karl Gottlieb Berthold
+----------------
+1854
+Ehrenfried Heinrich Sandig
+August Eduard Kaden
+Carl Gottlob Köhler
+Friedrich Wilhelm Wolf
+Carl Heinrich Wilhelm Buchmann
+Carl Heinrich Lohse
+Carl Gottlieb Lorenz
+----------------
+Ernst Julius Dietrich
+Carl Friedrich Hauswald
+Heinrich Leberecht Richter
+Gottlieb Leberecht Schelle
+Carl Gottlieb Neubert
+Johann Friedrich August Schröter
+----------------
+Carl Friedrich Zimmermann
+Daniel Weinhold
+Heinrich Traugott Bormann
+Johann Gottlieb Schmieder
+Ernst Wilhelm Kirchner
+Heinrich Ernst Heber
+Carl Gottlieb Büttner
+----------------
+1855
+Carl Wilhelm Legler
+Johann Carl Gottlieb Neubert
+Carl Heinrich Michael
+Carl Ehrenfried Rülke
+Friedrich Herrmann Mohr
+----------------
+Carl Gottlieb Kirchner
+Johann Traugott Wehner
+Carl Christlieb Scheffler
+Gottlieb Ernst Göbel
+Friedrich Wilhelm Näcke
+Carl Friedrich Baumann
+----------------
+Johann Traugott Benjamin Hauptmann
+Friedrich Ernst Holfert
+Carl Gottfried August Berger
+Karl Friedrich Fuhrmann
+Heinrich Wilhelm Bormann
+Johann Heinrich Richter
+----------------
+Carl Gottlieb Ilgen
+Christian Gottlieb Fleischer
+----------------
+1856
+Friedrich August Weichelt
+Karl Heinrich Schneider
+Johann Christlieb Göhler
+Friedrich Ernst Grahl
+Wilhelm Ernst Legler
+Wilhelm Leberecht Ebert
+----------------
+Karl Heinrich Kirchner
+Karl Friedrich August Müller
+Carl Wilhelm Ferdinand Fischer
+Gottlieb Heinrich Göbel
+Karl Ernst Zimmermann
+----------------
+Friedrich Wilhelm Holfert
+Fürchtegott Leberecht Walter
+Ernst Heinrich Walther
+Ernst Eduard Pfeifer
+----------------
+1857
+Carl Ehregott Ernst Grimmer
+Friedrich August Richter
+Ehregott Leberecht Baumgart
+Karl Friedrich Ernst Richter
+Friedrich August Berthold
+----------------
+Karl Heinrich Ernst Grimmer
+Friedrich Wilhelm Heinrich
+Carl Gottlieb Pretzsch
+Christlieb Friedrich Böhme
+Carl Gustav Bormann
+----------------
+Karl Fürchtegott Kaden
+Ernst Wilhelm Näcke
+Carl Ernst Schiffner
+Heinrich Bernhard Holfert
+Friedrich Ernst Kleinstück
+Christian Friedrich Richter
+----------------
+Samuel Heinrich Menzer
+Johann Heinrich Friedrich Baumgart
+Heinrich Gottlieb Grahl
+1858
+Carl Gottlieb Ernst Baumgart
+Heinrich Wilhelm Baumgart
+----------------
+Heinrich Gottlieb Holfert
+Friedrich August Bellmann
+Friedrich Ernst Schneider
+Friedrich Wilhelm Neubert
+Georg Domaschke
+Karl Gottlieb Renner
+Ernst Moritz Ehregott Salomo
+----------------
+Karl Traugott Ferdinand Heber
+Johann Herrmann Adolph Köhler
+August Wilhelm Richter
+Georg Friedrich Schaller
+Carl Gottlob Opitz
+Heinrich Ernst Geißler
+----------------
+1859
+Gottlob Friedrich Holfert
+Christian Heinrich Göhler
+Volkmar Jonathan Trepte
+Carl Heinrich Baumgart
+Johann Carl Wilhelm Ebert
+Karl Gottlieb Legler
+Carl Heinrich Hauschild
+----------------
+Gottlieb Ernst Gustav Müller
+Carl Friedrich Ernst Röhringer
+Heinrich Ernst Uhlemann
+Carl Friedrich Bormann
+Carl Friedrich Hauschild
+Carl Gottlieb Böhme
+Carl Friedrich Böhme
+----------------
+Johann Gottfried Schiffel
+Carl Gottlieb Geißler
+Friedrich Moritz Bormann
+Carl Gottlob Dietrich
+Carl August Kobrasch
+Carl Gottlieb Kunath
+Carl Heinrich August Junold
