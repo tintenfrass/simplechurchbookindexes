@@ -368,7 +368,7 @@ func (h *searchComp) Render() app.UI {
 				),
 			),
 		),
-		app.Td().Body(app.Button().Disabled(h.displayTab[0] == "block").Text("DD-MEI-FG-DW").OnClick(h.tab0).Title("Dresde-Meißen-Freiberg-Dippoldiswalde")),
+		app.Td().Body(app.Button().Disabled(h.displayTab[0] == "block").Text("DD-MEI-FG-DW").OnClick(h.tab0).Title("Dresden-Meißen-Freiberg-Dippoldiswalde")),
 		app.Td().Body(app.Button().Disabled(h.displayTab[1] == "block").Text("BZ").OnClick(h.tab1).Title("Bautzen")),
 		app.Table().Body(
 			//Tab 0
@@ -514,14 +514,8 @@ func (h *searchComp) Render() app.UI {
 		app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 		app.Br(),
 		app.Br(),
-		app.H3().Body().Text(" v1.11 (Februar 2025) latest updates:"),
-		app.Label().Text("Trauungen 1840-1849 hinzugefügt"),
-		app.Br(),
-		app.Label().Text("Meißen (katholisch) hinzugefügt"),
-		app.Br(),
-		app.Label().Text("Schönfeld (bei Frauenstein) hinzugefügt"),
-		app.Br(),
-		app.Label().Text("kleinere Fehlerkorrekturen"),
+		app.H3().Body().Text(" v1.11 (April 2025) latest updates:"),
+		app.Label().Text("Trauungen 1850-1859 hinzugefügt"),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
 }
 
