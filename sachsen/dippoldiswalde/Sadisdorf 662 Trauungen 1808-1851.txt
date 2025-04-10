@@ -1,5 +1,5 @@
 Sadisdorf (Buch 662)
-Trauungen 1808-1849
+Trauungen 1808-1851
 https://www.archion.de/de/viewer/churchRegister/305646?pageId=42975987
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -12,6 +12,7 @@ Juli 2024
 Oktober 2024
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -877,3 +878,55 @@ Karl Gottlieb Beyer
 Friedrich Wilhelm Dietrich
 ----------------
 Friedrich August Wilhelm Püschel
+1850
+Karl Christian Fürchtegott Wolf
+Heinrich Leberecht Schauer
+Karl Gustav Eduard Rudolph
+Karl Heinrich Einhorn
+----------------
+Karl Gottlieb Zönnchen
+Karl Gottlob Schwenke
+Traugott Friedrich Tröger
+Christian Gottlieb Kummer
+Karl Gottlob Bellmann
+Traugott Louis Heym
+----------------
+Karl Christlieb Schwenke
+Karl Wilhelm Schwenke
+Friedrich Traugott Zimmermann
+Gotthelf Friedrich Walther
+Friedrich Eduard Mende
+Friedrich Otto Quaas
+----------------
+Karl Gottlob Schiffel
+Karl Gottlob Löwe
+Karl Friedrich August Aßmann
+Johann Karl Gottlieb Reichel
+1851
+Karl Friedrich Grimmer
+Gottlieb Wilhelm Auxel
+----------------
+Karl Gottlieb Püschel
+Johann Carl Friedrich Wilhelm Reichel
+Johann Traugott Ziegler
+Karl Gottlieb Göhler
+Karl Gottlieb Kreisel
+Karl Friedrich August Liebschner
+Johann Friedrich Wilhelm Donath
+----------------
+Johann Karl Christian Heyne
+Friedrich August Feind
+Karl Gottlieb Schwenke
+Friedrich Traugott Scharschuh
+Johann August Kohbach
+Johann Gottlieb Träger
+----------------
+----------------
+Wilhelm Friedrich Hofmann
+Karl Eduard Auxel
+Gottlob Heinrich Dietrich
+Karl Gottlieb Bellmann
+Heinrich Wilhelm Reinhardt
+Karl Friedrich Traugott Löwe
+Karl Gottfried Löwe
+Friedrich August Weinholdt

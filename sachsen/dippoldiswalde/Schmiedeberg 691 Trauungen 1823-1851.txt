@@ -1,5 +1,5 @@
 Schmiedeberg (Buch 691)
-Trauungen 1823-1849
+Trauungen 1823-1851
 https://www.archion.de/de/viewer/churchRegister/305668?pageId=42979753
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Oktober 2024
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -232,3 +233,22 @@ Carl Gottlieb Schneider
 Johann Carl Friedrich Koitzsch
 ----------------
 Johann Gottlob Zschiedrich
+1850
+Karl Friedrich August Pfanne
+Karl Friedrich Fürchtegott Wolf
+Friedrich August Zimmermann
+Johann Christoph Friedrich Uhlmann
+Johann Georg Dell
+Carl Gottlob Fischer
+----------------
+Karl Gottlob Haensel
+Gotthelf August Bürger
+August Mehlhose
+Ernst Wilhelm Thiele
+1851
+Carl Franz August Kleinpaul
+Heinrich Moritz Heeberer
+Gustav Adolph Priemer
+----------------
+Carl Gotthelf Thiele
+Carl Robert Voigtmann

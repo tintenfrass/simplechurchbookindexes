@@ -1,5 +1,5 @@
 Schellerhau (Buch 675)
-Trauungen 1826-1849
+Trauungen 1826-1859
 https://www.archion.de/de/viewer/churchRegister/305656?pageId=42977900
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Oktober 2024
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -297,3 +298,142 @@ Friedrich August Gutte
 Johann Carl Friedrich Keitzsch
 ----------------
 Friedrich Claußnitzer
+1850
+Carl Gottfried Pahlitzsch
+Carl Heinrich Schiller
+----------------
+Christlieb Friedrich Lohse
+Friedrich Wilhelm Liebscher
+Heinrich August Martin
+Karl Gottlieb Vogler
+----------------
+Johann Gottfried Böttger
+Ernst Leberecht Seidler
+Johann Gottlob Kempe
+Friedrich Wilhelm Petzold
+Carl Gottlieb Pusch
+----------------
+Carl Friedrich Kirchhübel
+Ernst Theodor Gollmann
+Carl Gottlob Rümmler
+Carl Friedrich Wilhelm Rümmler
+----------------
+1851
+Carl Gottlieb Winckler
+Johann Heinrich Daniel Börner
+Carl Friedrich August Jungnickel
+Carl August Friedrich Weckbrodt
+----------------
+Christian Friedrich Walther
+Johann Georg Friebel
+Johann Carl Wilhelm Walther
+Johann David Lanzendorf
+Carl Gottlieb Böttger
+----------------
+Heinrich Wilhelm Pusch
+Heinrich Traugott Ehrt
+1852
+Friedrich Gotthold Ehrenreich Walther
+Johann Gottfried Richter
+----------------
+Carl Wilhelm Rümmler
+Hans Georg Aster
+Johann Gottlob Pettrich
+Carl Friedrich Ehregott Seifert
+----------------
+Carl Gottlieb Sommer
+Friedrich Wilhelm Walther
+Friedrich Wilhelm Richter
+----------------
+1853
+Carl Friedrich Gottlieb Schönherr
+Carl Friedrich Wilhelm Scharfe
+Friedrich Ehregott Walther
+Karl Friedrich Jäckel
+----------------
+Carl August Friedrich Lämpe
+Wilhelm Ferdinand Knoblau
+Carl Friedrich Wilhelm Kästner
+Johann Carl Gottfried Richter
+----------------
+Carl Gottlieb Seifert
+1854
+Christian Gottfried Hoffmann
+Johann Gottfried Fleischer
+Friedrich Wilhelm Liebscher
+----------------
+Carl Gottlob Schramm
+Moritz Liebegott Merkel
+Friedrich Wilhelm Leuteritz
+Friedrich Wilhelm Ernst Hengst
+----------------
+1855
+Friedrich Wilhelm Kotte
+Karl Gottfried Walther
+Gottlob Friedrich Renner
+Gottlob Friedrich Wilhelm Sommerschuh
+Johann Daniel Schubert
+----------------
+Friedrich Wilhelm Mutze
+Friedrich August Großpietzsch
+Christian Friedrich Walther
+Friedrich Traugott Grumbt
+----------------
+1856
+Karl August Steinichen
+Christian Friedrich Richter
+Christian Friedrich Richter
+Friedrich Andreas Müller
+----------------
+Johann Karl Gottlob Schmieder
+Johann Friedrich Kleeberg
+Karl Gottlieb Stenzel
+----------------
+1857
+Johann Gottlieb August Gäbel
+Karl Gottlieb Reichel
+Johann Heinrich Strauß
+Karl Gottlieb Börner
+----------------
+Johann Friedrich Wilhelm Holfert
+Gustav Conrad Walther
+Karl Gotthelf Schöne
+Karl Gottlieb Schubert
+----------------
+Ernst Wilhelm Franke
+Gustav Eduard Herrmann
+Heinrich Fürchtegott Walther
+Karl Friedrich August Claußnitzer
+----------------
+1858
+Karl Gottfried Lasch
+Karl Gottlob Püschel
+Christian Traugott Hauptmann
+Friedrich Wilhelm Stephan
+----------------
+Karl Wilhelm Richter
+Ernst Clemens Schubert
+Johann August Reichel
+Friedrich August Sommerschuh
+----------------
+Christian Friedrich Richter
+Karl Friedrich Wilhelm Walther
+Karl Friedrich Ferdinand Renner
+----------------
+1859
+Heinrich Ferdinand Müller
+Friedrich August Vogler
+Karl Ernst Grimmer
+Ernst Moritz Güldner
+----------------
+August Ehrenreich Mühle
+Friedrich August Henke
+Karl Heinrich Börner
+Friedrich Gotthelf Ritschel
+----------------
+Friedrich Wilhelm Rehschuh
+Friedrich Traugott Zimmermann
+Johann Friedrich Eduard Blüher
+Friedrich Wilhelm Lohse
+----------------
+Friedrich Wilhelm Sauerbrei

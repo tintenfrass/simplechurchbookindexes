@@ -1,5 +1,5 @@
 Somsdorf (Buch 725)
-Trauungen 1800-1849
+Trauungen 1800-1850
 https://www.archion.de/de/viewer/churchRegister/305695?pageId=42986231
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -12,6 +12,7 @@ Juli 2024
 Oktober 2024
 November 2024
 Februar 2025
+April 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -831,3 +832,27 @@ Friedrich August Moritz Schumann
 ----------------
 Johann Traugott Großmann
 Karl Heinrich Günther
+----------------
+1850
+Karl Traugott Rörster
+Karl Gottlieb Rothe
+Karl Gottfried Zimmermann
+Karl Gottlob Bellmann
+Johann August Bellmann
+Johann Traugott Conrad
+Karl August Menzer
+Karl Gottlieb Ehrenfried Wilhelm Friedrich Richter
+----------------
+August Julius Schöne
+Franz Magnus Classen
+Johann August Heinze
+Karl Gottlieb Junold
+Gottlob Heinrich Fischer
+Ernst Conrad Eduard Rüger
+Karl Traugott Herr
+Karl Christian Mißbach
+Karl Gottlieb Hauptmann
+Christian Gottlieb Thomas
+Christian Traugott Bürger
+Johann Gottfried Thiemer
+Karl Friedrich August Richter
