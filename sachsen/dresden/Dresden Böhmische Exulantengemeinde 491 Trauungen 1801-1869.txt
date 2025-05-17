@@ -1,5 +1,5 @@
 Dresden Böhmische Exulantengemeinde (Buch 491)
-Trauungen 1801-1859
+Trauungen 1801-1869
 https://www.archion.de/de/viewer/churchRegister/264671?pageId=36998576
 
 
@@ -10,6 +10,7 @@ September 2024
 Oktober 2024
 Januar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -177,3 +178,33 @@ Johann Friedrich Adolph Bischoff
 1859
 Karl Ernst Kirbach
 Friedrich August Wilhelm Scheibe
+1860
+Karl August Arnold
+Karl Gottfried Leberecht Lantsch
+Karl August Wappler
+----------------
+Karl Friedrich Striezel
+1861
+Gottlob Wilhelm Traugott Borrmann
+1862
+Karl Gottlob Wagner
+----------------
+Herrmann August Gustav Richter
+Karl Anton Herrmann Peßler
+1864
+Friedrich August Theodor Fritzsch
+Johann Friedrich Weise
+1865
+Woldemar Hugi Heinrich
+Friedrich Herrmann Hantzsch
+----------------
+1866
+Karl Ernst Kube
+1867
+1868
+Friedrich Eduard Richter
+Friedrich Gustav Traugott Tetzner
+1869
+Friedrich August Schmidt
+----------------
+August Robert Schumann
