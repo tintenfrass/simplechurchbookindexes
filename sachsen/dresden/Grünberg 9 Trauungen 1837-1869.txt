@@ -1,5 +1,5 @@
 Grünberg (Buch 9)
-Trauungen 1837-1859
+Trauungen 1837-1869
 https://www.archion.de/de/viewer/churchRegister/279928?pageId=38496894
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Oktober 2024
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -190,3 +191,105 @@ Gottlieb August Kluge
 ----------------
 Johann Carl Friedrich
 Johann Gottfried Grünberg
+1860
+Johann Gottlieb Bergmann
+Friedrich Traugott Herrmann Wirth
+Carl Gottfried Trepte
+Carl Friedrich Kotte
+Christoph August Leopold Mißbach
+Carl August Scherze
+----------------
+Johann Gottfried Ringel
+Johann Gottlob Lohrmann
+Johann Gottlieb Friedrich
+Carl August Heinrich Graf
+Carl Gottlob Lödrich
+Carl Wolfgang Agathon Köhler
+----------------
+1861
+Johann Gottlob Grundmann
+Ludwig Herrmann Dietrich
+Carl Christoph Hähnel
+Johann Buder
+Carl Gottfried Schöne
+----------------
+1862
+Friedrich Traugott Grafe
+Johann Wilhelm Traugott Liebezeit
+Ernst Gottlob Menzel
+Friedrich August Thieme
+Johann Carl Gottlieb Gebauer
+Friedrich Traugott Lehmann
+----------------
+1863
+Ernst August Kämmel
+Gottlob Ernst Müller
+Johann August Krostag
+Carl August Zscheischler
+Friedrich August Wilhelm Frömmel
+Carl Friedrich Käppler
+----------------
+Ernst Ludwig Müller
+Carl Friedrich Körner
+1864
+Gottlob Friedrich Großmann
+Johann Gottlob Schäfer
+----------------
+Friedrich Ernst Schreiber
+Carl August Stein
+Paul Maximilian Kegel
+Carl Heinrich Kluge
+Traugott Leberecht Lehmann
+Carl Gottfried Körner
+Joseph Ignaz Botta
+----------------
+1865
+Carl Heinrich Trepte
+Ernst Eduard Peisel
+Carl Gottlob Sperling
+Friedrich August Trepte
+Christian Friedrich Ernst Riemer
+Friedrich Ernst Katzer
+----------------
+1866
+Friedrich Traugott Trepte
+Carl Gottlieb Kirsten
+Carl August Kretzschmar
+Carl Gottlieb Ferdinand Wirth
+Christoph Friedrich Gunold
+----------------
+1867
+Heinrich Gottlob Thronicke
+Johann Traugott Samuel Tamme
+Gotthelf Traugott Dressler
+Georg Schittmann
+Carl Gottlob Mütze
+----------------
+Wilhelm Ferdinand Teichmann
+Johann Friedrich Schütze
+1868
+Traugott Leberecht Bienert
+----------------
+Friedrich Gottlieb Trepte
+Friedrich August Stein
+Friedrich August Claus
+Carl Friedrich Zumpe
+Emil Wilhelm Schindler
+----------------
+Johann Traugott List
+Carl Friedrich Graefe
+Friedrich August Menzel
+Friedrich August Hauswald
+----------------
+1869
+Ernst Gottlob Zschachel
+Friedrich Traugott Eisold
+Carl Ernst Vogt
+Carl Traugott Stölzer
+Carl Ernst Kluge
+----------------
+Friedrich August Schneider
+Carl Wilhelm Wagner
+Gotthelf August Tamme
+Friedrich Ernst Strauss
+Johann Carl Steglich

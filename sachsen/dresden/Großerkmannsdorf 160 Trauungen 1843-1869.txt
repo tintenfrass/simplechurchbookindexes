@@ -1,5 +1,5 @@
 Großerkmannsdorf (Buch 160)
-Trauungen 1843-1859
+Trauungen 1843-1869
 https://www.archion.de/de/viewer/churchRegister/280080?pageId=38530570
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -250,3 +251,176 @@ Gottlieb August Pohle
 Friedrich Ernst Ziesche
 ----------------
 Karl Gottlieb Philipp
+1860
+Karl Traugott Born
+Karl Herrmann Ehrenfried Geyler
+Gottfried Ernst Müller
+Karl August Hanicke
+----------------
+Karl August Forke
+Ernst Julius Ehrenfried Geyler
+Johann August May
+Ernst Eduard Pappritz
+----------------
+Friedrich August Schurig
+Johann Carl Ernst Häntzschel
+Carl August Gaebler
+Carl August Müller
+----------------
+Carl Ehrenfried Garten
+Carl August Schöne
+Carl August Michel
+----------------
+Johann Gottlieb Kießlich
+Carl August Großmann
+1861
+Carl Gottlieb Kößler
+----------------
+Johann Gottlieb Bungert
+Ernst Ferdinand Müller
+Johann Gottlieb Richter
+Carl August Nitzsche
+----------------
+Friedrich Ferdinand Nacke
+Carl August Bernd
+Friedrich Ernst Hanice
+----------------
+Carl Traugott Schmidt
+----------------
+1862
+Carl Traugott Kurze
+Ernst Ludwig Hantzsche
+Johann Carl August Bürger
+----------------
+Johann Gottfried Pahlitzsch
+Carl August Philipp
+Eduard Heinrich Leberecht Märkel
+----------------
+Friedrich Wilhelm Kunath
+----------------
+1863
+Heinrich Ferdinand Müller
+Ernst Häse
+Johann Gottlieb Heinrich Wolf
+----------------
+Wilhelm August Gebauer
+Carl August Müller
+Ernst Wilhelm Schmidt
+----------------
+Ernst Eduard Heider
+Wilhelm Mai
+Ernst Louis Demelt
+----------------
+Carl Gottlob Leberecht Jähnichen
+Ernst Wilhelm Wächter
+Herrmann Adolph Neuberth
+----------------
+Johann Gottlieb Schöne
+Carl August Jenzsch
+Johann Carl Gottlieb Bürger
+----------------
+Karl August Leuthold
+Christian Gottlieb Kegel
+Friedrich August Schmiedel
+----------------
+Carl Gottfried Moritz Roch
+----------------
+1864
+Carl Traugott Jähnichen
+Moritz Ferdinand Müller
+Friedrich August Albrecht
+----------------
+Wilhelm Mai
+Carl Friedrich Pommrich
+Robert Moritz Neuberth
+----------------
+Peter Lange
+Ernst Gottfried Angermann
+Carl Gottfried Hölzel
+----------------
+Carl August Klotzsche
+Ferdinand Reinhold Beyer
+Carl August Müller
+----------------
+Moritz Ferdinand Müller
+----------------
+1865
+Friedrich August Wächter
+Johann Traugott Förster
+Johann Traugott Hartmann
+----------------
+Friedrich Wilhelm Bürger
+Gustav Herrmann Pahlisch
+Wilhelm Ludwig Kluge
+----------------
+Carl Ernst Jähnichen
+Carl Gottlieb Forke
+August Leberecht Tittel
+----------------
+Johann Traugott Völkel
+Friedrich August Müller
+Wilhelm Keller
+----------------
+Carl Traugott Hübler
+----------------
+1866
+Ernst Wilhelm Leuthold
+Friedrich August Klahre
+Ernst Wilhelm Janke
+----------------
+1867
+Robert Emil Wirth
+Carl August Demelt
+Carl August Hofmann
+----------------
+Carl Heinrich Leske
+Carl August Ernst Kegel
+Gottfried Adolph Naumann
+----------------
+Ernst Gottlieb Müller
+Carl Louis Julius Schumann
+Johann Ernst Schäfer
+----------------
+Friedrich August Ernst Missbach
+Carl August Leuner
+Karl Friedrich Häußler
+August Leberecht Roch
+----------------
+Carl August Forke
+----------------
+1868
+Friedrich August Müller
+Carl August Schöne
+Carl August Kittan
+Ernst Julius Ufer
+----------------
+Gustav Adolf Arnold
+Ferdinand Mai
+Gottlieb Ferdinand Hofmann
+Gottlob Leberecht Schäfer
+----------------
+Johann Karl August Meißner
+Ernst Julius Friedrich Neuberth
+Karl Wilhelm Michel
+----------------
+1869
+Ernst Wilhelm Forke
+August Wilhelm May
+Friedrich Wilhelm Steinert
+----------------
+Friedrich August Sicca?
+Karl August Müller
+Carl Gotthelf Zeiler
+Friedrich Wilhelm Forke
+----------------
+Carl Robert Blochwitz
+Carl August Opitz
+Carl Friedrich Mißbach
+August Friedrich Adolf Schneider
+----------------
+Friedrich August Gründling
+Friedrich August Philipp
+Johann Christoph Mai
+----------------
+Gottfried Leberecht Mai
+Ernst Moritz Henker
