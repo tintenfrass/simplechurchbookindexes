@@ -1,5 +1,5 @@
 Klotzsche (Buch 16)
-Trauungen 1847-1859
+Trauungen 1847-1869
 https://www.archion.de/de/viewer/churchRegister/279935?pageId=38497573
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -149,3 +150,134 @@ Johann Christian Gommlich
 Carl Kappler
 Gottfried August Körnert
 Carl Gottfried Paehlig
+----------------
+1860
+Johann Gottlieb Bergmann
+Johann Julius Koch
+Carl Friedrich Hofmann
+Friedrich August Mißbach
+Carl August Jacob
+----------------
+Daniel Julius Seide
+Carl Gottlob Menzel
+Ernst August Kaulfuß
+Carl Gottlob Ufert
+Carl Gottlieb Zichner
+----------------
+1861
+Johann Gottlob Hofmann
+Johann Friedrich Kuntzsch
+Johann Fürchtegott Heinrich Lindner
+Johann Wilhelm Heinrich Neidthardt
+Carl Gottlieb Stelzer
+----------------
+Johann Gotthelf Zichner
+Friedrich Gottlob Grossmann
+Johann Carl Gottlieb Hentschel
+1862
+Karl Gottfried Kuntzsch
+Christian Michael Schütze
+----------------
+Ernst Moritz Hentzschel
+Johann Gotthelf Menzel
+Karl Friedrich Hofmann
+Johann Traugott Schulze
+----------------
+Gustav Louis Zimmermann
+Karl Gottlob Rosenkranz
+Friedrich Wilhelm Zimmermann
+August Liebegott Thieme
+Ernst Emil Thieme
+----------------
+Johann Gottlieb Klotzsche
+1863
+Julius Eduard Kaulfuß
+Carl Moritz Kuntzsch
+Carl Friedrich Kuntzsch
+Julius August Dreßler
+----------------
+Johann Gottfried Rarisch
+Ernst Friedrich Kurzreuter
+Johann Gottlob Wagner
+Johann Traugott Delang
+Friedrich August Schütze
+Johann Traugott Vogel
+----------------
+Friedrich Gottlob Theodor Handrich
+Friedrich Ernst Stölzer
+1864
+Johann Gottlob Weber
+Ernst Wilhelm Weber
+----------------
+----------------
+----------------
+Christian Ernst Hellmann
+Carl Friedrich Hamann
+Oscar Robert Uhlmann
+Johann August Gommlich
+Johann Gottlieb Kuntzsch
+Gustav Theodor Emil Kullmann
+----------------
+1865
+Johann Gotthelf Kuntzsch
+Friedrich Herrmann Curt
+Carl Gottlob Kaulfuß
+Carl Gottfried Heichen
+Johann Gottfried Heichen
+Carl Gotthelf Hofmann
+----------------
+Johann Gottfried Schütze
+Ernst Wilhelm Hofmann
+Friedrich Gottlieb Menzel
+Johann Gottlieb Pietzsch
+Johann August Kuntzsch
+Heinrich Adolph Kluge
+----------------
+Friedrich Eduard Müller
+1866
+Louis Clemens Uhlmann
+Heinrich Traugott Ferdinand Kuntzsch
+Carl Gottlob Heichen
+----------------
+Carl Friedrich Wilhelm Becker
+Johann Traugott Kuntzsch
+Johann Friedrich August Huebner
+Carl Gottfried Hempelt
+Heinrich Stelzer
+----------------
+Carl Theodor Lange
+Gotthelf Leberecht Schröter
+1867
+Johann August Heichen
+Johann Gottlob Klotsche
+----------------
+Ernst August Engler
+Ernst Friedrich Wilhelm Günther
+Traugott Heinrich Reinfold
+Johann Carl Gottfried Bergmann
+Carl Traugott Zscheile
+Gustav Ehregott Zimmermann
+----------------
+Johann Traugott Kuntzsch
+Hugo Gottlob Oswald Lindner
+Friedrich August Hofmann
+Friedrich August Steglich
+Friedrich August Kind
+----------------
+1868
+Herrmann Steglich
+Carl Gotthelf Bergmann
+Ernst Wilhelm Kuntzsch
+Carl Traugott Müller
+August Ferdinand Siegert
+Carl Ernst Höhne
+----------------
+Friedrich Wilhelm Großmann
+1869
+Friedrich August Damme
+Carl Friedrich Ernst Pommrich
+Carl Friedrich August Gärtner
+----------------
+Gottlieb Karl Strauß
+Karl Gottfried Pohle
+Heinrich Eduard Möbius

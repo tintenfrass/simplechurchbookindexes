@@ -1,5 +1,5 @@
 Kleinwolmsdorf (Buch 165)
-Trauungen 1770-1859
+Trauungen 1770-1869
 https://www.archion.de/de/viewer/churchRegister/264497?pageId=36954139
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -14,6 +14,7 @@ September 2024
 Oktober 2024
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -766,3 +767,124 @@ Johann Ernst Krause
 Franz Gottlieb Schmidt
 Carl Friedrich Leberecht Mädiger
 Johann Gottfried Gröber
+----------------
+1860
+Friedrich Julius Schreier
+Christian Friedrich Junghanns
+Karl Ehrenfried Philipp
+Fürchtegott Leberecht Förster
+Carl Gottlieb Moritz Voigt
+Carl August Gäbler
+----------------
+1861
+Karl Gottlieb Moritz Voigt
+Gottfried Traugott Kretzschmar
+Johann Traugott Wilhelm Bundermann
+Johann Friedrich August Schmidt
+Carl August Mittag
+Johann August Beunert
+Carl Gottlieb Große
+----------------
+Johann August Eisold
+1862
+Friedrich August Zitzmann
+Carl August Züchner
+Karl Friedrich Leberecht Mädiger
+Karl August Philipp
+August Carl Horney
+----------------
+Ernst Heinrich Leunert
+Johann Gottfried Kluge
+Karl August Rosenkranz
+Karl Gottlob Tietze
+----------------
+1863
+Carl August Däubel
+August Ephraim Müller
+Christian Friedrich Tronick
+Friedrich Louis Golbß
+Andreas Ziesch
+Johann Karl Traugott Sohre
+Friedrich Gotthold Schreinr
+----------------
+Wilhelm Mai
+Karl Heinrich Kluge
+Karl Friedrich Klahre
+Johann Karl Gottlieb Bürger
+Gottlob Michael Müller
+Karl Traugott Philipp
+Johann Karl Gottlieb Eisold
+----------------
+1864
+Karl Leonhard Friedel
+Johann Gottlieb Sickert
+Karl Fürchtegott Gäbler
+Karl Ernst Michel
+Julius Adolph Müller
+Johann Gotthelf Große
+----------------
+Johann Karl Wilhelm Koch
+Ernst Ludwig Mädiger
+1865
+Karl August Mädiger
+Karl Gotthold König
+Johann Karl Traugott Sahre
+----------------
+Karl Heinrich Große
+Friedrich August Müllner
+Friedrich Wilhelm Bürger
+Eduard Emil Gärtner
+Karl August Mehnert
+Karl Gottlieb Pfennig
+----------------
+Johann Friedrich Traugott Otto
+August Leberecht Tittel
+Johann Gottlieb Sickert
+Friedrich August Große
+Michael Ziesch
+Friedrich Wilhelm Peuker
+----------------
+Karl August Eisold
+Karl Christoph Großmann
+Karl August Weber
+1866
+Karl August Böhme
+Karl August Weise
+----------------
+Johann Karl Traugott Kluge
+Karl August Mittag
+Johann August Schmeiß
+Karl Friedrich Hantsche
+Friedrich Gustav Nitzsche
+Friedrich Moritz Vutter
+Karl August Klahre
+----------------
+Johann Traugott Thomas
+1867
+Karl August Demelt
+Karl Gottlob Müller
+Friedrich August Pfeil
+Ernst Gottlieb Müller
+----------------
+Johann Gottlob Schöne
+Karl Ehrenfried Philipp
+Johann Gottlieb Wilhelm Eiselt
+1868
+Johann Heinrich Moritz Rößler
+Karl Traugott Müller
+Karl August Schöne
+----------------
+Robert Bernhard Daübel
+Friedrich Wilhelm Berger
+Wilhelm Adolph Hennig
+Karl August Nitzsche
+Karl August Großmann
+----------------
+1869
+Carl Gotthelf Schöne
+Gustav Adolph Eduard Philipp
+Johann Eduard Eisold
+Julius Theodor Werner
+----------------
+Johann August Große
+Friedrich Wilhelm Schöne
