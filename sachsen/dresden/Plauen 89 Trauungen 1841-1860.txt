@@ -1,10 +1,11 @@
 Plauen (Buch 89)
-Trauungen 1841-1859
+Trauungen 1841-1860
 https://www.archion.de/de/viewer/churchRegister/263409?pageId=36747411
 
 
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -406,3 +407,29 @@ Heinrich Eduard Welde
 Johann Gottlieb Vogelgesang
 Laurentius Malleschütz
 Julius Herrmann Seidel
+---------------- x16
+1860
+Gottfried Louis Braune
+Carl Traugott Ernst Lindemann
+Carl Gottlieb Röllig
+Johann Wilhelm Rudolph Aehlig
+Andreas Meicher
+Michael Sarodnik
+Johann Gottlieb Wehner
+Clemens Eduard Beuke
+Heinrich August Gotthardt
+----------------
+Friedrich August Kaiser
+Carl Friedrich Andrä
+Ernst Grafe
+Carl Traugott König
+Carl August Macherauch
+Carl Wilhelm Wenzel
+Carl August Kuntzsch
+Johann Gottlob Schanz
+August Herrmann Zieger
+----------------
+Carl Gottlob Grunberg
+Friedrich August Andrich
+Julius Erdmann Ackermann
+Carl Gottlieb Schwenke
