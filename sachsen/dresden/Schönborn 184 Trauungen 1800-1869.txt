@@ -1,5 +1,5 @@
 Schönborn (Buch 184)
-Trauungen 1800-1859
+Trauungen 1800-1869
 https://www.archion.de/de/viewer/churchRegister/264515?pageId=36960284
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -13,6 +13,7 @@ September 2024
 November 2024
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -477,3 +478,98 @@ Julius Adolph Schöne
 Friedrich August Johne
 Johann Georg Tamme
 Carl August Stelzer
+1860
+Karl Gottlieb Jahn
+Karl Gotthold Zeiler
+Johann Gottlieb Müller
+Carl Gottlieb Michael
+Carl Wilhelm Kunath
+----------------
+1861
+Carl Gottfried Johne
+Johann Gottlob Hofmann
+Carl Friedrich Höhne
+Johann Traugott Schmidt
+Carl August Stelzer
+Johann Friedrich Felve
+Johann Friedrich Stolle
+Gottlob August Pietsch
+----------------
+Carl Christian Roch
+Friedrich August Huhle
+Friedrich Ernst Wehse
+Carl Gottlob Klengel
+Carl August Biese
+----------------
+1862
+Carl Eduard Kirback
+Carl Friedrich Ernst Hantsche
+Johann Gotthelf Menzel
+Ernst August Peschel
+Friedrich August Hofmann
+Carl Gottlob Stiehler
+Franz Julius Ackermann
+----------------
+1863
+Friedrich August Claus
+Traugott Wilhelm Tamme
+Heinrich Gottlob Lucius
+Karl Gottfried Kluge
+----------------
+1864
+Johann Traugott Hoßmang
+Ernst Wilhelm Weber
+Karl August Schmidt
+Johann Gottfried Naake
+Friedrich Ernst Wehse
+----------------
+1865
+Karl Heinrich Trepte
+Johann Gottfried August Hase
+Karl August Schelle
+Gottfried Wilhelm Kluge
+Friedrich August Großmann
+----------------
+Karl Christian Roch
+Friedrich Herrmann Fürchtegott Kloppe
+Friedrich August Gaebler
+Johann Gottlob Schmidt
+Carl August Jahn
+----------------
+Carl Gottlieb Hennig
+1866
+Friedrich August Riemer
+Carl Gotthelf Baier
+Friedrich Wilhelm Schmidt
+Johann Traugott Schmidt
+----------------
+1867
+Gotthelf Julius Standfuß
+Ferdinand Moritz Rammer
+Karl Ferdinand Rappe
+Carl Gottfried Pietzsch
+Carl Traugott Leberecht Hörnig
+----------------
+Friedrich August Ernst Mißbach
+Carl Christoph Schmidt
+Moritz Ernst Adolph Pfützner
+Carl Christoph Zumpe
+----------------
+Carl Gottlieb Vogel
+1868
+Johann Heinrich Pietzsch
+Carl Gottfried Schmiedtgen
+Johann Carl Zschwauck
+----------------
+Carl Friedrich Wilhelm Völkel
+Friedrich Gotthelf Traeber
+Carl August Tamme
+Johann Gottlob Stelzer
+----------------
+Carl Friedrich Hörnig
+Carl August Hörnig
+1869
+Traugott Leberecht Tamme
+----------------
+Ernst Leberecht Stelzer
+Ernst Ludwig Schreider

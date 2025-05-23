@@ -1,5 +1,5 @@
 Wachau (Buch 199)
-Trauungen 1845-1859
+Trauungen 1845-1869
 https://www.archion.de/de/viewer/churchRegister/264530?pageId=36969948
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -264,3 +265,174 @@ Karl Klemens Rosenkranz
 Ferdinand Moritz Rammer
 Johann Gottfried Zumpe
 Karl Ferdinand Hasemann
+----------------
+1860
+Karl Traugott Mager
+Friedrich Traugott Herrmann Wirth
+Friedrich August Misbach
+Johann Heinrich Friedrich Müller
+Karl August Heller
+Karl Gottfried Trepte
+----------------
+Johann Gottlieb Angermann
+Karl Traugott Klengel
+Friedrich August Claus
+Johann Gottlieb Treber
+Karl Gottlob Hauffe
+----------------
+1861
+Karl August Grossmann
+Gottlob Andreas Urban
+Karl August Fritzsche
+Karl Gotthelf Bader
+Karl Friedrich Claus
+Karl Gottlob Klengel
+Friedrich Wilhelm Völkel
+----------------
+1862
+Gottlob Heinrich Mager
+Friedrich Wilhelm Henke?
+Karl Moritz Franke
+Gustav Adolf Fichtner
+Johann Christoph Sonntag
+----------------
+Karl Gottlob Rosenkranz
+Friedrich Wilhelm Bötger
+Karl Gotthelf Hempel
+Karl Christoph Klengel
+Friedrich August Büttner
+Johann Gottlob Herrmann?
+Friedrich August Just?
+----------------
+1863
+Karl Friedrich Claus
+Heinrich Wilhelm Misbach
+Karl Christoph Schulze
+Johann Friedrich August Zimmermann
+Karl Gottlieb Philipp
+Karl Friedrich Böhme
+Friedrich August Keiling
+----------------
+Karl August Sonntag
+Karl August Ufer
+Gottfried Heinrich Sonntag
+Christoph August Herrmann
+Karl Gustav Heym
+Friedrich August Großmann
+Gottfried August Mäser
+Karl Gottfried Kunze
+----------------
+Karl Julius Huhle
+Friedrich Wilhelm Sonntag
+Friedrich Traugott Gärtner
+Ernst Wilhelm Kühne
+1864
+Friedrich Leberecht Schindler
+Karl Gottlob Vogel
+----------------
+Karl Traugott Schindler
+Johann Karl August Anders
+Friedrich Gustav Baade
+Ernst Wilhelm Müller
+Ernst Gottlieb Mayer
+Ernst Wilhelm Völkel
+Carl Ernst Zeidler
+Friedrich August Birnstengel
+----------------
+Carl Gottlieb Lotmann?
+1865
+Friedrich Wilhelm Pfund
+Friedrich August Wächter
+Johann Gottfried Lorenz
+Theodor Ferdinand Förster
+Karl Friedrich Wilhelm Ludwig
+----------------
+Karl Friedrich Klengel
+Ernst Louis Friedrich
+Karl Wilhelm Wehnert
+Karl August Heller
+Karl Wilhelm Müller
+Karl Robert Lange
+Karl August Müller
+----------------
+Friedrich August Rosenkrantz
+Karl Ferdinand Werner
+Friedrich August Rosenkranz
+1866
+Johann Matthäus Neschke
+Friedrich August Sonntag
+Karl Heinrich Schurig
+----------------
+Johann Gottlieb Körner?
+Karl Gottfried Hempel
+Friedrich August Löscher
+Karl August Just
+Karl Angermann
+1867
+Karl Gottlob Rosenkranz
+----------------
+Johann Gottlob Just
+Karl Otto Cästner
+Friedrich August Angermann
+Karl Julius Müller
+Gottlieb Ernst Görner
+Karl Eduard Mehnert
+Johann Gottlob Völkel
+----------------
+Friedrich Wilhelm Sonntag
+Friedrich August Peschel
+Friedrich August Lauthold
+Karl Ferdinand Huhle
+Johann Traugott Tamme
+Karl Gottlieb Just
+----------------
+Karl August Görner
+Johann Wilhelm Schönbach
+Karl Gottlob Misbach
+Karl August Forke
+1868
+Karl Gottlieb König
+Johann Gottlob Haubold
+Karl Robert Wuttlich
+----------------
+Johann Gottfried Ernst Philipp
+Friedrich August Schulze
+Gustav Adolf Arnold
+Johann Gottlieb Grommann
+Karl Martin Emil Baars
+Karl Konrad? Wuttich
+Karl August Rosenkranz
+----------------
+Friedrich Traugott Klotzsche
+Karl August Nitzsche
+Reinhold E? Knauth
+August Bär
+----------------
+1869
+Karl August Stübner
+Johann Gottlob Schulze
+Wilhelm Ernst Forke
+Friedrich August Putzke
+Karl Friedrich Birnstengel
+Johann Friedrich Herrmann Karl Zschiedrich
+Friedrich Leberecht Lehmann
+----------------
+Ernst Wilhelm Sickort
+Karl Gottlob Gärtner
+Friedrich August Rössler
+Karl Christoph Birnstengel
+Johann Gottlieb Görner
+Karl August Lohmann
+Heinrich Otto Gustav Tischer
+----------------
+Karl Friedrich August Schäfer
+Friedrich Wilhelm Aergemann
+Ernst Ludwig Wörner
+Julius Theodor Werner
+Friedrich August Hennig
+Karl August Opitz
+----------------
+Karl August Ufer
+Johann Christoph Völkel
+Friedrich Ferdinand Hering
+Karl August Müller

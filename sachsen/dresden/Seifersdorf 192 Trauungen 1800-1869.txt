@@ -1,18 +1,19 @@
 Seifersdorf (Buch 192)
-Trauungen 1800-1859
+Trauungen 1800-1869
 https://www.archion.de/de/viewer/churchRegister/264523?pageId=36963541
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1 Stunde
+Erstellt in ca. 1,5 Stunden
 April 2024
 Juli 2024
 September 2024
 November 2024
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -661,3 +662,153 @@ Carl Gottlieb Oese
 Johann Gottfried Zumpe
 Johann Gottfried Quosdorf
 Carl Gustav Eppendorf
+----------------
+1860
+Georg Schlieffen
+Johann Julius Koch
+Carl Traugott Schöne
+Friedrich August Kunath
+Gottlob August Schmidt
+----------------
+Carl August Heller
+Johann Gotthelf Stange
+Ernst Moritz Jenichen
+Carl Friedrich Zumpe
+Carl Gottlob Lödrich
+Johann Traugott Bürger
+----------------
+Carl Gottlob Tamm
+Carl Ernst Kittner
+1861
+Carl August Drescher
+Friedrich Fürchtegott Schreiber
+----------------
+Carl Gottlieb Hase
+Johann August Wagner
+Johann August Türke
+Johann Traugott Großmann
+Carl Gottfried Mutter
+Carl Gottlieb Großmann
+----------------
+Friedrich Ernst Wehse
+Carl Gottlob Lödrich
+1862
+Carl Friedrich Beide
+Friedrich Traugott Tögel
+----------------
+Johann Gottlob Seiler
+Carl Gottlob Geißler
+Friedrich August Ringel
+Johann Gottfried Thamme
+Friedrich Carl Alexander Reinhold Pfuel
+Traugott Wilhelm Philipp
+----------------
+Friedrich Wilhelm Zimmermann
+Heinrich Wilhelm Zimmermann
+Friedrich August Just
+1863
+Johann Gottfried Born
+----------------
+Friedrich Ernst Großmann
+Carl Moritz Kuntzsch
+Friedrich August Sähmisch
+Friedrich Wilhelm Probst
+Johann Gottlob Völkel
+Friedrich Ernst Schreiber
+----------------
+Friedrich August Gärtner
+Johann Gottfried Probst
+Carl Friedrich Wilhelm Thomas
+Johann Traugott Dietze
+Ernst Herrmann Schlegel
+Carl Gottfried Fraulob
+----------------
+Carl Robert Schulze
+Carl Wilhelm Leipert
+1864
+Johann Gottlob Quosdorf
+Carl Friedrich Wehse
+----------------
+Gottlob Friedrich Großmann
+Johann Carl Gottlieb Siebert
+Johann Friedrich Großmann
+Friedrich Traugott Klotzsche
+Ernst Wilhelm Völkel
+Friedrich August Mittag
+----------------
+Friedrich August Großmann
+Carl Heinrich Kluge
+Carl Traugott Menzel
+Carl Friedrich Drescher
+Carl Traugott Schindler
+Gottfried August Eisoldt
+----------------
+1865
+Johann Traugott Schäfer
+Carl Heinrich Trepte
+Carl Gottlieb Klux
+Carl Gotthelf Wehse
+Carl Friedrich Klotzsche
+----------------
+Friedrich August Großmann
+Gustav Adolph Ferdinand Bork
+Johann Gottlieb Volkert
+Ernst Leberecht Gutmann
+Carl Gottlob Lödrich
+Carl Gottlieb Frömmel
+----------------
+1866
+Friedrich Leberecht Großmann
+Johann Gottfried Völkel
+Carl Christoph Wolf
+Johann Gottlieb Preusche
+Friedrich Ernst Oese
+----------------
+Carl Friedrich Müller
+Carl Christoph Zumpe
+Friedrich August Löscher
+Carl Gottfried Gärtner
+Johann August Grützner
+----------------
+1867
+August Leberecht Grützner
+Johann Gottfried Großmann
+Gottlieb Ernst Görner
+Carl Gottlob Großmann
+Ernst Leberecht Müller
+----------------
+Carl Friedrich Lode
+Friedrich August Lohrmann
+Friedrich Wilhelm Trepte
+Carl Gottlieb Just
+Ernst Wilhelm Großmann
+----------------
+1868
+Ernst Friedrich Wehse
+Johann Heinrich Pietzsch
+Carl Gottfried Kunath
+Carl Friedrich Wilhelm Völkel
+Friedrich August Claus
+----------------
+Carl Friedrich Zumpe
+Friedrich Traugott Klotzsche
+Friedrich Lebrecht Großmann
+Friedrich Leberecht Heine
+Friedrich August Menzel
+Carl August Schreiber
+----------------
+1869
+Johann Gotthelf Kotte
+Carl Friedrich Kunath
+Friedrich Wilhelm Claus
+Carl August Emil Hartmann
+Friedrich Traugott Eisold
+----------------
+Carl Gottlob Gärtner
+Carl Ernst Kluge
+Carl Gottfried Stein
+Friedrich Traugott Gebauer
+Johann Gottlob Großmann
+Carl Friedrich Probst
+----------------
+Friedrich August Quosdorf

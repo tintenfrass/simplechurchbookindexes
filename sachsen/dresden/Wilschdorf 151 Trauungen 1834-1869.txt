@@ -1,5 +1,5 @@
 Wilschdorf (Buch 151)
-Trauungen 1834-1859
+Trauungen 1834-1869
 https://www.archion.de/de/viewer/churchRegister/280071?pageId=38529138
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 November 2024
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -219,3 +220,100 @@ Carl Gotthelf Kutzmann
 Friedrich August Riemer
 Carl Traugott Nicht
 Carl Gottfried Wagner
+----------------
+1860
+Gottlieb Moritz Krause
+Ernst Moritz Jenichen
+Franz Heinrich Friedrich
+Friedrich Gottlob Fickler
+Johann Carl Gäbler
+Johann Gottlob Traugott Behrisch
+----------------
+1861
+Johann Gottlieb Seidel
+Johann August Wagner
+Johann Friedrich Adolph Naumann
+Carl Eduard Hensel
+Carl August Gommlich
+Johann Gottlob Schmidt
+Johann Gottlieb Thalheim
+----------------
+Johann Gottlob Tamme
+Johann Gottfried Findeisen
+Gottlob August Adam
+August Karl Gommlich
+1862
+Karl Gottlieb Kuntzsch
+Johann Adolph Gäbler
+----------------
+Heinrich Wilhelm Boden
+Ernst Theodor Schumann
+Christian Michael Schütze
+Karl Gottlieb Gommlich
+Johann? Gottfried Behnisch //Karl
+Karl Traugott Gommlich
+----------------
+Johann Friedrich August Trepte
+Johann Friedrich Ernst Gommlich
+Karl Ernst Gommlich
+Karl Traugott Kühn
+Johann Gottlob Gärtner
+----------------
+1863
+Johann Gottlob Kunath
+Friedrich August Münch
+Johann Gottfried Rarisch
+Friedrich August Meißner
+Johann Gottlob Schreiter
+Carl Traugott Menzel
+----------------
+Carl Gottlob Klotsche
+Carl August Schmiedchen
+1864
+Carl Gottlob Kunath
+Johann Mickel
+Friedrich August Petzschel
+----------------
+Carl August Geißler
+Friedrich Wilhelm Moritz Thomas
+Johann August Gommlich
+Christian Traugott Hertzschuch
+----------------
+1865
+Friedrich August Kunath
+Friedrich August Künzel
+Carl Traugott Türke
+1866
+Johann Gottlob Ernst König
+----------------
+Carl Traugott Schmiedchen
+Johann Gottlob Hofmann
+1867
+Carl August Rosenkranz
+Johann Gottlieb Zumpe
+Carl Traugott Jacob
+----------------
+Carl August Zumpe
+Johann Traugott Hofmann
+Carl Gotthelf Großmann
+Friedrich Gottlob Kleinstück
+Friedrich August Kind
+----------------
+Johann Gottfried Schulze
+1868
+August Herrmann Graf
+Traugott Wilhelm Wolf
+Friedrich Wilhelm Meißner
+Carl Gottfried Kuntzsch
+----------------
+Johann Gottlieb Jacob
+Carl Traugott Meißner
+1869
+Carl Gottlieb Petzold
+Carl August Witzschold
+Johann Christian August Behrisch
+----------------
+August Moritz Otto Doemel
+Johann Traugott Kind
+Carl Gottfried Pohle
+Ernst Ludwig Schreider
