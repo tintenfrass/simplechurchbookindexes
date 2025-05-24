@@ -1,10 +1,11 @@
 Deutschenbora (Buch 4)
-Trauungen 1841-1859
+Trauungen 1841-1869
 https://www.archion.de/de/viewer/churchRegister/281069?pageId=38776910
 
 
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -247,3 +248,138 @@ Carl August Ziegs
 Andreas Schwedler
 Carl Wilhelm Kolbe
 Carl August Striegler
+----------------
+1860
+Friedrich Louis Ranisch
+Johann Carl Ferdinand Schubert
+Wilhelm August Horn
+Moritz Wilhelm Pötzsch
+----------------
+Carl Heinrich Pötzsch
+Friedrich Wilhelm Garbe
+Friedrich Ernst Steude
+Carl Traugott Damme
+----------------
+Ernst Moritz Schumann
+Heinrich Wilhelm Straube
+Friedrich Ernst Hombsch
+----------------
+Carl Traugott Starke
+----------------
+1861
+Carl Gottlieb Schüttoff
+Friedrich Ernst Hantschuch
+Heinrich Stange
+Friedrich Ferdinand Braband
+----------------
+Carl Friedrich Jost
+Friedrich Theodor Erler
+Franz Julius Müller
+----------------
+Johann Gottlob Wittig
+----------------
+1862
+Carl Ehregott Schnee
+Friedrich Ernst Julius Muster
+Ernst Heinrich Lotze
+----------------
+Carl Eduard Stohn
+Carl Friedrich Günther
+Johann Gottfried Ranft
+Carl Gottlieb Hempel
+----------------
+Carl Gottlieb Günther
+Johann Carl Friedrich Wilhelm Schanze
+Gotthelf Friedrich Leipner
+Carl Gottlob Gerlach
+Friedrich August Fischer
+----------------
+1863
+Carl Friedrich Geissler
+Carl August Dürichen
+Carl Friedrich Hannes
+Carl Gottlieb Opitz
+Carl Friedrich Ernst Rappe
+Friedrich Ferdinand Eckert
+Carl Heinrich Helm
+Liebegott Walther
+----------------
+Ernst Ferdinand Homberg
+Carl Heinrich Pötzsch
+Ernst August Rädisch
+August Wilhelm Hänsgen
+Ernst Wilhelm Schubert
+Ernst Eduard Neidhardt
+Carl Gottfried Neidhardt
+----------------
+Friedrich Ferdinand Julius Möhler
+Friedrich Herrmann Pötzsch
+1864
+Carl August Stange
+Ernst Julius Birkner
+Johann Gottlieb Donath
+Ernst Theodor Weise
+----------------
+Herrmann Julius Dietrich
+Carl Ferdinand Barth
+Christoph Heinrich Fritzsche
+Friedrich Ernst Muster
+1865
+Carl Herrmann Lantzsch
+Friedrich Gustav Bretschneider
+Carl Friedrich Funke
+----------------
+Karl Heinrich Ziegler
+Karl Wilhelm August Lutze
+Karl Gottlob Mauke
+Karl Ehregott Paul
+Ernst Wilhelm Gebhardt
+Carl Heinrich Quitzsch
+Carl Wilhelm Rudolph
+----------------
+1866
+Carl August Brühl
+Johann Gottfried Bauer
+Christian Heinrich Kühne
+Carl August Schneeweiss
+Friedrich Wilhelm Klemm
+Heinrich Gustav Zill
+Friedrich Gustav Täger
+Carl Leberecht Schanze
+----------------
+1867
+Gotthelf Ferdinand Illgen
+Johannes Ludwig
+Ernst Julius Voigt
+Carl Ernst Schantze
+Carl Traugott Starke
+Johann August Grunewald
+Friedrich Wilhelm Dietze
+Carl Ernst Rossberg
+----------------
+Friedrich Wilhelm Rost
+Friedrich Wilhelm Vogel
+1868
+Gottlieb Franz Wachsmuth
+Carl Eduard Hesse
+Friedrich Anton Funke
+Victor Herrmann Leutritz
+----------------
+Carl Wilhelm Kurze
+Ernst Herrmann Göhler
+Gottfried Moritz Walther
+Franz Julius Lange
+Wilhelm Emil Seidel
+Carl Traugott Schnee
+Friedrich Moritz Güldner
+Friedrich August Knöfel
+----------------
+Ernst Moritz Friedrich
+1869
+Louis Lantzsch
+Carl Ferdinand Krellmann
+Carl August Moritz Ehrlich
+Carl Heinrich Rappe
+Friedrich August Kirsten
+----------------
+Friedrich Wilhelm Ernst Ehrlich

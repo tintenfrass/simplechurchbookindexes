@@ -1,5 +1,5 @@
 Brockwitz (Buch 5)
-Trauungen 1841-1859
+Trauungen 1841-1861
 https://www.archion.de/de/viewer/churchRegister/281040?pageId=38771160
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -7,6 +7,7 @@ Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -378,3 +379,48 @@ Carl Heinrich Tronicke
 Heinrich Eduard Welde
 Carl August Kliemann
 Carl Friedrich Hentschel
+----------------
+----------------
+1860
+Karl Moritz Döring
+Friedrich Wilhelm Ulbrich
+Karl Gottlieb Haupt
+Johann Gottlob Albrecht
+Carl Gotthelf Fehrmann
+Karl Gottlob Finke
+Friedrich August Schurig
+Karl Friedrich Fleischer
+Johann Christlieb Müller
+----------------
+Friedrich Adolph Winkler
+Karl Heinrich Züchner
+Friedrich Wilhelm Jacob
+Gottlieb Ernst Gommlich
+Karl Friedrich Zumpe
+Gustav Schneider
+Johann Friedrich Ernst Lorentz
+Heinrich Adolph Lehmann
+----------------
+Gottfried Gustav Jähnig
+Johann Friedrich Karl Kiesling
+----------------
+----------------
+1861
+Karl Gottfried Schneider
+Ernst Wilhelm Vetter
+Carl Gottlieb Gottschalk
+Johann Friedrich Lehmann
+Ernst Ferdinand Rossberg
+Gottlieb Friedrich Grafe
+Friedrich Wilhelm Förster
+----------------
+Karl Gottlob Leiteritz
+Friedrich August Schubert
+August Ehregott Braune
+Friedrich Ernst Umlauf
+Johann Caspar Haberland
+Ernst Gotthelf Quittel
+Karl Gottlob Seifert
+----------------
+Ernst Gottlieb Stock
+Karl Gottlieb Sohrmann

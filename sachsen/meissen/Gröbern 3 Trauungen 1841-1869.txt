@@ -1,10 +1,11 @@
 Gröbern (Buch 3)
-Trauungen 1841-1859
+Trauungen 1841-1869
 https://www.archion.de/de/viewer/churchRegister/282507?pageId=39021143
 
 
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -190,3 +191,117 @@ Johann Julius Eduard Jost
 ----------------
 Herrmann Theodor Opitz
 Ernst Gustav Stelzner
+1860
+Johann Carl Gottlieb Hubert
+August Wilhelm Beulich
+Johann Gottlob Kießling
+----------------
+Johann Carl Wilhelm Gründel
+Friedrich Gottlob Dürichen
+Ernst Herrmann Fiedler
+Carl Traugott Heinrich Hauptvogel
+Bernhard Julius Stelzner
+Friedrich August Schramm
+Ernst Robert Großmann
+----------------
+1861
+Friedrich August Bischoff
+Friedrich Ernst Dürichen
+Johann Christian Gottlieb Fichtner
+Carl Traugott Eichler
+Johann Gotthelf Schneider
+Gustav Adolph Ulmer
+Friedrich Carl August Leutritz
+----------------
+1862
+-
+Carl August Köhler
+Wilhelm Herrmann Schreiber
+Friedrich Ewald Kiessling
+Friedrich August Sachse
+Friedrich Wilhelm Huhn
+Heinrich Ernst Kunath
+-
+----------------
+Friedrich Wilhelm Leuteritz
+Johann Wilhelm Haase
+Johann Carl Gottlieb Schröter
+1863
+Carl Gottlob Bischoff
+Friedrich August Raum
+Johann Traugott Leutritz
+----------------
+Johann Samuel Müller
+Johann Friedrich Bahrmann
+Johann Carl Gottlob Hermann
+Carl Gottlieb Stelzner
+Gustav Eduard Voland
+Carl Gottlieb Jungnickel
+Carl Robert Leipner
+----------------
+Maximilian Theobald Schulze
+Robert Julius Fichtner
+1864
+Carl Eduard Stelzner
+Wilhelm Eduard Raabs
+Heinrich Wilhelm Weser
+Johann Gottlob Heinrich Fichtner
+----------------
+Gotthelf Heinrich Tränkner
+Heinrich August Emil Manitius
+Johann Samuel Fichtner
+Gustav Robert Höme
+----------------
+1865
+Johann August Klemm
+Heinrich Wilhelm Huhn
+Gustav Adolph Schütze
+Carl August Stephan
+Friedrich Ernst Dürichen
+Ernst Gustav Hirschnitz
+Gustav Moritz Richter
+----------------
+1866
+Friedrich August Seifert
+Friedrich Herrmann Richter
+Gottlob Heinrich Finke
+Johann Wilhelm Heinrich Beulich
+Fürchtegott Wilhelm Felber
+Heinrich August Emil Manitius
+----------------
+1867
+Johann Gottfried Bürger
+Eduard Wilhelm Just
+Carl Gottlieb Claus
+Ernst Wilhelm Krüger
+Friedrich Ernst Rossberg
+Carl Ernst Eduard Lützner
+August Herrmann Hörig
+----------------
+Carl Gottlob Eichler
+Gustav Hugo Jauch
+Heinrich Eduard Knorr
+Carl Gottlob Haferburg
+Carl Ewald Leutritz
+----------------
+1868
+Heinrich Anton Huhn
+Johann Gotthelf Berger
+Ernst Eduard Fichtner
+Traugott Leberecht Klunker
+Eduard August Schneider
+Gottlieb Friedrich Richter
+----------------
+1869
+Carl August Dähne
+Friedrich August Thüring
+Heinrich Oswald
+Carl Adolph Naumann
+Carl Gottlob Lehmann
+Carl Herrmann Peschel
+Friedrich Traugott Ringel
+----------------
+Friedrich August Huhn
+Gottfried Wilhelm Schramm
+Fürchtegott Herrmann Greif
+Friedrich Ernst Müller

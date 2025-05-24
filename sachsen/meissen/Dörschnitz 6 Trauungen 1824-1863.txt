@@ -1,5 +1,5 @@
 Dörschnitz (Buch 6)
-Trauungen 1824-1859
+Trauungen 1824-1863
 https://www.archion.de/de/viewer/churchRegister/282501?pageId=39019843
 
 
@@ -7,6 +7,7 @@ September 2024
 November 2024
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -447,3 +448,69 @@ Friedrich Ernst Gruhle
 Carl Friedrich Wilhelm Franz
 August Heinrich Göpfert
 Friedrich Wilhelm Oehmichen
+----------------
+1860
+Johann Gotthelf Friedrich
+Johann Gotthelf Müller
+Friedrich Wilhelm Härtel
+----------------
+Friedrich Wilhelm Schmidt
+Carl August Mammitzsch
+Johann Carl Barthel
+----------------
+August Wilhelm Zweinert
+Friedrich Wilhelm Wetzig
+Ernst Moritz Fichtner
+August Wilhelm Miene
+----------------
+August Moritz Lehmann
+Friedrich Ernst Schönert
+----------------
+1861
+Carl Friedrich August Vogel
+Heinrich Ferdinand Keil
+Carl Leberecht Knoblauch
+----------------
+Carl August Preißler
+Friedrich Wilhelm Müller
+Friedrich Wilhelm Dietze
+----------------
+Carl Gottlob Höfer
+Heinrich Ernst Schulze
+Carl Ferdinand Hänsel
+Johann Carl Gottlob Händel
+----------------
+Friedrich Gottlieb Apitz
+Friedrich Wilhelm Wolke
+Carl Friedrich Fischer
+----------------
+Carl Ernst Friedrich Müller
+Friedrich August Roßberg
+----------------
+1862
+Johann Ehregott Pötzsch
+Johann Friedrich Carl Gottlob Dehnert
+Herrmann Richard Gruhle
+----------------
+Johann Gottfried Richter
+August Richard Haan
+Friedrich August Schönert
+Herrmann Eduard Seifert
+----------------
+Friedrich Wilhelm Berger
+Friedrich Carl Roßberg
+Ernst Friedrich Ziesche
+----------------
+1863
+Friedrich August Thielemann
+Friedrich Ernst Wittig
+Friedrich Moritz Gruhle
+Friedrich Leopold Oskar Großmann
+----------------
+Carl Wilhelm Beger
+Ernst Balduin Krumpf
+Franz Weber
+----------------
+Johann Friedrich August Hennig
+Ernst Julius Müller
+Johann Christlieb Patitz

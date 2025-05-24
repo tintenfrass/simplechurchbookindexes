@@ -1,5 +1,5 @@
 Bieberstein (Buch 5)
-Trauungen 1850-1859
+Trauungen 1850-1865
 https://www.archion.de/de/viewer/churchRegister/281007?pageId=38764293
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -7,6 +7,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -260,4 +261,223 @@ August Robert Emil Haferkorn
 Carl August Ramm
 Carl August Sachse
 ----------------
-Adolph Otto Zordan
+Adolph Otto Jordan
+----------------
+1860
+Carl August Franz Wetzig
+Carl Heinrich Richter
+Carl Gottlieb Scheumann
+Friedrich August Böhme
+----------------
+Robert Theodor Zenker
+Carl Friedrich Döring
+Carl Wilhelm Steyer
+Carl Friedrich Zimmermann
+----------------
+Gotthold Theodor Engelmann
+Carl Friedrich Haubold
+Friedrich Eduard Voigtländer
+Christian Friedrich Schlicke
+----------------
+Carl Gottfried Ficke
+Franz Herrmann Beyer
+Friedrich Wilhelm Kühn
+Carl August Ficke
+----------------
+Friedrich Ludwig Wolf
+Friedrich Wilhelm Weise
+Franz Julius Weber
+Friedrich Gotthelf Diersche
+Carl Gottlieb Busch
+----------------
+Carl Gottlob Naumann
+Heinrich Eduard Küttner
+Wilhelm Gotthelf Ranft
+Christian Friedrich Lehmann
+----------------
+Carl Gustav Winkler
+Kurt Ludwig Richard Schröter
+Carl Wilhelm Wagner
+Friedrich August Bruno Günther
+Robert Ferdinand Starke
+----------------
+Johann Carl Friedrich Kämpfer
+Friedrich Wilhelm Pappermann
+Carl Ernst Wetzig
+Friedrich Wilhelm Ernst Dietze
+Friedrich Gotthold Giersch
+----------------
+Gottlieb Wilhelm Hähnel
+Curt Ludwig Georg Schröter
+Carl Gottlieb Hörnig
+Friedrich Ernst Dähne
+----------------
+Carl August Silbermann
+Carl Friedrich Pöntsch
+----------------
+1861
+Julius Ferdinand Straube
+Carl Wilhelm Schulze
+Karl August Kaden
+Carl Gottlieb Eckelt
+----------------
+Friedrich Edmund Ulbricht
+Friedrich Louis Löwe
+Carl Ehregott Pöhnisch
+Carl Friedrich August Buchert
+----------------
+Franz Paul
+Johann Gottlob Ferdinand Kaiser
+Carl Friedrich Roch
+Friedrich Wilhelm Böhme
+----------------
+Ernst Ferdinand Schlechte
+Franz Louis Paul
+Friedrich Wilhelm Jehmlich
+Carl August Ficke
+Franz Heinrich Adolph Bachmann
+----------------
+Carl Friedrich Heinrich Berndt
+Carl Gottlob Reichel
+August Herrmann Voigtländer
+Friedrich Wilhelm Leupold
+August Friedrich Scheumann
+----------------
+Louis Oswald Scheinert
+August Moritz Löffler
+Ernst Moritz Müller
+Friedrich Anton Gaup
+----------------
+Carl Gottlieb Harzt
+----------------
+1862
+Carl Friedrich Imhof
+Franz Ferdinand Fischer
+Friedrich August Löhnig
+Johann Ehregott Uhlig
+Carl Wilhelm Henker
+----------------
+Friedrich Wilhelm Händler
+Carl Christian Friedrich Schaal
+Carl August Ernst Funke
+Carl August Schubert
+----------------
+Carl Herrmann Steiger
+Gustav Eduard Palitsch
+Carl Eduard Schiffel
+Christian Gotthold Förster
+Carl August Störl
+----------------
+Franz Julius Wünschittel
+Carl Gottlieb Günther
+Carl August Imhof
+Carl Gottlieb Ilgen
+Carl Heinrich Unger
+----------------
+Friedrich Wilhelm Sohr
+Carl Ernst Richter
+Johann Gottlob Heym
+Friedrich August Wagner
+----------------
+Herrmann Theodor Zenker
+Friedrich Bernhard Burkhardt
+Carl Gottlob Schlicke
+Franz Wilhelm Peuckert
+----------------
+Moritz Vollprecht Sparmann
+Carl Eduard Seifert
+Gustav Moritz Glöckner
+----------------
+1863
+Carl Wilhelm Stelzer
+Ernst Julius Kändler
+Johann Gotthelf Böhme
+Carl Julius Hirschbach
+Friedrich Ernst Imhof
+----------------
+Friedrich Wilhelm Mehner
+Heinrich Herrmann Otto
+Carl August Franke
+Friedrich August Herrmann Moses
+----------------
+Friedrich Gustav Lutze
+August Heinrich Richter
+Johann Gottlob Heinrich Ziegenhals
+Carl Moritz Pochert
+Carl August Leberecht Hammer
+----------------
+Friedrich Gotthelf Leupold
+Friedrich Wilhelm Ficke
+Carl August Dietrich
+Ernst Eduard Neidhardt
+----------------
+Ernst August Stirl
+Carl Heinrich Schönberg
+Christian Friedrich Ferdinand Singer
+Victor Gustav Emil Quaas
+----------------
+1864
+Gotthelf Friedrich Küttner
+Friedrich Wilhelm Vesper
+Friedrich Anton Walther
+----------------
+Carl Friedrich Herrmann Winkler
+Franz Julius Mühlberg
+Friedrich Herrmann Schellenberger
+Carl Friedrich Löwe
+----------------
+Wilhelm Franz Dietze
+August Hartmann Uhlig
+Friedrich Ernst Klemm
+Johann Robert Löffler
+Ernst Moritz Zweiniger
+----------------
+Carl Friedrich
+Traugott Friedrich Weinhold
+Ernst Julius Silbermann
+Friedrich Wilhelm Eiselt
+----------------
+Carl Ferdinand Barth
+Friedrich Julius Junghans
+Friedrich Wilhelm Rößner
+Heinrich Louis Störr
+----------------
+Carl Wilhelm Haubold
+Andreas Nikol
+Carl August Krumbiegel
+Friedrich Ernst Fischer
+----------------
+Carl Wilhelm Fischer
+Carl Friedrich Leuteritz
+----------------
+1865
+Friedrich August Haupt
+Carl Gottfried Schubert
+Carl Heinrich Krüger
+----------------
+Carl August Buschmann
+Carl Moritz Wagner
+Bruno Theodor Zenker
+Friedrich Adolph Hirsch
+----------------
+Ferdinand Reichler
+Gustav Louis Heym
+Karl August Imhof
+Friedrich Ernst Kunert
+----------------
+Friedrich Wilhelm Büttner
+Ernst Wilhelm Raffelt
+Carl August Helm
+----------------
+Carl Robert Ulbricht
+Daniel Friedrich Gläser
+Carl Gottfried Pöntsch
+Theodor Friedrich Wilhelm Zenker
+----------------
+Friedrich Ernst Silbermann
+Friedrich Wilhelm Kindemann
+Heinrich Anton Häßner
+Franz Heinrich Pöntsch
+----------------
+Carl Friedrich Goldmann
+Ernst Heinrich Kaden

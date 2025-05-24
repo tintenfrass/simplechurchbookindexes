@@ -1,5 +1,5 @@
 Blankenstein (Buch 2)
-Trauungen 1824-1859
+Trauungen 1824-1869
 https://www.archion.de/de/viewer/churchRegister/281021?pageId=38766340
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ September 2024
 November 2024
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -500,3 +501,154 @@ Karl Ernst Kirsten
 ----------------
 Heinrich Adolph Knöfel
 Karl Ernst Philipp
+----------------
+1860
+Carl Heinrich Scheffler
+Heinrich Wilhelm Simon
+Ernst Heinrich Daemmig
+Carl Ernst Weber
+Johann Friedrich Herrmann Strohbach
+----------------
+Karl Ernst Kohlsdorf
+Karl August Reschke
+Carl Moritz Thimmig
+Friedrich Wilhelm Pinkert
+Carl Herrmann Ferdinand Dietrich
+----------------
+1861
+Carl Adolph Ernst Rothe
+Carl Adolph Hede
+Carl Ferdinand Uhlemann
+Carl Ehregott Pöhnisch
+Carl Gottlob Gemeyer
+----------------
+Gustav Adolph Thimmig
+Carl Friedrich Zweinger
+Friedrich August Wilhelm Nagel
+Carl Gottlieb Naumann
+Franz Herrmann Philipp
+----------------
+Carl August Ficke
+Johann Adolph Eduard Graupitz
+----------------
+1862
+Carl Wilhelm Holz
+Ernst Julius Schreiber
+Ernst Julius Mehner
+Friedrich Ernst Lützner
+Friedrich Eduard Arnold
+----------------
+Friedrich Eduard Stolle
+Carl Friedrich Wilhelm Kießlich
+August Ernst Schirrschmidt
+Carl Eduard Thimmig
+----------------
+Gustav Eduard Stübler
+----------------
+1863
+Carl Heinrich Ernst Ulbrich
+Ernst Heinrich Nietzelt
+Karl Gotthelf Trobisch
+Ernst Eduard Philipp
+Carl Ernst Hillig
+----------------
+Friedrich Wilhelm Stolle
+Heinrich Rudolph Kleber
+Wilhelm Leberecht Witzschas
+Ernst Leberecht Merker
+Friedrich Adolph Heede
+----------------
+Ernst Julius Louis John
+----------------
+1864
+Heinrich Wilhelm Hoefer
+Wilhelm Theodor Rüdiger
+Carl August Herrmann May
+Carl Ernst Strohbach
+Moritz Theodor Poenisch
+----------------
+Friedrich Adolph Julius Diersche
+Carl Eduard Roitzsch
+Carl Ernst Roitzsch
+Johann Friedrich Gottlob Kießling
+Gustav Adolph Ranft
+----------------
+Traugott Leberecht Schlicke
+Karl Moritz Heyde
+Johann Gottfried Wilhelm Schuster
+Ernst Wilhelm Börner
+----------------
+1865
+Carl Gotthelf Holtz
+Friedrich Moritz Rost
+Johann Gottlieb Gasch
+Heinrich Theodor Philipp
+----------------
+Carl Ernst Rebs
+Ernst Heinrich Fritzsche
+Johann Heinrich Adolph Dietze
+Karl Ernst Sparmann
+Franz Emil Hahn
+----------------
+Friedrich Ernst Schirmer
+Carl Julius Leuchner
+Eduard Moritz Bretschneider
+Carl Wilhelm Heinrich Merker
+----------------
+1866
+Carl Friedrich Wegerdt
+Johann Gottlieb Just
+Carl Heinrich Ernst Richter
+----------------
+1867
+Carl Moritz Thimmig
+Ernst Benno Haupt
+Franz Ludwig Lippert
+Wilhelm Eduard Regenstein
+----------------
+Paul Hartmann
+Carl Heinrich Anton Dietrich
+Franz Theodor Weber
+Carl Eduard Dietrich
+----------------
+Johann Ferdinand Junghanns
+Carl Ernst Grellmann
+Adolph Gottlob Moritz Höhme
+Friedrich Ernst Müller
+----------------
+1868
+Friedrich Wilhelm Mittag
+Gustav Adolph Dietrich
+Carl Moritz Willsdorf
+Christian Friedrich Wilhelm Ludewig
+Moritz Ferdinand Weidauer
+----------------
+Carl Herrmann Witschas
+Carl Richard Ulbricht
+Carl August Wilhelm Mühle
+Herrmann Julius Schmidt
+----------------
+Carl Heinrich Bachmann
+Ernst Julius Junghanns
+Gustav Wilhelm Lehmann
+Friedrich Julius Schmidt
+----------------
+Carl Eduard Birkner
+Siegismund Oscar Mangelsdorf
+----------------
+1869
+Carl Ernst Schmidt
+Carl Wilhelm Dietze
+Ernst Heinrich Geißler
+Ernst Eduard Kippe
+Franz Herrmann Kretzschmann
+----------------
+Friedrich Wilhelm Loewe
+Carl Heinrich Johne
+Ernst Wilhelm Haupt
+Ernst Heinrich Damm
+----------------
+Carl Herrmann Riedrich
+Friedrich Moritz Dieze
+Johann Carl Gottlob Schurig
+Heinrich Ernst Thimmig
