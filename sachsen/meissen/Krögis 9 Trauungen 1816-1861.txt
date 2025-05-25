@@ -1,5 +1,5 @@
 Krögis (Buch 9)
-Trauungen 1816-1859
+Trauungen 1816-1861
 https://www.archion.de/de/viewer/churchRegister/282581?pageId=39038257
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ Oktober 2024
 November 2024
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1056,3 +1057,67 @@ Karl Gottlieb Wustlich
 Otto Julius Birke
 Ernst Julius Ritter
 Gustav Adolph Birkner
+----------------
+1860
+Karl Ehregott Starke
+Karl Gottlob Heyde
+Karl Gottlieb Kirstein
+----------------
+Karl Herrman Melzer
+Karl Gottlob Starke
+Friedrich August Gebauer
+----------------
+Karl Traugott Seifert
+Johann Gottfried Müller
+Karl Heinrich Musch
+----------------
+Heinrich Bernhard Kadner
+Christian Gottlob Zschackelt
+Eduard Oskar Gühne
+----------------
+Gustav Adolph Theodor Uhlmann
+Karl Friedrich Ernst Ulbrich
+Karl Moritz Paul
+----------------
+Johann Gotthelf Junghanß
+Christian Karl Gotthelf Backofen
+Karl Gotthelf Lommatzsch
+----------------
+Karl Friedrich Heinrich Lommatzsch
+Johann Gottlieb Richter
+Johann Gottfried Wagner
+----------------
+Johann Karl Gottfried Peuckert
+----------------
+1861
+Ernst Gottlieb Kohl
+Ernst Wilhelm Grellmann
+Karl Traugott Hanicke
+Johann Gottlieb Rößiger
+Christian Friedrich Wilhelm Gernegross
+----------------
+Heinrich Ferdinand Richter
+Friedrich August Richter
+Friedrich Wilhelm Humbsch
+Karl Eduard Neubold
+Adolph Herrmann Orgus
+----------------
+Karl Gottlieb Grundmann
+Karl Heinrich Philipp
+Johann Gottlob Heinrich Beulich
+Karl Robert Paul
+Friedrich Adolph Ulbrich
+----------------
+Karl Gottlieb Hunger
+Franz Theodor Lützner
+Johann Karl Sprössig
+Wilhelm Eduard Starke
+Wilhelm Heinrich Hanke
+----------------
+Johann Gustav Emil Nitzsche
+Johann Traugott Zieger
+Johann Gottfried Herrmann Wiegand
+Karl August Hennig
+Karl Heinrich Mittag
+----------------
+Karl Adolph Richter

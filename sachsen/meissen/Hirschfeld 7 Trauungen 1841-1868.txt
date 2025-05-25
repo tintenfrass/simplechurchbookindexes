@@ -1,10 +1,11 @@
 Hirschfeld (Buch 7)
-Trauungen 1841-1859
+Trauungen 1841-1868
 https://www.archion.de/de/viewer/churchRegister/282544?pageId=39029243
 
 
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -277,3 +278,155 @@ Ernst Julius Schüttauf
 Carl Gottfried Hahn
 Friedrich August Rost
 Paul Richard Geißler
+----------------
+1860
+August Friedrich Götze
+Carl Lehmann
+Carl Moritz Preußiger
+Carl August Reichke
+Carl Gottlob Schurig
+----------------
+Carl Heinrich Mannsfeld
+Carl Gottfried Walther
+1861
+Johann Carl Gottfried Ernst Damm
+Carl August Franke
+----------------
+Carl Gottlob Lucas
+Carl Traugott Voigt
+Ernst Heinrich Dietrich
+Carl Friedrich Wilhelm Gottlebe
+Wilhelm Ernst Fritzsche
+----------------
+Herrmann Theodor Dietrich
+Ernst Heinrich Haubold
+Carl Gottlob Damm
+Carl Wilhelm Kreyßig
+Carl Friedrich Jost
+----------------
+Ernst Moritz Obendorf
+Carl Gottlieb Harzt
+1862
+Johann Ehregott Lamm
+Carl August Dietze
+----------------
+Johann Gottlob Heinrich Uhlmann
+Johann Adolph Schneider
+Friedrich Ernst Klügel
+Georg Wilhelm Richter
+----------------
+Ernst Julius Dietze
+Ernst August Wolf
+Moritz Paul
+----------------
+1863
+Carl Gotthelf Niezelt
+Gotthelf Ferdinand Illgen
+Carl Heinrich Ernst Ulbrich
+Carl August Fritzsche
+----------------
+Carl Wilhelm Werner
+Traugott Leberecht Schumann
+Johann Friedrich Wilhelm Schneider
+Franz Joseph Paul
+Friedrich Gustav Lutze
+----------------
+Gottlieb Friedrich Fritzsche
+Carl Julius Grellmann
+Johann Christian Gottfried Gatzsch
+Carl Friedrich Wilhelm Steudner
+----------------
+Carl Gottfried Pinkert
+1864
+Friedrich Wilhelm Lantzsch
+Carl Adolph Rost
+Ernst Julius Stein
+----------------
+Johann Carl Gottlob Hanicke
+Bernhard Wilhelm Richter
+Carl Heinrich Kurth
+Ernst Julius Striegler
+Friedrich Ernst Fritzsche
+----------------
+Ernst Julius Lantzsch
+Carl Gottlob Seyffert
+Herrmann Paul
+----------------
+1865
+Christian Friedrich Schaal
+Friedrich Wilhelm Ehrlich
+Ferdinand Reichler
+Friedrich Wilhelm Böhme
+----------------
+Friedrich Wilhelm Schumann
+Johann Friedrich Wilhelm Haymann
+Ernst Julius Lamm
+Carl Friedrich Zickmantel
+Friedrich August Traeber
+----------------
+Friedrich Traugott Wittig
+Carl Franz Straube
+Julius Wilhelm Gottschalk
+Carl Heinrich Ernst Ulbrich
+Carl Gotthelf Theodor Sohr
+----------------
+Carl Ernst Schulze
+Carl Ernst Franke
+Carl Gottlieb Kaden
+Carl Heinrich Fritzsche
+August Friedrich Teller
+----------------
+August Heinrich Limbach
+Friedrich August Rost
+Carl Friedrich Streller
+----------------
+1866
+Friedrich Ernst Bennewitz
+Friedrich Moritz Schiebold
+Gustav Wilhelm Faust
+Carl Gottlob Lamm
+Franz Eduard Lutze
+----------------
+Friedrich August Schumann
+Friedrich Wilhelm Kaden
+Ernst Gustav Illgen
+Friedrich August Bretschneider
+----------------
+Carl Wilhelm Weiße
+----------------
+1867
+Johann Gottleib Dietze
+August Philip Mehnert
+Carl Friedrich Silbermann
+Carl Gottlob Franke
+Heinrich Anton Koch
+----------------
+Friedrich August Kurth
+Georg Wilhelm Seelhorst
+Julius Paul
+----------------
+Ernst Julius Schulze
+Wilhelm Ferdinand Gierisch
+Carl Eduard Hans
+----------------
+Ehrhard Ludwig Berger
+Ernst Julius Günther
+Ernst Moritz Werner
+Friedrich Wilhelm Dietze
+----------------
+1868
+August Wilhelm Schönfelder
+Moritz Wilhelm Kretzschmar
+Ernst Julius Schulze
+Carl August Grahl
+----------------
+Ernst August Striegler
+Carl Anton Reischel
+Friedrich Moritz Rolle
+Herrmann Julius Schmidt
+Oswald Bruno Bär
+----------------
+Julius Eduard Straube
+Friedrich Wilhelm Kotte
+Ernst Herrmann Rost
+Ernst Leberecht Wemme

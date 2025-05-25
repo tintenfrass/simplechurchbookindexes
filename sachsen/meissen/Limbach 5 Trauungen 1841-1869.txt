@@ -1,10 +1,11 @@
 Limbach (Buch 5)
-Trauungen 1841-1859
+Trauungen 1841-1869
 https://www.archion.de/de/viewer/churchRegister/283110?pageId=39138791
 
 
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -229,3 +230,100 @@ Andreas Halnik
 Carl Friedrich Rüdrich
 ----------------
 Heinrich Ferdinand Beyer
+1860
+Ernst Haymann
+Friedrich Ludwig Kleinert
+Johann Traugott Wilhelm Wolke
+----------------
+Friedrich Ernst Ilschner
+Heinrich Ernst Meinig
+Karl Gottlob Schurig
+Georg Zschech
+Fürchtegott Moritz Alb? Voigt
+----------------
+1861
+Heinrich Franz Geißler
+Johann Gotthelf Marx
+Gotthelf Hartmann Kühne
+----------------
+1862
+Karl Theodor Hohlfeld
+Carl Gotthold Burkhardt
+Friedrich Ernst Lützner
+Ernst Wilhelm Kleinert
+Friedrich Herrmann Roßberg
+----------------
+Johann Friedrich August Dutschmann
+Ernst Heinrich Stirl
+Christian Traugott Köhler
+Ernst Eduard Bretschneider
+Moritz Kirchner
+----------------
+----------------
+Friedrich Wilhelm Kurth
+Karl Friedrich Wilhelm Eichler
+1863
+Friedrich Wilhelm Strehle
+----------------
+Karl Ernst Hillig
+Friedrich Wilhelm Stolle
+Julius Robert Arnhold
+Heinrich Ferdinand Kloß
+----------------
+1864
+Karl Gustav Thielemann
+Eduard Herrmann Saupe
+Friedrich Adolf Ulbrich
+----------------
+Wilhelm Moritz Stelzer
+Karl Friedrich Ernst Schumann
+Leberecht Wilhelm Kuppe
+----------------
+Johann Gude
+Johann Gottlob Romberg
+Gustav Ludwig Kern
+----------------
+1865
+Carl August Beier
+Carl August Dietrich
+Franz Müller
+Kurd? Moritz Bretschneider
+----------------
+1866
+Johann Christian Adolph Techert
+Friedrich Otto Weißbach
+Friedrich Wilhelm Schuster
+----------------
+1867
+Johann Carl August Schindler
+Friedrich Moritz Noten
+Friedrich Wilhelm Funke
+----------------
+Johann Gotthelf Keil
+Ernst Robert Röhrber?
+Gustav Fürchtegott Emil Märkel
+----------------
+Carl August Hartmann
+Johann Hermann Schulze
+Theodor Seifert
+----------------
+Carl Philip Steyer
+Friedrich Herrmann Zimmermann
+----------------
+1868
+Carl Eduard Oelschlägel
+Franz Benjamin Kunze
+Ernst Traugott Starke
+----------------
+Carl Eduard Birkner
+Ludwig Moritz Maul
+----------------
+1869
+Franz Herrmann Kortzschmann
+Traugott Leberecht Naumann
+Carl Heinrich Löwe
+Johann Christian Friedrich Escher? //durchgestrichen
+----------------
+Friedrich Ernst Reinhard
+Friedrich Eduard Schmalz
+Karl Eduard Schieritz
