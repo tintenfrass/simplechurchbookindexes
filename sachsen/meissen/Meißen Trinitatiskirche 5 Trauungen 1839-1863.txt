@@ -1,5 +1,5 @@
 Meißen Trinitatiskirche (Buch 5)
-Trauungen 1839-1859
+Trauungen 1839-1863
 https://www.archion.de/de/viewer/churchRegister/281155?pageId=38797164
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 November 2024
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -466,3 +467,97 @@ Franz Reinhold Cusasius Neidert
 Friedrich August Hennig
 Karl Gottlieb Scheiblich
 Eduard Julius Robert Geidner
+----------------
+1860
+Ernst Ferdinand Conrades
+Karl Heinrich Rühle
+Friedrich Herrmann Wagner
+Friedrich Moritz Schmidt
+----------------
+Johann Karl Wilhelm Gründel
+Friedrich Wilhelm Rühle
+Karl Wilhelm Bretschneder
+Friedrich Ernst Rentsch
+Christian Traugott Richter
+----------------
+Johann Gottlieb Herrmann
+Christian Gottlob Rühle
+Christian Friedrich Gottlob John
+Karl Eduard Grundmann
+Karl Gustav Schumann
+----------------
+Ernst Robert Beyer
+Johann Friedrich Ernst Lorenz
+Gottlieb Friedrich Stephan
+Ernst Robert Großmann
+----------------
+1861
+Ernst Heinrich Klinger
+August Ferdinand Säurig
+Friedrich Ernst Dürichen
+Julius Ferdinand Drache
+----------------
+Karl August Stelzner
+Herrmann Theodor Dietrich
+Karl August Birkner
+Johann Karl Wolf
+----------------
+Karl Friedrich Ulbricht
+Karl Gottlieb Grundmann
+Karl Christian Leberecht Fischer
+Friedrich Wilhelm Bergmann
+----------------
+Johann Friedrich August Heyde
+Carl Gottlob Zietzschmann
+Adolph Heinrich Gäbler
+Karl Gottlob Leuteritz
+----------------
+Karl Gottlieb Glänzel
+August Theodor Glänzel
+----------------
+1862
+Julius Robert Schulze
+Karl Wilhelm Richter
+Karl Gottlieb Bode
+Karl Gottlieb Hempel
+Friedrich Eduard Kenne
+----------------
+Ernst Wilhelm Eichler
+Friedrich Ernst Bürckner
+Franz Ferdinand Fürchtegott Friedrich
+Wilhelm Ferdinand Nagel
+Ernst Heinrich Herrmann
+----------------
+Eugen Alexander Schwierz
+Ernst Friedrich Ehregott Höhle
+Karl Hermann Eisfelder
+Johann Gottfried Klingner
+----------------
+Ernst Julius Herrmann
+Johann Gottfried Berger
+Karl Gotthelf Seifert
+Friedrich August Fehrmann
+----------------
+Friedrich Herrmann Emil Beyer
+1863
+Karl Friedrich Hennig
+Karl Friedrich Ernst Stelzner
+----------------
+Karl Friedrich Herzog
+Heinrich Gotthelf Münch
+Karl Eduard Zocher
+Gustav Herrmann Keller
+----------------
+Johann Fritzsche
+Heinrich Herrmann Stephan
+Peter Karl Noack
+Karl Gottlieb Jungnickel
+Karl August Güldner
+----------------
+Johann Traugott Kupprasch
+Karl Gottlob Leuteritz
+Karl Friedrich Ernst Finke
+Friedrich Robert Heybey
+----------------
+Robert Julius Fichtner
+Karl Gottfried Melzer

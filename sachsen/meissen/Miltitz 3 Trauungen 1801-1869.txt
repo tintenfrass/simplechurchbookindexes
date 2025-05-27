@@ -1,5 +1,5 @@
 Miltitz (Buch 3)
-Trauungen 1801-1859
+Trauungen 1801-1869
 https://www.archion.de/de/viewer/churchRegister/283156?pageId=39147935
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -13,6 +13,7 @@ Oktober 2024
 November 2024
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -410,3 +411,94 @@ Wilhelm Ehregott Kreße
 Johann Friedrich Adolph Schöne
 Johann Gottlob Hartmann
 August Moritz Wittig
+1860
+Christian Wilhelm Illig
+Herrmann August Ludwig Lehmann
+Friedrich Wilhelm Mauster
+Johann Gottlieb John
+Johann Carl Gottlob Kirsten
+----------------
+Friedrich August Franz
+Ernst August Fiuger
+Friedrich Ernst Hombsch
+1861
+Friedrich Oscar Wolf
+Ernst Ferdinand Gregori
+Carl Julius Theodor Heym
+Friedrich Wilhelm Dankegott Seifert
+Ernst Wilhelm Illig
+Johann Gottfried Herrmann Wiegand
+----------------
+Heinrich Moritz Schulz
+Carl Friedrich Wilhelm Gläsche
+1862
+Johann Wilhelm Benedix
+Carl Gottlob Nicklisch
+Carl Wilhelm Funke
+Friedrich August Reimann
+1863
+Carl Gottlieb Steuer
+Carl Gottlieb Opitz
+Carl Gottlob Leupold
+Carl Heinrich Helm
+----------------
+Friedrich Ehregott Mühlberg
+Franz Reinhold Schade
+Carl Heinrich Mühlberg
+Carl August Funke
+Christian Friedrich Barth
+Carl Heinrich Jähnichen
+Johann Carl Gottlob Leonhardt
+----------------
+1864
+Gustav Adolph Hofmann
+Carl Ferdinand Oehme
+Carl August Schmidt
+Carl Gottfried Müller
+Johann Friedrich Wilhelm Wachs
+Carl Friedrich Oelschlägel
+Carl Adolph Funke
+----------------
+1865
+Johann August Mühlner
+Friedrich Ernst Kunert
+Gotthelf Hermann
+Johann Christian Herrmann Kretzschmar
+Johann Gottlieb Wachs
+Ernst Julius Görne
+Carl Heinrich Ferdinand Wachsmuth
+Traugott Moritz Kühne
+----------------
+Carl Heinrich Mittag
+Johann Gottlob Dachsel
+Carl Eduard Funke
+1866
+Carl Johannes Röntsch
+Carl Traugott Kelker
+Johann Ehregott Ficke
+Carl Gottlob Mühlner
+----------------
+1867
+Otto Wachtler
+Ernst Eduard Nicklisch
+Carl Gottlob Franz Kirsten
+Friedrich Oskar Kirchhof
+Friedrich August Wilhelm Handrich
+----------------
+1868
+Carl Heinrich Urban
+Friedrich August Kaltschmidt
+Friedrich August Hombsch
+Carl Eduard Theodor Schubert
+Johann August Lantzsch
+August Peter Warnatsch
+Friedrich Wilhelm Döring
+Carl Gottfried Koitzsch
+----------------
+1869
+August Julius Meyer
+Carl Fürchtegott Leberecht Lützner
+Carl August Urban
+Erdmann Herrmann Hegner
+Heinrich Herrmann Gläsche
+Carl Friedrich August Ehren
