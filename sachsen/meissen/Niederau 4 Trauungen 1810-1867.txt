@@ -1,5 +1,5 @@
 Niederau (Buch 4)
-Trauungen 1810-1859
+Trauungen 1810-1867
 https://www.archion.de/de/viewer/churchRegister/283209?pageId=39158623
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ Oktober 2024
 November 2024
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -442,3 +443,116 @@ Gottlob Herrmann Nacke
 Gotthelf Zocher
 Friedrich Eduard Fritzsche
 Carl August Müller
+----------------
+1860
+Carl August Schubert
+Carl Gottlob Junghans
+Johann Gottlieb Tilger
+Carl Gottlieb Heinrich Müller
+----------------
+Christian Gottlieb Hermann
+Carl Heinrich Hiller
+Johann Gustav Eichhorn
+Gottlieb Ernst Gommlich
+----------------
+Ernst Wilhelm Voigt
+Christian Gottlob Rühle
+Friedrich August Schramm
+1861
+Carl Gottfried Marx
+----------------
+Johann Gottfried Kunath
+Johann Carl Gottlob Schlechte
+Leopold Albert Länger
+----------------
+Carl Wilhelm Zocher
+Carl Moritz Kleine
+Wilhelm Ernst Jenert
+Carl Heinrich Frenzel
+----------------
+Ernst Wilhelm Dietze
+Christian Friedrich Wilhelm Mohn
+Gustav Wilhelm Dietze
+Friedrich Traugott Rothe
+----------------
+Christlieb Junghanns
+1862
+Johann Carl Golcke
+Carl Gottlieb Melzer
+Carl Friedrich Herrmann Röhrig
+----------------
+Gottlieb Herrmann Beger
+Ernst Wilhelm Kutzsche
+August Leberecht Voigt
+Gottlob Carl Holler
+----------------
+Gottlob Carl Pinkert
+Carl August Heinrich Marx
+Carl Leberecht Wilhelm Baldauf
+Friedrich August Steiniger
+----------------
+1863
+Christian Gottfried Hofmann
+Carl Gottlob Pinkert
+Ernst Schurig
+Johann Gottlieb Hildebrand
+----------------
+Heinrich Gotthelf Münch
+Johann Christian Laux
+Friedrich Eduard Lehninger
+Carl Friedrich August Quosdorf
+----------------
+Johann Gotthelf Techert
+1864
+Carl Gottlob Hildebrand
+Johann Christlieb Lorenz
+Carl Traugott Hoffmann
+----------------
+Ernst Wilhelm Rothe
+Ernst Wilhelm Dietze
+Carl Gotthelf Leuschner
+----------------
+Johann Traugott Gommlich
+Ernst Cornelius Vogel
+Johann Gottlob Mäser
+Adolph Henkel
+----------------
+Friedrich Herrmann Herzog
+Johann Carl Gottfried Drache
+Johann Samuel Fichtner
+Herrmann Mohn
+----------------
+1865
+Friedrich Traugott Thomas
+Johann Gottlieb Kundisch
+Christian Gottlieb Schuhmann
+----------------
+Christian Heinrich Junghans
+Johann Wilhelm Junghans
+Carl Wilhelm Kost
+Reinhold Hanitzsch
+----------------
+Ernst Wilhelm Thiele
+Carl Heinrich Wukasch
+Heinrich Hermann Clauß
+----------------
+Ernst Julius Schröter
+1866
+Friedrich August Fehrmann
+Friedrich Wilhelm Ziegenbalg
+----------------
+Fürchtegott Gottfried Holler
+Wilhelm Richter
+Adolph Herzog
+Johann Gottfried Vettler
+----------------
+Christian Gottlieb Herrmann
+Carl August Rothe
+1867
+Bernhard Lohse
+Ernst Wilhelm Krüger
+Friedrich Gustav Krüger
+----------------
+Johann Christian Marx
+Christian Gottlieb Herrmann
+Friedrich Moritz Pautzsch

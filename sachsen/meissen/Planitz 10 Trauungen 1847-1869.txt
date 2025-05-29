@@ -1,10 +1,11 @@
 Planitz (Buch 10)
-Trauungen 1847-1859
+Trauungen 1847-1869
 https://www.archion.de/de/viewer/churchRegister/289479?pageId=40227363
 
 
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -208,3 +209,164 @@ Friedrich Wilhelm Königsberg
 Wilhelm Ferdinand Winckler
 ----------------
 Carl Friedrich Ernst Streller
+----------------
+1860
+Carl Gottlob Heyde
+Johann Heinrich Krauspe
+Friedrich Wilhelm Hummel
+----------------
+Johann Carl Gottlob Beeg
+Friedrich Adolph Pieschel
+Carl Gottlieb Hahn
+----------------
+Carl August Dausel
+Carl Gottfried Ebert
+Carl Heinrich Hanitzsch
+----------------
+1861
+Ernst Moritz Guehne
+Friedrich Wilhelm Ernst Bruß
+Carl Gottlieb Panier
+----------------
+Friedrich Ernst Fraenzel
+Friedrich August Hierschemann
+Wilhelm August Michaelis
+----------------
+1862
+Friedrich Wilhelm Schulze
+Carl August Barth
+Friedrich Ehregott Schoene
+----------------
+Carl Heinrich Streller
+Carl Heinrich Dietrich
+Ernst Eduard Schrempel
+----------------
+Franz Eduard Kiesler
+Gotthelf Friedrich Leipner
+Friedrich Wilhelm Krauspe
+----------------
+Moritz Reinhold Goerne
+Ernst Wilhelm Laeßig
+Gottfried Ernst Kuehne
+----------------
+Johann Friedrich Ernst Raake
+Johann Christian Friedrich Wackwitz
+----------------
+1863
+Christian Adolph Thieme
+Carl August Claus
+Emil Badstuebner
+----------------
+Friedrich Wilhelm Raake
+Christian Albin Adler
+Johann Traugott Guenzel
+----------------
+Christian Gottlieb Schumann
+Friedrich Wilhelm Rudolph
+Heinrich Moritz Sattler
+----------------
+Friedrich Moritz Ebert
+Franz Benno Dietze
+Friedrich August Daemmig
+----------------
+Karl Friedrich Thiele
+Carl Gottlob Weinert
+Ernst Eduard Weinert
+----------------
+1864
+Carl Gottlob Geißler
+Johann Ernst Gottfried Schumann
+Johann Friedrich Ernst Schindler
+----------------
+Friedrich Ernst Koenigsberg
+Julius Reinhold Beeger
+Johann Wilhelm Scheunert
+----------------
+Carl Gottlieb Dittrich
+Heinrich Ferdinand Lommatzsch
+Carl Adolph Schuster
+----------------
+1865
+Traugott Leberecht Schuster
+Moritz Ernst Zieger
+Ernst Ferdinand Kiesling
+----------------
+Friedrich Herrmann Schneider
+Carl Friedrich Lau
+Friedrich August Klotzschky
+----------------
+Louis Ernst Gießner
+Carl Wilhelm Hertwig
+Gustav Adolph Starke
+----------------
+Gottlob Julius Schubert
+----------------
+1866
+Carl Friedrich August Schober
+Friedrich August Thieme
+Carl Ernst Vogel
+----------------
+Ernst Ferdinand Haensel
+Carl Gottlob Mühlstaedt
+Friedrich Wilhelm Jentzsch
+----------------
+Ernst Heinrich Lange
+Carl Herrmann Clauß
+Ernst Ferdinand Milde
+----------------
+Gustav Adolph Müller
+Robert Julius Miersch
+Friedrich August Seifert
+----------------
+Ernst Ferdinand Steglich
+Johann August Wehle
+----------------
+1867
+Adolph Leberecht Fischer
+Hans Sola
+Herrmann Kappelle
+Carl Wilhelm Winkler
+----------------
+Carl Moritz Schumann
+Gottfried Heinrich Begenau
+Gustav Ferdinand Leuschner
+Friedrich Ernst Winkler
+----------------
+Carl Heinrich Pannier
+Ludwig Robert Nicolai
+Carl Wilhelm Schmidt
+Peter Jannasch
+Friedrich Herrmann Altermann
+----------------
+1868
+Carl Wilhelm Mescheder
+Carl Heinrich Urban
+Friedrich Reinhold Berger
+Friedrich Reinhold Begenau
+----------------
+Friedrich Wilhelm Meltzer
+Carl August Sterzel
+Ernst Herrmann Meyer
+Carl Friedrich Altermann
+Carl Gottlob Schumann
+Heinrich Gustav Funke
+----------------
+Ernst Ferdinand Lommatzsch
+Ernst Ehregott Gerlach
+Karl Traugott Wilhelm Milde
+Karl August Claus
+----------------
+1869
+Ernst Moritz Eiselt
+Friedrich Moritz Winkler
+Wilhelm Ferdinand Zschalig
+Heinrich Adolf Berger
+Gustav Herrmann Backofen
+Heinrich Ernst Roitzsch
+Heinrich Gustav Schumann
+----------------
+Moritz Herrmann Lutze
+Wilhelm Oscar Reinhold Burkhardt
+Friedrich August Bruno Hänsel
+Herrmann Müller
+Karl Bernhard Mechler

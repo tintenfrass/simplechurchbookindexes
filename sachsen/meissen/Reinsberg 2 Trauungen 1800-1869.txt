@@ -1,5 +1,5 @@
 Reinsberg (Buch 2)
-Trauungen 1800-1859
+Trauungen 1800-1869
 https://www.archion.de/de/viewer/churchRegister/289497?pageId=40272581
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -13,6 +13,7 @@ Oktober 2024
 November 2024
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -803,3 +804,259 @@ Carl Gottlieb Wahl
 Franz Moritz Schlicke
 Friedrich Herrmann Haupt
 Carl Leberecht Rost
+----------------
+1860
+Carl Wilhelm Brückner
+Johann Louis Helbig
+Carl Gottlieb Zaertner
+Carl Heinrich Blaettner
+August Wilhelm Löffler
+Carl Gottfried Nauke
+----------------
+Carl Herrmann Maune
+Carl Herrmann Haenel
+Friedrich August Findeisen
+Johann Ramsch
+Carl Robert Lippmann
+August Isidor F?
+Karl Friedrich Haupt
+Ernst Wilhelm Trinks
+Ernst Friedrich Ludwig ?
+Leberecht Fürchtegott Löwe
+----------------
+Wolf Kunpling?
+Friedrich August Steiger
+Friedrich Wilhelm Borngr?
+Carl August Silbermann
+1861
+Carl August Ernst Sonntag
+Johann Carl Gottfried Damm
+Ferdinand Benke
+Johann Friedrich Wilhelm Ritter
+Ernst Julius Müller
+----------------
+Carl Gottlieb Eckelt
+Herrmann Ludwig Köhler
+Carl August Schlicke
+Heinrich Traugott Eduard Nagel
+Friedrich Wilhelm Waetzig
+Johann Carl Gottlob Bretschneider
+Carl Gottfried Damm
+Johann Christian Hesse
+Franz Louis Paul
+Johann Carl Gottfried Störl
+----------------
+Friedrich Hermann Waetzig
+Ernst August Rost
+Carl Heinrich Seidel
+Carl August Götze
+Carl Gottlieb Damm
+August Moritz Löffler
+Johann Gottlieb Schubert
+1862
+Carl August Busch
+Heinrich Ernst Rudolph
+----------------
+Friedrich Ernst Starke
+Ernst Heinrich Morgenstern
+Carl Ferdinand Lindner
+Michael Johann Krüger
+Johann Gottlieb Wagner
+Wilhelm Heinrich Weimert
+Carl Friedrich Hildebrand Einsiedel
+Carl Ludwig Ernst Löffler
+Ernst Moritz Forbiz
+Carl Gustav Wittig
+----------------
+Carl Gottlieb Rudolph
+Carl Friedrich Ernst Schumann
+Ernst Gottlob Adam Liebezeit
+Carl Friedrich August Franz
+Ernst Leberecht Emmrich
+Johann Gottlieb Wilhelm Günther
+1863
+Carl Wilhelm Ebert
+Heinrich Traugott Hentschel
+Johann Ernst Kühne
+Johann Gottfried Baher?
+----------------
+Ernst Julius Pötzsch
+Carl Friedrich Zschoch
+August Herrmann Stein
+Friedrich Ottomar Jehnert
+Carl Heinrich Naumann
+Carl Eduard Grosser
+Ernst Rudolf Ludwig
+Carl Friedrich Kluge
+Friedrich Wilhelm Vohland
+Carl Friedrich Rost
+----------------
+Johann Gottfried August Liebscher
+Ernst Eduard Halm
+Friedrich Ernst Reichard
+Gustav Herrmann Humpich
+Carl Heinrich Pappert
+Friedrich Wilhelm Naumann
+Johann Friedrich August Berthold
+1864
+Heinrich Julius Berthold
+Johann Traugott Wilhelm Neidhardt
+Friedrich Wilhelm Vesper?
+----------------
+Friedrich Wilhelm Lantzsch
+Carl Gottlob May
+Ernst Robert Haufe
+Carl Adolph Rost
+Friedrich Adolph Julius Diersche
+Carl Gottlob Lindner
+Ernst Julius Birkner
+Wilhelm Ernst Kieslich
+Moritz Wilhelm König
+August Porstmann
+----------------
+Johann Friedrich Hornickel
+Ernst Ferdinand Irmann?
+Johann Gotthelf Löffler
+Johann Christoph Schumann
+Carl August Grahl
+Gottfried Ernst Glaser
+Johann Killian
+Friedrich Ernst Haupt
+Friedrich August Grahl
+Carl August Löffler
+----------------
+Carl Friedrich Oelschlägel
+Ernst Julius Lantsch
+Carl Ernst Rost
+Carl August Hesse
+Friedrich Ernst Fischer
+Carl Franz Rotter
+Johann Friedrich Albertin? König
+1865
+Johann Heinrich Watzig?
+Carl August Ficke
+Fürchtegott Reinhard Hennig
+----------------
+Carl Gottfried Schubert
+Carl Eduard Benno? Baumann
+Johann Gottfried Straßberger
+Friedrich Gottlieb Böttcher
+Carl August Scheunpflug
+Carl Gottfried Gläser
+Ernst Julius Peuthert?
+Johann Gottlob Eduard Schütze
+Carl August Heinrich Fritzsche
+Carl Friedrich Louis Sonntag
+----------------
+Friedrich August Schmieder
+August Heinrich Limbach
+Ernst Anton Julius Döhnert
+Friedrich August Rost
+Friedrich Ernst Schröter
+August Friedrich Silbermann
+Carl Friedrich August Streller
+1866
+Karl Heinrich Männel
+Friedrich Moritz Schibold
+Friedrich August Hempel
+----------------
+Carl Friedrich Kleeberg
+Gustav Adolf Findeisen
+Wilhelm Ernst Meutzner
+Friedrich Moritz Hille
+Carl August Ferdinand Weise
+Carl Ernst Steiger
+August Moritz Männel
+Bernhard Schneider
+Julius Moritz Kluge
+Eduard Kunze
+----------------
+----------------
+Christian Wilhelm Schneider
+Johann Heinrich Tillmann
+Michael Wilhelm Wiedmar?
+Friedrich Robert Krause
+Herrmann Gustav Moritz R?
+Ernst Moritz Kunze
+Carl August Ebert
+Carl Gottfried Kunze
+Carl Gottlob Protzschner
+Ernst? H?
+----------------
+1867
+Carl Gottlob Pechert
+Ernst Wilhelm Pönisch
+Franz Eduard Löwe
+Friedrich Bernhard Kretzschmar
+Carl Heinrich Bruchmüller?
+August Julius Lantzsch
+Carl Gottfried Bloeder?
+Carl Hugo Frey
+Carl Moritz Zeugfang
+Friedrich Wilhelm Kunze
+----------------
+Carl August Gral?
+Carl Gottlob Haupt
+Caspar Friedrich Christoph Schönberg
+Ernst Adolf Volkmann
+Carl Gottlob Lippmann
+Ernst Eduard Richter
+Carl Gottlob Schmidt
+1868
+Heinrich Wilhelm Rudolph
+Friedrich August Naumann
+Johann Gotthelf Rälkert?
+----------------
+Ernst Theodor Rost
+Carl Heinrich Ilgen
+Friedrich Reinhold Bergmann
+Friedrich Wilhelm Fischer
+Carl Gottfried Heller
+Carl Gottlieb Ernst Wike?
+Wilhelm Ernst Berger
+Carl August Grahl
+Friedrich Wilhelm Grahl
+Heinrich Ernst Ryssel
+Johann Carl Gottfried Müller
+----------------
+Julius Herrmann Steiger
+Hugo Jobst
+Carl August Schmidt
+Julius Schulze
+Gotthelf Herrmann Naumann
+Heinrich Gustav Moritz Schantze?
+Heinrich Eduard Watzig
+1869
+Friedrich August Schubert
+Ernst Friedrich Zimmermann
+Carl Ernst Haune?
+Friedrich Ernst Kühne
+----------------
+Carl August Kunath?
+Carl Friedrich Grahl
+Gustav Otto Riedel
+Herrmann Moritz Leonhardt
+Ernst Julius Grahl
+Friedrich Moritz Böhme
+Friedrich August Müller
+Heinrich Wilhelm Gebauer
+Johann Wilhelm Günther
+Herrmann R? Jobst
+Friedrich Eduard Wolf
+----------------
+August Albert Helm
+Carl Friedrich August Schubert
+Wilhelm August Naumann
+Friedrich Wilhelm Günther
+Carl August Dachselt
+Heinrich Wilhelm Burkhardt
+Carl Heinrich Langeberger
+Carl Otto Heynitz
+Carl Christoph Störr
+August Eduard D?
+----------------
+Johann Ferdinand Barth
+Ernst Moritz Lippmann
+Carl Eduard Berger
+Friedrich Herrmann Franz
+Friedrich Gotthelf Leupold

@@ -1,10 +1,11 @@
 Oberau (Buch 7)
-Trauungen 1849-1859
+Trauungen 1849-1869
 https://www.archion.de/de/viewer/churchRegister/289464?pageId=40223689
 
 
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -110,3 +111,89 @@ Christian Gottlieb Eckart
 Johann Traugott Rändler
 Fürchtegott Wilhelm Reimann
 Johann Gottfried Gellert
+----------------
+1860
+Johann Gottlob Quittel
+Johann Traugott Pötzschke
+Johann Carl Gotthelf Ziegenbalg
+Ernst Friedrich Wilhelm Schumann
+----------------
+Johann Gottlob Adam
+Johann Kubasch
+Friedrich Gottlob Heinrich Kleeberg
+Carl August Richter
+----------------
+1861
+Friedrich Carl Kirsten
+Friedrich August Reimann
+Carl Gotthelf Hirsch
+Christian Gottlieb Lehmann
+----------------
+Carl Christian Leberecht Fischer
+Johann Gotthelf Mäser
+Johann Carl Gottlob Wendisch
+Carl Traugott Eichler
+----------------
+1862
+Ernst Friedrich Reimann
+Ernst Eduard Hennig
+Carl Adolph Lange
+1863
+Eduard Ferdinand Gehre
+----------------
+Friedrich Ernst Hornemann
+Theodor Brandenburg
+Johann Carl Gottlob Schröer
+----------------
+1864
+Carl Herrmann Rochlitz
+Friedrich Ernst Rühle
+Friedrich Gotthelf Eckart
+Carl Gottlieb Enger
+----------------
+Wilhelm Eduard Raabs
+Johann Gottfried Rühle
+Friedrich August Hornemann
+----------------
+1865
+Friedrich Wilhelm Mohn
+Johann Ernst Adolph Hoyer
+Robert Clauß
+Johann Gottlieb Haaße
+----------------
+Heinrich Ernst Schlechte
+----------------
+1866
+Carl August Hoyer
+Johann Gottlob Grätze
+Carl Gottfried Rühle
+Ernst Friedrich Seiffert
+Johann Gottfried Starke
+----------------
+1867
+Carl Ernst Patzig
+Friedrich August Klein
+Eduard Moritz Hoyer
+Theodor Reichsgraf
+Johann Gotthelf Vetter
+----------------
+Johann Gottlieb Wendt
+Ernst Wilhelm Pottig
+----------------
+1868
+Carl August Huhle
+Friedrich August Schlechte
+Heinrich Herrmann Hoyer
+Wilhelm Friedrich Klunker
+----------------
+Herrmann August Hornemann
+----------------
+1869
+Carl Friedrich Heinicke
+Ernst Robert Hoyer
+Carl Ernst Zschoche
+Johann Heinrich Hähne
+----------------
+Friedrich August Huhn
+Samuel Fürchtegott Quittel
+Ernst Wilhelm Grimmer
