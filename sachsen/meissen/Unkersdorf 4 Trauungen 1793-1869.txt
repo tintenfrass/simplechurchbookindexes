@@ -1,5 +1,5 @@
 Unkersdorf (Buch 4)
-Trauungen 1793-1859
+Trauungen 1793-1869
 https://www.archion.de/de/viewer/churchRegister/289610?pageId=40255438
 
 
@@ -11,6 +11,7 @@ Oktober 2024
 November 2024
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -455,3 +456,72 @@ Carl August Steude
 Carl Gottlob Philipp
 Carl Ernst Dachsel
 Carl Ludwig Lorentz
+----------------
+1860
+Johann Nicolaus Bauersachs
+Carl August Irmer
+Carl August Roscher
+August Wilhelm Mehlig
+----------------
+1861
+Carl Gottlob Kunze
+Ernst August Schubert
+Friedrich Wilhelm Schuckelt
+Wilhelm Heinrich Hanke
+Johann Ernst Donath
+----------------
+1862
+Gustav Wilhelm Rost
+Ernst Wilhelm Kutzsche
+Carl Eduard Schaarschuch
+Carl Traugott Ernst Henker
+Hermann August Kirsten
+Friedrich Herrmann Strohbach
+----------------
+1863
+Ernst Friedrich Löwe
+Friedrich Gotthelf Thiele
+Heinrich Ferdinand Arnold
+Robert Herrmann Lommatzsch
+Gottlieb Heinrich Kutzsche
+Gustav Emil Leberecht Hartwig
+Ernst Traugott Klotzsche
+----------------
+1864
+Heinrich Herrmann Holfert
+Carl August Pohrisch
+Friedrich Herrmann Maune
+Carl August Müller
+----------------
+1865
+Johann Christian Günther
+----------------
+1866
+Ernst Heinrich Iltzsche
+Gustav Moritz Schubert
+----------------
+1867
+Heinrich Julius Waitz
+Gottfried Eduard Herrmann Döhnert
+Heinrich Herrmann Lotze
+Johann August Edmund Zschern
+Carl Felix Hartwig
+Traugott Leberecht Rost
+Johann Gottlieb Schubert
+----------------
+Ernst Heinrich Philipp
+----------------
+1868
+Carl August Barthel
+Wilhelm Julius Lotze
+Ernst Heinrich Traugott Lohrmann
+----------------
+1869
+Carl Friedrich Kunze
+Karl Heinrich Leberecht Klemm
+Gustav Adolph Kutzsche
+Herrmann Wilhelm Schubert
+Gustav Adolph Scharfe
+Friedrich August Becker
+----------------
+Friedrich Wilhelm Großmann

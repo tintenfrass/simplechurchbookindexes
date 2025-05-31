@@ -1,10 +1,11 @@
 Staucha (Buch 13)
-Trauungen 1841-1859
+Trauungen 1841-1864
 https://www.archion.de/de/viewer/churchRegister/289572?pageId=40248523
 
 
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1044,3 +1045,309 @@ Johann Ernst Schumann
 ----------------
 Carl Gottlob Claus
 Johann Gotthelf Marx
+----------------
+1860
+Carl Gottlob Claus
+Johann Gotthelf Marx
+Johann Gottlieb Reinhardt
+Johann Wilhelm Winkler
+----------------
+Carl Gottlob Ernst Lehmann
+Friedrich Wilhelm Mühlberg
+August Friedrich Wilhelm Lengefeld
+----------------
+Carl Heinrich Lommatzsch
+Friedrich Carl Heide
+Johann Gottlieb Herrmann
+Carl Wilhelm Lippert
+----------------
+Friedrich August Scheinert
+Johann Friedrich Beirich
+Wilhelm August Lässig
+----------------
+Carl Eduard Mehner
+Franz Oskar Clauss
+Carl Friedrich Ernst Boden
+----------------
+Johann Gotthelf Müller
+Friedrich Ernst Müller
+Gotthelf Traugott Mittmeier
+----------------
+Johann Gottlieb Müller
+Friedrich Louis Pinker
+Johann Wilhelm Robert Nitzsche
+----------------
+Andreas Schkade
+Ernst Julius Müller
+Friedrich Traugott Blauert
+----------------
+Friedrich Ernst Jaehnig
+Christian Gottlieb Schulze
+Ernst Eduard Ritter
+----------------
+Carl Gottlob Kühn
+Carl Traugott Schmidt
+Wilhelm Ernst Müller
+----------------
+Carl Gottfried Schulze
+Carl Traugott Dutschmann
+Ernst Friedrich Bachmann
+----------------
+Carl Friedrich Bark
+Ernst Reinhold Zweinig
+Johann Gottfried Grossmann
+----------------
+Carl Heinrich Fritzsche
+August Otto Nake
+Friedrich Gottlob Gast
+----------------
+Johann Friedrich August Curth
+----------------
+1861
+Johann Christian Gottlieb Wohllebe
+Carl Wilhelm Hölzig
+Traugott Leberecht Conrad
+----------------
+Johann Carl Eduard Nake
+Traugott Wilhelm Stieler
+Johann Gottlob Eduard Nitzschke
+Franz Julius Pinkert
+----------------
+Christian Gottlieb Winkler
+Carl Moritz Mehner
+Franz Gustav Eduard Kahl
+Ernst Julius Rössger
+----------------
+Johann Friedrich Zietzschmann
+Friedrich August Knepper
+Friedrich Ernst Lorenz
+Carl Gottlieb Albrecht
+----------------
+Friedrich Herrmann Bär
+Friedrich August Höhme
+Johann Heinrich August Kissig
+Johann Ernst Schumann
+----------------
+Friedrich Ernst Naumann
+Carl Eduard Jeschke
+Reinhard Friedrich Carl Zscherpel
+Ehrhardt Herrmann Andrae
+----------------
+Friedrich Ernst Schneider
+Johann Friedrich Wilhelm Pötzsch
+Friedrich Traugott Schrapel
+Ernst Herrmann Thürmer
+----------------
+Carl Friedrich Weinert
+Christian Traugott Berger
+Johann Gotthold Schumann
+----------------
+Johann Gottlob Mehnert
+Carl Wilhelm Hahnefeld
+Johann Gustav Emil Nitzsche
+----------------
+Johann Ernst Friedrich Birke
+Gotthelf Ehregott Moebius
+Friedrich Wilhelm Rost
+----------------
+Friedrich Ernst Ehregott Thürmer
+Friedrich Ernst Starke
+Carl Friedrich Wilhelm Wolf
+Friedrich Ernst Werner
+----------------
+Wilhelm Mritz Moritz Böhmert
+Friedrich Wilhelm Andrich
+Carl Herrman Müller
+----------------
+Carl August Rossberg
+Ernst August Kunert
+Friedrich Ernst Müller
+----------------
+----------------
+1862
+Carl Oscar Clausnitzer
+Johann Carl Gottlieb Reinhardt
+Emil Carl Oliver Clausnitzer
+Christian Wilhelm Schade
+----------------
+Julius Eduard Lohse
+Johann Gottlob Wohllebe
+Friedrich Heinrich Schell
+Friedrich Wilhelm Wehle
+----------------
+Friedrich Ernst Jahn
+Carl August Triems
+Johann Gottlob Müller
+Moritz Reinhold Böhme
+----------------
+Friedrich Ernst Thürmer
+Carl Gottlob Miersch
+Friedrich Ernst Bormann
+Friedrich August Schulze
+----------------
+Christian Ernst Donath
+Carl Ludwig Jentzsch
+Friedrich Ernst Tischer
+----------------
+Carl Ernst Lissner
+Friedrich Wilhelm Raume
+Carl Ehregott Günther
+----------------
+Carl Gottlieb Müller
+Carl Heinrich Zietzschmann
+Heinrich Traugott Laubisch
+----------------
+Julius Ehregott Sickert
+Carl Friedrich Traugott Kunze
+Carl Friedrich Müller
+----------------
+Friedrich August Müller
+Friedrich Wilhelm Gast
+Carl Heinrich Buhlig
+----------------
+----------------
+1863
+Friedrich Wilhelm Kutzsche
+Friedrich Ernst Klöpel
+Johann Ferdinand Nacke
+Julius Theodor Mundschick
+----------------
+Carl Gottfried Ernst Ilschner
+Carl Gotthelf Krüger
+Carl Friedrich Thiele
+Friedrich Gotthelf Reinhold Böhme
+----------------
+Johann Gottfried Schönert
+Johann Gotthelf Richter
+Friedrich August Lauermann
+Friedrich Reinhold Klaeber
+----------------
+Friedrich August Gregor
+August Wilhelm Räubig
+Friedrich Moritz Zweinig
+Friedrich August Knepper
+----------------
+Friedrich August Meissner
+Johann Traugott Winkler
+Friedrich Ernst Kiessling
+Ernst Julius Hantzschmann
+----------------
+Heinrich Gotthelf Schumann
+Friedrich Herrmann Reinhardt
+Gotthelf Wilhelm Wittig
+Friedrich Ernst Müller
+----------------
+Carl Gottlieb Stephan
+Friedrich Herrman Bocher
+Friedrich Ehregott Panitz
+----------------
+Friedrich Wilhelm Schäfer
+Friedrich Wilhelm Böhlig
+Carl Gottlieb Thomas
+----------------
+Johann Gottlob Wilhelm Lehmann
+Carl Friedrich Anton Zierold
+August Heinrich Bautzmann
+----------------
+Johann Gottfried Grossmann
+Friedrich Eduard Walther
+Friedrich Traugott Oehmigen
+----------------
+Carl Gotthelf Lange
+Carl Gottfried Knepper
+Rudolph Hauffe
+----------------
+Gotthelf Ernst Böhme
+Eduard Herrmann Rech
+Heinrich Oscar Ritter
+----------------
+Carl Ludwig Benndorf
+Johann Heinrich Leberecht Arnold
+Ernst Ehregott Andrae
+----------------
+Johann Traugott Clömichen
+Friedrich Carl Brand
+Friedrich Traugott Hensel
+----------------
+Carl Heinrich Wackwitz
+Carl Friedrich Anton Trenkmann
+Heinrich Wilhelm Thürmer
+----------------
+Friedrich Traugott Thürmer
+Traugott Wilhelm Beuchel
+Johann Carl Gottlob Möckus
+----------------
+Friedrich Reinhold Müsler
+Friedrich Wilhelm Gasch
+Carl August Worlitzsch
+----------------
+Friedrich Ernst Göpel
+Friedrich August Ernst Müller
+August Conrad
+----------------
+Johann August Robert Lommatzsch
+Carl Traugott Stoppe
+Carl Ehrenfried Lehmann
+----------------
+Johann August Ferdinand Striegler
+Friedrich Wilhelm Kuhn
+Johann Friedrich Moritz Kissig
+----------------
+Johann Christlieb Patitz
+----------------
+1864
+Gottfried Oswald Wessner
+Johann Carl Gotthelf Uhlmann
+Johann Heinrich Thomas
+----------------
+Friedrich Ernst Röher
+Carl Gottlob Ernst Lehmann
+Reinhold Heinrich Naumann
+----------------
+Carl Gottlob Fichtner
+August Wilhelm Lohse
+Johann Ernst Gottfried Schumann
+----------------
+Friedrich August Hans
+Carl Wilhelm Zieger
+Friedrich Ernst Königsberg
+----------------
+Ernst Voigt
+Carl Gottlob Schumann
+Friedrich Heinrich Eulitz
+----------------
+Johann Friedrich Leberecht Erler
+Johann Gottlob Werner
+Friedrich August Boden
+----------------
+Franz Julius Pinkert
+Traugott Grumbach
+August Herrman Gasch
+----------------
+Friedrich Wilhelm Heinitz
+Ernst Wilhelm Wunderlich
+Herrmann Robert Stephan
+----------------
+Friedrich Ernst Thielemann
+Carl Gottlieb Winkler
+Friedrich David Obenaus
+----------------
+Friedrich Wilhelm Wolf
+Carl Christian Gottfried Schmidt
+Friedrich Wilhelm Steiger
+----------------
+Friedrich Ernst Müller
+Friedrich Herrmann Werner
+Ernst Eduard Heinze
+----------------
+Johann Heinrich August Petermann
+Johann Traugott Schuster
+Ernst Ferdinand Hantzschmann
+----------------
+Friedrich Wilhelm Beyer
+Otto Robert Ullrich
+Heinrich Herrman Lässig
+----------------
+Carl Heinrich Pötschke
+Friedrich Wilhelm Stubenrauch
+Johann Carl Müller

@@ -1,10 +1,10 @@
 Sora (Buch 2)
-Trauungen 1850-1859
+Trauungen 1850-1869
 https://www.archion.de/de/viewer/churchRegister/289556?pageId=40245538
 
 
-
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -87,3 +87,83 @@ Friedrich Wilhelm Naumann
 ----------------
 Carl Heinrich Jeheber
 Gottfried Leberecht Walther
+1860
+Carl Gottlieb Kunze
+Gottlob Ernst Pretzschner
+----------------
+1861
+Carl August Schöne
+Julius Herrmann Schönhals
+Friedrich Ernst Arnhold
+Friedrich August Hubert
+----------------
+1862
+Gottlob Wilhelm Hillig
+Gustav Herrmann Nitzsche
+Karl Gotthelf Böhme
+Ernst Ehregott Gappisch
+----------------
+1863
+Carl Gotthelf Mehlig
+Carl Gottlob Ernst Hillig
+Friedrich Ferdinand Kirsten
+1864
+Friedrich Ferdinand Klemm
+----------------
+----------------
+Eduard Herrmann Saupe
+Ernst August Syatz
+Johann Traugott Wauer
+Moritz Hermann Philipp
+Johann Gottlob Loreck
+----------------
+1865
+Heinrich Julius Helm
+Ernst Moritz Ziller
+Carl Gottlieb Winkler
+Friedrich August Gürtler
+----------------
+August Eduard Pöschel
+Heinrich Herrmann Kiesling
+Gustav Herrmann Hahn
+----------------
+1866
+Gustav Robert Philipp
+Carl Heinrich Hermann Lindner
+Ernst Wilhelm Zimmermann
+Julius Ernst Mehlig
+Johann Gottlieb Just
+----------------
+1867
+Heinrich Otto Singer
+Carl Gottlob Kirsten
+August Heinrich Kirsten
+Ernst Moritz Mehlig
+Gustav Louis König
+----------------
+Carl Gottlob Triebe
+Friedrich Wilhelm Klemm
+1868
+Michael Mirtschin
+----------------
+Johann Carl Eduard Hetzel
+Adolph Gustav Oswald Mehlig
+Carl Friedrich Winschüttel
+Carl Ernst Hahn
+----------------
+Friedrich Robert Kästner
+Friedrich Wilhelm Hofmann
+1869
+Franz Theodor Thierbach
+----------------
+Ernst Adolf Pinker
+Heinrich Otto Heimert
+Carl Gottlieb Rautenstrauch
+Gottlieb Gustav Stelzer
+Heinrich Herrmann Arnhold
+----------------
+Franz Oskar Naumann
+Traugott Herrmann Schumann
+Ernst Hermann Hillig
+Carl August Kramer
+Carl Wilhelm Behrisch

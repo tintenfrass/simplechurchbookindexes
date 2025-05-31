@@ -1,5 +1,5 @@
 Tanneberg (Buch 762)
-Trauungen 1801-1859
+Trauungen 1801-1865
 https://www.archion.de/de/viewer/churchRegister/289595?pageId=40251741
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -12,6 +12,7 @@ Oktober 2024
 November 2024
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -566,3 +567,81 @@ Ernst August Hillig
 Carl Sigismund Kießlich
 Johann Carl Ernst Nestler
 Daniel Frosch
+----------------
+1860
+Friedrich Wilhelm Weikert
+Carl August Dautz
+Johann Carl August Scholz
+Carl Gottlob Naumann
+Johann Gottlieb Samuel Rößler
+----------------
+Carl Heinrich Bennewitz
+Friedrich Wilhelm Giebe
+----------------
+1861
+Ernst Julius Busch
+Benno Theobald Crusius
+Carl Gottlob Lamm
+Friedrich Wilhelm Schmiedgen
+----------------
+Carl Gottlieb Naumann
+Johann Friedrich Mühlbach
+Carl Gottlob Hänsel
+Carl Anton Schubert
+Ernst Wilhelm Illchen
+----------------
+1862
+Carl Oscar Clausnitzer
+Carl Heinrich Rost
+Carl Leberecht Ernst Strohbach
+Friedrich Ernst Dachsel
+Moritz Anton Burggraf
+----------------
+Gustav Adolph Busch
+Carl Franz Theodor Busch
+Daniel Friedrich Ralle
+Johann Friedrich Weidner
+Carl Gotthelf Beilig
+----------------
+1863
+Carl Moritz Busch
+Carl Gottlieb Hauswald
+Carl August Böhme
+Carl Friedrich Hauptmann
+Friedrich August Heschel
+----------------
+Carl Heinrich Wolf
+Friedrich Eduard Geißler
+Carl Herrmann Moses
+Ernst Wilhelm Schubert
+Friedrich August Schubert
+----------------
+Ernst Moritz Pährisch
+Johann Carl Gottlob Leonhardt
+Carl August Steiger
+----------------
+1864
+Johann Gottlieb Löffler
+Carl Friedrich August Cruschwitz
+Ernst Julius Rost
+Johann Friedrich Gottlob Kießling
+----------------
+Ehregott Heinrich Böhme
+Carl Friedrich Bartzsch
+Johann August Andrae
+Carl Heinrich Fischer
+Gottlieb August Schwar
+----------------
+Carl Herrmann Heide
+Carl August Host
+1865
+Fürchtegott Leberecht Reißmüller
+Carl Wilhelm Heide
+----------------
+Johann Friedrich Techert
+Ernst Friedrich Wilhelm Grünewald
+Carl Gottlieb Wendt
+Friedrich Traugott Wittag
+Heinrich Herrmann Kunze
+Johann Hahle
+Adolph Heinrich Bruchholz

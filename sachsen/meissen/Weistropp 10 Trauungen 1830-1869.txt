@@ -1,5 +1,5 @@
 Weistropp (Buch 10)
-Trauungen 1830-1859
+Trauungen 1830-1869
 https://www.archion.de/de/viewer/churchRegister/289644?pageId=40260861
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 November 2024
 Februar 2025
 März 2025
+Mai 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -716,3 +717,305 @@ Ernst Leberecht Lehmann
 August Wilhelm Traenkner
 Carl Gottlob Lehmann
 Ernst Ludwig Zoellner
+----------------
+1860
+Friedrich August Roeßler
+Carl Gottlob Wilhelm Nestler
+Ernst Eduard Schütze
+----------------
+Carl Heinrich Reihold Engelmann
+Friedrich Wilhelm Kühn
+Friedrich Hermann Escher
+----------------
+Friedrich Benno Jaehnichen
+Johann Gottlob Klügel
+Carl Adolph Pahlitzsch
+----------------
+Friedrich Leberecht Büttner
+Johann Gottlob Rietzscher
+Ernst Leberecht Gießmann
+Carl Friedrich Sohrmann
+----------------
+Johann Wilhelm Ernst Funke
+Carl Heinrich Maune
+Friedrich August Ilschner
+Carl Traugott Mai
+----------------
+Heinrich Gustav Schuster
+Friedrich August Loose
+Johann Carl Christian Haukold
+Johann Traugott Jeremias
+----------------
+Carl August Fehrmann
+Friedrich Adolph Richter
+Ernst Leberecht Lehmann
+Georg Adolph Bransk
+----------------
+Friedrich August Leonhard
+Johann Gottlob Kunze
+Carl Gottlob August Ranft
+----------------
+1861
+Carl Traugott Ferdinand Daemmig
+Carl Hermann Harzbekker
+Ernst Friedrich Hermann
+----------------
+Carl Traugott Richter
+Ernst Julius Roemisch
+Johann Gotthelf Witschold
+----------------
+Wilhelm Heinrich Lorenz
+Carl Gottlob Lehmann
+Gustav Adolph Wend
+----------------
+Ernst Heinrich Voigt
+August Wilhelm Maune
+Michael Zaunik
+Carl Friedrich Hermann Maune
+----------------
+August Moritz Kirbach
+August Ferdinand Pietzsch
+Johann Gotthelf Roester
+Carl Wilhelm Eduard Kellner
+----------------
+Carl August Rüdiger
+----------------
+1862
+Carl August Koehler
+Friedrich Traugott Toegel
+Gottfried Ernst Muster
+----------------
+August Wilhelm Feller
+Christian August Goepfert
+Ernst Eduard Dietze
+----------------
+Gottlieb Hermann Beger
+Carl August Hermann Knoefel
+Gottlob Ernst Leuschner
+----------------
+Ernst Ferdinand Fleischer
+Ernst Theodor Stiehler
+Ernst Heinrich Stirl
+Gottfried Adolph Ludewig
+----------------
+Ernst Traugott Frühauf
+Julius Hermann Braeunig
+Johann Rentzsch
+----------------
+Johann Friedrich Wilhelm Schmidt
+Heinrich Eduard Deich
+Ehregott Reinhold Behnisch
+----------------
+Carl Gottfried Braeuer
+Gottlieb Heinrich Ernst Berger
+Heinrich Eduard Garbe
+----------------
+Otto Moritz Plesch
+Julius Ernst Robert Wittig
+----------------
+1863
+Carl Heine
+Friedrich August Maebert
+Ernst Traugott David Vogel
+Friedrich Wilhelm Hillig
+----------------
+Gustav Hermann Großmann
+Friedrich August Teichgraeber
+Carl Friedrich August Ranft
+Christian Friedrich Hoppe
+----------------
+Adolph Heinrich Vogel
+Carl Gottfried Teich
+Carl August Petzold
+Traugott Leberecht Rost
+----------------
+Friedrich Ernst Schmieder
+Wilhelm Ernst Kühne
+Friedrich August Adolph Koenig
+----------------
+Carl Friedrich Wilhelm Kretzschmar
+Carl Friedrich Ernst Haehnel
+Heinrich Ludwig Hahn
+----------------
+Carl Traugott Otto
+Johann Gottfried Bürger
+Friedrich Wilhelm Boehme
+----------------
+Friedrich Wilhelm Loeser
+----------------
+1864
+Carl Wilhelm Krause
+Carl Louis Gaebler
+Friedrich Eduard Gießmann
+----------------
+Carl August Heyne
+Carl Eduard Krause
+Carl Eduard Reichel
+----------------
+Eduard Edmund Ludewig
+Wilhelm Ernst Windschüttel
+Johann Gottlieb Schoene
+----------------
+Carl Heinrich Zschitzschmann
+Carl August Zschoche
+Christian Carl Gottlieb Zocher
+Johannes Otto Schoenberg
+----------------
+Curt Theodor Ehrentraut
+Philipp August Krauß
+Carl Heinrich Schulze
+Ernst Moritz Knoefel
+----------------
+Friedrich Ernst Seifert
+Carl Friedrich Moritz Herrmann
+Carl Friedrich Maebert
+Carl Heinrich Daebler
+----------------
+Friedrich Wilhelm Leischke
+Wilhelm Ferdinand Kühne
+Heinrich Georg Ackermann
+----------------
+1865
+Ferdinand Louis Doering
+Carl Heinrich Bahrmann
+Carl August Angermann
+Friedrich August Hauswald
+----------------
+Friedrich August Richter
+Wilhelm Ernst Goldbach
+Heinrich Moritz Raetzsch
+Herrmann Julius Haentsch
+----------------
+Carl Gottlob August Ranft
+Adolph Heinrich Bruchholz
+Carl Julius Große
+Johann Wilhelm Ernst Funke
+----------------
+Friedrich Wilhelm Froede
+Heinrich Adolph Ficke
+Heinrich Ernst Meinig
+Carl Ernst Märker
+Carl Heinrich August Fehrmann
+----------------
+1866
+Heinrich August Rentzschke
+Johann Christian Adolph Haukold
+Heinrich Gotthold Voigt
+Carl August Haufe
+----------------
+Friedrich Traugott Haußmann
+Johann Gottlob Fischer
+Friedrich Hermann Hentzschel
+Heinrich Ernst Rost
+Adolph Paul Pietzsch
+----------------
+Carl Friedrich Rülker
+Johann Gottlieb Ernst Küttner
+Heinrich Hermann Götze
+Ernst Wilhelm Kirsten
+----------------
+Johann Carl August Starke
+Christian Friedrich Wünsche
+Johann August Höpfner
+----------------
+1867
+Gustav Moritz Schubert
+Ernst Wilhelm Knöfel
+Ernst Wilhelm Große
+Friedrich August Kirsten
+----------------
+Ernst Immanuel Donat
+Carl August Springefeld
+Ernst Robert Mißbach
+Traugott Leberecht Mittag
+----------------
+Arno Reinhard Schmidt
+Johann Friedrich August Merbitz
+Ernst Gustav Görne
+Carl Friedrich Uhlemann
+----------------
+August Friedrich Richter
+Carl Hermann Burkhardt
+Ernst Moritz Mehlig
+Heinrich Gustav Grosche
+----------------
+Eduard Kandler
+Moritz Louis Dörschel
+Ernst Emil Sander
+Carl August Rüdiger
+----------------
+Gottlieb August Naumann
+Traugott Leberecht Rost
+Heinrich Moritz Hoppe
+Franz Gottlieb Krancher
+----------------
+Friedrich August Curt Herzog
+Ernst August Kleber
+Julius Robert Grohmann
+Ernst Julius Hornauf
+----------------
+Heinrich Wilhelm Knöfel
+August Leberecht Raabe
+----------------
+1868
+Ernst Julius Garbe
+Johann Gottfried Moritz Knöfel
+Ernst Gotthelf Teich
+----------------
+August Maiwald
+Ernst Karl August Kunze
+Ernst Eduard Hermann Zimmermann
+----------------
+Ernst Leberecht Petrich
+Friedrich Moritz Uhlig
+Ernst Hermann Löser
+----------------
+Carl Eduard Zeibig
+Johann Schiemann
+Ernst Ferdinand Winkler
+----------------
+Adolf Eduard Löffel
+Carl Heinrich Bachmann
+Ernst Moritz Grosche
+----------------
+Carl August Pinker
+Heinrich Wilhelm Rost
+Carl Adolf Leberecht Müller
+----------------
+Johann Christian Rößel
+Friedrich Leberecht Große
+Friedrich Wilhelm Berger
+----------------
+Ernst Louis Funke
+Johann Carl Gottlieb Starke
+----------------
+1869
+Heinrich Adolph Kretzschmar
+Carl Friedrich Kunze
+Friedrich Moritz Kästner
+----------------
+Johann Mrosack
+Johann Wilhelm Ernst Maul
+Carl Gottlieb Herrmann Fiedler
+----------------
+Gottfried Leberecht Hermann Jünger
+Ernst Gustav Schramm
+Friedrich Adolph Kluge
+----------------
+August Leberecht Pietzsch
+Ernst Heinrich Hermann Zschech
+Wilhelm Moritz Hentzschel
+----------------
+Johann Ernst Wilhelm Hentzschel
+Carl Friedrich Kirchner
+Heinrich Ernst Roitzsch
+----------------
+Friedrich August Melzer
+Johann Christian Friedrich Lother
+Herrmann Wilhelm Schubert
+Johann Gustav Gensch
+----------------
+Heinrich Theodor Meusel
+Traugott Gottlob Müller
+Franz Oskar Naumann
+Heinrich Herrmann Funke
