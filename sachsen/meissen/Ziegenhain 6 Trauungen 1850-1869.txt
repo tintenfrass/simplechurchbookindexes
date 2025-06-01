@@ -1,9 +1,10 @@
 Ziegenhain (Buch 6)
-Trauungen 1850-1859
+Trauungen 1850-1869
 https://www.archion.de/de/viewer/churchRegister/289692?pageId=40271741
 
 
 März 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -179,3 +180,169 @@ Christian Wilhelm Illig
 ----------------
 Friedrich Wilhelm Doehnert
 Moritz Ferdinand Damm
+----------------
+1860
+Friedrich Ernst Döhnert
+Carl Wilhelm Zimmermann
+Friedrich Ernst Steude
+----------------
+Friedrich Adolph Fiedler
+Carl Franz Frohberg
+Gustav Adolph Theodor Uhlmann
+----------------
+Friedrich Ernst Schneider
+Ernst Leberecht Kielwagen
+Friedrich Wilhelm Boehme
+----------------
+1861
+Friedrich Wilhelm Paul
+Carl Traugott Hanicke
+Friedrich Ferdinand Spalteholz
+----------------
+Friedrich Ferdinand Reinhardt
+Gustav Adolph Teubern
+Peter Noack
+----------------
+Carl Gottlob Krueger
+Johann Carl Gottlob Zschaubitz
+Franz Theodor Luetzner
+----------------
+Carl Gotthelf Mittank
+----------------
+1862
+Carl Heinrich Hette
+Carl Julius Beege
+Friedrich August Volkmar
+----------------
+Carl Ferdinand Keller
+Johann Carl Schreiber
+Friedrich Bernhard Helm
+----------------
+Heinrich Wilhelm Wehrmann
+Carl Gotthelf Zieger
+Carl Gottlob Ruehle
+----------------
+Carl Gotthelf Jacob
+Carl Wilhelm Dietze
+August Eduard Kuehne
+----------------
+Carl Gotthelf Taggesell
+Carl Ernst Hachenberger
+Ernst Heinrich Hauptmann
+----------------
+Friedrich August Klaus
+----------------
+1863
+Friedrich August Gregor
+Carl Gotthelf Meyer
+Wilhelm Ferdinand Schumann
+----------------
+Hugo Emil Boehlig
+Oskar Zwintscher
+Gustav Julius Hennig
+----------------
+Julius Hermann Rehn
+Ernst Friedrich Wilhelm Kuenzelmann
+Gustav Adolph Zschoche
+----------------
+1864
+Carl Wilhelm Oehlschlaegel
+Gottlob Leberecht Wackwitz
+Friedrich Ernst Fischer
+----------------
+Friedrich Wilhelm Schoenert
+Carl Gottlob Heyde
+Heinrich Ferdinand Lommatzsch
+----------------
+Eduard Ferdinand Grundig
+Friedrich Ernst Geißler
+Friedrich Wilhelm Kleemann
+----------------
+Carl Richard Voigt
+----------------
+1865
+Carl Heinrich Voigt
+Carl Gottlieb Brahtel
+Johann Gotthelf Beger
+----------------
+Johann Gottfried Julius Uhlmann
+Friedrich Wilhelm Steude
+Johann Carl Heinrich Schreiber
+----------------
+Friedrich Wilhelm Schoenert
+Friedrich Wilhelm Fabel
+Carl Robert Knuepfer
+----------------
+Carl Gottlieb Beuchel
+Carl August Boerner
+Moritz Ernst Zieger
+----------------
+1866
+Wilhelm Ferdinand Herbst
+Gustav Moritz Lehmann
+Georg Polink
+----------------
+Carl Heinrich Pietzschke
+Johann Friedrich Hermann Beger
+Carl Emil Wilhelm Plitz
+----------------
+Johann Gotthelf Mehnert
+Friedrich Ernst Güldner
+Johann Ehregott Ficke
+----------------
+Heinrich Hermann Bernhardt
+Bruno Zwintscher
+Friedrich Wilhelm Reinhardt
+----------------
+Heinrich Friedrich Schulze
+----------------
+1867
+Eduard Robert Splith
+Moritz Richard Seifert
+Carl Heinrich Haensel
+----------------
+Johann Gotthelf Eduard Rudolph
+Ernst Heinrich Steudte
+Johann Fürchtegott Ficke
+----------------
+Gottlob Wilhelm Ruehle
+Friedrich Preiß
+Adolph Lehmann
+----------------
+Franz Hermann Prahtel
+Gottlob Hermann Damme
+Johann Gottfried Beger
+Carl Adolph Keller
+----------------
+Gustav Adolph Schmieder
+Heinrich Ferdinand Zieger
+----------------
+1868
+Rudolf Hermann Saupe
+Gottlieb Höntzsch
+Ernst Wilhelm Taggesell
+Carl Gottfried Pfeifer
+Friedrich Wilhelm Sommer
+Carl Hermann Herzog
+Ernst Hermann Starke
+----------------
+Carl Ernst Fiedler
+Friedrich Moritz Ludwig
+Johann Wilhelm Scheunert
+Johann August Heinrich Wehrmann
+Friedrich August Jakob
+Christian Robert Griesbach
+----------------
+1869
+Friedrich Ernst Leonhardt
+Otto Woldemar Schumann
+Ernst Robert Schönherr
+Franz Gustav Werner
+August Clemens Rost
+Karl Leberecht Ferdinand Fritzsche
+Friedrich Wilhelm Burkhardt
+----------------
+Karl August Schmidt
+Wilhelm Heinrich Hänsel
+Johann Friedrich August Martin
+Johann Traugott Weber

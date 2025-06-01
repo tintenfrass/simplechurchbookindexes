@@ -1,5 +1,5 @@
 Wendischbora (Buch 5)
-Trauungen 1838-1859
+Trauungen 1838-1869
 https://www.archion.de/de/viewer/churchRegister/289655?pageId=40262477
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 November 2024
 Februar 2025
 März 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -229,3 +230,126 @@ Carl Gottlieb Wustlich
 Carl Wilhelm Eger
 Johann August Gotthelf Borrmann
 Johann Friedrich August Meinig
+----------------
+1860
+Heinrich Eduard Lützner
+Karl August Franz Wetzig
+Friedrich Adolph Heinrich
+Ernst Wilhelm Curth
+Gotthelf Ferdinand Begenau
+Karl Gottlieb Herklotz
+Friedrich Ernst Fickler
+Friedrich August Steiger
+----------------
+Carl Gottlob Molke
+1861
+Friedrich Ferdinand Zill
+Jacob Schulze
+Carl August Friedrich Gründig
+Friedrich Wilhelm Hiller
+Christian Friedrich Große
+Ernst Moritz Faust
+----------------
+Heinrich Gustav Peege
+Karl August Patzig
+Friedrich Wilhelm Richter
+Carl Wilhelm Richter
+1862
+Gottlob Herrmann Fröhlich
+Franz Heinrich Francke
+Carl Gottlob Begenau
+----------------
+Carl August Thiemig
+Karl Rudolph Schulze
+Karl Friedrich Herrmann Drobisch
+Adolph Benjamin Troischt
+Friedrich August Fischer
+1863
+Carl August Mai
+Ernst Julius Poetzsch
+----------------
+Carl Friedrich Hannes
+Franz Louis Zill
+August Wilhelm Heinrich
+Ernst Robert Vorknecht
+Ernst Ferdinand Homberg
+Carl Heinrich Moritz Lindner
+Carl Eduard Lehrig
+----------------
+Johann Carl Wilhelm Starke
+Friedrich Wilhelm Gappisch
+Karl Franz Lindner
+Johann August Gotthelf Borrmann
+Friedrich Wilhelm Starke
+Carl Heinrich Straube
+Friedrich Ferdinand Julius Möhler
+1864
+Franz Louis Paul
+Karl Gottlieb Herklotz
+----------------
+Johann Gottfried Gentzsch
+Heinrich Wilhelm Ziegenbalg
+Johann Heinrich Herrmann Hunger
+Heinrich Ferdinand Lommatzsch
+Friedrich Ernst Rost
+Wilhelm Heinrich Oehmichen
+1865
+Friedrich August Voigt
+Gottlob Ernst Klemm
+----------------
+Gottfried Leberecht Poetzsch
+Friedrich August Zillmann
+Carl Franz Peege
+Johann Gottfried Julius Uhlmann
+Carl Ehregott Paul
+Carl Ehregott Dachsel
+Karl Friedrich Traugott Frenzel
+Heinrich Adolph Thielemann
+----------------
+Karl Gottlieb Clauß
+Gottlob Friedrich Große
+Johann Karl Heinrich Starke
+Friedrich Herrmann Richter
+Friedrich Wilhelm Begenau
+1866
+Karl Eduard Berger
+August Ehregott Gappisch
+August Eduard Rüdiger
+Ernst Julius Lindner
+----------------
+Karl Oswin Winckler
+Heinrich Julius Berger
+Louis Herrmann Beger
+Friedrich Wilhelm Paul
+Wilhelm Heinrich Paul
+1867
+Karl Friedrich Eduard Wiede
+Ernst Gustav Poetzsch
+Ernst Heinrich Fischer
+----------------
+Friedrich August Franz Weber
+Moritz Mehner
+Johann Oswald Rüdiger
+Karl Gottlieb Wilhelm Gloeckner
+1868
+Heinrich Wilhelm Grötschel
+Johann Christian Gotthelf Hermsdorf
+Heinrich Ehregott Winkler
+Friedrich August Otto
+Karl Otto Winckler
+----------------
+Friedrich August Jahn
+Friedrich Wilhelm Nestler
+Friedrich August Richter
+Friedrich August Förster
+Christian Moritz Hauptmann
+Robert Oscar Zschoche
+1869
+Karl Adolph Winkler
+Karl August Winkler
+----------------
+Friedrich Ernst Börner
+Gustav Moritz Heinrich
+Franz Hermann Kretzschmar
+Heinrich August Helbig
+Heinrich Julius Peege
