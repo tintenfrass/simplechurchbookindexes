@@ -1,5 +1,5 @@
 Freiberg Dom St. Marien (Buch 524)
-Trauungen 1834-1859
+Trauungen 1834-1860
 https://www.archion.de/de/viewer/churchRegister/340987?pageId=47900241
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 November 2024
 Februar 2025
 März 2024
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1426,3 +1427,89 @@ Carl Ehregott Helbig
 Ernst Julius Kahner
 Carl Friedrich Ernst Zschau
 Johann Traugott Dietze
+----------------
+1860
+Michael Carl Büttner
+Carl Friedrich Matthes
+Carl Eduard Seifert
+Heinrich Julius Schubert
+Carl Friedrich Otto
+----------------
+Anton Benjamin Carl Tränkner
+Anton Bruno Steiger
+Carl Gottlob Rößger
+Carl Hermann Mende
+Carl August Drache
+----------------
+Carl Friedrich Bach
+Friedrich Oskar Grützner
+Friedrich Wilhelm Dietze
+Carl August Hornickel
+Carl Friedrich Kämpfe
+Carl August Richter
+----------------
+Ernst Julius Kunze
+Wilhelm Moritz Müller
+Eduard Robert Kaiser
+Ernst Eduard Herrmann
+Friedrich Otto Uhlmann
+Gustav Oswald Lutz
+----------------
+Carl Ernst Nitzsche
+Johann Heinrich Ferdinand Eckhardt
+Carl August Rößler
+Fridolin Schöniang
+Christian Gottfried Pechstein
+Carl August Landrock
+Ehregott Louis Venus
+----------------
+August Benjamin Schäffner
+Carl Eduard Lehnert
+Carl August Stohwasser
+Wilhelm Eduard Krumpel
+Friedrich Gottlieb Grießbach
+Carl August Metzler
+Carl Heinrich Einert
+----------------
+Johann Heinrich Böhme
+Carl Wilhelm Meerstein
+Ernst Eduard Zimmer
+Otto Mannfeld
+Carl August Ficker
+Carl Heinrich Zeun
+Martin Anton Albert Lutz
+----------------
+Ernst Julius Fleischer
+Carl Robert Freisleben
+Ernst Julius Schulze
+Robert Ferdinand Starke
+August Friedrich Fröbel
+Ernst Louis Richter
+----------------
+Eduard Robert Trübenbach
+Johann Christian Ernst
+Heinrich Eduard Egidy
+Georg Hugo Hedrich
+Friedrich Anton Böhme
+Ferdinand Morgenstern
+----------------
+Friedrich Moritz Nepp
+Moritz Eduard Otermann
+Friedrich August Kunath
+Friedrich August Grätz
+Eduard Ferdinand Holzmüller
+----------------
+Carl Friedrich Hänsel
+Carl Wilhelm Herklotz
+August Louis Peßler
+Johann Gottlieb Günther
+Robert Theodor Weichelt
+----------------
+Ernst Bettinger
+Carl August Dietze
+Friedrich August Hund
+Franz Heinrich Feodor Thube
+Friedrich August Lehnecker
+----------------
+Carl August Möbius
+Friedrich Moritz Obendorf
