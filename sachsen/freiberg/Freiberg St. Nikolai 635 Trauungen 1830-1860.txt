@@ -1,5 +1,5 @@
 Freiberg St. Nikolai (Buch 635)
-Trauungen 1830-1859
+Trauungen 1830-1860
 https://www.archion.de/de/viewer/churchRegister/341098?pageId=47920100
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 November 2024
 Februar 2025
 März 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1452,3 +1453,64 @@ Ernst Friedrich Wilhelm Steyer
 Julius Maximilian Klemm
 ----------------
 Carl Gotthold Braendel
+----------------
+1860
+Heinrich Herrmann Feldmann
+Carl Friedrich Matthes
+----------------
+Johann Friedrich Wilhelm Ehregott Jentzsch
+Michael Theodor Otto Nicolai
+Carl Ernst Krauspe
+Carl Gottfried Daniel Bruck
+Gustav Emil Klemm
+----------------
+Carl August Horn
+Christian Friedrich Schramm
+Franz August Lauterbach
+August Joseph Blum
+----------------
+Carl Friedrich Schlegel
+Eduard Carl Hegeler
+Carl Heinrich Geißler
+Gustav Adolph Böhme
+----------------
+Ehregott Louis Venus
+August Julius Hengst
+Friedrich August Klemm
+Carl August Stohwaßer
+----------------
+Ernst Richard Beyer
+Heinrich Robert Kunis
+Carl August Kaestner
+Ernst Adolph Grafe
+----------------
+Adolph Eduard Richter
+Johann Gottfried Mosch
+Carl August Klemm
+Carl August Metzler
+----------------
+Carl August Kretzschmar
+Johann August Rüdiger
+Carl Heinrich Eduard Franke
+August Moritz Lange
+----------------
+Carl Moritz Louis Böhme
+Heinrich Wilhelm Hänig
+Friedrich August Häußler
+Gustav Herrmann Neumann
+Julius Alwin Weisbach
+----------------
+Wilhelm Heinrich Glöckner
+Friedrich Robert Rummler
+Ernst Louis Herrmann Linke
+Carl Gottfried Jehmlich
+Fürchtegott Daniel Schurich
+----------------
+Friedrich Gustav Krumbiegel
+Johann Traugott Schramm
+Carl Gustav Wagner
+Gottlob Friedrich Wels
+Ernst Bettinger
+----------------
+Carl Traugott Ernst Bellmann
+Eduard Hugo Adolph Röder
