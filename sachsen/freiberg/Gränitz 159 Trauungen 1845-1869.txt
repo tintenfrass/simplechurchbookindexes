@@ -1,10 +1,11 @@
 Gränitz (Buch 159)
-Trauungen 1845-1859
+Trauungen 1845-1869
 https://www.archion.de/de/viewer/churchRegister/359754?pageId=50652248
 
 
 Februar 2025
 März 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -111,3 +112,74 @@ Johann Gottlob Wagner
 Ernst Wilhelm Kümmer
 Ernst Wilhelm Horn
 Johann Carl August Weise
+----------------
+1860
+Carl Adolph Forberger
+Carl Ferdinand Teubel
+Ernst Moritz Kunze
+Carl Heinrich Hegewald
+Ernst Julius Hähnel
+----------------
+Traugott Leberecht Biber
+Fürchtegott Leberecht Herklotz
+----------------
+1861
+Carl Ernst Helbig
+Carl Ernst Kühn
+Carl Julius Müller
+----------------
+1862
+Carl Fürchtegott Einert
+Friedrich Moritz Schubert
+Ernst Julius Krönert
+Karl Heinrich Friedmann
+Traugott Friedrich Tanneberger
+----------------
+1863
+Carl August Böhme
+Johann Friedrich Traugott Auerbach
+Carl Gottfried Thümmel
+Ernst Gustav Winkler
+----------------
+1864
+Ernst Herrmann Schubert
+Johann Carl Ernst Uhlig
+Moritz Hermann Thiele
+Ernst Julius Tanneberger
+Christian Wilhelm Glaser
+Heinrich Wilhelm Seidler
+----------------
+1865
+Carl August Steude
+Carl Traugott Helbig
+Emil Otto Däweritz
+Friedrich Julius Pfau
+Friedrich Wilhelm Günzel
+----------------
+1866
+Carl August Zeihn
+Carl Heinrich Wüstner
+Carl Traugott Hegewald
+Heinrich Gustav Eduard Richter
+Eduard Bruno Kampf
+----------------
+1867
+Carl Heinrich Wüstner
+Ernst Wilhelm Günzel
+Ernst Fürchtegott Weidendorfer
+Christian Friedrich Jonathan Langer
+Louis Gölker
+Carl Heinrich Neubert
+----------------
+1868
+Ernst Wilhelm Neubert
+Ernst Friedrich Fürchtegott Walther
+Friedrich Hermann Müller
+Julius Wilhelm Berger
+Carl Ernst Donat
+----------------
+1869
+Carl August Borsch
+Anton Louis Börner
+Carl Oskar Clausnitzer
+Ernst Louis Sandig
