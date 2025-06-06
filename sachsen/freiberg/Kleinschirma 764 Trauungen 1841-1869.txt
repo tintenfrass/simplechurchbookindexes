@@ -1,10 +1,11 @@
 Kleinschirma (Buch 764)
-Trauungen 1841-1859
+Trauungen 1841-1869
 https://www.archion.de/de/viewer/churchRegister/359852?pageId=50669548
 
 
 Februar 2025
 April 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -192,3 +193,111 @@ Carl Traugott Küttner
 ----------------
 Traugott Friedrich Böhme
 Carl Gottlieb Neubert
+----------------
+1860
+Carl Friedrich Gustav Kühn
+Carl Heinrich Poller
+Friedrich Wilhelm Leonhardt
+Johann Friedrich Wagner
+----------------
+Carl Gottfried Lößner
+1861
+Immanuel Fürchtegott Müller
+Gotthelf Friedrich Kühn
+----------------
+Carl Heinrich Wilhelm Hammermüller
+Friedrich August Wolf
+Carl August Braune
+Carl Traugott Leberecht Weber
+----------------
+Friedrich Leberecht Keßler
+Heinrich Oswald Ludewig
+----------------
+1862
+Carl Heinrich Funke
+Friedrich Louis Herrmann
+Friedrich Wilhelm Weber
+Christian Friedrich Leonhardt
+----------------
+Johann Gottlieb Kaiser
+Gottlob Ehregott Dehnert
+Carl Gottlieb Liebscher
+----------------
+1863
+Franz Friedrich Zehl
+Ernst Wilhelm Felgner
+August Robert Otto
+----------------
+Carl Friedrich Zehl
+Louis Heinrich Hoyer
+Carl Heinrich Schulze
+Friedrich August Günzel
+----------------
+Friedrich Ehregott Zehl
+1864
+Friedrich August Derl
+Friedrich August Barthel
+Ernst Ferdinand Böhme
+----------------
+Heinrich Gottlieb Eduard Weber
+1865
+Carl Moritz Reichelt
+Carl Friedrich Franke
+----------------
+Julius Herrmann Reichelt
+Paul Krauße
+----------------
+1866
+Carl Ernst Jähnig
+Carl Wilhelm Sieber
+August Friedrich Moritz Hoyer
+Friedrich Wilhelm Hofmann
+Friedrich Gotthelf Naumann
+----------------
+Ernst Heinrich Winkler
+Carl Heinrich Weigand
+----------------
+1867
+Christian Friedrich Haubold
+Carl August Schmidt
+Carl Heinrich Lippmann
+Gustav Moritz Münzner
+----------------
+Carl Gottfried Borrmann
+Ernst Ferdinand Zehl
+Friedrich August Kühn
+Friedrich August Müller
+Heinrich Wilhelm Otte
+----------------
+August Friedrich Bieber
+Carl Ehregott Franke
+Carl Heinrich Lippmann
+----------------
+Julius Herrmann Wachsmuth
+Wilhelm Benjamin Büttner
+Abraham Zehl
+Carl Ernst Ferdinand Lentzsch
+----------------
+Moritz Wilhelm Zehl
+----------------
+1868
+Carl Friedrich Neubert
+Carl August Felgner
+Carl Friedrich Immanuel Martin
+----------------
+Gustav Friedrich Zehl
+Ernst Heinrich Liebscher
+Wilhelm Leberecht Zimmermann
+Wilhelm Münzner
+----------------
+Friedrich August Mehner
+----------------
+1869
+Wilhelm Leberecht Hoyer
+August Moritz Krumbiegel
+Ernst Adolph Israel
+Ferdinand Heinrich Küttner
+----------------
+Carl August Straube
+Carl August Friedrich Köhler
+Carl August Neubert

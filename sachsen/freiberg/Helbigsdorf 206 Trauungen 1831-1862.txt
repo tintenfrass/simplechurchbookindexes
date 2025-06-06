@@ -1,5 +1,5 @@
 Helbigsdorf (Buch 206)
-Trauungen 1831-1859
+Trauungen 1831-1862
 https://www.archion.de/de/viewer/churchRegister/359827?pageId=50665604
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -13,6 +13,7 @@ Teil 3: Randeck
 November 2024
 Februar 2025
 April 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -388,7 +389,42 @@ Carl Ernst Dienel
 Paul Christoph Sandig
 ----------------
 Carl Friedrich Dietrich
----------------- x6
+1860
+Ernst Leberecht Walther
+Friedrich Gottlob Weichelt
+Ernst Wilhelm Anders
+Heinrich Ehregott Anders
+----------------
+Traugott Friedrich Strauß
+Carl Traugott Kaden
+Ernst Gottlieb Klemm
+Carl Gottlieb Träger
+August Moritz Göpfert
+----------------
+Carl Friedrich Rüger
+Carl Traugott Ulbricht
+Carl Traugott Börner
+1861
+Carl Hermann Holler
+Carl Gottlieb Richter
+----------------
+Ernst Julius Fritzsche
+Carl Heinrich Straus
+Carl Friedrich Lorenz
+Friedrich August Anders
+Gustav Heinrich Walther
+David Friedrich Götzelt
+----------------
+1862
+Carl August Horn
+Heinrich Wilhelm Anders
+Carl Friedrich Traugott Walther
+Traugott Fürchtegott Anders
+Carl August Träger
+----------------
+Carl Friedrich Schier
+Carl Heinrich Lorenz
+----------------
 1831
 Carl Gottfried Leubner
 Johann Gottlob Bäsler
@@ -618,7 +654,31 @@ Traugott Friedrich Böhme
 Johann Carl August Erler
 Carl Eduard Koch
 Carl August Kaltofen
----------------- x5
+1860
+Ernst Heinrich Moritz Andreas
+----------------
+Carl Friedrich Erler
+August Friedrich Stiehl
+Friedrich Ernst Göpfert
+Friedrich Leberecht Krönert
+Carl Ernst Eckert
+August Friedrich Hambel
+----------------
+Carl Friedrich Bieber
+1861
+August Clemens Träger
+Moritz Clemens Reichelt
+Carl Heinrich Kröner
+Traugott Friedrich Liebscher
+----------------
+Gottlob Ehregott Traugott Bartzsch
+1862
+Carl Gottlob Dietrich
+Carl Heinrich Kempe
+Friedrich Schwinger
+----------------
+Ernst Ferdinand Richter
+----------------
 1831
 Carl Friedrich Müller
 Friedrich August Hänel
@@ -774,3 +834,13 @@ Carl Fürchtegott Fischer
 Ernst Wilhelm Eduard Potzger
 August Friedrich Grießbach
 Friedrich Gottlob Arnold
+----------------
+1860
+Christian Friedrich Helbig
+Carl Eduard Weise
+Carl Fürchtegott Erler
+Carl Traugott Auerbach
+August Friedrich Müller
+1861
+Fürchtegott Leberecht Börner
+1862
