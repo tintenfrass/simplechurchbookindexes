@@ -1,5 +1,5 @@
 Naundorf (Buch 865)
-Trauungen 1823-1859
+Trauungen 1823-1863
 https://www.archion.de/de/viewer/churchRegister/360027?pageId=50703735
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Oktober 2024
 November 2024
 Februar 2025
 April 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -805,3 +806,134 @@ August Ferdinand Merkel
 Ernst Traugott Böhme
 Carl August Gietzelt
 Heinrich Wilhelm Kühn
+----------------
+1860
+Johann Heinrich Benjamin Lange
+Heinrich Gustav Fischer
+Friedrich Wilhelm Steeger
+Carl Traugott Beier
+Carl Gottlieb Zärtner
+Carl August Drechsel
+----------------
+Carl Heinrich Mädler
+Carl Gottlieb Richter
+Heinrich August Götze
+Johann Carl Gottfried Zeller
+Georg Friedrich Mädler
+----------------
+Friedrich August Klemm
+Heinrich Wilhelm Glöckner
+Carl Friedrich Straßberger
+Johann Gottfried Müller
+Ernst Ferdinand Börner
+Carl Friedrich Paul
+----------------
+Heinrich Robert Kunis
+Friedrich August Hegewald
+Ernst Ferdinand Feind
+August Hofmann
+Carl Gotthelf Falke
+----------------
+Friedrich August Häußler
+August Friedrich Neuber
+Johann Peter Waurick
+Ernst Ferdinand Martin
+Friedrich August Fehrmann
+Carl August Totterwitz
+----------------
+Carl Gottlob Hörnig
+Carl Heinrich Bormann
+1861
+Carl Traugott Müller
+Carl Gottlieb Naumann
+Carl Gottfried Timmel
+----------------
+Carl August Schwarze
+Johann August Gottfried Zimmermann
+Carl Eduard Teuchert
+Heinrich Wilhelm Keller
+Heinrich Moritz Clausnitzer
+Carl Gottlieb Fischer
+Friedrich August Zenker
+----------------
+Carl August Voigt
+Carl Heinrich Liebing
+Carl Gotthelf Hänel
+Friedrich Fürchtegott Müller
+Friedrich Wilhelm John
+----------------
+Carl Heinrich Häckel
+Gotthelf Friedrich Uhlig
+Friedrich Herrmann Fritzsche
+Carl Heinrich Patzig
+Carl Gottlob Börner
+----------------
+1862
+Carl Gottlieb Grohmann
+Friedrich Wilhelm Schubert
+Gotthelf Heinrich Schurig
+Heinrich August Venus
+Carl Wilhelm Patzig
+----------------
+Johann Samuel Böhme
+Gotthelf Friedrich Ludewig
+Johann Friedrich Benjamin Thiele
+Ernst Moritz Steude
+Carl August Müller
+----------------
+Heinrich Ferdinand Schwenke
+Friedrich Wilhelm Gelfert
+Carl Wilhelm Sachse
+Johann Gottlieb Lohse
+Carl Friedrich Moritz Lindner
+Carl Gotthelf Mädler
+----------------
+Julius Wilhelm Meier
+Ernst Heinrich Fischer
+Carl August Fritzsche
+Carl Julius Jünger
+Carl Gotthelf Köhler
+Ernst Ludwig Bürger
+----------------
+Wilhelm Moritz Patzig
+Friedrich Wilhelm Kretzschel
+Gottlieb Heinrich Köhler
+Carl Friedrich Schier
+Johann Heinrich Richter
+----------------
+Carl August Butter
+Friedrich Adolph Rentzsch
+August Ferdinand Beyer
+Gottlob Wilhelm Fischer
+Carl Wilhelm Siedel
+----------------
+Johann Heinrich Wittig
+----------------
+1863
+Carl Gottfried Keller
+Carl Gottlieb Irmer
+Carl August Ficke
+Ernst Julius Kandler
+Johann Gotthelf Böhme
+Friedrich Wilhelm Fischer
+----------------
+Friedrich August Beyer
+Carl Eduard Rebner
+Carl Gottlieb Schmiedtchen
+Carl Ferdinand Stein
+Johann Carl Gottlieb Müller
+Gotthelf Heinrich Zimmermann
+----------------
+Friedrich Traugott Fischer
+Johann Gottfried Franke
+Edmund Dominik Kucharsky
+Friedrich August Bartzsch
+Carl Ludwig Steyer
+Gotthelf Heinrich Fritzsche
+----------------
+Carl Friedrich Schumann
+Carl August Fischer
+Carl Friedrich Richter
+Friedrich August Teuchert
+Wilhelm Dankegott Drechsler
+Adolph Heinrich Hermann Schröter

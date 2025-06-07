@@ -1,5 +1,5 @@
 Oberschöna (Buch 947)
-Trauungen 1847-1859
+Trauungen 1847-1869
 https://www.archion.de/de/viewer/churchRegister/360099?pageId=50718127
 
 
@@ -9,6 +9,7 @@ Filialkirche Wegefarth
 
 Februar 2025
 April 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -229,3 +230,192 @@ Friedrich Wilhelm Kemter
 Johann Wilhelm Stenker
 Ernst Ferdinand Heidenreich
 Friedrich August Steiger
+1860
+Gustav Eduard Morgenstern
+Carl August Julius Kaden
+----------------
+August Friedrich Kraft
+Carl Leberecht Rothe
+Carl August Reh
+Friedrich Wilhelm Paul
+1861
+Carl Ernst Schubert
+----------------
+Carl Gottlieb Straßburger
+Carl Friedrich Wilhelm Bräuer
+Carl Julius Rosenkranz
+Christian Friedrich Hofmann
+Carl Heinrich Schubert
+Peter Kockel
+----------------
+Heinrich David Straube
+Carl Ernst Heinrich Franke
+Carl Wilhelm Kummer
+Eduard Hubricht
+Eduard Richter
+----------------
+Christian Friedrich Teichert
+Johann Gottfried Hädrich
+Ernst Louis Grünert
+1862
+Carl Heinrich Zimmermann
+Friedrich Wilhelm Haubold
+Friedrich August Hammermüller
+----------------
+Carl Gottlob Haubold
+Wilhelm Louis Zeuner
+Friedrich Theodor Müller
+Friedrich Conrad Morgenstern
+Carl August Träger
+Carl August Mehnert
+Ernst Ferdinand Neubert
+----------------
+1863
+Carl Heinrich Wünsch
+Louis Scheunpflug
+Christian Friedrich Schneider
+Christian Friedrich Ernst Rothe
+Ernst Heinrich Perger
+Friedrich Wilhelm Rast
+----------------
+Heinrich August Träger
+Carl Heinrich Schröder
+Carl Heinrich Henig
+Ernst Heinrich Leonhardt
+Carl Gottlob Schlicke
+----------------
+1864
+Carl August Glöckner
+Anton Zwmmrig
+Julius August Wilhelm Franz
+Friedrich Wilhelm Weinhold
+Julius August Wilhelm Franze
+Friedrich Gustav Schulze
+----------------
+Ernst Otto Fichtner
+Carl Gottlob Groschup
+Friedrich Wilhelm Schlicke
+Carl Friedrich Otto
+Ernst Wilhelm Zein
+----------------
+Carl Friedrich Wabst
+Ernst Friedrich Fleischer
+1865
+Friedrich August Leder
+Ernst Friedrich Obendorf
+Friedrich Wilhelm Zimmermann
+----------------
+Carl Heinrich Haubold
+Carl Gottlieb Weinhold
+Carl Ehregott Zemmrich
+Carl Wilhelm Schmidt
+Johann August Hansky
+Franz Koerner
+----------------
+Carl Friedrich Hammer
+Johann Carl Gottfried Zimmermann
+Heinrich Louis Schwarz
+1866
+Ernst Wilhelm Hermsdörfer
+Johann Friedrich Wünsch
+----------------
+Carl Friedrich Wilhelm Wünsch
+Johann Traugott Küttner
+Carl Heinrich Hubricht
+Ehrenfried Schlesinger
+Carl Wilhelm Sieber
+Friedrich August Henig
+----------------
+Carl Friedrich Günther
+Ernst Moritz Mende
+Friedrich Emil Vogel
+Johann Friedrich Schmidt
+Carl August Müller
+----------------
+Friedrich August Schlicke
+Carl Gottlieb Fehlisch
+Carl Bernhard Sander
+----------------
+1867
+Carl Traugott Wagner
+Carl Friedrich Naumann
+Friedrich August Berthold
+Heinrich Wilhelm Maximilian Engelmann
+Carl Gottlieb Kunze
+----------------
+Friedrich Liebegott Miersch
+Johann Gottfried Glöscher
+Friedrich Ehregott Leonhardt
+Carl Louis Böhnisch
+Ernst Eduard Zemmrich
+Carl Friedrich Loos
+----------------
+Julius Hermann Lindner
+Ernst David Kaltofen
+Carl Friedrich Seifert
+Carl Hermann Wagner
+Carl Hermann Holze
+Carl Friedrich Zieger
+----------------
+Johann Nicol Hofmann
+Friedrich August Günther
+Carl Wilhelm Hantzschmann
+Carl Friedrich Julius Schmidt
+Carl Wilhelm Berthold
+Carl Gottlob Stirl
+----------------
+Carl August Wolf
+Johann Traugott Fritzsche
+Friedrich Hermann Thiele
+Carl Gottfried Schmidt
+Franz Ludwig Einert
+----------------
+1868
+Carl August Neubert
+Franz Otto Straußiesky
+Johann Christoph Wilhelm Hofmann
+Carl August Dachsel
+Johann Georg Liebherr
+August Friedrich Butze
+----------------
+Johann Wilhelm Leder
+Ernst Heinrich Menzer
+Carl August Günther
+Ernst Wilhelm Ruffani
+Carl August Rothe
+Carl Gotthelf Knobus
+----------------
+Carl Ernst Uhlig
+Carl Gottlob Talkenberger
+Ernst Julius Oelschlägel
+----------------
+1869
+Carl Heinrich Kunze
+Carl Friedrich John
+August Friedrich Haubold
+Carl Moritz Fritzsche
+Friedrich Wilhelm Obst
+----------------
+Friedrich Anton Schmidt
+Albert Hermann Hempel
+Christian Gottlieb Schulz
+Wilhelm Leberecht Hoyer
+Johann Friedrich Vogel
+----------------
+August Friedrich Schlicke
+Franz Scheunpflug
+Johann Wilhelm Haubold
+Ernst Ferdinand Schiffler
+Ernst Ehregott Müller
+----------------
+Hermann Günther
+Ernst Ferdinand Stenker
+Carl Julius Krieger
+Carl August Straube
+Friedrich Ludwig Krumbiegel
+----------------
+Gustav Heinrich Geissler
+Friedrich Anton Henig
+Gustav Moritz Zimmermann
+Carl August Ufer
+Ernst Louis Schieferbein

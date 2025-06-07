@@ -1,5 +1,5 @@
 Oberschöna (Buch 911)
-Trauungen 1825-1859
+Trauungen 1825-1863
 https://www.archion.de/de/viewer/churchRegister/360091?pageId=50715957
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Oktober 2024
 November 2024
 Februar 2025
 April 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -792,3 +793,65 @@ Friedrich Wilhelm Dittrich
 ----------------
 Johann Gottlieb Fürchtegott Timmel
 Friedrich August Steiger
+1860
+Traugott Friedrich Ferdinand Walther
+Carl August Wagner
+Carl August Julius Kaden
+----------------
+Ernst Wilhelm Schmieder
+Johann Carl August Vogel
+Heinrich Gottlieb Richter
+Friedrich Eduard Wagner
+Carl Wilhelm Andreas
+Heinrich Wilhelm Börnert
+----------------
+Carl Friedrich Lange
+Carl Friedrich Hofmann
+Carl Heinrich Hübler
+Carl Heinrich Ziehnert
+Ernst Wilhelm Barthel
+Ernst Friedrich Griesbach
+Carl Gottlieb Morgenstern
+----------------
+Carl Ernst Kirsch
+Samuel Traugott Muster
+1861
+Carl Adolph Barthel
+Carl Traugott Müller
+Friedrich Moritz Hammermüller
+----------------
+Carl Wilhelm Rothe
+Johann David Zeun
+Johann Julius Hölzig
+Friedrich Wilhelm Hinkelmann
+Carl August Grünert
+----------------
+Eduard Hubricht
+Friedrich Ernst Höpfner
+Gottlieb August Kunze
+Johann Adolph Laube
+Carl Friedrich Hähnel
+1862
+Carl Gottlob Wagner
+----------------
+Carl Friedrich Gramp
+Carl August Kaden
+Heinrich Ernst Uhlig
+Carl Ewald Schulze
+Carl Friedrich Band
+Friedrich August Müller
+----------------
+Herrmann Friedrich Bachmann
+Ehregott Wilhelm Reh
+Heinrich August Schwinger
+Carl Heinrich Schubert
+Friedrich Conrad Morgenstern
+Carl August Träger
+----------------
+Friedrich August Helbig
+Ernst Ferdinand Neubert
+1863
+Christian Friedrich Morgenstern
+Wilhelm Hofmann
+Carl Gottlob Haubold
+Gottfried Ferdinand Neubert

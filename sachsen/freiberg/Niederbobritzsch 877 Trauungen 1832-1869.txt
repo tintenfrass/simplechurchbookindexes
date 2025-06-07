@@ -1,5 +1,5 @@
 Niederbobritzsch (Buch 877)
-Trauungen 1832-1859
+Trauungen 1832-1869
 https://www.archion.de/de/viewer/churchRegister/360039?pageId=50706566
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 November 2024
 Februar 2025
 April 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -735,3 +736,322 @@ Carl Franz Beyer
 Friedrich Fürchtegott Fischer
 Carl Gottlieb Neubert
 Carl August Jemlich
+----------------
+1860
+Johann Gotthelf Dietrich
+Carl Gottfried Köhler
+Julius Edmund Küttner
+Carl Wilhelm Band
+Franz Herrmann Beckert
+Franz Herrmann Sättler
+Friedrich Ehregott Fischer
+Carl Ernst Bräuer
+Carl Traugott Beier
+----------------
+Carl Gottfried Beyer
+Carl Friedrich Straßberger
+Heinrich Traugott Ihle
+Carl August Dietrich
+Christian Heinrich Liebscher
+Carl Traugott Kaden
+Carl Salomo Liebschner
+Heinrich Julius Pölig
+Franz Heinrich Glöckner
+Carl Friedrich Wunderwald
+Anton Clemens Band
+----------------
+Carl Friedrich Hegewald
+Carl Friedrich Ehregott Börner
+Carl Heinrich Moritz Lohse
+Friedrich Wilhelm Zeun
+Carl Traugott Böhme
+Johann Christoph Carl Kreul
+Carl Friedrich Liebscher
+Carl Gottlieb Richter
+Carl Traugott Ernst Bellmann
+Ehregott Israel Keller
+Carl Friedrich Andreas
+----------------
+1861
+Carl August Lohse
+Friedrich August Fröhlig
+Carl Ferdinand Beckert
+Franz Herrmann Lange
+Carl Friedrich Herklotz
+Johann Traugott Kluge
+Carl August Otto
+Ernst Friedrich Theodor Kießhauer
+Carl Moritz Kaden
+Friedrich Ernst Raffel
+----------------
+Carl Traugott Groß
+Friedrich Wilhelm Wolf
+Carl Heinrich Hückel
+Carl August Schmidt
+Friedrich Ernst Haupt
+Friedrich Wilhelm Grimmer
+Ernst Ferdinand Pilz
+Clemens Heinrich Theodor Fischer
+Carl Friedrich Schulze
+Friedrich Herrmann Fritzsche
+----------------
+1862
+Johann Gotthelf Liebscher
+Traugott Heinrich Zimmermann
+Carl Gottlob Glöckner
+Heinrich August Gerlach
+Franz Hermann Hauschild
+August Friedrich Bräuer
+Carl August Fritzsche
+Carl Gottlob Wagner
+Friedrich August Seide
+Johann Friedrich Benjamin Thiele
+Johann Adam Bellmann
+----------------
+Franz Ferdinand Keller
+Carl Wilhelm Gelfert
+Friedrich Herrmann Fritzsche
+Carl Gottlieb Schumann
+Ernst Julius Doberenz
+Julius Eduard Weigoldt
+Johann Gottfried Böhme
+Carl Friedrich Heschke
+Carl August Gotthelf Wobst
+Christian Friedrich Reinhardt
+Franz Hermann Richter
+Carl Friedrich Wilhelm Ihle
+----------------
+Carl Hermann Partzsch
+Carl Gottlieb Wunderwald
+Carl Gotthelf Quitzsch
+Carl Louis Aßmann
+Heinrich Herrmann Seifert
+Ernst Beier
+Friedrich Hermann Braune
+Carl Wilhelm Friedrich
+1863
+Carl Gottfried Keller
+Carl Wilhelm Pilz
+Clemens Anton Meyer
+----------------
+Johann Heinrich Seifert
+Ernst Wilhelm Heber
+Carl Wilhelm Wunderwald
+Carl Gottlob Böhme
+Heinrich Anton Heide
+Carl Friedrich Herrmann Bräuer
+Johann Adolf Herrmann Schmidt
+Ernst Herrmann Schmidt
+Carl Gotthelf Krenz
+Ernst Wilhelm Wolf
+Moritz Herrmann Beckert
+----------------
+Wilhelm Ferdinand Eckoldt
+Friedrich Wilhelm Fritzsche
+Friedrich Anton Weigoldt
+Ernst Theodor Enzmann
+Carl Ferdinand Ihle
+Gustav Ferdinand Beyer
+Carl August Mey
+Carl August Mattheck
+Franz Anton Spörke
+Carl Gottlob Lotze
+----------------
+Friedrich August Hauschild
+Franz Anton Enold
+Heinrich August Huhn
+Friedrich Gotthold Fritzsche
+Carl Friedrich Schulze
+1864
+Friedrich August Loose
+Carl Friedrich Richter
+Franz Herrmann Braune
+Carl Anton Andreas
+Franz Herrmann Beyer
+----------------
+Carl Wilhelm Berger
+Herrmann Heinrich Jünger
+Anton Clemens Beyer
+Carl Ferdinand Schmidt
+Johann Samuel Lieber
+Friedrich August Scheumann
+Friedrich Ernst Wolf
+Carl Gotthold Kandler
+Louis Herrmann Beyer
+Carl Ferdinand Beckert
+Friedrich Adolph Gelfert
+Ernst Ferdinand Küchenmeister
+----------------
+Johann Carl Ulrich
+Carl Friedrich Sommerschuh
+Heinrich Wilhelm Ihle
+Heinrich Wilhelm Hempel
+Carl Reinhold Schmidt
+Franz Anton Kirsch
+Franz Hermann Schmieder
+Heinrich Leberecht Köhler
+Ernst Florian Böhme
+Clemens Alexander Constantin Körbitz
+Carl Friedrich Uhlig
+Friedrich Wilhelm Brückner
+----------------
+Christlieb Friedrich Wolf
+Johann Friedrich Hengst
+Carl Gottlob Wagner
+1865
+Carl Wilhelm Wolf
+Friedrich Anton Gerlach
+Johann Carl Kaulfers
+Friedrich Samuel Pönisch
+Johann Friedrich Wolf
+Johann Gottfried Welz
+Carl Heinrich Schulze
+Franz Anton Richter
+Oswald Ferdinand Müller
+----------------
+Johann Heinrich Glaser
+Carl Julius Fuchs
+Franz Anton Schmidt
+Carl Friedrich Gelfert
+Franz Herrmann Tippmann
+Friedrich Ernst Silbermann
+Franz Anton Fritzsche
+Friedrich Anton Franke
+Friedrich Anton Beyer
+Ernst Wilhelm Hauschild
+Carl Traugott Beyer
+Ernst Eduard Günther
+Ernst Heinrich Siegismund
+Johann Friedrich Traugott Berger
+----------------
+Carl Wilhelm Moser
+Franz Herrmann Weigoldt
+Carl Gottlieb Friedrich Hegewald
+Ernst Herrmann Beier
+Carl Friedrich Otto
+Carl Friedrich Heinrich Zeun
+Heinrich Ferdinand Beckert
+Gotthelf Friedrich Bellmann
+Friedrich Wilhelm Wolf
+1866
+Franz Herrmann Beyer
+Heinrich Wilhelm Ihle
+Franz Anton Fritzsche
+August Wilhelm Venus
+----------------
+Carl Friedrich Köhler
+Franz Gustav Wolf
+Friedrich Ernst Wilhelm Fritzsche
+August Ferdinand Hofmann
+Heinrich August Heide
+Traugott Leberecht Richter
+Friedrich Gustav Trübenbach
+Carl Julius John
+Carl Friedrich Voigt
+Carl Ernst Uhlig
+Robert Oswald Irmer
+Hugo Richard Knäbel
+Ernst Wilhelm Ihle
+----------------
+Franz Hermann Gelfert
+Wilhelm Heinrich Beyer
+Carl Heinrich Helbig
+Friedrich Wilhelm Hempel
+Friedrich Wilhelm Dietrich
+1867
+Albert Böhme
+Gustav Wilhelm Reichert
+Ernst Wilhelm Naumann
+Ernst Reinhold Meyer
+Heinrich Ernst Fischer
+----------------
+August Leberecht Wolf
+Friedrich Ferdinand Wolf
+Clemens Robert Hänig
+Carl Traugott Kempe
+Ernst Hermann Uhlig
+Carl Friedrich Beyer
+Ernst Wilhelm Loose
+Carl August Beyer
+Johann August Eduard Münch
+Carl Friedrich Ernst Grundmann
+Ernst Wilhelm Keller
+Franz Heinrich Wolf
+----------------
+1868
+Johann Heinrich Richter
+Julius Hieronymus Zimmermann
+Friedrich August Leiteritz
+Johann Richard Liebscher
+Carl Friedrich Wilhelm Schubert
+Friedrich Ferdinand Glaser
+Friedrich Ernst Ihle
+Franz Herrmann Heide
+Julius Wilhelm Beyer
+Ferdinand Oswald Beier
+Ernst Wilhelm Beier
+Carl Gottlob Roßberg
+Carl August Aehlich
+----------------
+Friedrich Wilhelm Wolf
+Clemens Anton Weigoldt
+Wilhelm Eduard Kröher
+Friedrich Ernst Heber
+Clemens Anton Walther
+Ernst Heinrich Rüger
+Ernst Eduard Priebs
+Gustav Reinhold Spörke
+Andreas Richard Brückmann
+Franz Gustav Wolf
+Anton Ferdinand Schmieder
+Ernst Friedrich Keller
+Ernst Ferdinand Küchenmeister
+----------------
+Johann Ernst Wolf
+Gustav Hermann Müller
+Wilhelm Ernst Franke
+Franz Wilhelm Bellmann
+Julius Theodor Ullrich
+Emil Hugo Friedemann
+Friedrich August Lange
+Ernst Wilhelm Klemm
+Ernst Ehregott Eckold
+Carl Gotthelf Richter
+Carl Wilhelm Strahl
+Carl Gustav Gräfner
+----------------
+Friedrich Anton Köhler
+Carl Wilhelm Hofmann
+Friedrich Anton Reichelt
+1869
+Ernst Leberecht Priebs
+Gottlieb Friedrich Glöckner
+Ernst Arno Irmer
+Friedrich Wilhelm Weidner
+Oswald Friedrich Wolf
+Carl August Wolff
+Friedrich Wilhelm Weigold
+Carl Gottlob Dittrich
+Adolph Wilhelm Kröher
+----------------
+Carl Friedrich Stenzel
+Friedrich Hamann Ihle
+Carl August Lehmann
+Traugott Eduard Ferdinand Böhme
+Carl Wilhelm Schulze
+Ernst Robert Geißler
+Friedrich Anton Beyer
+Friedrich Adolph Metzler
+Friedrich August Uhlig
+Carl Friedrich Stenzel
+Max Rudolph Enzmann
+Christian Adolph Hänisch
+Carl Ferdinand Beier
+----------------
+Heinrich Oswald Schmieder
+Ernst Hermann Hübelt
+Carl Friedrich Walther
+Friedrich Emil Beier
+Friedrich Ernst Beier
+Carl Wilhelm Richter
+Gustav Reinhold Wolf
