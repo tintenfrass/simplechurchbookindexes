@@ -1,11 +1,12 @@
 Weigmannsdorf (Buch 387)
-Trauungen 1847-1859
+Trauungen 1847-1869
 https://www.archion.de/de/viewer/churchRegister/360188?pageId=50735774
 
 Niedermüdisdorf
 
 
 April 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -94,3 +95,77 @@ Ernst Wilhelm Göhlert
 ----------------
 Carl Traugott Auerbach
 Carl Ferdinand Fröbel
+1860
+Carl Eduard Fischer
+Ernst Heinrich Zänker
+----------------
+Carl Friedrich Fischer
+Carl Gottlob Richler
+Carl Traugott Ulbricht
+----------------
+1861
+Carl Louis Morgenstern
+Friedrich Ernst Schubert
+Gotthelf Leberecht Uhlig
+----------------
+1862
+Daniel August Adam
+Carl August Ulbricht
+Traugott Wilhelm Philip
+----------------
+1863
+Carl Friedrich Wilhelm Sacher
+Robert Louis Vogler
+Carl Gottlieb Fischer
+Carl August Kunze
+----------------
+Wilhelm Heinrich Neubert
+----------------
+1864
+Hieronymus Otto
+Johann Gottlob Fröhlich
+Clemens Friedrich August Thiele
+Ernst August Koy
+----------------
+Johann Friedrich Hengst
+----------------
+1865
+Carl Heinrich Wahl
+Eduard Julius Petermann
+August Friedrich Haupt
+August Friedrich Wilhelm Fröbel
+----------------
+Ernst Louis Grötzel
+August Friedrich Löppmann
+Ernst Wilhelm Reichel
+----------------
+1866
+Carl Gottlieb Fritzsche
+Johann August Flade
+Johann Traugott Walther
+August Friedrich Hübler
+----------------
+Ernst Fürchtegott Ulbricht
+Friedrich Clemens Fischer
+----------------
+1867
+Carl Heinrich Neuhäußer
+----------------
+1868
+Wilhelm Friedrich Dietrich
+Anton Herles
+Ernst Wilhelm Brenner
+Friedrich Anton Weinhold
+----------------
+Carl Ehregott Fröbel
+Christian Friedrich Kaden
+Carl Heinrich Ferdinand Müller
+Carl Gottlob Wetzel
+----------------
+1869
+Friedrich August Julius Glöckner
+Ernst Fürchtegott Kirschner
+Carl Gottlieb Drechsler
+Carl Traugott Gabriel Franke
+----------------
+Carl Gottlieb Arnold

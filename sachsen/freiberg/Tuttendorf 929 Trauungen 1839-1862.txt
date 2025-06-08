@@ -1,5 +1,5 @@
 Tuttendorf (Buch 929)
-Trauungen 1839-1859
+Trauungen 1839-1862
 https://www.archion.de/de/viewer/churchRegister/360150?pageId=50729905
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 November 2024
 Februar 2025
 April 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -911,3 +912,169 @@ Carl Franz Schulze
 ----------------
 Friedrich Adolf Schubert
 Carl August Jemlich
+1860
+Ernst Heinrich Franz
+Heinrich Wilhelm Moritz Hunger
+Carl Friedrich Künzelmann
+Ernst Julius Eckhardt
+----------------
+Carl Friedrich Scheunert
+Christian Ferdinand Schaarschmidt
+Carl Gottlob Rüger
+Carl Friedrich Oehme
+Johann Gottlieb Otto
+Heinrich Weiß
+Carl Heinrich Pappert
+Carl Wilhelm Körner
+----------------
+Friedrich Ernst Eduard Hermann
+Carl August Störl
+Heinrich Wilhelm Schulze
+Carl Heinrich Küttner
+Michael Robert Schnabel
+Franz Eduard Rumpelt
+Carl Friedrich Richter
+Franz Anton Zeunert
+Carl August Plattner
+----------------
+Carl Gottlieb Venus
+Carl Ehregott Voigt
+Friedrich August Richter
+Carl August Nötzel
+Ernst Traugott Vogel
+Carl August Klemm
+Carl August Otto
+Eduard Wilhelm Matthes
+----------------
+Bernhard Alexander Thiemann
+Friedrich Wilhelm Winterlich
+Friedrich August Carl Hancke
+Carl Samuel Lieber
+Ernst Louis Richter
+Heinrich Eduard Egidy
+Gustav Julius Pilz
+Anton Ferdinand Frohse
+----------------
+Johann Gottlieb Rudolf
+Friedrich Wilhelm Ernst Dietze
+Carl Gottfried Jemlich
+Ernst Goldbach
+Carl August Kuhl
+Carl Christian Friedrich Kempe
+Carl Adolf Naumann
+Gottfried Ernst Hensel
+----------------
+Gottlob Fürchtegott Brückner
+Ernst Ludwig Ihle
+Carl Gottlieb Oelschlägel
+Heinrich August Marbach
+Gottlieb Leberecht Schüttauf
+Carl August Bachmann
+Gottlieb Ferdinand Arnold
+----------------
+1861
+Johann Gottfried Siegismund
+August Heinrich Bachmann
+Ernst Friedrich Lange
+Friedrich August Adolf Kaden
+Johann Gottlieb Einert
+Friedrich Fürchtegott Fischer
+Carl Gottfried Timmel
+----------------
+Carl Wilhelm Schulze
+Friedrich Traugott Kunze
+Fürchtegott Eduard Hermsdorf
+Carl Wilhelm Lippold
+Eduard Emil Erler
+Ernst Wilhelm Kaltofen
+Ernst Eduard Dienelt
+Friedrich Wilhelm Zimmer
+----------------
+Carl Heinrich Spengler
+Carl Ernst Hänig
+Christian Gottlieb Stein
+August Heinrich Haupt
+Friedrich Gotthelf Siegismund
+August Friedrich Einhorn
+Friedrich Ernst Spercke
+Johann Ferdinand John
+----------------
+Ernst Wilhelm Rechenberger
+Christian Friedrich Wagner
+Ernst Moritz Fischer
+Johann Carl Gottfried Finsterbusch
+Ernst Robert Reinhäckel
+Johann Wilhelm Zschelletctzky
+Gustav Adolf Ihle
+Friedrich August Haupt
+----------------
+Ernst Eduard Gebhard
+Carl Fürchtegott Ulbricht
+Carl Ferdinand Thürbach
+Carl August Braune
+Carl Heinrich Beier
+Carl Gottlob Muster
+August Wilhelm Illgen
+Carl August Menzer
+----------------
+Friedrich August Jobst
+Friedrich Wilhelm Oehme
+Conrad Richard Franz
+Friedrich Wilhelm Heidenreich
+----------------
+1862
+Heinrich Moritz Richter
+Heinrich Moritz Partzsch
+Ernst Heinrich Hofmann
+Friedrich Wilhelm Fischer
+Gotthelf Leberecht Wilhelm Schlegel
+Ernst August Schlesier
+----------------
+Johann Christoph Helbig
+August Friedrich Timmel
+Ernst Eduard Krause
+Carl August Böhme
+Friedrich Hermann Siegismund
+Ernst Moritz Forberg
+Carl Wilhelm Sachse
+----------------
+Ernst Ehregott Hörnig
+Johann Gottfried Lantzsch
+Carl Gotthelf Seifert
+Gustav Eduard Seidel
+Heinrich Anton Fleischer
+Carl August Dietrich
+Christian Friedrich Baldauf
+----------------
+Friedrich Oswald Lippold
+Wilhelm Porstmann
+Friedrich Wilhelm Halm
+Carl August Imhof
+Franz Wilhelm Otto
+Carl August Richter
+Friedrich Anton Schneider
+----------------
+Johann Gottfried Schubert
+Johann Adolf Ficke
+Carl Friedrich Weichelt
+Johann Gottfried Wiedemann
+Carl Friedrich August Voigt
+Carl Gottlieb Conrad
+Carl Ernst Richter
+Carl August Schmidt
+----------------
+Ernst Heinrich Oehme
+Carl Friedrich Lommatzsch
+Carl Ernst Eduard Maximilian Rudolf
+Friedrich Wilhelm Helbig
+Moritz Leberecht Kirchner
+Rudolf Imanuel Grahl
+August Heinrich Siegismund
+Friedrich August Braune
+----------------
+Julius Richter
+Karl Robert Voigt
+Friedrich Samuel Haufe
+Ernst Fridolin Friedrich
+Carl Friedrich Richter
+Andreas Ferdinand Hackenberger

@@ -1,5 +1,5 @@
 Weißenborn (Buch 397)
-Trauungen 1802-1859
+Trauungen 1802-1860
 https://www.archion.de/de/viewer/churchRegister/360196?pageId=50736819
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -12,6 +12,7 @@ Oktober 2024
 November 2024
 Februar 2025
 April 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -563,3 +564,20 @@ Carl Traugott Arnold
 ----------------
 Carl Wilhelm Stenzel
 Ernst Julius Braungardt
+1860
+August Hofmann
+Carl Friedrich August Hunger
+----------------
+Johann Friedrich Kummer
+Friedrich Ehregott Fischer
+Johann Friedrich August Wange
+Friedrich Wilhelm Göhler
+----------------
+Johann Gustav Meißner
+Friedrich Ernst Böhme
+Georg Friedrich Mädler
+Friedrich Leberecht Köhler
+Carl Wilhelm Hänig
+----------------
+Friedrich Wilhelm Kummer
+Carl August Ulbricht
