@@ -1,5 +1,5 @@
 Fürstenau (Buch 250)
-Trauungen 1831-1859
+Trauungen 1831-1867
 https://www.archion.de/de/viewer/churchRegister/294319?pageId=40894174
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 November 2024
 Februar 2025
 April 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -317,3 +318,83 @@ Julius Friedrich Meißner
 Julius Ehregott Krügner
 ----------------
 August Wilhelm Böhme
+1860
+Emil Friedrich Held
+Samuel Ernst Brauer
+Karl Gotthelf Kadner
+Karl Heinrich Knauthe
+Karl Gottlieb Wolf
+Heinrich Florian Dietrich
+----------------
+Friedrich Gotthard Meißner
+Karl Fürchtegott Kadner
+Carl Gottlieb Hickmann
+Friedrich Oswald Kadner
+Gustav Hermann Meissner
+----------------
+Gottlob August Hacker
+1861
+Carl Friedrich Wilhelm Jaepel
+Gottlob Fürchtegott Loewe
+Friedrich August Kadner
+Johann Gottlieb Kreische
+Carl Friedrich August Hauswald
+----------------
+1862
+Johann Friedrich Schaffer
+Gustav Heinrich Kadner
+Emanuel Heinrich Schlosser
+Carl Gowasch
+Oswald Julius Held
+----------------
+1863
+Heinrich Friedrich Knauthe
+Johann Traugott Leberecht Klengel
+Gottlieb Ehregott Löwe
+Gustav Hermann Kadner
+Carl Gotthelf Knauthe
+Carl Ferdinand Kadner
+Friedrich Christoph Günther
+Ernst Ferdinand Knauthe
+----------------
+Carl Friedrich Leberecht Fleischer
+1864
+Carl Heinrich Hesse
+Carl Friedrich Dietze
+Gustav Heinrich Kadner
+Johann Traugott Kirsten
+Carl Friedrich August Knauthe
+----------------
+Carl Gottlieb Wolf
+Gottlieb Friedrich Bellmann
+Heinrich Julius Ferdinand Knauthe
+Johann Gottlob Hähnel
+Carl Leberecht Flasche
+1865
+Johann Gottfried Böhme
+Carl August Thiele
+Friedrich August Gaebler
+----------------
+Johann Carl August Schubert
+Carl Friedrich Kadner
+Oscar Emil Flossmann
+Ernst Friedrich Bretschneider
+Carl Eberhard Schaffer
+1866
+Carl Ludwig Lehmann
+Emanuel Friedrich Kadner
+Friedrich Wilhelm Knauthe
+----------------
+Emanuel Heinrich Knauthe
+Friedrich Wilhelm Ferdinand Knauthe
+1867
+Friedrich August Ritschel
+Julius Adolph Zechel
+Carl Friedrich August Kaden
+Gustav Hermann Knauthe
+Carl Heinrich Tiebel
+Carl Friedrich Knauthe
+----------------
+Carl August Heckel
+Heinrich Traugott Knauthe
+Friedrich Eduard Schaffer

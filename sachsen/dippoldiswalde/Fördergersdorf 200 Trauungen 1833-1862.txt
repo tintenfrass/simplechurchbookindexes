@@ -1,5 +1,5 @@
 Fördergersdorf (Buch 200)
-Trauungen 1833-1859
+Trauungen 1833-1862
 https://www.archion.de/de/viewer/churchRegister/294275?pageId=40884692
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 November 2024
 Februar 2025
 April 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -773,3 +774,103 @@ Johann Ernst Opitz
 ----------------
 Christian Ernst Kießlich
 Karl Gottlieb Kühn
+----------------
+1860
+Christian Friedrich Patzig
+Carl Friedrich Strohbach
+Carl Friedrich Glöckner
+----------------
+Christian Gottlieb Kannegießer
+Karl August Weber
+Carl Wilhelm Neubert
+Ernst Heinrich Opitz
+----------------
+Friedrich Gotthelf Ritter
+Ernst Traugott Leberecht Patzig
+Christian Gottlob Kießlich
+----------------
+Ernst Friedrich Müller
+Gottlieb Leberecht Lorenz
+Gotthelf Friedrich Lindner
+Johann Gotthelf Lieschke
+----------------
+Carl Gottlob Lindner
+Ernst Julius Hartmann
+Karl Heinrich Ritter
+----------------
+Friedrich Otto Lommatzsch
+Carl Anton Däbritz
+Friedrich August Gebauer
+----------------
+Friedrich August Johne
+Wilhelm Leberecht Starke
+Friedrich Wilhelm Otto
+----------------
+Friedrich Hermann Obendorf
+----------------
+1861
+Johann Friedrich Hermann Kaspar
+Friedrich Gottlob Müller
+Johann Carl August Schulze
+----------------
+Johann Karl Gotthold Mauersberger
+Wilhelm Eduard Behr
+Karl August Bresar
+----------------
+Carl Friedrich August Junold
+Ernst Hermann Hauptvogel
+Ernst Julius Eduard Reinhardt
+----------------
+Carl Friedrich August Neukirch
+Michael Tradler
+Franz Hermann Philipp
+Johann Heinrich Schaarschmidt
+----------------
+Friedrich Hermann Müller
+Karl Friedrich Gottsorge Hartmann
+Carl Christian Friedrich Keil
+----------------
+Carl August Wilhelm Dittrich
+Carl Gottlob Büttner
+August Wilhelm Henker
+Carl Adolph Kost
+----------------
+1862
+Johann Gottfried Heinze
+Karl Gottlieb Grafe
+Karl August Petermann
+----------------
+Gotthelf Leberecht Kurze
+Karl Heinrich Ernst Kühne
+Johann Carl Gotthelf Kretzschmar
+Gottlieb Heinrich Philipp
+----------------
+Christian August Göpfert
+Louis Robert Schoene
+Gottfried Heinrich Wiese
+----------------
+Carl Friedrich August Hempel
+Johann Wilhelm Ernst Fritzsche
+Friedrich Wilhelm Göpfert
+Friedrich Hermann Baumgarten
+----------------
+Carl Wilhelm Schmieder
+Friedrich Moritz Jaeckel
+Heinrich Ferdinand Pietzsch
+Carl Gotthelf Mädler
+----------------
+Carl Ernst Wilhelm Zeiske
+Friedrich Ernst Klügel
+Friedrich Wilhelm Israel
+Ernst Traugott Ludwig Fehrmann
+----------------
+Carl Gottlieb Mattusch
+Carl Gottlieb Wolf
+Heinrich Adolph Mühlbach
+----------------
+Heinrich August Boehme
+Karl August Göpfert
+Carl August Patzig
+Gotthold Leberecht Gutsche
+----------------
+Karl Ernst Zschoche

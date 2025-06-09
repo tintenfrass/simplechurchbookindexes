@@ -1,5 +1,5 @@
 Bärenstein (Buch 24)
-Trauungen 1827-1859
+Trauungen 1827-1869
 https://www.archion.de/de/viewer/churchRegister/294130?pageId=40851167
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -10,6 +10,7 @@ Oktober 2024
 November 2024
 Februar 2025
 April 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -525,3 +526,226 @@ Carl August Böhme
 ----------------
 August Wilhelm Böhme
 Johann Christian Schelle
+----------------
+1860
+Carl Gotthelf Traugott Fürchtegott Estler
+Carl Gottfried Lindemann
+Carl Heinrich Hickmann
+Carl August Schmidt
+----------------
+Christian Gottlieb Tutschke
+Carl Gotthelf Heymann
+Johann Gottlob Schwenke
+Gottlob Reinhold Mende
+----------------
+Eugen Lothar Lüttichau
+Carl Gottlieb Heymann
+Friedrich August Moche
+----------------
+1861
+Carl Friedrich Löser
+Gottlob Friedrich Herfurth
+Friedrich Heinrich Schwenke
+Friedrich Reinhold Liebeheim
+Carl Gottlieb Crönerz
+----------------
+Johann Christlieb Schelle
+Robert Wilhelm Hoffarth
+Carl Moritz Kluge
+Friedrich August Ernst Donath
+----------------
+Carl Gottlieb Ernst Mütze
+1862
+Johann Traugott Nitzsche
+Heinrich Fürchtegott Graf
+----------------
+Friedrich August Querner
+August Heinrich Gössel
+Carl Otto Gäbler
+Carl Gottfried Hermann Friebel
+----------------
+Friedrich Hermann Petzold
+Friedrich August Friebel
+Joseph Maucke
+Johann Gottlob Mauersberger
+Carl Wilhelm Rehn
+----------------
+Carl Gottlieb Mende
+Carl Friedrich Krause
+Carl August Mühle
+Friedrich August Wolf
+----------------
+1863
+Friedrich Wilhelm Thiersch
+Friedrich Wilhelm Brauer
+Johann Traugott Leberecht Klengel
+Traugott Friedrich Wilhelm Legler
+----------------
+Carl August Friebel
+Gottlob Heinrich Seifert
+Wilhelm August Hermann Schmidt
+Carl Ferdinand Grellmann
+----------------
+Christian Heinrich Liebschner
+Bruno Raabe
+Friedrich August Ehrlich
+----------------
+1864
+Johann Christian Gottlieb Häßler
+Friedrich Hermann Dittrich
+Traugott Gotthelf Lotze
+Friedrich Hermann Liebeheim
+----------------
+Carl Friedrich Traugott Dittrich
+Friedrich Gottlob Rosenkranz
+Carl Friedrich August Fuchs
+Friedrich August Wilhelm Jäpel
+----------------
+Carl Friedrich August Forkert
+Carl August Schwenke
+Heinrich Gotthold Hartmann
+Carl Benjamin Ehrhardt
+----------------
+Gotthelf Ferdinand Benjamin Krall
+Friedrich August Lehmann
+Traugott Leberecht Dittrich
+----------------
+1865
+Friedrich Fürchtegott Hickmann
+Carl Hermann Mende
+Johann Gottfried Böhme
+Carl Friedrich Moritz Griesbach
+----------------
+Carl Ernst Saupe
+Carl Traugott Tietze
+Carl Friedrich August Stein
+Carl Heinrich Bretschneider
+----------------
+Ernst Carl Ferdinand Köhler
+Carl Christlieb Heße
+Carl Traugott Schindler
+Carl Gottlieb Hickmann
+----------------
+Carl Gottlieb Scheinert
+Gustav Benno Petzold
+Friedrich Moritz Walther
+Carl Friedrich Hermann Mende
+----------------
+Carl August Kühnel
+Friedrich August Kühnel
+Carl August Kahl
+Johann Gottlieb Schlag
+----------------
+Carl Friedrich August Galle
+Carl Gottlob Gäbler
+Carl Eduard Schmieder
+Gustav Eduard Julius Schmidt
+Wilhelm August Löser
+----------------
+Friedrich August Galle
+Friedrich August Schmieder
+Ernst Friedrich Bretschneider
+Carl Traugott Petzold
+----------------
+1866
+Friedrich Ehregott Günther
+August Ferdinand Weise
+Heinrich Oswald Rasche
+Gustav Emil Grahle
+----------------
+Ernst Ferdinand Fraulob
+Johann Carl Gottlieb Fraulob
+Traugott Leberecht Mende
+Johann August Schütze
+----------------
+Gottlob Wilhelm Grimmer
+Carl Friedrich Adolph Weinhold
+Carl Heinrich Fischer
+Carl Friedrich Ebert
+----------------
+Carl Bruno Schwenke
+Adolph Moritz Günther
+Friedrich August Wilhelm Büttner
+Carl Friedrich Mende
+----------------
+Johann Gottlieb Ebert
+Christian Ferdinand Gustav Großmann
+Heinrich Ludwig Eisentraut
+----------------
+1867
+Carl Traugott Bär
+Johann Hermann Kühnel
+Eugenius Ferdinand Klemmer
+Friedrich Wilhelm Reinhard
+----------------
+Friedrich Wilhelm Boden
+Wenzel Zounek
+Friedrich Wilhelm Schwenke
+Carl August Hermann Hanke
+----------------
+Johann Traugott Jäpel
+Friedrich Julius Schwenke
+Oswald Alexander Büttner //durchgestrichen
+Heinrich Gustav Ebert
+Oswald Alexander Büttner
+----------------
+Gustav Adolph Walter
+Carl Adolph Hauswald
+August Leberecht Hickmann
+Anton Ludwig Rudolph
+Friedrich August Müller
+----------------
+Wilhelm August Paul
+Ernst Heinrich Pietschmann
+1868
+Gottlieb Adolph Mühle
+Carl August Kadner
+----------------
+Ernst Ferdinand Fraulob
+Friedrich Wilhelm Meißner
+Friedrich Albin Schildbach
+Carl Hermann Berger
+Carl August Weber
+----------------
+Carl August Steinchen
+Carl Gottlieb Kranz
+Paul Hermann Hickmann
+Carl Friedrich Kadner
+Friedrich Hermann Eberth
+----------------
+Carl Wilhelm Walther
+Carl Friedrich Boden
+Friedrich August Fritzsche
+Friedrich Ernst Klemmer
+----------------
+Carl Theodor Saitenmacher
+Carl Friedrich Wilhelm Lehmann
+Christian Gottlieb Gabsch
+Friedrich Traugott Schütze
+----------------
+Eduard Albert Fiebiger
+Ernst Conrad Liebeheim
+Carl Friedrich Oswald Löhnert
+1869
+Georg Friedrich August Boden
+----------------
+Carl Friedrich August Estler
+Ernst August Lehmann
+Carl Robert Schmieder
+Oswald Hermann Standfuß
+Carl Friedrich Julius Weichold
+----------------
+Carl Otto Mühle
+Ernst Edwin König
+Carl Friedrich Sommerschuh
+Carl Friedrich Robert Weinhold
+Gustav Robert Busch
+----------------
+Carl Sigismund Scharfe
+Friedrich August Flemming
+Ernst Julius Schönberger
+Friedrich Oswald Ebert
+----------------
+Ernst Julius Albin Praße
+Friedrich August Küchler
+Carl Eduard Schildbach

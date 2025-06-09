@@ -1,5 +1,5 @@
 Dittersdorf (Buch 129)
-Trauungen 1837-1859
+Trauungen 1837-1869
 https://www.archion.de/de/viewer/churchRegister/294217?pageId=40869484
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 November 2024
 Februar 2025
 April 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -353,3 +354,228 @@ Johann Ferdinand Ernst Bellmann
 Friedrich Wilhelm Büttner
 Karl Gottlieb Böhmert
 Karl Friedrich Kunath
+----------------
+1860
+Karl Gotthelf Traugott Fürchtegott Estler
+Karl Friedrich August Friebel
+Karl Gustav Julius Tiebel
+----------------
+Karl Christlieb Leberecht Büttner
+Karl Traugott Stock
+Karl Friedrich August Wilhelm Friebel
+Johann Gotthelf Herzog
+----------------
+Johann Branzke
+Karl August Schlosser
+Karl Traugott Benjamin Gansauge
+Heinrich August Schlosser
+----------------
+Karl Gottlieb Leberecht Hanke
+Karl Friedrich Vogel
+Julius Eduard Grahl
+Ernst Julius Fischer
+----------------
+Johann Ferdinand Kunau
+1861
+Karl Friedrich Scheinert
+Ernst Wilhelm Kurze
+----------------
+Karl Gustav Eduard Steinigen
+Karl August Hubald
+Friedrich August Dittrich
+Friedrich Ludwig Valentin
+----------------
+Eduard Theodor Eichler
+Johann Gottfried Schlosser
+Karl Franz Richter
+Karl Friedrich August Grahl
+----------------
+Karl Gottlieb Peukert
+Heinrich Herrmann Richard Tittel
+Karl Friedrich Schreiber
+Friedrich August Wilhelm Schubert
+----------------
+Traugott Leberecht Legler
+Friedrich August Wilhelm Büttner
+Karl Adolph Scheinert
+----------------
+1862
+Karl Julius Beckert
+Karl Ernst Leberecht Göbel
+Friedrich August Büttner
+Friedrich Wilhelm Kadner
+----------------
+Friedrich Wilhelm Holfert
+Karl Wilhelm Leberecht Funke
+Karl Wilhelm Rehn
+Karl Gottlieb Mende
+----------------
+Adolph Moritz Börner
+Gottlieb Heinrich Zönnchen
+Karl Moritz Stephan
+Friedrich Julius Weise
+----------------
+1863
+Gottlieb Leberecht Lehmann
+Friedrich August Wilhelm Rudolph
+Karl Christlieb Schwenke
+Ernst Ferdinand Fleischer
+----------------
+Heinrich Gustav Süße
+Heinrich Gotthelf Tittel
+Moritz Bernhard Berger
+Karl Gottlob Schwenke
+----------------
+Ernst Gustav Rühle
+Friedrich August Leberecht Schneider
+Karl Heinrich Hofmann
+Christian Heinrich Liebschner
+----------------
+Johann Gottfried Köhler
+Karl August Schütze
+Johann Ernst August Käppler
+Adolph Friedrich Leberecht Fritzsche
+----------------
+1864
+Friedrich August Werner
+Traugott Ferdinand Jungnickel
+Heinrich Ferdinand Lotze
+----------------
+Wilhelm Ferdinand Bellmann
+Johann Schneider
+Karl Friedrich August Fuchs
+Carl Friedrich August Schiertz
+----------------
+Johann Karl Gottlob Mühlbach
+Ernst Julius Bartzsch
+Friedrich August Renner
+----------------
+Friedrich August Martin
+Friedrich Traugott Krügner
+Karl Wilhelm Pfützner
+----------------
+Carl Christlieb Bobe
+Johann Traugott Kobsch
+Karl Gottlieb Männchen
+----------------
+1865
+Johann Gottlob Grahl
+Julius Robert Schneider
+Robert August Böhm
+----------------
+Friedrich August Schwenke
+Friedrich August Gotthold Steiger
+Friedrich August Künzel
+----------------
+Karl Traugott Eichler
+Carl Friedrich August Stein
+Karl Christlieb Wahl
+----------------
+Karl August Weise
+Karl August Steinigen
+Karl Friedrich Herrmann Oelschlägel
+----------------
+Karl Christlieb Hesse
+Karl Friedrich Fritzsche
+Karl Gottlieb Hickmann
+----------------
+August Herrmann Lotze
+Johann Karl Gottlieb Herzog
+Karl Heinrich Holfert
+Karl Gottlieb Holfert
+----------------
+Johann Friedrich Berger
+Karl August Thomas
+Karl August Fischer
+----------------
+Ernst Traugott Leberecht Pellmann
+Karl Traugott Benjamin Gansauge
+Karl Traugott Wolf
+Karl Gottlieb Schwenke
+----------------
+1866
+Carl Friedrich Hauschild
+August Eduard Lotze
+Ernst Christlieb Hesse
+----------------
+Ernst Oswald Herrmann
+Karl August Kaiser
+Karl Friedrich Wilhelm Grahl
+----------------
+Friedrich August Grumpelt
+Johann Friedrich Moritz Schiller
+Johann Karl Gottfried Grumpt
+----------------
+Karl August Claus
+Karl Wilhelm Geißler
+Friedrich Wilhelm Oelschlägel
+----------------
+Karl Wilhelm Pietzsch
+Friedrich August Kranz
+Karl Friedrich August Gössel
+Johann Gottlieb Krellmann
+----------------
+Karl Ernst Hesse
+Karl Friedrich Friebel
+Karl Friedrich Schneider
+----------------
+1867
+Friedrich Ehregott Hesse
+Karl August Jungnickel
+Karl August Herrmann Hanke
+----------------
+Julius Theodor Lehmann
+Herrmann Julius Scheinert
+Ernst Eduard Bauer
+----------------
+Karl Gottlob Funke
+Karl August Eduard Hanke
+Friedrich August Pellmann
+----------------
+Karl Adolph Hauswald
+Friedrich August Walther
+Karl August Leberecht Holfert
+Johann Wilhelm Müller
+----------------
+Gottlob Friedrich Müller
+Ernst Ferdinand Gössel
+Karl Heinrich Moritz Lotze
+Karl Friedrich Kürsten
+----------------
+1868
+Ernst Heinrich Herrmann Oelschlägel
+Friedrich Oswald Lehmann
+Johann Helbig
+----------------
+Karl Friedrich Leutert
+Friedrich August Pellmann
+Carl August Reichel
+Ernst Emil Schönberger
+----------------
+Johann Gottlob Geißler
+Karl Gottlieb Kranz
+Friedrich Wilhelm Müller
+Wilhelm Moritz Claus
+----------------
+Karl Friedrich Grahl
+Ernst Moritz Männchen
+Eduard Gustav Salomo
+Karl Gottfried Grahl
+----------------
+1869
+Friedrich Oswald Zimmermann
+Karl Ernst Aulhorn
+Karl Christlieb Geißler
+----------------
+Karl Gottfried Feistner
+Karl Friedrich Julius Weichold
+Karl Friedrich Lotze
+Friedrich Eduard Hauswald
+----------------
+Karl Friedrich Wilhelm Herzog
+Karl Gottfried Kunath
+Karl August Pfützner
+Ernst Emil Eichler
+----------------
+Karl Ernst Herzog
+Carl Gottlieb Bellmann
