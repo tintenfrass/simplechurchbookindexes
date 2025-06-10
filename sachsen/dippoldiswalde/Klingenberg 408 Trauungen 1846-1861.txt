@@ -1,10 +1,11 @@
 Klingenberg (Buch 408)
-Trauungen 1846-1859
+Trauungen 1846-1861
 https://www.archion.de/de/viewer/churchRegister/294454?pageId=40917562
 
 
 Februar 2025
 April 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -263,3 +264,44 @@ August Börner
 Johann Gottlieb Hegewald
 ----------------
 Friedrich Wilhelm Helbig
+1860
+Julius Ferdinand Caspar
+----------------
+Friedrich Traugott Fleischer
+Karl August Schubert
+Friedrich Wilhelm Bormann
+Wilhelm Moritz Pfeifer
+----------------
+Karl Ernst Morgenstern
+Karl Gottlob Bormann
+Friedrich Ernst Kühn
+Karl August Naumann
+----------------
+Karl Gotthelf Schmatz
+Heinrich Herrmann Rüdiger
+Karl August Kästner
+Carl Heinrich Morgenstern
+----------------
+Karl Gotthelf Seifert
+Traugott Friedrich Berndt
+Johann Karl August Jäpel
+Johann Karl Friedrich Hoferichter
+----------------
+1861
+Karl Christian Jacob
+August Moritz Kästner
+Carl August Starke
+----------------
+Karl Gottlob Erhardt?
+Karl Oswald Petri
+Gustav Adolph Persberger
+Johann Carl Gottlob Wolf
+Johann Eduard Wahl
+Carl August Bartsch
+Friedrich Gotthelf Köhler
+Johann Christian Pötzsch
+----------------
+Karl Gottfried Eichhorn
+Georg Friedrich Böhme
+Karl August Engermann
+Johann Carl Gottlob Brunsch

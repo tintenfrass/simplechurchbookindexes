@@ -1,10 +1,11 @@
 Kreischa (Buch 425)
-Trauungen 1840-1859
+Trauungen 1840-1860
 https://www.archion.de/de/viewer/churchRegister/294466?pageId=40919827
 
 
 Februar 2025
 April 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -826,3 +827,40 @@ Carl Herrmann Adam
 Carl Gottlieb August Henker
 Heinrich Wilhelm Kühnel
 Carl Wilhelm Richter
+1860
+Friedrich August Hamisch
+Julius Hermann Eisrig
+Heinrich Wilhelm Jäpelt
+Christian Friedrich Weckbrod
+----------------
+August Bernhard Franz
+Carl Friedrich Ritter
+Carl August Berger
+Johann Gottlieb Schumann
+August Wilhelm Zeitzschler
+Friedrich Ernst Leumer
+August Ernst Lohse
+Heinrich Wilhelm Steinchen
+Friedrich August Fuß
+----------------
+Heinrich Ferdinand Goltzsche
+Johann Christian Reinhold Hillig
+Friedrich August Arnhold
+Friedrich Wilhelm Bender
+Carl Wilhelm Wetzel
+Ernst Wilhelm Hosemann
+Heinrich August Sonntag
+Carl August Gäbel
+Gottlob August Graf
+Eduard Leberecht Böthig
+----------------
+Johann Heinrich Gottlob Henke
+Adolph Gotthard Biener
+Ernst Theodor Höhne
+Carl Heinrich Kürbs
+Johann Gottlieb Traugott Schlegel
+Carl Friedrich Wilhelm Wolf
+Ernst Eduard Hantzsch
+----------------
+Johann Donatus Neuber
+Carl Robert Händler

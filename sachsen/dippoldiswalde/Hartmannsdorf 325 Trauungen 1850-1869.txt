@@ -1,8 +1,10 @@
 Hartmannsdorf (Buch 325)
-Trauungen 1850-1859
+Trauungen 1850-1869
 https://www.archion.de/de/viewer/churchRegister/294386?pageId=40904483
 
+
 April 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -151,3 +153,124 @@ Ernst Leberecht Gleß
 Johann Carl Friedrich Bellmann
 Carl Gottlieb Putzsche
 Christian Friedrich Bellmann
+----------------
+1860
+Carl Gottlieb Lippmann
+Carl Friedrich Kämpfe
+Johann Gottlieb Zimmermann
+Christian Friedrich Richter
+Heinrich August Dittrich
+Friedrich Gottlob Berndt
+Samuel Friedrich Zincke
+Carl Gottlieb Müller
+----------------
+Carl Gottlieb Börner
+Carl Gottlieb Göhler
+Carl Friedrich Rüger
+Carl Ferdinand Richter
+1861
+Heinrich Träger
+----------------
+Carl August Börner
+Friedrich August Fröbe
+Carl Friedrich Bernhardt
+Adolph Theodor Fischer
+Carl Friedrich Kempe
+Wilhelm Heinrich Sommerschuh
+Johann Gottlob Renner
+Carl Friedrich Hennig
+----------------
+1862
+Friedrich August Ebert
+Johann Carl Dube
+Carl Gottlieb Erler
+Carl Gottlieb Richter
+Friedrich August Träger
+Carl August Schulze
+Carl Friedrich Göhler
+----------------
+1863
+Christian Friedrich Glöckner
+Friedrich Wilhelm Liebscher
+Gottlob Leberecht Püschel
+August Friedrich Kästner
+Carl Gottlieb Kästner
+----------------
+1864
+Carl Gottlieb Erler
+Wilhelm August Stenzel
+Carl Gottlieb Lehmann
+Johann Gottfried Schulze
+August Ehregott Kästner
+Carl Friedrich Fischer
+----------------
+Friedrich Wilhelm Zimmermann
+Georg Friedrich Kempe
+Gottlob Friedrich Reichel
+August Friedrich Rüdiger
+Heinrich August Bernd
+----------------
+1865
+August Wilhelm Richter
+Carl Heinrich Kästner
+Heinrich August Franke
+Carl Gottlieb Wolf
+Ernst Carl Friedrich Kempe
+Oswald Theodor Küchenmeister
+----------------
+Carl Gottlob Ehrlich
+Johann Gottlob Ernst
+Ernst Anton Maier
+1866
+Carl Gotthold Kästner
+Friedrich August Müller
+----------------
+Carl Heinrich Kästner
+Christian Friedrich Traugott Kästner
+Friedrich August Rothe
+Carl August Scheffler
+----------------
+1867
+Carl Friedrich Hänel
+Anton Julius Kröhnert
+Carl Gottlob Lohse
+Carl August Friedrich Böhme
+Carl Friedrich Kaden
+----------------
+Carl Gottlieb Göpfert
+Friedrich August Kästner
+Friedrich Wilhelm Putzke
+Samuel Glaßer
+----------------
+1868
+Carl Gottlieb Pellmann
+Friedrich Wilhelm Walther
+Carl Friedrich Schneider
+----------------
+Carl Friedrich August Klemm
+Daniel Gottlob Böhme
+Heinrich Ernst Adolph Zieger
+Carl Friedrich Kempe
+----------------
+Johann Samuel Friedrich Bernhardt
+Carl Friedrich Hänel
+Samuel Friedrich Kästner
+----------------
+Ernst Wilhelm Fürchtegott Schneider
+Friedrich Wilhelm Schneider
+Friedrich Moritz Martschink
+----------------
+1869
+Carl Friedrich Traugott Reichel
+Friedrich Wilhelm Weigold
+Carl August Kaden
+----------------
+Carl Heinrich Wunderwald
+Carl August Herrmann Rothe
+Ernst Ferdinand Hänel
+----------------
+Friedrich August Göhler
+Johann Samuel Friedrich Fischer
+Carl Friedrich Oehme
+----------------
+Ernst Heinrich Kaden

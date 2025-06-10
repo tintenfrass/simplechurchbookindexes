@@ -1,8 +1,10 @@
 Glashütte (Buch 310)
-Trauungen 1850-1859
+Trauungen 1850-1862
 https://www.archion.de/de/viewer/churchRegister/294374?pageId=40901936
 
+
 April 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -291,3 +293,104 @@ Johann Heinrich Tietze
 ----------------
 Friedrich Ferdinand Anders
 Gustav Julius Kretzschmar
+----------------
+1860
+Emil Friedrich Held
+Friedrich August Bormann
+Johann Carl Ferdinand Estler
+Carl August Meißner
+Gottfried Heinrich Heine
+----------------
+Carl Eduard Goltzsche
+Ernst Wilhelm Mühle
+Johann Heinrich Wilhelm Schneider
+August Hermann Vogel
+Carl Ludwig Bosdorf
+----------------
+Carl Wilhelm Müller
+Friedrich Eduard Ludwig Mathe
+Samuel Traugott Schurtz
+Carl Gottlob Grahl
+Franz Friedrich Rudolph Wetzel
+----------------
+Carl Robert Winkler
+Carl Ernst Siegert
+Julius Richard Illgen
+Johann Carl Heinrich Schuritz
+Fürchtegott Leberecht Klotz
+----------------
+Carl Leberecht Gehlert
+Carl Traugott Benjamin Gansauge
+Daniel Friedrich Böhme
+Gustav Adolf Gollmann
+----------------
+Ernst Ferdinand Renner
+Traugott Leberecht Kadner
+Carl Friedrich Menzer
+----------------
+1861
+Carl August Ferdinand Henschel
+Ernst Wilhelm Kurze
+Friedrich Wilhelm Büttner
+Gustav Adolf Müller
+----------------
+Carl Friedrich Wilhelm Fischer
+Johann Eduard Trescher
+Carl Friedrich Liebscher
+Carl Leberecht Staedter
+----------------
+Friedrich August Krause
+Carl Traugott Rentsch
+Anton Robert Illgen
+Ernst Ferdinand Kadner
+----------------
+Johann Friedrich Ernst Kunick
+Friedrich August Richter
+Carl Gustav Moritz Herfurth
+Gustav Adolf Benno Walther
+----------------
+Heinrich Beine
+Carl Friedrich Herzog
+Ferdinand Emil Lehmann
+Carl Gottlob Legler
+Carl Gottlieb Fischer
+----------------
+Carl Gottfried Mitscherlich
+Carl Ernst Kadner
+Traugott Ernst Estler
+Johann Samuel Kerndt
+----------------
+1862
+Heinrich Fürchtegott Graf
+Friedrich Wilhelm Kadner
+Johann Friedrich August Holfert
+Wilhelm Julius Bretschneider
+----------------
+Georg Ritscher
+Georg Friedrich Reinhard
+Friedrich August Robert Teubner
+Friedrich Wilhelm August Zimmermann
+----------------
+Friedrich Moritz Kegel
+Julius Richard Jugen
+Carl Gottlieb Keilig
+Carl Friedrich August Voigt
+----------------
+Carl Heinrich Böhme
+Carl Gottlieb Weichold
+Carl Gottlieb Gietzelt
+Johann Traugott Hilbenz
+----------------
+Carl Friedrich August Müller
+Carl Ernst Heger
+Daniel Gotthold Illig
+Oswald Fridolin Taggesell
+----------------
+Oswald Fridolin Taggepell //durchgestrichen
+Ernst Wilhelm Schulze
+Johann Conrad Bock
+Heinrich Moritz Schoenberger
+----------------
+Carl Gottlob Rotzsch
+Johann Traugott Schiffel
+August Ferdinand Krumbiegel
