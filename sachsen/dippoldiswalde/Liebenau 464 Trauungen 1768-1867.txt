@@ -1,5 +1,5 @@
 Liebenau (Buch 464)
-Trauungen 1768-1859
+Trauungen 1768-1867
 https://www.archion.de/de/viewer/churchRegister/305485?pageId=42939248
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -14,6 +14,7 @@ Oktober 2024
 November 2024
 Februar 2025
 April 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1101,3 +1102,154 @@ Karl Gottlob Schütze
 Friedrich Wilhelm Wolf
 ----------------
 Johann Gottlob Ehrenfried Hauswald
+----------------
+1860
+Friedrich August Maul
+Carl Friedrich August Adam
+Carl Gottlob Heinrich Küchler
+Carl Gottfried Haake
+Carl Friedrich August Wilhelm Friebel
+----------------
+Heinrich Louis Kaesemodel
+Carl Gottlieb Wolf
+August Friedrich Hertel
+----------------
+Carl Friedrich Hockauf
+Friedrich Ernst Wirthgen
+Carl Gottlieb Hickmann
+Friedrich August Moche
+Friedrich August Küchler
+----------------
+Carl Friedrich August Ruffani
+Carl Friedrich Lehmann
+Carl Moritz Kühn
+----------------
+1861
+Carl Friedrich August Glauch
+Carl August Seifert
+Friedrich Wilhelm Liebscher
+Gottlob Fürchtegott Loewe
+----------------
+Carl Friedrich Jäpel
+Carl August Loose
+Carl August Hubald
+Carl Traugott Rentsch
+----------------
+Friedrich Wilhelm Ziegenbalg
+Heinrich Gottlieb Ritschel
+Gustav Adolph Skierl
+Carl Friedrich Mühle
+----------------
+Carl Gottlieb Peuckert
+Carl Wilhelm Küchler
+Carl Friedrich Herzog
+Johann Eduard Skierl
+----------------
+Johann Gottfried Ebert
+1862
+Traugott Leberecht Hauswald
+Friedrich August Querner
+----------------
+Carl Gottlob Schwenke
+Ernst Eduard Hauswald
+Carl Gottlob Schwenke
+----------------
+Ernst Julius Ganßauge
+Julius Theodor Küchler
+Carl Gotthelf Seifert
+----------------
+Gottlieb Friedemann Jäpel
+Friedrich Adolph Müller
+Carl Friedrich Wilhelm Heilfurth
+Emanuel Heinrich Schloßer
+----------------
+Heinrich Traugott Reuter
+Carl Heinrich Mendte
+Daniel Gotthold Illig
+Adolph Wilhelm Angermann
+----------------
+Carl Gottlieb Leupold
+Friedrich August Ehrhardt
+Friedrich Gotthold Jaepel
+----------------
+1863
+Carl Friedrich Casper
+Carl Friedrich August Lehmann
+Johann Gottfried Leonhardt
+Gottlieb Ehregott Loewe
+----------------
+Karl Friedrich Mendte
+Friedrich Moritz Wolf
+Carl Friedrich Baer
+Friedrich August Weller
+----------------
+Friedrich August Renner
+Wilhelm Ludwig Jentzsch
+Ernst Moritz Grahl
+Carl Gottlieb Lohse
+----------------
+Carl Ernst Eduard Pech
+Carl Friedrich Ehrlich
+----------------
+1864
+Carl Gottfried Reichelt
+Friedrich Adolph Walther
+Ernst Ferdinand Weinhold
+----------------
+Carl Friedrich Siebert
+Carl Gottlob Richter
+Carl Wilhelm Rentzsch
+----------------
+Friedrich Wilhelm Schroeder
+Carl Gottlob Friedemann Kühnel
+Johann Traugott Wilhelm Glauch
+----------------
+1865
+Johann Gottlieb Heinrich Schiebel
+Carl Hermann Mehnert
+----------------
+Friedrich Wilhelm Querner
+August Herrmann Lotze
+Friedrich August Walther
+----------------
+Heinrich Hermann Küchler
+Carl Gottlob Hanke
+Johann Gottfried Ebert
+Carl Traugott Petzold
+----------------
+Carl Eduard Schmelzer
+----------------
+1866
+Friedrich August Gottlieb Goldammer
+Carl Friedrich Wilhelm Peukert
+Friedrich Moritz Wolf
+----------------
+Carl August Baer
+Friedrich August Schindler
+Friedemann Ernst Schwenke
+----------------
+Carl Friedrich Moritz Jungnickel
+Carl Robert Wagner
+Carl August Mühle
+----------------
+Friedrich August Paust
+Johann Carl Gatsche
+Friedrich Wilhelm Lotze
+----------------
+Carl Friedrich Friebel
+----------------
+1867
+Carl August Pfeifer
+Carl Friedemann Wald
+August Herrmann Lotze
+Carl Friedrich Hickmann
+----------------
+Friedrich Wilhelm Schwenke
+Carl Herrmann Fischer
+Ernst Moritz Salomo
+----------------
+Carl Friedrich Eichler
+Moritz Julius Wilhelm Steinigen
+Johann Christlieb Heinrich Linke
+----------------
+Johann Gottlob Mühle
