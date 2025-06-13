@@ -1,10 +1,17 @@
+github.com/agnivade/levenshtein v1.1.0 h1:n6qGwyHG61v3ABce1rPVZklEYRT8NFpCMrpZdBUbYGM=
+github.com/agnivade/levenshtein v1.1.0/go.mod h1:veldBMzWxcCG2ZvUTKD2kJNRdCk5hVbJomOvKkmgYbo=
 github.com/alextanhongpin/stringdist v0.0.1 h1:5Bygn3NKAoiUld8oYtoS8YplILTjOWxKe7FPAfXXs+U=
 github.com/alextanhongpin/stringdist v0.0.1/go.mod h1:6Bb1jYZG8v0tBZjFmU6/48W60Gt/aN6rRs2dXDBliq0=
 github.com/antzucaro/matchr v0.0.0-20210222213004-b04723ef80f0 h1:R/qAiUxFT3mNgQaNqJe0IVznjKRNm23ohAIh9lgtlzc=
 github.com/antzucaro/matchr v0.0.0-20210222213004-b04723ef80f0/go.mod h1:v3ZDlfVAL1OrkKHbGSFFK60k0/7hruHPDq2XMs9Gu6U=
+github.com/arbovm/levenshtein v0.0.0-20160628152529-48b4e1c0c4d0 h1:jfIu9sQUG6Ig+0+Ap1h4unLjW6YQJpKZVmUzxsD4E/Q=
+github.com/arbovm/levenshtein v0.0.0-20160628152529-48b4e1c0c4d0/go.mod h1:t2tdKJDJF9BV14lnkjHmOQgcvEKgtqs5a1N3LNdJhGE=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/deckarep/golang-set v1.8.0 h1:sk9/l/KqpunDwP7pSjUg0keiOOLEnOBHzykLrsPppp4=
 github.com/deckarep/golang-set v1.8.0/go.mod h1:5nI87KwE7wgsBU1F4GKAw2Qod7p5kyS383rP6+o6qqo=
+github.com/dgryski/trifles v0.0.0-20200323201526-dd97f9abfb48/go.mod h1:if7Fbed8SFyPtHLHbg49SI7NAdJiC5WIA09pe59rfAA=
+github.com/dgryski/trifles v0.0.0-20200830180326-aaf60a07f6a3 h1:JibukGTEjdN4VMX7YHmXQsLr/gPURUbetlH4E6KvHSU=
+github.com/dgryski/trifles v0.0.0-20200830180326-aaf60a07f6a3/go.mod h1:if7Fbed8SFyPtHLHbg49SI7NAdJiC5WIA09pe59rfAA=
 github.com/eskriett/strmet v0.0.0-20200126103939-2653f802bdb0 h1:GIeVmCzx6nh+ME5+NHwRoe88hX1uts2oa0KoaJdPxp8=
 github.com/eskriett/strmet v0.0.0-20200126103939-2653f802bdb0/go.mod h1:EifF5zlC1liBkHe4YKuoxeXJVUs+CRQgOEL+3QIREUg=
 github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
@@ -13,6 +20,8 @@ github.com/hbollon/go-edlib v1.6.0 h1:ga7AwwVIvP8mHm9GsPueC0d71cfRU/52hmPJ7Tprv4
 github.com/hbollon/go-edlib v1.6.0/go.mod h1:wnt6o6EIVEzUfgbUZY7BerzQ2uvzp354qmS2xaLkrhM=
 github.com/jamesturk/go-jellyfish v0.0.0-20190821175037-81d50ddab23b h1:Neiyfj2+1A3T8Rb/kZqKjT0htCrV7E+11ug4YAIgd00=
 github.com/jamesturk/go-jellyfish v0.0.0-20190821175037-81d50ddab23b/go.mod h1:NWgB486zJYWnPz6/Agaue5rNn24YE31xOSxqrdfml4E=
+github.com/ka-weihe/fast-levenshtein v0.0.0-20201227151214-4c99ee36a1ba h1:keZ4vJpYOVm6yrjLzZ6QgozbEBaT0GjfH30ihbO67+4=
+github.com/ka-weihe/fast-levenshtein v0.0.0-20201227151214-4c99ee36a1ba/go.mod h1:kaXTPU4xitQT0rfT7/i9O9Gm8acSh3DXr0p4y3vKqiE=
 github.com/lmas/Damerau-Levenshtein v1.0.0 h1:ccurHlpiYeBsTPx2SQXvNj1cmyFY+3UTK5gog+jlVf4=
 github.com/lmas/Damerau-Levenshtein v1.0.0/go.mod h1:fExYQOrzJxXO3G5EPU5HqVTPU/igmY2vUTbwSWog3Mk=
 github.com/masatana/go-textdistance v0.0.0-20191005053614-738b0edac985 h1:Pz8zZjVRvKxISYimNzLGnzSNl5hYXFSN80FPQ+qt1HE=

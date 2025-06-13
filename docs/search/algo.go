@@ -4,7 +4,7 @@ import (
 	"strings"
 
 	"github.com/antzucaro/matchr"
-	"github.com/eskriett/strmet"
+	fast "github.com/ka-weihe/fast-levenshtein"
 )
 
 const (
@@ -53,7 +53,7 @@ func (osa) search(s1, s2 string) int {
 type levenshtein struct{}
 
 func (levenshtein) search(s1, s2 string) int {
-	return strmet.Levenshtein(s1, s2, 100)
+	return fast.Distance(s1, s2) //not threadsafe
 }
 
 type exact struct{}

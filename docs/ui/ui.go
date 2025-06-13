@@ -167,6 +167,7 @@ func (h *searchComp) Render() app.UI {
 	grid[0][3][11] = "meissen/Mohorn"
 	grid[0][4][11] = "dippoldiswalde/Fördergersdorf"
 	grid[0][5][11] = "dippoldiswalde/Tharandt"
+	//grid[0][6][11] = "dippoldiswalde/Deuben"
 	grid[0][8][11] = "dresden/Lockwitz"
 
 	grid[0][0][12] = "freiberg/Langhennersdorf"
@@ -514,8 +515,8 @@ func (h *searchComp) Render() app.UI {
 		app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 		app.Br(),
 		app.Br(),
-		app.H3().Body().Text(" v1.11 (April 2025) latest updates:"),
-		app.Label().Text("Trauungen 1850-1859 hinzugefügt"),
+		app.H3().Body().Text(" v1.11 (Juni 2025) latest updates:"),
+		app.Label().Text("Trauungen 1860-1869 hinzugefügt"),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
 }
 

@@ -10,6 +10,7 @@ import (
 	"github.com/eskriett/strmet"
 	"github.com/hbollon/go-edlib"
 	"github.com/jamesturk/go-jellyfish"
+	fast "github.com/ka-weihe/fast-levenshtein"
 	tdl "github.com/lmas/Damerau-Levenshtein"
 	"github.com/masatana/go-textdistance"
 )
@@ -107,6 +108,12 @@ func TestLevenshtein(t *testing.T) {
 		d = jellyfish.Levenshtein(s1, s2)
 	}
 	fmt.Println("jellyfish.Levenshtein", time.Since(s), d)
+
+	s = time.Now()
+	for i := 0; i < rotations; i++ {
+		d = fast.Distance(s1, s2)
+	}
+	fmt.Println("ka-weihe.Distance", time.Since(s), d)
 }
 
 func TestOSA(t *testing.T) {
