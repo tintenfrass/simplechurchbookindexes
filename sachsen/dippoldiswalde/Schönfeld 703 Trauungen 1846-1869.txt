@@ -1,10 +1,11 @@
 Schönfeld (Buch 703)
-Trauungen 1846-1859
+Trauungen 1846-1869
 https://www.archion.de/de/viewer/churchRegister/305677?pageId=42980497
 
 
 Februar 2025
 April 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -134,3 +135,91 @@ Karl Heinrich Schubert
 Karl Friedrich Berger
 Carl August Schlegel
 Karl Heinrich Pretzsch
+----------------
+1860
+Georg Friedrich Dittrich
+Friedrich August Zimmermann
+Karl Christian Friedrich Franke
+Karl Traugott Klotz
+Wilhelm Friedrich Richter
+Gottlieb Heinrich Lotze
+----------------
+Gottlieb Leberecht Löwe
+Karl Friedrich Wilhelm Kempe
+----------------
+1861
+August Friedrich Walter
+Julius Bernhard Börner
+----------------
+1862
+Karl Heinrich Clausnitzer
+Karl Gottlieb Kunad
+Heinrich Ferdinand Illgen
+----------------
+1863
+Karl Heinrich Liebscher
+Karl August Udolph
+Karl Gottlieb Göhler
+Julius Emilius Zimmermann
+Friedrich Traugott Walter
+----------------
+Karl August Ferdinand Löwe
+Johann Traugott Lohse
+Moritz Hermann Liebscher
+Samuel Friedrich Liebscher
+----------------
+1864
+Karl Gottlieb Zinke
+Karl Gotthelf Fürchtegott Güldner
+Karl Heinrich Eduard Hegewald
+Friedrich Wilhelm Dietrich
+Karl Friedrich Köhler
+----------------
+1865
+Robert Dietrich
+Karl Gottlieb Krumpolt
+Johann Schulze
+Friedrich Wilhelm Neumair
+Karl Friedrich Kästner
+Carl Gottlieb Wolf
+Christian Friedrich Walter
+----------------
+Moritz Ferdinand Grimmer
+Karl August Liebscher
+Carl Friedrich August Reichelt
+Hermann Ferdinand Merkel
+----------------
+Gottlob Hermann Richter
+Friedrich August Clemens Seifert
+----------------
+1866
+Wilhelm Fürchtegott Freyer
+Karl Friedrich Göhler
+Gottlob Friedrich Göhler
+Karl Friedrich Wilhelm Müller
+Friedrich August Müller
+----------------
+1867
+Karl Eduard Müller
+Wilhelm Friedrich Göhler
+Karl Ferdinand Gebhardt
+Conrad Theodor Starke
+Carl Friedrich Wilhelm Kunad
+----------------
+1868
+Georg Friedrich Göhler
+Ehregott Leberecht Hänel
+Gottfried Heinrich Clausnitzer
+Friedrich Fürchtegott Heeger
+Karl Robert Louis Eichler
+----------------
+1869
+Karl August Schreiber
+Heinrich Adolf Ferdinand Dietrich
+Karl Gottlob Berger
+Friedrich Wilhelm Zennig
+Ehregott Michael Walter
+----------------
+Ernst Wilhelm Heinzmann
+Karl Friedrich Halm
+Karl Friedrich Wilhelm Krumpelt

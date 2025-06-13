@@ -1,5 +1,5 @@
 Schellerhau (Buch 675)
-Trauungen 1826-1859
+Trauungen 1826-1869
 https://www.archion.de/de/viewer/churchRegister/305656?pageId=42977900
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -10,6 +10,7 @@ Oktober 2024
 November 2024
 Februar 2025
 April 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -437,3 +438,142 @@ Johann Friedrich Eduard Blüher
 Friedrich Wilhelm Lohse
 ----------------
 Friedrich Wilhelm Sauerbrei
+1860
+Adolph Friedrich Traugott Berger
+Karl Wilhelm Band
+----------------
+Karl Benjamin Mutze
+Gottlieb August Eichler
+Karl Gottlob Behr
+Karl Traugott Richter
+Karl Friedrich August Neubert
+----------------
+Karl Ferdinand Gutte
+Karl Friedrich Wilhelm Richter
+Traugott Wilhelm Rudolph
+Gottlieb Friedrich Walther
+----------------
+1861
+August Hermann Franke
+Friedrich Wilhelm Richter
+Karl Gottfried Deutscher
+Karl Hermann Stübner
+----------------
+Karl Gottlob Richter
+Karl Gottlieb Traugott Steingen
+Karl Friedrich August Eichler
+Johann Christoph Göhler
+----------------
+Karl Friedrich Gössel
+Karl Eduard Winkler
+1862
+Karl Gottlob Zimmermann
+----------------
+Friedrich Wilhelm Berger
+Christian Friedrich Schramm
+Johann Holan
+Karl Heinrich Stenzel
+----------------
+Johann Gottlob Mauersberger
+Karl Emil Schachlitz
+Karl Ernst Schincko
+----------------
+1863
+Heinrich Ernst Richter
+Johann Gottfried Traugott Männchen
+Karl Gottlieb Gäbler
+Karl Gottlieb Kempe
+----------------
+Eugen Rudolph Kabisch
+Friedrich Wilhelm Grumbd
+Julius Emulius Zimmermann
+----------------
+Karl August Ferdinand Löwe
+Johann Karl Gottfried Bellmann
+Karl Moritz Bieber
+----------------
+August Friedrich Neubert
+1864
+Johann Gottlob Bernhardt
+Karl Gotthelf Zirnstein
+----------------
+Karl Heinrich Heinzmann
+Johann Friedrich Ernst Lorenz
+Karl Friedrich August Stephan
+Heinrich Traugott Ehrt
+----------------
+Johann Gottfried Walther
+Friedrich Traugott Rabe
+1865
+Karl August Ernst
+----------------
+Ehregott Wilhelm Stenzel
+Hector Gustav Adolph Matthaei
+Friedrich Wilhelm Liebscher
+Johann Gottlob Rüdiger
+----------------
+August Fürchtegott Uhlig
+Ernst August Hermann Korks
+Friedrich August Schubert
+Friedrich August Berger
+----------------
+Johann Christoph Göhler
+Karl Gottlieb Gäbler
+Samuel Gottlieb Richter
+Friedrich August Püschel
+----------------
+Karl Friedrich Meißner
+August Friedrich Herklotz
+Wilhelm Heinrich Göhler
+----------------
+1866
+Karl August Göbel
+Friedrich Ernst Berndt
+Gottlob Friedrich Göhler
+Karl Friedrich Wilhelm August Müller
+----------------
+Karl Ernst Müller
+Friedrich August Klotz
+Karl August Dittrich
+Moritz Otto Pfanne
+----------------
+Karl Hermann Siegert
+Friedrich August Sieg
+Karl Gottlob Friedrich Friebel
+Karl August Friedrich Koitzsch
+----------------
+1867
+Friedrich August Pellmann
+Karl Gottlob Friedrich Hamann
+Karl Hermann Wagner
+Friedrich August Müller
+Friedrich Traugott Zimmermann
+----------------
+August Friedrich Richter
+Karl August Leberecht Holfert
+Karl Emil Gelfert
+Karl Gottlieb Clement
+----------------
+Karl Friedrich Hermann Sommerschuh
+Friedrich August Grumpelt
+1868
+Friedrich Ehrenreich Sommerschuh
+----------------
+Karl Friedrich Ferdinand Walther
+Friedrich August Scharfe
+Johann Karl Ernst Michael
+Friedrich Wilhelm Mehlhorn
+----------------
+Karl Heinrich Schramm
+Christian Friedrich Schramm
+----------------
+1869
+Heinrich Herrmann Fuchs
+Karl Gottlieb Stenzel
+Karl Friedrich Holfert
+Karl Gottlob Nitzsche
+----------------
+Ehregott Friedrich Börner
+Johann Gottlob Gottschalk
+Friedrich Wilhelm Zimmermann
+Karl Ernst Saupe

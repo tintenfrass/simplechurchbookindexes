@@ -1,5 +1,5 @@
 Ruppendorf (Buch 645)
-Trauungen 1812-1859
+Trauungen 1812-1869
 https://www.archion.de/de/viewer/churchRegister/305633?pageId=42973225
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -11,6 +11,7 @@ Oktober 2024
 November 2024
 Februar 2025
 April 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -867,3 +868,204 @@ Carl Gottlob Dietrich
 Carl August Kobrasch
 Carl Gottlieb Kunath
 Carl Heinrich August Junold
+----------------
+1860
+Carl Heinrich Grimmer
+Heinrich Ernst Fleischer
+Johann Friedrich Ernst Grimmer
+Christian Fürchtegott Adam
+Christian Friedrich Immanuel Neumann
+Johann Gottlieb Adam
+Johann Carl Gottlieb Büttner
+----------------
+Carl Heinrich Zimmermann
+Heinrich Ernst Holfert
+Carl Gottlieb Müller
+Ernst Wilhelm Zimmermann
+Karl Friedrich Julius Schubert
+Carl Gotthold Drechsel
+Friedrich Wilhelm Wunderwald
+----------------
+Johann Samuel Gottlieb Lohse
+Heinrich Ernst Hille
+1861
+August Wilhelm Gärtner
+Heinrich Wilhelm Schillhahn
+Johann Gottlob Bormann
+----------------
+Carl Gottlieb Burkhardt
+Carl Friedrich Wolf
+Friedrich Ernst Näcke
+Friedrich Ferdinand Holfert
+Immanuel Gottlieb Lohse
+Gustav Leberecht Holfert
+Heinrich Wilhelm Holfert
+Carl Gottlieb Renner
+----------------
+Friedrich Gattbriel Gottlob Klinkicht
+Carl Traugott Ernst Böhme
+1862
+Carl Ernst Weinhold
+Heinrich Reinhard Kummer
+Johann Heinrich Ehregott Burckhardt
+Ernst Ferdinand Büttner
+----------------
+Carl Christian Gotthold Kapphahn
+Ernst Leberecht Holfert
+Gottlieb Wilhelm Göbel
+Carl Gottlob Baumgart
+Carl Ferdinand Winnerling
+----------------
+Friedrich Wilhelm Holfert
+Carl Heinrich Moritz Richter
+Carl Gottlob Schröter
+Friedrich Wilhelm Krumbholz
+Gottlieb Heinrich Neubert
+----------------
+Friedrich August Neubert
+1863
+Carl Gottlieb Büttner
+Heinrich Ferdinand Holfert
+----------------
+Heinrich Ernst Richter
+Friedrich Wilhelm Wunderwald
+Gottfried Leberecht Holfert
+Carl Gottlieb Wunderwald
+Carl Moritz Göbel
+----------------
+Johann Friedrich Beyer
+Heinrich Wilhelm Bernhardt
+Friedrich Wilhelm Lieber
+Carl Friedrich Mende
+Carl Friedrich Näser
+Carl Heinrich Geißler
+----------------
+Carl Friedrich Holfert
+1864
+Karl Friedrich Neubert
+Friedrich Wilhelm Voigt
+Carl Friedrich Holfert
+----------------
+Friedrich Traugott Helbig
+Ernst Leberecht Kohbach
+Gustav Hermann Roßburg
+Carl Friedrich Wintrich
+Friedrich August Fuchs
+Friedrich Gustav Flathe
+----------------
+Wilhelm Benjamin Fuchs
+Friedrich Wilhelm Dietrich
+Gotthelf Ehregott Schumann
+Gottlieb Leberecht Schelle
+Gustav Heinrich Kummer
+Heinrich Wilhelm Panzer
+----------------
+Friedrich Ernst Böhme
+August Friedrich Wilhelm Liebschner
+1865
+Friedrich August Kümmler
+Carl Heinrich Neubert
+----------------
+Gottlieb Heinrich Ziegenhorn
+Carl Gottfried Dietrich
+Ehrenfried Leberecht Legler
+August Fürchtegott Uhlig
+Heinrich Leberecht Zimmermann
+Friedrich Wilhelm Sandig
+Ernst Moritz Zimmermann
+----------------
+Gottlob Ferdinand Göbel
+August Wilhelm Göhler
+Friedrich Clemens Zimmermann
+Gustav Wilhelm Grahl
+Samuel Gottlieb Richter
+Carl Friedrich Roßburg
+----------------
+1866
+Carl Gottlob Haschke
+Gottlieb Leberecht Zimmermann
+Heinrich Fürchtegott Schneider
+Friedrich Ernst Zimmermann
+Friedrich Hermann Kirchner
+Carl Wilhelm Göhler
+Carl Wilhelm Bormann
+----------------
+Carl August Jäppelt
+Carl Ernst Roßburg
+Friedrich August Kegel
+Gustav Adolph Jentzsch
+Friedrich Benjamin Neubert
+Friedrich Wilhelm Müller
+----------------
+Johann David Händel
+Friedrich Heinrich Richter
+Friedrich Hermann Lieber
+Carl Gottlob Pfeifer
+----------------
+1867
+Friedrich Wilhelm Walther
+Carl Heinrich Göhler
+Johann Daniel Schmieder
+Friedrich Wilhelm Richter
+Anton Traugott Leberecht Berthold
+Carl Ferdinand Grimmer
+Carl Gottlieb Heinrich Panzer
+----------------
+Friedrich Hermann Neubert
+Carl Gottlieb Schuster
+Heinrich August Müller
+Carl Friedrich Schmidt
+Heinrich Wilhelm Schneider
+Friedrich Hermann Hofmann
+Carl Adolph Walther
+Johann Gottlob Ernst Göpfert
+----------------
+Carl August Wiesner
+1868
+Heinrich Ernst Richter
+Carl Gustav Junke
+Carl Friedrich Wilhelm Hofmann
+Carl Friedrich Wilhelm Fischer
+----------------
+Johann Carl Eduard Hetzel
+Friedrich Herman Braune
+Carl Heinrich Lieber
+Carl Gustav Richter
+Friedrich Wilhelm Klinkicht
+Carl Heinrich Baumgart
+Gottlob Adolph Böhme
+Carl Gustav Menzer
+----------------
+Carl Friedrich Winkler
+Ernst Hermann Bormann
+Carl Gottlob Baumgart
+Friedrich Wilhelm Zimmermann
+Friedrich August Lohse
+Gottlieb Gustav Ernst Müller
+Carl Heinrich Holfert
+Johann Liebich
+Heinrich Gustav Wenzel
+----------------
+Gustav Robert Wehnert
+Heinrich August Kaden
+Friedrich Hermann Neubert
+Carl Gottlieb Richter
+Carl Gottfried Kästner
+1869
+Ernst Moritz Zimmermann
+----------------
+August Ferdinand Weinhold
+Carl Friedrich Zimmermann
+Heinrich Wilhelm Lieber
+Ernst Hermann Böhme
+Hermann Friedrich Zimmermann
+Carl Gustav Geißler
+Carl Friedrich Clausnitzer
+Hermann Gottlieb Bormann
+Hermann Friebel
+----------------
+Carl Traugott Käsemodel
+Carl Heinrich Baumgart
+Carl Friedrich Göhler
+Carl Friedrich Eduard Berndt
+Carl Ernst Holfert
