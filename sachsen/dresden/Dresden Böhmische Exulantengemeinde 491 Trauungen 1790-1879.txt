@@ -1,9 +1,11 @@
 Dresden Böhmische Exulantengemeinde (Buch 491)
-Trauungen 1801-1869
+Trauungen 1790-1879
 https://www.archion.de/de/viewer/churchRegister/264671?pageId=36998576
 
-
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
+Unvollständig Erfasst, Trauungen 1684-1789 siehe Buch 490.
+
+
 April 2024
 Juli 2024
 September 2024
@@ -11,15 +13,44 @@ Oktober 2024
 Januar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
----------------- x33
+---------------- x32
+1790
+Georg Friedrich Höfig
+Gottlob Leberecht Kaneck
+1791
+Johann Simon Simsen
+1792
+Joseph Gabryel
+Jan Lewy
+1793
+Johann Heinrich Gottlob Heusinger
+1795
+Jan Martin Heniß
+Christian Friedrich Wilhelm Viedt
+Carl Friedrich Löwe
+1796
+Johann Christian Sännger
+1797
+Paulus Baschtar
+----------------
+Jan Christian Hule
+Johann Matthias Stanek
+Traugott Leberecht Schmidt
+Jan Traugott Müller
+1799
+Johann Ludwig Klengel
+Johann August MarksTucek
+Wenzel Horak
+Johann Gotthelf Schilf
 1801
 Johann Ludwig Klengel
 Johann Jacob Felix
-Mattheus Cerny
+Mateg Cerny
 1803
 Johann Christian Kästner
 ----------------
@@ -208,3 +239,94 @@ Friedrich Gustav Traugott Tetzner
 Friedrich August Schmidt
 ----------------
 August Robert Schumann
+1870
+August Eduard Barthel
+1871
+Johann Friedrich Karl Richter
+Johann Friedrich Oswald Guhr
+----------------
+Carl Alfred Immanuel Krümmer
+----------------
+Johann Friedrich Karl Richter
+Johann Friedrich Oswald Guhr
+Carl Alfred Immanuel Krümmer
+Johann Ernst Eduard Kluge
+----------------
+1872
+Johann Paul Barthel
+Johann Friedrich Adolf Bischoff
+Johann Julius Moritz Vater
+1873
+Heinrich Baum
+Emil Richard Lange
+----------------
+1874
+Friedrich August Gustav Bischoff
+Gustav Moritz Jacob
+Max Preiß
+1875
+Johann Gotthelf Mai
+Gustav Gotthold Teetz
+Wilhelm Hugo Krüger
+----------------
+Albert Moritz Scheibe
+1876
+Friedrich Alexander Beckert
+Moritz Gustav Albert Wiese
+1877
+Friedrich Wilhelm Wächter
+Ludwig Conrad Seidel
+Paul Robert Ritter
+----------------
+1878
+Eduard Bernhard Richter
+1879
+Ernst Wilhelm Queißer
+Hermann Wilhelm Louis Porscharsky
+----------------
+1793
+Gottlob Benjamin Felix
+1795
+Friedrich August Opitz
+Wenzel Taddeus Taekowsky
+1864
+Johann Friedrich Schindler
+Johann Wilhelm Gustav Barthel
+----------------
+1865
+Benjamin Martin Poscharsky
+1866
+Ernst Wilhelm Simmgen
+1867
+1868
+Friedrich Gustav Scheibe
+1869
+1870
+Heinrich Moritz Hennisch
+August Eduard Barthel //durchgestrichen
+Heinrich Theodor Oskar Barthel
+----------------
+Ernst Robert Julius Scheibe
+Johann Karl Friedrich Richter //durchgestrichen
+1871
+1872
+Johann Friedrich Adolf Bischoff //durchgestrichen
+1873
+Emil Woldemar Barthel
+----------------
+1874
+Carl Friedrich Bernhard Scheibe
+Karl Ernst Gabriel
+Alexander Karl Edmund Marquart
+August Richard Barthel
+Oswald Gustav Adolf Barthel
+Carl Heinrich Hennisch
+----------------
+1875
+Wilhelm Richard Barthel
+Albert Moritz Scheibe
+1876
+Gotthelf Adolf Kummer
+1877
+1878
+1879

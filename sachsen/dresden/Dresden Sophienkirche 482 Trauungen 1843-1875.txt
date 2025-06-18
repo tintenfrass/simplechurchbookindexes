@@ -1,5 +1,5 @@
 Dresden Sophienkirche (Buch 482)
-Trauungen 1843-1869
+Trauungen 1843-1875
 https://www.archion.de/de/viewer/churchRegister/280097?pageId=38534791
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Januar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -705,3 +706,169 @@ Carl Theodor Leyn
 Carl Friedrich Franz Fritsche
 Moritz Voigt
 Johann Friedrich Donner
+----------------
+1870
+Carl Arno Domsch
+Ludwig Julius Thiele
+Heinrich Reinhold Arno Metzsch
+Ernst Bruno Seyde
+Max Otto Hoffmann
+Hermann Oskar Haase
+----------------
+Georg Friedrich Julius Carl Malortie
+Christoph Friedrich Paul Koch
+Franz Heinrich Poncel
+Carl Johannes Hopffgarten
+----------------
+Christian Friedrich Moritz Hübner
+Carl Friedrich Theodor Langer
+----------------
+1871
+Eduard Flemming
+Caspar Carl Adolph Krompholz
+Johann Wilhelm Beck
+Georg Cölestin Pötzsch
+Paul Eugen Wilsdorf
+----------------
+Johann Edmund Alex
+Anton Julius Wickede
+Wilhelm Georg Gründorf
+Carl Gottlieb Lange
+Carl Emminghardt Schmalz
+----------------
+Joseph August Hallbauer
+Carl Hans Anton Adolf Eduard Wilhelm Hinüber
+Emil Moritz Braeter
+Hermann Friedrich Thassilo ButtlerBrandenfels
+----------------
+Johann Hugo Theodor Erhardt
+Nicolaus Ludwig Johann Harder
+----------------
+1872
+Carl Erwin Metsch
+Paul Martin Hoffmann
+Heinrich Paul Kretzschmar
+Wilhelm Ludwig Richard Riehl
+Johann Georg Faller
+----------------
+Carl Maximilian Fritzsch
+Bernhard Eduard Haase
+Heinrich Friedrich Eduard Hantzsch
+Carl Friedrich August Maximilian Lüttichau
+Georg Holtzendorff
+----------------
+Christoph Ernst Egidy
+Curt Ludwig Victor Schröter
+Oskar Richard Langbein
+Friedrich August Moritz Merz
+Georg Carl Hermann Crusius
+----------------
+Johann Georg Ponickau
+Oskar Albert Kunert
+Theodor Vogel
+Richard Oskar Ganßauge
+Otto Kreussler
+----------------
+Ernst Emil Oskar Angermann
+Franz Maresch
+Paul Emil Schulz
+Ernst Theodor Friedemann
+Leopold Anton Werner
+----------------
+Carl Gebhard Heinrich Kratz
+Louis Richard Oehme
+Julius Max Winkler
+Friedrich Heinrich Leo Watzdorf
+Richard Hermann Hübner
+----------------
+Friedrich Haans Criegern
+Maximilian Franz Adolph Trützschler
+Hermann Julius Ludwig Wrede
+Hugo Hans Heinrich Helmut Julius Boddien
+----------------
+Carl Julius Dorn
+Rudolph Hauffe
+Ernst Friedrich Heinrich Randow
+Alonso Manuel Schmidt
+Carl Adolph Philipp Heide
+----------------
+Georg Maximilian Hopffgarten
+----------------
+1873
+Friedrich Gustav Ferdinand Engert
+Friedrich Franz Carl Hermann Schubert
+Friedrich Wilhelm Oppel
+Ernst Oskar Kaeuffer
+Johann Leopold Just
+----------------
+August Heinrich Huet
+Friedrich Oskar Hustig
+August Carl Ernst Friedrich Ekensteen
+Eduard Wilhelm Wimmer
+Friedrich Johann Baptist Rottenstein
+----------------
+Carl Friedrich Sophus Lorck
+Curt Robert Klette
+Benno Gutbier
+Hermann Julius Phlipp Schwarz
+Lothar Schilling
+----------------
+Hans Heinrich Benno Rechenberg
+Johann Friedrich Jencke
+Paul Alphons Karl Ropp
+Ernst Hermann Zscharnack
+Wilhelm Rudolph RonowBiberstein
+----------------
+Eduard Emil Bierling
+Friedrich August Rupprecht
+Ferdinand Max Rüling
+----------------
+1874
+Adam Magendi Richard Meng
+Ludwig Heinrich Friedrich Caro
+Alfred Georg SahrerSahr
+Heinrich Anton Bach
+----------------
+Ludwig Jacob Bodemer
+Friedrich Max Töpolt
+Ernst Christian Johann Rittscher
+Adolph Otto Lempe
+----------------
+Richard Caspari
+Johann Theodor Rathgens
+Gasso Werner Schulenburg
+Friedrich Reinhold Portzig
+----------------
+Johannes Otto Philipp
+Eduard William Diller
+Georg Eduard Ehregott Fleck
+Friedrich Wilhelm Arthur Oscar Pasch
+----------------
+Gustav Jacob Morgenstern
+Johann Friedrich Theodor Reiber
+Ernst Otto Klenck
+Seba Carl Benedix Claus Plate
+----------------
+Karl Wilhelm Georg Louis Ferdinand Eduard Salisch
+1875
+Werner Curt Arthur Elmar Osten
+Paul Albert Schmidt
+Rudolph Henry Moore
+----------------
+August Wilhelm Müller
+Louis Edgar SalisSoglio
+Adolph Edgar Neuhof
+Adolph Heinrich Gustav Loßow
+----------------
+Carl Gustav Watzdorf
+Carl Wilhelm Westerkamp
+Werner Christoph Reitzenstein
+Hermann Robert Krahnefeld
+----------------
+Hermann Friedrich Schneider
+Moritz Schneider
+Otto Heinrich Wagner
+----------------
+Friedrich Sigismund Benno Hartitzsch
+Nickolas Carl Heyking
+Hermann Adolf Theodor Stengel
