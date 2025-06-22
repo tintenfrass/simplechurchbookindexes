@@ -1,12 +1,12 @@
 Kleinwolmsdorf (Buch 165)
-Trauungen 1770-1869
+Trauungen 1770-1886
 https://www.archion.de/de/viewer/churchRegister/264497?pageId=36954139
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stunden
+Erstellt in ca. 2 Stunden
 September 2023
 April 2024
 Juli 2024
@@ -15,6 +15,7 @@ Oktober 2024
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -888,3 +889,170 @@ Julius Theodor Werner
 ----------------
 Johann August Große
 Friedrich Wilhelm Schöne
+1870
+Johann Carl August Leunert
+Friedrich August Schöne
+Friedrich Wilhelm Leunert
+----------------
+Wilhelm Heinrich Kirschner
+Friedrich Ernst Rosenkranz
+Carl Julius Müller
+Hermann Wilhelm Weber
+Julius Leunert
+Heinrich Ernst Thomas
+----------------
+1871
+Ernst Leberecht Schrödter
+Johann Friedrich August Philipp
+Friedrich Wilhelm Klahre
+Heinrich Hermann Börner
+Gustav Adolph Brückner
+Carl Gottfried Grossmann
+----------------
+August Wilhelm Feller
+1872
+Wilhelm Moritz Marschner
+Friedrich Ernst Lange
+Carl Heinrich Weissig
+Carl Moritz Hofmann
+----------------
+Friedrich Gustav Philipp
+Gustav Edmund Häse
+Hermann Wilhelm Weber
+Ernst Gustav Großmann
+Carl August Uhlig
+Carl August Peuker
+Carl August Fasold
+----------------
+Friedrich Wilhelm Mittag
+Ernst Gottlieb Philipp
+1873
+Johann Friedrich Ernst Feller
+Leberecht Forke
+Friedrich Wilhelm August Weber
+Friedrich Wilhelm Richter
+----------------
+Carl August Gabler
+Friedrich August Jacob
+Ernst Theodor Weber
+August Wilhelm Frömmel
+Friedrich Moritz Karisch
+----------------
+1874
+Carl Friedrich Ernst Hartmann
+Carl Heinrich Böhme
+Ernst Emil Hering
+Carl Friedrich August Richter
+Friedrich Moritz Weber
+Wilhelm Breiting
+----------------
+Friedrich August Mittag
+Carl Friedrich Kurth
+Johann Zimmet
+1875
+Johann Zimmet
+Friedrich Wilhelm Müller
+Robert August Leuthold
+----------------
+Wilhelm Leberecht Missbach
+Friedrich Eduard Pabst
+Carl Traugott Mittag
+Gottfried Leberecht Mai
+Gustav Adolph Richter
+Ernst Gottlob Schertz
+----------------
+Friedrich August Leunert
+Carl Reinhold Ferdinand Petzold
+Friedrich Wilhelm Peucker
+Ferdinand Hermann Mittag
+----------------
+1876
+Karl Emil Berndt
+Ernst Wilhelm Schmeiß
+Carl August Mai
+August Ferdinand Mittag
+Julius Hermann Wagner
+1877
+Karl August Philipp
+Ernst Wilhelm Richter
+----------------
+1878
+Carl Gotthelf Leuner
+Ernst Albert Mildner
+August Wilhelm Frömmel
+Carl August Feller
+Ernst Louis Böhmig
+Johann Friedrich Wilhelm Eisold
+Ernst Hermann Hartmann
+Ernst Wilhelm Hantsche
+----------------
+1879
+Friedrich Ernst Beier
+Karl August Feller
+Friedrich Wilhelm Möhler
+1880
+Friedrich Ernst Fasold
+Friedrich Traugott Steinigen
+----------------
+Friedrich August Frömmel
+Gustav Adolph Großer
+Joseph Wurm
+Heinrich Ernst Leunert
+Julius Hermann Gebauer
+----------------
+1881
+Friedrich Julius Sahlbach
+Friedrich Ernst Fasold
+August Emund Lilze
+Gustav Adolph Weber
+Robert Bernhard Daubel
+Gotthelf Köhler
+Karl August Gröber
+----------------
+1882
+Friedrich Wilhelm Schossig
+Ernst Eduard Löhnel
+Wilhelm Emil Burckhardt
+Ernst Moritz Richter
+Ernst Moritz Klahne
+Wilhelm Menzel
+Ernst Julius Zimermann
+----------------
+Carl August König
+Friedrich Wilhelm Kurth
+Ernst Emil Rentsch
+Friedrich August Pilz
+1883
+Friedrich Adolph Lindner
+Friedrich Adolf Kleinstück
+----------------
+Curt Hermann Sonntag
+Curt König
+Friedrich Gustav Opitz
+Gotthelf Adolph Lorenz
+Friedrich August Hübner
+Gustav Emil Schütze
+----------------
+Gustav Richard Hämpel
+Johann August Kieschnick
+1884
+Ernst Emil Roch
+Ernst Moritz Gröber
+Friedrich Wilhelm Hantzsche
+Karl August Hennig
+----------------
+Ernst Moritz Kirchner
+Ernst Emil Rentsch
+Karl Emil Säuberlich
+Friedrich Gotthardt Klahre
+Carl Traugott Kind
+Friedrich Gustav Bürger
+Emil Richard Weber
+----------------
+Friedrich Hermann Fasold
+Friedrich Adolph Gebauer
+Karl August Helass
+Karl Gustav Karisch
+1886
+Johann Georg Heinrich Dohnke
+Heinrich Bernhard Pietsch

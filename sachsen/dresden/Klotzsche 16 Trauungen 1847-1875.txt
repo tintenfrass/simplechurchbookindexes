@@ -1,5 +1,5 @@
 Klotzsche (Buch 16)
-Trauungen 1847-1869
+Trauungen 1847-1875
 https://www.archion.de/de/viewer/churchRegister/279935?pageId=38497573
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -281,3 +282,103 @@ Carl Friedrich August Gärtner
 Gottlieb Karl Strauß
 Karl Gottfried Pohle
 Heinrich Eduard Möbius
+1870
+Karl Friedrich Großmann
+Friedrich August Moritz Berlin
+Ernst Julius Bergmann
+----------------
+Friedrich August Hofmann
+Friedrich Eduard Heinisch
+Johann Friedrich Pählig
+Hermann Rudolph Fritzsche
+----------------
+1871
+Karl August Fissel
+Karl Ernst Kuntzsch
+Johann Wilhelm Klostermann
+Moritz Gustav Adolph Mißbach
+Karl Friedrich Kuntzsch
+----------------
+Eduard Hermann Schmidt
+Ferdinand August Eduard Brett
+Karl Gustav Wilhelm Heschel
+Friedrich August Weeser
+Karl Ernst Böhme
+Friedrich August Bärwald
+----------------
+Friedrich August Görner
+Karl Friedrich Türke
+1872
+Karl Gottlieb Huntzsch
+Karl Traugott Heichen
+----------------
+Friedrich Traugott Becker
+Johann Friedrich Wilhelm Richter
+Karl August Zimmermann
+Traugott Heinrich Jakob
+Karl Gottlieb Ernst Grafe
+----------------
+Johann Traugott Dreßler
+Ernst Gotthelf Naumann
+Ferdinand August Eduard Brett
+Karl Gustav Heinrich Pohle
+Karl Hermann Schäfer
+Friedrich August Klotsche
+----------------
+1873
+Friedrich August Kuntzsch
+Johann Friedrich August Weber
+Robert Gustav Adolph Thormayer
+Ernst Wilhelm König
+Karl Gottlob Kuntzsch
+----------------
+Karl Friedrich Türke
+Karl Emil Jordan
+Friedrich August Hennig
+Karl Friedrich Heichen
+Friedrich Gotthelf Moritz Blütchen
+Karl Gottlieb Proschmann
+----------------
+Karl Friedrich Kuntsch
+Julius Heinrich Dankegott Mißbach
+Johann Gottlieb Schütze
+Heinrich Eduard Wehnert
+Johann Gottfried Umlauft
+Karl Friedrich August Reinfeld
+----------------
+Karl Ernst Meißner
+Karl Gottlob Thalheim
+1874
+Ernst Heinrich Goldberg
+Johann Gottfried Hallner
+Karl Gottlob Lesche
+----------------
+Ernst Wilhelm Wolf
+Karl Julius Rehle
+Friedrich Gottlob Großmann
+Karl Traugott Max Enderlein
+Karl Albin Hübler
+August Bernhard Ringel
+----------------
+Karl Gottlieb Zeichner
+Ernst Eduard Kluge
+Friedrich Hermann Meißner
+Friedrich Ernst Louis Pönitz
+----------------
+1875
+Moritz Robert Richter
+Johann Wilhelm Schäfer
+Johann Traugott Kunath
+Gottfried Gotthold Partsch
+Johann Georg Ernst Kuntzsch
+Johann Karl Gottfried Dommitzsch
+----------------
+Karl Eduard Fiedler
+Friedrich Wilhelm Müller
+Friedrich Robert Krenkel
+Heinrich Ernst Thalheim
+Friedrich August Gommlich
+Heinrich Gustav Kunath
+Friedrich Traugott Claus
+----------------
+Gustav Adolph Geißler

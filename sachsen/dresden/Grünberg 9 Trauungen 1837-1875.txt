@@ -1,5 +1,5 @@
 Grünberg (Buch 9)
-Trauungen 1837-1869
+Trauungen 1837-1875
 https://www.archion.de/de/viewer/churchRegister/279928?pageId=38496894
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Oktober 2024
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -293,3 +294,55 @@ Carl Wilhelm Wagner
 Gotthelf August Tamme
 Friedrich Ernst Strauss
 Johann Carl Steglich
+----------------
+1870
+Eduard Ferdinand Rauchfuß
+Johann Gottfried Grafe
+Carl Clemens Liebscher
+Carl Gottlob Curth
+----------------
+1871
+Friedrich Carl Wendt
+Johann Friedrich Wilhelm Walther
+Johann Gottlob Herrich
+----------------
+1872
+Friedrich Traugott Stein
+Gustav Hermann Schöne
+Johann Traugott Samuel Tamm
+Ernst Emil Krahbs
+Carl Gottlob Schüze
+Heinrich Wilhelm Müller
+----------------
+1873
+Ludwig Theodor Weber
+Carl Gotthelf Kunert
+Fürchtegott Leberecht Söhnel
+Ernst Julius Hänsel
+Carl August Lehmann
+1874
+August Hermann Wetzold
+----------------
+Carl Gottlob Lesche
+Carl Eduard Trenisch?
+Friedrich August Ernst Jahn
+Friedrich August Schichholz
+Johann Gotthold Großmann
+Georg Groba
+Friedrich Wilhelm Freund
+----------------
+Ernst Heinrich Dietze
+1875
+Johann Carl Gottfried Menzel
+Carl Traugott Lohrmann
+Ernst Heinrich Trepte
+Friedrich Traugott Loßmann
+Friedrich August Hempel
+----------------
+Carl Heinrich Pötzsch
+Johann Gotthelf Mertink
+Carl Adolf Knöschke
+August Wilhelm Schröder
+Friedrich August Thieme
+Carl Trepte
+Carl Gotthelf Kretzschmar

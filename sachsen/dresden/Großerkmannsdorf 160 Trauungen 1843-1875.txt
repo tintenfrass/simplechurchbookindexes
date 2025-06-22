@@ -1,5 +1,5 @@
 Großerkmannsdorf (Buch 160)
-Trauungen 1843-1869
+Trauungen 1843-1875
 https://www.archion.de/de/viewer/churchRegister/280080?pageId=38530570
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -424,3 +425,91 @@ Johann Christoph Mai
 ----------------
 Gottfried Leberecht Mai
 Ernst Moritz Henker
+----------------
+1870
+Carl Friedrich Michel
+Carl August Müller
+Carl August Henker
+Carl Friedrich Wilhelm Müller
+----------------
+August Leberecht Gebauer
+Florens Hermann Leo
+Ernst Moritz Gräfe
+----------------
+1871
+Friedrich Wilhelm Klahre
+Carl August Näther
+Carl Opitz
+Friedrich August Schröder
+----------------
+1872
+Julius Ziesche
+Ernst Moritz Wilhelm
+Carl August Rentsch
+Gustav Leberecht Müller
+----------------
+Friedrich Gustav Blochwitz
+Carl Friedrich Jentzsch
+Karl August Peuker
+Traugott Heinrich Göbel
+----------------
+Anton Schmutzer
+----------------
+1873
+Friedrich Gottlieb Walther
+Leberecht Focke
+Karl August Naumann
+Ernst Heinrich Knöfel
+----------------
+Ernst August Hennig
+Friedrich Wilhelm August Weber
+Karl August Körnert
+Carl Richard Forkel
+----------------
+Emil Robert Müller
+Ernst Friedrich Henker
+Friedrich Wilhelm Lehnert
+Johann Gottfried Klengel
+----------------
+August Gustav Müller
+Friedrich Moritz Schütze
+Florens Hermann Leo
+Friedrich Moritz Karisch
+----------------
+Friedrich Wilhelm Gärtner
+Friedrich August Hempel
+----------------
+1874
+Friedrich August Angermann
+Carl August Angermann
+Carl August Leuner
+Friedrich Julius Kissig
+Friedrich August Schröder
+----------------
+Friedrich August Böhme
+Karl Friedrich Ernst Medger
+Johann Karl Gottlieb Köckritz
+Karl Leberecht Müller
+Karl August Ferdinand Schmidt
+----------------
+Wilhelm Ferdinand Müller
+Johann Christian Opitz
+Karl Ernst Kind
+Karl August Janke
+----------------
+Friedrich Wilhelm Naumann
+Heinrich Ernst Focke
+----------------
+1875
+Gottlieb August Pohle
+Karl Gottlieb Henker
+Traugott Leberecht Hilme
+Johann Carl August Lehnert
+----------------
+Emil Robert Schmidt
+Karl Wilhelm Eisold
+Gottfried Leberecht Mai
+Karl August Henker
+----------------
+Johann Michael Zobel
+Carl Heinrich Jähnichen

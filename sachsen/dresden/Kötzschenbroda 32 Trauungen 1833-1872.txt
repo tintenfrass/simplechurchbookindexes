@@ -1,5 +1,5 @@
 Kötzschenbroda (Buch 32)
-Trauungen 1833-1869
+Trauungen 1833-1872
 https://www.archion.de/de/viewer/churchRegister/279951?pageId=38502676
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ Oktober 2024
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -2349,3 +2350,241 @@ Heinrich August Thieme
 Johann Eduard Schirmer
 ----------------
 Wilhelm Robert Geissler
+1870
+Heinrich Louis Philipp
+Friedrich August Rotzsch
+Karl Heinrich Hartung
+Carl Gottlob Streubel
+----------------
+Johann Friedrich Wilhelm Gaitzsch
+Friedrich Wilhelm Sachse
+Georg Bartelk
+Ernst Eduard Hachenberger
+Johann Gottlob Trache
+Franz Eduard Lützner
+Karl Friedrich Adolph Rotzsche
+----------------
+Johann Traugott Grosse
+Benjamin Fürchtegott Mohn
+Karl August Wagenzink
+Friedrich August Brugger
+Friedrich David Vetters
+August Heinrich Hultsch
+Friedrich Gottfried Ulbrig
+----------------
+Friedrich Wilhelm Tannert
+Friedrich August Luther
+Johann Friedrich Wilhelm Schlick
+Karl Wilhelm Emil Hübenreuter
+Johann August Wagner
+August Hermann Klemm
+Friedrich August Zeh
+----------------
+Robert Hermann Hörig
+Heinrich Reinhold Arno Metzsch
+Robert Bucholt
+Friedrich Traugott Lotter
+Karl Traugott Gautzsch
+Oskar Brösel
+Friedrich August Otto Geneuß
+----------------
+Leonhard Aurich
+Karl Friedrich Schütze
+August Karl Donat
+Karl Traugott Förster
+Guido Eduard Bärwaldt
+Heinrich Richard Müller
+Carl Gottlob Petzold
+----------------
+Gottfried August Ziller
+Karl Wilhelm Starke
+Karl August Trepte
+Carl Gottlieb Gladewitz
+Julius Gottfried Ludwig Möller
+Johann Traugott Frost
+Karl Traugott Richter
+----------------
+August Hermann Philipp
+Friedrich Wilhelm Haak
+Karl Gottlob Graupner
+Johann Gottfried Eger
+Karl Heinrich Hasse
+Karl Gottlob Klemm
+Karl Traugott Grosse
+----------------
+Karl Friedrich Reiche
+Friedrich Wilhelm Herbig
+Johann August Backofen
+Johann Karl Gottlob Franz
+Ernst Wilhelm Zschaber
+Christoph Heinrich Lehmann
+Georg Materny
+----------------
+Friedrich August Meissner
+Richard Paul Kuhnert
+Karl Friedrich Christian Pohlmann
+Karl Friedrich August Gierth
+Anton Mansurt Wolf
+----------------
+1871
+Friedrich Julius Paul Seyffert
+Ernst Wilhelm Naumann
+Friedrich Wilhelm Ulbrich
+Karl Ernst Beyer
+Friedrich August Hofmann
+Wilhelm Ernst Mitscherling
+----------------
+Victor Hugo Schubert
+Ernst Wilhelm Hofmann
+Johann August Lehmann
+Rudolph Bernhard Albert Pröwig
+Louis Hermann Richter
+Wilhelm Adolph Günther
+----------------
+Friedrich Wilhelm Brändel
+Carl F? Pietsch
+Rudolph Emil Setlow
+Wilhelm Eduard Häbold
+Friedrich August Thiele
+Karl Gottlieb Schütze
+----------------
+Karl Adolph Proschmann
+Johann Gotthelf Trache
+Richard Ottomar Göttling
+Friedrich August Gladewitz
+Gustav Heinrich Ulbrich
+Friedrich August König
+Friedrich Voith
+----------------
+Heinrich Ernst Findeisen
+Wilhelm Ernst Springer
+Wilhelm August Lehmann
+Karl August Hase
+Karl Gustav Kretzschmar
+Heinrich Theodor Hempel
+----------------
+Ernst Moritz Theodor Bartusch
+Karl Wilhelm Mischner
+Karl August Schirmer
+Karl Friedrich Ernst Feller
+Ernst Hermann Grötzsch
+Friedrich Traugott Schliesser
+----------------
+Johann Friedrich Bahrmann
+Friedrich August Nitschke
+Karl Wilhelm Proschmann
+Gustav August Luther
+Karl Gottlob Peschel
+Ernst Heinrich Eilenberg
+----------------
+Heinrich Theodor Johne
+Heinrich Julius Engelmann
+Friedrich Traugott Klotzsche
+Hermann Bruno Gottleuber
+Ernst Hermann Gladewitz
+Friedrich Wilhelm Keil
+----------------
+Heinrich Eduard Jakob
+Emil Bernhard Rüdiger
+Karl Gustav Schramm
+Gustav Adolph Berge
+Karl August Hofmann
+Heinrich Eduard Thienemann
+Heinrich Wilhelm Adam
+----------------
+Friedrich Julius Schiertz
+Friedrich Wilhelm Jungnickel
+Karl Heinrich Hermann Berger
+Heinrich Moritz Pöhnitzsch
+Hubert Dung
+Friedrich August Moritz Wolf
+Emil Moritz Krieger
+----------------
+Ernst Traugott Wirthgen
+Friedrich Gustav Dörschel
+Friedrich Wilhelm Müller
+1872
+Karl Traugott Schlenkrich
+Johann August Franz Vetterling
+Karl Hugo Braun
+----------------
+Johann Heinrich Krusche
+Robert Anton Friedrich
+Gustav Adolph Thiele
+Ernst Moritz Barth
+Ernst Theodor Pötzsch
+Friedrich Moritz Dietrich
+Johann Gottlob Schulze
+----------------
+Heinrich Theodor Hempel
+Johann Friedrich Trache
+Ernst Robert Papperitz
+Ernst Heinrich Fabian
+Julius Moritz Fritzsche
+Gustav Adolph Mothes
+Julius Hermann Kutscher
+----------------
+Friedrich David Loose
+Anton Uhlig
+Friedrich Ernst Proschmann
+Karl Ernst Möbius
+Johann Gottfried Weiske
+Ernst Hermann Hering
+Johann Paul Schwedler
+----------------
+Julius Kohl
+Robert Richard Gehrisch
+Maximilian Julius Franz
+Friedrich August Bruno Geneuß
+August Hermann Krause
+Alwin Emil Knoch
+----------------
+Friedrich Ernst Meissner
+Karl Traugott Trache
+Moritz Michael Pohl
+Johann Heinrich David Golles
+Karl Gustav Lehmann
+Julius Albert Ehrlich
+Andreas Lehmann
+----------------
+Johann Wilhelm Schier
+Ernst Heinrich Lehmann
+Karl August Thomas
+Friedrich August Türke
+Robert Förster
+Friedrich Oswald Trobisch
+----------------
+Friedrich August Klotz
+Friedrich Adolph Trache
+Friedrich Wilhelm Werner
+Ernst Julius Renger
+Karl Wilhelm Müller
+Karl Gottfried Förster
+----------------
+Friedrich Wilhelm Zschäpitz
+Gotthelf Heinrich Schramm
+Karl Traugott Grafe
+Johann August Moritz Creutz
+Karl Gustav Vogel
+Johann Gottfried Hering
+----------------
+Gotthelf Hermann Lehmann
+Friedrich Heinrich Münch
+Karl Gustav Gierisch
+Friedrich Ernst Kiessling
+Friedrich Daniel Gottreich Woogk
+Karl August Weber
+----------------
+Adolph Reinhard Rabenhorst
+Gottfried Heinrich Proschmann
+Friedrich Traugott Schulze
+Benjamin Eduard Hemann Thenius
+Karl Wilhelm Hirsch
+Johann Karl Gottlieb Kirsten
+----------------
+Friedrich Julius Thiele
+Gustav Adolph Beger
+Karl Wilhelm Henke
+Gustav Albert Schreibelmayer
+Gustav Hermann Wagenzink
+Wilhelm Heinrich Geissler
