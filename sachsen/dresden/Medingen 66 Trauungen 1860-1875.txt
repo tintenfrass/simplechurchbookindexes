@@ -1,9 +1,10 @@
 Medingen (Buch 66)
-Trauungen 1860-1869
+Trauungen 1860-1875
 https://www.archion.de/de/viewer/churchRegister/279986?pageId=38508286
 
 
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -121,3 +122,95 @@ Karl Traugott Schmidt
 Karl Wilhelm Wagner
 Karl Gottlieb Kaiser
 Albert Robert Hofmann
+1870
+Carl Wilhelm Rotzsche
+Friedrich August Beier
+Johann Gottlieb Umlauft
+----------------
+Karl Gotthelf Meißner
+Johann Gottlob Eger
+Karl Gottfried Schütze
+Johann Gottfried Micklich
+Johann Gottfried Trepte
+Johann August Morgenstern
+Karl Gottlob Klinger
+----------------
+Karl Gotthelf Zumpe
+Johann Heinrich Klotzsche
+Christian Friedrich Müller
+Karl August Heinrich Kunath
+1871
+Karl Friedrich Ernst Bredack
+----------------
+Johann Carl Gottlieb Anders
+Johann Gotthelf Stange
+Karl Gottfried Kotte
+Friedrich Wilhelm Meißner
+Karl Traugott Beier
+Friedrich August Trepte
+August Hermann Richter
+----------------
+Johann Friedrich Paul Sonntag
+1872
+Karl Gottlieb Mehlig
+Karl Gotthelf Beier
+Johann Gotthelf Werner
+Karl Moritz Fleischer
+----------------
+Ernst Wilhelm Sickert
+Friedrich Ernst Tronicke
+Edwin Albert Berlet
+Johann Karl Steglich
+Johann Traugott Eichhorn
+Friedrich Hermann Wolf
+----------------
+Johann Gotthelf Umlauft
+Gottfried Ernst Trepte
+Johann Karl Traugott Bergmann
+1873
+Johann Gottfried Peschel
+----------------
+Heinrich Julius Ziegenbalg
+Christian August Kirsten
+Gottlob August Pohle
+Karl Gotthelf Kunert
+Gottfried Heinrich Grundmann
+----------------
+Johann Gottlob Stiehler
+Karl Eugen Roßberg
+Friedrich Ernst Lehmann
+Johann Gottlob Weser
+Johann Karl Friedrich Bode
+Karl Friedrich Rumberger
+Johann Gottfried Umlauft
+----------------
+1874
+Friedrich August Großmann
+Karl Wilhelm Meißner
+Karl Friedrich August Pfützner
+Johann Gotthold Großmann
+Heinrich Ferdinand Roch
+Karl Eduard Hoffmann
+----------------
+Karl Friedrich Trepte
+Friedrich August Trepte
+Friedrich Wilhelm Kirste
+----------------
+Karl Friedrich Theodor Kunze
+Friedrich August Stange
+Johann Gottlieb Ziersche
+----------------
+Karl Gustav Koch
+Carl August Dressler
+Johann Gottfried Trepte
+Christian Friedrich Eichhorn
+----------------
+Johann Carl Gottlob Dietze //durchgestrichen
+Carl Wilhelm Stange
+Johann Traugott Kirsten
+Carl Gotthelf Andrich
+----------------
+Carl Gotthelf Umlauft
+Carl Gotthelf Kretzschmar
+Friedrich Wilhelm August Rössler
+Carl Gottlieb Trepte
