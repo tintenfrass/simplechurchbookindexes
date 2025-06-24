@@ -1,5 +1,5 @@
 Schönfeld (Buch 116)
-Trauungen 1857-1869
+Trauungen 1857-1870
 https://www.archion.de/de/viewer/churchRegister/280036?pageId=38522422
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -8,6 +8,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1010,3 +1011,58 @@ Johann Carl Gottlieb Zumpe
 Friedrich August Weidlich
 Gottfried Heinrich Roch
 Ernst Wilhelm Gneuß
+----------------
+1870
+Julius Ferdinand Huhle
+Carl Ernst Grahl
+Friedrich August Schöne
+Wilhelm Robert Löwe
+Carl August Lauterbach
+Heinrich Gustav Köckritz
+Carl August Schöne
+----------------
+Friedrich Wilhelm Böhme
+Johann Gottlieb Gersdorf
+Friedrich Wilhelm Angermann
+Johann Gottlob Traugott Fiedler
+Carl August Huhle
+Carl August Herr
+Johann Carl August Tusche
+----------------
+Carl August Hantzsche
+Paul Bruno Garn
+Friedrich August Hentzschel
+Franz Louis Lohrmann
+Carl Moritz Petzold
+Johann Howack
+Carl Friedrich Wilhelm Meissner
+----------------
+Ernst Wilhelm Ulbricht
+Friedrich Ernst Sahre
+Traugott Wilhelm Richter
+Friedrich August Friebel
+August Eduard Wehner
+Heinrich Adolf Kegel
+Johann Gottlieb Wünsche
+----------------
+Friedrich Wilhelm Mauer
+Johann Friedrich Hempel
+Ernst Julius Schwarzig
+Gustav Zeibig
+Carl August Müller
+Julius Emil Caspar
+Ernst Julius Sobe
+----------------
+Friedrich Wilhelm Roch
+Ernst Wilhelm Leubert
+Friedrich Ernst Huhle
+Ernst Heinrich Pietzsch
+Friedrich Wilhelm Kleine
+Gustav Adolf Furkert
+Friedrich Traugott Reissler
+----------------
+Friedrich Wilhelm Michael
+Carl August Kunath
+Carl August Kegel
+Friedrich Wilhelm Schoene
+Gottlieb Günther

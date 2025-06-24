@@ -548,7 +548,7 @@ Ernst Otto Müller
 Friedrich Heinrich Köckeritz
 Karl Moritz Bergner
 Ernst Emil Blochwitz
-_Karl Heinrich Kirsten
+Karl Heinrich Kirsten
 Johann Friedrich Ernst Schmidt
 Friedrich Ernst Sahe
 ----------------
@@ -563,7 +563,7 @@ Ernst Wilhelm Leubert
 Karl Johann Alexander Humbert
 Heinrich Oswald Rorig
 Heinrich Dittrich
-_Alexander _Gustav Strubell
+Alexander Gustav Strubell
 Guido Weber
 Karl Ernst Kittner
 ----------------
@@ -689,7 +689,7 @@ Johann Traugott Gabler
 Hermann Johann Huhle
 Friedrich Moritz Kegel
 Ernst Hermann Zöllner
-Franz _Hermann Oscar Günther
+Franz Hermann Oscar Günther
 ----------------
 Karl Stärker
 Giorgio Palliassa
@@ -718,14 +718,14 @@ Karl Rother
 Wenzel Stolz
 ----------------
 Carl August Kuhnert
-Friedrich August _Hermann Höhne
+Friedrich August Hermann Höhne
 Friedrich Ernst Lange
 Martin Richter
 ----------------
 Friedrich August Göckritz
 Ernst Hermann Zeibig
 Eduard Heinrich Hofmann
-Richard Friedrich _Ludwig Dieckhoff
+Richard Friedrich Ludwig Dieckhoff
 Ernst Wilhelm Brauer
 ----------------
 Friedrich August Mildner
@@ -744,14 +744,14 @@ Friedrich Ernst Kunze
 Friedrich August Schäfer
 Georg Edmund Mühle
 ----------------
-Karl Friedrich _Louis Wolf
+Karl Friedrich Louis Wolf
 Gustav Adolph Barthel
 Friedrich August Krömer
 Karl Bernhard Sterz
 Karl Gottlob Schneider
 Emil Eduard Liebethal
 ----------------
-Karl August _Ferdinand Krätzsch
+Karl August Ferdinand Krätzsch
 Friedrich Wilhelm Müller
 Maximilian Albert Clausnitzer
 Friedrich Edmund Jeremias
@@ -773,8 +773,8 @@ Gustav Adolph Geisel
 ----------------
 Hermann August Gutte
 Gottlieb Heinrich Pahlitzsch
-Karl _Alexander Kirsten
-_Ferdinand Moßdorf
+Karl Alexander Kirsten
+Ferdinand Moßdorf
 Friedrich August Findeisen
 Karl Ewald Lohse
 Karl Hugo Rendler
@@ -784,7 +784,7 @@ Johann Heinrich Backmann
 Carl August Pieschel
 Friedrich Wilhelm Hartmann
 Johann Gotthelf Mohn
-Friedrich _Ernst Bretschneider
+Friedrich Ernst Bretschneider
 Karl August Müller
 ----------------
 Gustav Adolph Eckhardt

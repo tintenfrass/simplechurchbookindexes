@@ -1,5 +1,5 @@
 Wachau (Buch 199)
-Trauungen 1845-1869
+Trauungen 1845-1875
 https://www.archion.de/de/viewer/churchRegister/264530?pageId=36969948
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -436,3 +437,115 @@ Karl August Ufer
 Johann Christoph Völkel
 Friedrich Ferdinand Hering
 Karl August Müller
+1870
+Gustav Adolf Voigt
+----------------
+Karl August Klengel
+Johann Karl Gottlieb Kaspar
+Gerald Hermann Eras?
+Friedrich Hermann Löwe
+Heinrich Samuel Görner
+Karl August Witschel
+Karl Traugott Angermann
+----------------
+1871
+August Herrmann Wolf
+Karl Julius Salomon Lisold
+Karl August Huste
+Friedrich August Hennig
+Friedrich August Klengel
+Friedrich August Wilhelm Kühne
+----------------
+Friedrich Ernst Görner
+Johann Traugott Krause
+Friedrich August Görner
+Wilhelm Theodor Fischer
+----------------
+Carl August Völkel
+Ernst Wilhelm Zeiler
+Carl Gustav Martin
+Carl Christoph Rosenkranz
+----------------
+1872
+Carl Julius Leuthold
+Carl Friedrich Mißbach
+Johann Gottlob Görner
+Carl Friedrich Ferdinand Körner
+----------------
+Carl Gustav Emil Kloß
+Carl Friedrich Wilhelm Mißbach
+Johann Gottfried Petzold
+Gustav Friedrich Philipp
+Friedrich August Rosenkranz
+Carl August Rosenkranz
+----------------
+Robert Michael Schrödl
+Friedrich August Völkel
+Carl Friedrich Gebauer
+Ernst Ludwig Hölfen
+----------------
+Gustav Adolph Lunze
+Ernst Ferdinand Schulze
+Carl August Zirkel
+Ernst Wilhelm Müller
+----------------
+Carl Traugott Freudenberg
+1873
+Johann Gottlob Peschel
+Friedrich Herrmann Pöhnisch
+----------------
+Carl August Keiling
+Ernst Julius Misbach
+Friedrich August Gärtner
+Friedrich August Rosenkranz
+----------------
+Friedrich August Türke
+Friedrich August Schulze
+Johann Traugott Rosenkranz
+Emil August Großmann
+Carl Ernst Fichte
+----------------
+Carl August Misbach
+Carl August Richter
+Carl August Hantzsche
+Johann August Ferdinand Haße
+----------------
+1874
+Johann Salomo Straube
+Carl Gottfried Thierbach
+Ernst Julius Richter
+Friedrich August Müller
+Friedrich August Birnstengel
+----------------
+Carl Friedrich Claus
+Carl Traugott Heße
+Paul Robert Schmutzler
+Friedrich Ernst Trepte
+Carl Christoph Klengel
+----------------
+Ernst Wilhelm Leuthold
+Friedrich Adolph Sickert
+1875
+Ernst Gottlob Müller
+Carl August Müller
+----------------
+Friedrich Herrmann Görner
+Carl Gotthelf Förster
+Johann Gottlob Claus
+Johann August König
+Carl August Knobloch
+----------------
+Friedrich August Knoll
+Friedrich August Böhme
+Johann Hermann Völkel
+Carl August Haubold
+Carl Moritz Frömmel
+Carl August Huhle
+----------------
+Georg Heinrich Gäbler
+Carl August Lehmann
+Johann Ernst Gustav Hermann
+Ferdinand Herrmann Mittag
+Karl Friedrich Dreßler
+----------------
+Friedrich Ernst Misbach

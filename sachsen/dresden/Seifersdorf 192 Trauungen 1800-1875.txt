@@ -1,12 +1,12 @@
 Seifersdorf (Buch 192)
-Trauungen 1800-1869
+Trauungen 1800-1875
 https://www.archion.de/de/viewer/churchRegister/264523?pageId=36963541
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 
 
-Erstellt in ca. 1,5 Stunden
+Erstellt in ca. 2 Stunden
 April 2024
 Juli 2024
 September 2024
@@ -14,6 +14,7 @@ November 2024
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -812,3 +813,100 @@ Johann Gottlob Großmann
 Carl Friedrich Probst
 ----------------
 Friedrich August Quosdorf
+1870
+Johann Carl Schmidt
+Carl August Schöne
+Christoph Nowotny
+----------------
+Johann Traugott Völkel
+Carl Gotthelf Zumpe
+Carl Traugott Quosdorf
+Johann Carl Gottlieb Caspar
+Friedrich August Hase
+Friedrich Wilhelm Großmann
+----------------
+1871
+Carl Wilhelm Kunath
+Carl Friedrich August Mütze
+Friedrich Wilhelm Völkel
+Friedrich Ernst Roch
+Carl Traugott Rietschel
+----------------
+Adolph Bernhard Großmann
+Ernst Michael Hänsel
+Johann Traugott Krause
+Carl August Kliemann
+Ernst Julius Frömmel
+Carl Gotthelf Haase
+----------------
+1872
+Heinrich Wilhelm Krause
+Traugott Leberecht Gärtner
+Ludwig Robert Sputh
+Friedrich Traugott Liebezeit
+Carl Heinrich Schulze
+----------------
+Friedrich August Trentsch
+Carl August Kunath
+Friedrich August Völkel
+Carl Friedrich Gebauer
+Carl Friedrich August Claus
+Ernst Louis Schöne
+----------------
+Friedrich Hermann Forke
+Johann Gottfried Thieme
+Carl Ernst Fürchtegott Fiedler
+1873
+Gottfried Leberecht Menzel
+----------------
+Johann Gottfried Kunath
+Karl Gottfried Völkel
+Friedrich Ernst Kotte
+Richard Albert Menzel
+Johann Christian Ernst Schleinitz
+Ernst Wilhelm Zumpe
+----------------
+Carl Wilhelm Krause
+Friedrich Wilhelm Philipp
+Moritz Albin Jenichen
+Friedrich Julius Zumpe
+Ernst Louis Bergmann
+----------------
+1874
+Carl Friedrich Völkel
+Johann Ernst Julius Richter
+Johann Traugott Balzer
+Karl Gottlob Trepte
+Karl Gottlob Kittner
+----------------
+Johann Gottlieb Fülle
+Karl Friedrich Richter
+Karl Heinrich Beier
+Heinrich Gottlieb Kretschmar
+Oscar Ludwig Menzel
+Wilhelm Ferdinand Müller
+----------------
+Karl Julius Mütze
+Karl Friedrich Ernst Völkel
+Friedrich Wilhelm Lehmann
+Friedrich Wilhelm Gärtner
+----------------
+1875
+Karl Gottlieb Leipert
+Karl Rudolph Theodor Tränkner
+Friedrich Wilhelm Gebauer
+Ernst Fürchtegott Hanschak
+Carl Gottlieb Grützner
+Karl August König
+----------------
+Friedrich August Böhme
+Karl Friedrich August Grützner
+Wilhelm Leberecht Mißbach
+Karl August Krause
+Friedrich August Wilhelm Teich
+Friedrich Ernst Stelzer
+----------------
+Joseph Graml
+Johann Albrecht Eduard Petermann
+Clemens Theodor Hahn
+Friedrich Ernst Stein

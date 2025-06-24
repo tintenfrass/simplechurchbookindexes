@@ -1,5 +1,5 @@
 Wilschdorf (Buch 151)
-Trauungen 1834-1869
+Trauungen 1834-1875
 https://www.archion.de/de/viewer/churchRegister/280071?pageId=38529138
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ November 2024
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -317,3 +318,59 @@ August Moritz Otto Doemel
 Johann Traugott Kind
 Carl Gottfried Pohle
 Ernst Ludwig Schreider
+----------------
+1870
+Johann Wilhelm Heinrich Kuntzsch
+Carl Emil Hesse
+Friedrich August Gehre
+Johann Friedrich Adolph Naumann
+----------------
+1871
+Gottfried Traugott Pohle
+Friedrich Ernst Angermann
+Carl Gustav Gommlich
+----------------
+1872
+Karl Gottlieb Kuntzsch
+Karl Gottfried Menzel
+Heinrich Traugott Lesch
+Ernst Hermann Gießner
+Karl August Schütze
+----------------
+Karl Moritz Kohl
+Karl Gottlieb Preusche
+1873
+Friedrich Traugott Hofmann
+Johann Friedrich Großmann
+----------------
+Karl Gottlieb Lesch
+Johann Friedrich Adolph Jacob
+Karl Gottlieb Gottlöber
+Karl Gottlob Thalheim
+----------------
+1874
+Moritz Richard Eller
+Karl Traugott Fuchs
+Karl August Kuntzsch
+Gustav Hermann Ulber
+Friedrich Herrmann Meißner
+Karl Gotthelf Haase
+----------------
+Johann Gottlob Meßer
+1875
+Karl Friedrich Hempelt
+Karl Gottlob Funke
+Friedrich Traugott Meißner
+Karl Traugott Trentzsch
+----------------
+Karl Friedrich Pezolt
+Karl August Hofmann
+Karl Traugott Gommlich
+Johann Gottfried Kuntzsch
+Gustav Adolph Geißler
+----------------
+Carl August Beyer
+Friedrich August Gommlich
+Karl August Fuchs
+Johann Gottfried Ernst Lau
+Carl Friedrich Hempelt

@@ -1,5 +1,5 @@
 Weißig (Buch 141)
-Trauungen 1847-1869
+Trauungen 1847-1875
 https://www.archion.de/de/viewer/churchRegister/280061?pageId=38527372
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -9,6 +9,7 @@ Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -714,3 +715,238 @@ Carl August Petzold
 Heinrich Moritz Naake
 Heinrich Ernst Angermann
 Heinrich Ernst Wünsche
+1870
+Ernst Wilhelm Gneuß
+Carl Heinrich Michael
+----------------
+Heinrich Gustav Köckritz
+Johann Carl Gottlieb Rößler
+Carl August Richter
+Friedrich Wilhelm Böhme
+Friedrich Wilhelm Angermann
+Carl Heinrich Hauptmann
+Heinrich August Pomsel
+----------------
+Gustav Emil Fuß
+Friedrich Wilhelm Anders
+Friedrich August Schütze
+Carl August Henker
+Ernst Moritz Schleinitz
+Friedrich Eduard Jänichen
+Christian Heinrich Ficker
+----------------
+Gustav Adolph Gottschalsch
+Traugott Wilhelm Richter
+Carl August Anders
+Heinrich Adolph Kegel
+Johann Gottlieb Wünsche
+Friedrich Wilhelm Mauer
+----------------
+Carl Julius Müller
+Heinrich Gotthelf Zimmer
+Johann Friedrich Ernst Müller
+Heinrich August Seifert
+Ernst Heinrich Dietze
+Johann Gottlieb Julius Pöschel
+----------------
+Carl August Schuster
+Carl Gottlieb Berger
+Carl Friedrich August Müller
+Louis Matthias Sellinger
+Carl August Kunath
+----------------
+Friedrich Wilhelm Schöne
+Johann Adolph Daniel Furkert
+1871
+Christian Friedrich Mittag
+Traugott Wilhelm Wünsche
+Joseph Ritschel
+Carl August Eisold
+----------------
+Carl Maximilian Knorr
+Gustav Adolph Christ
+Carl Eduard Anders
+Carl Moritz Wagner
+Robert Theophilus Angermann
+August Ernst Schuster
+----------------
+Gottlieb Ernst Roch
+Friedrich Wilhelm Gäbisch
+Carl Christian Eduard Wendt
+Friedrich August Naumann
+Carl August Fiedler
+Johann Friedrich Gustav Sieber
+Adolph Ferdinand Ufer
+----------------
+Carl Friedrich Michael
+Johann Benjamin Traugott Leipert
+Johann Ernst Schuster
+Friedrich August Dietze
+Carl August Zaufe
+Friedrich Wilhelm Klotsche
+----------------
+Johann Carl Traugott Henker
+Ernst Friedrich Kegel
+Friedrich Wilhelm Ender
+Johann Carl Mögel
+----------------
+1872
+Johann Friedrich August Hofmann
+Carl Friedrich Mißbach
+Julius Herrmann Lucas
+Johann Carl Leberecht Höhne
+Carl Friedrich August Zippner
+----------------
+Carl Gottlieb Sachse
+Friedrich Gustav Rosenkranz
+Johann Gottlieb Müller
+Carl Friedrich Schuster
+Gustav Wilhelm Buchmann
+Friedrich August Schöne
+----------------
+Carl August Forke
+Carl Friedrich Henschel
+Johann Heinrich Wünsche
+Carl August Gensch
+Robert Schuster
+Ernst Wilhelm Naumann
+----------------
+Friedrich Wilhelm Näther
+Friedrich August Mögel
+Carl Friedrich Mißbach
+Carl August Eichler
+Ernst Wilhelm Schöne
+----------------
+1873
+Friedrich Wilhelm Philipp
+Carl Hugo Lyon
+Carl Eduard Mühle
+Friedrich August Jähnichen
+Friedrich Wilhelm Felsner
+----------------
+Heinrich Wilhelm Müller
+Carl Friedrich Haase
+Carl August Naumann
+Johann Carl Höhne
+Johann Gottlieb Traugott Kaule
+----------------
+Moritz Theodor Schilf
+Johann Carl Wenzel
+Franz Johann Carl Meier
+Friedrich August Mögel
+Carl Gottfried Völkel
+----------------
+Herrmann Theodor Fischer
+Carl Traugott Angermann
+Friedrich Wilhelm Brückner
+Friedrich Eduard Kenne?
+Gottlieb August Kretschmar
+Ottomar Richard Riedel
+----------------
+Friedrich August Helas
+Friedrich Wilhelm Pietsch
+Robert Julius Angermann
+Gustav Heinrich Rudolph
+Carl August Gabler
+Julius Otto Großmann
+Friedrich Wilhelm Lehnert
+----------------
+Johann Kretschmar
+Friedrich Wilhelm August Schöne
+Gustav Emil Lehnert
+Carl August Kegel
+Gustav Adolph Hett
+Carl Gustav Kunze
+----------------
+Johann Gottlob Gabler
+Gotthelf Heinrich Mittag
+Carl August Keßler
+Friedrich August Lindenau
+Friedrich August Hempel
+----------------
+August Ernst Schuster
+Friedrich Moritz Kohl
+1874
+Franz Louis Paul Feischmann
+Friedrich August Richard Mai
+Friedrich August Angermann
+----------------
+Carl August Henker
+Wilhelm Robert Höhne
+Carl Gottlieb Leberecht Jungnickel
+Friedrich Wilhelm Leuthold
+Friedrich Wilhelm Schöne
+Carl Gottlieb Thämelt
+----------------
+Franz Pretus Langer
+Gustav Adolph Höhle
+Heinrich August Günther
+Friedrich Wilhelm Kretschmar
+Gustav Eduard Köckritz
+----------------
+Friedrich Ernst Helaß
+Carl Friedrich August Lohrmann
+Carl August Herrmann Höhne
+Carl August Ferdinand Schmidt
+Julius Robert Schreinert
+----------------
+Friedrich Wilhelm Engelmann
+Ernst Julius Leubert
+Gottlob Arnold
+Friedrich Moritz Köhler
+Friedrich Gotthelf Zimmer
+Otto Richard Friedrich
+----------------
+Johann Friedrich Beger
+Carl Herrmann Weniger
+Carl Gottfried Löser
+Andreas Mietha
+Ernst Gustav Dammrich
+----------------
+Ernst Julius Hippe
+Gustav Ernst Emil Schröder
+Friedrich Wilhelm Forkert
+Friedrich Wilhelm Schild
+Carl Gottlieb Großmann
+Carl August Altmann
+----------------
+Carl August Forkert
+Johann Friedrich Schuster
+Eduard Heinrich Leipert
+Friedrich Wilhelm Naumann
+1875
+Friedrich August Köckritz
+Johann August Helas
+----------------
+Johann Gottlieb Anders
+Friedrich Ernst Lange
+Ernst Heinrich Nacke
+Johann August König
+Friedrich Wilhelm Henker
+Carl Moritz Schäfer
+----------------
+Friedrich August Wenzel
+Friedrich Wilhelm Müller
+Carl Gottlob Angermann
+Friedrich August Räpe
+Johann Carl Gottlieb Fischer
+Friedrich August Schulze
+----------------
+Carl August Anders
+Carl August Aehlig
+Friedrich Wilhelm Kegel
+Rudolph Immanuel Engelmann
+Johann Wilhelm August Mäcke
+Ernst Heinrich Sobe
+----------------
+Carl August Müller
+Carl Friedrich Wilhelm Zimmermann
+Friedrich August Findeisen
+Friedrich Hermann Backmann
+Johann August Opitz
+Carl August Heinrich Kluge
+----------------
+Carl Eduard Heinrich Horn
+Gustav Herrmann Hofmann
+Carl August Müller
+Ernst Schröder

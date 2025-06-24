@@ -1,5 +1,5 @@
 Schönborn (Buch 184)
-Trauungen 1800-1869
+Trauungen 1800-1875
 https://www.archion.de/de/viewer/churchRegister/264515?pageId=36960284
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -14,6 +14,7 @@ November 2024
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -573,3 +574,49 @@ Traugott Leberecht Tamme
 ----------------
 Ernst Leberecht Stelzer
 Ernst Ludwig Schreider
+1870
+Gottfried Wilhelm Schmidt
+----------------
+Friedrich Adolph Haufe
+Friedrich August Hofmann
+1871
+Johann Carl Gottlieb Richter
+Friedrich Wilhelm Völkel
+----------------
+1872
+Traugott Leberecht Gärtner
+Heinrich August Wetzel
+Johann Gottlieb Becker
+Johann Carl Gottfried Trepte
+Friedrich August Lesche
+Carl August Zirkel
+----------------
+Johann Traugott Schäfer
+1873
+Heinrich Gottlob Schütze
+Friedrich Wilhelm Völkel
+Carl Ernst Rüßel?
+Friedrich August Hofmann
+Gustav Adolph Stübler
+----------------
+Friedrich August Schmidt
+August Gustav Müller
+Friedrich Emil Roch
+Karl Wilhelm Schmidt
+1874
+Karl Gottlieb Renner
+----------------
+Karl Julius Stelzer
+Friedrich Wilhelm Böhme
+Heinrich Wilhelm Wagner
+Karl Gottlob Schmidt
+Friedrich August Tamme
+----------------
+1875
+Friedrich Hermann Görner
+Karl Ferdinand Hörnig
+Friedrich Wilhelm Völkel
+Ernst Fürchtegott Hanschak
+Robert Oswald Christmann
+----------------
+Ernst Wilhelm Thalheim
