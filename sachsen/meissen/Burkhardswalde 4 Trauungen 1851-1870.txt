@@ -1,10 +1,11 @@
 Burkhardswalde (Buch 4)
-Trauungen 1851-1869
+Trauungen 1851-1870
 https://www.archion.de/de/viewer/churchRegister/281047?pageId=38772581
 
 
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -420,3 +421,28 @@ Johann Gottlieb Heinrich Wagner
 ----------------
 Ernst Wilhelm Bändel
 Ernst Adolph Gierth
+----------------
+1870
+August Moritz Fröhlich
+Robert Wilhelm Schlechter
+Eduard Theodor Schanze
+Moritz Hermann Richter
+----------------
+Carl Gottlieb Hille
+Heinrich Wilhelm Hille
+Johann Gottlob Kellner
+Richard Carl Schatte
+----------------
+Carl Franz Julius Funke
+Hermann Robert Lommatzsch
+Carl Heinrich Ernst Panier
+August Melde
+----------------
+Franz Theodor Richter
+Carl Wilhelm Wenke
+Hermann Müller
+Franz Heinrich Borrmann
+----------------
+Carl August Steglich
+Carl August Clemens Dietel
+Johann Carl Ernst Paul

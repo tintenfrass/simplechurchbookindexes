@@ -1,5 +1,5 @@
 Blankenstein (Buch 2)
-Trauungen 1824-1869
+Trauungen 1824-1876
 https://www.archion.de/de/viewer/churchRegister/281021?pageId=38766340
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ November 2024
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -652,3 +653,136 @@ Carl Herrmann Riedrich
 Friedrich Moritz Dieze
 Johann Carl Gottlob Schurig
 Heinrich Ernst Thimmig
+----------------
+1870
+Friedrich Moritz Eismann
+Carl Heinrich Henker
+Carl Eduard Fehrmann
+Friedrich Wilhelm Nestler
+Johann Carl Gottlob Birkner
+----------------
+Friedrich Wilhelm Ludwig Leonhardt
+Carl August Neumann
+Carl Friedrich August Knoebel
+Heinrich Wilhelm Simon
+Franz Moritz Kleber
+----------------
+Ernst Ferdinand Reiche
+August Theodor Junghanns
+Gustav Adolph Sparmann
+Louis Matthias Sellinger
+----------------
+1871
+Eduard Gustav Legler
+Heinrich Adolph Wolf
+Carl Gottlieb Zscherper
+Carl August Deistler
+Traugott Theodor Walther
+----------------
+Wilhelm Eduard Schuster
+Gustav Adolph Moebius
+Carl Heinrich Fehrmann
+August Julius Riedrich
+----------------
+Heinrich Herrmann Wachsmuth
+Friedrich Robert Rühle
+Friedrich Christian Günzel
+Adolph Heinrich Kohlsdorf
+----------------
+1872
+Carl Gottlob Bretschneider
+Oswald Eduard Schubert
+Carl Herrmann Butter
+Julius Ernst Kühne
+Carl Heinrich Gerhold
+----------------
+Friedrich Herrmann Ulbrich
+August Louis Schoenberg
+Ernst Herrmann Keller
+Friedrich August Ernst Tronike
+Franz Julius Roitzsch
+----------------
+August Ehregott Leonhard
+Carl Adolph Doering
+Carl Herrmann Doering
+Johann Carl Gottlieb Fleischer
+Ernst Theodor Hauptmann
+----------------
+Johann Gottfried Püschel
+Ernst Moritz Krause
+Ernst Theodor Franz Damm
+Gottlob Herrman Schumann
+Gustav Ferdinand Kleber
+----------------
+1873
+Ernst Ludwig Wackwitz
+Ernst Moritz Dietrich
+Carl August Schwarzbach
+Carl August Braune
+Oswald Schoenberg
+----------------
+Carl Heinrich Robert Borrmann
+Franz Moritz Fehrmann
+Johann Gottlob Glaesche
+Julius Robert Beuchel
+Friedrich August Brodkorb
+----------------
+Heinrich Ernst Fleischer
+Carl August Friedrich Hübner
+Gustav Eduard Dietrich
+Ernst Theodor Kippe
+Gustav Adolph Schaarschuch
+----------------
+Carl Gottlob Leberecht Wiegand
+Eduard Oswald Ranft
+Franz Herrmann Schlechte
+Carl August Boehme
+----------------
+1874
+August Wilhelm Maune
+Ernst Rudolph Lohse
+Herrmann Eduard Behnisch
+Friedrich August Kretzschmar
+----------------
+Carl Heinrich Starke
+Johann Emil Ernst Zeibig
+Friedrich August Hüttig
+Ernst Eduard Maerker
+Ernst Herrmann Birkner
+----------------
+Friedrich Wilhelm Eduard Bomsdorf
+Johann Carl Gottlob Bretschneider
+Julius Herrmann Ranft
+Friedrich August Albert Pietzsch
+Adolph Herrman Walther
+----------------
+1875
+Ernst Friedrich Andrae
+Ernst Friedrich Adolph Dietich
+Heinrich Oswald Lippert
+Julius Herrmann Leuteritz
+Carl Friedrich August Zscherper
+Franz Eduard Michael
+----------------
+Ernst Julius Roenitzsch
+Friedrich Wilhelm Irmer
+Carl Wilhelm Moritz Müller
+Franz Julius Ranft
+Franz Julius Gerhold
+----------------
+Ernst Friedrich Hofmann
+Carl Heinrich Krüger
+Johann Gottlob Ernst Haupt
+Ernst Eduard Deistler
+----------------
+1876
+Louis Moritz Junghanns
+Adolph Eduard Fritzsche
+----------------
+Ernst Theodor Walther
+Friedrich Wilhelm Kuntze
+----------------
+Otto Theodor Kippe
+Ernst Robert Lützner
+----------------
+Friedrich Moritz August Röher

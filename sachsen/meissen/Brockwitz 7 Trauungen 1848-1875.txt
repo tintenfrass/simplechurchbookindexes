@@ -1,10 +1,11 @@
 Brockwitz (Buch 7)
-Trauungen 1848-1869
+Trauungen 1848-1875
 https://www.archion.de/de/viewer/churchRegister/281042?pageId=38771323
 
 
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -424,3 +425,117 @@ Ernst Emil Müller
 Karl Friedrich Schmidt
 Ernst Heinrich Naumann
 Ernst Moritz Liebe
+1870
+Heinrich Gottlob Thronicke
+Julius Heinrich Hundt
+Karl Gottfried Marx
+Ernst Gotthelf Quittel
+Ernst Eduard Nitzsche
+Karl Heinrich Trobisch
+Johann Adolph Ludwig
+----------------
+1871
+Christian Gottlieb Wetzig
+Karl Gottlieb Schütze
+Karl Heinritzsch
+Friedrich Hermann Gehre
+Friedrich August Bahrmann
+Adolph Hugo Oehmichen
+Johann Friedrich Bahrmann
+Maximilian Georg Gotthard Haustein
+Karl Friedrich Adolph Schenke
+Karl Gottlob Höhle
+Wilhelm Adolph Richard Huschke
+Gottfried Hermann Winkler
+----------------
+Friedrich Ernst Müller
+Hermann Muntschick
+Ernst Eduard Glauche
+1872
+Friedrich August Burkhard
+Friedrich Ernst David
+Johann Gotthelf Gebauer
+Johann Karl Gottfried Naumann
+Friedrich Moritz Seyffarth
+Karl Heinrich Weber
+Karl Eduard Dietze
+----------------
+Johann Gottfried Rothe
+Gustav Friedrich Wilhelm Hellinger
+Ernst Julius Freyer
+Karl Adolph Vetter
+Karl Traugott Thiele
+1873
+Heinrich Moritz Muntschick
+August Hermann Haase
+Karl Franz Petzsch
+Ernst Wilhelm Eichler
+Karl Gottlob Zedtler
+----------------
+Friedrich Ernst Starke
+Julius Adolph Förster
+Johann Gottlob Eduard Thiele
+Gustav Moritz Hilbe
+Gustav Eduard Türke
+Adolf Richard Weiß
+Friedrich August Kretzschmar
+Karl August Neubert
+----------------
+1874
+Friedrich August Hermann Mohn
+Ernst Heinrich Junghans
+Ernst Moritz Robert König
+Friedrich Adolph Beger
+Friedrich August Eckelmann
+Friedrich August Zettler
+Karl Louis Böttger
+Johann Adam Ernst Schulze
+Karl Friedrich Eduard Mehlig
+Karl Friedrich Ernst Kießling
+----------------
+Ernst Friedrich Findeisen
+Heinrich Adolph Proschmann
+Heinrich Wilhelm Naumann
+Karl Wilhelm Ernst Beger
+Ernst Heinrich Höhle
+Johann Karl Heinrich Gommlich
+Karl Gottfried Benedikt
+Karl Heinrich Züchner
+Ernst Ferdinand Schumann
+Friedrich August Naumann
+Karl Ludwig Hönsch
+August Hermann Liebezeit
+----------------
+1875
+Friedrich Adolph Haase
+Friedrich Gotthelf Hirsch
+Friedrich Hermann Clemens Röber
+Karl Traugott Burkhardt
+Christian Friedrich Adolph Ludewig
+Friedrich Max Hamann
+Franz Fürchtegott Timmel
+Bernhard Leberecht Louis Büttner
+Oswald Woldemar Nollau
+Gustav Adolph Scheiblich
+Friedrich Ernst Köhler
+----------------
+Johann Karl Friedrich Wilhelm Eitner
+Ernst Hermann Claus
+Karl Friedrich August Muntschick
+Karl Heinrich Thieme
+Karl Friedrich August Bürger
+Johann Friedrich Karl Köhler
+Karl Rudolph Jänke
+Karl Friedrich August Kuppe
+Gottlob Hermann Moses
+Karl Gottlob Zocher
+Franz Louis Sebald
+----------------
+Johann Karl Heinrich Voigtländer
+Wilhelm Ernst Haase
+Oskar Clemens Kirsten
+August Ferdinand Winkler
+Franz Julius Bergner
+Ernst Hermann Gehre
+Karl Heinrich Brünner
+Karl Hermann Kretzschmar
