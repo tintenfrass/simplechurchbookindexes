@@ -1,11 +1,12 @@
 Gröbern (Buch 3)
-Trauungen 1841-1869
+Trauungen 1841-1876
 https://www.archion.de/de/viewer/churchRegister/282507?pageId=39021143
 
 
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -305,3 +306,81 @@ Friedrich August Huhn
 Gottfried Wilhelm Schramm
 Fürchtegott Herrmann Greif
 Friedrich Ernst Müller
+1870
+Friedrich Adolf Dierichen
+Ernst Louis Rasch
+----------------
+Heinrich Ernst Steffgen
+Gottlieb Ernst Winkler
+Friedrich Traugott Thüring
+Carl Gottlieb Ernst Winkler
+Ernst Ferdinand Banke
+Ferdinand Louis Steffgen
+----------------
+1871
+Ernst Julius Schulze
+Friedrich August Schiemann
+Johann Ernst Lange
+Gustav Eduard Seurig
+Christian Gottlieb Rolle
+Gustav Adolf Helmert
+Friedrich Hermann Marx
+Carl Friedrich Wäger
+Ernst Wilhelm Menzel
+----------------
+1872
+Ernst Wilhelm Haferburg
+Carl Hermann Hoyer
+Ernst Händel
+Carl Friedrich Siebers?
+Heinrich Hermann Huhn
+Friedrich Adolph Rüdrich
+----------------
+1873
+Gustav Robert Hoyer
+Carl Friedrich Wolf
+Wilhelm Hermann Banke
+Heinrich Eduard Huhn
+August Hermann Zschaber
+Richard Otto Julius Werner
+----------------
+1874
+Friedrich Eduard Haferburg
+Friedrich Hermann Fichtner
+Carl Heinrich Miersch
+----------------
+Carl Traugott Herzog
+Ernst Ferdinand Banke
+Wilhelm Moritz Schmidt
+Friedrich Gotthold Leutritz
+----------------
+1875
+Johann Friedrich Gottlob Grafe
+Leberecht Ernst Hauswald
+Carl Traugott Schneider
+Friedrich Ewald Heller
+----------------
+Carl Ferdinand Kirste
+Johann Thomas Szeemski
+Florian Julius Breitenfeld
+----------------
+Moritz Hermann Köhler
+Friedrich August Winkler
+Friedrich Carl Linge
+Friedrich Ernst Otto Fischer
+----------------
+Moritz Eduard Bülz
+Wilhelm Ernst Köhler
+Friedrich Carl Thränhardt
+----------------
+Hermann Ferdinand Grimmer
+Julius Hermann Fröhlich
+Carl Eduard Hermann Miersch
+----------------
+1876
+Ernst Traugott Thiele
+Friedrich Eduard Banke
+Carl Samuel Eichler
+Gottfried Heinrich Christian Pape
+----------------
+Carl Eduard Krüger

@@ -1,10 +1,11 @@
 Dittmannsdorf (Buch 4)
-Trauungen 1851-1869
+Trauungen 1851-1875
 https://www.archion.de/de/viewer/churchRegister/281075?pageId=38778159
 
 
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -293,3 +294,111 @@ Johann Ferdinand Waldmann
 ----------------
 Karl Ludwig Rudolph Loewe
 Ernst Oswald Funke
+1870
+Carl Gottfried Hermann Zeuner
+Carl Eduard Lindner
+----------------
+Carl Gottlieb Peukert
+Carl Franz Pappelbaum
+Johann Carl Heinrich Hessel
+Ernst Constantin Noah
+----------------
+Carl August Johne
+Robert Theodor Fritzsche
+1871
+Carl Wilhelm Hachenberger
+Ernst Schaufuss
+----------------
+Theodor Franz Otto Schiffel
+Carl Hermann Loewe
+Carl August Oswald Berthold
+Carl Heinrich Tauchert
+Carl Gottlieb Zietzsch
+Heinrich Otto Dietrich
+----------------
+Johann Heinrich Richter
+Johann Carl Gottlieb Kühne
+Karl August Halfter
+1872
+Carl Julius Köhler
+----------------
+Carl Friedrich Ernst Pohl
+Friedrich Hermann Roch
+Julius Ernst Kühne
+Friedrich Hermann Lindig
+----------------
+Friedrich Gotthelf Buhlig
+Johann Carl August Wolf
+Friedrich August Hess
+Ernst Hermann Keller
+Carl Friedrich Wilhelm Günther
+----------------
+Carl Heinrich Gelbhaar
+Friedrich Wilhelm Löffler
+Louis Hermann Köhler
+Guido Louis Hammermüller
+----------------
+1873
+Friedrich Adolf Buhlig
+Heinrich Bernhard Schumann
+Julius Hermann Dachsel
+Carl August Braune
+Julius Gustav Claus
+----------------
+Heinrich Wilhelm Börner
+Friedrich August Haupt
+Ernst Gottlob Limbach
+Carl Friedrich Ferdinand Heber
+Franz Ludwig Lippert
+----------------
+Heinrich Ferdinand Grafe
+Ernst Clemens Böhme
+Friedrich Wilhelm Jaepel
+Friedrich Wilhelm Wüstling
+Heinrich Eduard Wilhelm May
+----------------
+Ernst Julius Fischer
+Karl Heinrich Mühlberg
+Carl August Hammermüller
+Heinrich Moritz Zeuner
+----------------
+1874
+Carl Friedrich Höschler
+Ernst Gustav Dürichen
+Carl Ernst Schumann
+Ernst Traugott Senke
+Ernst Eduard Schneider
+----------------
+Carl Ernst Ehrlich
+Friedrich Gustav Rudolf Pfannenschmidt
+Adolf Anton Leutritz
+Heinrich Ludwig Stöckner
+----------------
+Karl Wilhelm Jaepel
+Ernst Heinrich Buhlig
+Carl Oswald Lucius
+Hermann Friedrich August Limbach
+Ernst Louis Mühlberg
+----------------
+Ernst Louis Grossoehmigen
+Carl Heinrich Hachenberger
+1875
+Ernst Julius Leuschner
+Carl Gottlob Weidhold
+----------------
+Carl Ernst Schumann
+Friedrich Wilhelm Schiebold
+Karl Ferdinand Schumann
+Carl Ferdinand Küchenmeister
+August Robert Birkner
+----------------
+Max Fürchtegott Müller
+August Clemens Zschunke
+Ernst Moritz Schnnee
+Julius Hermann Stirl
+Ernst August Johne
+----------------
+Friedrich August Heinrich
+Carl Wilhelm Crasselt
+Eduard Theodor Lommatzsch
+Carl August Oswald Berthold

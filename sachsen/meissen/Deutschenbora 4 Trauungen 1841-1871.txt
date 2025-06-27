@@ -1,11 +1,12 @@
 Deutschenbora (Buch 4)
-Trauungen 1841-1869
+Trauungen 1841-1871
 https://www.archion.de/de/viewer/churchRegister/281069?pageId=38776910
 
 
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -383,3 +384,24 @@ Carl Heinrich Rappe
 Friedrich August Kirsten
 ----------------
 Friedrich Wilhelm Ernst Ehrlich
+1870
+Friedrich Hermann Thomas
+Gustav Adolph Sander
+Ernst Moritz Leuteritz
+August Moritz Fischer
+Ernst Theodor Möbius
+----------------
+Friedrich Wilhelm Krimbiegel
+Carl August Winkler
+Ferdinand Bormann
+Friedrich Julius Winter
+1871
+Gotthelf Adolf Schönert
+Friedrich Moritz Muster
+Moritz Wilhelm Schnee
+----------------
+Ernst Heinrich Kretzschmar
+Carl Ehregott Schnee
+Heinrich Traugott Lehmann
+Carl Friedrich Wilhelm Schütze
+Friedrich Theodor Birkner
