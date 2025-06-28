@@ -1,11 +1,12 @@
 Grumbach (Buch 9)
-Trauungen 1848-1869
+Trauungen 1848-1875
 https://www.archion.de/de/viewer/churchRegister/282520?pageId=39024526
 
 
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -667,3 +668,206 @@ Ernst Herrmann Hillig
 ----------------
 Friedrich Ernst Rost
 Ernst Oswald Günther
+1870
+Ernst Traugott Büttner
+Gustav Adolph Hamann
+----------------
+August Hermann Hallaß
+Carl Eduard Schmidt
+Ernst Eduard Robert Preißiger
+Friedrich Ernst Knöbel
+Ernst Hermann Däbritz
+Johann Carl Ernst Sauer
+----------------
+August Wilhelm Lößner
+Carl Friedrich Moritz Brühl
+Carl Bernhard Lorenz
+Ernst Louis Schanz
+Ernst Louis Zeunig
+Friedrich Gustav Partzsch
+----------------
+Johann Friedrich Pfeifer
+Gottlieb Ernst Dürrling
+Carl August Hermann Gottschald
+August Hermann Sparmann
+Carl Gottlieb Adolph Schlicke
+Gustav Moritz Ackermann
+----------------
+Gustav Julius Rautenstrauch
+Carl Gottlieb Döring
+Ernst Louis Weber
+Friedrich August Eichler
+Carl Traugott Irmer
+Johann Gotthelf Büttner
+----------------
+Friedrich August Tamm
+Friedrich Wilhelm Nagel
+1871
+Friedrich Ehregott Jähnig
+Ernst Hermann Köhler
+Ernst Heinrich Oswald Kuntze
+----------------
+Friedrich Wilhelm Stoisch
+Oswald Fürchtegott Schubert
+Johann Gottlieb Dietze
+Friedrich Wilhelm Julius Hornei
+Ernst Hermann Beegen
+August Ludwig Herrnsdorf
+----------------
+Friedrich Ernst Büttner
+Carl Hugo Werner
+Carl Wilhelm Umlauft
+Carl Heinrich Küttner
+Friedrich August Fröbisch
+Carl Gottfried Molke
+----------------
+Carl Friedrich Schaller
+Heinrich August Schanz
+Johann Christian Häßler
+Carl Heinrich Hillig
+Carl Heinrich Louis Eger
+----------------
+Johann Ernst Ehregott Schulze
+Ernst Jurak
+Friedrich Moritz Eckoldt
+Carl Moritz Eckoldt
+Ernst Moritz Hasche
+Johann Carl Gottlob Kühnel
+----------------
+1872
+Carl August Lorenz
+Johann Heinrich Wilhelm Beuchel
+Hermann Friedrich Martin
+Heinrich Oswald Wiegand
+Heinrich Ferdinand Franz
+August Hermann Bartzsch
+----------------
+Carl Wilhelm Rüdiger
+Friedrich Ernst Kleine
+Gustav Adolph Schönberg
+Julius Hermann Vogelgesang
+Friedrich August Romberg
+Friedrich Ernst Florens Ulbrich
+----------------
+Friedrich Hermann Ulbrich
+Carl Gottlob Trepte
+Carl Gottlob Friedrich Franke
+Carl Wilhelm Ernst Eidner
+Carl Gottlob John
+Heinrich Hermann Börner
+----------------
+Bruno Alexander Horn
+----------------
+Bruno Alexander Horn
+Friedrich Oswald Köhler
+Friedrich Wilhelm Hennig
+Friedrich Ernst Schmidt
+Friedrich August Schubert
+Heinrich Louis Moritz Dittrich
+----------------
+Ernst Wilhelm Naumann
+Heinrich Ernst Günther
+1873
+Oswald Hermann Eckelt
+Carl Friedrich Görldt
+Heinrich Gottlob Lindner
+----------------
+Carl Friedrich Robert Scherf
+Gotthelf Hermann Andrä
+Ernst Wilhelm Schanz
+Franz Louis Busch
+Florens Richard Seifert
+Heinrich Ernst Funke
+----------------
+Franz Louis Funke
+Ernst Wilhelm Schuster
+Friedrich August Rost
+Friedrich August Schöne
+Carl Gustav Richter
+Carl Hermann Glöckner
+Franz Anton Günther
+----------------
+Heinrich Hermann Beer
+Friedrich Theodor Weinhold
+Gustav Adolph Linke
+Carl Heinrich Wilhelm Kannegießer
+Carl Traugott Weber
+Johann Carl August Sterzel
+Carl Friedrich Moritz Weise
+----------------
+Carl August Petermann
+Gottfried Wilhelm Wiegand
+Ernst Ludwig Hauswald
+Ernst Heinrich Günther
+Ernst Hermann Zweinig
+August Hermann Schuze
+----------------
+1874
+Adolph Wilhelm Bormann
+Adolph Hermann Winkler
+Oscar Emil Röthig
+Carl Traugott Wilhelm Andrä
+Ernst Wilhelm Richter
+August Hermann Weber
+----------------
+Carl Ernst Böhme
+Gustav Hermann Tamme
+Friedrich Ernst Preiß
+Adolph Ernst Schönig
+Wilhelm Heinrich Wustlich
+Carl Gotthelf Gottschald
+Heinrich Wilhelm Wolf
+----------------
+Friedrich Ernst Lieber
+Carl August Eduard Schanz
+Ernst Moritz Gabriel
+Ernst Heinrich Hermann Rüdiger
+Gustav Heinrich Büttner
+Carl Gottlieb Richter
+----------------
+Carl Ernst Köhler
+August Hermann Frenzel
+Julius Eduard Preußer
+Ernst Hermann Horn
+Friedrich Wilhelm Döhnert
+Ernst Moritz Rüdiger
+----------------
+Ernst Oswald Zabelt
+Ernst Louis Großöhmigen
+Heinrich August Ulbricht
+1875
+Gustav Moritz Schäfer
+Emil Ferdinand Wolf
+----------------
+Ernst Friedrich Andrä
+Ernst Louis Pfützner
+Ferdinand Eduard Wätzig
+Carl Gottlieb Goldberg
+Gustav Adolph Claus
+August Adolph Umlauft
+----------------
+Johann Carl August Hauschild
+Heinrich Adolph Liebschner
+Robert Hermann Opitz
+Ernst Julius Lehmann
+Gustav Bruno Rülker
+Friedrich August Ernst Fehrmann
+----------------
+Heinrich August Leberecht Zimmermann
+Heinrich Hermann Ebert
+Ernst Robert Starke
+Carl Friedrich Bruno Wagner
+Gustav Robert Müller
+Friedrich Bruno Eckoldt
+----------------
+Ernst Bruno Rautenstrauch
+Carl August Dausend
+Michael Smy
+Carl August Kotz
+Heinrich Hermann Kubitzky
+----------------
+Friedrich Wilhelm Clemens Weber
+Friedrich Eduard Börner
+Ernst Gustav Nacke
+Friedrich Adolph Klinkigt
+Carl Wilhelm Küttner

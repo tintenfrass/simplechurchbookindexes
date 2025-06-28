@@ -1,11 +1,12 @@
 Großdobritz (Buch 3)
-Trauungen 1842-1869
+Trauungen 1842-1875
 https://www.archion.de/de/viewer/churchRegister/282511?pageId=39021963
 
 
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -302,3 +303,69 @@ Wilhelm Heinrich Emil Lehmann
 Johann Friedrich August Petersohn
 Ernst Herrmann Böziger
 Carl Gottlob Bahrmann
+1870
+Friedrich Robert Beulich
+Christian Traugott Züchner
+----------------
+Johann Gottfried Wilhelm Thiele
+Johann Samuel Ernst Gommlich
+Gottlob Wilhelm Lehmann
+Carl Gottlob Bahrmann
+Julius Hermann Schreiber
+Gustav Adolf Niese
+----------------
+1871
+August Schieritz
+Carl Traugott Reinhold
+Johann Gottlob Ruhl
+Ernst Adolph Kranke
+Friedrich August Wendisch
+Friedrich Ernst Herzog
+Johann Gustav Wilhelm Müller
+Otto Bernhard Julius Knoth
+----------------
+Traugott Ernst Richter
+1872
+Johann Gottlieb Samuel Naumann
+Carl Friedrich Wilhelm Völkel
+Carl Gottlob Gebauer
+Friedrich Eduard Thiele
+Ernst Gustav Beßer
+Gottlob Moritz Schebel
+----------------
+Friedrich Wilhelm Gebauer
+Johann Friedrich Leonhard Distler
+1873
+Friedrich Hermann Küchler
+Carl Adolf Gründel
+----------------
+Friedrich Louis Böhme
+Carl Moritz August Kühne
+Friedrich August Claus
+Friedrich Carl Ulrich
+----------------
+Ernst Ferdinand Kleißberg
+1874
+Johann Carl Wilhelm Sachse
+Johann Wilhelm Beger
+----------------
+Carl Traugott Herzog
+Carl Robert Hönicke
+Ernst Moritz Schreiber
+Ernst Gotthelf Claus
+Friedrich Ernst Wagner
+----------------
+Carl Ernst Pappermann
+1875
+Carl Gustav Ziller
+Ernst Gustav Louis Müller
+Friedrich Moritz Müller
+----------------
+Carl Gustav Adolph Wagner
+Louis Hermann Thieme
+Hermann Gotthelf Richter
+Friedrich Robert Pinkert
+----------------
+Franz Otto Helmig
+August Adolf Röder
+Friedrich Ernst Gäbelt

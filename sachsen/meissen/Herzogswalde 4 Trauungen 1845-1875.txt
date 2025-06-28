@@ -1,11 +1,12 @@
 Herzogswalde (Buch 4)
-Trauungen 1845-1869
+Trauungen 1845-1875
 https://www.archion.de/de/viewer/churchRegister/282530?pageId=39026543
 
 
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -492,3 +493,146 @@ Carl Gottlieb Albert
 August Heinrich Körner
 Carl August Ernst Käseberg
 Heinrich Ludwig Schubert
+1870
+Ernst Eduard Robert Preißiger
+Carl Wilhelm Jähnig
+Carl Heinrich Henker
+Gustav Adolph Grütze
+Ernst Louis Zennig
+----------------
+Christian Gottlieb Liebelt
+Ludwig Hermann Küttner
+Carl Eduard Rüdiger
+Johann Samuel Kirchhof
+----------------
+1871
+Heinrich Gustav Nissan
+Friedrich Wilhelm Thiele
+Carl August Philipp
+Heinrich Julius Mehnert
+Andreas Vetter
+----------------
+Carl Ernst Lindner
+Adolph Theodor Richter
+Heinrich Herrmann Pietzsch
+Wilhelm Heinrich Schneider
+----------------
+Johann Carl Gottfried Jähnig
+Heinrich Herrmann Wachsmuth
+Carl Gottlob Schöne
+Johann Heinrich Herrmann Zimmermann
+----------------
+Carl Julius Emmrich
+Johann Carl Gottlieb Kühne
+Herrmann Robert Lehnert
+Friedrich Adolph Strobach
+----------------
+Wenzel Parizek
+Carl Herrmann Köhler
+Adolph Gustav Meutzner
+----------------
+1872
+Adolph Herrmann Hänsel
+Carl Wilhelm Hasse
+Friedrich Herrmann Zschunke
+Gustav Eduard Oehme
+Carl Gottlieb Fritzsche
+----------------
+Heinrich Clemens Tenzel
+Heinrich Oswald Börner
+Carl Robert Mattheck
+Johann Traugott Ernst Meyer
+----------------
+Carl August Irmer
+Ferdinand Richard Kornagel
+Heinrich Wilhelm Gelisch
+Heinrich Eduard Engelmann
+----------------
+Martin Schmiedel
+Carl Traugott Peeger
+Carl Wilhelm Schumann
+Emil Woldemar Schmidt
+----------------
+Ernst Ludwig Wackwitz
+Friedrich Herrmann Gretschel
+----------------
+1873
+Heinrich Gottlob Lindner
+Ernst Adolph Gäbisch
+Carl August Beuchel
+Carl Friedrich Säurich
+Bernhard Richard Emmrich
+----------------
+Franz Oswald Dittrich
+Gustav Eduard Andrä
+Carl Adolph Knöbel
+Carl Gotthelf Thomas
+----------------
+Johann Friedrich Hermann Hahnel
+Ernst Moritz Emmrich
+Ernst Moritz Winkler
+Carl Gustav Adolph Bergmann
+----------------
+1874
+Friedrich August Schuster
+Ehregott Leberecht Görldt
+Ernst Ludwig Hänsel
+Adolph Herrmann Häbisch
+----------------
+Carl August Heyde
+Carl Gotthelf Gerber
+Carl Friedrich August Dürich
+Carl Herrmann John
+----------------
+Franz Ludwig Zschunke
+Emil Franke
+Friedrich August Gustav Eger
+Johann Gottlob Grau
+----------------
+Ernst Herrmann Fritzsche
+Adolph Eduard Koch
+Ernst Julius Wachsmuth
+Gustav Adolph Just
+----------------
+Gustav Richard Lehmann
+Heinrich August Dietrich
+Carl Herrmann Kleber
+Adolph Franz Andrä
+----------------
+Carl Heinrich Wilsdorf
+Julius Herrmann Wätzig
+----------------
+1875
+Julius Herrmann Wätzig
+Carl August Fritzsche
+Carl Ernst Diersche
+Ernst Herrmann Lange
+Gustav Adolph Methe
+----------------
+Wilhelm Traugott Seifried
+Carl August Hacke
+Ernst Moritz Patzig
+Carl August Prager
+----------------
+Wilhelm Adolph Müller
+Ernst Robert Starke
+Heinrich Emil Blau
+----------------
+Ernst Eduard Körbitz
+Gustav Robert Schulze
+August Clemens Zschunke
+----------------
+Friedrich Wilhelm Herrmann Gräfe
+Carl Herrmann Grafe
+Ferdinand Eckardt
+----------------
+Franz Moritz Kunze
+Ernst Eduard Schröter
+Emil Oscar Müller
+----------------
+Carl Herrmann Gerisch
+Emil Bernhard Emmrich
+Wilhelm Moritz Ludwig
+----------------
+Ernst Eduard Deistler
+Carl Herrmann Kleber
