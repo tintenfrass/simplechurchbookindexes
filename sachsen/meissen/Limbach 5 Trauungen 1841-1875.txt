@@ -1,11 +1,12 @@
 Limbach (Buch 5)
-Trauungen 1841-1869
+Trauungen 1841-1875
 https://www.archion.de/de/viewer/churchRegister/283110?pageId=39138791
 
 
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -327,3 +328,80 @@ Johann Christian Friedrich Escher? //durchgestrichen
 Friedrich Ernst Reinhard
 Friedrich Eduard Schmalz
 Karl Eduard Schieritz
+----------------
+1870
+Friedrich Moritz Eismann
+Carl Heinrich Schubert
+Gottlob Hermann Faust
+Carl Friedrich Kluge
+----------------
+Ernst Julius Geißler
+August Woldemar Holling
+Friedrich Hermann Zimmermann
+Carl Moritz Stephan
+----------------
+Moritz Hermann Schulze
+Friedrich Ernst Reinhardt
+Alexander Theodor Kühne
+----------------
+Franz Robert Peuthert
+----------------
+1871
+Carl Gottfried Malke
+Heinrich Wilhelm Schubert
+Karl Schirack
+Johann Carl Gottfried Türke
+----------------
+Johann Clemens Hengstbach
+Friedrich Christlieb Tannert
+Heinrich Julius Gärtner
+Friedrich August Schellenberger
+----------------
+Johann August Schulze
+----------------
+1872
+Wilhelm Leberecht Meyer
+Ernst Wilhelm Gießner
+Karl Herrmann Kirsten
+----------------
+1873
+Carl Adam Kießhling
+Ernst Traugott Mehner
+Carl Friedrich Köhler
+----------------
+Emil Seifert
+Franz Otto Arnhold
+Friedrich August Würker
+----------------
+Carl Hermann Hebeld
+Andreas Hoffmann
+Carl Ernst Fürchtegott Ryssel
+----------------
+Carl August Winter
+Ernst Wilhelm Schieritz
+August Hermann Schulze
+----------------
+1874
+Johann Robert Loreck
+Ernst Louis Gießner
+Carl Hermann Schulze
+----------------
+Carl August Eduard Schanz
+Carl Friedrich Emil Beger
+Carl August Röber
+----------------
+Friedrich Daniel Holling
+Carl Otto Zietzsch
+Friedrich Hermann Hegewald
+----------------
+Friedrich August Rothe
+1875
+Heinrich August Jacob
+----------------
+Albert Friedrich Pfeifer
+Friedrich Moritz Ebert
+Friedrich Emil Richter
+----------------
+Franz Otto Engel
+Friedrich Hermann Fischer
+Carl Heinrich Eduard Horn
