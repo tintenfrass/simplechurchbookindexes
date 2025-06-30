@@ -1,11 +1,12 @@
 Oberau (Buch 7)
-Trauungen 1849-1869
+Trauungen 1849-1875
 https://www.archion.de/de/viewer/churchRegister/289464?pageId=40223689
 
 
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -197,3 +198,62 @@ Johann Heinrich Hähne
 Friedrich August Huhn
 Samuel Fürchtegott Quittel
 Ernst Wilhelm Grimmer
+----------------
+1870
+Gottlob Ernst Eichler
+Friedrich Wilhelm Reinhold Zeidler
+Friedrich Traugott Döring
+August Herrmann Brater
+Johann Ernst Neumann
+----------------
+Friedrich Wilhelm Lieder
+Johann Gottfried Niese
+----------------
+1871
+Gotthelf Hofmann
+Carl Traugott Reinhold
+Johann Ernst Lange
+Ernst Hermann Grötzsch
+Friedrich August Thieme
+----------------
+Ernst Wilhelm Menzel
+----------------
+1872
+Friedrich August Wilhelm Krause
+Carl Heinrich Reinhold
+Friedrich Wilhelm Bärwald
+Carl Christlieb Starke
+Johann Christlieb Zocher
+August Leibnitz
+----------------
+Johann Gottfried Ernst Klinger
+Friedrich Wilhelm Thieme
+Dietrich Carl Carlowitz
+Carl Gottlieb Leuschner
+Friedrich August Merkel
+----------------
+Gustav Albert Schreibelmayer
+1873
+Friedrich Hermann Pottig
+Friedrich August Schlechte
+August Hermann Fichtner
+Friedrich Ernst Starke
+Gottfried Hermann Rühle
+----------------
+Gustav Adolf Haferburg
+1874
+Ernst Ferdinand Sommer
+Friedrich Wilhelm Böhme
+Carl Friedrich Eduard Mehlig
+----------------
+Friedrich Hermann Thieme
+Friedrich August Thieme
+Friedrich Richard Miesel
+Friedrich Hermann Petzsch
+----------------
+1875
+Heinrich Hermann Ludwig Büssow
+Hermann Julius Starke
+Ernst Herrmann Reinhold
+----------------
+Julius Theodor Schreibelmayer

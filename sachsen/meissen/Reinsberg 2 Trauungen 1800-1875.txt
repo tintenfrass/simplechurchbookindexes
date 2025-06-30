@@ -1,5 +1,5 @@
 Reinsberg (Buch 2)
-Trauungen 1800-1869
+Trauungen 1800-1875
 https://www.archion.de/de/viewer/churchRegister/289497?pageId=40272581
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -14,6 +14,7 @@ November 2024
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1060,3 +1061,126 @@ Ernst Moritz Lippmann
 Carl Eduard Berger
 Friedrich Herrmann Franz
 Friedrich Gotthelf Leupold
+1870
+Friedrich Wilhelm Maune
+Friedrich August Zieschang
+Karl August Oberhäuser
+Wilhelm Anton Petzold
+Wolf Louis Thielemann
+----------------
+Friedrich Wilhelm Lantzsch
+Fürchtegott Louis Hannig
+Ernst Louis Silbermann
+Friedrich Robert Voigt
+Friedrich Hermann Schubert
+Leberecht Ernst Herklotz
+Ernst Junius? Schubert
+Friedrich Ernst Liebschner
+Ernst Friedrich Kunze
+Heinrich Ferdinand Ulbricht
+----------------
+1871
+August Moritz Pitsch
+Friedrich Wilhelm Löche
+Heinrich Hermann Beckert
+Carl August Oswald Berthold
+Carl Heinrich Tauchert?
+Hermann Louis Uhlig
+Carl Eduard Dittrich
+Carl Oscar Milde
+Carl Heinrich Schmidt
+Eduard Hermann Schättler
+----------------
+Friedrich Eduard Kempick?
+Carl Theodor Petzold
+Friedrich August Carl Lange
+Ernst Wilhelm Diersche
+Friedrich Hermann Schiebold
+Ernst Gottlieb Erler
+Gustav Eduard Kunze
+Friedrich August Pietzsch
+1872
+Friedrich Wilhelm Dachsel
+Hermann Moritz Junghanß?
+----------------
+Friedrich Ferdinand Ebert
+Ernst Eduard Erler
+Carl Friedrich Rost
+Fürchtegott Oswald Hennig
+Ernst Julius Grahl
+Friedrich Wilhelm Bretschneider
+Friedrich Ernst Damm
+Carl Gottlieb Krüger?
+Karl Wenke?
+Johann Georg Findeisen
+----------------
+Johann Gottlieb Frenzel
+Carl Anton Löffler
+Carl Gustav Heinrich Hempel
+Gotthelf Ferdinand Küchenmeister
+1873
+Wilhelm Bernhard Ottomar Hildebrand
+Benno Volkmar Alexander Gebhardt
+Friedrich August Barthel
+Julius Eduard Schäfer
+Hermann Moritz Stende
+Ehregott Friedrich Reine?
+----------------
+Julius Hermann Schmidt
+Carl Friedrich Werner
+E? Otto Riedel
+August Wilhelm Leichsenring
+Ernst Robert Fischer
+Friedrich August Haupt?
+Ernst Adolf Weber
+Paul Woldemar Wilhelm
+Ernst Hermann Böhme
+August Edwin Rühle
+----------------
+Friedrich Oswald Gretschel
+Carl Richard Zieger
+August Hermann Herklotz
+Carl Friedrich August Grahl
+Carl Wilhelm Fehrmann
+1874
+Ernst Otto Hecht
+Ernst Julius Otto Berthold
+Franz Ehregott Thiele
+Ernst Wilhelm Pietzel
+Ernst Robert Heyde
+----------------
+Ernst Louis Erler
+Ernst Leberecht Rentzsch
+Franz Julius Leberecht Berthold
+Carl Friedrich Julius Kunze?
+Friedrich Adolph Kepler?
+August Leberecht Silbermann
+Carl Friedrich Kluge
+Carl Victir Ryssel?
+Ernst Moritz Scharf
+----------------
+Heinrich August Göpfert
+Paul Moritz Petan
+1875
+Ferdinand Eduard Wetzig
+Ernst Wilhelm Rost
+Carl August Richter
+Friedrich August Damm
+Carl Friedrich ?
+?
+----------------
+Wilhelm Ottomar Matthes
+August Emil Kretzschmar
+Carl Ehregott Meyer
+Friedrich Ernst Sparmann
+Reinhold Anton Wätzig
+Friedrich Gustav Heller
+Ernst Friedrich Thiele
+Friedrich Wilhelm Eduard Lobin
+Ernst Wilhelm ?
+----------------
+Carl Friedrich Wilhelm Bernhard
+August Hermann Bretschneider
+Eduin Wilhelm Hermann
+Heinrich Wilhelm Gläser
+Carl Gottlieb Stirl

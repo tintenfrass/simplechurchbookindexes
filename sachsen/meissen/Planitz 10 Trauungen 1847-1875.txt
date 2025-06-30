@@ -1,11 +1,12 @@
 Planitz (Buch 10)
-Trauungen 1847-1869
+Trauungen 1847-1875
 https://www.archion.de/de/viewer/churchRegister/289479?pageId=40227363
 
 
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -370,3 +371,86 @@ Wilhelm Oscar Reinhold Burkhardt
 Friedrich August Bruno Hänsel
 Herrmann Müller
 Karl Bernhard Mechler
+----------------
+1870
+Ernst Hermann Garbe
+Karl Julius Preussler
+Johann Karl Beier
+Christian Gottlieb Heyde
+Ernst Fürchtegott Zschäbitz
+Ernst August Hebold
+----------------
+Johann Gottlieb Sohr
+Karl Adolf Seifert
+Gustav Adolph Schumann
+Robert Oswald Roll
+Karl Ferdinand Riedrich
+Friedrich Ferdinand Raake
+----------------
+1871
+Friedrich Hermann Riedrich
+Johann August Lehmann
+Karl August Hahnefeld
+Adolf Moritz Winkler
+Ernst Moritz Rudolph
+Karl Robert Reinhold Schumann
+Gustav Adolph Gühne
+----------------
+Gustav Adolph Friedrich
+Karl Gottlieb Fischer
+Karl Heinrich Krauspe
+Karl Emil Vogel
+1872
+Ernst Wilhelm Franke
+----------------
+Friedrich Wilhelm Breitling
+Otto Hermann Buchert
+Christian August Ferdinand Thieme
+Karl August Franke
+Friedrich Wilhelm Stephan
+----------------
+1873
+Karl Gustav Wehrmann
+Ernst Ferdinand Lommatzsch
+Friedrich August Klöden
+Ernst Fürchtegott Sturm
+Karl Hille
+Friedrich Louis Raake
+----------------
+Franz Hermann Metzler
+Louis Bruno Schumann
+Friedrich Ernst Wilhelm Schütze
+Johann Gottfried Jentzsch
+Heinrich Franz Berger
+Friedrich Hermann Riedrich
+----------------
+1874
+Traugott Ernst Altmann
+August Wilhelm Rudolph
+Julius Gottlob Gruneberg
+Gottfried Heinrich Begenau
+Hugo Otto Müller
+Friedrich Wilhelm Reimann
+Friedrich Wilhelm Moritz Gottschall
+----------------
+Friedrich August Frenzel
+Karl Heinrich Kotte
+Friedrich Wilhelm Otto
+Hermann Gernegross
+Gotthelf Heinrich Wießner
+----------------
+1875
+Friedrich Hermann Dähne
+Conrad Otto Thieme
+Karl Gottlieb Wächter
+Hermann Reinhold Winkler
+Eduard Oskar Lommatzsch
+----------------
+Louis Hermann Müller
+Ernst Eduard Kluge
+Friedrich Adolf Altermann
+Friedrich Wilhelm Garbe
+Ludwig Adolf Wolf
+----------------
+Friedrich August Rietzschel
+Friedrich August Dämmig

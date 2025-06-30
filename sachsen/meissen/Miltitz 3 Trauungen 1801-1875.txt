@@ -1,5 +1,5 @@
 Miltitz (Buch 3)
-Trauungen 1801-1869
+Trauungen 1801-1875
 https://www.archion.de/de/viewer/churchRegister/283156?pageId=39147935
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -14,6 +14,7 @@ November 2024
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -502,3 +503,67 @@ Carl August Urban
 Erdmann Herrmann Hegner
 Heinrich Herrmann Gläsche
 Carl Friedrich August Ehren
+----------------
+Theodor Julius Grübler
+1870
+Gustav Adolf Köhler
+Ernst Eduard Leuschner
+Ernst Wilhelm Kirsten
+Johann Gottlieb Hermann Wachsmuth
+Carl Franz Julius Funke
+Julius Gustav Mühlberg
+----------------
+Friedrich Wilhelm Quaas
+Carl Leberecht Fürchtegott Thielemann
+Ernst Friedrich Kunze
+Johann Carl Ernst Paul
+1871
+Friedrich Reinhold Hofmann
+Carl Eduard Starke
+Carl Eduard Wiegand
+----------------
+Carl August Heinrich Herrfurth
+Gustav Adolph Gläsche
+Friedrich Wilhelm Gebhardt
+Eduard Hermann Schanze
+1872
+Heinrich Oswald Wiegand
+Adolf Hermann Görne
+Carl Heinrich Jahn
+----------------
+Heinrich Ernst Rudolph
+Heinrich Franz Theodor Edel
+Friedrich August Windschüttel
+Carl Julius Schmidt
+Theodor Hugo Grübler
+1873
+Friedrich Gotthelf Ulbricht
+Franz Wilhelm Bärwald
+Johann Gottlob Gläsche | Ida Franziska Bach //fehlt online
+? Hummel | ? Lippert  //fehlt online
+Friedrich August Lehmann | Johanna Hedwig Riemer //fehlt online
+Friedrich Ernst Müller | Laura Reinhardt //fehlt online
+Carl Robert Seeliger | T? Auguste Windschüttel //fehlt online
+Carl August Kollner? | Charlotta Wilhelmina Dachsel //fehlt online
+1874
+----------------
+Ernst Ehregott Müller
+Heinrich Hermann Handrich
+Friedrich Hermann Steude
+Friedrich Ferdinand Quietzsch
+Carl Heinrich Hermann Wustlich
+Johann Carl Eduard Müller
+----------------
+Ernst Heinrich Lommatzsch
+1875
+Heinrich Hermann Windschüttel
+Carl Gottlob Dachsel
+Carl Paul Grübler
+August Hermann Nestler
+Carl Anton Mosch
+Heinrich Richard Lucas
+----------------
+Karl Ernst Ehregott Protze
+Karl Heinrich Lützner
+Karl August Ropenus?
+Hermann Oswald Harzbecker

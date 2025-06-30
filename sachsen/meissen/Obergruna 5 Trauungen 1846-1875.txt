@@ -1,11 +1,12 @@
 Obergruna (Buch 5)
-Trauungen 1846-1869
+Trauungen 1846-1875
 https://www.archion.de/de/viewer/churchRegister/289469?pageId=40225165
 
 
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -523,3 +524,187 @@ Friedrich Moritz Schmieder
 ----------------
 Ernst Traugott Herrmann Thiele
 August Louis Grimmer
+----------------
+1870
+Karl Moritz Böhme
+Franz Louis Berger
+Theodor Wilhelm Landgraf
+----------------
+August Friedrich Dehne
+Friedrich Wilhelm Döring
+Karl August Hammer
+----------------
+Karl Ernst Leonhardt
+Wilhelm Julius Leuschner
+Karl Ludwig Albert
+----------------
+Friedrich Franz Limbach
+Karl Ernst Illgen
+Karl August Lindner
+----------------
+Johann Friedrich Baumhard
+August Wilhelm Böhme
+Friedrich Hugo Münzner
+----------------
+Heinrich Wilhelm Reymann
+Karl Hugo Rentzsch
+Gustav Adolph Faust
+----------------
+1871
+Heinrich Ferdinand Zeugfang
+Ernst Julius Schmidt
+Ernst Louis Hehler
+----------------
+Karl Joseph Ferdini
+Friedrich Hermann Heyne
+Heinrich Moritz Geißler
+----------------
+Gottlob Moritz Bormann
+Karl Gottlob Schmieder
+----------------
+Friedrich Wilhelm Arnold
+Karl Gustav Bachmann
+Gustav Adolph Haußner
+----------------
+Johann Gotthelf Kunze
+August Wilhelm Thiele
+Ernst Gustav Imhof
+----------------
+1872
+Heinrich Moritz Bachmann
+Bruno Moritz Oehme
+Moritz Emil Wolf
+----------------
+Gustav Alfred Rauchfuß
+Friedrich Wilhelm Friebe
+Gustav Heinrich Hermann
+----------------
+Adolph Moritz Haußner
+Friedrich Wilhelm Gustav Schlorke
+Karl Ferdinand Kohl
+----------------
+Gottfried Traugott Röthling
+Ernst Wilhelm Naumann
+Franz Otto Pfau
+----------------
+Karl Louis Kern
+Bruno Oswald Werner
+Friedrich Eduard Voigt
+----------------
+Heinrich Gumal Straube
+Friedrich Wilhelm Keidel
+Ernst Otto Müller
+----------------
+Karl Gottlob Marx
+Hermann Arthur Abendroth
+Friedrich Julius Geißler
+----------------
+Christian Gumal Peuckert
+Friedrich Wilhelm Naumann
+Ernst Moritz Röthling
+----------------
+Karl August Hähnel
+Karl Gottlieb Voigt
+Karl August Günther
+----------------
+Friedrich Gustav Kunze
+Friedrich Hermann Craßelt
+Ernst Robert Thiemig
+----------------
+1873
+Friedrich Ernst Junghans
+Karl Heinrich Schulz
+Karl Gottfried Lantzsch
+----------------
+Heinrich Gustav Teichert
+Karl Friedrich Kaden
+Ernst Louis Emrich
+----------------
+Karl Julius Schönberg
+Karl Robert Hennig
+Ernst Robert Patzig
+----------------
+Ernst Ehregott Müller
+Karl Wilhelm Sprößig
+Johann Heinrich Böhme
+----------------
+Hermann Alschner
+Johann Karl Julius Reuter
+August Robert Louis Richter
+----------------
+Karl Gotthelf Patzig
+Johann Gottlieb Silbermann
+Karl Franz Gebhard
+----------------
+Karl Gottlob Schmieder
+Christian Samuel Kunze
+Karl Eduard Barthel
+----------------
+Friedrich Hermann Helm
+Emil Guhr
+Franz Hermann Weber
+----------------
+Julius Emil Haußner
+----------------
+1874
+Bruno Julius Haußner
+Johann Salomo Straube
+Karl Friedrich Schmidt
+----------------
+Heinrich Wilhelm Rüger
+Heinrich Gustav Vogel
+Johann Ernst Strauß
+----------------
+Friedrich Wilhelm Wenzel
+Karl Heinrich Limbach
+Karl August Teichert
+----------------
+Gustav Moritz Beyer
+Karl Traugott Richter
+Karl August Illgen
+----------------
+Karl Heinrich Arnold
+Franz Louis Gelbrich
+Friedrich Hermann Craßelt
+----------------
+Franz Richard Krumbiegel
+Johann Georg Schaefer
+Heinrich Hermann Hoppe
+----------------
+Gustav Otto Schmidt
+Franz Hermann Winterlich
+Karl Moritz Köhler
+----------------
+Karl Gustav Gebhard
+----------------
+1875
+Julius Robert Lehmann
+Friedrich Moritz Plee
+Michael August Liebsch
+----------------
+Ernst Moritz Maebert
+August Hermann Sparmann
+Karl Hermann Böhme
+----------------
+Karl Gottlob Kunze
+Georg Albert Wolf
+Otto Hermann Schönberg
+Franz Bruno Hänsel
+----------------
+Ernst Moritz Menzel
+Ernst Julius Schödel
+Traugott Hermann Bachmann
+----------------
+Franz Hermann Händel
+Franz Clemens Büttner
+Ernst Leberecht Lange
+----------------
+Ernst Maximilian Alexander Wächtler
+Julius Wilhelm Müller
+Ernst Wilhelm Kaden
+----------------
+Gustav Adolph Feldmann
+Friedrich August Herrmann
+Albert Moritz Scheibe
+----------------
+Karl Wilhelm Dietrich

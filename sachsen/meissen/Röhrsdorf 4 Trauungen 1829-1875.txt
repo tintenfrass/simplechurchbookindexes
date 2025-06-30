@@ -1,5 +1,5 @@
 Röhrsdorf (Buch 4)
-Trauungen 1829-1869
+Trauungen 1829-1875
 https://www.archion.de/de/viewer/churchRegister/289501?pageId=40232332
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ Novemeber 2024
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -644,3 +645,112 @@ Karl August Colditz
 August Ludwig Büttner
 Wilhelm Moritz Fritzsche
 Julius Wilhelm Alexander Koch
+----------------
+1870
+Wilhelm Ernst Tögel
+Gottlob Heinrich Rülker
+Heinrich Ludwig Beyer
+Christian Ernst Hofmann
+Gustav Adolf Philipp
+Traugott Gotthelf Bäßler
+Karl Heinrich Quecke
+Karl Adolph Schumann
+August Hermann Philipp
+Carl Adolf Wazesiusky
+Hermann Julius Gast
+Friedrich August Haase
+Friedrich Wilhelm Krause
+Heinrich Julius Starke
+----------------
+1871
+Ernst Hermann Köhler
+Jacob Matzke
+Karl August Nacke
+Gustav Hermann Winkler
+Heinrich Wilhelm Seifert
+Karl Heinrich Schneider
+Richard Seppelt
+Ernst Heinrich Grätzschel
+Karl Adolf Conrad
+Gustav Adolph Kollbeck
+----------------
+Ernst Bruno Jünger
+Karl August Thümmel
+1872
+Ernst Julius Jänke
+Karl August Lober
+Karl Gottlieb Kretzschmar
+Karl Julius Zschernig
+Ernst Leberecht Lehmann
+Julius Theodor Lehmann
+----------------
+Karl August Klässig
+August Eduard Musch
+1873
+Julius Reinhard Simon
+Georg Victor Adalbert Kuhlmann
+Friedrich Wilhelm Müller
+Gustav Adolph Püschel
+Karl August Hofmann
+----------------
+Gustav Hermann Voigt
+Paul Hermann Schneider
+Ernst Robert Wolf
+Karl Paul Leutritz
+Gustav Heinrich Merker
+Gustav Eduard Dietrich
+Ernst Wilhelm Faust
+Christian Gumal Kunze
+Carl Wilhelm Claus
+Karl Gottlob Saupe
+----------------
+1874
+Carl Gottlieb Bruchholz
+Carl Theodor Wittig
+August Hermann Ranft
+August Wilhelm Maune
+Wilhelm Ernst Wachs
+Ernst Eduard Beier
+Georg August Klien
+Theodor Richard Dreßler
+Ernst Hermann Gauernack
+Carl Friedrich Rüdiger
+Franz Bernhard Gerlach
+----------------
+Friedrich August Thieme
+Carl Heinrich Dutschke
+Carl Adolf Ochdorf
+Julius Hermann Quecke
+Gottlieb Heinrich Kretzschmar
+Hans Ssubla
+Ernst Heinrich Krumpelt
+Carl Adolf Koerner
+Carl August Hermann Winkler
+----------------
+Johann Carl Rabe
+Carl Julius Wogt
+1875
+Gottlieb Wilhelm Zschech
+Carl Eduard Koerner
+Carl August Peschel
+August Heinrich Lehmann
+Gustav Heinrich Bundermann
+Andreas Schlotza
+----------------
+Georg Christoph Schneider
+Friedrich Wilhelm Irmer
+Gustav Adolf Günther
+August Bohot
+Bernhard Anton Fritzsche
+Carl Wilhelm Ernst Feldmann
+Carl Hermann Grellmann
+Carl August Ziegs
+Emil Albert Hennig
+----------------
+Ernst Wilhelm Wagner
+Alexander Luca Oswald Walter
+Ernst Hermann Haase
+Friedrich August Adolf Weigelt
+Ernst Gottlieb Trenkler
+Carl Gottlob Pietzsch
+Ernst Moritz Gauernack

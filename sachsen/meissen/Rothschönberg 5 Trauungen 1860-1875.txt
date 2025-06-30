@@ -1,9 +1,10 @@
 Rothschönberg (Buch 5)
-Trauungen 1860-1869
+Trauungen 1860-1875
 https://www.archion.de/de/viewer/churchRegister/289508?pageId=40233678
 
 
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -131,3 +132,76 @@ Gustav Emil Möbius
 ----------------
 Johann Traugott Weickert
 Karl Friedrich Wagner
+1870
+Ernst Eduard Hachenberger
+Ernst Eduard Leuschner
+----------------
+Ernst Julius Geissler
+Julius Friedrich Wilhelm Klemm
+Wilhelm Robert Ehrlich
+Carl Heinrich Lommatzsch
+August Melde
+----------------
+Carl Heinrich Ernst Panier
+Julius Reinhold Roll
+Robert Oswald Roll
+Friedrich Wilhelm Krumbiegel
+Julius Gustav Mühlberg
+----------------
+Ernst Heinrich Starke
+Carl Ludwig Bretschneider
+Karl Heinrich Wilhelm Schubert
+Karl Franz Moritz Schöne
+----------------
+1871
+Moritz Wilhelm Schnee
+Karl Leberecht Roitzsch
+Franz Hermann Paul
+Wilhelm Robert Paul
+Kurt Bernhard Biedermann
+----------------
+Christian Gottlieb Bretschneider
+Egon Caesar Ferdinand SchönbergRothschönberg
+Friedrich Wilhelm Louis Erler
+----------------
+1872
+Christian Gottlieb Schenderlein
+Karl Hermann Butter
+Karl Hermann Döring
+Johann Gottfried Bauer
+Friedrich Traugott Huhle
+----------------
+1873
+Franz Eduard Steinel
+Ehregott Friedrich Kunig
+Ernst Oskar Hentschel
+Friedrich August Nicklisch
+Karl Gotthelf Klemm
+----------------
+Johann Moritz Peukert
+Gustav Eduard Schubert
+Ernst Traugott Liebert
+Gustav Robert Beulig
+Karl Franz Roßberg
+----------------
+1874
+Friedrich Oswald Rost
+August Illig
+Karl Ernst Schumann
+Friedrich Wilhelm Eduard Bomsdorf
+Karl Hermann Schubert
+----------------
+Ernst Julius Herrfurth
+Ernst Heinrich Domann
+Karl Friedrich Poitz
+Julius Hermann Wätzig
+----------------
+1875
+Karl Leberecht Roitzsch
+Ernst Wilhelm Schützel
+Johann Friedrich Wilhelm Marlon
+Johann Karl Dubsky
+? Gustav Mühlberg
+----------------
+Friedrich Hermann Helm
+Johann Koppen

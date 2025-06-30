@@ -1,11 +1,12 @@
 Neckanitz (Buch 8)
-Trauungen 1847-1869
+Trauungen 1847-1875
 https://www.archion.de/de/viewer/churchRegister/283194?pageId=39156083
 
 
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -366,3 +367,85 @@ Gustav Fürchtegott Ziechner
 ----------------
 Franz Otto Hofmann
 Franz Herrmann Harz
+----------------
+1870
+Carl Friedrich Reinhardt
+Friedrich Ernst Herrmann Glanzberg
+Carl August Kunze
+Friedrich Herrmann Theile
+Herrmann Gustav Schubert
+Theodor Richard Mauff
+----------------
+Ernst Louis Hofmann
+Franz Herrmann Ehrlich
+Carl August Hofmann
+Friedrich Wilhelm Gast
+Friedrich Reinhold Schuster
+Carl Friedrich Wilhelm Merker
+----------------
+1871
+Carl Julius Mirsch
+Carl Moritz Zschörnig
+Friedrich Carl Polster
+Franz Oscar Frohberg
+Carl Gottlob Saupe
+----------------
+Christian Adolph Kiesler
+Heinrich Louis Hempel
+Carl Eduard Lang
+Friedrich Wilhelm Heinrich Otto
+Franz Reinhold Semmig
+Carl Ewald Beyer
+----------------
+1872
+Johann Ferdinand Theodor Huß
+August Herrmann Julius Erbguth
+Friedrich Herrmann Liebe
+Friedrich Ferdinand Reinhold Naumann
+Carl Friedrich Ernst Dietze
+----------------
+Carl Wilhelm Frohberg
+Johann Wilhelm Lorenz
+Heinrich Oscar Wittig
+Carl Friedrich Steude
+Oscar Wittig
+Heinrich Adolf Berge
+Ernst Friedrich Wackwitz
+----------------
+Gustav Adolph Kießling
+----------------
+1873
+Carl Gustav Steudte
+Karl Gustav Kähner
+Friedrich Wilhelm Otto
+Franz Hermann Löbel
+Ernst Reinhold Triebe
+Rudolf Vocke
+Gustav Hermann Michael
+Friedrich Luis Baum
+----------------
+Carl Friedrich Wilhelm Schönweiß
+August Clemens Wendler
+Oscar Wittig
+Ernst Wilhelm Fiedler
+----------------
+1874
+Franz Oscar Glanzberg
+Carl Robert Hofmann
+Carl Gotthelf Träger
+Ernst Hermann Keutel
+Heinrich Moritz Meier
+Franz Robert Hähner
+Ernst Gustav Hofmann
+----------------
+1875
+Franz Emil Paul
+Julius Hermann Händler
+Friedrich Hermann Becker
+Moritz Emil Möbius
+Gustav Ferdinand Krug
+Johann Friedrich Hermann Barthel
+Carl Rudolf Kreisig
+----------------
+Carl Ernst Eulitz
+August Rudolf Gladitz

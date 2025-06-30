@@ -1,5 +1,5 @@
 Neukirchen (Buch 4)
-Trauungen 1828-1869
+Trauungen 1828-1874
 https://www.archion.de/de/viewer/churchRegister/283199?pageId=39157125
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -11,6 +11,7 @@ November 2024
 Februar 2025
 März 2025
 Mai 2025
+Juni 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -817,3 +818,128 @@ Johann Karl Gottlob Schurig
 Karl Gottlieb Dutschke
 August Heinrich Hunziger
 Friedrich Ferdinand Preißler
+1870
+Ernst Julius Preißler
+Ernst Moritz Müller
+Johann Winkler
+----------------
+Friedrich Hermann Thomas
+Heinrich Oswald Legler
+Julius Friedrich Wilhelm Klemm
+Ernst Julius Geyer
+Friedrich Wilhelm Leonhardt
+Johann Karl Laudel
+Johann Adolph Bachmann
+Karl Friedrich Lahl
+Friedrich Wilhelm Taschenberger
+----------------
+Eduard Winkelmann
+Karl Heinrich Fritzsche
+Julius Bruno Weichelt
+Karl August Otto
+1871
+Gustav Eduard Legler
+Fürchtegott Heinrich Birkner
+----------------
+August Arno Roßdalsky
+August Ludwig Herrnsdorf
+Heinrich Anton Otto
+Karl Gottlieb Zietzsch
+Johann Gottlob Lösche
+Karl August Dietzig
+Ernst Heinrich Müller
+----------------
+Karl Heinrich Schmidt
+Gustav Adolph Bormann
+Heinrich Gottlob Johne
+Karl Gotthelf Hähnel
+Karl Wilhelm Hänel
+Ernst Wilhelm Wittig
+Friedrich Hermann Schob
+Karl Emil Reinhard Greibig
+----------------
+1872
+Friedrich Wilhelm Dachsel
+Franz Hermann Paul
+Karl Gottlob Wiedemann
+Karl Traugott Wauer
+Karl August Teichmann
+Julius Hermann Dietze
+Ernst Moritz Mehnert
+----------------
+Johann Friedrich August Geyer
+Heinrich Moritz Rüdiger
+Heinrich Wilhelm Rüger
+Karl August Gölfert
+Karl Friedrich Spengler
+Hermann Eduard Hänel
+Ernst Hermann Strehle
+Gustav Rudolph Legler
+----------------
+Karl August Kläßig
+Karl Wilhelm Hänel
+Karl Adolph Döring
+Karl Wilhelm Müller
+Johann Gotthelf Kretzschmar
+Karl Wilhelm Sparmann
+Ernst Moritz Krause
+----------------
+Friedrich Wilhelm Jentzsch
+Johann Carl Gotthelf Strohbach
+Franz Richard Weichelt
+Hermann Julius Haase
+August Eduard Rost
+Gustav Theodor Heinrich
+----------------
+1873
+Ernst Moritz Dietrich
+Karl Gottlieb Seifert
+Franz Robert Fehrmann
+Ludwig Otto Weichelt
+Ernst Hermann Mehlig
+----------------
+Ernst Moritz Schubert
+Gotthelf Hermann Wüstling
+Friedrich August Klemm
+Friedrich August Görnitz
+Moritz Leberecht Mäser
+Heinrich Theodor Legler
+----------------
+Ernst Eduard Giessner
+Carl Ernst Pötzsch
+Friedrich Hermann Hase
+Friedrich Wilhelm Jäpel
+Ernst Julius Schubert
+Joseph Escher
+Franz Ferdinand Seifert
+----------------
+Friedrich Ernst Batzer
+Heinrich Eduard Haase
+Carl August Bölke
+Carl Gustav Jentzsch
+----------------
+1874
+Heinrich Eduard Küchenmeister
+Carl August Wollner
+Friedrich Ehregott Clausnitzer
+Friedrich Eduard Küttner
+Gustav Adolf Hennig
+August Wilhelm Beyer
+----------------
+Johann Friedrich Preissler
+Adolf Hermann Mahner
+Adolf Eduard Otto
+Carl August Schmidt
+Moritz Clemens Andrae
+Heinrich Julius Conrad
+----------------
+Traugott Friedrich Hänel
+Ernst Heinrich Dachsel
+Friedrich August Lauterbach
+Traugott Kuhn
+Ernst Friedrich Krumbiegel
+Friedrich August Otto
+Ernst Eduard Grossöhmig
+----------------
+Carl August Teich
+Gustav Ferdinand Lommatzsch
