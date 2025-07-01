@@ -1,10 +1,11 @@
 Striegnitz (Buch 8)
-Trauungen 1853-1869
+Trauungen 1853-1874
 https://www.archion.de/de/viewer/churchRegister/289588?pageId=40250852
 
 
 März 2025
 Mai 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -318,3 +319,91 @@ Franz Theodor Roßberg
 Karl Friedrich Theodor Franke
 ----------------
 Gustav Clemens Lehmann
+----------------
+1870
+Karl Bernhard Gappisch
+Karl Friedrich Wilhelm Lunkwitz
+Gustav Ernst Schulze
+Karl Gottlob Thierbach
+Ernst Wilhelm Thieme
+----------------
+Benjamin Friedrich Ernst Oehmigen
+Johann Martin Frommer
+Friedrich Ernst Florens Meune
+----------------
+1871
+Heinrich Paul Schuffler
+Johann Gottlieb Wagner
+Karl Wilhelm Rößler
+Karl Wilhelm Frohberg
+----------------
+Moritz Hermann Haupt
+Moritz Gustav Adolph Mißbach
+Gustav Hermann Frohberg
+Friedrich Wilhelm Antrak
+Ernst Hermann Antrak
+----------------
+Karl Gottlob Kretzschmar
+Johann Karl Moritz Thomas
+Karl Gottlieb Fischer
+Heinrich Friedrich Windler
+----------------
+1872
+Franz Clemens Reiche
+Friedrich Hermann Kunze
+Wilhelm Louis Gatsch
+Karl Friedrich Güldner
+Friedrich Wilhelm Lehmann
+----------------
+Johann Friedrich Traugott Blaas
+Friedrich Hermann Engelmann
+Johann Ernst Hermann Röder
+Julius Theodor Lehmann
+Hermann Moritz Möbius
+Karl Friedrich Lau
+----------------
+Ernst Bruno Kirbach
+Karl Gotthelf Kleber
+Friedrich Louis Walther
+Karl Heinrich Ernst Nitzschke
+Paul Robert Böhme
+Karl Friedrich Wilhelm Räder
+----------------
+Karl Heinrich Bärsch
+----------------
+1873
+Friedrich Hermann Wittig
+Gustav Adolph Schneider
+Ernst Moritz Engelmann
+Friedrich Wilhelm Ehrlich
+Heinrich Richard Clauß
+Franz Julius Angermann
+----------------
+Karl Reinhold Jentzsch
+Ernst Moritz Schanze
+Friedrich Ernst Rothe
+Friedrich Wilhelm Haupt
+----------------
+1874
+Karl Hermann Ermer
+Friedrich Hermann König
+Friedrich Hermann Nitzsche
+Moritz Fürchtegott Kirsten
+Karl Hermann Buchert
+Karl Eduard Förster
+----------------
+Karl Hermann Winkler
+Karl Wilhelm Dietrich
+Paul Leonhardt Koch
+Johann Moritz Kirchner
+Karl Leberecht Thamm
+Ernst Friedrich Zieger
+----------------
+Friedrich Ernst Schuster
+Heinrich Paul Hermann Kupfer
+Karl Wilhelm Thomas
+August Moritz Leonhardt
+Ernst Louis Saupe
+----------------
+Paul Robert Böhme
+Ernst Julius Richter

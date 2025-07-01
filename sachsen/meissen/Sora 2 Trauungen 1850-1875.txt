@@ -1,10 +1,11 @@
 Sora (Buch 2)
-Trauungen 1850-1869
+Trauungen 1850-1875
 https://www.archion.de/de/viewer/churchRegister/289556?pageId=40245538
 
 
 März 2025
 Mai 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -167,3 +168,63 @@ Traugott Herrmann Schumann
 Ernst Hermann Hillig
 Carl August Kramer
 Carl Wilhelm Behrisch
+----------------
+1870
+Johann Friedrich Bennewitz
+Johann Gottlieb Nitzsche
+August Ferdinand Kirsten
+Gotthelf Ernst Kuppe
+Theodor Hermann Taubenheim
+----------------
+Franz Moritz Kleber
+August Hermann Lehmann
+Carl August Lehmann
+----------------
+1871
+Ernst Eduard Wittig
+Ernst Hermann Grötzsch
+Carl Julius Matthä
+Friedrich August Weber
+----------------
+Karl Friedrich Weise
+Karl Heinrich Louis Eger
+Gottfried Leberecht Wolf
+----------------
+1872
+Carl Danko Schubert
+Carl Eduard Kunze
+Carl Theodor Hunger
+Friedrich August Werrmann
+----------------
+Ernst Wilhelm Schulze
+Johann Traugott Oswald Güldner
+Traugott Adolph Wirth
+Friedrich Oswald Köhler
+Gottlob Herrmann Schumann
+----------------
+1873
+Ernst Richard Horn
+Carl Heinrich Mußbach
+Carl Adolph Kramer
+Karl August Nacke
+Moritz Richard Wätzel
+----------------
+Heinrich Hermann Hillig
+Franz Emil Hochmuth
+Carl August Friedrich Hübner
+Friedrich Eduard Gäbler
+----------------
+1874
+Traugott Leberecht Franke
+Heinrich Hermann Rühle
+Carl August Leuschner
+Johann August Triebe
+----------------
+1875
+Carl Heinrich Nestler
+Julius Gustav Hermann Pflugbeil
+Ernst Rudolph Schaffer
+----------------
+Gustav Adolph Heyde
+Karl Hermann Kleeber
+Gustav Theodor Jurisch

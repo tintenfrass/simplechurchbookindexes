@@ -1,5 +1,5 @@
 Weistropp (Buch 10)
-Trauungen 1830-1869
+Trauungen 1830-1875
 https://www.archion.de/de/viewer/churchRegister/289644?pageId=40260861
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ November 2024
 Februar 2025
 März 2025
 Mai 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1019,3 +1020,189 @@ Heinrich Theodor Meusel
 Traugott Gottlob Müller
 Franz Oskar Naumann
 Heinrich Herrmann Funke
+----------------
+1870
+Ernst August Hornauf
+Carl August Bransk
+Ernst Hermann Gast
+Carl Traugott Beurich
+----------------
+Emil Moritz Grosche
+Johann Gotthelf Jacob
+Gustav Adolf Schmieder
+Hermann Moritz Henker
+----------------
+Johann Traugott Piock?
+Friedrich Wilhelm Ludwig Leonhardt
+Ernst Moritz Straube
+Carl August Schramm
+----------------
+August Moritz Hahn
+Johann Ernst Gustav Merbitz
+Ernst Wilhelm Bransk
+Heinrich Ernst Tausent
+----------------
+Carl Ernst Dechert
+Ernst Adolf Uhlig
+August Hermann Lehmann
+Johann Adolf Knöfel
+----------------
+Johann Wilhelm Humbsch
+Friedrich Wilhelm Krause
+Traugott Hermann Mehlig
+----------------
+1871
+Carl Adolph Küttner
+Ernst Ludwig Lippisch
+Friedrich August Julius Roßberg
+----------------
+Carl August Angermann
+Carl August Grosche
+Gottlieb Leberecht Jäger
+Johann Carl Heinrich Heidrich
+----------------
+Hermann Ernst Schröter
+Heinrich Wilhelm Seifert
+Carl Gustav Kretzschmar
+Carl Gottlieb Märker
+----------------
+Moritz Hermann Schmieder
+Carl August Angermann
+Friedrich August Nitschke
+Carl Traugott Leunert
+----------------
+Johann Ernst Julius Vogt
+Alexander Hermann Kießling
+Adolf Hermann Hetmank
+----------------
+Heinrich Gottlieb Rühle
+Friedrich August Adam
+Ernst Gotthelf Ranft
+Carl Ernst Thieme
+----------------
+----------------
+1872
+Friedrich Adolph Hentzschel
+Gottfried Heinrich John
+Carl Wilhelm Friedrich Ludwig Herrmann
+----------------
+Carl Ernst Heyne
+Julius Bernhard Lehmann
+Friedrich Moritz Seyffarth
+----------------
+Carl Wilhelm Teichmann
+Ernst Heinrich Becker
+Reinhold Oskar Plattner
+----------------
+Ernst Adolf Bruno Fickler
+Johann Julius Gommlich
+Friedrich Gottlob Haußmann
+----------------
+Carl Julius Hauswald
+Ernst Wilhelm Herbst
+Christian Friedrich Bräuer
+----------------
+Friedrich Wilhelm Grafe
+Wilhelm Ehregott Hölzel
+Johann Friedrich August Sterl
+----------------
+Carl Heinrich Winkler
+Friedrich Ernst Herrmann
+Carl Heinrich Gottlob Fehrmann
+----------------
+Carl Mattheus Richsrd Kühnel
+Carl Ernst Rumpelt
+August Ludwig Jungk
+----------------
+1873
+Moritz Louis Beger
+Carl Wilhelm Zschitzschmann
+Rudolph Arthur Cunradi
+----------------
+Carl Gottlob Petermann
+Johann Adolph Knöfel
+Friedrich August Moses
+----------------
+Hermann Robert Angermann
+Friedrich Ernst Walther
+Moritz Zimmermann
+----------------
+Johann Friedrich Julius Mehnert
+Friedrich August Heinze
+Gustav Adolph Ranft
+----------------
+Carl Eduard Rietzsche
+Ernst Michael Herrmann Martin
+Gustav Hermann Adam
+----------------
+Carl August Märker
+Ernst Robert Wolf
+Carl Gotthelf Mehlig
+----------------
+Friedrich Wilhelm Schramm
+Gustav Heinrich Märker
+August Emil Fehrmann
+----------------
+Franz Hermann Löwe
+Friedrich Ernst Pfützner
+Carl Edmund Kirsten
+----------------
+Carl Julius Gottschalk
+----------------
+1874
+Franz Herman Schlechte
+Ernst Hermann Schneider
+August Hermann Ranft
+----------------
+Carl Moritz Dietze
+Ernst Julius Angermann
+Ernst Adolph Löbe
+----------------
+Ernst Theodor Hörig
+Gustav Hermann Kunath
+Ernst Traugott Grosche
+----------------
+Gustav Julius Herrmann
+Carl Gottlob Ernst Schuster
+Carl Friedrich Emil Beger
+----------------
+Carl Schumann
+Carl Friedrich Hofmann
+Ernst Wilhelm Krautschik
+----------------
+Franz Eduard Mäbert
+Heinrich Gottlieb Mißbach
+Oskar Alexander Bernhardt Burkhardt
+----------------
+Johann Carl Rabe
+Carl Friedrich Hensel
+Johann Carl Wittig
+----------------
+Ernst Gotthold Kirchner
+----------------
+1875
+Hermann Eduard Grosche
+Friedrich Hermann Münz
+Carl August Peschel
+----------------
+Oskar Fürchtegott Mehnert
+Reinhold Adolph Käseberg
+Carl Emil Hofmann
+----------------
+Gustav Hermann Winkler
+Reinhard Otto Schramm
+Traugott Heinrich Mittag
+----------------
+Ernst Gustav Gerhold
+Paul Oswald Beuchel
+Friedrich Bruno Eckoldt
+----------------
+Ernst Heinrich Becker
+Carl August Gottschalk
+Carl Adolph Hachenberger
+----------------
+Carl August Ziegs
+Ernst Gustav Winkler
+Emil Richard Jentzsch
+----------------
+Carl Bruno Schubert

@@ -1,5 +1,5 @@
 Unkersdorf (Buch 4)
-Trauungen 1793-1869
+Trauungen 1793-1875
 https://www.archion.de/de/viewer/churchRegister/289610?pageId=40255438
 
 
@@ -12,6 +12,7 @@ November 2024
 Februar 2025
 März 2025
 Mai 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -525,3 +526,62 @@ Gustav Adolph Scharfe
 Friedrich August Becker
 ----------------
 Friedrich Wilhelm Großmann
+----------------
+1870
+Heinrich Franz Müller
+Friedrich Robert Frenzel
+Carl Wilhelm Müller
+Herrmann Robert Lommatzsch
+Christian August Arnold
+Ernst Friedrich Findeisen
+Friedrich Ernst Herrmann
+----------------
+1871
+Johann Ernst Julius Voigt
+Carl Gottlob Schöne
+Carl August Pohrisch
+Friedrich Ernst Ehrlich
+Johann Wilhelm Moritz Schreiber
+Gustav Adolph Füllkrug
+----------------
+Gustav Eduard Lotze
+Ernst Eduard Schwarzlos
+Heinrich Otto Bochmann
+----------------
+1872
+Carl Friedrich Hegewald
+Christian Friedrich Flemming
+Wilhelm Ernst Meschke
+Ernst Julius Weickert
+----------------
+1873
+Anton Clemens Eugen Richter
+Friedrich August Flemming
+Carl Traugott Klinger
+Ernst Louis Wittig
+Karl Heinrich Aehlig
+Gustav Moritz Fehre
+----------------
+Heinrich August Heine
+Gustav Adolf Schaarschuch
+Friedrich Ernst Günther
+August Wilhelm Zickler
+----------------
+1874
+Ernst Friedrich Johannes
+Carl Hermann Moritz Gerschner
+Friedrich Wilhelm Iltzsche
+Carl Hermann Schubert
+Wilhelm Gustav Tracksdorf
+----------------
+Ernst Moritz Irmer
+----------------
+1875
+Julius Louis Hagenow
+Carl Friedrich Adolf Gerschner
+Friedrich Hermann Pietzsch
+Theodor Clemens Eiselt
+Ernst Julius Tränkner
+----------------
+Friedrich Ernst Hermann Eishold
+Carl Bruno Schubert

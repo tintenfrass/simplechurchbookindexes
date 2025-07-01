@@ -1,5 +1,5 @@
 Wendischbora (Buch 5)
-Trauungen 1838-1869
+Trauungen 1838-1875
 https://www.archion.de/de/viewer/churchRegister/289655?pageId=40262477
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ November 2024
 Februar 2025
 März 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -353,3 +354,87 @@ Gustav Moritz Heinrich
 Franz Hermann Kretzschmar
 Heinrich August Helbig
 Heinrich Julius Peege
+1870
+Friedrich Julius Lommatzsch
+Heinrich Hermann Hanicke
+----------------
+Heinrich Ernst Thielemann
+Hermann Moritz Heinrich
+Friedrich Wilhelm Schumann
+Karl Gottfried Fischer
+Johann Forkel
+Karl Ernst Hofmann
+Karl Friedrich Weber
+Heinrich Robert Schlegel
+----------------
+Karl Gottlob Pochert
+Ernst Moritz Hunger
+Johann Karl Gotthelf Roeder
+Ernst Heinrich Starke
+Gustav Adolph Faust
+1871
+Karl Heinrich Schlicke
+Ernst Heinrich Kretzschmar
+Karl Alwin Schmidt
+----------------
+Gustav Ehregott Arnhold
+Friedrich August Paul
+Johann Karl Ernst Starke
+Karl Gottlob Wachs
+Gustav Eduard Schmidt
+Heinrich Julius Gärtner
+Heinrich Gottlob Johne
+Moritz Wilhelm Heinrich
+----------------
+Gustav Adolph Henker
+Karl August Peege
+Johann Friedrich Wilhelm Streller
+Karl Eduard Berger
+1872
+Karl Heinrich Händel
+Ernst Ferdinand Homberg
+Karl Wilhelm Jahn
+Friedrich Wilhelm Beger
+----------------
+Friedrich Wilhelm Damm
+Karl Fürchtegott Gelbrich
+Eduard Hermann Richter
+Karl Eduard Schumann
+1873
+Karl Gottlieb Kühne
+Franz Hermann Streller
+Friedrich Moritz Weber
+Friedrich Hermann Hase
+----------------
+Karl Ernst Fürchtegott Ryssel
+Friedrich Wilhelm Damm
+Friedrich August Jeschke
+Carl Ehregott Dachsel
+Karl Eduard Berger
+1874
+Ernst Hermann Geißler
+Gustav Hermann Dietrich
+Karl Friedrich Jank
+Friedrich Hermann Gärtner
+----------------
+Heinrich Otto Wagner
+1875
+Franz Louis Gärtner
+Ernst Moritz Maebert
+Friedrich Hermann Gappisch
+Heinrich Oswald Legler
+Friedrich Hermann Poetzsch
+Gustav Eduard Kühne
+----------------
+Anton Otto Bennewitz
+Karl Robert Richter
+Karl Wilhelm Weise
+Gustav Adolph Opitz
+Franz Robert Streller
+Heinrich Gottfried Arnhold
+Karl Friedrich Schaefer
+Karl Moritz Häntsch
+----------------
+Julius Eduard Heergeist
+Friedrich Theodor Hertwig
+Heinrich Hermann Draßdo

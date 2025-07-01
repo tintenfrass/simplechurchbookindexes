@@ -1,10 +1,11 @@
 Ziegenhain (Buch 6)
-Trauungen 1850-1869
+Trauungen 1850-1875
 https://www.archion.de/de/viewer/churchRegister/289692?pageId=40271741
 
 
 März 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -346,3 +347,108 @@ Karl August Schmidt
 Wilhelm Heinrich Hänsel
 Johann Friedrich August Martin
 Johann Traugott Weber
+1870
+Michael August Schibak
+Gustav Adolf Steiger
+----------------
+Otto Emil Haan
+Karl Moritz Schumann
+Traugott Karl Dietze
+Karl Eduard Hofstädter
+Ernst Moritz Richter
+Karl Ferdinand Schmidt
+Friedrich Adolf Crasselt
+Karl Heinrich Zschorn
+----------------
+Friedrich August Dehne
+Karl Moritz Troischt
+Karl Otto Roitzsch
+Karl August Leberecht Zocher
+Karl Wilhelm Herbst
+Friedrich Louis Rost
+----------------
+1871
+Ernst Moritz Wackwitz
+Karl Wilhelm Rössler
+Gustav Adolph Heinicke
+Karl Gustav Müller
+Karl Gottlob Damme
+Friedrich Wilhelm Börner
+Johann Friedrich Wilhelm Kühne
+----------------
+Friedrich Ernst Zieger
+Karl Eduard Berger
+1872
+Eduard Wilhelm Schmidt
+Michael Kreutz
+Friedrich Hermann Ulbrich
+----------------
+Heinrich Wilhelm August Haupt
+Friedrich Wilhelm Beger
+Moritz Hermann Ficke
+Ernst Heinrich Möbius
+Heinrich Ferdinand Schmieder
+August Ferdinand Seidel
+Friedrich Ferdinand Beuchel
+Karl Friedrich Steude
+----------------
+Karl Robert Helm
+Heinrich Franz Theodor Edel
+Karl Heinrich Schulze
+Heinrich Moritz Rüdrich
+Friedrich Ernst Saupe
+----------------
+1873
+Karl Gustav Wehrmann
+Hugo Theodor Knäbel
+Ernst Reinhold Mehnert
+Franz Eduard Härtler
+Karl Friedrich Beege
+Karl Friedrich Pötzsch
+Friedrich Gustav Günther
+----------------
+Friedrich Wilhelm Pönisch
+Florian Franz Gühne
+Franz Julius Rost
+Friedrich Ernst Beger
+Friedrich Ernst Müller
+Wilhelm Clemens Frohberg
+Friedrich Hermann Wendsche
+----------------
+Friedrich Wilhelm Umlauf
+Friedrich Ernst Hermann Schreiber
+Karl Friedrich Gentzsch
+Gottlob Ernst Herbst
+Heinrich Pölitz
+Friedrich Hermann Riedrich
+Karl August Breitling
+----------------
+1874
+Friedrich Wilhelm Kunze
+Gottlob Ernst Herbst
+Moritz Hermann Görne
+Karl Heinrich Jork
+Ernst Louis Müller
+Karl Heinrich Maul
+Friedrich Wilhelm Otto
+----------------
+Franz Robert Hähner
+Karl Wilhelm Reuchler
+Ernst Heinrich Roßberg
+Magnus Richard Zschoche
+----------------
+1875
+Traugott Hermann Schumann
+Paul Bernhard Hadank
+Friedrich Moritz Burkhardt
+Karl August Bräuer
+Johann Ernst Otto Seifert
+----------------
+Karl Gottlob Zocher
+Ferdinand Louis Seifert
+Karl Moritz Dietze
+Gustav Adolf Zieger
+Franz Wilhelm Silbermann
+Adolf Ernst Dietrich
+----------------
+Ernst Wilhelm Lindner

@@ -1,11 +1,12 @@
 Zadel (Buch 7)
-Trauungen 1844-1869
+Trauungen 1844-1870
 https://www.archion.de/de/viewer/churchRegister/289670?pageId=40267151
 
 
 Februar 2025
 März 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -748,3 +749,29 @@ Friedrich Ernst Haase
 Karl Friedrich Otto
 Moritz Heller
 Friedrich Ernst Graf
+1870
+Johann Gottfried Richter
+----------------
+Karl Gotthelf Eduard Hauswald
+Gustav Eduard Lehmann
+Johann Gottlob Hermann Zschoke
+Heinrich Leberecht Sörnitz
+Johann Paul Wiese
+Johann Christian Förster
+Ernst Hermann Reif
+Hermann Raimund Schmorl
+Friedrich Wilhelm Ernst Großöhmigen
+Friedrich Wilhelm Bielitz
+----------------
+Karl Gottlob Köhler
+Johann Gottfried Krügel
+Friedrich Wilhelm Eichhorn
+Johann Gottfried Thiele
+Heinrich Wilhelm Große
+Karl Wilhelm Zenke
+Karl Heinrich Wesner
+Johann Eduard Leuteritz
+Karl Gotthelf Rothe
+----------------
+Gottfried Ernst Banke
+Heinrich Moritz Berthold
