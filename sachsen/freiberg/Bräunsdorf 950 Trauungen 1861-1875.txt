@@ -1,9 +1,10 @@
 Bräunsdorf (Buch 950)
-Trauungen 1861-1869
+Trauungen 1861-1875
 https://www.archion.de/de/viewer/churchRegister/340814?pageId=47867584
 
 
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -40,3 +41,30 @@ Johann Friedrich Oswald Döhler
 1869
 Ernst Wilhelm Clemens Oelschlägel
 Karl Heinrich Richter
+---------------- x10
+1870
+Johann Carl Schurig
+Karl Gustav Adolph Riehle
+---------------- x10
+1871
+Emil Ferdinand Kretschmar
+Emil Friedrich Wilhelm Max Steinke
+---------------- x8
+1872
+Oscar Bollinger
+Theodor Hildebrand
+----------------
+Friedrich August Theodor Giesemann
+---------------- x7
+1873
+Gustav Adolf Langer
+Carl August Döhler
+---------------- x5
+1874
+Paul Wilhelm Plattner
+Johann Friedrich Ackermann
+Traugott Eduard Schütze
+---------------- x6
+1875
+Traugott Eduard Schütze
+Eduard August Bruno Walther

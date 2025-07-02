@@ -1,10 +1,11 @@
 Freiberg St. Johannis (Buch 600)
-Trauungen 1850-1869
+Trauungen 1850-1873
 https://www.archion.de/de/viewer/churchRegister/341065?pageId=47913527
 
 
 März 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -479,3 +480,125 @@ Karl Friedrich Ernst Heyde
 Karl Gottlieb Gelfert
 ----------------
 Anton Wilhelm Liebscher
+----------------
+1870
+Gustav Alexander Hebert
+Emil Moritz Lorenz
+Carl Moritz Meyer
+----------------
+Heinrich Moritz Hammermüller
+Carl Wilhelm Mende
+Johann Friedrich Fischer
+----------------
+Heinrich Wilhelm Franke
+Robert August Lehnert
+Friedrich Anton Krumbiegel
+----------------
+Christian Friedrich Walter
+August Moritz Fischer
+Johann Gottlob Müller
+----------------
+Friedrich Wilhelm Dietze
+Ernst Gustav Baumgart
+Karl Gustav Dittrich
+----------------
+Friedrich Wilhelm Priebs
+Ernst Julius Sobe
+Karl August Franke
+----------------
+Johann Mattheus Nikol Tyroff
+Ehregott Ferdinand Thiemer
+Heinrich August Götze
+----------------
+Karl Gottlieb Neubert
+Oskar Richard Richter
+----------------
+1871
+Carl Gottlieb Börner
+Friedrich August Fischer
+Carl Friedrich Kretzschmar
+----------------
+Anton Friedrich Börner
+Carl Ernst Seidel
+Friedrich Wilhelm Börner
+----------------
+Ernst Eduard Michaelis
+Wilhelm Oscar Julius Zieger
+Johann August Heinrich Fischer
+----------------
+Julius Herrmann Scheunpflug
+Gustav Bernhard Clausnitzer
+Carl August Uhlemann
+----------------
+Eduard Rudolph Anders
+Wilhelm Adolph Dietel
+Friedrich Ernst Diener
+----------------
+Hermann Anton
+Ernst Hermann Schilling
+Ernst Wilhelm Lohse
+----------------
+Ernst Eduard Haase
+Friedrich Wilhelm Wahl
+Carl Gottlieb Fischer
+----------------
+Emil Wilhelm Seipt
+----------------
+1872
+Carl Heinrich Illgen
+Friedrich Hermann Poller
+Eduard Schiffler
+Franz Moritz Claußnitzer
+----------------
+Gustav Richard Harnisch
+Oskar Schmidt
+Traugott Friedrich Richter
+----------------
+Robert Anton Scheidhauer
+Friedrich Heinrich Borrmann
+Wilhelm Heinrich Wetzold
+----------------
+Franz Arno Seyferth
+August Hermann Döring
+Ernst Friedrich Wilhelm Henker
+----------------
+Carl Ernst Haupt
+Adolph Robert Oswald
+Carl Friedrich Kaden
+----------------
+Otto Pfeil
+Carl David Berger
+Friedrich Ernst Dietze
+----------------
+Ernst Heinrich Liebert
+Franz August Scheinert
+Carl Adolph Anders
+Hermann Stiehl
+----------------
+Carl Hugo Israel
+Carl Ernst Berger
+Carl Friedrich Kraut
+----------------
+Friedrich Anton Leschner
+Carl Friedrich Richter
+Friedrich August Heerklotz
+----------------
+Ehregott Oswald Zehl
+Carl Gottlob Nitzsche
+Carl Heinrich Hinkel
+----------------
+Eduard Robert Fischer
+Gottlob Heinrich Schneider
+Ernst Alfred Flade
+----------------
+Friedrich Theodor Ancke
+Carl Julius Fröhlich
+Carl Friedrich Otte
+----------------
+Moritz Oswald Kaiser
+Gustav Adolph Lehnert
+Carl August Böhme
+----------------
+Otto Ludwig Grüntzig
+Clemens Oswald Richter
+Anton Leberecht Henker
