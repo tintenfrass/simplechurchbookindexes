@@ -1,11 +1,12 @@
 Gränitz (Buch 159)
-Trauungen 1845-1869
+Trauungen 1845-1875
 https://www.archion.de/de/viewer/churchRegister/359754?pageId=50652248
 
 
 Februar 2025
 März 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -183,3 +184,42 @@ Carl August Borsch
 Anton Louis Börner
 Carl Oskar Clausnitzer
 Ernst Louis Sandig
+----------------
+1870
+Carl August Büschel
+Ernst Gottlieb Ullrich
+Carl Heinrich Uhlig
+----------------
+1871
+Ernst Julius Schöne
+Hermann Wirtschitzky
+August Adolph Günzel
+Carl Gottlob Zickmantel
+----------------
+1872
+Karl Heinrich Scheffler
+Adolph Reinhold Hacker
+Friedrich Hermann Wächtler
+Albert Albrecht
+Johann Daniel Gottlieb Dietrich
+----------------
+Carl Heinrich Zeitz
+----------------
+1873
+Gustav Julius Kunath
+Friedrich Hermann Förster
+Carl Heinrich Lempe
+Fürchtegott Robert Börner
+----------------
+1874
+Hermann Oswald Steude
+Carl August Auerbach
+Heinrich August Franke
+----------------
+1875
+Carl Ehregott Oehme
+Wilhelm Bernhard Hesse
+Friedrich Hermann Oehme
+August Wilhelm Berger
+----------------
+Friedrich Oswald Walther

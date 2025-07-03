@@ -1,11 +1,12 @@
 Kleinwaltersdorf (Buch 778)
-Trauungen 1848-1869
+Trauungen 1848-1875
 https://www.archion.de/de/viewer/churchRegister/359866?pageId=50672207
 
 
 Februar 2025
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -420,3 +421,152 @@ Carl Christoph Störr
 Friedrich Emil Beyer
 Carl Gottlieb Schwinger
 Ernst Heinrich Fleischer
+----------------
+1870
+Ernst Heinrich Naumann
+Carl Julius Naumann
+Carl Heinrich Frey
+Johann Friedrich Böhme
+Heinrich Moritz Feigenspan
+----------------
+Carl Heinrich Glöckner
+Ernst Wilhelm Krebs
+Ernst Louis Hasche
+Friedrich August Steeger
+----------------
+Friedrich Wilhelm Schulze
+Friedrich August Richter
+Friedrich Herrmann Robert Hofmann
+----------------
+1871
+Ernst August Müller
+Carl Moritz Münzner
+Gustav Albert Otto
+----------------
+Carl August Straube
+Carl Heinrich Hofmann
+Carl Friedrich Emil Lange
+Ernst Friedrich Kohl
+----------------
+Oswald Friedrich Sattler
+Heinrich Wilhelm Stein
+Johann Gottlieb Obendorf
+Richard Bruno Hey
+Traugott Friedrich Preiß
+----------------
+1872
+Johann Friedrich Ernst Schmidt
+Franz Killian
+Heinrich Liebscher
+Friedrich August Fischer
+----------------
+August Israel Kunze
+Johann Theodor Müller
+Friedrich August Fleischer
+Friedrich Ernst Trümer
+----------------
+Rudolph Theodor Schütz
+Ernst Moritz Löschner
+Julius Gustav Knauth
+Ernst Wilhelm Menzer
+----------------
+Franz August Scheinert
+Clemens Theodor Grießler
+Carl Ernst Enzmann
+Carl Heinrich Heyde
+Friedrich Adolph Lange
+----------------
+1873
+August Friedrich Haufe
+Ernst Wilhelm Felgner
+Theodor Oskar Bachmann
+Friedrich Herrmann Barthel
+----------------
+Heinrich Wilhelm Klemm
+Carl Heinrich Hiller
+Friedrich Herrmann Wätzig
+Carl Ernst Ritter
+----------------
+Ernst Heinrich Menzer
+Ernst Eduard Kohl
+Carl August Scheinpflug
+Friedrich August John
+Ernst Leberecht Pomsel
+----------------
+Franz Liebscher
+Heinrich Oswald Henker
+Carl Franz Straube
+Ernst Heinrich Fieke
+Carl Ernst Scheinert
+----------------
+Gustav Herrmann Wätzig
+Christian Friedrich Traugott Berger
+Friedrich August Pflugbeil
+Carl August Menzer
+----------------
+Ernst Eduard Glöckner
+Johann Traugott Felgner
+Carl Friedrich Stein
+August Hermann Richter
+----------------
+1874
+Friedrich August Pohle
+Ernst Wilhelm Stein
+Friedrich August Krumbiegel
+----------------
+Moritz Oswald Bretschneider
+Carl August Heinrich
+Heinrich Ernst Friedrich
+----------------
+Ernst Eduard Erler
+Carl Ernst Böhme
+Friedrich Wilhelm Weise
+Carl Gottfried Geisler
+----------------
+Ernst Wilhelm Glöckner
+Friedrich August Schaal
+Friedrich August Reichardt
+----------------
+Carl August Kluge
+Carl August Schuster
+Ernst Louis Stein
+Carl August Ritter
+----------------
+Heinrich Franz Traugott Mühne
+----------------
+1875
+Friedrich Edmund Ulbricht
+Johann August Noack
+Ernst Wilhelm Kunze
+August Bruno Imhoff
+----------------
+Ernst Heinrich Pflugbeil
+Ernst Heinrich Göpfert
+August Friedrich Zein
+Carl Friedrich Kotte
+----------------
+Heinrich August Hackenberger
+Otto Oswald Münzner
+Ernst Wilhelm Felgner
+Johann August Büttner
+----------------
+Johann Gottfried Krumbiegel
+Gustav Clemens Felgner
+Ernst Louis Franke
+----------------
+Carl Friedrich Fritzsche
+Gustav Adolf Ficke
+Franz Anton Richter
+----------------
+Heinrich Wilhelm Klemm
+Ernst Ferdinand Sohr
+Ernst Heinrich Wittig
+Gustav Herrmann John
+----------------
+Oswald Straßburger
+Gottlob Wilhelm Wolf
+Heinrich Adolph Straube
+Ernst Wilhelm Walther
+----------------
+Ferdinand Friedrich Rößner
+Ernst Friedrich Eduard Zschommler

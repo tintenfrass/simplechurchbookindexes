@@ -1,11 +1,12 @@
 Kleinschirma (Buch 764)
-Trauungen 1841-1869
+Trauungen 1841-1872
 https://www.archion.de/de/viewer/churchRegister/359852?pageId=50669548
 
 
 Februar 2025
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -301,3 +302,37 @@ Ferdinand Heinrich Küttner
 Carl August Straube
 Carl August Friedrich Köhler
 Carl August Neubert
+----------------
+1870
+Wilhelm Münzner
+Ernst Louis Münzner
+Julius Herrmann Göhlert
+Friedrich Herrmann Wolf
+----------------
+Franz Eduard Brendler
+Carl Gottlieb Seidel
+Carl Ernst Jähnig
+----------------
+1871
+Carl Ernst Seidel
+August Eduard Franke
+Wilhelm Heinrich Bormann?
+----------------
+Christian Friedrich Herrmann
+Heinrich Wilhelm Zehl
+August Fürchtegott Stoll
+Carl Heinrich Illgen
+----------------
+1872
+Carl Heinrich Jähnig
+Gustav Adolph Wolf
+Gottlieb Friedrich Reinhold
+Heinrich August Kühn
+----------------
+Friedrich Wilhelm Wolf
+Carl Herrmann Göthel
+Friedrich Wilhelm Graf
+Carl August Mehnert
+Robert Moritz Wolf
+----------------
+Julius Robert Ome

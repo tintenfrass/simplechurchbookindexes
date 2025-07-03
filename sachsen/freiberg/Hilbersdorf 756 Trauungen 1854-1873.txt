@@ -1,10 +1,11 @@
 Hilbersdorf (Buch 756)
-Trauungen 1854-1869
+Trauungen 1854-1873
 https://www.archion.de/de/viewer/churchRegister/359843?pageId=50668053
 
 
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -345,3 +346,80 @@ Carl Louis Schwabe
 Heinrich Wilhelm Richter
 Heinrich Wilhelm Liebscher
 Friedrich August Baumann
+----------------
+1870
+Heinrich Wilhelm Erler
+Carl Otto Franke
+Friedrich Wilhelm Heymann
+Ernst Leberecht Braun
+Ernst Moritz Hofmann
+----------------
+Ernst Wilhelm Eltner
+Friedrich Wilhelm Uhlig
+Friedrich Hermann Thiele
+Carl August Otto
+----------------
+1871
+Friedrich August Krätzer
+Carl Gottlieb Börner
+Ernst Julius Krätzer
+Heinrich Hermann Klein
+Carl Heinrich Lange
+----------------
+Carl August Deistler
+Carl Robert Großmann
+Carl Ferdinand Beier
+Wilhelm Friedrich Gläser
+----------------
+Carl Friedrich Anton Gietzelt
+Friedrich Hermann Engemann
+Julius Sittel
+Carl Friedrich Kempe
+----------------
+Ernst Heinrich Beer
+Carl Traugott Jungnickel
+Carl August Birndt
+Johann Carl Friedrich Öhme
+Emil Wilhelm Seipt
+----------------
+1872
+Friedrich Oswald Müller
+Carl Ferdinand Keller
+Heinrich Ernst Aehnelt
+----------------
+Gustav Adolf Härtel
+Franz Herrmann Tippmann
+Carl Friedrich Raue
+Carl Wilhelm Louis Fleischer
+----------------
+Carl August Müller
+Wilhelm Ferdinand Beyer
+Maximilian Anton Hentzschel
+Carl Eduard Klemm
+----------------
+Carl August Wittig
+Joseph Holley
+Ernst Ferdinand Tränkner
+Carl August Lützner
+----------------
+Johann Traugott Bethig
+Johann Friedrich Traugott Thiele
+----------------
+1873
+Friedrich Heinrich Hempel
+Traugott Leberecht Neuber
+Clemens Richard Langer
+----------------
+Carl Traugott Böhme
+Friedrich Hermann Tanneberger
+Johann Friedrich Julius Gerstenberger
+Carl Heinrich Würzner
+----------------
+Carl Traugott Schöne
+Johann David John
+Carl Heinrich Böhme
+Carl Wilhelm Hammer
+----------------
+Franz Oskar Schrödel
+Carl Louis Schwabe
+Christian Eduard Langer

@@ -1,5 +1,5 @@
 Großschirma (Buch 918)
-Trauungen 1848-1869
+Trauungen 1848-1875
 https://www.archion.de/de/viewer/churchRegister/359819?pageId=50663566
 
 
@@ -9,6 +9,7 @@ Filialkirche Rothenfurth
 Februar 2025
 März 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -349,3 +350,107 @@ Carl Traugott Fleischer
 Gustav Adolph Meutzner
 Ernst Ludwig Voigt
 Franz Heinrich Voigt
+1870
+Ernst Wilhelm Latour
+----------------
+Gustav Hermann Kunze
+Carl Ferdinand Beyer
+Friedrich Wilhelm Friedrich Heidrich
+Heinrich Ernst Martin
+Johann Gottlieb Krumbiegel
+Adolph Julius Richter
+Ernst Paul
+----------------
+Ernst Friedrich Weichold
+1871
+Carl Wilhelm Hachenberger
+Carl August Walther
+Ernst Eugen Claußnitzer
+Alido Manilius Henker
+----------------
+Heinrich Winterlich
+Carl Moritz Wegert
+Carl Gottlob Schmidt
+Ernst Moritz Beckert
+Carl Moritz Döring
+Carl Adolph Richter
+Ernst Julius Baumann
+----------------
+Carl August Fischer
+Karl Friedrich August Münch
+Johann Carl Richter
+Friedrich Wilhelm Richter
+1872
+Friedrich Ferdinand Ebert
+----------------
+Carl Ernst Hunger
+Ernst Heinrich Mende
+Moritz Heinrich Henker
+Carl Heinrich Heede
+Julius Eduard Richter
+Franz Heinrich Stirl
+Carl August Krellmann
+----------------
+Wilhelm Otto Weise
+Carl August Hilbert
+Carl Friedrich Rüger
+August Friedrich Liebschner
+Carl Gottfried Meutzner
+Wilhelm Friedrich Herhold
+----------------
+1873
+Heinrich Wilhelm Göhlert
+Ernst Julius Senke
+Friedrich August Berthel
+Max Wilhelm Fischer
+Ernst Hermann Stirl
+Christian Friedrich Steiger
+Carl Moritz Gretzschel
+----------------
+Heinrich Moritz Störr
+August Moritz Krumbiegel
+Heinrich Jeronimo Köhler
+Fridolin Otto Peukert
+Wilhelm Julius Otto
+Carl Ludwig Uhlmann
+Friedrich Oswald Gretschel
+Johann Gottlob Ernst Beckert
+----------------
+Carl Friedrich Müller
+Christian Friedrich Horn
+Friedrich Robert Beyer
+Carl Heinrich Straßburger
+Bruno Peukert
+Friedrich Gustav Pretzschner
+Arno Osmar Henker
+----------------
+Ernst Moritz Schüller
+1874
+Carl Wilhelm Tanneberger
+Heinrich Julius Walbert
+Franz Porstmann
+Carl Ludwig Kunze
+----------------
+Carl Gottlieb Bäßler
+Ernst Hermann Hähner
+Friedrich Wilhelm Kreißig
+Ernst Eduard Goldammer
+----------------
+1875
+Friedrich Wilhelm Winterlich
+Franz Johann Beckert
+Friedrich Wilhelm Straßburger
+Eduard Johannes Fritzsche
+August Balduin Schubert
+Julius August Beckert
+----------------
+Carl Heinrich Wagner
+Franz Wilhelm Johne
+Heinrich Ernst Klaußnitzer
+Ernst Moritz Arnold
+Carl Gotthelf Oppelt
+Carl Ferdinand Beyer
+Carl Friedrich Morgenstern
+----------------
+Heinrich Ludwig Haupt
+Franz Eduard Arnold
