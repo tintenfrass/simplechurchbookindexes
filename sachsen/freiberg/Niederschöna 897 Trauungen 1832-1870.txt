@@ -1,5 +1,5 @@
 Niederschöna (Buch 897)
-Trauungen 1832-1869
+Trauungen 1832-1870
 https://www.archion.de/de/viewer/churchRegister/360059?pageId=50709989
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ November 2024
 Februar 2025
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1523,3 +1524,45 @@ Heinrich Hermann Fritzsche
 Ernst Heinrich Timmel
 ----------------
 Carl Heinrich Ziegert
+1870
+Anton Clemens Behr
+August Hermann Zimmermann
+Moritz Heinrich Sattler
+Carl Wilhelm Zabelt
+Friedrich Moritz Pfeifer
+----------------
+Ernst Hermann Hachenberger
+Wilhelm Leberecht Jähnig
+Julius Wilhelm Ottomar Bähr
+Ernst Heinrich Knebel
+Friedrich August Clausnitzer
+Arthur August Max Oertzen
+----------------
+Carl Heinrich Weise
+Carl Friedrich Moritz Zeller
+Carl August Hegewald
+Ernst Louis Schanz
+Andreas Wollmann
+Johann Gottlob Heinrich Fischer
+----------------
+Johann Friedrich Pfeifer
+Carl Heinrich Rost
+Carl Gotthold Ernst Weise
+Friedrich Wilhelm Priebs
+Ernst Gustav Liebert
+Friedrich August Zückmantel
+Friedrich Wilhelm Schmidt
+----------------
+Carl Heinrich Braunsdorf
+Carl Friedrich Börner
+Heinrich Wilhelm Hübler
+Ernst Moritz Hachenberger
+Ernst Heinrich Schwarzbach
+Adolph Emil Pflücke
+Carl Heinrich Fritzsche
+----------------
+Herrmann Eduard Hesse
+Friedrich August Berthold
+Carl Friedrich Heinrich Mehnert
+Ernst Heinrich Dietze
+Friedrich Ernst Wolf

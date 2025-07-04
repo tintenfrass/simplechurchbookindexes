@@ -1,5 +1,5 @@
 Niederbobritzsch (Buch 877)
-Trauungen 1832-1869
+Trauungen 1832-1875
 https://www.archion.de/de/viewer/churchRegister/360039?pageId=50706566
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
@@ -10,6 +10,7 @@ November 2024
 Februar 2025
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1055,3 +1056,217 @@ Friedrich Emil Beier
 Friedrich Ernst Beier
 Carl Wilhelm Richter
 Gustav Reinhold Wolf
+1870
+Carl Ernst Kleinhempel
+Carl Friedrich Gottlob Schneider
+Heinrich Wilhelm Erler
+----------------
+Heinrich Clemens Paul
+Wilhelm Ernst Köhler
+Friedrich Gottlieb Meier
+Friedrich Anton Wolf
+Carl Traugott Ferdinand Braeuer
+Carl Gottlieb Schlenkrich
+Gottlieb Friedrich Braune
+Carl Louis Fritzsche
+Friedrich August Dietze
+Gustav Reinhold Schmalz
+Carl Friedrich Fröbel
+Carl Wilhelm Lippmann
+Friedrich Anton Köhler
+----------------
+Clemens Anton Beyer
+Michael Kieschnick
+Heinrich August Götze
+Gustav Oswald Claußnitzer
+Friedrich Wilhelm Uhlig
+Gottlob Friedrich Lohse
+Ferdinand Louis Schulze
+Traugott Wilhelm Müller
+Carl Friedrich Ernst Oestreich
+Moritz Wunibald Uhlemann
+Carl Wilhelm Götze
+Carl Gottlieb Glöckner
+Carl Friedrich Seifert
+----------------
+Ernst Hermann Gelfert
+Carl Eduard Schröter
+Friedrich Wilhelm Wagner
+1871
+Carl Heinrich Wolf
+Ernst Eduard Uhlig
+August Hermann Beckert
+Carl Friedrich Wetzel
+Ernst Anton Liebert
+Ernst Louis Schiffel
+Carl Friedrich Rothe
+Carl Eduard Bötcher
+Franz Louis Ziegs
+----------------
+Ernst Ludwig Hahn
+Carl Heinrich Lange
+Traugott Anton Grimmer
+Carl Gottlieb Lohse
+Carl Hermann Butze
+Heinrich August Stein
+Franz Anton Otto
+Albert Böhme
+Oswald Reinhold Weigold
+Ferdinand Bruno Müller
+Carl Friedrich Anton Gietzelt
+Friedrich Oswald Wolf
+Ernst Heinrich Beer
+Friedrich Wilhelm Wolf
+----------------
+Carl Wilhelm Berger
+Carl Fürchtegott Kirschner
+Carl Gustav Brünn
+Friedrich Oswald Richter
+Friedrich Wilhelm Fritzsche
+Carl Eduard Dietrich
+1872
+Ernst Wilhelm Ihle
+Friedrich Julius Beckert
+Friedrich Oswald Richter
+Friedrich Hermann Poller
+Carl Gottlieb Schneider
+Franz Hermann Tippmann
+----------------
+Ernst Wilhelm Weichert
+Julius Bernhard Lehmann
+Friedrich Wilhelm Schumann
+Carl Wilhelm Peter
+Friedrich Wilhelm Windrich
+Ernst Heinrich Gritzner
+Ernst Eduard Steingen
+Clemens Anton Ihle
+Franz Hermann Beyer
+Carl August Müller
+Friedrich Anton Schmieder
+Franz Louis Beger
+Heinrich Oswald Ihle
+----------------
+Robert Herrmann Beyer
+Franz Herrmann Weigold
+Wilhelm Ferdinand Beyer
+Carl Friedrich Otto
+Friedrich Clemens Zscheile
+Carl Eduard Klemm
+Friedrich Oswald Richter
+Friedrich Oswald Ihle
+Carl Friedrich Heinrich Berger
+Carl Adolph Böhme
+----------------
+Carl Friedrich Wolf
+Friedrich August Gietzsch
+Ernst Friedrich Mertig
+Ernst Wilhelm Wolf
+Johann Heinrich Goldbach
+Friedrich Wilhelm Schröter
+Carl Heinrich Jäpel
+Hermann Julius Müller
+Johann Friedrich Traugott Thiele
+Friedrich Oswald Wolf
+Oswald Adolph Braune
+----------------
+Franz Robert Reichelt
+Franz Hermann Spörke
+Ernst Leberecht Klemm
+1873
+Carl Heinrich Zimmermann
+Friedrich Oswald Liebscher
+----------------
+Karl Friedrich Göhler
+Friedrich Wilhelm Ihle
+Friedrich August Kirsten
+Karl Traugott Böhme
+Franz Liebscher
+Ernst Wilhelm Fischer
+Friedrich Hermann Tanneberger
+----------------
+Ehregott Leberecht Ihle
+Heinrich Oswald Richter
+Anton Wilhelm Beier
+Johann Ferdinand Schiffel
+Friedrich Gottlob Beier
+Julius Hermann Spörke
+Wilhelm Ernst Leiteritz
+----------------
+Karl August Friedrich Stiehl
+Friedrich Wilhelm Lohse
+Franz Ludwig Welz
+Robert Julius Hasse
+Oswald Bruno Friedrich
+Wilhelm Robert Kloß
+----------------
+Oswald Hermann Hoyer
+1874
+Gustav Adolph Meier
+Heinrich Wilhelm Wolf
+Friedrich Oswald Böhme
+----------------
+Friedrich Wilhelm Grimmer
+Johann Clemens Maximilian Richter
+Bruno Robert Köhler
+Wilhelm Ernst Walther
+Ernst Otto Wahl
+Friedrich Hermann Uhlig
+----------------
+Friedrich August Franke
+Friedrich Anton Gloeß
+Christian Heinrich Karl Fischer
+Karl August Goldbach
+Friedrich Wilhelm Franke
+----------------
+Karl Friedrich Richter
+Franz Louis Rau
+Clemens Anton Hübelt
+Julius Oswald Böhme
+Gustav Robert Schmieder
+----------------
+Ernst Friedrich Mai
+Heinrich Herrmann Hofmann
+Ernst Robert Wolf
+Karl August Friedrich
+Karl Gotthelf Ficke
+Gotthold Friedrich Tanneberger
+----------------
+Friedrich Eduard Jäschke
+1875
+Hermann Oswald Gerlach
+Friedrich Hermann Götze
+Ernst Wilhelm Göpfert
+----------------
+Karl Gustav Burkhardt
+Bruno Oswald Müller
+Karl Gottlob Wolf
+Karl Ernst Neubert
+Karl Gottlieb Neuber
+Gustav Adolf Höppner
+Andreas Karl Schmeiß
+----------------
+August Hermann Boerner
+Friedrich Hermann Wolf
+Karl Heinrich Kühnelt
+Ernst Wilhelm Drechsler
+Ernst Robert Weigold
+Robert Berger
+Friedrich Hermann Dittrich
+----------------
+Heinrich Oswald Sacher
+Friedrich Samuel Rößner
+Wilhelm Otto Rudelt
+Friedrich August Uhlig
+Karl Friedrich August Fischer
+Ernst Julius Melzer
+----------------
+Ernst Moritz Bernhard
+Karl Heinrich Rudolf
+Karl Heinrich Teuchert
+Wilhelm Eduard Posselt
+Friedrich Wilhelm Müller
+----------------
+Friedrich Oswald Wolf
+Ernst Hermann Richter
+Friedrich Oswald Robert Keller
+Johann Samuel Löwe

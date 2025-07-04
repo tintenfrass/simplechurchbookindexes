@@ -1,5 +1,5 @@
 Oberschöna (Buch 947)
-Trauungen 1847-1869
+Trauungen 1847-1875
 https://www.archion.de/de/viewer/churchRegister/360099?pageId=50718127
 
 
@@ -10,6 +10,7 @@ Filialkirche Wegefarth
 Februar 2025
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -419,3 +420,129 @@ Friedrich Anton Henig
 Gustav Moritz Zimmermann
 Carl August Ufer
 Ernst Louis Schieferbein
+----------------
+1870
+Carl Ernst Einert
+Carl Friedrich Müller
+Carl Wilhelm Böhme
+Ernst Eduard Müller
+----------------
+Leo Zemmrich
+Carl Traugott Wagner
+Carl Heinrich Adler
+Johann Friedrich August Ullrich
+Carl August Tippmann
+----------------
+Friedrich Hermann Wolf
+Carl August Traugott Ehrhardt
+Friedrich Hermann Ufer
+Ernst Fürchtegott Schlicke
+Leberecht Louis Faust
+----------------
+1871
+Ernst Wilhelm Arnold
+Carl Heinrich Hantzschmann
+Carl Ehregott Schneider
+Johann Ehrenfried Gürtler
+----------------
+Samuel Eduard Oehme
+Friedrich Ernst Flössner
+Franz Friedrich Richter
+Carl Heinrich Hofmann
+Carl Ernst Handrick
+----------------
+Gustav Adolph Börner
+Ernst Robert Kramer
+Friedrich Ernst Schubert
+Carl Wilhelm Börner
+Gustav Oswald Oelschlägel //durchgestrichen
+----------------
+Gustav Oswald Oelschlägel
+1872
+Ernst Wilhelm Henig
+Ernst Theodor Engelmann
+----------------
+Ernst Wilhelm Kraft
+Christian Heinrich Gottlieb Leberwurst
+Carl Friedrich Zemmrich
+Friedrich August Haubold
+Johann Heinrich Hermann Oelschlägel
+----------------
+Eduard Heinrich Walther
+Johann Wilhelm Schubert
+Gottlieb Moritz Thomas
+Carl Hermann Otto
+Gustav Adolph Mehnert
+----------------
+Carl Heinrich Köhler
+Ernst Louis Liebert
+Ernst Wilhelm Einert
+Ernst Heinrich Gürtler
+Ernst Moritz Schmidt
+----------------
+1873
+Carl August Büchner
+Carl Heinrich Böhme
+Carl August Glös
+Ernst Julius Drechsler
+Carl Ehregott Morgenstern
+----------------
+Gotthelf Friedrich Moritz Heidrich
+Johann Friedrich Kirsch
+Moritz Haubold
+Carl Heinrich Rothe
+Eduard Emil Jacob
+----------------
+Louis Müller
+Julius Hermann Heidenreich
+Carl Gottlieb Strassburger
+Ernst Heinrich Börner
+Ernst Julius Horn
+----------------
+Johann Gotthelf Oscar Zeuner
+Ernst Günther
+Johann Adam Georg Dietz
+Carl Heinrich Tippmann
+Johann Heinrich Hermann Oelschlägel
+----------------
+Friedrich Traugott Müller
+----------------
+1874
+Carl Heinrich Schmidt
+Franz Louis Ludwig
+Carl Gottlob Bartzsch
+Friedrich August Eulitz
+----------------
+Carl Ernst Louis Homilius
+Heinrich Emil Zemmrich
+August Friedrich Butze
+Friedrich Wilhelm Schmidt
+Ernst Eduard Straube
+----------------
+Gustav Adolph Illgen
+Gustav Hermann Seidel
+Julius Birkigt
+Friedrich Wilhelm Fleischer
+Friedrich Hermann Schröder
+----------------
+Wilhelm Heinrich Hermesdörfer
+Carl Heinrich Schmidt
+Carl Friedrich Lange
+Richard Friedrich Mühle
+Johann Carl Heinrich Falke
+----------------
+1875
+Carl Eduard Schlicke
+Carl August Morgenstern
+----------------
+Friedrich Wilhelm Wüstner
+Ferdinand Kirsch
+Julius Hermann Engelmann
+Friedrich Hermann Schmidt
+Carl Zemmrich
+----------------
+Robert Alexander Steyer
+Friedrich Moritz Böttger
+Friedrich August Wüstner
+Gottlob Benjamin Fritzsche
+Carl Eduard Schmidt

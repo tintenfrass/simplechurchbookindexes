@@ -1,5 +1,5 @@
 Weigmannsdorf (Buch 387)
-Trauungen 1847-1869
+Trauungen 1847-1894
 https://www.archion.de/de/viewer/churchRegister/360188?pageId=50735774
 
 Niedermüdisdorf
@@ -7,6 +7,7 @@ Niedermüdisdorf
 
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -169,3 +170,70 @@ Carl Gottlieb Drechsler
 Carl Traugott Gabriel Franke
 ----------------
 Carl Gottlieb Arnold
+----------------
+1870
+Carl Friedrich Böttther
+Ernst Louis Naumann
+----------------
+1871
+Moritz August Fritzsche
+Ernst Wilhelm Thiele
+Friedrich August Stein
+----------------
+Carl Fürchtegott Kirschner
+Friedrich Wilhelm Hertel
+----------------
+1872
+Carl Friedrich Wilhelm Weinhold
+Carl Friedrich Richter
+Oswald Hermann Fröbel
+----------------
+Ernst Clemens Tittel
+Ernst Julius Arnold
+----------------
+1873
+Eduard Julius Göhler
+Johann Traugott Wolf
+Carl Heinrich Schneider
+----------------
+Fürchtegott Leberecht Göhler
+Carl Friedrich Geißler
+Wilhelm Friedrich Erler
+----------------
+Ernst Adolph Wolf
+Friedrich Eduard Börner
+Johann Hermann Schreiter
+----------------
+----------------
+1874
+Ernst Ludwig Braun
+Friedrich Louis Clemens Glöckner
+Carl Traugott Buschbeck
+----------------
+Oswald Eugenius Richter
+----------------
+1875
+Carl Friedrich Müller
+Eduard Ludwig Bellmann
+Ferdinand Heinrich Fritzsche
+----------------
+Carl Heinrich Richter
+Heinrich Ernst Gläser
+Ernst Eduard Flade
+----------------
+Carl Julius Liebscher
+Carl Fürchtegott Kirschner
+August Friedrich Schröder
+----------------
+Friedrich August Metzler
+Franz Friedrich Eduard Liebscher
+----------------
+1893
+Franz Hermann Schirmer
+Max Paul Weißbach
+OSwald Hermann Kraft
+1894
+Clemens Bruno Bräuer
+August Julius Kaden
+Ernst Louis Timmel
+Gustav Hermann Wetzel

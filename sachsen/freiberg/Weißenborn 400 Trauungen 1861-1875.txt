@@ -1,9 +1,10 @@
 Weißenborn (Buch 400)
-Trauungen 1861-1869
+Trauungen 1861-1875
 https://www.archion.de/de/viewer/churchRegister/360199?pageId=50737741
 
 
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -150,3 +151,102 @@ Carl Herrmann Uhlmann
 Franz Gotthelf Emil Wahl
 Ernst Ludwig Egert
 Heinrich August Pötzsch
+----------------
+1870
+Robert Theodor Gräbner
+Carl Friedrich Beyer
+Friedrich August Günzel
+Ernst August Erler
+----------------
+Carl August Götzel
+Carl Wilhelm Schierz
+August Wilhelm Böhme
+Franz Gotthelf Emil Wahl
+----------------
+1871
+Friedrich Johann Peters
+Johann Carl Ferdinand Richter
+Carl Wilhelm Schierz
+Johann Carl August John
+----------------
+August Fürchtegott Stoll
+Friedrich August Göhler
+Ernst Wilhelm Oehme
+Johann Carl Friedrich Oehme
+Carl Herrmann Böhme
+----------------
+Gustav Adolph Heinig
+1872
+Carl Heinrich Neubert
+Carl August Lohse
+----------------
+Ernst Friedrich Illgen
+Carl August Kreher
+Eduard Robert Götzel
+Ernst Ehregott Bach
+Moritz Michael Pohl
+----------------
+Ernst Louis Wunderwald
+Hermann Friedrich Horn
+Friedrich Wilhelm Mäke
+Ernst Ludwig Haaser
+----------------
+1873
+Wilhelm Ernst Woldemar Pätz
+Carl Heinrich Liebscher
+Gustav Eduard Grüllich
+Friedrich Eduard Fickert
+----------------
+Carl Ehregott Kummer
+Ernst Heinrich Göpfert
+Carl Hermann Kirbach
+Ernst Hermann Helbig
+----------------
+Ernst Wilhelm Jünger
+Carl Friedrich Bernhardt
+Karl August Friedrich Stiehl
+Johann David John
+----------------
+Carl Ferdinand Böhme
+Carl Heinrich Schröder
+----------------
+1874
+Gottfried Theodor Dittrich
+Karl Heinrich Fischer
+Karl Heinrich Fischer //durchgestrichen
+Karl Friedrich August Pfab
+----------------
+Karl Gottlob Fleischer
+Adam Wilhelm Drechsel
+Josef Grund
+Carl Friedrich Hermann Müller
+----------------
+Hermann Müller
+Carl Friedrich Göpfert
+Karl Anton Julius Keller
+August Louis Wolf
+----------------
+Johann Friedrich Berger
+August Spitzner
+Carl Friedrich Richter
+Carl Ernst Lehmann
+----------------
+1875
+Karl Uhlemann
+Carl Friedrich Wilhelm Zehl
+Carl Fürchtegott Bartzsch
+----------------
+Karl Friedrich Köhler
+Carl August Bellmann
+Heinrich Ferdinand Lohse
+----------------
+Ernst Louis Wiessner
+Johann Friedrich Wilhelm Popig
+Ernst Friedrich Göpfert
+----------------
+Oswald Herrmann Böhme
+Gustav Wolf Brand
+Anton Louis Reinhard Göpfert
+----------------
+Julius Louis Köhler
+Heinrich Ferdinand Richter

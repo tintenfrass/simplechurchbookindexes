@@ -1,11 +1,12 @@
 Voigtsdorf (Buch 374)
-Trauungen 1847-1869
+Trauungen 1847-1871
 https://www.archion.de/de/viewer/churchRegister/360173?pageId=50732895
 
 
 Februar 2025
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -544,3 +545,64 @@ Ernst Louis König
 Carl August Horn
 Carl Gottlieb Klemm
 Carl Friedrich Bellmann
+1870
+Friedrich Ernst Berndt
+August Friedrich Köhler
+----------------
+Friedrich August Tröger
+Carl Friedrich Schlesier
+Gotthelf Friedrich Büschel
+Carl August Sandig
+Clemens Friedrich Fröbel
+Carl Friedrich Andreas
+Carl August Schlesier
+----------------
+Carl Gottlieb Göpfert
+Johann Ferdinand Girod
+Karl August Andreas
+Ernst Louis Theodor Ulbricht
+Carl Friedrich Walther
+Carl Gottlob Bellmann
+August Friedrich Bellmann
+----------------
+Carl Friedrich Spiegenhauer
+Carl Gotthelf Buschmann
+Herrmann Heinrich Herklotz
+Herrmann Heinrich August Schlegel
+Carl Hermann Schneider
+Johann David Oehme
+----------------
+1871
+Carl Gottlieb Haubold
+Carl Friedrich May
+Johann Traugott Neuber
+Adam Herrmann Fuchs
+Franz Louis Thiene
+Carl Heinrich Lohse
+----------------
+Carl August Lohse
+Carl August Klausnitzer
+Gustav Herrmann Tränkner
+Friedrich Wilhelm Göhzold
+Ernst Eduard Göpfert
+Carl August Walther
+----------------
+Michael Sebastian
+Carl Heinrich Buschmann
+Friedrich August Schmidt
+Carl Wilhelm Helmert
+Ernst Julius Beyer
+Ernst Louis Reichelt
+----------------
+Friedrich August Büschel
+Herrmann Robert Helbig
+Carl Gottlieb Käppler
+Carl August Schneider
+Ernst Gustav Drechsler
+Friedrich August Beckert
+----------------
+Friedrich August Storch
+Gotthelf Friedrich Louis Schneider
+Carl Eduard Hoier
+Ernst Louis Glöß
+Ferdinand Ernst Martin

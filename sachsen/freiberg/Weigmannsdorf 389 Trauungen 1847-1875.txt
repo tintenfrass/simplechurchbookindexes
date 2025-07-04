@@ -1,11 +1,12 @@
 Weigmannsdorf (Buch 389)
-Trauungen 1847-1869
+Trauungen 1847-1875
 https://www.archion.de/de/viewer/churchRegister/360188?pageId=50735774
 
 
 Februar 2025
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -335,3 +336,86 @@ Carl Heinrich Wetzel
 Ernst Julius Fritzsche
 ----------------
 Friedrich August Müller
+----------------
+1870
+Carl Gotthelf Timmel
+August Friedrich Heinrich Göhler
+Friedrich Wilhelm Weigold
+Carl Traugott Seifert
+----------------
+Julius Robert Wergöhl
+Constantin Sacher
+Gustav Eduard Wolf
+----------------
+Carl Ehregott Kaden
+Carl Gottlob Helbig
+----------------
+1871
+Friedrich August Zimmermann
+Johann Carl Ferdinand Richter
+Carl Ernst Glöckner
+----------------
+Friedrich Wilhelm Schicketanz
+Lorenz Seidl
+Friedrich Wilhelm Hertel
+Friedrich Eduard Kaden
+----------------
+Carl Friedrich August Zahn
+----------------
+1872
+Moritz Herrmann Uhlemann
+Hermann Heinrich Klemm
+August Friedrich Richter
+----------------
+Friedrich Wilhelm Wolf
+Franziskus Groh
+Carl August Gerold
+----------------
+Ernst Friedrich Schulze
+Friedrich Ernst Mai
+Friedrich Wilhelm Wolf
+----------------
+Ernst Ehregott Eidner
+Heinrich Wilhelm Ludwig
+----------------
+1873
+Ernst Wilhelm Kaden
+Carl Heinrich Zimmermann
+Julius Hermann Timmel
+----------------
+Gustav Eduard Wolf
+Ernst Wilhelm Langer
+Friedrich Wilhelm Haubold
+----------------
+Ernst Ferdinand Drechsler
+Adolph Friedrich Florian Thiele
+Carl Friedrich Schicketanz
+----------------
+Heinrich Ernst Fischer
+----------------
+1874
+Ernst Hermann Buschmann
+Ernst Moritz Kaden
+Ernst Friedrich Seipt
+----------------
+Gustav Emil Schubert
+Friedrich Wilhelm Rußig
+Wenzel First
+----------------
+----------------
+1875
+Carl Ernst Hübelt
+Christian August Dreyer
+Ernst Julius Gannsauge
+----------------
+Friedrich Wilhelm Göpfert
+Christian Friedrich Ernst Weber
+Ernst Moritz Kaden
+----------------
+Robert Bernhard Barthel
+Friedrich Gustav Colditz
+Franz Moritz Schlegel
+----------------
+Ernst Heinrich Nötzel
+Carl August Köhler
+Carl Moritz Ihle
