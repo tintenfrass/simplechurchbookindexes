@@ -1,5 +1,5 @@
 Bärenstein (Buch 24)
-Trauungen 1827-1869
+Trauungen 1827-1875
 https://www.archion.de/de/viewer/churchRegister/294130?pageId=40851167
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -11,6 +11,7 @@ November 2024
 Februar 2025
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -749,3 +750,136 @@ Friedrich Oswald Ebert
 Ernst Julius Albin Praße
 Friedrich August Küchler
 Carl Eduard Schildbach
+----------------
+1870
+Carl Gottlieb Leberecht Kempe
+Carl Heinrich Leimbrock
+Johann Helbig
+Friedrich Hermann Walther
+----------------
+August Tietze
+Friedrich Albin Burkhard
+Friedrich August Standfuß
+Carl Gustav Wetzel
+----------------
+Ernst August Hönel
+Johann August Carl Herfurth
+Carl Christlieb Bobe
+Carl Gustav Adolph Thomas
+----------------
+Carl Gottlieb Weichold
+1871
+Gotthard August Petzold
+Johann Friedrich Hermann Kühnel
+Friedrich Wilhelm Hartmann
+August Hermann Kühnel
+----------------
+Carl Friedrich Schubert
+Carl Hermann Lange
+Wenzel Stolz
+Friedrich Wilhelm Gößel
+Friedrich Julius Eberth
+----------------
+Heinrich Emil Behr
+Carl Wilhelm Albin Seifert
+Carl Friedrich August Mende
+----------------
+Carl Friedrich Hermann Stephan
+Johann August Tietze
+Carl Eduard Schwardorf
+Friedrich Emil Walther
+----------------
+August Friedrich Weißbach
+Friedrich August Bernhard Hönel
+Carl Friedrich Wilhelm Böhme
+August Emil Bindhase
+----------------
+1872
+Adam Friedrich Otto Hönel
+Carl August Hartmann
+Robert Johann Carl Dittrich
+Heinrich Ferdinand Langbein
+----------------
+Franz Herrmann Nickel
+Friedrich Bernhard Hentschel
+Friedrich Reinhold Schwenke
+Carl Gustav Adolph Thomas
+----------------
+Carl Julius Grumpelt
+Carl Friedrich Friebel
+Friedrich Oswald Thiele
+Friedrich August Klengel
+----------------
+Friedrich Eduard Rachel
+Carl Hermann Knauthe
+Friedrich Hermann Hickmann
+Carl Gottlob Hartmann
+Carl Eduard Schütze
+----------------
+Friedrich Hermann Rasche
+August Robert Eichler
+Friedrich Hermann Schwenke
+Joseph Zounek
+Reinhard Hermann Höhnel
+----------------
+1873
+Traugott Leberecht Hofmann
+Adolph Robert Weichold
+Ernst Julius Klengel
+Carl Hermann Hickmann
+Carl August Kadner
+Carl Friedrich Kadner
+----------------
+Johann Moritz Röhnert
+Johann August Bobe
+Carl August Mende
+Gottlob Friedrich Wilhelm Stein
+Friedrich August Hantzsche
+----------------
+Friedrich Eduard Berndt
+Carl Wilhelm Fischer
+Carl Wilhelm Wild
+Carl Friedrich Eduard Hickmann
+----------------
+Friedrich Wilhelm Hickmann
+Carl Friedrich Standfuß
+Ernst Ludwig Knauthe //durchgestrichen
+----------------
+1874
+Friedrich Wilhelm Leberecht Kümmel
+Heinrich Oswald Rasche
+Gustav Hermann Fesold
+Carl Friedrich Bobe
+Friedrich Ernst Frenzel
+Oskar Emil Ueppelt
+----------------
+Friedrich Wilhelm Kaufmann
+Carl Heinrich Herrmann
+Christian Gottlieb Dörfel
+August Oswald Köhler
+Karl Bernhard Schmidt
+Heinrich Emil Behr
+----------------
+Carl Wenzel Czerny
+Friedrich Oswald Zilger
+Ernst Ferdinand Geissler
+Friedrich Hermann Adler
+Ernst Ludwig Knauthe
+----------------
+Gottfried Hermann Hauswald
+Carl Wilhelm Julius Naumann
+1875
+Christian Ehregott Bobe
+Friedrich Hermann Eichler
+Friedrich August Klenzel
+Friedrich Hermann Stephan
+Friedrich August Schubarth
+Friedrich Gustav Mende
+Karl August Funke
+August Wilhelm Klengel
+----------------
+Wilhelm Adolf Kühnel
+Ernst August Kadner
+Ernst Traugott Kühnel
+Friedrich Ernst Eberth
+Carl Gottfried Lindemann
