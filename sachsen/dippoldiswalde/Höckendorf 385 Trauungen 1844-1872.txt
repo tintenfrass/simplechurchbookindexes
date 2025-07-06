@@ -1,11 +1,12 @@
 Höckendorf (Buch 385)
-Trauungen 1844-1869
+Trauungen 1844-1872
 https://www.archion.de/de/viewer/churchRegister/294434?pageId=40912495
 
 
 Februar 2025
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -734,3 +735,84 @@ Karl August Hartmann
 Johann Gottlieb Hauptmann
 Karl Ernst Hofmann
 Gustav Hermann Morgenstern
+----------------
+1870
+Karl Gottfried Bethig
+Karl Eduard Schreckenbach
+Gustav Moritz Kunath
+Karl Moritz Illgen
+Karl Traugott Geißler
+----------------
+Franz Louis Göpfert
+Johann Karl Moritz Schmidt
+Heinrich Gottlob Berthold
+Ernst Wilhelm Ebert
+Heinrich Wilhelm Grahl
+----------------
+Karl Otto Knöfel
+Ernst Herrmann Wegbrod
+Karl Gustav Böhme
+Karl Gottlieb Illgen
+August Wilhelm Uhlemann
+Heinrich Bernhard Cruschwitz
+----------------
+Ernst Friedrich Hähnel
+Ernst Gustav Baumgart
+Wilhelm Hermann Aehlig
+Gustav Ebert
+Karl Heinrich Hermann Richter
+Heinrich Wilhelm Morgenstern
+----------------
+Ernst Heinrich Grimmer
+Heinrich Bernhard Götze
+Ernst Eduard Geißler
+Karl Friedrich Traugott Knäbel
+----------------
+1871
+Karl Adolf Rothenberger
+Karl Ernst Krause
+Hermann Wilhelm Geißler
+Theodor Oswald Zänker
+Friedrich Gustav Zimmermann
+Gustav Hermann Uhlemann
+Karl Gustav Adolf Ebert
+----------------
+August Wilhelm Schneider
+Heinrich Wilhelm Inkermann
+Heinrich Moritz Geißler
+Karl August Röthig
+Karl August Heinrich Menzer
+Karl Friedrich Knauthe
+----------------
+Gustav Adolf Köhler
+Heinrich Hermann Schubert
+Christian Friedrich Pilz
+Karl Christian Fürchtegott Wolf
+Karl Otto Knöfel
+Clemens Hardtmann
+Oswald Moritz Inkermann
+----------------
+Karl Heinrich Wilhelm Richter
+August Moritz Bernhardt
+Gustav Ferdinand Uhlemann
+1872
+Gustav Adolf Schneider
+August Hermann Zimmermann
+Gustav Adolf Wolf
+----------------
+Friedrich Wilhelm Baumgart
+Heinrich Wilhelm Schäfer
+Ernst Julius Böhme
+Traugott Leberecht Hehne
+Karl Gotthelf Hardtmann
+Ernst Eduard Schneider
+Heinrich Eduard Scharfe
+Karl Friedrich Dittrich
+Gustav Clemens Heber
+----------------
+Karl Moritz Kohl
+Friedrich Adolf Dittrich
+Christoph Eduard Moritz Siebert
+Karl Heinrich Müller
+Karl Gottlieb Ebert
+Ludwig Emil Valentin

@@ -1,10 +1,11 @@
 Hennersdorf (Buch 345)
-Trauungen 1855-1869
+Trauungen 1855-1875
 https://www.archion.de/de/viewer/churchRegister/294403?pageId=40906969
 
 
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -285,3 +286,135 @@ Heinrich August Findeisen
 Ernst Robert Kreher
 ----------------
 Fürchtegott Ernst Göhler
+----------------
+1870
+Traugott Friedrich Göhler
+Karl Friedrich Adolf Ihle
+Fürchtegott Eduard Wolf
+Heinrich Wilhelm Kreher
+----------------
+Gustav Donatus Oswald Liebscher
+Gottlob Lichtenberger
+Johann Heinrich Beyer
+Heinrich Robert Ernst
+----------------
+Karl Julius Zimmermann
+Karl Friedrich Geisler
+Karl Gotthelf Herrmann
+Karl Oskar Uhlmann
+----------------
+1871
+Karl August Kühnel
+Heinrich August Lehmann
+Ernst Wilhelm Hornuff
+August Ferdinand Lehmann
+----------------
+Karl Heinrich Wilhelm Köhler
+Ernst Julius Rupprecht
+Friedrich Wilhelm Leitritz
+Karl Friedrich Bellmann
+----------------
+Karl Gottlieb Moritz Reichelt
+Karl Friedrich Fischer
+Karl Traugott Heymann
+----------------
+1872
+Traugott Friedrich Walther
+Karl Friedrich Hermann Berger
+Friedrich August Schürtz
+Karl Friedrich Wahl
+----------------
+Friedrich Clemens Engelhardt
+Friedrich Wilhelm Lippmann
+Karl Julius Flemming
+Karl Friedrich Friebel
+----------------
+Friedrich Traugott Schneider
+Ernst Ludwig Göhler
+Karl Julius Theodor Lehner
+Christlieb Fürchtegott Dittrich
+Karl Friedrich Zänker
+----------------
+Karl Friedrich Rülke
+Traugott Hermann Vogler
+Karl August Reichelt
+Johann Christian Fleischer
+Gottlob Friedrich Horn
+----------------
+Carl August Friedrich Franke
+Franz Louis Heymann
+----------------
+1873
+Ernst Ferdinand Hardtmann
+Traugott Reinhold Clemens Glöß
+Ernst Louis Neubert
+Karl Gottlob Börner
+Karl Theodor Lehmann
+----------------
+August Wilhelm Laßig
+Karl Gottfried Franz
+Adolf Emil Knecht
+Karl Hugo Hermann Bieberstein
+Friedrich August Leberecht Renner
+----------------
+Adolf Hermann Krumpolt
+Ehregott Robert Heymann
+Friedrich Hermann Rüdiger
+Friedrich August Weydig
+----------------
+Karl Moritz Bellmann
+----------------
+1874
+Johann Gottlob Kummer
+Robert Herrmann Beyer
+Johann Heinrich Fischer
+Friedrich Oswald Heymann
+Hermann Julius Giebe
+----------------
+Friedrich Eduard Mäder
+Ernst Ferdinand Strauß
+Karl Heinrich Hermann Hornuff
+Karl Traugott Reichelt
+August Samuel Bernhardt
+----------------
+Julius Fürchtegott Renner
+Ernst Robert Bellmann
+Friedrich Wilhelm Heerklotz
+Carl August Göhler
+Karl Friedrich Ferdinand Reichelt
+----------------
+August Friedrich Fischer
+Karl August Moritz Lehmann
+Johann Karl Heinrich Rückert
+Heinrich Bernhard Irmer
+----------------
+Karl Oswald Richard Wagner
+Karl Robert Liebscher
+Johann Karl Gottlieb Wolf
+----------------
+1875
+Karl Friedrich Tröger
+Ernst Julius Schneider
+Moritz Friedrich Junker
+----------------
+Johann Friedrich August Wolf
+Friedrich Hermann Müller
+Karl Gottlob Popp
+----------------
+Karl Friedrich Wilhelm Hinkel
+Ernst Julius Dittrich
+Karl Ehregott Hermann Voigt
+----------------
+Carl Gottlieb Hornuff
+Karl Traugott Sommer
+Ernst Julius Wolf
+----------------
+Ernst Moritz Weichelt
+Karl Ernst Robert Schäfer
+Friedrich Moritz Dittrich
+----------------
+Edmund Leopold Knecht
+Ernst Louis Hermann Richter
+Johann Clemens Göhler
+----------------
+Karl August Kreher

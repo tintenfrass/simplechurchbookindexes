@@ -1,10 +1,11 @@
 Fürstenwalde (Buch 280)
-Trauungen 1855-1869
+Trauungen 1855-1875
 https://www.archion.de/de/viewer/churchRegister/294346?pageId=40895815
 
 
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -193,3 +194,73 @@ Joseph Walter
 Julius Robert Walther
 Carl Julius Knauthe
 Carl Hermann Boerner
+----------------
+1870
+Carl Oswald Haymann
+Carl Heinrich Legler
+Heinrich Hermann Lehmann
+Friedrich August Goessel
+Julius Hermann Sehmann
+Friedrich August Goessel
+Eduard Heinrich Ritschel
+Carl Friedemann Seifert
+----------------
+Carl Gottlob Müller
+Carl August Rehn
+1871
+Gustav Hermann Knauthe
+Carl Hermann Lamm
+Carl Ludwig Lehmann
+Carl Friedrich Wilhelm Bretschneider
+Christian Friedrich Mühle
+Friedrich Wilhelm Goessel
+----------------
+Friedrich August Lehmann
+1872
+Julius Moritz Wolf
+Carl Gottlieb Fleck
+Wilhelm Ernst Huhn
+Friedrich Wilhelm Hebert
+Friedrich August Stephan
+Carl Wilhelm Gutte
+----------------
+Carl Gottlob Schlenkrich
+Carl Gottlob Löwe
+Friedrich Holzmüller
+1873
+Traugott Leberecht Hofmann
+Friedrich Wilhelm Tränkner
+----------------
+Carl Julius Goessel
+Gottlob Friedrich Wilhelm Stein
+Carl Gottlieb Rehn
+Carl Julius Bär
+Carl Friedrich August Herzog
+Carl Gottlieb Goessel
+----------------
+1874
+Carl Ludwig Lehmann
+Carl Friedrich August Gössel
+Carl Gottfried Philipp
+Gustav Adolph Ehrhardt
+Carl Gottlieb Lehmann
+Ernst Friedrich Seifert
+Carl Heinrich Schubert
+----------------
+August Gotthelf Tittel
+Wilhelm Hermann Mühle
+Gustav Hermann Tiebel
+Traugott Julius Philipp
+Carl August Wilhelm Schaffer
+Wilhelm Julius Tittel
+Friedrich August Kadner
+----------------
+1875
+Hermann Hugo Beckert
+Karl Wilhelm Schindler
+Johann Carl Friedrich Eisold
+Friedrich August Tittel
+Carl Julius Tränkner
+Heinrich August Bretschneider
+----------------
+Gustav Heinrich Lehmann

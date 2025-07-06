@@ -1,5 +1,5 @@
 Hermsdorf (Buch 366)
-Trauungen 1825-1869
+Trauungen 1825-1875
 https://www.archion.de/de/viewer/churchRegister/294421?pageId=40910370
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -11,6 +11,7 @@ November 2024
 Februar 2025
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1246,3 +1247,220 @@ Gottlob Friedrich Klaußnitzer
 Karl Gottlob Richter
 ----------------
 Karl Gottlieb Schulze
+----------------
+1870
+Fürchtegott Leberecht Lohse
+Ernst Julius Liebscher
+Wenzeslaus Augustin
+Friedrich Wilhelm Walter
+----------------
+Johann Karl Gottlob Franke
+Friedrich Wilhelm Kaden
+Adolph Ferdinand Krumbiegel
+Karl Friedrich Liebscher
+----------------
+Friedrich Adolph Göpfert
+Karl Heinrich Preis
+Heinrich Julius Ehregott Tippmann
+----------------
+Karl Friedrich Kaden
+Karl Friedrich Liebscher
+Johann Wilhelm Berger
+----------------
+1871
+Heinrich Fürchtegott Müller
+Karl Gottlob Friedrich Fischer
+Friedrich Hermann Börner
+Karl Gottlob Grumbelt
+----------------
+Eduard Julius Dietrich
+Traugott Friedrich Zimmermann
+Karl Friedrich Wilhelm Zinke
+----------------
+August Wilhelm Berger
+Wilhelm Friedrich Schmieder
+Hermann Heinrich Müller
+Karl Traugott Heerklotz
+----------------
+Friedrich Hermann Köhler
+Ernst Hermann Schlesier
+Friedrich Wilhelm Lohse
+----------------
+Ernst Wilhelm Walter
+Karl Gottlieb Schmutzler
+Friedrich Ferdinand Richter
+Heinrich Wilhelm Pretzsch
+----------------
+Friedrich August Walther
+Friedrich Wilhelm Böhme
+Karl Hermann Wagner
+Friedrich Hermann Bretschneider
+----------------
+1872
+Carl Gottlob Schickel
+Christlieb Friedrich Liebscher
+Johann Theodor Bretschneider
+----------------
+Carl Friedrich Grummt
+Ehregott Friedrich Walter
+Ehregott Friedrich Böhme
+----------------
+Heinrich Julius Dietrich
+Johann Gottfried Hahmann
+Carl Heinrich Preußler
+----------------
+Eugen Bruno Robert Bischoff
+Friedrich Fürchtegott Walther
+Robert Julius Ulbricht
+----------------
+Gottlob Friedrich Börner
+Carl Moritz Liebscher
+Ernst Oswald Hänel
+Carl Gottlob Kunze
+----------------
+Ehregott Leberecht König
+Carl Hermann Walter
+Johann Gottlieb Göhler
+----------------
+Friedrich Hermann Fischer
+Carl Hermann Kempe
+William Ferdinand Liebscher
+Friedrich Wilhelm Lohse
+----------------
+1873
+August Ferdinand Hänel
+Julius Hermann Liebscher
+Carl Friedrich Rudolph
+Friedrich August Gleditzsch
+----------------
+Traugott Reinhold Clemens Glöß
+Friedrich Ferdinand Lippmann
+Carl Friedrich Krönert
+Friedrich Wilhelm Sommerschuh
+----------------
+Carl Gottlob Zönnchen
+Friedrich Moritz Drechsler
+Carl Heinrich Wolf
+Carl Friedrich Richter
+----------------
+Ernst Ferdinand Liebscher
+Carl Wilhelm Fischer
+Friedrich August Richter
+August Graf
+----------------
+Friedrich Wilhelm Wolf
+Hermann Oskar Walter
+Ernst Robert Liebscher
+Friedrich August Glöckner
+----------------
+Heinrich Hermann Behr
+Friedrich Wilhelm Lohse
+Ernst Paul Kästner
+Friedrich Ernst Baumgärtel
+Carl Ernst Julius Christian Geiling
+----------------
+Paul Friedrich Bretschneider
+Louis Hermann Dietze
+Friedrich Wilhelm Schiller
+August Hermann Gämlich
+----------------
+Carl August Lohse
+Friedrich Oskar Walther
+Carl Heinrich Rupprecht
+----------------
+1874
+Carl Ernst Uhlemann
+Carl Friedrich Wolf
+Carl August Sommerschuh
+Gottlob Friedrich Pretzsch
+----------------
+Ernst Ferdinand Strauß
+Fürchtegott Leberecht Fischer
+Friedrich Fürchtegott Kempe
+Carl Hermann Fischer
+----------------
+Christian Friedrich Liebscher
+Carl Moritz Fischer
+Ernst Hermann Schlesier
+Ernst Leberecht Fischer
+----------------
+Carl Eduard Göhler
+Julius Göpfert
+Ernst Louis Liebscher
+----------------
+Johann Gottlob Hofmann
+Ehregott Friedrich Liebscher
+Gottlob Friedrich Ehregott Lohse
+----------------
+Carl Ferdinand Göhler
+Carl Gottlob Lippmann
+Friedrich Wilhelm Walter
+----------------
+Friedrich August Klotz
+Ernst Friedrich Wagner
+Carl Robert Liebscher
+----------------
+Carl Ferdinand Walter
+Carl Theodor Nestmann
+Carl Hermann Liebscher
+----------------
+Carl Wilhelm Liebscher
+Heinrich Hermann Walter
+Martin Rudolph Bretschneider
+----------------
+Carl Friedrich Schmidt
+Carl Friedrich Biedermann
+Carl Gottlob Friedrich Bretschneider
+Bruno Robert Kempe
+----------------
+Carl Friedrich Richter
+Gustav Georg Oppen
+Friedrich Ferdinand Börner
+August Friedrich Köhler
+----------------
+Carl August Ferdinand Friebel
+Carl Friedrich Ernst Bellmann
+Friedrich Wilhelm Ihle
+----------------
+1875
+Carl Friedrich Walter
+Heinrich Ehregott Zimmermann
+Carl Hermann Löwe
+Ernst Wilhelm Heinrich Wagner
+----------------
+Carl August Scheibe
+Carl Robert Helbig
+Friedrich August Fischer
+Friedrich August Wenzel
+----------------
+Carl Friedrich Walter
+Ernst Heinrich Zehl
+Emil Göpfert
+Heinrich Adolph Thomas
+----------------
+Friedrich Wilhelm Liebscher
+Johann Gottlieb Lippmann
+Carl Hermann Langer
+----------------
+Ernst August Kadner
+Gustav Eduard Krönert
+Friedrich Wilhelm Geißler
+----------------
+Friedrich Hermann Liebscher
+Ferdinand Robert Kempe
+Ernst Traugott Schneider
+Carl Gottlieb Wolf
+----------------
+Hermann Arnold Liebscher
+Friedrich Ernst Eberth
+Friedrich Wilhelm Preußler
+----------------
+Carl Heinrich Müller
+Gustav Reinhard Dietrich
+Andreas Lehmann
+Carl Gustav Fischer
+----------------
+Ernst Louis Drechsel
+Carl Friedrich Wilhelm Bellmann
+Ernst Louis Wolf
+Friedrich Wilhelm Preußler

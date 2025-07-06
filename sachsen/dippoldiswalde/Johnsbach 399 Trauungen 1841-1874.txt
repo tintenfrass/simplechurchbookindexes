@@ -1,11 +1,12 @@
 Johnsbach (Buch 399)
-Trauungen 1841-1869
+Trauungen 1841-1874
 https://www.archion.de/de/viewer/churchRegister/294445?pageId=40915694
 
 
 Februar 2025
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -513,3 +514,121 @@ Johann Christlieb Büttner
 Eduard Erdmann Veit
 Karl August Fischer
 Karl Christian Bobe
+----------------
+1870
+Ernst Berthold Schmieder
+Friedrich Herrmann Träger
+Karl Friedrich Adolf Franke
+Karl Gottlieb Friedrich Martin
+Friedrich Wilhelm Seifert
+Christian Gottfried Rochlitzer
+----------------
+Ernst Moritz Jungnickel
+Traugott Leberecht Herzog
+Friedrich Wilhelm Fischer
+Karl Moritz Püschel
+Karl Friedrich Traugott Voigt
+Karl Oskar Uhlmann
+----------------
+1871
+Carl Ferdinand Ernst Richter
+Karl Friedrich August Weinhold
+Karl August Massan
+Johann Gottlieb Vogler
+Karl Gotthold Mühle
+Karl Hugo Werner
+----------------
+Friedrich August Friebel
+Gustav Theodor Hähnel
+Karl Friedrich Wilhelm Ullrich
+Friedrich Wilhelm Löwe
+Karl Gottlob Wolf
+Julius Hermann Körig
+----------------
+Friedrich August Lohse
+Friedrich Wilhelm Thiele
+Johann Karl August Künzel
+Ernst Robert Fischer
+Karl Wilhelm Erhard
+Karl Herrmann Estler
+----------------
+Karl Bruno Baumgarten
+Friedrich August Fischer
+Wilhelm Ferdinand Langbein
+Gustav Herrmann Göhlert
+Johann Karl Gottlob Glöditzsch
+----------------
+1872
+Karl Wilhelm Adam
+August Ferdinand Klotz
+Friedrich Wilhelm Löwe
+Friedrich August Schürtz
+Karl Adolf Kirsten
+Karl August Reichel
+----------------
+Karl Wilhelm Rüger
+Karl August Vogler
+Karl Traugott Busch
+Friedrich Wilhelm Jungnickel
+Friedrich Traugott Kästner
+Karl August Richter
+----------------
+Johann Christlieb Reichel
+Karl Friedrich August Richter
+Friedrich August Gössel
+August Hermann Zinke
+Karl Christlieb Funke
+Karl Friedrich August Vogler
+Karl Friedrich Löwe
+----------------
+Alexander Karl Herrmann Schulze
+Ernst Oswald Hänel
+Paul Emil Schulz
+Johann Friedrich Wilhelm Träger
+Julius Herrmann Vogler
+Friedrich Adolf Laubert
+----------------
+1873
+Karl August Cröner
+Karl Herrmann Hickmann
+Friedrich Otto Erhard
+Karl Hermann Porstmann
+August Hermann Fischer
+Karl Friedrich Hugo Jungnickel
+----------------
+Wilhelm Ferdinand Baumgart
+Traugott Leberecht Klotz
+Fürchtegott Leberecht Büttner
+Karl Gottlieb Heyne
+Karl Theodor Lehmann
+----------------
+Karl Wilhelm Börnert
+Karl August Tittel
+Karl Ferdinand Ernst Richter
+Friedrich Traugott Erhard
+Karl August Laubert
+Friedrich Ernst Hempel
+----------------
+Karl Friedrich Hermann Köhler
+Moritz Herrmann Richter
+Friedrich Wilhelm Müller
+----------------
+1874
+Friedrich Wilhelm Jungnickel
+Franz Emil Löwe
+Ferdinand Wenzel Schuhmann
+Heinrich Bernhard Franke
+Eduard Florentin Wirth
+Karl Heinrich August Liebscher
+----------------
+Friedrich Moritz Funke
+Friedrich Wilhelm Büttner
+Karl Friedrich August Köhler
+Gustav Adolf Schöne
+Ernst Friedrich Moritz Löbe
+----------------
+Gustav Herrmann Zimmermann
+Friedrich August Hesse
+Karl Gottlob Merbt
+Friedrich Wilhelm Grahl
+Ernst Theodor Krellmann

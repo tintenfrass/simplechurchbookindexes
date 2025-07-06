@@ -1,10 +1,11 @@
 Frauenstein (Buch 238)
-Trauungen 1851-1869
+Trauungen 1851-1875
 https://www.archion.de/de/viewer/churchRegister/294311?pageId=40892609
 
 
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -1010,3 +1011,412 @@ Christian Friedrich Ihle
 Karl Heinrich Berndt
 ----------------
 Heinrich Wilhelm Zimmermann
+----------------
+1870
+Ernst Louis Hauschild
+Karl Friedrich Wilhelm Halm
+Friedrich Julius Richter
+----------------
+Karl Friedrich Adolph Ihle
+August Ferdinand Grohmann
+Ernst Heinrich Kaden
+----------------
+Ernst Wilhelm Illing
+Gustav Hermann Kunze
+Heinrich Hermann Kröner
+----------------
+Gustav Donatus Oswald Liebscher
+Traugott Louis Morgenstern
+Ernst Gottreich Reuter
+----------------
+Heinrich Hermann Jäpel
+Karl Traugott Rothe
+August Wilhelm Scheffler
+----------------
+Heinrich Hermann Franke
+Moritz Clemens Saager
+Karl Julius Neubert
+----------------
+Christian Friedrich Richter
+Johann Gottfried Rueger
+Karl Wilhelm Keiligt
+Karl Albrecht Berger
+----------------
+Karl Friedrich Zimmermann
+Herrmann Ludwig Kunze
+Karl Gotthold Stenzel
+Robert Tarso Kaden
+Ernst Julius Heinrich
+----------------
+Karl August Bayer
+Friedrich Gottlieb Richter
+Karl Wilhelm Stephan
+Karl August Zennig
+----------------
+Karl Hugo Gleditzsch
+Maximilian Clemens Wagner
+Friedrich Wilhelm Goehler
+----------------
+1871
+Johann Wilhelm Berger
+Karl Heinrich Geißler
+Karl Friedrich Gotthelf Boehme
+Karl Heinrich Boerner
+----------------
+Friedrich August Dittrich
+Herman Wilhelm Geißler
+Fürchtegott Louis Schneider
+Johann Friedrich Wilhelm Mueller
+----------------
+Karl Gottlob Grumbelt
+Traugott Friedrich Zimmermann
+Karl Gottlob Fürchtegott Eckert
+Karl Friedrich Reichel
+----------------
+Johann Christoph Gersdorf
+Heinrich Louis Zennig
+Karl Friedrich Boehme
+Ernst Paul Muehle
+----------------
+Friedrich Traugott Köllner
+Friedrich Wilhelm Gelfert
+August Emil Hofmann
+----------------
+August Friedrich Polster
+Heinrich Emil Walther
+Carl Gottlob Fischer
+----------------
+Carl August Berndt
+Reinhold Eduard Franke
+Carl Heinrich Lehmann
+----------------
+Carl Gottfried Meißner
+Emil Recke
+Carl Friedrich Wilhelm Seifert
+----------------
+Friedrich August Morgenstern
+Carl Eduard Bucher
+Carl Friedrich Wilhelm Grohmann
+----------------
+Carl Moritz Göhler
+Friedrich Wilhelm Lohse
+Friedrich Wilhelm Löppmann
+----------------
+Friedrich August Wendel
+Friedrich Gotthold Hegewald
+----------------
+1872
+Friedrich Oswald Braune
+Karl Heinrich Hähnel
+Karl August Heinrich Tröger
+----------------
+Friedrich Fürchtegott Hornuff
+Karl Gottlieb Geißler
+Traugott Friedrich Walther
+----------------
+Adolf Ferdinand Horn
+Ernst Robert Tröger
+Friedrich August Hähnel
+----------------
+Clemens Adolph Weinhold
+Franz Joseph Greif
+Carl Friedrich Beyer
+----------------
+Eduard Julius Bernd
+Eduard Robert Götzel
+Friedrich August Geißler
+----------------
+Karl Heinrich Kaden
+Heinrich Wilhelm Schäfer
+Gotthold Leberecht Schaale
+----------------
+Ernst Robert Nicolai
+Karl August Arnold
+Robert Clemens Göhler
+----------------
+Karl Friedrich Rülke
+Karl Hermann Straßberger
+Robert Julius Ulbricht
+----------------
+Clemens Theodor Köhler
+Gottlob Friedrich Börner
+Max Hugo Anger
+----------------
+Karl Antonius Richter
+Karl Adolph Heinrich
+Ernst Theodor Weichelt
+----------------
+Christlieb Heinrich Wolf
+Friedrich August Heinrich
+Friedrich Wilhelm Wolf
+----------------
+Heinrich Wilhelm Leckscheidt
+Hermann Adolph Berger
+Ehregott Leberecht König
+----------------
+Friedrich Ernst Göhler
+Ernst Clemens Richter
+Ernst Louis Lehmann
+----------------
+Eugen Guido Laurich
+Heinrich August Hegewald
+Caspar Richter
+----------------
+Johann Gottlieb Walther
+Georg Arthur Winter
+Heinrich Wilhelm Tröger
+----------------
+Ernst Wilhelm Herfert
+----------------
+1873
+Friedrich Wilhelm Merseburger
+Karl Ernst Börner
+Karl Gottlob Wolf
+----------------
+August Eduard Drechsler
+Karl Wilhelm Menzer
+Karl Friedrich Rudolph
+----------------
+Karl Friedrich Lehmann
+Richard Wilhelm Rinke
+Friedrich Wilhelm Scheumann
+----------------
+Karl Friedrich Baumgart
+Moritz Robert Schwinger
+August Wilhelm Schulze
+----------------
+Karl Friedrich Kästner
+Karl August Liebscher
+Christian Friedrich Keilig
+----------------
+Karl Wilhelm Neubert
+Reinhard Robert Richter
+Karl Friedrich Wilhelm Göhler
+----------------
+Karl August Kirsten
+Fürchtegott Louis Schneider
+Johannes Arthur Alexander Röber
+----------------
+Ernst Moritz Pretzsch
+August Robert Zemmerich
+Karl Ferdinand Zeller
+----------------
+Karl Eduard Oswald Fischer
+Karl Louis Gleditzsch
+Karl Heinrich Meyer
+----------------
+Friedrich August Glöckner
+Karl Gottlieb Fischer
+Gottlieb Traugott Börner
+----------------
+August Friedrich Glöckner
+Karl Friedrich Wilhelm Stenzel
+Karl August Kempe
+----------------
+Hermann Laurus Hugo Rentzsch
+Julius Oswald Biermann
+Gustav Erdmann Günther
+----------------
+Ernst Theodor Göhler
+Karl August Weise
+Friedrich Anton Wagner
+----------------
+Karl Wilhelm Walter
+Joseph Kaaden
+Oskar Emil Thiersch
+----------------
+Karl Traugott Weber
+Ernst Eduard Rothe
+Friedrich Gotthold Richter
+----------------
+Emil Müller
+Ernst Louis Fuchs
+----------------
+Karl August Lohse
+----------------
+1874
+Franz Eduard Röber
+Heinrich Julius Göhler
+Ernst Robert Wolf
+----------------
+Karl Gottlob Grumpelt
+Karl Heinrich Börner
+Karl Friedrich Ehrenhold
+----------------
+Heinrich Wilhelm Glöckner
+Friedrich August Kaden
+Friedrich Clemens Bellmann
+----------------
+Karl Heinrich Fischer
+Friedrich Ernst Arnold
+Johann Karl Friedrich Lohse
+----------------
+Eduard Friedrich Haupt
+Gustav Otto Leonhard Drechsler
+Karl Gottlob Lippmann
+----------------
+Karl August Heinrich
+Moritz Julius Kämpfe
+Gottlob Heinrich Kaulfuß
+----------------
+Eduard Kirschner
+Karl Heinrich Tröger
+Julius Heinrich Kaden
+----------------
+Ernst Louis Bilz
+Heinrich Julius Zimmermann
+Karl Friedrich Ferdinand Reichelt
+----------------
+Heinrich Rudolph Schellhorn
+Martin Rudolph Bretschneider
+Karl Friedrich Biedermann
+----------------
+Gottlieb Friedrich Reuther
+Gustav Moritz Hähnig
+Karl Friedrich Richter
+----------------
+Karl Friedrich Berger
+Karl August Richter
+Friedrich Ferdinand Börner
+----------------
+Karl August Pretzsch
+Johann Gottlieb Günzel
+August Hermann Wolf
+----------------
+Hermann Oskar Winkler
+Wilhelm Julius Kempe
+----------------
+1875
+Karl Emil Rohland
+Friedrich Louis Wilibald Weichelt
+----------------
+Gottlob Friedrich Hähnig
+Ernst Richter
+Alfred Hermann Helmert
+----------------
+Karl Reinhard Göhler
+Friedrich August Grohmann
+Karl Friedrich Rüger
+----------------
+Emil Berthold Wolf
+Eduard Walter
+Friedrich Moritz Porstein
+----------------
+----------------
+Karl Wilhelm Schneider
+Karl Gustav Keil
+Gustav Robert Göhler
+----------------
+Ernst Hermann Kämpfe
+Gottlieb Leberecht Bernhardt
+Christian Heinrich Frey
+----------------
+Karl August Kaden
+Karl August Göhler
+Julius Heinrich Hänel
+----------------
+Hermann Robert Göhler
+Karl Theodor Enger
+Clemens Theodor Zimmermann
+----------------
+Karl Friedrich Wilhelm Hinkel
+Philipp Balthasar Gottlob Felgner
+Karl Louis Bernd
+----------------
+Karl Heinrich Mättig
+Heinrich Clemens Schlegel
+Julius Heinrich Weinhold
+----------------
+Karl Friedrich August Richter
+Karl August Hofmann
+Johann Friedrich August Unger
+----------------
+Ernst Leberecht Neuber
+Robert Winter
+Ernst Rudolph Görner
+----------------
+Franz Oswald Pirnbaum
+Ernst Friedrich Jäckel
+Heinrich Otto Mörschner
+----------------
+Traugott Ernst Friedrich Hasse
+Woldemar Winter
+----------------
+Friedrich Wilhelm Geißler
+Gustav Adolph Theodor Bitterlich
+Karl Ernst Robert Schäfer
+----------------
+Gustav Adolph Grahl
+Carl Julius Eduard Schumann
+Friedrich Heinrich Oskar Landsky
+----------------
+Ferdinand Robert Kempe
+Wilhelm Reinhold Wolf
+Johann Friedrich Traugott Berndt
+----------------
+Ernst Friedrich Clausnitzer
+Albert Moritz Lehmann
+August Rother
+----------------
+Karl Gottlob Göpfert
+Friedrich Gustav Winter
+Karl August Seifert
+----------------
+Heinrich Eduard Zimmermann
+Karl Gottlob Müller
+Andreas Lehmann
+----------------
+Karl August Kreher
+Max Curt Laurich
+Ernst Reinhard Wolf
+----------------
+Karl Hermann Grumbt
+Johann Gottlieb August Richter
+Reinhard Eduard Franke
+----------------
+Karl Ernst Zimmermann
+----------------
+Ernst Leberecht Neuber
+Robert Winter
+Ernst Rudolph Görner
+----------------
+Franz Osward Pirnbaum
+Ernst Friedrich Jäckel
+Heinrich Otto Mörschner
+----------------
+Traugott Ernst Friedrich Hasse
+Woldemar Winter
+----------------
+Friedrich Wilhelm Geißler
+Gustav Adolph Theodor Bitterlich
+Karl Ernst Robert Schäfer
+----------------
+Gustav Adolph Grahl
+Carl Julius Eduard Schumann
+Friedrich Heinrich Oskar Landsky
+----------------
+Ferdinand Robert Kempe
+Wilhelm Reinhard Wolf
+Johann Friedrich Traugott Berndt
+----------------
+Ernst Friedrich Clausnitzer
+Albert Moritz Lehmann
+August Rother
+----------------
+Karl Gottlob Göpfert
+Friedrich Gustav Winter
+Karl August Seifert
+----------------
+Heinrich Eduard Zimmermann
+Karl Gottlob Müller
+Andreas Lehmann
+----------------
+Karl August Kreher
+Max Curt Laurich
+Ernst Reinhold Wolf
+----------------
+Karl Hermann Grumbt
+Johann Gottlieb August Richter
+Reinhard Eduard Franke
+----------------
+Karl Ernst Zimmermann

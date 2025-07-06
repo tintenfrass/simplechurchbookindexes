@@ -1,11 +1,12 @@
 Dorfhain (Buch 138)
-Trauungen 1847-1869
+Trauungen 1847-1870
 https://www.archion.de/de/viewer/churchRegister/294225?pageId=40871601
 
 
 Februar 2025
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -566,3 +567,23 @@ August Bormann
 Carl August Herrmann
 ----------------
 Carl Benjamin Petzold
+1870
+Gottlieb Heinrich Heber
+Heinrich Gottlob Berthold
+----------------
+Friedrich Gottlob Mende
+Carl Gottfried Baumgart
+Carl Gottlob Schneider
+Christian Gottlob Ritter
+Gustav Ebert
+----------------
+Carl Gottlob Weber
+Johann Gottlob Wilhelm Kotschik
+Herrmann Geißler
+Friedrich Bormann
+Carl August Fleischer
+----------------
+Ernst Eduard Geißler
+Herrmann Eduard Heße
+Carl Zscheile
+August Ferdinand Büttner

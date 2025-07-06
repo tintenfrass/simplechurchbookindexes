@@ -1,10 +1,11 @@
 Hartmannsdorf (Buch 325)
-Trauungen 1850-1869
+Trauungen 1850-1875
 https://www.archion.de/de/viewer/churchRegister/294386?pageId=40904483
 
 
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -274,3 +275,101 @@ Johann Samuel Friedrich Fischer
 Carl Friedrich Oehme
 ----------------
 Ernst Heinrich Kaden
+1870
+Carl Heinrich Wetzel
+Carl Friedrich Ernst Püschel
+----------------
+Gottlieb Friedrich Braune
+Carl Heinrich Kaden
+Carl Gottlieb Rothe
+----------------
+Carl Wilhelm Robert Stenzel
+Herrmann Friedrich Donath
+Heinrich Wilhelm Fischer
+----------------
+1871
+Johann Friedrich Wilhelm Wunderwald
+Heinrich August Lehmann
+Friedrich Wilhelm Berndt
+----------------
+Carl Heinrich Lehmann
+Carl August König
+Johann Daniel Leiteritz
+----------------
+August Herrmann Eckert
+Ernst Traugott Kästner
+----------------
+1872
+Friedrich Traugott Hänel
+Carl Heinrich Göhler
+August Leberecht Zimmermann
+----------------
+Carl Friedrich Böhme
+Ernst Julius Hänel
+Carl August Arnold
+----------------
+Carl Gottlieb Weichelt
+Carl Heinrich Beyer
+Ernst Louis Lehmann
+----------------
+Simon Fürchtegott Richter
+Ernst Julius Zimmermann
+Julius Hermann Irmer
+----------------
+Herrmann Julius Rothe
+1873
+Heinrich August Leberecht Weichelt
+----------------
+Carl Gottlieb Hänel
+August Wilhelm Schulze
+Ernst Leberecht Schneider
+----------------
+Carl Traugott Lindner
+Carl Ernst Hegewald
+Ernst Louis Göhler
+----------------
+Traugott Leberecht Walther
+Carl Friedrich Ebert
+Ernst Julius Kästner
+----------------
+Carl August Arnold
+1874
+Gottlob Friedrich Grimmer
+----------------
+Gustav Wilhelm Stenzel
+Carl August Göhler
+Friedrich Ernst Arnold
+----------------
+August Samuel Bernhardt
+Ernst Anton Maier
+Carl August Heinrich
+----------------
+Friedrich Wilhelm Heerklotz
+Ernst Julius Kästner
+Carl August Näse
+----------------
+Carl Gottlieb Bellmann
+1875
+Friedrich August Zimmermann
+----------------
+Johann August Wilhelm Schneider
+Carl Friedrich Wilhelm Weichelt
+Johann Friedrich August Wolf
+----------------
+Friedrich August Grohmann
+Carl August Zincke
+Carl Friedrich Ernst
+----------------
+Ernst Julius Leiteritz
+Julius Heinrich Hänel
+Carl Gottlieb Fröbel
+----------------
+Carl August Göhler
+Friedrich Julius Schneider
+Carl Friedrich August Richter
+----------------
+Wilhelm Julius Stenzel
+Ernst Friedrich Clausnitzer
+Robert August Dittrich
+----------------
+Johann Heinrich Fritzsche

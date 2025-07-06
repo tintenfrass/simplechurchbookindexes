@@ -1,9 +1,10 @@
 Klingenberg (Buch 410)
-Trauungen 1862-1869
+Trauungen 1862-1875
 https://www.archion.de/de/viewer/churchRegister/294456?pageId=40918004
 
 
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -162,3 +163,144 @@ Friedrich Ernst Fürchtegott Eichhorn
 ----------------
 Jacob Krahl
 Friedrich Wilhelm Schubert
+1870
+Carl Gottlob Richter
+Gustav Moritz Kunath
+----------------
+Johann Gottlob Ranzsch
+Heinrich Wilhelm Grahl
+Carl Friedrich Wilhelm Leiteritz
+Franz Louis Göpfert
+Heinrich Bernhard Cruschwitz
+Johann Carl Heinrich Heße
+----------------
+Friedrich Ernst Erler
+Ernst Leberecht Braun
+Friedrich Wilhelm Schmieder
+Gustav Zobel
+----------------
+1871
+Friedrich August Lohse
+Julius Gustav Richter
+Carl Friedrich Lohse
+Carl Wilhelm Wiesner
+Friedrich Wilhelm Stenzel
+----------------
+Emil Gustav Noack
+Friedrich Wilhelm Fischer
+Wilhelm Emil Flatter
+Carl August Baumgart
+----------------
+Carl Friedrich August Walther
+Friedrich Ernst Naumann
+Oswald Moritz Inkermann
+Carl Gustav Brünn
+----------------
+Carl Hermann Michael
+Carl Gottlob Ransch
+Julius Moritz Bierig
+Friedrich Herrmann Weinhold
+----------------
+1872
+Gustav Adolph Schneider
+Wilhelm Herrmann Wenzel
+Carl Friedrich Lohse
+Gottlob Fürchtegott Weidner
+----------------
+Wilhelm Heinrich Thomas
+Hugo Maximilian Mierisch
+Carl August Böhme
+Carl Wilhelm Scholze
+----------------
+Carl Adolph Bernhardt
+Georg Benjamin Gärtner
+Carl Gottlob Ebert
+Carl Traugott Richter
+----------------
+August Adolph Rülke
+Heinrich Herrmann Schröter
+1873
+Carl Friedrich Görldt
+Carl Friedrich Moritz Döring
+Carl August Reichelt
+----------------
+Carl Herrmann Göpfert
+Ernst Friedrich Kästner
+Carl Wilhelm Michael
+Carl August Weiß
+Carl Friedrich Benjamin Liebschner
+Wilhelm Friedrich Reichelt
+Carl Gottlieb Schurig
+Friedrich Heinrich Demme
+Heinrich Moritz Störr
+----------------
+Friedrich August Peschel
+Carl Friedrich Mierisch
+Carl Eduard Richter
+Carl Gottlieb Morgenstern
+Ernst Eduard Hesse
+Carl Friedrich Dienel
+Carl Heinrich Leiteritz
+Ernst Oswald Zschaake
+----------------
+Ernst Louis Fleischer
+Heinrich Moritz Wießner
+Gottlob Friedrich Böhme
+1874
+Ernst Wilhelm Baumgart
+Fürchtegott Leberecht Walther
+Christian Carl Gottlob Schurig
+Gottlieb Ernst Holfert
+----------------
+Wilhelm Leberecht Gringmuth
+Ernst Wilhelm Gringmuth
+Gustav Heinrich Rantzsch
+Heinrich Ernst Gelfert
+Carl Gottlieb Göpfert
+Johann Hermann Hähnel
+Adolph Richard Jencke
+Peter Horak
+----------------
+Carl August Wolf
+Friedrich Traugott Kaden
+Heinrich Moritz Fleischer
+Carl Wilhelm Gelfert
+Traugott Oswald Berthold
+Friedrich Heinrich Fischer
+Carl Eduard Moritz Naumann
+Johann Carl Friedrich Rudolph
+----------------
+Johann Heinrich Moritz Staude
+Gustav Georg Oppen
+1875
+Friedrich Wilhelm Herklotz
+Friedrich Wilhelm Baumgart
+Hermann Eduard Kerndt
+----------------
+Carl Heinrich Schneider
+Friedrich Wilhelm Straube
+Johann Gottlieb Heinrich Lau
+Daniel Emil Lehmann
+Wilhelm Heinrich Carl Schmidt
+Friedrich Julius Pretzsch
+----------------
+Carl Friedrich Rülke
+Christian Herrmann Hennig
+Carl Hermann Michael
+Carl Adolph Bernhardt
+Carl August Meyer
+Carl Ernst Wahl
+Carl Hermann Weise
+----------------
+Friedrich Ernst Tetzel
+Ernst Fürchtegott Böhme
+Johann Carl August Michael
+Carl August Mai
+Gustav Hermann Richter
+Hermann Kunath
+Carl Gustav Wieseler
+----------------
+Julius Hermann Staude
+Ernst Hermann Richter
+Carl Hugo Rendler
+Carl Ernst Günther
