@@ -1,10 +1,11 @@
 Lauenstein (Buch 448)
-Trauungen 1854-1869
+Trauungen 1854-1874
 https://www.archion.de/de/viewer/churchRegister/305473?pageId=42937112
 
 
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -457,3 +458,137 @@ Johann Moritz Dittrich
 Carl Ernst Saupe
 ----------------
 Bruno EdlerPlanitz
+1870
+Carl Friedrich Zimmerhäckel
+----------------
+Heinrich Hermann Lehmann
+Carl Heinrich Clemens Escher
+Hermann Hausmann
+----------------
+Friedrich August Gößel
+Friedrich Julius Kadner
+Carl Gottlieb Berger
+----------------
+Friedrich Adolph Thielemann
+Wilhelm Heinrich Gutte
+Carl Friedrich Wilhelm Eichler
+----------------
+August Gottlieb Hauptmann
+Carl Heinrich Mende
+Leo Ludwig Lehmann
+----------------
+Friedrich Eduard Bauer
+Johann Gotthilf Franz Kaempf
+Carl Gottlob Gläser
+----------------
+Johann Traugott Zinke
+Ernst Moritz Bär
+----------------
+1871
+Carl August Rehn
+Heinrich Ferdinand Edmund Busch
+Carl Julius Lehmann
+----------------
+Friedrich August Leberecht Baumgärtel
+Emanuel Heinrich Krügner
+Julius August Otto
+----------------
+Friedrich Wilhelm Ulbricht
+Ernst Friedrich Pinkert
+Carl Friedrich Schiertz
+----------------
+Hermann Otto Estler
+Friedrich Hermann Eichler
+Carl Robert Grumpelt
+----------------
+August Oswald Schmelzer
+1872
+Carl Adolph Kirsten
+----------------
+Friedrich Gottlob Leupold
+Friedrich Ernst Mühle
+Carl Wilhelm Henker
+----------------
+Wilhelm Eduard Eichler
+Oscar Hermann Lohse
+August Bernhard Weichert
+----------------
+Carl Wilhelm Gutte
+Heinrich Louis Walther
+Carl Friedrich Schönberger
+----------------
+Friedrich Ernst Böhme
+Carl Gottlieb Teichert
+Andreas Reschke
+----------------
+Theodor Moritz Dosch
+Carl Ferdinand Ufer
+Gotthardt Jäpel
+----------------
+Christian Julius Behnisch
+Friedrich Traugott Holzmüller
+Carl Gustav Dittrich
+----------------
+Friedrich August Hitzschold
+Carl Moritz Hauptmann
+Adolph Robert Weichold
+----------------
+Eduard Robert Tiebel
+1873
+Carl Friedrich August Wenzel
+----------------
+Carl Schulze
+Julius Hermann Grahl
+Carl Friedrich August Wenzel
+----------------
+Heinrich Ernst Wenzel
+Friedrich August Leonhardt
+Friedrich Wilhelm Lippert
+----------------
+Friedrich August Wilhelm Rüdiger
+Carl Robert Streller
+Ernst Oswald Jäpel
+----------------
+Ernst Moritz Völker
+Carl Heinrich Hermann Eichler
+Carl August Schubert
+----------------
+Friedrich August Grahle
+Carl Eduard Hauptmann
+Ernst Wilhelm Friebel
+----------------
+Friedrich Gustav Ferdinand Kadner
+Carl Friedrich Standfuß
+Carl Heinrich Wilhelm Rüdiger
+----------------
+Wilhelm Emil Größler
+Heinrich Friedrich Jäpel
+----------------
+1874
+Julius Moritz Wilmersdorf
+Ernst Wilhelm Schütze
+Emanuel Heinrich Raue
+----------------
+Friedrich Gustav Oelschlägel
+Carl Emil Wilhelm Weber
+Friedrich Ernst Brauer
+----------------
+Johann Gottlob Hoffmann
+Carl Friedrich Wilhelm Meutzner
+Carl Ernst Hauptmann
+----------------
+August Oswald Köhler
+Carl Friedrich Legler
+Friedrich Carl Albert Boye
+----------------
+Johann Heinrich Michael
+Carl Friedrich Wilhelm Tiebel
+Ferdinand Jaepel
+----------------
+Ernst Wilhelm Eichler
+Louis Hermann Sieber
+Emil Hermann Jörke
+----------------
+Gustav Adolph Große
+Friedrich August Walther
+Robert Eduard Oelschlägel
