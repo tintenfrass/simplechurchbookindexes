@@ -167,7 +167,7 @@ func (h *searchComp) Render() app.UI {
 	grid[0][3][11] = "meissen/Mohorn"
 	grid[0][4][11] = "dippoldiswalde/Fördergersdorf"
 	grid[0][5][11] = "dippoldiswalde/Tharandt"
-	//grid[0][6][11] = "dippoldiswalde/Deuben"
+	grid[0][6][11] = "dippoldiswalde/Deuben"
 	grid[0][8][11] = "dresden/Lockwitz"
 
 	grid[0][0][12] = "freiberg/Langhennersdorf"
@@ -444,9 +444,9 @@ func (h *searchComp) Render() app.UI {
 		app.Br(),
 		app.Text("Es wird Groß- und kleinschreibung unterschieden."),
 		app.Br(),
-		app.Text("Komplexe Suchen (kurze Suchtexte im großen Suchgebiet) können die Suche abstürzen lassen, in diesem Fall muss oft die Seite im Browser neu geladen werden."),
+		app.Text("Komplexe Suchen (kurze Suchtexte im großen Suchgebiet) können die Suche manchmal abstürzen lassen (Seite bleibt hängen, Button reagiert nicht mehr) => in diesem Fall muss die Seite im Browser neu geladen werden."),
 		app.Br(),
-		app.Text("Über die Reiter kann das Suchgebiet ausgewählt werden."),
+		app.Text("Über die Reiter kann das Suchgebiet ausgewählt werden, damit kann z.B: in das Gebiet Bautzen (BZ) gewechselt werden"),
 		app.Br(),
 		app.Br(),
 		app.Text("Bsp: für die Suche:"),
@@ -455,27 +455,30 @@ func (h *searchComp) Render() app.UI {
 		app.Text(" => Sucht nach Vor- und Nachnamen in dieser Kombination"),
 		app.Br(),
 		app.B().Text("Max Moritz Mustermann"),
-		app.Text(" => bei mehreren Vornahmen, dabei ist die Reihenfolge wichtig. Hat diese Person im Index aber noch weitere Vornamen, dann wird sie wahrscheinlich nicht gefunden."),
+		app.Text(" => bei mehreren Vornahmen, dabei ist die Reihenfolge wichtig. Hat diese Person im Index aber noch weitere Vornamen oder diese in anderer Reihenfolge, dann wird sie so wahrscheinlich nicht gefunden."),
 		app.Br(),
 		app.B().Text("Max *"),
-		app.Text(" => Sucht nach Vornamen Max"),
+		app.Text(" => Sucht nach Vornamen Max mit beliebigem Nachnamen"),
+		app.Br(),
+		app.B().Text("Max Moritz *"),
+		app.Text(" => Sucht nach der Vornamenskombination Max Moritz mit beliebigem Nachnamen"),
 		app.Br(),
 		app.B().Text("* Schönberg"),
-		app.Text(" => Sucht nach Nachname Schönberg. (Adelige Nachnamen z.B. 'von Schönberg' sind im Index ebenfalls als 'Schönberg' geführt)"),
+		app.Text(" => Sucht nach Nachname Schönberg mit beliebigen Vornamen. (Adelige Nachnamen z.B. 'von Schönberg' sind im Index ebenfalls als 'Schönberg' geführt und können nicht von der nicht-adeligen Variante unterschieden werden)"),
 		app.Br(),
 		app.B().Text("* VitzthumEckstädt"),
-		app.Text(" => als Bps. für den Nachnamen 'Vitzthum von Eckstädt'. (Nachname bestehen im Index immer nur aus einem Wort)"),
+		app.Text(" => als Bps. für den Nachnamen 'Vitzthum von Eckstädt' mit beliebigen Vornamen. (Mehrteilige Nachnamen wurden im Index verkürzt und bestehen immer nur aus einem Wort)"),
 		app.Br(),
 		app.Br(),
 		app.Text("Für spezielle Suchen kann rechts oben der Suchalgorithmus ausgewählt werden."),
 		app.Br(),
-		app.Text("Im Suchmodus Klassisch kann als Einziger gezielt nach Namensbestandteilen gesucht werden, z.B:"),
+		app.Text("Im Suchmodus Klassisch wird buchstabengenau gesucht, nur damit kann gezielt nach Namensbestandteilen gesucht werden, z.B:"),
 		app.Br(),
 		app.B().Text("Napoleon *"),
-		app.Text(" => Liefert Ergebnisse, wo der Vorname 'Napoleon' enthalten ist, egal ob es weitere Vornamen gibt."),
+		app.Text(" => Liefert Ergebnisse mit beliebigem Nachnamen, wo in den Vornamen das Wort 'Napoleon' enthalten ist, egal ob es weitere Vornamen davor oder danach gibt."),
 		app.Br(),
 		app.B().Text("* dorf"),
-		app.Text(" => Liefert Ergebnisse, wo im Nachnamen 'dorf' enthalten ist"),
+		app.Text(" => Liefert Ergebnisse mit beliebigem Vorname, wo im Nachnamen 'dorf' enthalten ist"),
 		app.Br(),
 		app.B().Text("lieb Qu"),
 		app.Text(" => Liefert Ergebnisse, wo im Vornamen 'lieb' und im Nachnamen 'Qu' enthalten ist"),
@@ -502,7 +505,7 @@ func (h *searchComp) Render() app.UI {
 		app.Text("Es gibt auch immer mal wieder Fehler in den Daten, falsch erfasste Namen oder manchmal ist das Jahr um 1 verrutscht, etc."),
 		app.Br(),
 		app.Br(),
-		app.Text("Der zweie Link führt direkt zum Kirchenbuch, teilweise auch auf den richtigen Scan, das kann durch Fehler aber evtl. auch etwas abweichen."),
+		app.Text("Der zweie Link führt direkt zum Kirchenbuch, meistens auch auf den richtigen Scan, das kann durch Fehler aber evtl. auch etwas abweichen."),
 		app.Br(),
 		app.Text("Die Archion-Links bringen nur was, wenn man bei Archion einen Pass hat."),
 		app.Br(),
@@ -515,8 +518,8 @@ func (h *searchComp) Render() app.UI {
 		app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 		app.Br(),
 		app.Br(),
-		app.H3().Body().Text(" v1.11 (Juni 2025) latest updates:"),
-		app.Label().Text("Trauungen 1860-1869 hinzugefügt"),
+		app.H3().Body().Text(" v1.11 (Juli 2025) latest updates:"),
+		app.Label().Text("Trauungen 1870-1875 hinzugefügt"),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
 }
 

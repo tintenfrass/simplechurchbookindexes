@@ -1,7 +1,7 @@
 {
-  "short_name": "Trau-Index Dresden-Meißen",
-  "name": "Trau-Index Dresden-Meißen",
-  "description": "Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde",
+  "short_name": "Trauindex Sachsen",
+  "name": "Trauindex Sachsen",
+  "description": "Onlinesuche zum Trauindex",
   "icons": [
     {
       "src": "https://storage.googleapis.com/murlok-github/icon-192.png",

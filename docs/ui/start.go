@@ -12,9 +12,9 @@ func StartLocal() {
 	app.RunWhenOnBrowser()
 
 	http.Handle("/", &app.Handler{
-		Name:        "Trau-Index Dresden-Meißen",
-		Description: "Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde",
-		Title:       "Trau-Index Dresden-Meißen",
+		Name:        "Trauindex Sachsen",
+		Description: "Onlinesuche zum Trauindex",
+		Title:       "Trauindex Sachsen",
 	})
 
 	if err := http.ListenAndServe(":8000", nil); err != nil {
@@ -27,9 +27,9 @@ func StartGithub() {
 	app.RunWhenOnBrowser()
 
 	err := app.GenerateStaticWebsite(".", &app.Handler{
-		Name:        "Trau-Index Dresden-Meißen",
-		Description: "Onlinesuche zum Trau-Schnell-Index Dresden-Meißen-Freiberg-Dippoldiswalde",
-		Title:       "Trau-Index Dresden-Meißen",
+		Name:        "Trauindex Sachsen",
+		Description: "Onlinesuche zum Trauindex",
+		Title:       "Trauindex Sachsen",
 		Resources:   app.GitHubPages("simplechurchbookindexes"),
 		RawHeaders: []string{
 			`<!-- Google tag (gtag.js) -->
