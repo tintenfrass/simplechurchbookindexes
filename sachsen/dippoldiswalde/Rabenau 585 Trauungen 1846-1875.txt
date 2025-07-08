@@ -1,11 +1,12 @@
 Rabenau (Buch 585)
-Trauungen 1846-1869
+Trauungen 1846-1875
 https://www.archion.de/de/viewer/churchRegister/305589?pageId=42962884
 
 
 Februar 2025
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -679,3 +680,288 @@ Heinrich Otto Mißbach
 Ernst Reinhold Brückner
 ----------------
 Friedrich Herrmann Kirchmann
+----------------
+1870
+Ernst Moritz Schulze
+Friedrich August Lorenz
+Emil Herrmann Schumann
+----------------
+Julius Bernhard Pretzschner
+Ehregott Moritz Zöllner
+Gustav Emil Noach
+----------------
+August Herrmann Grübler
+Gustav Adolph Bürger
+Ernst Moritz Hünich
+----------------
+Johann Gottlieb Rößler
+Friedrich Bernhard Franz
+Carl Gottlieb Mai
+----------------
+Hugo Emil Adolph Stöhr
+Joseph Hugo Gnoll
+Carl Ernst Kreher
+August Louis Keller
+----------------
+Gustav Adolph Geißler
+Theodor Oswald Büttner
+Julius Oscar Jentsch
+----------------
+Carl Herrmann Pfund
+Carl August Börster
+Herrmann Daniel Köhler
+----------------
+Friedrich Oswald Wünschmann
+Ernst Theodor Eugen Barchewitz
+----------------
+1871
+Friedrich Adolph Wünschmann
+Ernst Gustav Lichtenberger
+Friedrich August Pretzsch
+----------------
+Heinrich Kroeger
+Carl Adolph Rothenberger
+Ernst Alfred Osmund Balduin Niedner
+----------------
+Gustav Wilhelm Helbig
+Gustav Adolph Neubert
+Theodor Oswald Zänker
+----------------
+Friedrich August Richter
+Wilhelm Bernhard Ziehnert
+Carl August Winterlich
+----------------
+Gottfried Herrmann Zöllmer
+Gustav Moritz Dietrich
+Heinrich Robert Reichelt
+----------------
+Friedrich Ernst Eichhorn
+Julius Rudolph Türksch
+Friedrich Herrmann Menzel
+----------------
+Emil Gustav Richard Bindler
+Gustav Louis Schenk
+Carl Hugo Röder
+----------------
+Fürchtegott Ehrenreich Knäbel
+Franz Eilhard Schulze
+Carl Friedrich Edelmann
+----------------
+----------------
+Gustav Herrmann Ullbrich
+Heinrich Rudolph Kühn
+Gustav Herrmann Gründer
+Carl Gustav Herrmann Anders
+----------------
+Julius Robert Zimmermann
+Gustav Herrmann Reichardt
+Johann Carl Tyllich
+Friedrich Louis Ernst Byhain
+----------------
+----------------
+1872
+Ernst Ludwig Rüger
+Carl Herrmann Wolf
+Carl Heinrich Eduard Bürger
+----------------
+Georg Bernhard Köhler
+Gustav Adolf Zimmermann
+Carl Friedrich August Pöge
+----------------
+Wilhelm Friedrich Peters
+Carl Heinrich Koch
+Friedrich Ernst Schneider
+----------------
+Friedrich Emil Schob
+Carl Gottlieb Heckel
+Carl Bernhard Wehner
+----------------
+Carl August Hänel
+Carl Gottlob Friedrich Franke
+Robert Julius Ulbricht
+Franz Theodor Klippel
+----------------
+Carl Heinrich Zimmermann
+Robert Heinrich Steyer
+Carl Gustav Näcke
+Heinrich Ernst Pietzsch
+----------------
+Louis Herrmann Vogel
+Johann Richard Gnoll
+Friedrich August Schmieder
+----------------
+Gustav Friedrich Hein
+Ernst Friedrich Richter
+Franz Julius Lorenz
+Carl Edmund Thiersch
+----------------
+Carl Gotthelf Horn
+Ernst Ludwig Göpfert
+----------------
+1873
+Carl Franz Bielich
+Friedrich Bernhard Schneider
+Ernst Robert Ullrich
+----------------
+Herrmann Ludwig Köhler
+Friedrich Ernst Ehregott Thomschke
+Gotthelf Friedrich Beckert
+----------------
+Georg August Moritz Böhme
+Carl Gottfried Reichard
+Johann Eduard Zöllner
+----------------
+Ernst Wilhelm Bierig
+Carl Gustav Richter
+Friedrich August Sorge
+----------------
+Carl Hugo Schindler
+Carl August Wolf
+Friedrich Gustav Moritz Börner
+----------------
+Carl Bruno Berndt
+Carl Herrmann Nitzsch
+Wilhelm Robert Vörtler
+----------------
+Carl Emil Eichler
+Carl Gottlieb Schurig
+Friedrich Otto Kühn
+----------------
+Ernst Herrmann Weise
+Carl Robert Hennersdorf
+August Hugo Käseberg
+----------------
+Paul Erich Eisold
+Carl August Klöber
+Friedrich Bernhard Maximilian Metzler
+Carl Julius Herrmann Zeiske
+----------------
+Ernst Julius Teichmann
+Herrmann Eduard Schuppe
+Eduard August Heinrich Dorn
+----------------
+Carl Gottlieb Carsch
+Carl Herrmann Hauptvogel
+Carl Käsemoser
+----------------
+Louis Herrmann Schlawack
+Carl Robert Vogel
+Julius Robert Geißler
+----------------
+Carl Oscar Wolf
+Carl Oswald Einert
+Carl Friedrich Herrmann Erler
+----------------
+Carl Herrmann Böhme
+Heinrich Moritz Wießner
+Heinrich Ferdinand Hamann
+----------------
+Anton Clemens Wünschmann
+Carl Friedrich Ehrhardt
+----------------
+1874
+Carl August Beyer
+Heinrich Herrmann Heber
+Bernhard August Klemm
+----------------
+Ernst Bernhard Hünig
+Gustav Emil Münzel
+Carl Friedrich Ehrhardt
+----------------
+Moritz Rudolph Schumann
+Carl August Franke
+Friedrich Herrmann Uhlig
+----------------
+Gustav Herrmann Uhlemann
+Carl Eduard Höhle
+Carl Robert Hofmann
+----------------
+Carl Ernst Kreher
+Carl August Ehrhardt
+August Herrmann Neubert
+----------------
+Ernst Oswald Kleber
+Carl Gottlieb Schumann
+Heinrich Ernst Hammer
+----------------
+Herrmann Wilhelm Klöber
+Heinrich Moritz Fleischer
+August Otto Büttner
+----------------
+Friedrich Wilhelm Zöllner
+Herrmann Robert Beugel
+Carl August Noack
+----------------
+Wilhelm Ernst Zeisig
+Carl Gustav Sparmann
+Carl Julius Wehner
+----------------
+Heinrich August Rehn
+Ernst Robert Münch
+Ernst Herrmann Diemann
+----------------
+Carl Traugott Ferdinand Schneider
+Carl Ernst Raabe
+Herrmann Theodor Eißrich
+----------------
+Gustav Oscar Zimmermann
+----------------
+1875
+Carl Herrmann Klippel
+Carl Heinrich Wickbold
+Eduard August Kleinau
+----------------
+Ernst Ferdinand Wolf
+Ernst Albert Knäbel
+Friedrich August Branke
+----------------
+Gustav Ottomar Vörtler
+Wilhelm Bernhard Lorenz
+August Ferdinand Zimmermann
+----------------
+Carl Herrmann Göpfert
+Friedrich Wilhelm Schmieder
+Carl Ferdinand Fritzsche
+----------------
+Gustav Adolph Hoffmann
+Gustav Clemens Gründel
+Friedrich Wilhelm Hempel
+----------------
+Ernst Friedrich Schumann
+Robert Ferdinand Franz
+Ernst August Poppke
+----------------
+Ernst Herrmann Hegewald
+Franz Hugo Barth
+Gustav Robert Rüger
+----------------
+Friedrich Wilhelm Pannasch
+August Albin Büttner
+Ernst Emil Häntzsch
+Friedrich Wilhelm Kittner
+----------------
+Albin Bruno Böhme
+Gustav Adolph Grahl
+Ernst Otto Sparmann
+----------------
+Friedrich August Hermann Scheffler
+Friedrich Herrmann Büttner
+Gustav Bernhard Grimmer
+----------------
+Carl Gottlob Rüssel
+August Hermann Lorenz
+Carl Julius Liebschner
+Joseph Johann Walther
+Balduin Edwin Oscar Boettger
+Carl Wilhelm Anton Bachmann
+----------------
+Wilhelm Theodor Auxel
+Julius Oswald Pretzschner
+Albert Richter
+Joseph Adolf Sachse
+Friedrich Ferdinand Franz
+Friedrich Julius Vörtler
+----------------
+Ernst Otto Illgen
+Johann Gottlieb Traugott Koerner
+Julius Robert Hoehle

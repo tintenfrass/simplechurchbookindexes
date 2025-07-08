@@ -1,11 +1,12 @@
 Schönfeld (Buch 703)
-Trauungen 1846-1869
+Trauungen 1846-1875
 https://www.archion.de/de/viewer/churchRegister/305677?pageId=42980497
 
 
 Februar 2025
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -223,3 +224,79 @@ Ehregott Michael Walter
 Ernst Wilhelm Heinzmann
 Karl Friedrich Halm
 Karl Friedrich Wilhelm Krumpelt
+----------------
+1870
+Ernst Eduard Scheinpflug
+Gottlob Friedrich Clausnitzer
+Fürchtegott Leberecht Lohse
+Karl Friedrich Stenzel
+Karl Hermann Wolf
+Gottlob Lichtenberger
+----------------
+Karl Albrecht Berger
+Friedrich August Hauswald
+Julius Hermann Kadner
+Karl Friedrich Walter
+----------------
+1871
+Gottlob Leberecht Giebe
+Eduard Julius Dietrich
+Wilhelm Adolf Mühle
+Karl Friedrich Wilhelm Zinke
+Karl Gottlob Ferdinand Franke
+----------------
+Karl Friedrich August Heinrich
+Friedrich Hermann Bretschneider
+----------------
+1872
+Johann August Zönnchen
+Friedrich August Hermann Zahn
+Bruno Dietrich
+----------------
+1873
+Karl Eduard Krätzschmar
+Traugott Reinhold Clemens Glöß
+Karl August Wornatzsch
+Karl Gottlieb Kempe
+Karl Heinrich Wolf
+----------------
+Karl Friedrich August Reichelt
+Heinrich Eduard Seifert
+Karl August Seidel
+Johann Nepomuk Grimm
+----------------
+1874
+Johann Gottlob Kummer
+Hermann Julius Giebe
+Friedrich Ernst Anders
+Karl Friedrich Wilhelm Liebscher
+Gustav Heinrich Kadner
+Karl Friedrich Wilhelm Grumt
+----------------
+August Robert Schmieder
+Karl Heinrich Uhlemann
+Karl Gottlieb Klotz
+Moritz Julius Kämpfe
+Johann Karl Gottlob Schreiber
+----------------
+Ernst Dietrich
+Gustav Moritz Hähnig
+----------------
+1875
+Karl Ferdinand Berger
+Friedrich Hermann Richter
+Christian Heinrich Ferdinand Willing
+Carl Gottfried Krätzschmar
+----------------
+Ernst Heinrich Zehl
+Ehregott Friedrich Berger
+Ernst August Reichel
+Karl Friedrich Rudolf Neutzschmann
+----------------
+Heinrich Adolf Thomas
+Karl Friedrich Krätzschmar
+Karl Gottlieb Dittrich
+----------------
+Ernst Wilhelm Robert Hinkel
+Karl Gustav Fischer
+Karl Friedrich Heintsch

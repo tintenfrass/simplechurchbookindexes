@@ -1,10 +1,11 @@
 Schmiedeberg (Buch 693)
-Trauungen 1852-1869
+Trauungen 1852-1875
 https://www.archion.de/de/viewer/churchRegister/305670?pageId=42980046
 
 
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -215,3 +216,88 @@ Karl Julius Seifert
 Adolf Gustav Pohlisch
 Karl Gottlieb Vogler
 Johann Friedrich Bobe
+----------------
+1870
+Friedrich Hermann Laue
+Moritz Hermann Fischer
+Karl Bernhard Klemm
+Gustav Eduard Pfützner
+Friedrich August Robert Kind
+----------------
+1871
+Gustav Adolf Steingen
+Karl August Massan
+Bernhard Richard Voigt
+Oscar Meier
+Friedrich August Richter
+----------------
+Gustav Theodor Hähnel
+Karl Gottlieb Bernhardt
+Friedrich August Voigtmann
+Heinrich Hermann Beyer
+Karl Gustav Hermann Anders
+----------------
+Karl Gottlieb Ruske
+----------------
+1872
+Heinrich Julius Henschel
+Friedrich August Büttner
+Carl August Vogler
+----------------
+Wenzel Kaukusch
+Louis Eduard Donath
+----------------
+1873
+Karl Hermann Hänsel
+Karl Julius Zimmermann
+Ernst Louis Jungnickel
+----------------
+Traugott Georg Weber
+Karl Heinrich Wilhelm Hardtmann
+Ernst Robert Fischer
+Paul Emil Löffler
+----------------
+Carl August Pieschel
+Carl Moritz Grahle
+Albin Heinrich Börner
+----------------
+1874
+Carl Christian Püschel
+Carl Louis Göhler
+Friedrich August Gärtner
+Ernst Bernhard Grahle
+Friedrich Fürchtegott Kempe
+Friedrich Wilhelm Müller
+----------------
+Johann Gottlob Reichel
+Conrad Ludwig Theodor Rauchfuß
+Gustav Eduard Kürschner
+Louis Hermann Liebe
+Carl Arno Nollain
+----------------
+Johann Carl August Zimmer
+Carl Friedrich August Schmidt
+Richard Gustav Vincenz
+Joseph Rotter
+----------------
+1875
+Carl Gottlieb Hermann Goldammer
+Gustav Theodor Hähnel
+Gottlob Adolf Heinrich Gottfried Wagner
+----------------
+Carl Friedrich Walther
+Hermann Gustav Wilhelm Reichenbach
+Carl Robert Kästner
+Heinrich Hermann Bieberstein
+----------------
+Carl Friedrich Rudolf Neutzschmann
+Friedrich Moritz Aehnelt
+Friedrich Ferdinand Wild
+Carl Bernhard Schmidt
+----------------
+Carl Gottlieb Dittrich
+Carl Julius Eduard Schumann
+Ludwig Georg Frank
+Carl Friedrich Heintsch
+----------------
+Carl Robert Julius Keilig

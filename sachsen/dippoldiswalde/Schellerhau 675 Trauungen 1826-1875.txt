@@ -1,5 +1,5 @@
 Schellerhau (Buch 675)
-Trauungen 1826-1869
+Trauungen 1826-1875
 https://www.archion.de/de/viewer/churchRegister/305656?pageId=42977900
 
 Das ist ein Index der Trauungen. (Nur die Bräutigame)
@@ -11,6 +11,7 @@ November 2024
 Februar 2025
 April 2025
 Juni 2025
+Juli 2025
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
@@ -577,3 +578,95 @@ Ehregott Friedrich Börner
 Johann Gottlob Gottschalk
 Friedrich Wilhelm Zimmermann
 Karl Ernst Saupe
+----------------
+1870
+Karl Gottlieb Fleischer
+Johann August Mühle
+Ehregott Friedrich Börner
+Karl August Friebel
+----------------
+Ernst Wilhelm Damm
+Johann Karl Gottlieb Pellmann
+Gustav Wilhelm Robert Zimmermann
+Johann Gottlob Müller
+----------------
+Heinrich Robert Ernst
+Karl Gottlob Schiller
+Friedrich Gustav Locke
+Karl Moritz Püschel
+----------------
+Friedrich Herrmann Zimmermann
+Karl Friedrich Walter
+1871
+Karl Friedrich August Weinholdt
+Karl Heinrich Walther
+----------------
+Ernst Wilhelm Schaffrath
+Karl August Wilhelm Friebel
+Johann Gottfried Zeibig
+Karl Friedrich Wilhelm Ullrich
+----------------
+Julius Hermann König
+Friedrich Traugott Horn
+Karl August Bormann
+----------------
+1872
+Traugott Moritz Göhler
+Friedrich August Ende
+Robert Herrmann Fleischer
+Karl Hermann Straßberger
+----------------
+Traugott Ehregott Naumann
+Friedrich Wilhelm Mende
+Karl Robert Göhler
+Friedrich August Weinhold
+----------------
+Karl Wilhelm Kempe
+1873
+Karl Moritz Hauptmann
+Friedrich Hermann Glöckner
+----------------
+Karl Julius Zimmermann
+Ernst Ferdinand Leumer
+Karl Moritz Grahle
+Karl Gottlieb Stenzel
+Karl Gottlob Robert Popp
+----------------
+Friedrich Wilhelm Schiller
+Moritz Hermann Richter
+Friedrich Wilhelm Hermann Federlein
+1874
+Karl Gottlob Friedrich Walther
+----------------
+Karl Christian Püschel
+Friedrich Ferdinand Berger
+Karl Friedrich Wilhelm Grahl
+Adam Heinrich Ehregott Weckbrod
+Traugott Julius Philipp
+----------------
+Ernst Friedrich Wagner
+Ernst Eduard Lotze
+Ernst Wilhelm Männchen
+Karl August Püschel
+----------------
+Christlieb Friedrich Lohse
+1875
+Christian Friedrich Zenker
+Heinrich Ehregott Zimmermann
+Karl Christoph Hofmann
+----------------
+Christian Friedrich Damm
+Karl Gottlob Popp
+Eduard Robert Stier
+Karl Friedrich Wilhelm Kempe
+Ernst Friedrich Mühl
+----------------
+Gustav Adolf Behr
+Heinrich Julius Fleischer
+Friedrich August Horn
+Gustav Adolf Ernst Schüttig
+Karl Friedrich Wilhelm Fritzsche
+----------------
+Reinhard Eduard Franke
+Robert Gustav Thiersch
+Karl Gottlieb Böttger
