@@ -6,7 +6,7 @@ https://tintenfrass.github.io/simplechurchbookindexes/
 
 ### Umfang
 Gebiet: Dresden-Meißen-Freiberg-Dippoldiswalde<br>
-Zeitraum: 16. bis Anfang 18.Jh.
+Zeitraum: 16.Jh. bis 1875
 
 ### Die Roh-Daten
 Alle bisher erfassten Daten befinden sich im Ordner "sachsen"
@@ -37,8 +37,21 @@ Der Quellcode zur Online-Suche ist vollständig einsehbar im Ordner docs. (Open 
 ### Lizenz beachten (Creative Commons Attribution-NonCommercial (CC BY-NC) 3.0)
 Die Daten sind für die Forschung gedacht, es ist keine kommerzielle Nutzung erlaubt.
 
-### Inspiriert durch das Poznan-Project
+### Weitere Indezierungsprojekte
+
+#### Poznan-Project
 https://poznan-project.psnc.pl/
+
+#### Allensteiner Indezierungsprojekt
+https://namensindex.org/
+
+#### Greif-Index
+https://www.pommerscher-greif.de/datenbanken/greif-index/
+
+#### Brandenburg Projekt
+https://trauregister.eu/
+
+
 
 ### Kontakt
 Fragen, Korrekturen, Mithilfe, Unterstützung zum Projekt gerne an
