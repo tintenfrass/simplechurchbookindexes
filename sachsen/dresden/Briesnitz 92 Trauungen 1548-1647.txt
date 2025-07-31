@@ -504,7 +504,7 @@ Georg Pezsch
 Barthel Frizsche
 Peter Fuhrmann
 Georg Ganßauge
-Andeas Pezsch
+Andreas Pezsch
 Georg Pezsch
 Lorenz Scholz
 1596
@@ -1540,7 +1540,7 @@ Jacob Ranft
 Andreas Zeilig
 Georg Naumann
 Hans Rülcker
-Auguste Hennig
+August Hennig
 Hans Bartholomes
 Hans Hauptvogel
 Hans Kundt
