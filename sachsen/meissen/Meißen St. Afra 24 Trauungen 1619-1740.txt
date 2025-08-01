@@ -1662,7 +1662,7 @@ Stephan Hoyer
 ----------------
 Christian Hahn
 Mattheus Zimmerman
-Calrd-Siegmund Haßuf
+Carl-Siegmund Haßuf
 Martin Mehner
 Martin Tzschoche
 Georg Baseler
