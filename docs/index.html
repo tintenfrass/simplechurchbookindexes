@@ -3,20 +3,20 @@
 <head>
 <meta charset="UTF-8">
 <meta name="author" content>
-<meta name="description" content="Onlinesuche zum Trauindex">
+<meta content="Onlinesuche zum Trauindex" name="description">
 <meta name="keywords" content>
-<meta name="theme-color" content="#2d2c2c">
+<meta content="#2d2c2c" name="theme-color">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover">
-<meta property="og:url" content="http://127.0.0.1:51007/">
+<meta property="og:url" content="http://127.0.0.1:51118/">
 <meta property="og:title" content="Trauindex Sachsen">
 <meta property="og:description" content="Onlinesuche zum Trauindex">
 <meta property="og:type" content="website">
 <meta property="og:image" content>
 <title>Trauindex Sachsen</title>
-<link rel="preload" href="/simplechurchbookindexes/app.css" as="style" type="text/css">
+<link type="text/css" rel="preload" href="/simplechurchbookindexes/app.css" as="style">
 <link rel="icon" href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.svg">
 <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png">
-<link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
+<link href="/simplechurchbookindexes/manifest.webmanifest" rel="manifest">
 <link rel="stylesheet" type="text/css" href="/simplechurchbookindexes/app.css">
 <script defer src="/simplechurchbookindexes/wasm_exec.js"></script>
 <script defer src="/simplechurchbookindexes/app.js"></script>
@@ -37,7 +37,7 @@
 <h2>Onlinesuche im Trauindex</h2>
 <h3>Dresden-Meißen-Freiberg-Dippoldiswalde (+Bautzen)</h3>
 <label>Jahr Min </label>
-<input type="range" min="1541" max="1875" value="0" style="width: 600px;">
+<input max="1875" value="0" style="width: 600px;" type="range" min="1541">
 <label>0</label>
 <br>
 <label>Jahr Max </label>
@@ -61,7 +61,7 @@ Jaro + Soundex + DamerauLevenshtein
  ----&gt; mehr Treffer, sehr langsam, nicht für große Suchen geeignet
 </div>
 <div title="Die OSA-Variante von DamerauLevenshtein, ohne Vorfilterung">
-<input checked="false" name="algo" type="radio">
+<input type="radio" checked="false" name="algo">
 OSA
  ----&gt; einfacher und schneller als DamerauLevenshtein
 </div>
@@ -78,7 +78,7 @@ Klassisch
 </div></td>
 </tr></table>
 <td><button disabled title="Dresden-Meißen-Freiberg-Dippoldiswalde">DD-MEI-FG-DW</button></td>
-<td><button disabled="false" title="Bautzen">BZ</button></td>
+<td><button title="Bautzen" disabled="false">BZ</button></td>
 <table>
 <div style="border:1px solid #D3D3D3;display:block;">
 <tr>

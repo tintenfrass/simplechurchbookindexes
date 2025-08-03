@@ -1,8 +1,8 @@
-const cacheName = "app-" + "d8455ce3193e937eed042ce6692600d8d4bd5abb";
+const cacheName = "app-" + "85761d75da76b661dc6b99ba8b495233244fcf0d";
 const resourcesToCache = ["/simplechurchbookindexes","/simplechurchbookindexes/app.css","/simplechurchbookindexes/app.js","/simplechurchbookindexes/manifest.webmanifest","/simplechurchbookindexes/wasm_exec.js","/simplechurchbookindexes/web/app.wasm","https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png"];
 
 self.addEventListener("install", (event) => {
-  console.log("installing app worker d8455ce3193e937eed042ce6692600d8d4bd5abb");
+  console.log("installing app worker 85761d75da76b661dc6b99ba8b495233244fcf0d");
 
   event.waitUntil(
     caches
@@ -28,7 +28,7 @@ self.addEventListener("activate", (event) => {
       );
     })
   );
-  console.log("app worker d8455ce3193e937eed042ce6692600d8d4bd5abb is activated");
+  console.log("app worker 85761d75da76b661dc6b99ba8b495233244fcf0d is activated");
 });
 
 self.addEventListener("fetch", (event) => {
