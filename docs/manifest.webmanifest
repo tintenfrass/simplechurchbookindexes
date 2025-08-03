@@ -4,14 +4,19 @@
   "description": "Onlinesuche zum Trauindex",
   "icons": [
     {
-      "src": "https://storage.googleapis.com/murlok-github/icon-192.png",
-      "type": "image/png",
-      "sizes": "192x192"
+      "src": "https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
     },
     {
-      "src": "https://storage.googleapis.com/murlok-github/icon-512.png",
+      "src": "https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png",
       "type": "image/png",
       "sizes": "512x512"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
     }
   ],
   "scope": "/simplechurchbookindexes/",
