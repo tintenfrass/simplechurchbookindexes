@@ -1,26 +1,25 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="author" content>
-<meta content="Onlinesuche zum Trauindex" name="description">
-<meta name="keywords" content>
-<meta content="#2d2c2c" name="theme-color">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover">
-<meta property="og:url" content="http://127.0.0.1:51118/">
-<meta property="og:title" content="Trauindex Sachsen">
-<meta property="og:description" content="Onlinesuche zum Trauindex">
-<meta property="og:type" content="website">
-<meta property="og:image" content>
-<title>Trauindex Sachsen</title>
-<link type="text/css" rel="preload" href="/simplechurchbookindexes/app.css" as="style">
-<link rel="icon" href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.svg">
-<link rel="apple-touch-icon" href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png">
-<link href="/simplechurchbookindexes/manifest.webmanifest" rel="manifest">
-<link rel="stylesheet" type="text/css" href="/simplechurchbookindexes/app.css">
-<script defer src="/simplechurchbookindexes/wasm_exec.js"></script>
-<script defer src="/simplechurchbookindexes/app.js"></script>
-<!-- Google tag (gtag.js) -->
+  <head>
+    <meta charset="UTF-8">
+    <meta name="author">
+    <meta name="description" content="Onlinesuche zum Trauindex">
+    <meta name="theme-color" content="#2d2c2c">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta property="og:url" content="https:///simplechurchbookindexes">
+    <meta property="og:title" content="Trauindex Sachsen">
+    <meta property="og:description" content="Onlinesuche zum Trauindex">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://">
+    <title>Trauindex Sachsen</title>
+    <link rel="icon" href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.svg">
+    <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png">
+    <link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
+    <link href="/simplechurchbookindexes/app.css" type="text/css" rel="stylesheet">
+    <script defer src="/simplechurchbookindexes/wasm_exec.js"></script>
+    <script defer src="/simplechurchbookindexes/app.js"></script>
+    <!-- Google tag (gtag.js) -->
 			<script async src="https://www.googletagmanager.com/gtag/js?id=G-S2D2V6SHXE"></script>
 			<script>
 			window.dataLayer = window.dataLayer || [];
@@ -29,671 +28,689 @@
 
 			gtag('config', 'G-S2D2V6SHXE');
 			</script>
-</head>
-<body>
-<div style="font-family:verdana,sans-serif;font-size:8pt;">
-<table><tr>
-<td><div>
-<h2>Onlinesuche im Trauindex</h2>
-<h3>Dresden-Meißen-Freiberg-Dippoldiswalde (+Bautzen)</h3>
-<label>Jahr Min </label>
-<input max="1875" value="0" style="width: 600px;" type="range" min="1541">
-<label>0</label>
-<br>
-<label>Jahr Max </label>
-<input type="range" min="1541" max="1875" value="0" style="width: 600px;">
-<label>0</label>
-<br>
-<br>
-<br>
-</div></td>
-<td><div style="margin-left:60px;">
-<div style="font-weight:bold;" title="Bestimmt wie schnell und genau die Ähnlichkeitssuche funktioniert, je nach Algorithmus können die Ergebnisse abweichen.">Suchalgorithmus:</div>
-<br>
-<div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.4 werden danach mit DamerauLevenshtein genau berechnet. Dieses zweistufe Vorgehen macht die Suche schnell und trotzdem genau.">
-<input type="radio" checked name="algo">
-Jaro + DamerauLevenshtein
- ----&gt; best Kombination aus Geschwindigkeit und Komplexität
-</div>
-<div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.3 werden danach mit Soundex umgewandelt und diese dann mit DamerauLevenshtein berechnet. Das ist sehr langsam aber findet viel mehr Treffer. Große Suchen brechen manchmal ab.">
-<input type="radio" checked="false" name="algo">
-Jaro + Soundex + DamerauLevenshtein
- ----&gt; mehr Treffer, sehr langsam, nicht für große Suchen geeignet
-</div>
-<div title="Die OSA-Variante von DamerauLevenshtein, ohne Vorfilterung">
-<input type="radio" checked="false" name="algo">
-OSA
- ----&gt; einfacher und schneller als DamerauLevenshtein
-</div>
-<div title="einfachere Version von DamerauLevenshtein, ohne Vorfilterung">
-<input type="radio" checked="false" name="algo">
-Levenshtein
- ----&gt; einfacher und schneller als OSA
-</div>
-<div title="Der einzige Algorithmus ohne Ähnlichkeitssuche sondern klassisch nach einer festen Buchstabenkombination.">
-<input type="radio" checked="false" name="algo">
-Klassisch
- ----&gt; sucht buchstabengenau nach dem Suchtext innerhalb des Namens.
-</div>
-</div></td>
-</tr></table>
-<td><button disabled title="Dresden-Meißen-Freiberg-Dippoldiswalde">DD-MEI-FG-DW</button></td>
-<td><button title="Bautzen" disabled="false">BZ</button></td>
-<table>
-<div style="border:1px solid #D3D3D3;display:block;">
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><button style="width: 70px;">Alles</button></td>
-<td><button style="width: 70px;">Nichts</button></td>
-</tr>
-</div>
-<div style="border:1px solid #D3D3D3;display:none;">
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><button style="width: 70px;">Alles</button></td>
-<td><button style="width: 70px;">Nichts</button></td>
-</tr>
-</div>
-</table>
-<p>
-<input type="text" placeholder="Vorname Nachname" autofocus style="width: 250px;">
- 
-<button style="width: 100px;">Search</button>
- 
-<label></label>
-</p>
-<div></div>
-<h3>Hinweise:</h3>
-Die Suche erfolgt über alle Vornamen, den Nachnamen oder den kompletten Namen des Bräutigams. Eine Suche über Namensteile ist im Suchmodus Klassisch möglich. (siehe Beispiele)
-<br>
-Dabei wird eine Ähnlichkeitssuche benutzt und die Ergebnisse nach Treffergenauigkeit aufgelistet. (Ausnahme Suchmodus Klassisch)
-<br>
-Die Suche wird direkt im Browser ausgeführt, die Suchgeschwindigkeit ist damit stark abhängig vom Gerät womit diese Seite aufgerufen wird.
-<br>
-Es wird Groß- und kleinschreibung unterschieden.
-<br>
-Komplexe Suchen (kurze Suchtexte im großen Suchgebiet) können die Suche manchmal abstürzen lassen (Seite bleibt hängen, Button reagiert nicht mehr) =&gt; in diesem Fall muss die Seite im Browser neu geladen werden.
-<br>
-Über die Reiter kann das Suchgebiet ausgewählt werden, damit kann z.B: in das Gebiet Bautzen (BZ) gewechselt werden
-<br>
-<br>
-Bsp: für die Suche:
-<br>
-<b>Max Mustermann</b>
- =&gt; Sucht nach Vor- und Nachnamen in dieser Kombination
-<br>
-<b>Max Moritz Mustermann</b>
- =&gt; bei mehreren Vornahmen, dabei ist die Reihenfolge wichtig. Hat diese Person im Index aber noch weitere Vornamen oder diese in anderer Reihenfolge, dann wird sie so wahrscheinlich nicht gefunden.
-<br>
-<b>Max *</b>
- =&gt; Sucht nach Vornamen Max mit beliebigem Nachnamen
-<br>
-<b>Max Moritz *</b>
- =&gt; Sucht nach der Vornamenskombination Max Moritz mit beliebigem Nachnamen
-<br>
-<b>* Schönberg</b>
- =&gt; Sucht nach Nachname Schönberg mit beliebigen Vornamen. (Adelige Nachnamen z.B. &#39;von Schönberg&#39; sind im Index ebenfalls als &#39;Schönberg&#39; geführt und können nicht von der nicht-adeligen Variante unterschieden werden)
-<br>
-<b>* VitzthumEckstädt</b>
- =&gt; als Bps. für den Nachnamen &#39;Vitzthum von Eckstädt&#39; mit beliebigen Vornamen. (Mehrteilige Nachnamen wurden im Index verkürzt und bestehen immer nur aus einem Wort)
-<br>
-<br>
-Für spezielle Suchen kann rechts oben der Suchalgorithmus ausgewählt werden.
-<br>
-Im Suchmodus Klassisch wird buchstabengenau gesucht, nur damit kann gezielt nach Namensbestandteilen gesucht werden, z.B:
-<br>
-<b>Napoleon *</b>
- =&gt; Liefert Ergebnisse mit beliebigem Nachnamen, wo in den Vornamen das Wort &#39;Napoleon&#39; enthalten ist, egal ob es weitere Vornamen davor oder danach gibt.
-<br>
-<b>* dorf</b>
- =&gt; Liefert Ergebnisse mit beliebigem Vorname, wo im Nachnamen &#39;dorf&#39; enthalten ist
-<br>
-<b>lieb Qu</b>
- =&gt; Liefert Ergebnisse, wo im Vornamen &#39;lieb&#39; und im Nachnamen &#39;Qu&#39; enthalten ist
-<br>
-<b>Thoma</b>
- =&gt; Liefert Ergebnisse, wo &#39;Thoma&#39; im Vor- oder Nachnamen enthalten ist
-<br>
-<br>
-Weitere Informationen zu den Suchalgorithmen:
-<br>
-<a href="https://de.wikipedia.org/wiki/Levenshtein-Distanz"> (Damerau-)Levenshtein-Distanz</a>
-<br>
-<a href="https://srinivas-kulkarni.medium.com/jaro-winkler-vs-levenshtein-distance-2eab21832fd6"> Jaro-Winkler vs. Levenshtein</a>
-<br>
-<a href="https://de.wikipedia.org/wiki/K%C3%B6lner_Phonetik"> Soundex (Kölner Phonetik)</a>
-<br>
-<br>
-Ergebnisse:
-<br>
-In den Ergebnissen führt der erste Link zur Datei mit den Roh-Daten, das kann helfen die genaue Position des Eintrages im Kirchenbuch zu finden.
-<br>
-Manche Kirchenbücher sind auch nicht chronologisch bzw. die Daten im Buch verstreut.
-<br>
-Es gibt auch immer mal wieder Fehler in den Daten, falsch erfasste Namen oder manchmal ist das Jahr um 1 verrutscht, etc.
-<br>
-<br>
-Der zweie Link führt direkt zum Kirchenbuch, meistens auch auf den richtigen Scan, das kann durch Fehler aber evtl. auch etwas abweichen.
-<br>
-Die Archion-Links bringen nur was, wenn man bei Archion einen Pass hat.
-<br>
-<br>
-Die Kirchengemeinden sind grob geographisch angeordnet, siehe auch: 
-<a href="https://www.google.com/maps/d/viewer?mid=1FYfIGUV4g66wImeIqkkr8lcs8kzaAx4s&ll=50.96592383350824%2C13.63222561152344&z=10">Karte Kirchenbücher Sachsen</a>
-<br>
-<br>
-<h3>Mehr Informationen zum Projekt:</h3>
-<a href="https://github.com/tintenfrass/simplechurchbookindexes">https://github.com/tintenfrass/simplechurchbookindexes</a>
-<br>
-<br>
-<h3> v1.11 (August 2025) latest updates:</h3>
-<label>kleine Fehlerkorrekturen</label>
-</div>
-<aside id="app-wasm-loader" class="goapp-app-info">
-<img id="app-wasm-loader-icon" class="goapp-logo goapp-spin" src="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png">
-<p id="app-wasm-loader-label" class="goapp-label">0%</p>
-</aside>
-</body>
+  </head>
+  <body>
+    <div style="font-family:verdana,sans-serif;font-size:8pt">
+      <table>
+        <tr>
+          <td>
+            <div>
+              <h2>Onlinesuche im Trauindex</h2>
+              <h3>Dresden-Meißen-Freiberg-Dippoldiswalde (+Bautzen)</h3>
+              <label>Jahr Min </label>
+              <input value="0" style="width: 600px" type="range" min="1541" max="1875">
+              <label>0</label>
+              <br>
+              <label>Jahr Max </label>
+              <input type="range" min="1541" max="1875" value="0" style="width: 600px">
+              <label>0</label>
+              <br>
+              <br>
+              <br>
+            </div>
+          </td>
+          <td>
+            <div style="margin-left:60px">
+              <div style="font-weight:bold" title="Bestimmt wie schnell und genau die Ähnlichkeitssuche funktioniert, je nach Algorithmus können die Ergebnisse abweichen.">Suchalgorithmus:</div>
+              <br>
+              <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.4 werden danach mit DamerauLevenshtein genau berechnet. Dieses zweistufe Vorgehen macht die Suche schnell und trotzdem genau.">
+                <input type="radio" checked name="algo">
+                Jaro + DamerauLevenshtein
+                 ----&gt; best Kombination aus Geschwindigkeit und Komplexität
+              </div>
+              <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.3 werden danach mit Soundex umgewandelt und diese dann mit DamerauLevenshtein berechnet. Das ist sehr langsam aber findet viel mehr Treffer. Große Suchen brechen manchmal ab.">
+                <input type="radio" checked="false" name="algo">
+                Jaro + Soundex + DamerauLevenshtein
+                 ----&gt; mehr Treffer, sehr langsam, nicht für große Suchen geeignet
+              </div>
+              <div title="Die OSA-Variante von DamerauLevenshtein, ohne Vorfilterung">
+                <input checked="false" name="algo" type="radio">
+                OSA
+                 ----&gt; einfacher und schneller als DamerauLevenshtein
+              </div>
+              <div title="einfachere Version von DamerauLevenshtein, ohne Vorfilterung">
+                <input checked="false" name="algo" type="radio">
+                Levenshtein
+                 ----&gt; einfacher und schneller als OSA
+              </div>
+              <div title="Der einzige Algorithmus ohne Ähnlichkeitssuche sondern klassisch nach einer festen Buchstabenkombination.">
+                <input type="radio" checked="false" name="algo">
+                Klassisch
+                 ----&gt; sucht buchstabengenau nach dem Suchtext innerhalb des Namens.
+              </div>
+            </div>
+          </td>
+        </tr>
+      </table>
+      <td>
+        <button disabled title="Dresden-Meißen-Freiberg-Dippoldiswalde">DD-MEI-FG-DW</button>
+      </td>
+      <td>
+        <button disabled="false" title="Bautzen">BZ</button>
+      </td>
+      <table>
+        <div style="border:1px solid #D3D3D3;display:block">
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              <button style="width: 70px">Alles</button>
+            </td>
+            <td>
+              <button style="width: 70px">Nichts</button>
+            </td>
+          </tr>
+        </div>
+        <div style="border:1px solid #D3D3D3;display:none">
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              <button style="width: 70px">Alles</button>
+            </td>
+            <td>
+              <button style="width: 70px">Nichts</button>
+            </td>
+          </tr>
+        </div>
+      </table>
+      <p>
+        <input placeholder="Vorname Nachname" autofocus style="width: 250px" type="text">
+         
+        <button style="width: 100px">Search</button>
+         
+        <label></label>
+      </p>
+      <div></div>
+      <h3>Hinweise:</h3>
+      Die Suche erfolgt über alle Vornamen, den Nachnamen oder den kompletten Namen des Bräutigams. Eine Suche über Namensteile ist im Suchmodus Klassisch möglich. (siehe Beispiele)
+      <br>
+      Dabei wird eine Ähnlichkeitssuche benutzt und die Ergebnisse nach Treffergenauigkeit aufgelistet. (Ausnahme Suchmodus Klassisch)
+      <br>
+      Die Suche wird direkt im Browser ausgeführt, die Suchgeschwindigkeit ist damit stark abhängig vom Gerät womit diese Seite aufgerufen wird.
+      <br>
+      Es wird Groß- und kleinschreibung unterschieden.
+      <br>
+      Komplexe Suchen (kurze Suchtexte im großen Suchgebiet) können die Suche manchmal abstürzen lassen (Seite bleibt hängen, Button reagiert nicht mehr) =&gt; in diesem Fall muss die Seite im Browser neu geladen werden.
+      <br>
+      Über die Reiter kann das Suchgebiet ausgewählt werden, damit kann z.B: in das Gebiet Bautzen (BZ) gewechselt werden
+      <br>
+      <br>
+      Bsp: für die Suche:
+      <br>
+      <b>Max Mustermann</b>
+       =&gt; Sucht nach Vor- und Nachnamen in dieser Kombination
+      <br>
+      <b>Max Moritz Mustermann</b>
+       =&gt; bei mehreren Vornahmen, dabei ist die Reihenfolge wichtig. Hat diese Person im Index aber noch weitere Vornamen oder diese in anderer Reihenfolge, dann wird sie so wahrscheinlich nicht gefunden.
+      <br>
+      <b>Max *</b>
+       =&gt; Sucht nach Vornamen Max mit beliebigem Nachnamen
+      <br>
+      <b>Max Moritz *</b>
+       =&gt; Sucht nach der Vornamenskombination Max Moritz mit beliebigem Nachnamen
+      <br>
+      <b>* Schönberg</b>
+       =&gt; Sucht nach Nachname Schönberg mit beliebigen Vornamen. (Adelige Nachnamen z.B. &#39;von Schönberg&#39; sind im Index ebenfalls als &#39;Schönberg&#39; geführt und können nicht von der nicht-adeligen Variante unterschieden werden)
+      <br>
+      <b>* VitzthumEckstädt</b>
+       =&gt; als Bps. für den Nachnamen &#39;Vitzthum von Eckstädt&#39; mit beliebigen Vornamen. (Mehrteilige Nachnamen wurden im Index verkürzt und bestehen immer nur aus einem Wort)
+      <br>
+      <br>
+      Für spezielle Suchen kann rechts oben der Suchalgorithmus ausgewählt werden.
+      <br>
+      Im Suchmodus Klassisch wird buchstabengenau gesucht, nur damit kann gezielt nach Namensbestandteilen gesucht werden, z.B:
+      <br>
+      <b>Napoleon *</b>
+       =&gt; Liefert Ergebnisse mit beliebigem Nachnamen, wo in den Vornamen das Wort &#39;Napoleon&#39; enthalten ist, egal ob es weitere Vornamen davor oder danach gibt.
+      <br>
+      <b>* dorf</b>
+       =&gt; Liefert Ergebnisse mit beliebigem Vorname, wo im Nachnamen &#39;dorf&#39; enthalten ist
+      <br>
+      <b>lieb Qu</b>
+       =&gt; Liefert Ergebnisse, wo im Vornamen &#39;lieb&#39; und im Nachnamen &#39;Qu&#39; enthalten ist
+      <br>
+      <b>Thoma</b>
+       =&gt; Liefert Ergebnisse, wo &#39;Thoma&#39; im Vor- oder Nachnamen enthalten ist
+      <br>
+      <br>
+      Weitere Informationen zu den Suchalgorithmen:
+      <br>
+      <a href="https://de.wikipedia.org/wiki/Levenshtein-Distanz"> (Damerau-)Levenshtein-Distanz</a>
+      <br>
+      <a href="https://srinivas-kulkarni.medium.com/jaro-winkler-vs-levenshtein-distance-2eab21832fd6"> Jaro-Winkler vs. Levenshtein</a>
+      <br>
+      <a href="https://de.wikipedia.org/wiki/K%C3%B6lner_Phonetik"> Soundex (Kölner Phonetik)</a>
+      <br>
+      <br>
+      Ergebnisse:
+      <br>
+      In den Ergebnissen führt der erste Link zur Datei mit den Roh-Daten, das kann helfen die genaue Position des Eintrages im Kirchenbuch zu finden.
+      <br>
+      Manche Kirchenbücher sind auch nicht chronologisch bzw. die Daten im Buch verstreut.
+      <br>
+      Es gibt auch immer mal wieder Fehler in den Daten, falsch erfasste Namen oder manchmal ist das Jahr um 1 verrutscht, etc.
+      <br>
+      <br>
+      Der zweie Link führt direkt zum Kirchenbuch, meistens auch auf den richtigen Scan, das kann durch Fehler aber evtl. auch etwas abweichen.
+      <br>
+      Die Archion-Links bringen nur was, wenn man bei Archion einen Pass hat.
+      <br>
+      <br>
+      Die Kirchengemeinden sind grob geographisch angeordnet, siehe auch: 
+      <a href="https://www.google.com/maps/d/viewer?mid=1FYfIGUV4g66wImeIqkkr8lcs8kzaAx4s&ll=50.96592383350824%2C13.63222561152344&z=10">Karte Kirchenbücher Sachsen</a>
+      <br>
+      <br>
+      <h3>Mehr Informationen zum Projekt:</h3>
+      <a href="https://github.com/tintenfrass/simplechurchbookindexes">https://github.com/tintenfrass/simplechurchbookindexes</a>
+      <br>
+      <br>
+      <h3> v1.11 (August 2025) latest updates:</h3>
+      <label>kleine Fehlerkorrekturen</label>
+    </div>
+    <aside id="app-wasm-loader" class="goapp-app-info">
+      <img src="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png" id="app-wasm-loader-icon" class="goapp-logo goapp-spin" alt="wasm loader icon">
+      <p id="app-wasm-loader-label" class="goapp-label">0%</p>
+    </aside>
+  </body>
 </html>

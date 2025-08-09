@@ -4,11 +4,13 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/maxence-charriere/go-app/v9/pkg/app"
+	"github.com/maxence-charriere/go-app/v10/pkg/app"
 )
 
 func StartLocal() {
-	app.Route("/", &searchComp{})
+	app.Route("/", func() app.Composer {
+		return &searchComp{}
+	})
 	app.RunWhenOnBrowser()
 
 	http.Handle("/", &app.Handler{
@@ -23,7 +25,9 @@ func StartLocal() {
 }
 
 func StartGithub() {
-	app.Route("/", &searchComp{})
+	app.Route("/", func() app.Composer {
+		return &searchComp{}
+	})
 	app.RunWhenOnBrowser()
 
 	err := app.GenerateStaticWebsite(".", &app.Handler{

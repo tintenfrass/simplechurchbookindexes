@@ -2,12 +2,13 @@ package ui
 
 import (
 	"fmt"
-	"onlinefuzzysearch/config"
-	"onlinefuzzysearch/search"
 	"strings"
 	"time"
 
-	"github.com/maxence-charriere/go-app/v9/pkg/app"
+	"onlinefuzzysearch/config"
+	"onlinefuzzysearch/search"
+
+	"github.com/maxence-charriere/go-app/v10/pkg/app"
 )
 
 const tabs = 2

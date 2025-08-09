@@ -2,13 +2,14 @@ package ui
 
 import (
 	"fmt"
-	"onlinefuzzysearch/search"
 	"path"
 	"strconv"
 	"strings"
 	"time"
 
-	"github.com/maxence-charriere/go-app/v9/pkg/app"
+	"onlinefuzzysearch/search"
+
+	"github.com/maxence-charriere/go-app/v10/pkg/app"
 )
 
 type searchComp struct {
@@ -122,14 +123,14 @@ func (h *searchComp) plusminus(value bool, k string) {
 	}
 }
 
-//Button show all
+// Button show all
 func (h *searchComp) all(ctx app.Context, e app.Event) {
 	for key, _ := range search.Data.Marriages {
 		h.checked[h.activeTab][key] = true
 	}
 }
 
-//Button show nothing
+// Button show nothing
 func (h *searchComp) nothing(ctx app.Context, e app.Event) {
 	for key, _ := range search.Data.Marriages {
 		h.checked[h.activeTab][key] = false
@@ -144,7 +145,7 @@ func (h *searchComp) tab1(ctx app.Context, e app.Event) {
 	h.showTab(1)
 }
 
-//show tab
+// show tab
 func (h *searchComp) showTab(nr int) {
 	for key, _ := range h.displayTab {
 		if nr == key {

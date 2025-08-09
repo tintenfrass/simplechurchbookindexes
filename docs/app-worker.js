@@ -1,44 +1,65 @@
-const cacheName = "app-" + "85761d75da76b661dc6b99ba8b495233244fcf0d";
-const resourcesToCache = ["/simplechurchbookindexes","/simplechurchbookindexes/app.css","/simplechurchbookindexes/app.js","/simplechurchbookindexes/manifest.webmanifest","/simplechurchbookindexes/wasm_exec.js","/simplechurchbookindexes/web/app.wasm","https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png"];
+// -----------------------------------------------------------------------------
+// PWA
+// -----------------------------------------------------------------------------
+const cacheName = "app-" + "6e8bd83cfeb3b74c24a7ef63199d485e46be0251";
+const resourcesToCache = ["https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png","/simplechurchbookindexes/web/app.wasm","/simplechurchbookindexes/wasm_exec.js","/simplechurchbookindexes/manifest.webmanifest","/simplechurchbookindexes/app.js","/simplechurchbookindexes/app.css","/simplechurchbookindexes"];
 
-self.addEventListener("install", (event) => {
-  console.log("installing app worker 85761d75da76b661dc6b99ba8b495233244fcf0d");
-
-  event.waitUntil(
-    caches
-      .open(cacheName)
-      .then((cache) => {
-        return cache.addAll(resourcesToCache);
-      })
-      .then(() => {
-        self.skipWaiting();
-      })
-  );
+self.addEventListener("install", async (event) => {
+  try {
+    console.log("installing app worker 6e8bd83cfeb3b74c24a7ef63199d485e46be0251");
+    await installWorker();
+    await self.skipWaiting();
+  } catch (error) {
+    console.error("error during installation:", error);
+  }
 });
 
-self.addEventListener("activate", (event) => {
-  event.waitUntil(
-    caches.keys().then((keyList) => {
-      return Promise.all(
-        keyList.map((key) => {
-          if (key !== cacheName) {
-            return caches.delete(key);
-          }
-        })
-      );
+async function installWorker() {
+  const cache = await caches.open(cacheName);
+  await cache.addAll(resourcesToCache);
+}
+
+self.addEventListener("activate", async (event) => {
+  try {
+    await deletePreviousCaches(); // Await cache cleanup
+    await self.clients.claim(); // Ensure the service worker takes control of the clients
+    console.log("app worker 6e8bd83cfeb3b74c24a7ef63199d485e46be0251 is activated");
+  } catch (error) {
+    console.error("error during activation:", error);
+  }
+});
+
+async function deletePreviousCaches() {
+  const keys = await caches.keys();
+  await Promise.all(
+    keys.map(async (key) => {
+      if (key !== cacheName) {
+        try {
+          console.log("deleting", key, "cache");
+          await caches.delete(key);
+        } catch (err) {
+          console.error("deleting", key, "cache failed:", err);
+        }
+      }
     })
   );
-  console.log("app worker 85761d75da76b661dc6b99ba8b495233244fcf0d is activated");
-});
+}
 
 self.addEventListener("fetch", (event) => {
-  event.respondWith(
-    caches.match(event.request).then((response) => {
-      return response || fetch(event.request);
-    })
-  );
+  event.respondWith(fetchWithCache(event.request));
 });
 
+async function fetchWithCache(request) {
+  const cachedResponse = await caches.match(request);
+  if (cachedResponse) {
+    return cachedResponse;
+  }
+  return await fetch(request);
+}
+
+// -----------------------------------------------------------------------------
+// Push Notifications
+// -----------------------------------------------------------------------------
 self.addEventListener("push", (event) => {
   if (!event.data || !event.data.text()) {
     return;

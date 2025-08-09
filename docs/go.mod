@@ -11,13 +11,13 @@ require (
 	github.com/ka-weihe/fast-levenshtein v0.0.0-20201227151214-4c99ee36a1ba
 	github.com/lmas/Damerau-Levenshtein v1.0.0
 	github.com/masatana/go-textdistance v0.0.0-20191005053614-738b0edac985
-	github.com/maxence-charriere/go-app/v9 v9.8.0
+	github.com/maxence-charriere/go-app/v10 v10.1.5
 	gopkg.in/Regis24GmbH/go-phonetics.v3 v3.0.2
 )
 
 require (
 	github.com/deckarep/golang-set v1.8.0 // indirect
 	github.com/google/uuid v1.6.0 // indirect
-	golang.org/x/text v0.27.0 // indirect
+	golang.org/x/text v0.28.0 // indirect
 	gopkg.in/Regis24GmbH/go-diacritics.v2 v2.0.3 // indirect
 )
