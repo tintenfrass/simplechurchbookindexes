@@ -80,7 +80,7 @@ Johann Christian Friedrich Schumann
 Gustav Zahn
 Friedrich August Berthelt
 Carl Gottlob Müller
-Eduard Eugen Wilhelm Otto Kracker Schwarzenfeld
+Eduard Eugen Wilhelm Otto KrackerSchwarzenfeld
 Wolf Dietrich Bruno Witzleben
 ----------------
 Johann Theodor Lürmann
@@ -784,7 +784,7 @@ Richard Hermann Hübner
 Friedrich Haans Criegern
 Maximilian Franz Adolph Trützschler
 Hermann Julius Ludwig Wrede
-Hugo Hans Heinrich Helmut Julius Boddien
+Hugo Hans Heinrich Helmuth Julius Boddien
 ----------------
 Carl Julius Dorn
 Rudolph Hauffe

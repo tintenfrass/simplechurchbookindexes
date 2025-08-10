@@ -910,7 +910,8 @@ Georg Borschberg
 1710
 Martin Bäger
 Adam Heintze
-Andreas Jänicheng Frietzsche
+Andreas Jänichen
+Georg Frietzsche
 Jacob Heintze
 Christian John
 Michael Haußwalt

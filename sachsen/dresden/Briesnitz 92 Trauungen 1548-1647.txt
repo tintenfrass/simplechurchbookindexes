@@ -687,7 +687,7 @@ Martin Pitzsch
 ----------------
 Martin Winkler
 Martin Leuderitz
-Jocob Reiche
+Jacob Reiche
 1607
 Blasius Nauman
 Elisa Steinbrecher

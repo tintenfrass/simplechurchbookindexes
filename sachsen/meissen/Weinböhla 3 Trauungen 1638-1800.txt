@@ -102,7 +102,7 @@ Michael Wolff | Maria Schmidt
 Hannß Zaahn | Anna Heppelt
 1655
 Christoph Bohnstein | Maria Beehr
-Hannße Hebeldt | Maria Rüdiger
+Hannß Hebeldt | Maria Rüdiger
 Sebastian Herrmann | Martha Starcke
 1656
 Blasius Naumann | Margaretha Fischer
@@ -705,7 +705,7 @@ Gottfried Bär | Rosina Starcke
 Martin Herrmann | Rosina Mahn
 Christian Jacob | Rosina Förster
 Michael Milde | Maria Förster
-Hanse Naumann | Rosina Zscheyle
+Hans Naumann | Rosina Zscheyle
 George Thiele | Maria Zscheule
 Martin Zabel | Maria Herrmann
 1748
