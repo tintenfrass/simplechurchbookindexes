@@ -1413,7 +1413,7 @@ Johann Wilhelm Julius Grötzsch
 Johann Gottfried Unger
 Carl Gottfried Wagner
 Johann Gotthelf Irmer
-Johann Carl Gottlob Num /durchgestrichen
+Johann Carl Gottlob Num //durchgestrichen
 ----------------
 Johann Leberecht Hofmann
 Johann Gottlob Burckhardt

@@ -746,7 +746,7 @@ Martin Andrie
 1610
 Tobias Richter
 Martin Genaußgen
-Marthes Angermann
+Mathes Angermann
 Nicol Müller
 Barthel Schulze
 Brosius Werner
@@ -1557,7 +1557,7 @@ Hans Müller
 Andreas Rothe
 Michael König
 Georg Beyer
-Mshtes Culth?
+Mathes? Culth?
 Hans Haugk
 Nicol Schlage
 Hans Eger
