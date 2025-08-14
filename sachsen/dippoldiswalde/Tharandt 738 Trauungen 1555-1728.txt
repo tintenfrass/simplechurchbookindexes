@@ -860,7 +860,8 @@ Georg Schade
 Hans Borchart
 Georg Pietzsch
 Hans Pfeiffer
-Martin Pietzschc Hoffman
+Martin Pietzsch
+Chrstian Hoffman
 Balthasar Rülcker
 1681
 Andreas Hempel

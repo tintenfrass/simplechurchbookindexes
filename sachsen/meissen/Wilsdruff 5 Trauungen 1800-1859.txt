@@ -501,7 +501,7 @@ Johann Gottfried Kramer
 Johann Gottfried Otto
 Johann Christoph Neidhart
 Carl Heinrich Gühne
-PRocopius Löbel
+Procopius Löbel
 Christian Gottlieb Geßner
 Samuel Major
 Traugott Friedrich Ihle
@@ -924,7 +924,7 @@ Friedrich August Bormann
 Christian August Zoberbier
 ----------------
 Christian Gottlob Hardter
-Carl Rathiens Sebastian
+Carl Rathjens Sebastian
 Johann Gottfried Rudolph
 Friedrich Wilhelm Fürchtegott Große
 Johann Gottfried Kunze
