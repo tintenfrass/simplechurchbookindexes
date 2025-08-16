@@ -1309,7 +1309,7 @@ Christian Wagner
 ----------------
 Georg Kummer
 Hans Heinerdt
-Wolf-Jochachim Schleff
+Wolf-Joachim Schleff
 Peter Winckler
 Andreas Böhme
 Christian Rühle

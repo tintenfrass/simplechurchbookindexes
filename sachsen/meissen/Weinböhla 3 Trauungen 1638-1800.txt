@@ -290,12 +290,12 @@ Egidius Zichner | Maria Schönert
 1685
 Hans Förster | Maria Seifert
 Martin Langsack | Marie Starcke
-Michsel Leuderiz | Regina Prescher
+Michael Leuderiz | Regina Prescher
 Hans Seifert | Maria Seifert
 Hans Stolle | Elisabeth Schumann
 Hans Tagesel | Maria Hempel
 1686
-Hand Krille | Elisabeth Peger
+Hans Krille | Elisabeth Peger
 Egidius Marx | Elisab. Claus
 Martin Peger | Margaretha Hermann
 Andreas Schröter | Maria Schumann
@@ -306,7 +306,7 @@ Martin Rüdiger | Elisabeth Riemer
 Hans-Heinrich Simoni | Anna Feltzsch
 1688
 Georg Crille | Anna Meltzer
-Hand Felzsch | Magdalena Seyfert
+Hans Felzsch | Magdalena Seyfert
 Michael Haupt | Anne Feltzsch
 Peter Hempel; | Anna Riemer
 Georg Marx | Anna Förster
@@ -315,7 +315,7 @@ Michael Wolff | Gertrauda Stolle
 Elias Zabel | Anna Hermann
 1689
 Martin Förster | Magdalena Pfitzner
-Marting Hempel | Maria Thiele
+Martin Hempel | Maria Thiele
 Georg Herzog | Margaretha Marx
 Hanns-Samuel Pahrmann | Maria Hartmann
 Christoph Taschenberg | Margaretha Förster
@@ -329,10 +329,10 @@ Michael Hermann | Merie Hermann
 Andress Seyfert | Margaretha Nauman
 Andreas Starcke | Regina Thiele
 1691
-Michsel Förster | Elisabeth Dieze
+Michael Förster | Elisabeth Dieze
 Hans Fritsche | Maria Haupt
 Michael Honstein | Magdalena Haupt
-Hand Richter | Maria Richter
+Hans Richter | Maria Richter
 Martin Schumann | Maria Beger
 Hanns Seyfert | Elisabeth Hermann
 Valentin Seyfert | Gertrauda Hohnstein
@@ -432,7 +432,7 @@ Thomas Zimmermann | Maria Seyfert
 1708
 Martin Bahrmann | Maria Herman
 Hans Fischer | Elissbeih Herman
-Michsel Hempel | Elisabeth Gumlich
+Michael Hempel | Elisabeth Gumlich
 Hanß Hempel | Maria Schröter
 Michael Herman | Elisabeth Stolle
 Martin Naumann | Anne Herman
@@ -444,7 +444,7 @@ Michael Thüns | Magdalena Herman
 Martin Zscheile | Anna Schumann
 1709
 Hans Häußgen | Maria Eckart
-Michsel Herman | Elisabeth Herman
+Michael Herman | Elisabeth Herman
 Salomon Schramm | Maria Mahn
 Andreaß Starcke | Magdalena Hempel
 Fabian Trettau | Magdalena Hohenstein
@@ -453,7 +453,7 @@ Hans Hermann | Margaretha Stolle
 Hanns Starcke | Elisabeth Dreßler
 Hanns Thiele | Elisabeth Mahn
 1711
-Marting Bäßler | Maria Zocher
+Martin Bäßler | Maria Zocher
 Georg Findeisen | Elisabeth Herman
 Hans Förster | Elisabeth Hauman
 Hans Förster | Regina Peger
@@ -550,7 +550,7 @@ Hans-Georg Engel | Anna Seiffert
 Georg Findeisen | Maria Starcke
 Michael Hohenstein | Rosina Höhne
 Michael Marx | Elisabeth Leuteriz
-Michsel Starcke | Gerethe Braun
+Michael Starcke | Gerethe Braun
 Hans Starcke | Maria Herrmann
 Peter Talckenberg | Rosina Peger
 1725
@@ -763,7 +763,7 @@ Christian Rostig | Anna-Maria Zscheile
 Hans Starcke | Elisabeth Herrmann
 1754
 Sammel Bär | Christine Nitzsche
-Michsel Eichler | Regina Meltzer
+Michael Eichler | Regina Meltzer
 Christian Krause | Rosina Leinert
 Adam Marx | Elisabeth Herrmann
 Martin Schumann | Anna-Rosina Kummer
@@ -857,7 +857,7 @@ Johann-Michael Schumann | Rosina Herrmann
 1763
 Sammel Grille | Elisabeth Herrmann
 Christian Jentzsch | Christine Hermann
-Gottlieb-Polyearpus Reibetopf | Johanna-Christina Loos
+Gottlieb-Polycarpus Reibetopf | Johanna-Christina Loos
 Christoph Reismann | Anna-Elisabeth Laue
 Johann-Adam Rühle | Regine Hohnstein
 Hanns Rühle | Anna-Maria Rauchfuß
@@ -909,7 +909,7 @@ Karl-Benjamin Händler | Christine Solmnitz
 Johann Kritzentaler | Juliane-Friderike Musche
 Christian Möhn | Rosina Herrmann
 Christian-Gottlob Musche | Johanne-Friderike Hintze
-Gottlieb-Polyearpus Reibetopf | Christiane-Sophia Thieme
+Gottlieb-Polycarpus Reibetopf | Christiane-Sophia Thieme
 Michael Seyffert | Anna-Regina Lehmann
 1769
 Martin Haupt | Rosine Hohnstein
@@ -957,14 +957,14 @@ Gottlieb Kaden | Rosina Haußmann
 Christian Lehmann | Rosina Seyffert
 Gottfried Meltzer | Anna-Christina Borsdorff
 Johann-Gottlob Möhn | Rosina Lehmann
-Samiel Naumann | Anna-Rosina Schlechte
+Samuel Naumann | Anna-Rosina Schlechte
 Johann-Gottlieb Niese | Anna-Maria Schuster
 Carl-Gottlob Rietschel | Renate-Sophia Behnisch
 1776
 Johann-Christian Horn | Anna-Maria Häßlich
 Johann-Adam Ilschner | Anna-Christina Starcke
 Johann-Christian Leutritz | Anna-Maria Schumann
-Friedrich-Wilhels Mühlbach | Johanna-Rosina Barth
+Friedrich-Wilhelm Mühlbach | Johanna-Rosina Barth
 Samuel Riemer | Christina Mohn
 Samuel Zabel | Anna-Elisabeth Hillich
 1777

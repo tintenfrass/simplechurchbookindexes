@@ -573,7 +573,7 @@ Johann Friedrich Hünicke
 Jacob Haleys?
 Johann Jacob Rothe
 Johann Jacob Kellner
-Johann Xavid? Waldau?
+Johann David? Waldau
 ----------------
 Johann Gottlob Hanisch
 Leopold Biesel
@@ -797,7 +797,7 @@ Johann Georg Franz
 Mattheus Krauß
 Heinrich Siegmund Buchholz
 Johann Schwartz
-Vinerz? Ferdinand Lippau
+Vincenz Ferdinand Lippau
 Johann Oehmki
 Johann Georg Trauvetter
 Joseph Görner
@@ -1740,7 +1740,7 @@ Johann Katasowsky
 Joseph Meisinger
 Johann Georg Paulink
 Johann Friedrich Becker
-Thaaeus Swaton
+Thadaeus Swaton
 Joseph Lorenz Neumann
 x
 Traugott Wladislaus Wilhelm Canzler

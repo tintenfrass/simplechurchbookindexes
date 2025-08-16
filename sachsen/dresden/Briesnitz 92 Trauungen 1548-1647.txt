@@ -365,7 +365,7 @@ Georg Valten
 Blasius Faust
 Brosius Tam
 Georg Beger
-Stepfan Patzsch
+Stephan Patzsch
 Georg Patzsch
 Jacob Merwitz
 Max? Müller
@@ -526,7 +526,7 @@ Caspar Patz
 Peter Krezschmer
 Martin Retzsch
 Blasius Winkler
-Stepfan Simmon?
+Stephan Simmon?
 Merten Peterman
 Jacob Fickler
 Martin Möckel
@@ -555,7 +555,7 @@ Hans Tize
 Benno Pezsch
 Georg Pezsch
 Marx Pezsch
-Stepfan Leuderz
+Stephan Leuderz
 Georg Ferman
 1599
 Nickel Merwitz
@@ -585,7 +585,7 @@ Hans Ferman
 Jacob Köhler
 Peter Herkloz
 Marth Ranft
-Michale Tegel
+Michael Tegel
 Marth Winkler
 Andreas Göze
 ----------------

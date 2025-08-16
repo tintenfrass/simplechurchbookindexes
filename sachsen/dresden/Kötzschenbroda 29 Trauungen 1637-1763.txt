@@ -1683,7 +1683,8 @@ Martin Gärtner
 ----------------
 Johann-Paul Feschner
 Samuel Ponicke
-Martin Taggesellec Varno
+Martin Taggeselle
+Christian Varno
 Christian-Gottlieb Helmricht
 Martin Müller
 Peter Lunckwitz
