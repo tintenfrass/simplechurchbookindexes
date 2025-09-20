@@ -93,13 +93,13 @@ Catharina Martin Ehlig
 Martin Georg Schröter
 Georg Georg Pazsch
 Dorothea Georg Merbitz
-Georg Max Burger
+Georg Matz Burger
 Georg Müller
 Georg Band Maul
 Margaretha Hans Pazsch
 Anna Martin Zscheile
 Hans Hans Maul
-Margaretha Max Leuderitz
+Margaretha Matz Leuderitz
 Lorenz Hans Müller
 Martin Martin prnuz?
 Michael Jacob Fehrmann
@@ -117,7 +117,7 @@ Anna Michael Faust
 Martin Martin Kemmer
 Barbara Georg Burchard
 Margaretha Clemens Pazsch
-Michael Max Pazsch
+Michael Matz Pazsch
 Georg Georg Landmann
 Nickel Martin Fickler
 Michael Martin Pazsch
@@ -138,7 +138,7 @@ Martin Wenzel Fehrmann
 Georg Hans Pazsch
 Anna Georg pfreund?
 Anna Fabian Krüger
-Mathes Max Henker
+Mathes Matz Henker
 1579
 Anna Georg Wustlich
 Catharina Georg Tize
@@ -174,7 +174,7 @@ Martin Stephan Andrie
 Andreas Georg Fickler
 Georg Lorenz Borrisch
 Margaretha Hans Bartt
-Andreas Max John
+Andreas Matz John
 Margaretha Barthel Pazsch
 Wenzel Caspar Gladwitz
 Catharina Caspar Winckler
@@ -208,7 +208,7 @@ Margaretha Georg Finger
 Jacob Martin Gladwitz
 Blasius Wenzel Fehrmann
 Georg Wenzel Pazsch
-Anna Max Pazsch
+Anna Matz Pazsch
 Christine Hans Pazsch
 Michael Michael Ehlig
 Anna Brosius Andrie
@@ -222,7 +222,7 @@ Martin Caspar Pazsch
 Anna Martin Muller
 Barbara Lorenz Winckler
 Martin Wenzel Frantz
-Georg Max Leuderitz?
+Georg Matz Leuderitz?
 Nickel Hans Pazsch
 Margaretha Michael Pazsch
 Ursula Georg Dittrich
@@ -246,7 +246,7 @@ Peter Anna Hans Pazsch
 Margaretha Martin Pazsch
 Thomas Paul Barth
 Hans Georg Pazsch
-Elisabeth Max Gremmuß?
+Elisabeth Matz Gremmuß?
 Peter Peter Beuche?
 Elias Hieroning Pazsch
 Barbara Caspar Schröter
@@ -280,14 +280,14 @@ Caspar Thomas Winckler
 Margaretha Brosius Andrie
 Barbara Martin Merbitz
 Peter Hans Pazsch
-Maria Max Ridiger
+Maria Matz Ridiger
 Maria Andreas Fickler
 Georg Jacob Winckler
 Caspar Martin Pazsch
 Georg Blasius Pazsch
 Maria Georg Pazsch
 Peter Donat Ganßauge
-Georg Max Schröter
+Georg Matz Schröter
 Bastian Andreas Köhler
 Georg Caspar Freund
 Margaretha Georg Pazsch
@@ -325,7 +325,7 @@ Barbara Caspar Merbitz
 Wenzel Georg Freund
 Martin Martin Andrie
 Anna Lorenz Winckler
-Max Georg Andrie
+Matz Georg Andrie
 Georg Blasius Ludwig
 Margaretha Nickel k?
 Barbara Paul miser?
@@ -427,7 +427,7 @@ Andreas Donat Ganßauge
 Hans Hans Pazsch
 Hans Ursula Hans Walter
 Margaretha Georg Kummer
-Maria Max Schirmer
+Maria Matz Schirmer
 Margaretha Andreas Fehrmann
 Thomas Peter Barth
 Margaretha Andreas Sparmann
@@ -478,7 +478,7 @@ Catharina Christoph rhe?
 Margaretha Nickel Pazsch
 Catharina Martin Fickler
 Martin Thomas Pazsch
-Catharina Max? Pazsch
+Catharina Matz? Pazsch
 Catharina Georg Merbitz
 Georg Blasius Faust
 Elias Donat Dieze
@@ -533,14 +533,14 @@ Catharina Martin Pazsch
 Margaretha Hans Winckler
 Georg Georg Fritzsche
 1587
-Martha Martin Oloz?
+Martha Martin Klotz
 Barbara Bernd Maul
 Barbara Stephan Pitzsch
 Christine Jacob Merbitz
 Barthel Wenzel Frantz
 Caspar Wenzel Frantz
 Hans Georg Frantz
-Margaretha Caspar Merthen?
+Margaretha Caspar Mertten
 Hans Wenzel Pazsch
 Jacob Georg Winckler
 Peter Hans Hennig
@@ -549,9 +549,9 @@ Ursula Blasius Hennig
 Hans Hans Palizsch
 Christoph Simon Müller
 Peter Peter Gladwitz
-Mathes Matz Leuderiz?
+Mathes Matz Leuderitz
 Wenzel Aßmuß Pazsch
-Urban Max Winckler
+Urban Matz Winckler
 Georg Andreas Georg Burkhard
 Maria Georg Fehrmann
 Anna Georg Pazsch
@@ -730,7 +730,7 @@ Jacob Jacob Pazsch
 Anna Georg Ganßauge
 1591
 Anna Caspar Beuchel
-Hans Max Pazsch
+Hans Matz Pazsch
 Barbara Georg Fehrmann
 Margaretha Franz Freund
 Georg Hans Andrie
@@ -796,7 +796,7 @@ Martin Martin Ehlig
 ? Peter Fehrmann?
 Paul Georg Pitzsch
 Lorenz Martin Winckler
-Georg Max Zehlig?
+Georg Matz Zehlig?
 Margaretha Georg Pazsch
 Anna Caspar Merten
 Dorothea Georg paueß?
@@ -820,7 +820,7 @@ Barbara Georg Frantz
 Maria Hans Ehlig
 Anna Georg weßer?
 Hans August Götze
-Barbara Max Frantz
+Barbara Matz Frantz
 Martin Martin Palizsch
 Maria Michael Pazsch
 Martin Nickel Pazsch
@@ -828,7 +828,7 @@ Martin Nickel Pazsch
 Barbara Wenzel Andrie
 Georg Martin Pazsch
 Margaretha Hans Hennig
-Margaretha Georg Frantz
+Margaretha Georg Fritzsche
 Martin Stephan Pitzsch
 Margaretha Hans Pazsch
 Maria Christoph Pazsch
@@ -843,7 +843,7 @@ Catharina Georg Merbitz
 Margaretha Barthel Beuchel
 Andreas Michael Pazsch
 Christoph Wenzel Frantz
-Margaretha Max pogsche?
+Margaretha Matz Potscher
 ? Georg Martin Roting?
 Hans Georg Müller
 Barthel Andreas Frantz
@@ -868,11 +868,11 @@ Margaretha Georg Pazsch
 Georg Martin Köhler
 Maria Martin Müller
 Valentin Caspar Philip
-Georg Georg Barh?
-Maria Georg Frantz
+Georg Georg Bach?
+Maria Georg Freund
 Martin Jacob Rotzsch?
 Maria Jacob Merbitz
-Barbara Max Müller
+Barbara Matz Müller
 Anna Hans Winckler
 Michael Michael Ganßauge
 Ursula Hans Kretschmar
@@ -886,12 +886,12 @@ Hans Franz Freund
 Barbara Barthel Scholz
 Margaretha Hans hend?
 Barbara Georg Winckler
-Ursula Max Pazsch
+Ursula Matz Pazsch
 Christine Caspar Beuchel
 Barbara Wenzel Fehrmann
 Peter Georg Faust
 1594
-Margaretha Fabie? Beger
+Margaretha Felix Beger
 Christine Georg Palizsch
 Johann Peter Ratsch
 Georg Blasius Merbitz
@@ -913,12 +913,12 @@ Georg Mathes Günther
 Georg Brosius Andrie
 Anna Martin Andrie
 Hans ? Peter
-Margaretha Georg paue?
+Margaretha Georg Pauer
 Hans Martin Peter Pazsch
 --------
 Margaretha Peter Andrie
 Georg Lorenz Beger
-Anna Max Frantz
+Anna Matz Frantz
 Catharina Martin Ehlig
 Martin Georg Finger
 Hans Christoph Müller
@@ -928,7 +928,7 @@ Barbara ? Ratsch
 Barbara ?
 Barbara Georg Fehrmann?
 Wenzel Jacob Winckler
-Dorothea Wenzel Frantz
+Dorothea Wenzel Freund
 Martin Georg Valtin
 Georg Lorenz Valtin
 --------
@@ -943,7 +943,7 @@ Maria Georg Pazsch
 Maria Georg Zscheile
 Georg Georg Ganßauge
 Barbara Caspar Pazsch
-Catharina Max Müller
+Catharina Matz Müller
 Anna Georg Scholz
 Barbara Hans Winckler
 Peter Margaretha Georg Pazsch
@@ -1015,16 +1015,16 @@ Nickel Peter Rotzsch?
 Martin Martin Ludwig
 Gertrud Paul Tize ?
 --------
-Maria Max Zolike
+Maria Matz Zolike
 Georg Georg Ludwig
 ? Georg Freund
-Burkhard Andreas Kle?
+Burkhard Andreas Köler
 Urban Georg Dittrich
-Anna Caspar vdpls?
+Anna Caspar Udolph
 Andreas Georg Petermann
 Hans Peter Tize
-Hans Max Müller
-Margaretha Max Frantz
+Hans Matz Müller
+Margaretha Matz Frantz
 Margaretha Georg Ludwig
 Jacob Peter Winckler
 Donat Georg Sohrmann
@@ -1057,7 +1057,7 @@ Hans Hans Kareß
 --------
 Anna Georg Pazsch
 Paul Hans Formann
-Stephan Max Leuderitz
+Stephan Matz Leuderitz
 Hans Andreas Frantz
 Barbara Lorenz Scholz
 Margaretha Martin Pazsch
@@ -1091,7 +1091,7 @@ Margaretha Georg Zscheile
 Bastian Martin Ludwig
 Jacob Georg Faust
 Margaretha Hans Andrie
-Michael Georg ?
+Michael Georg Fehrmann
 Margaretha Georg Frantz
 Georg Jacob Tegel
 Christoph Christoph Ludwig
@@ -1106,7 +1106,7 @@ Georg Martin Pazsch
 Martin Georg Müller
 Georg Georg Ehlig
 Maria Donat Streubel?
-Andreas Max Zchle?
+Andreas Matz Zchle?
 Martin Matz Leudertiz?
 Maria Martin Winckler
 Hans Hans Winckler
@@ -1123,9 +1123,9 @@ Jacob Jacob Hildebrand
 Margaretha Martin Formann
 Amalie Georg Ludwig
 Georg Georg Pazsch
-Georg Max Müller
+Georg Matz Müller
 Stephan Hans Tize
-Maria Max Frantz
+Maria Matz Frantz
 Anna Hans Steinbrecher
 Barbara Hans Pazsch
 Hans Paul Winckler
@@ -1155,14 +1155,14 @@ Barbara Martin Müller
 Hans Andreas Sparmann
 Caspar Caspar Pazsch
 Martin Georg Sormann
-Martin Max Pazsch
+Martin Matz Pazsch
 Anna Wenzel Borman
 Martin Georg Ehlig
 Barbara Paul Dieze
 --------
 Martin Martin gealm?
 Martin Georg Beger
-Hans Max Kund?
+Hans Matz Kund?
 Hans Donat Müller
 Georg Wenzel Schröter
 Anna Hans Bartzsch
@@ -1217,7 +1217,7 @@ Barbara Caspar Kretschmar
 Barthel Barthel Tize
 Maria Nickel Merbitz
 1600
-Christoph Max Berger
+Christoph Matz Berger
 Georg Martin Rauchfuß
 Catharina Peter Winckler
 Maria Blasius Ludwig
@@ -1275,7 +1275,7 @@ Martin Jacob Winckler
 Georg Paul Pazsch
 Georg Georg Kretschmar
 Georg Georg Ludwig
-Georg ? Frantz
+Georg Mathes Frantz
 Catharina Georg Merbitz
 ? Georg Kretschmar
 Baltasar Caspar Pazsch
@@ -1284,7 +1284,7 @@ Margaretha Martin Fehrmann
 Georg Donat Scholz
 Margaretha Georg Kretschmar
 Georg Georg Ziroltz?
-Barbara Max Winckler
+Barbara Matz Winckler
 Bastian Bastian Steinbrecher
 Barbara Martin Fickler
 Maria Hans Förster
@@ -1302,7 +1302,7 @@ Barbara Georg Tize
 Maria Caspar Pazsch
 Margaretha Georg Winckler
 Georg Georg Pazsch
-Mathes Max Müller
+Mathes Matz Müller
 Johann Mathes Müller
 Hans Georg Fehrmann
 Jacob Georg Balt
@@ -1310,14 +1310,14 @@ Margaretha Walter? Klügel
 Jacob Georg Fischer
 Michael Martin Pazsch
 Margaretha Peter Kretschmar
-Max Paul tohn?
+Matz Paul tohn?
 Jacob Jacob Hauptfogel
 Andreas Caspar Gros
 Margaretha Hans Fickler
-Martin Max Pazsch
+Martin Matz Pazsch
 Margaretha Georg Pazsch
 Jacob Jacob Hennig
-Georg Max Pazsch
+Georg Matz Pazsch
 Sibille Fabian Krüger
 Barbara Martin Fehrmann
 Maria Martin Pazsch
@@ -1408,7 +1408,7 @@ Barbara Andreas Kretschmar
 Martin Martin Fickler
 Anna Georg Winckler
 Barbara Andreas Frantz
-Anna Max Winckler
+Anna Matz Winckler
 Barthel Barthel Ehlig
 Georg Wenzel Fehrmann
 Georg Clemens Ehlig
@@ -1429,9 +1429,9 @@ Johann Andreas Hildebrand
 Maria Georg weise?
 Regina Wage? Kretzsch
 Johann Martin weschkor?
-Anna Max Hillig
+Anna Matz Hillig
 Barbara Urban Zschönig
-Martin Max Barth
+Martin Matz Barth
 Martin Caspar Pazsch
 Anna Christoph gref?
 Martin Georg ridiger
@@ -1454,7 +1454,7 @@ Christoph ? gitte?
 Ursula Wenzel Scholz
 Maria Christoph Förster
 Bastian Georg Müller
-Christoph Max Müller
+Christoph Matz Müller
 Martin Jeremias Fickler
 Donat Donat Fickler
 Maria Martin Rauchfuß
@@ -1511,12 +1511,12 @@ Paul Georg Fehrmann
 Martha Georg Naumann
 Barbara Hans Tize
 Johann Hans Hennig
-Anna Max Pazsch
+Anna Matz Pazsch
 Maria Stephan Ludwig
 Georg Donat Scholz
 Martha Georg Merbitz
 Maria Valentin Klügel
-Mathes Max Kind
+Mathes Matz Kind
 Barbara Hans Köhler
 Andreas Barthel Scholz
 Andreas Andreas weislich
@@ -1527,7 +1527,7 @@ Maria Donat Fickler
 Anna Hans Baul?
 Christine Georg Pazsch
 Barbara Hans Winckler
-Barbara Max Hendel
+Barbara Matz Hendel
 Maria Christoph pihler
 Paul Paul Pazsch
 Barbara Bastian Müller
@@ -1620,8 +1620,8 @@ Michael Martin Maurer
 Maria Andreas Frantz
 Barbara Michael Kretschmar
 Martin Hans Zscheile
-Johann Max Pitzsch
-Laurentius Max Pitzsch
+Johann Matz Pitzsch
+Laurentius Matz Pitzsch
 Martha Hans Barth
 Barbara Hans Winckler
 Martha Andreas Barten
@@ -1638,7 +1638,7 @@ Maria Caspar Pitzsch
 Martha Georg Götze
 Johann Andreas Reiche
 Barbara Caspar Pazsch
-Martha Max Hillig
+Martha Matz Hillig
 Jacob Lorenz Götze
 Barbara Andreas Fehrmann
 Anna Blasius Müller
@@ -1648,7 +1648,7 @@ Paul Georg Dieze
 Dominic Georg Kraut
 Georg Georg Naumann
 Barthel Nickel Müller
-Bastian Max Müller
+Bastian Matz Müller
 Georg Hans Maul
 Maria Georg Valtin
 Lorenz Stephan Simon
@@ -1675,7 +1675,7 @@ Christoph Blasius Leonhard
 Maria Caspar Pitzsch
 Anna Caspar Finger
 Barbara Georg Borisch
-Christine Max Ehlig
+Christine Matz Ehlig
 Maria Michael Ganßauge
 Catharina Michael Ganßauge
 Maria Hans Grahl
@@ -1689,7 +1689,7 @@ Martha Jacob Bachmann
 Barbara Jacob Bachmann
 Laurentius Donat Schulz
 Johann Georg Winckler
-Martin Max Hendel
+Martin Matz Hendel
 Martha Christoph Ludwig
 Georg Bastian Pitzsch
 Georg Mathes Kuntz
@@ -1722,8 +1722,8 @@ Michael Georg Kretschmar
 Barbara Andreas Winckler
 Maria Martin Pitzsch
 Daniel Jacob Redewitz
-Ambrosius Max Patscher
-Jacob Max Winckler
+Ambrosius Matz Patscher
+Jacob Matz Winckler
 Martin Jacob Hauptvogel
 Martin Bastian Müller
 Martin Caspar Erner
@@ -1734,7 +1734,7 @@ Martha Michael Fehrmann
 Barbara Brosius Bachmann
 Georg Georg Beudner
 Andreas Georg Pazsch
-Martin Max Pitzsch
+Martin Matz Pitzsch
 Barbara Georg Kretschmar
 Margaretha Georg Hamann
 Christoph Georg Andrie
@@ -1790,7 +1790,7 @@ Johann Hans Pitzsch
 Johann Martin Pitzsch
 Thomas Hans Faust
 Jacob Nickel Pitzsch
-Catharina Max Ehlig
+Catharina Matz Ehlig
 Anna Andreas Hennig
 Margaretha Georg Faust
 Maria Christoph Ludwig
@@ -1817,7 +1817,7 @@ Jacob Lorenz Winckler
 Anna Johann Jacob
 Mathes Mathes Bahrt
 Martin Hans Barth
-Barbara Max Müller
+Barbara Matz Müller
 Barbara Georg Förster
 Barbara Georg Schneider
 Anna Andreas Hirn?
@@ -1865,7 +1865,7 @@ Mathes Mathes Hendel
 Andreas Mathes Kunat
 Maria Wenzel Seyfried
 Anna Magdalena Christoph Blaußdorf
-Anna Max Weller
+Anna Matz Weller
 Bastian Bastian Müller
 Martin Martin Merbitz
 Georg Hans Gertner
@@ -1947,7 +1947,7 @@ Martin Martin Ludwig
 Maria Georg Dieze
 Barthel Urban Jübtner
 Georg Jacob Bachmann
-Georg Max Hendel
+Georg Matz Hendel
 Maria Martin Gladwitz
 Peter Mathes Bahrt
 Martha Jacob Hauptvogel
@@ -2144,9 +2144,9 @@ Caspar Martin Pitzsch
 Caspar Jacob Ehlig
 Brosius Jacob Hillig
 Martha Paul Müller
-Georg Max Angermann
+Georg Matz Angermann
 Paul Michael Tegel
-Martha Max Müller
+Martha Matz Müller
 Johann Hans Pazsch
 Ursula Elias Pazsch
 Felicitas Johann Jacob Landau
@@ -2161,7 +2161,7 @@ Georg Martin Müller
 Martha Georg Merbitz
 Paul Paul Pitzsch
 Barbara Maria Bastian Steinbrecher
-Martha Max Kunat
+Martha Matz Kunat
 Georg Nickel Müller
 Johann Sigmund Christoph Blaußdorf
 Christoph Siber
@@ -2244,14 +2244,14 @@ Maria Georg Pitzsch
 Andreas Michael Fehrmann
 Martin Georg Valtin
 Martin Georg Kretschmar
-Andreas Max Hendel
+Andreas Matz Hendel
 Maria Hans Fehrmann
 Anna Peter Herkloz
 Anna Georg Fritzsche
 Anna Martin Pitzsch
 Andreas Georg Böhme
 Anna Martin Fehrmann
-Anna Max Götze
+Anna Matz Götze
 Jacob Georg Petermann
 Laurentius Georg Naumann
 Martha Christoph Seifert
@@ -2298,7 +2298,7 @@ Martin Georg Winckler
 Martin Nickel Tegel
 Caspar Mathes Kundt
 Maria Georg Landmann
-Martin Max Angermann
+Martin Matz Angermann
 Maria Barthel Winckler
 Andreas Christoph Barth
 Jacob Jeremias Fickler
@@ -2441,7 +2441,7 @@ Barbara Georg Kretschmar
 Johann Barthel Frantz
 Georg Peter Faust
 Georg Martin Ludwig
-Maria Max Winckler
+Maria Matz Winckler
 Maria Georg Pazsch
 Catharina Christoph Blaußdorf
 Georg Georg Liebner
@@ -2472,7 +2472,7 @@ Georg Andreas Bartmann
 Maria Barthel Schulz
 1617
 Barbara Caspar Irmer
-Maria Max Müller
+Maria Matz Müller
 Maria Blasius Winckler
 Martin Gabriel Götze
 Anna Martin Merbitz
@@ -2538,7 +2538,7 @@ Ursula Georg Pitzsch
 Maria Georg Förster
 Christine Peter Erhard
 Martin Georg Borßberg
-Martin Max Leuderitz
+Martin Matz Leuderitz
 Catharina Georg Freund
 Wenzerlaus Georg Freund
 Martin Martin Pitzsch
@@ -2681,7 +2681,7 @@ Catharina Michael Fehrmann
 Anna Hans Hehrman
 Martin Martin Gladwitz
 Johann Peter Pitzsch
-Lorenz Max Hentschel
+Lorenz Matz Hentschel
 Martha Caspar Pitzsch
 Martin Georg Andrie
 Michael Jacob Hillig
@@ -3441,7 +3441,7 @@ Johann Georg Ludwig
 Georg Jacob Pazsch
 Martha Jacob Dieze
 Maria Nickel Winckler
-Martin Max Pitzsch
+Martin Matz Pitzsch
 Maria Christoph Schmied
 Maria Andreas Merbitz
 Georg Georg Ganßauge
@@ -3626,7 +3626,7 @@ Martha Georg Borschberg
 Martha Georg Borisch
 Anna Paul John
 Catharina Barthel Müller
-Andreas Max Pitzsch
+Andreas Matz Pitzsch
 Christoph Georg Kretschmar
 Maria Jacob Pitzsch
 Johann Baltasar Pitzsch
@@ -3822,7 +3822,7 @@ Anna Martin Mahn
 Georg Georg Zierold
 Maria Michael Pitzsch
 Maria Christoph Zabel
-Catharina Max Pitzsch
+Catharina Matz Pitzsch
 Johann Hans Fehrmann
 Georg Christoph Ganßauge
 Barbara Martin Schröter
@@ -3863,7 +3863,7 @@ Martha Hans Pitzsch
 Maria Hans Gladwitz
 Catharina Hans Fehrmann
 Martin Peter Pitzsch
-Thomas Max Pitzsch
+Thomas Matz Pitzsch
 Johann Hans Bohle
 Martha Georg Förster
 Barbara Nickel Pause
@@ -3993,7 +3993,7 @@ Martin Nickel Rotsch
 Johann Georg Porisch
 Maria Christoph Pirker
 Martha Thomas Götze
-Peter Max Pitzsch
+Peter Matz Pitzsch
 Georg Georg Meyer
 Georg Barthel Pitzsch
 Martin Nickel Freund
@@ -5015,7 +5015,7 @@ Barbara Caspar Kundt
 Barbara Hans Hillig
 Barbara Hans Richter
 Barbara Peter Hofmann
-Sebastian Max Müller
+Sebastian Matz Müller
 1647
 Maria Caspar Müller
 Johann Dominic Eber

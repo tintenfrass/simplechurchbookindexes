@@ -79,7 +79,7 @@ Brosius Dieze
 1607
 Anna Wenzel Schmied
 .
-Catharina Max Köler
+Catharina Matz Köler
 Ursula Hans Leuderitz
 .
 .
@@ -150,7 +150,7 @@ Barthel Frantz
 .
 .
 Blasius Hennig
-Max Kretschmar
+Matz Kretschmar
 .
 .
 .
@@ -306,7 +306,7 @@ f Georg Merbitz
 Peter Herklotz
 .
 Jacob Ratsch
-Magdalena Max Merbitz
+Magdalena Matz Merbitz
 .
 Stephan Valtin
 .
@@ -329,7 +329,7 @@ Lorenz Jülst?
 Caspar Paz
 .
 Sabina Donat Ludwig
-Max Pitzsch
+Matz Pitzsch
 .
 Lorenz Wünschman?
 Anna Bastian Ehlig
@@ -337,7 +337,7 @@ Anna Bastian Ehlig
 .
 .
 Walpa Hans Köler
-Max Paz
+Matz Paz
 .
 Barbara Caspar Naumann
 .
@@ -403,7 +403,7 @@ Maria Georg Fehrmann
 Anna Andreas Köler
 Hedina Martin Kaul
 .
-Catharina Max Ranisch?
+Catharina Matz Ranisch?
 Anna Georg Hauswald
 .
 Martha Martin Mülberg
@@ -481,12 +481,12 @@ Anna Michael Ganßauge
 .
 Catharina Andreas Fickler
 Ursula Martin Hennig
-Barbara Max John
+Barbara Matz John
 Georg Faust
 Martin Andrie
 Bastian Müller
 .
-Magdalena Max Seyfert
+Magdalena Matz Seyfert
 .
 .
 .
@@ -495,7 +495,7 @@ Magdalena Max Seyfert
 .
 .
 Hedina Lorenz Winckler
-Dorothea Max Rüdiger
+Dorothea Matz Rüdiger
 .
 Martha Georg Pitzsch
 Catharina
@@ -506,12 +506,12 @@ Anna Michael Faust
 Georg Kretschmar
 .
 .
-Max Pitzsch
+Matz Pitzsch
 .
-f Max Köler
+f Matz Köler
 Anna Georg Finger
 Georg Fehrmann
-Gertrud Max Paz
+Gertrud Matz Paz
 .
 Anna Simon Rötger
 1615
@@ -537,7 +537,7 @@ Urtha?
 .
 Georg Frantz
 Andreas Hennig
-Max Paz
+Matz Paz
 .
 Georg Zöller
 .
@@ -615,11 +615,11 @@ Martin Burkhard
 Barbara Martin Brendel
 .
 .
-Max Kretschmar
+Matz Kretschmar
 .
 .
 .
-Ursula Max Genaußgen
+Ursula Matz Genaußgen
 Hans Pitzsch
 .
 Lorenz Ganßauge
@@ -955,13 +955,13 @@ Dorothea Georg Bauer?
 Andreas Potscher
 .
 .
-Barbara Max Angerman
+Barbara Matz Angerman
 Georg Fehrmann
 Caspar Philip
 Anna Nikel Kareß
 .
 Hans Andrie
-Peter Max Pitzsch
+Peter Matz Pitzsch
 Anna Paul Dieze
 .
 Martha Peter Beudner
@@ -1107,7 +1107,7 @@ Anna Georg Pitzsch
 Maria Nikel Müller
 Hans Hans Thamme
 .
-Dorothea Max Potscher
+Dorothea Matz Potscher
 Barbara Hans Förster
 Christoph Frantz
 .
@@ -1852,7 +1852,7 @@ Christoph Schmieder
 Christine Balthasar Hünnich
 .
 Anna Wenzel Hendel
-Max Pitzsch
+Matz Pitzsch
 Hans Schulz
 Margaretha Hans Fickler
 .
@@ -3071,7 +3071,7 @@ Hans Bartholmes
 Martin Mobuß?
 .
 .
-Ursula Max Potscher
+Ursula Matz Potscher
 .
 Martin Pitzsch
 Georg Hans Frantz
@@ -3324,7 +3324,7 @@ Michael Krause
 .
 .
 .
-Mathes Frantz
+Georg Frantz
 Christine Caspar Kund
 Martin Hauptvogel
 .
