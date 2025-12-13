@@ -254,7 +254,7 @@ David Bedun
 1707
 Gottfried Leien?
 Michael Mühlberg
-Rudolph Eckelt
+Thomas Eckelt | Rosina Döring
 1708
 Martin Mühlberg
 Jacob Leuschner
