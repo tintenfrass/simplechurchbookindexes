@@ -805,7 +805,7 @@ Christian Bormann
 Hans Schultz
 Hans Georg Keller
 Michael Fritzsche
-Thomas Edelt
+Thomas Eckelt | Magdalena Zeller
 Christian Ditrich
 1717
 Georg Fischer
