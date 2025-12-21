@@ -135,7 +135,7 @@ Michael Mohn? | Maria Wachs
 1667
 Georg Donat | Maria ?
 Andreas Thiem? Maria ?
-Hans Lincke?  Anna Fischer
+Hans Lincke? | Anna Fischer
 ----------------
 1668
 Michael G? | Anna Wachsmuth
@@ -284,7 +284,7 @@ Christian Blie? | Maria Jauliche?
 Johann Georg Richter | Anna Maria Brückner
 Georg Hermann | Maria Henschel?
 1709
-Johann Jacob  Händler | Maria Richter
+Johann Jacob Händler | Maria Richter
 Hans Streubel | Regina Lincke
 1710
 Georg Lose | Elisabeth Schulze
