@@ -1,6 +1,6 @@
 Briesnitz (Nr. 185 und Nr. 3708)
 Trauungen 1671-1690
-https://www.familysearch.org/search/film/103649460?cat=2789818
+https://www.familysearch.org/de/search/film/103649460?cat=2789818&i=0
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -17,6 +17,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1671
 Martin Kirchner
 Andreas Götze
