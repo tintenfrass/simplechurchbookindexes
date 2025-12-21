@@ -1,6 +1,6 @@
 Briesnitz (Nr. 184 und Nr. 3707)
 Trauungen 1648-1670
-https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSKJ-YS32-S?mode=g&cat=2789818
+https://www.familysearch.org/de/search/film/103649458?cat=2789818&i=0
 
 Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
 Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
@@ -16,6 +16,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
+---------------- x3
 1648
 Martin Andrie
 Michael Udolff
