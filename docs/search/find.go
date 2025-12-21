@@ -179,6 +179,8 @@ func FindMarriage(search string, min, max int, churches map[string]bool, algo in
 			pageId := 0
 			if Data.Offset[match.S] > 0 {
 				pageId = int(Data.Offset[match.S] + uint32(match.P))
+			} else {
+				pageId = match.P
 			}
 			line := match.L
 			if len(line) == 0 {

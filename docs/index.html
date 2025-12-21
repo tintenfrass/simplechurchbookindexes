@@ -14,7 +14,7 @@
     <meta property="og:image" content="https://">
     <title>Trauindex Sachsen</title>
     <link rel="icon" href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.svg">
-    <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png">
+    <link href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png" rel="apple-touch-icon">
     <link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
     <link href="/simplechurchbookindexes/app.css" type="text/css" rel="stylesheet">
     <script src="/simplechurchbookindexes/wasm_exec.js" defer></script>
@@ -36,7 +36,7 @@
           <td>
             <div>
               <h2>Onlinesuche im Trauindex</h2>
-              <h3>Dresden-Meißen-Freiberg-Dippoldiswalde (+Bautzen)</h3>
+              <h3>Dresden-Meißen-Freiberg-Dippoldiswalde (+Teile von Torgau und Bautzen)</h3>
               <label>Jahr Min </label>
               <input type="range" min="1541" max="1875" value="0" style="width: 600px">
               <label>0</label>
@@ -74,7 +74,7 @@
                  ----&gt; einfacher und schneller als OSA
               </div>
               <div title="Der einzige Algorithmus ohne Ähnlichkeitssuche sondern klassisch nach einer festen Buchstabenkombination.">
-                <input type="radio" checked="false" name="algo">
+                <input checked="false" name="algo" type="radio">
                 Klassisch
                  ----&gt; sucht buchstabengenau nach dem Suchtext innerhalb des Namens.
               </div>
@@ -83,12 +83,277 @@
         </tr>
       </table>
       <td>
+        <button disabled="false" title="Torgau">TO</button>
+      </td>
+      <td>
         <button disabled title="Dresden-Meißen-Freiberg-Dippoldiswalde">DD-MEI-FG-DW</button>
       </td>
       <td>
-        <button disabled="false" title="Bautzen">BZ</button>
+        <button title="Bautzen" disabled="false">BZ</button>
       </td>
       <table>
+        <div style="border:1px solid #D3D3D3;display:none">
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>
+              <button style="width: 70px">Alles</button>
+            </td>
+            <td>
+              <button style="width: 70px">Nichts</button>
+            </td>
+          </tr>
+        </div>
         <div style="border:1px solid #D3D3D3;display:block">
           <tr>
             <td></td>
@@ -651,21 +916,26 @@
        =&gt; Sucht nach der Vornamenskombination Max Moritz mit beliebigem Nachnamen
       <br>
       <b>* Schönberg</b>
-       =&gt; Sucht nach Nachname Schönberg mit beliebigen Vornamen. (Adelige Nachnamen z.B. &#39;von Schönberg&#39; sind im Index ebenfalls als &#39;Schönberg&#39; geführt und können nicht von der nicht-adeligen Variante unterschieden werden)
+       =&gt; Sucht nach Nachname Schönberg mit beliebigen Vornamen. (Adelige Nachnamen z.B. &#39;von Schönberg&#39; sind im Index ebenfalls als &#39;Schönberg&#39; geführt und können (außer in Torgau) nicht von der nicht-adeligen Variante unterschieden werden)
       <br>
       <b>* VitzthumEckstädt</b>
-       =&gt; als Bps. für den Nachnamen &#39;Vitzthum von Eckstädt&#39; mit beliebigen Vornamen. (Mehrteilige Nachnamen wurden im Index verkürzt und bestehen immer nur aus einem Wort)
+       =&gt; als Bps. für den Nachnamen &#39;Vitzthum von Eckstädt&#39; mit beliebigen Vornamen. (Mehrteilige Nachnamen wurden im Index (außer in Torgau) verkürzt und bestehen immer nur aus einem Wort)
+      <br>
+      <b>* vonSchönberg</b>
+       =&gt; Nur im Gebiet Torgau sind adelige Nachnamen genauer erfasst, müssen aber ohne Leerzeichen geschrieben werden, damit die Suche damit funktioniert.
       <br>
       <br>
       Für spezielle Suchen kann rechts oben der Suchalgorithmus ausgewählt werden.
       <br>
-      Im Suchmodus Klassisch wird buchstabengenau gesucht, nur damit kann gezielt nach Namensbestandteilen gesucht werden, z.B:
+      Im Suchmodus 
+      <b>Klassisch</b>
+       wird buchstabengenau gesucht, nur damit kann gezielt nach Namensbestandteilen gesucht werden, z.B:
       <br>
       <b>Napoleon *</b>
-       =&gt; Liefert Ergebnisse mit beliebigem Nachnamen, wo in den Vornamen das Wort &#39;Napoleon&#39; enthalten ist, egal ob es weitere Vornamen davor oder danach gibt.
+       =&gt; Liefert Ergebnisse mit beliebigen Nachnamen, wo in den Vornamen das Wort &#39;Napoleon&#39; enthalten ist, egal ob es weitere Vornamen davor oder danach gibt.
       <br>
       <b>* dorf</b>
-       =&gt; Liefert Ergebnisse mit beliebigem Vorname, wo im Nachnamen &#39;dorf&#39; enthalten ist
+       =&gt; Liefert Ergebnisse mit beliebigen Vornamen, wo im Nachnamen &#39;dorf&#39; enthalten ist
       <br>
       <b>lieb Qu</b>
        =&gt; Liefert Ergebnisse, wo im Vornamen &#39;lieb&#39; und im Nachnamen &#39;Qu&#39; enthalten ist
@@ -705,7 +975,11 @@
       <a href="https://github.com/tintenfrass/simplechurchbookindexes">https://github.com/tintenfrass/simplechurchbookindexes</a>
       <br>
       <br>
-      <h3> v1.11 (August 2025) latest updates:</h3>
+      <h3> v1.12 (Dezember 2025) latest updates:</h3>
+      <label>Einige Trauungen aus dem Gebiet Torgau hinzugefügt</label>
+      <br>
+      <label>Verlinkungen zu Familysearch und Matricula verbessert</label>
+      <br>
       <label>kleine Fehlerkorrekturen</label>
     </div>
     <aside id="app-wasm-loader" class="goapp-app-info">

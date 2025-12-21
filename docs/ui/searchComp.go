@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
-	"onlinefuzzysearch/search"
-
 	"github.com/maxence-charriere/go-app/v10/pkg/app"
+
+	"onlinefuzzysearch/search"
 )
 
 type searchComp struct {
@@ -56,6 +56,10 @@ func (h *searchComp) search(ctx app.Context, e app.Event) {
 		src := getSource(res.Link)
 		if res.Page != 0 && src == "Archion" {
 			res.Link += "?pageId=" + strconv.Itoa(res.Page)
+		} else if res.Page != 0 && src == "Matricula" {
+			res.Link += "?pg=" + strconv.Itoa(res.Page)
+		} else if res.Page != 0 && src == "Familysearch" {
+			res.Link += "&i=" + strconv.Itoa(res.Page)
 		}
 
 		boxes[res.Dis] = append(boxes[res.Dis], app.Tr().Body(
@@ -123,9 +127,37 @@ func (h *searchComp) plusminus(value bool, k string) {
 	}
 }
 
+func isValid(tab int, prefix string) bool {
+	switch {
+	case strings.HasPrefix(prefix, "torgau-delitzsch/"):
+		if tab == 0 {
+			return true
+		}
+	case strings.HasPrefix(prefix, "dresden/"):
+		fallthrough
+	case strings.HasPrefix(prefix, "meissen/"):
+		fallthrough
+	case strings.HasPrefix(prefix, "freiberg/"):
+		fallthrough
+	case strings.HasPrefix(prefix, "dippoldiswalde/"):
+		if tab == 1 {
+			return true
+		}
+	case strings.HasPrefix(prefix, "bautzen/"):
+		if tab == 2 {
+			return true
+		}
+	}
+
+	return false
+}
+
 // Button show all
 func (h *searchComp) all(ctx app.Context, e app.Event) {
 	for key, _ := range search.Data.Marriages {
+		if !isValid(h.activeTab, key) {
+			continue
+		}
 		h.checked[h.activeTab][key] = true
 	}
 }
@@ -133,6 +165,9 @@ func (h *searchComp) all(ctx app.Context, e app.Event) {
 // Button show nothing
 func (h *searchComp) nothing(ctx app.Context, e app.Event) {
 	for key, _ := range search.Data.Marriages {
+		if !isValid(h.activeTab, key) {
+			continue
+		}
 		h.checked[h.activeTab][key] = false
 	}
 }
@@ -143,6 +178,10 @@ func (h *searchComp) tab0(ctx app.Context, e app.Event) {
 
 func (h *searchComp) tab1(ctx app.Context, e app.Event) {
 	h.showTab(1)
+}
+
+func (h *searchComp) tab2(ctx app.Context, e app.Event) {
+	h.showTab(2)
 }
 
 // show tab

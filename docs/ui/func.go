@@ -8,13 +8,16 @@ func replace(input string) (output string) {
 	output = strings.Replace(output, "meissen/", "", 1)
 	output = strings.Replace(output, "freiberg/", "", 1)
 	output = strings.Replace(output, "dippoldiswalde/", "", 1)
+	output = strings.Replace(output, "torgau-delitzsch/", "", 1)
 	output = strings.Replace(output, "bautzen/", "", 1)
+
 	output = strings.Replace(output, "Dresden", "DD", 1)
 	output = strings.Replace(output, "Böhmische", "Böhm.", 1)
 	output = strings.Replace(output, "Exulantengemeinde", "Exulanten", 1)
 	output = strings.Replace(output, "Meißen ", "MEI ", 1)
 	output = strings.Replace(output, "Freiberg ", "FG ", 1)
 	output = strings.Replace(output, "Friedrichstadt St. Michael", "Friedrichstadt", 1)
+	output = strings.Replace(output, "Garnisonsgemeinde", "Garnison", 1)
 	return
 }
 
@@ -24,6 +27,7 @@ func replaceKK(input string) (output string) {
 	output = strings.Replace(output, "meissen", "MEI", 1)
 	output = strings.Replace(output, "freiberg", "FG", 1)
 	output = strings.Replace(output, "dippoldiswalde", "DW", 1)
+	output = strings.Replace(output, "torgau-delitzsch", "TO", 1)
 	output = strings.Replace(output, "bautzen", "BZ", 1)
 
 	return
