@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8">
     <meta name="author">
-    <meta content="Onlinesuche zum Trauindex" name="description">
+    <meta name="description" content="Onlinesuche zum Trauindex">
     <meta name="theme-color" content="#2d2c2c">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <meta name="mobile-web-app-capable" content="yes">
@@ -17,7 +17,7 @@
     <link href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png" rel="apple-touch-icon">
     <link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
     <link href="/simplechurchbookindexes/app.css" type="text/css" rel="stylesheet">
-    <script src="/simplechurchbookindexes/wasm_exec.js" defer></script>
+    <script defer src="/simplechurchbookindexes/wasm_exec.js"></script>
     <script defer src="/simplechurchbookindexes/app.js"></script>
     <!-- Google tag (gtag.js) -->
 			<script async src="https://www.googletagmanager.com/gtag/js?id=G-S2D2V6SHXE"></script>
@@ -38,11 +38,11 @@
               <h2>Onlinesuche im Trauindex</h2>
               <h3>Dresden-Meißen-Freiberg-Dippoldiswalde (+Teile von Torgau und Bautzen)</h3>
               <label>Jahr Min </label>
-              <input type="range" min="1541" max="1875" value="0" style="width: 600px">
+              <input min="1541" max="1875" value="0" style="width: 600px" type="range">
               <label>0</label>
               <br>
               <label>Jahr Max </label>
-              <input type="range" min="1541" max="1875" value="0" style="width: 600px">
+              <input min="1541" max="1875" value="0" style="width: 600px" type="range">
               <label>0</label>
               <br>
               <br>
@@ -64,12 +64,12 @@
                  ----&gt; mehr Treffer, sehr langsam, nicht für große Suchen geeignet
               </div>
               <div title="Die OSA-Variante von DamerauLevenshtein, ohne Vorfilterung">
-                <input type="radio" checked="false" name="algo">
+                <input name="algo" type="radio" checked="false">
                 OSA
                  ----&gt; einfacher und schneller als DamerauLevenshtein
               </div>
               <div title="einfachere Version von DamerauLevenshtein, ohne Vorfilterung">
-                <input type="radio" checked="false" name="algo">
+                <input name="algo" type="radio" checked="false">
                 Levenshtein
                  ----&gt; einfacher und schneller als OSA
               </div>
@@ -89,7 +89,7 @@
         <button disabled title="Dresden-Meißen-Freiberg-Dippoldiswalde">DD-MEI-FG-DW</button>
       </td>
       <td>
-        <button title="Bautzen" disabled="false">BZ</button>
+        <button disabled="false" title="Bautzen">BZ</button>
       </td>
       <table>
         <div style="border:1px solid #D3D3D3;display:none">
@@ -983,7 +983,7 @@
       <label>kleine Fehlerkorrekturen</label>
     </div>
     <aside id="app-wasm-loader" class="goapp-app-info">
-      <img id="app-wasm-loader-icon" class="goapp-logo goapp-spin" alt="wasm loader icon" src="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png">
+      <img class="goapp-logo goapp-spin" alt="wasm loader icon" src="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png" id="app-wasm-loader-icon">
       <p id="app-wasm-loader-label" class="goapp-label">0%</p>
     </aside>
   </body>
