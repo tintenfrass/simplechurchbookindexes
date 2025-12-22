@@ -81,6 +81,7 @@ func (h *searchComp) Render() app.UI {
 	grid[0][5][12] = "torgau-delitzsch/Torgau St. Marien"
 
 	grid[0][5][13] = "torgau-delitzsch/Torgau Garnisonsgemeinde"
+	grid[0][6][13] = "torgau-delitzsch/Torgau Schmerzhafte Mutter"
 
 	grid[0][6][14] = "torgau-delitzsch/Loßwig"
 	grid[0][7][14] = "torgau-delitzsch/Triestewitz"
