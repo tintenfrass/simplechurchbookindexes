@@ -25,12 +25,13 @@ func (h *searchComp) Render() app.UI {
 	}
 
 	kath := map[string]struct{}{
-		"dresden/Dresden Hofkirche":                  {},
-		"dresden/Dresden Neustadt":                   {},
-		"dresden/Dresden Friedrichstadt St. Michael": {},
-		"meissen/Meißen":                             {},
-		"freiberg/Freiberg":                          {},
-		"bautzen/Bautzen Dom":                        {},
+		"dresden/Dresden Hofkirche":                   {},
+		"dresden/Dresden Neustadt":                    {},
+		"dresden/Dresden Friedrichstadt St. Michael":  {},
+		"meissen/Meißen":                              {},
+		"freiberg/Freiberg":                           {},
+		"torgau-delitzsch/Torgau Schmerzhafte Mutter": {},
+		"bautzen/Bautzen Dom":                         {},
 	}
 
 	grid = map[int]map[int]map[int]string{
