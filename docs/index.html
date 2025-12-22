@@ -5,20 +5,20 @@
     <meta name="author">
     <meta name="description" content="Onlinesuche zum Trauindex">
     <meta name="theme-color" content="#2d2c2c">
-    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta content="https:///simplechurchbookindexes" property="og:url">
+    <meta content="width=device-width, initial-scale=1, viewport-fit=cover" name="viewport">
+    <meta content="yes" name="mobile-web-app-capable">
+    <meta property="og:url" content="https:///simplechurchbookindexes">
     <meta property="og:title" content="Trauindex Sachsen">
     <meta property="og:description" content="Onlinesuche zum Trauindex">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://">
     <title>Trauindex Sachsen</title>
     <link rel="icon" href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.svg">
-    <link href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png" rel="apple-touch-icon">
+    <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png">
     <link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
     <link href="/simplechurchbookindexes/app.css" type="text/css" rel="stylesheet">
     <script defer src="/simplechurchbookindexes/wasm_exec.js"></script>
-    <script src="/simplechurchbookindexes/app.js" defer></script>
+    <script defer src="/simplechurchbookindexes/app.js"></script>
     <!-- Google tag (gtag.js) -->
 			<script async src="https://www.googletagmanager.com/gtag/js?id=G-S2D2V6SHXE"></script>
 			<script>
@@ -38,7 +38,7 @@
               <h2>Onlinesuche im Trauindex</h2>
               <h3>Dresden-Meißen-Freiberg-Dippoldiswalde (+Teile von Torgau und Bautzen)</h3>
               <label>Jahr Min </label>
-              <input min="1541" max="1875" value="0" style="width: 600px" type="range">
+              <input type="range" min="1541" max="1875" value="0" style="width: 600px">
               <label>0</label>
               <br>
               <label>Jahr Max </label>
@@ -51,7 +51,7 @@
           </td>
           <td>
             <div style="margin-left:60px">
-              <div title="Bestimmt wie schnell und genau die Ähnlichkeitssuche funktioniert, je nach Algorithmus können die Ergebnisse abweichen." style="font-weight:bold">Suchalgorithmus:</div>
+              <div style="font-weight:bold" title="Bestimmt wie schnell und genau die Ähnlichkeitssuche funktioniert, je nach Algorithmus können die Ergebnisse abweichen.">Suchalgorithmus:</div>
               <br>
               <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.4 werden danach mit DamerauLevenshtein genau berechnet. Dieses zweistufe Vorgehen macht die Suche schnell und trotzdem genau.">
                 <input type="radio" checked name="algo">
@@ -59,12 +59,12 @@
                  ----&gt; best Kombination aus Geschwindigkeit und Komplexität
               </div>
               <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.3 werden danach mit Soundex umgewandelt und diese dann mit DamerauLevenshtein berechnet. Das ist sehr langsam aber findet viel mehr Treffer. Große Suchen brechen manchmal ab.">
-                <input name="algo" type="radio" checked="false">
+                <input type="radio" checked="false" name="algo">
                 Jaro + Soundex + DamerauLevenshtein
                  ----&gt; mehr Treffer, sehr langsam, nicht für große Suchen geeignet
               </div>
               <div title="Die OSA-Variante von DamerauLevenshtein, ohne Vorfilterung">
-                <input checked="false" name="algo" type="radio">
+                <input name="algo" type="radio" checked="false">
                 OSA
                  ----&gt; einfacher und schneller als DamerauLevenshtein
               </div>
@@ -74,7 +74,7 @@
                  ----&gt; einfacher und schneller als OSA
               </div>
               <div title="Der einzige Algorithmus ohne Ähnlichkeitssuche sondern klassisch nach einer festen Buchstabenkombination.">
-                <input checked="false" name="algo" type="radio">
+                <input type="radio" checked="false" name="algo">
                 Klassisch
                  ----&gt; sucht buchstabengenau nach dem Suchtext innerhalb des Namens.
               </div>
@@ -86,7 +86,7 @@
         <button disabled="false" title="Torgau">TO</button>
       </td>
       <td>
-        <button disabled title="Dresden-Meißen-Freiberg-Dippoldiswalde">DD-MEI-FG-DW</button>
+        <button title="Dresden-Meißen-Freiberg-Dippoldiswalde" disabled>DD-MEI-FG-DW</button>
       </td>
       <td>
         <button disabled="false" title="Bautzen">BZ</button>
@@ -983,8 +983,8 @@
       <label>kleine Fehlerkorrekturen</label>
     </div>
     <aside id="app-wasm-loader" class="goapp-app-info">
-      <img class="goapp-logo goapp-spin" alt="wasm loader icon" src="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png" id="app-wasm-loader-icon">
-      <p id="app-wasm-loader-label" class="goapp-label">0%</p>
+      <img id="app-wasm-loader-icon" class="goapp-logo goapp-spin" alt="wasm loader icon" src="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png">
+      <p class="goapp-label" id="app-wasm-loader-label">0%</p>
     </aside>
   </body>
 </html>
