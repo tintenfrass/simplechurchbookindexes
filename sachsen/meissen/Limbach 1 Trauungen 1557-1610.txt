@@ -2,12 +2,6 @@ Limbach (Buch 1)
 Trauungen 1557-1610
 https://www.archion.de/de/viewer/churchRegister/283106?pageId=39137905
 
-Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
-Die meisten Vornamen wurden über Shortcuts erstellt, 
-Dabei wurden ähnliche Namen bzw. verschiedene Schreibweisen auf den gleichen Shortcut gelegt.
-Bsp:
-Gregor/Greger => Georg
-
 
 Erstellt in ca. 2 Stunden
 Mai 2022
@@ -115,11 +109,11 @@ Edidius Grellman
 Jacob Praß
 Adam Erkelman
 Georg Wustlig
-Georg Struck
+Gregor Struck
 ----------------
 Valentin Birckner
 1575
-Georg Burckhard
+Gregor Burckhard
 1576
 Hans Mercke?
 Borniel? Müller
@@ -134,7 +128,7 @@ Thomas Henick
 Jorge Fritzsch
 ----------------
 Peter Schuman
-Georg Köler
+Gregor Köler
 Michael Stun?
 1578
 Hans Rabe
@@ -156,8 +150,8 @@ Antonius Nietzsche
 Hans Winckler
 Hans Götz
 1583
-Georg Götz
-Michael Sebsepier?
+Gregor Götz
+Michael Schreier
 Hans Haman
 Hans Schubart
 ----------------
@@ -176,7 +170,7 @@ Mattheus Soba
 Blasius Praß
 ----------------
 Urban Heinrich
-Georg Köler
+Gregor Köler
 Brosius Fritzsch
 Georg Hoier
 Antonius Dietz
@@ -191,8 +185,8 @@ Peter Schröter
 Peter Götz
 Andreas Lönicker
 Peter Peger?
-Valentin Weiselt?
-Georg Wustlig
+Valentin Weichelt?
+Gregor Wustlig
 Michael Nauman
 1588
 Brosius Poitzscher
@@ -208,7 +202,7 @@ Michael Sunem?
 Martin Philipp
 1589
 Hans Hennigk
-Michael Gras?
+Michael Gros?
 Veit Dietze
 ----------------
 1590
@@ -218,8 +212,9 @@ Michael Mercke
 Peter Rennitzsch
 Martin Hoier
 1591
-Stephan Schleist?
+Stephan Schleise?
 Peter Schuman
+----------------
 ----------------
 Michael Fritzsch
 Clemens Nauman
@@ -233,12 +228,12 @@ Jacob Fritzsch
 Hans Hermsdorf
 Blasius Grumbach
 1593
-Johann Jagerteuffel?
+Johann Jagenteuffel
 Paul Hoier
 ----------------
-Georg Nauman
-Michael Haime?
-Blasius Lorkel
+Gregor Nauman
+Michael Haine
+Blasius Lockel
 1594
 Caspar Wustlig
 Martin Ulrich
@@ -268,17 +263,17 @@ Martin Lönicker
 Georg Birckner
 Blasius Beudner
 1600
-Georg Schubart
-Michael Brantz?
+Gregor Schubart
+Michael Brauer?
 1601
 Michael Fichtner
-Philip Stenge?
+Philip Stange
 Blasius Nauman
 Jacob Hehber
 Donat Rülcke
 Michael Wagner
 1602
-Michael Wolf?
+Michael Wolff
 Hans Winckler
 ----------------
 Nicol Felliger?
@@ -294,18 +289,18 @@ Michael Prase?
 Martin Grellman
 Georg Beuchlos
 Georg Fritzsch?
-Michael Orbelner?
+Michael Ockelnab?
 Nicol Rudolf
 Valentin Rost
 Aegidius Crelman?
 ----------------
 1605
-Paul ?
+Paul Winckeler
 Lorenz Kieselig
-Georg Schubart
+Gregor Schubart
 1606
 Jacob Philipp
-Martin Fenicke?
+Martin Funcke
 Clemens Ditz
 ----------------
 1607
@@ -318,9 +313,9 @@ Martin Nauman
 ----------------
 Georg Fichtner
 Peter Wiesener
-Martin Kergen?
+Martin Berger
 1609
-Michael Sanfft?
+Michael Ranfft
 Blasius Burckhard
 Georg Wustlich
 ----------------

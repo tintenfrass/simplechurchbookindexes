@@ -2,12 +2,6 @@ Limbach (Buch 2)
 Trauungen 1611-1705
 https://www.archion.de/de/viewer/churchRegister/283107?pageId=39138056
 
-Das ist ein einfacher Index aller Trauungen (nur die Bräutigame)
-Die meisten Vornamen wurden über Shortcuts erstellt, 
-Dabei wurden ähnliche Namen bzw. verschiedene Schreibweisen auf den gleichen Shortcut gelegt.
-Bsp:
-Gregor/Greger => Georg
-
 
 Erstellt in ca. 2 Stunden
 Mai 2022
@@ -42,7 +36,7 @@ Georg Berner
 1615
 Michael Ranfft
 Kilian Schirmer
-Georg Nauman
+Gregor Nauman
 Martin Hoier
 Martin Helling
 Mattheus Rülcker
@@ -62,7 +56,7 @@ Hans Nauman
 1618
 Michael Ulman
 Hans Gießman
-Georg Köler
+Gregor Köler
 Nicol Nauman
 ----------------
 Andreas Fritzsch
@@ -75,7 +69,7 @@ Georg Marckisch?
 ----------------
 Christoph Dürsler
 Martin Tham
-Georg Winckler?
+Georg Winckler
 Martin Hoier
 1620
 Martin Winckler
@@ -87,19 +81,19 @@ Donat Burckhard
 Georg Leuderitz
 Valentin Kirsten
 1622
-Hans Jude?
+Hans Jude
 Wilhelm Dörer
 Michael Birckner
 ----------------
 1623
 Georg Birckner
-Georg Nauman
+Gregor Nauman
 Christoph Philipp
 Hans Schubart
 1624
 Georg Leuderitz
 Jacob Götze
-Georg Wirr?
+Georg Winckeler
 Jacob Fritzsch
 ----------------
 Jacob Clauß
@@ -137,7 +131,7 @@ Antonius Leu
 Hans Starcke
 1630
 Barthel Wustlich
-Georg Leckscheide
+Gregor Leckscheide
 Georg Hoier
 Peter Hoier
 1631
@@ -195,7 +189,7 @@ Jacob Bäßeler
 1641
 Georg Kost
 Hans Steuer
-Georg Köler
+Gregor Köler
 Georg Fritzsch
 1642
 Erasmus Kolbe
@@ -205,12 +199,12 @@ Peter Schüttich
 Martin Rülcker
 Reichard Strentzel
 1643
-Paul Wein?
+Paul Wend
 ----------------
 1644
 Balthasar Burckhard
 Martin Pietzsch
-Georg Bachman
+Gregor Bachman
 1645
 Caspar Dittrich
 Martin Fritzsch
@@ -238,7 +232,7 @@ Hans Borschnitz
 1650
 Hans Kippe
 1651
-Georg Köler
+Gregor Köler
 Nicol Schüttig
 1652
 Georg Keule
@@ -261,7 +255,7 @@ Georg Fritzsch
 Georg Hillig
 Paul Kolbe
 Hans Philipp
-Georg Eiglinger
+Georg Eylinger
 Georg Fritzsch
 1656
 Georg Jost
@@ -289,7 +283,7 @@ Nicol Philipp
 Martin Jost
 1661
 Martin Rülcker
-Georg Fuhrman
+Gregor Fuhrman
 ----------------
 Paul Rülcker
 Bernhard Dietze
@@ -299,7 +293,7 @@ Jacob Burckhard
 1663
 Johann Tzschüdrich
 Georg Hoyer
-Georg Köler
+Gregor Köler
 Peter Birckner
 1664
 Georg Brendel
@@ -315,7 +309,7 @@ Martin Große
 ----------------
 Johann Eibigen
 Martin Steude
-Georg Köhler
+Gregor Köhler
 1667
 Martin Birckner
 Jacob Götze
@@ -388,7 +382,7 @@ Christoph Mahl
 Elias Philipp
 Andreas Schlegel
 Michael Gerold
-Johann-Sigismund Reitterlift?
+Johann-Sigismund Reitter?
 ----------------
 Georg Mehlde
 Michael Felbel
