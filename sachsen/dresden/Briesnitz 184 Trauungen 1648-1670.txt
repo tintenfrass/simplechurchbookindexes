@@ -573,7 +573,7 @@ Georg Müller
 1650
 Martin Müller
 Hans Mietlacher
-Georg Mülberg
+Georg Mühlberg
 1651
 Martin Müller
 1652
@@ -581,7 +581,7 @@ Georg Müller
 1653
 Georg Müller
 Martin Merbitz
-Martin Mülberg
+Martin Mühlberg
 1653
 Martin Merbitz
 ----------------
@@ -624,7 +624,7 @@ Mattheus Michael
 Georg Müller
 Hans Müller
 1668
-Michael Mülberg
+Michael Mühlberg
 ----------------
 Martin Merbitz
 1669
