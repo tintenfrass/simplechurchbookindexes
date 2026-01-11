@@ -41,8 +41,7 @@ Samuel Lönicker
 Christoph Kreuel
 Gottfried Bauer
 Johann Georg Springefeld
-----------------
-x8
+---------------- x8
 1759
 Michael Müller
 Johann Christoph Scheibe
@@ -453,7 +452,7 @@ Johann Friedrich August Richter
 Johann Gottlieb Liebezeit
 ---------------- x11
 1793
-Johann Christoph Zschmelke
+Johann Christoph Schmelke
 Gottfried Naumann
 Christian Hempel
 ----------------
