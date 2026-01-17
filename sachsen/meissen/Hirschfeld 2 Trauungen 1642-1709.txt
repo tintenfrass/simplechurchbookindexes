@@ -1,196 +1,223 @@
 Hirschfeld (Buch 2)
 Trauungen 1642-1709
-https://www.archion.de/de/viewer/churchRegister/282548?pageId=39029965
-https://www.archion.de/de/viewer/churchRegister/282540
+https://www.archion.de/de/viewer/churchRegister/282540?pageId=39028409
 
 
-Das ist ein Index der Trauungen.
-Erstellt direkt vom Index zum Kirchenbuch.
-Die Sortierung ist nach Jahr und Nachnamen.
-Die Schreibweise der Namen entspricht nicht immer der Schreibweise im Buch.
+Ab 1677 erstellt aus dem Register zum Kirchenbuch.
 
 
-Erstellt in ca. 1 Stunde
 Januar 2023
+Janaur 2026
 https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
----------------- x79
+---------------- x4
 1642
-Martin Gerber
 Georg Hencker
 Georg Jahn
+Martin Gerber
+----------------
 1643
 Urban Nickel
 Jacob Starcke
 1644
-Martin Hanitz
-Jacob Hoffmann
+Martin Hanicke
 Peter Krause
+Jacob Hoffmann
+----------------
 1645
 Hans Dietze
-Martin Leuschner
 Caspar Müllenberg
+Martin Leuschner
 1646
-Andreas Günther
 Michael Günther
+Andreas Günther
 Abraham Müller
+----------------
 1649
+Gregor Hencker
 Michael Böhme
 Martin Ebert
-Gregor Hencker
+----------------
 1650
-Martin Barthel
 Michael Günther
-Andreas Hencker
 Hans Kühn
+Andreas Hencker
 Fabian Nahl
+Martin Barthel
+----------------
 1651
-Hans-Wolf Euelawitz
 Martin Große
-Hans Hanitz
-Fabian Metzner
 Samuel Müller
 Thomas Paul
+Fabian Metzner
+Hans Hanicke
 Peter Vohs
+Günther Hans Wolf : von Carlowitz
+----------------
 1652
 Georg Bauer
 Georg Müller
 Georg Nickel
 1653
-Andreas Böhme
-Wolfgang Böhme
-Barthel Dietze
-Jacob Döring
-Hans-Friedrich Dülren
-Hans Leuschner
-Hans Nickel
 Michael Spies
+Barthel Dietze
+Andreas Böhme
+----------------
+Jacob Döring
+Joachim Friedrich : von Dölow?
+Wolfgang Böhme
+Hans Leuschner
+----------------
 1654
-Michael Arnold
-Hans Bache
-Georg Bauer
 Hans Bauer
 Hans Dürse
-Andreas Gralm
+Michael Arnold
+Andreas Grelm
+Hans Bache
+Georg Bauer
+----------------
 1655
+Gregor Pötzsch
+Johann Ochksius
+Hans Nickel
 Michael Hoffmann
-Johann Ochatius
-Gregor Pietzsch
+----------------
 1656
-Georg Börner
-Jacob Dietze
-Jacob Große
-Georg Günther
-Martin Hoffmann
 Hans Schütze
+Georg Günther
+Georg Böttner
+Martin Hoffmann
+Jacob Große
+Jacob Dietze
+----------------
 1657
-Friedrich-Carl Base
-Hans Große
-Georg Henring
-Martin Pietzsch
-Otto Stange
+Hans Guck
 Jacob Thiel
-Peter Tschoche
+Georg Hering
+Peter Stange
+Martin Pötzsch
 Johann Weiße
+----------------
+Peter Tschoche
+Friedrich Carl Base
 1658
-Georg Hoffmann
 Hans Krause
+Gregor Hoffmann
+----------------
 1659
-Hans Bütner
-Peter Dietze
+Hans Klotz
+Hans Böhme
+Peter Dörse
 Michael Günther
 Peter Kemnitz
-Hans Klatz
+----------------
 1660
 Martin Barthel
 Philip Mercker
 1661
-Georg Rücler
+Georg Rülcker
 1662
-Jacob Pietzsch
+Jacob Pötzsch
+----------------
 1663
 Elias Dietze
+Michael Löwe
 Hans Hencker
-Michael Lörne
+Michael Hencker
 1664
-Lorenz Jahn
-Jacob Kühn
+----------------
+Donat Jahn
 Peter Schellenberg
+Jacob Kühn
 1665
-Georg Gößner
+Georg Geßner
+Jacob Becker
+----------------
+Jacob Sparichen
 Mattheus Seiffert
-Jacob Sparich
 1666
-Martin Döring
-Peter Henicke
-Michael Henricke
+Martin Schellenberg
+Michael Henicke
+Michael Wustlich
+----------------
+Mattheus Mühlberg
 Georg Jahn
 Balthasar Köhler
-Mattheus Mühlberg
-Martin Schellenberg
-Hans Starcke
 Gottfried Unger
-Michael Wustlich
+Peter Henicke
+----------------
+Martin Döring
+Hans Starcke
 1667
-Jacob Hoffmann
 Hans Kemnitz
-Valentin Pietzsch
+Jacob Hoffmann
+Valentin Pötzsch
+----------------
 1668
 Nicol Frietzsche
 Georg Günther
-Peter Mülenreich
 Georg Starcke
 Georg Starcke
+Peter Mülenerich
+----------------
 1669
-Martin Jahn
 Michael Jenichen
+Martin Jahn
+Michael Kern
 Martin Kühn
-Michael Kurn
 Michael Scherer
+----------------
 1670
-Georg Gabrich
-Michael Hanitz
 Martin Heger
-Mattheus Knaudt
+Michael Hanicke
+Georg Gebrich
+Mattheus Knautt
 Georg Starcke
+----------------
 1671
-Hans Große
-Hans Günther
-Peter Hannichen
-Hans Henicke
-Jacob Hoffmann
-Veit Kemnitz
-Urban Nickel
 Thomas Schüttig
+Urban Nickel
+Peter Hannichen
+Hans Georg Günther
+Jacob Hoffmann
+Hans Große
+----------------
+David Kemnitz
+Hans Henicke
 1672
+Michael Krause
 Martin Hoffmann
-Michael Kemnitz
+----------------
 1673
 Georg Köhler
-Jacob Prauser
+Jacob Preußer
 1674
+Jacob Paul
+Hans Hanicke
+Zacharias Egengruber
+----------------
+Jacob Kühn
 Jacob Becker
 Michael Becker
+Jacob Dietze
 Michael Becker
 Michael Deißel
-Jacob Dietze
-Zacharias Egenruber
-Hans Henicke
-Jacob Kühn
-Jacob Paul
+----------------
 1675
-Martin Bormann
-Michael Döring
-Georg Frietzsche
 Thomas Hede
+Martin Bormann
 Michael Kühn
 Franz Philipp
+Michael Döring
+Georg Frietzsche
+----------------
 1676
-Michael Gögner
 Michael Große
+Michael Göpner
 Thomas Mehlig
+----------------
 1677
 Martin Bauer
 Michael Böhm
