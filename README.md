@@ -37,7 +37,7 @@ Der Quellcode zur Online-Suche ist vollständig einsehbar im Ordner docs. (Open 
 ### Lizenz beachten (Creative Commons Attribution-NonCommercial (CC BY-NC) 3.0)
 Die Daten sind für die Forschung gedacht, es ist keine kommerzielle Nutzung erlaubt.
 
-### Weitere Indezierungsprojekte
+### Weitere Indexierungsprojekte
 
 #### Poznan-Project
 https://poznan-project.psnc.pl/
