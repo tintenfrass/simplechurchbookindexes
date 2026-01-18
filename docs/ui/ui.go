@@ -10,7 +10,7 @@ import (
 	"github.com/maxence-charriere/go-app/v10/pkg/app"
 )
 
-const tabs = 3
+const tabs = 4
 const rows = 21
 const cols = 10
 
@@ -21,7 +21,7 @@ func (h *searchComp) Render() app.UI {
 
 	if len(h.displayTab) == 0 {
 		//show only first tab
-		h.displayTab = []string{"none", "block", "none"}
+		h.displayTab = []string{"none", "none", "block", "none"}
 	}
 
 	kath := map[string]struct{}{
@@ -71,234 +71,267 @@ func (h *searchComp) Render() app.UI {
 			8: make(map[int]string),
 			9: make(map[int]string),
 		},
+		3: {
+			0: make(map[int]string),
+			1: make(map[int]string),
+			2: make(map[int]string),
+			3: make(map[int]string),
+			4: make(map[int]string),
+			5: make(map[int]string),
+			6: make(map[int]string),
+			7: make(map[int]string),
+			8: make(map[int]string),
+			9: make(map[int]string),
+		},
 	}
-	grid[0][6][9] = "torgau-delitzsch/Rosenfeld"
+	grid[0][1][9] = "auerbach/Auerbach"
 
-	grid[0][6][10] = "torgau-delitzsch/Zwethau"
+	grid[1][2][8] = "torgau-delitzsch/Dommitzsch"
+	grid[1][3][8] = "torgau-delitzsch/Polbitz"
 
-	grid[0][6][11] = "torgau-delitzsch/Kreischau-Eulenau"
-	grid[0][7][11] = "torgau-delitzsch/Beilrode"
+	grid[1][2][9] = "torgau-delitzsch/Drebligar"
+	grid[1][3][9] = "torgau-delitzsch/Elsnig"
+	grid[1][5][9] = "torgau-delitzsch/Mockritz"
+	grid[1][6][9] = "torgau-delitzsch/Rosenfeld"
 
-	grid[0][5][12] = "torgau-delitzsch/Torgau St. Marien"
+	grid[1][4][10] = "torgau-delitzsch/Neiden"
+	grid[1][5][10] = "torgau-delitzsch/Döbern bei Neiden"
+	grid[1][6][10] = "torgau-delitzsch/Zwethau"
+	grid[1][8][10] = "bad-liebenwerda/Döbrichau-Löhsten"
 
-	grid[0][5][13] = "torgau-delitzsch/Torgau Garnisonsgemeinde"
-	grid[0][6][13] = "torgau-delitzsch/Torgau Schmerzhafte Mutter"
+	grid[1][5][11] = "torgau-delitzsch/Welsau"
+	grid[1][6][11] = "torgau-delitzsch/Kreischau-Eulenau"
+	grid[1][7][11] = "torgau-delitzsch/Beilrode"
 
-	grid[0][6][14] = "torgau-delitzsch/Loßwig"
-	grid[0][7][14] = "torgau-delitzsch/Triestewitz"
-	grid[0][8][14] = "torgau-delitzsch/Arzberg"
+	grid[1][5][12] = "torgau-delitzsch/Torgau St. Marien"
 
-	grid[0][7][15] = "torgau-delitzsch/Weßnig"
-	grid[0][9][15] = "torgau-delitzsch/Blumberg"
+	grid[1][2][13] = "torgau-delitzsch/Großwig"
+	grid[1][3][13] = "torgau-delitzsch/Süptitz"
+	grid[1][4][13] = "torgau-delitzsch/Zinna"
+	grid[1][5][13] = "torgau-delitzsch/Torgau Garnisonsgemeinde"
+	grid[1][6][13] = "torgau-delitzsch/Torgau Schmerzhafte Mutter"
 
-	grid[0][5][16] = "torgau-delitzsch/Beckwitz"
+	grid[1][3][14] = "torgau-delitzsch/Melpitz"
+	grid[1][6][14] = "torgau-delitzsch/Loßwig"
+	grid[1][7][14] = "torgau-delitzsch/Triestewitz"
+	grid[1][8][14] = "torgau-delitzsch/Arzberg"
 
-	grid[0][6][17] = "torgau-delitzsch/Taura"
-	grid[0][8][17] = "torgau-delitzsch/Belgern"
+	grid[1][2][15] = "torgau-delitzsch/Klitzschen"
+	grid[1][7][15] = "torgau-delitzsch/Weßnig"
+	grid[1][9][15] = "torgau-delitzsch/Blumberg"
 
-	grid[0][5][18] = "torgau-delitzsch/Sitzenroda"
-	grid[0][7][18] = "torgau-delitzsch/Lausa"
-	grid[0][8][18] = "torgau-delitzsch/Neußen"
-	grid[0][9][18] = "torgau-delitzsch/Staritz"
+	grid[1][2][16] = "torgau-delitzsch/Langenreichenbach"
+	grid[1][4][16] = "torgau-delitzsch/Staupitz"
+	grid[1][5][16] = "torgau-delitzsch/Beckwitz"
 
-	grid[0][9][19] = "torgau-delitzsch/Schirmenitz"
+	grid[1][6][17] = "torgau-delitzsch/Taura"
+	grid[1][8][17] = "torgau-delitzsch/Belgern"
 
-	grid[0][9][20] = "torgau-delitzsch/Paußnitz"
+	grid[1][2][18] = "torgau-delitzsch/Kobershain"
+	grid[1][3][18] = "torgau-delitzsch/Schildau"
+	grid[1][5][18] = "torgau-delitzsch/Sitzenroda"
+	grid[1][7][18] = "torgau-delitzsch/Lausa"
+	grid[1][8][18] = "torgau-delitzsch/Neußen"
+	grid[1][9][18] = "torgau-delitzsch/Staritz"
 
-	grid[1][0][0] = "meissen/Bloßwitz"
-	grid[1][1][0] = "meissen/Staucha"
-	grid[1][2][0] = "meissen/Striegnitz"
-	grid[1][3][0] = "meissen/Dörschnitz"
-	grid[1][5][0] = "meissen/Großdobritz"
-	grid[1][8][0] = "dresden/Großdittmannsdorf"
+	grid[1][9][19] = "torgau-delitzsch/Schirmenitz"
 
-	grid[1][1][1] = "meissen/Lommatzsch"
-	grid[1][2][1] = "meissen/Zehren"
-	grid[1][3][1] = "meissen/Zadel"
-	grid[1][4][1] = "meissen/Gröbern"
-	grid[1][5][1] = "meissen/Oberau"
-	grid[1][8][1] = "dresden/Medingen"
-	grid[1][9][1] = "dresden/Ottendorf"
+	grid[1][9][20] = "torgau-delitzsch/Paußnitz"
 
-	grid[1][0][2] = "meissen/Neckanitz"
-	grid[1][2][2] = "meissen/Meißen St. Afra"
-	grid[1][3][2] = "meissen/Meißen Trinitatiskirche"
-	grid[1][4][2] = "meissen/Niederau"
-	grid[1][7][2] = "dresden/Grünberg"
-	grid[1][8][2] = "dresden/Seifersdorf"
-	grid[1][9][2] = "dresden/Wachau"
+	grid[2][0][0] = "meissen/Bloßwitz"
+	grid[2][1][0] = "meissen/Staucha"
+	grid[2][2][0] = "meissen/Striegnitz"
+	grid[2][3][0] = "meissen/Dörschnitz"
+	grid[2][5][0] = "meissen/Großdobritz"
+	grid[2][8][0] = "dresden/Großdittmannsdorf"
 
-	grid[1][0][3] = "meissen/Leuben"
-	grid[1][1][3] = "meissen/Planitz"
-	grid[1][2][3] = "meissen/Meißen"
-	grid[1][3][3] = "meissen/Meißen Frauenkirche"
-	grid[1][4][3] = "meissen/Meißen Johanneskirche"
-	grid[1][5][3] = "meissen/Weinböhla"
-	grid[1][8][3] = "dresden/Lausa"
-	grid[1][9][3] = "dresden/Schönborn"
+	grid[2][1][1] = "meissen/Lommatzsch"
+	grid[2][2][1] = "meissen/Zehren"
+	grid[2][3][1] = "meissen/Zadel"
+	grid[2][4][1] = "meissen/Gröbern"
+	grid[2][5][1] = "meissen/Oberau"
+	grid[2][8][1] = "dresden/Medingen"
+	grid[2][9][1] = "dresden/Ottendorf"
 
-	grid[1][1][4] = "meissen/Ziegenhain"
-	grid[1][4][4] = "meissen/Brockwitz"
-	grid[1][5][4] = "meissen/Coswig"
-	grid[1][6][4] = "dresden/Reichenberg"
-	grid[1][7][4] = "dresden/Wilschdorf"
-	grid[1][8][4] = "dresden/Radeberg"
-	grid[1][9][4] = "dresden/Langebrück"
+	grid[2][0][2] = "meissen/Neckanitz"
+	grid[2][2][2] = "meissen/Meißen St. Afra"
+	grid[2][3][2] = "meissen/Meißen Trinitatiskirche"
+	grid[2][4][2] = "meissen/Niederau"
+	grid[2][7][2] = "dresden/Grünberg"
+	grid[2][8][2] = "dresden/Seifersdorf"
+	grid[2][9][2] = "dresden/Wachau"
 
-	grid[1][2][5] = "meissen/Krögis"
-	grid[1][3][5] = "meissen/Miltitz"
-	grid[1][5][5] = "meissen/Naustadt"
-	grid[1][6][5] = "dresden/Kötzschenbroda"
-	grid[1][7][5] = "dresden/Klotzsche"
-	grid[1][8][5] = "dresden/Dresden Neustadt"
-	grid[1][9][5] = "dresden/Kleinwolmsdorf"
+	grid[2][0][3] = "meissen/Leuben"
+	grid[2][1][3] = "meissen/Planitz"
+	grid[2][2][3] = "meissen/Meißen"
+	grid[2][3][3] = "meissen/Meißen Frauenkirche"
+	grid[2][4][3] = "meissen/Meißen Johanneskirche"
+	grid[2][5][3] = "meissen/Weinböhla"
+	grid[2][8][3] = "dresden/Lausa"
+	grid[2][9][3] = "dresden/Schönborn"
 
-	grid[1][0][6] = "meissen/Rüsseina"
-	grid[1][1][6] = "meissen/Raußlitz"
-	grid[1][2][6] = "meissen/Heynitz"
-	grid[1][3][6] = "meissen/Taubenheim"
-	grid[1][4][6] = "meissen/Röhrsdorf"
-	grid[1][5][6] = "meissen/Constappel"
-	grid[1][6][6] = "dresden/Dresden Friedrichstadt St. Michael"
-	grid[1][7][6] = "dresden/Kaditz"
-	grid[1][8][6] = "dresden/Dresden Dreikönigskirche"
-	grid[1][9][6] = "dresden/Großerkmannsdorf"
+	grid[2][1][4] = "meissen/Ziegenhain"
+	grid[2][4][4] = "meissen/Brockwitz"
+	grid[2][5][4] = "meissen/Coswig"
+	grid[2][6][4] = "dresden/Reichenberg"
+	grid[2][7][4] = "dresden/Wilschdorf"
+	grid[2][8][4] = "dresden/Radeberg"
+	grid[2][9][4] = "dresden/Langebrück"
 
-	grid[1][0][7] = "meissen/Wendischbora"
-	grid[1][1][7] = "meissen/Rothschönberg"
-	grid[1][2][7] = "meissen/Burkhardswalde"
-	grid[1][3][7] = "meissen/Sora"
-	grid[1][4][7] = "meissen/Weistropp"
-	grid[1][5][7] = "dresden/Briesnitz"
-	grid[1][6][7] = "dresden/Dresden Friedrichstadt"
-	grid[1][7][7] = "dresden/Dresden Sophienkirche"
-	grid[1][8][7] = "dresden/Dresden Hofkirche"
-	grid[1][9][7] = "dresden/Weißig"
+	grid[2][2][5] = "meissen/Krögis"
+	grid[2][3][5] = "meissen/Miltitz"
+	grid[2][5][5] = "meissen/Naustadt"
+	grid[2][6][5] = "dresden/Kötzschenbroda"
+	grid[2][7][5] = "dresden/Klotzsche"
+	grid[2][8][5] = "dresden/Dresden Neustadt"
+	grid[2][9][5] = "dresden/Kleinwolmsdorf"
 
-	grid[1][0][8] = "meissen/Nossen"
-	grid[1][1][8] = "meissen/Deutschenbora"
-	grid[1][2][8] = "meissen/Tanneberg"
-	grid[1][3][8] = "meissen/Limbach"
-	grid[1][4][8] = "meissen/Wilsdruff"
-	grid[1][5][8] = "meissen/Unkersdorf"
-	grid[1][6][8] = "dresden/Dresden Kreuzkirche"
-	grid[1][7][8] = "dresden/Dresden Frauenkirche"
-	grid[1][8][8] = "dresden/Loschwitz"
+	grid[2][0][6] = "meissen/Rüsseina"
+	grid[2][1][6] = "meissen/Raußlitz"
+	grid[2][2][6] = "meissen/Heynitz"
+	grid[2][3][6] = "meissen/Taubenheim"
+	grid[2][4][6] = "meissen/Röhrsdorf"
+	grid[2][5][6] = "meissen/Constappel"
+	grid[2][6][6] = "dresden/Dresden Friedrichstadt St. Michael"
+	grid[2][7][6] = "dresden/Kaditz"
+	grid[2][8][6] = "dresden/Dresden Dreikönigskirche"
+	grid[2][9][6] = "dresden/Großerkmannsdorf"
 
-	grid[1][0][9] = "meissen/Siebenlehn"
-	grid[1][1][9] = "meissen/Hirschfeld"
-	grid[1][2][9] = "meissen/Neukirchen"
-	grid[1][3][9] = "meissen/Blankenstein"
-	grid[1][4][9] = "meissen/Grumbach"
-	grid[1][5][9] = "meissen/Kesselsdorf"
-	grid[1][6][9] = "dippoldiswalde/Pesterwitz"
-	grid[1][7][9] = "dresden/Dresden Annenkirche"
-	grid[1][8][9] = "dresden/Dresden Böhmische Exulantengemeinde"
-	grid[1][9][9] = "dresden/Schönfeld"
+	grid[2][0][7] = "meissen/Wendischbora"
+	grid[2][1][7] = "meissen/Rothschönberg"
+	grid[2][2][7] = "meissen/Burkhardswalde"
+	grid[2][3][7] = "meissen/Sora"
+	grid[2][4][7] = "meissen/Weistropp"
+	grid[2][5][7] = "dresden/Briesnitz"
+	grid[2][6][7] = "dresden/Dresden Friedrichstadt"
+	grid[2][7][7] = "dresden/Dresden Sophienkirche"
+	grid[2][8][7] = "dresden/Dresden Hofkirche"
+	grid[2][9][7] = "dresden/Weißig"
 
-	grid[1][0][10] = "meissen/Obergruna"
-	grid[1][1][10] = "meissen/Bieberstein"
-	grid[1][2][10] = "meissen/Reinsberg"
-	grid[1][3][10] = "meissen/Dittmannsdorf"
-	grid[1][4][10] = "meissen/Herzogswalde"
-	grid[1][5][10] = "dippoldiswalde/Döhlen"
-	grid[1][6][10] = "dresden/Plauen"
-	grid[1][7][10] = "dresden/Leubnitz"
-	grid[1][8][10] = "dresden/Leuben"
-	grid[1][9][10] = "dresden/Hosterwitz"
+	grid[2][0][8] = "meissen/Nossen"
+	grid[2][1][8] = "meissen/Deutschenbora"
+	grid[2][2][8] = "meissen/Tanneberg"
+	grid[2][3][8] = "meissen/Limbach"
+	grid[2][4][8] = "meissen/Wilsdruff"
+	grid[2][5][8] = "meissen/Unkersdorf"
+	grid[2][6][8] = "dresden/Dresden Kreuzkirche"
+	grid[2][7][8] = "dresden/Dresden Frauenkirche"
+	grid[2][8][8] = "dresden/Loschwitz"
 
-	grid[1][0][11] = "freiberg/Großschirma"
-	grid[1][1][11] = "freiberg/Krummenhennersdorf"
-	grid[1][2][11] = "freiberg/Niederschöna"
-	grid[1][3][11] = "meissen/Mohorn"
-	grid[1][4][11] = "dippoldiswalde/Fördergersdorf"
-	grid[1][5][11] = "dippoldiswalde/Tharandt"
-	grid[1][6][11] = "dippoldiswalde/Deuben"
-	grid[1][8][11] = "dresden/Lockwitz"
+	grid[2][0][9] = "meissen/Siebenlehn"
+	grid[2][1][9] = "meissen/Hirschfeld"
+	grid[2][2][9] = "meissen/Neukirchen"
+	grid[2][3][9] = "meissen/Blankenstein"
+	grid[2][4][9] = "meissen/Grumbach"
+	grid[2][5][9] = "meissen/Kesselsdorf"
+	grid[2][6][9] = "dippoldiswalde/Pesterwitz"
+	grid[2][7][9] = "dresden/Dresden Annenkirche"
+	grid[2][8][9] = "dresden/Dresden Böhmische Exulantengemeinde"
+	grid[2][9][9] = "dresden/Schönfeld"
 
-	grid[1][0][12] = "freiberg/Langhennersdorf"
-	grid[1][1][12] = "freiberg/Tuttendorf"
-	grid[1][2][12] = "freiberg/Conradsdorf"
-	grid[1][3][12] = "freiberg/Naundorf"
-	grid[1][4][12] = "dippoldiswalde/Dorfhain"
-	grid[1][5][12] = "dippoldiswalde/Somsdorf"
-	grid[1][6][12] = "dippoldiswalde/Rabenau"
-	grid[1][7][12] = "dippoldiswalde/Possendorf"
-	grid[1][8][12] = "dresden/Röhrsdorf"
+	grid[2][0][10] = "meissen/Obergruna"
+	grid[2][1][10] = "meissen/Bieberstein"
+	grid[2][2][10] = "meissen/Reinsberg"
+	grid[2][3][10] = "meissen/Dittmannsdorf"
+	grid[2][4][10] = "meissen/Herzogswalde"
+	grid[2][5][10] = "dippoldiswalde/Döhlen"
+	grid[2][6][10] = "dresden/Plauen"
+	grid[2][7][10] = "dresden/Leubnitz"
+	grid[2][8][10] = "dresden/Leuben"
+	grid[2][9][10] = "dresden/Hosterwitz"
 
-	grid[1][0][13] = "freiberg/Bräunsdorf"
-	grid[1][1][13] = "freiberg/Freiberg Dom St. Marien"
-	grid[1][2][13] = "freiberg/Freiberg St. Nikolai"
-	grid[1][4][13] = "dippoldiswalde/Klingenberg"
-	grid[1][5][13] = "dippoldiswalde/Höckendorf"
-	grid[1][6][13] = "dippoldiswalde/Seifersdorf"
-	grid[1][8][13] = "dippoldiswalde/Kreischa"
+	grid[2][0][11] = "freiberg/Großschirma"
+	grid[2][1][11] = "freiberg/Krummenhennersdorf"
+	grid[2][2][11] = "freiberg/Niederschöna"
+	grid[2][3][11] = "meissen/Mohorn"
+	grid[2][4][11] = "dippoldiswalde/Fördergersdorf"
+	grid[2][5][11] = "dippoldiswalde/Tharandt"
+	grid[2][6][11] = "dippoldiswalde/Deuben"
+	grid[2][8][11] = "dresden/Lockwitz"
 
-	grid[1][0][14] = "freiberg/Kleinwaltersdorf"
-	grid[1][1][14] = "freiberg/Freiberg St. Petri"
-	grid[1][2][14] = "freiberg/Freiberg St. Jacobi"
-	grid[1][3][14] = "freiberg/Hilbersdorf"
-	grid[1][4][14] = "dippoldiswalde/Colmnitz"
-	grid[1][5][14] = "dippoldiswalde/Ruppendorf"
-	grid[1][6][14] = "dippoldiswalde/Dippoldiswalde"
-	grid[1][7][14] = "dippoldiswalde/Reinhardtsgrimma"
+	grid[2][0][12] = "freiberg/Langhennersdorf"
+	grid[2][1][12] = "freiberg/Tuttendorf"
+	grid[2][2][12] = "freiberg/Conradsdorf"
+	grid[2][3][12] = "freiberg/Naundorf"
+	grid[2][4][12] = "dippoldiswalde/Dorfhain"
+	grid[2][5][12] = "dippoldiswalde/Somsdorf"
+	grid[2][6][12] = "dippoldiswalde/Rabenau"
+	grid[2][7][12] = "dippoldiswalde/Possendorf"
+	grid[2][8][12] = "dresden/Röhrsdorf"
 
-	grid[1][0][15] = "freiberg/Kleinschirma"
-	grid[1][1][15] = "freiberg/Freiberg St. Johannis"
-	grid[1][2][15] = "freiberg/Freiberg"
-	grid[1][3][15] = "freiberg/Niederbobritzsch"
-	grid[1][6][15] = "dippoldiswalde/Reichstädt"
+	grid[2][0][13] = "freiberg/Bräunsdorf"
+	grid[2][1][13] = "freiberg/Freiberg Dom St. Marien"
+	grid[2][2][13] = "freiberg/Freiberg St. Nikolai"
+	grid[2][4][13] = "dippoldiswalde/Klingenberg"
+	grid[2][5][13] = "dippoldiswalde/Höckendorf"
+	grid[2][6][13] = "dippoldiswalde/Seifersdorf"
+	grid[2][8][13] = "dippoldiswalde/Kreischa"
 
-	grid[1][0][16] = "freiberg/Oberschöna"
-	grid[1][1][16] = "freiberg/Erbisdorf"
-	grid[1][2][16] = "freiberg/Berthelsdorf"
-	grid[1][3][16] = "freiberg/Weißenborn"
-	grid[1][4][16] = "freiberg/Oberbobritzsch"
-	grid[1][5][16] = "dippoldiswalde/Pretzschendorf"
-	grid[1][8][16] = "dippoldiswalde/Glashütte"
+	grid[2][0][14] = "freiberg/Kleinwaltersdorf"
+	grid[2][1][14] = "freiberg/Freiberg St. Petri"
+	grid[2][2][14] = "freiberg/Freiberg St. Jacobi"
+	grid[2][3][14] = "freiberg/Hilbersdorf"
+	grid[2][4][14] = "dippoldiswalde/Colmnitz"
+	grid[2][5][14] = "dippoldiswalde/Ruppendorf"
+	grid[2][6][14] = "dippoldiswalde/Dippoldiswalde"
+	grid[2][7][14] = "dippoldiswalde/Reinhardtsgrimma"
 
-	grid[1][0][17] = "freiberg/Langenau"
-	grid[1][1][17] = "freiberg/Weigmannsdorf"
-	grid[1][2][17] = "freiberg/Lichtenberg"
-	grid[1][3][17] = "dippoldiswalde/Burkersdorf"
-	grid[1][4][17] = "dippoldiswalde/Hartmannsdorf"
-	grid[1][5][17] = "dippoldiswalde/Hennersdorf"
-	grid[1][6][17] = "dippoldiswalde/Sadisdorf"
-	grid[1][7][17] = "dippoldiswalde/Schmiedeberg"
-	grid[1][8][17] = "dippoldiswalde/Johnsbach"
-	grid[1][9][17] = "dippoldiswalde/Dittersdorf"
+	grid[2][0][15] = "freiberg/Kleinschirma"
+	grid[2][1][15] = "freiberg/Freiberg St. Johannis"
+	grid[2][2][15] = "freiberg/Freiberg"
+	grid[2][3][15] = "freiberg/Niederbobritzsch"
+	grid[2][6][15] = "dippoldiswalde/Reichstädt"
 
-	grid[1][0][18] = "freiberg/Gränitz"
-	grid[1][1][18] = "freiberg/Großhartmannsdorf"
-	grid[1][2][18] = "freiberg/Helbigsdorf"
-	grid[1][3][18] = "freiberg/Mulda"
-	grid[1][4][18] = "dippoldiswalde/Frauenstein"
-	grid[1][5][18] = "dippoldiswalde/Schönfeld"
-	grid[1][7][18] = "dippoldiswalde/Bärenstein"
-	grid[1][8][18] = "dippoldiswalde/Lauenstein"
-	grid[1][9][18] = "dippoldiswalde/Liebenau"
+	grid[2][0][16] = "freiberg/Oberschöna"
+	grid[2][1][16] = "freiberg/Erbisdorf"
+	grid[2][2][16] = "freiberg/Berthelsdorf"
+	grid[2][3][16] = "freiberg/Weißenborn"
+	grid[2][4][16] = "freiberg/Oberbobritzsch"
+	grid[2][5][16] = "dippoldiswalde/Pretzschendorf"
+	grid[2][8][16] = "dippoldiswalde/Glashütte"
 
-	grid[1][1][19] = "freiberg/Zethau"
-	grid[1][2][19] = "freiberg/Dorfchemnitz"
-	grid[1][3][19] = "dippoldiswalde/Dittersbach"
-	grid[1][4][19] = "dippoldiswalde/Nassau"
-	grid[1][5][19] = "dippoldiswalde/Hermsdorf"
-	grid[1][6][19] = "dippoldiswalde/Schellerhau"
-	grid[1][7][19] = "dippoldiswalde/Altenberg"
-	grid[1][8][19] = "dippoldiswalde/Geising"
-	grid[1][9][19] = "dippoldiswalde/Fürstenwalde"
+	grid[2][0][17] = "freiberg/Langenau"
+	grid[2][1][17] = "freiberg/Weigmannsdorf"
+	grid[2][2][17] = "freiberg/Lichtenberg"
+	grid[2][3][17] = "dippoldiswalde/Burkersdorf"
+	grid[2][4][17] = "dippoldiswalde/Hartmannsdorf"
+	grid[2][5][17] = "dippoldiswalde/Hennersdorf"
+	grid[2][6][17] = "dippoldiswalde/Sadisdorf"
+	grid[2][7][17] = "dippoldiswalde/Schmiedeberg"
+	grid[2][8][17] = "dippoldiswalde/Johnsbach"
+	grid[2][9][17] = "dippoldiswalde/Dittersdorf"
 
-	grid[1][1][20] = "freiberg/Voigtsdorf"
-	grid[1][2][20] = "freiberg/Sayda"
-	grid[1][3][20] = "freiberg/Clausnitz"
-	grid[1][4][20] = "freiberg/Cämmerswalde"
-	grid[1][8][20] = "dippoldiswalde/Fürstenau"
+	grid[2][0][18] = "freiberg/Gränitz"
+	grid[2][1][18] = "freiberg/Großhartmannsdorf"
+	grid[2][2][18] = "freiberg/Helbigsdorf"
+	grid[2][3][18] = "freiberg/Mulda"
+	grid[2][4][18] = "dippoldiswalde/Frauenstein"
+	grid[2][5][18] = "dippoldiswalde/Schönfeld"
+	grid[2][7][18] = "dippoldiswalde/Bärenstein"
+	grid[2][8][18] = "dippoldiswalde/Lauenstein"
+	grid[2][9][18] = "dippoldiswalde/Liebenau"
 
-	grid[2][2][8] = "bautzen/Bautzen"
-	grid[2][3][8] = "bautzen/Bautzen Dom"
+	grid[2][1][19] = "freiberg/Zethau"
+	grid[2][2][19] = "freiberg/Dorfchemnitz"
+	grid[2][3][19] = "dippoldiswalde/Dittersbach"
+	grid[2][4][19] = "dippoldiswalde/Nassau"
+	grid[2][5][19] = "dippoldiswalde/Hermsdorf"
+	grid[2][6][19] = "dippoldiswalde/Schellerhau"
+	grid[2][7][19] = "dippoldiswalde/Altenberg"
+	grid[2][8][19] = "dippoldiswalde/Geising"
+	grid[2][9][19] = "dippoldiswalde/Fürstenwalde"
 
-	grid[2][2][9] = "bautzen/Bautzen St. Michael"
-	grid[2][3][9] = "bautzen/Bautzen St. Petri"
+	grid[2][1][20] = "freiberg/Voigtsdorf"
+	grid[2][2][20] = "freiberg/Sayda"
+	grid[2][3][20] = "freiberg/Clausnitz"
+	grid[2][4][20] = "freiberg/Cämmerswalde"
+	grid[2][8][20] = "dippoldiswalde/Fürstenau"
+
+	grid[3][2][8] = "bautzen/Bautzen"
+	grid[3][3][8] = "bautzen/Bautzen Dom"
+
+	grid[3][2][9] = "bautzen/Bautzen St. Michael"
+	grid[3][3][9] = "bautzen/Bautzen St. Petri"
 
 	raw := "https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/"
 
@@ -352,7 +385,10 @@ func (h *searchComp) Render() app.UI {
 				app.Td().Body(
 					app.Div().Body(
 						app.H2().Body(app.Text("Onlinesuche im Trauindex")),
-						app.H3().Body(app.Text("Dresden-Meißen-Freiberg-Dippoldiswalde (+Teile von Torgau und Bautzen)")),
+						app.H3().Body(app.Text("Dresden-Meißen-Freiberg-Dippoldiswalde")),
+						app.Label().Text("(+Teile von Auerbach, Torgau und Bautzen)"),
+						app.Br(),
+						app.Br(),
 						app.Label().Text("Jahr Min "),
 						app.Input().Type("range").Attr("min", config.YearMin).Attr("max", config.YearMax).OnChange(h.ValueTo(&h.slideValueMin)).Value(h.slideValueMin).Attr("style", "width: 600px"),
 						app.Label().Text(h.slideValueMin),
@@ -398,13 +434,15 @@ func (h *searchComp) Render() app.UI {
 				),
 			),
 		),
-		app.Td().Body(app.Button().Disabled(h.displayTab[0] == "block").Text("TO").OnClick(h.tab0).Title("Torgau")),
-		app.Td().Body(app.Button().Disabled(h.displayTab[1] == "block").Text("DD-MEI-FG-DW").OnClick(h.tab1).Title("Dresden-Meißen-Freiberg-Dippoldiswalde")),
-		app.Td().Body(app.Button().Disabled(h.displayTab[2] == "block").Text("BZ").OnClick(h.tab2).Title("Bautzen")),
+		app.Td().Body(app.Button().Disabled(h.displayTab[0] == "block").Text("AU").OnClick(h.tab0).Title("Auerbach")),
+		app.Td().Body(app.Button().Disabled(h.displayTab[1] == "block").Text("TO").OnClick(h.tab1).Title("Torgau")),
+		app.Td().Body(app.Button().Disabled(h.displayTab[2] == "block").Text("DD-MEI-FG-DW").OnClick(h.tab2).Title("Dresden-Meißen-Freiberg-Dippoldiswalde")),
+		app.Td().Body(app.Button().Disabled(h.displayTab[3] == "block").Text("BZ").OnClick(h.tab3).Title("Bautzen")),
 		app.Table().Body(
 			getTabContent(h, 0, cbs),
 			getTabContent(h, 1, cbs),
 			getTabContent(h, 2, cbs),
+			getTabContent(h, 3, cbs),
 		),
 		app.P().Body(
 			app.Input().Type("text").Placeholder("Vorname Nachname").AutoFocus(true).OnChange(h.ValueTo(&h.searchValue)).Attr("style", "width: 250px"),
@@ -500,10 +538,10 @@ func (h *searchComp) Render() app.UI {
 		app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 		app.Br(),
 		app.Br(),
-		app.H3().Body().Text(" v1.12 (Dezember 2025) latest updates:"),
+		app.H3().Body().Text(" v1.12 (Januar 2026) latest updates:"),
 		app.Label().Text("Einige Trauungen aus dem Gebiet Torgau hinzugefügt"),
 		app.Br(),
-		app.Label().Text("Verlinkungen zu Familysearch und Matricula verbessert"),
+		app.Label().Text("Trauungen aus Auerbach(Stadt) hinzugefügt"),
 		app.Br(),
 		app.Label().Text("kleine Fehlerkorrekturen"),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")

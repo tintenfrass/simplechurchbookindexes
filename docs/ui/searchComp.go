@@ -129,8 +129,14 @@ func (h *searchComp) plusminus(value bool, k string) {
 
 func isValid(tab int, prefix string) bool {
 	switch {
-	case strings.HasPrefix(prefix, "torgau-delitzsch/"):
+	case strings.HasPrefix(prefix, "auerbach/"):
 		if tab == 0 {
+			return true
+		}
+	case strings.HasPrefix(prefix, "torgau-delitzsch/"):
+		fallthrough
+	case strings.HasPrefix(prefix, "bad-liebenwerda/"):
+		if tab == 1 {
 			return true
 		}
 	case strings.HasPrefix(prefix, "dresden/"):
@@ -140,11 +146,11 @@ func isValid(tab int, prefix string) bool {
 	case strings.HasPrefix(prefix, "freiberg/"):
 		fallthrough
 	case strings.HasPrefix(prefix, "dippoldiswalde/"):
-		if tab == 1 {
+		if tab == 2 {
 			return true
 		}
 	case strings.HasPrefix(prefix, "bautzen/"):
-		if tab == 2 {
+		if tab == 3 {
 			return true
 		}
 	}
@@ -182,6 +188,10 @@ func (h *searchComp) tab1(ctx app.Context, e app.Event) {
 
 func (h *searchComp) tab2(ctx app.Context, e app.Event) {
 	h.showTab(2)
+}
+
+func (h *searchComp) tab3(ctx app.Context, e app.Event) {
+	h.showTab(3)
 }
 
 // show tab
