@@ -4,21 +4,21 @@
     <meta charset="UTF-8">
     <meta name="author">
     <meta name="description" content="Onlinesuche zum Trauindex">
-    <meta content="#2d2c2c" name="theme-color">
-    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#2d2c2c">
+    <meta content="width=device-width, initial-scale=1, viewport-fit=cover" name="viewport">
     <meta name="mobile-web-app-capable" content="yes">
     <meta property="og:url" content="https:///simplechurchbookindexes">
     <meta property="og:title" content="Trauindex Sachsen">
     <meta property="og:description" content="Onlinesuche zum Trauindex">
-    <meta property="og:type" content="website">
+    <meta content="website" property="og:type">
     <meta property="og:image" content="https://">
     <title>Trauindex Sachsen</title>
     <link rel="icon" href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.svg">
     <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png">
     <link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
-    <link rel="stylesheet" href="/simplechurchbookindexes/app.css" type="text/css">
+    <link href="/simplechurchbookindexes/app.css" type="text/css" rel="stylesheet">
     <script defer src="/simplechurchbookindexes/wasm_exec.js"></script>
-    <script defer src="/simplechurchbookindexes/app.js"></script>
+    <script src="/simplechurchbookindexes/app.js" defer></script>
     <!-- Google tag (gtag.js) -->
 			<script async src="https://www.googletagmanager.com/gtag/js?id=G-S2D2V6SHXE"></script>
 			<script>
@@ -41,11 +41,11 @@
               <br>
               <br>
               <label>Jahr Min </label>
-              <input type="range" min="1541" max="1875" value="0" style="width: 600px">
+              <input value="0" style="width: 600px" type="range" min="1541" max="1875">
               <label>0</label>
               <br>
               <label>Jahr Max </label>
-              <input type="range" min="1541" max="1875" value="0" style="width: 600px">
+              <input style="width: 600px" type="range" min="1541" max="1875" value="0">
               <label>0</label>
               <br>
               <br>
@@ -67,7 +67,7 @@
                  ----&gt; mehr Treffer, sehr langsam, nicht für große Suchen geeignet
               </div>
               <div title="Die OSA-Variante von DamerauLevenshtein, ohne Vorfilterung">
-                <input name="algo" type="radio" checked="false">
+                <input type="radio" checked="false" name="algo">
                 OSA
                  ----&gt; einfacher und schneller als DamerauLevenshtein
               </div>
@@ -86,7 +86,7 @@
         </tr>
       </table>
       <td>
-        <button disabled="false" title="Auerbach">AU</button>
+        <button title="Auerbach" disabled="false">AU</button>
       </td>
       <td>
         <button disabled="false" title="Torgau">TO</button>
@@ -1250,7 +1250,7 @@
       <br>
       <label>kleine Fehlerkorrekturen</label>
     </div>
-    <aside class="goapp-app-info" id="app-wasm-loader">
+    <aside id="app-wasm-loader" class="goapp-app-info">
       <img alt="wasm loader icon" src="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png" id="app-wasm-loader-icon" class="goapp-logo goapp-spin">
       <p id="app-wasm-loader-label" class="goapp-label">0%</p>
     </aside>

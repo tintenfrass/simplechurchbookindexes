@@ -585,7 +585,7 @@ func (h *searchComp) OnMount(ctx app.Context) {
 	//set defaults, slider and checkboxes
 	h.slideValueMin = config.YearMin
 	h.slideValueMax = config.YearMax
-	h.activeTab = 1
+	h.activeTab = 2
 
 	count := 0
 	h.checked = make(map[int]map[string]bool)
