@@ -29,7 +29,8 @@ Friedrich Bayer
 Christian Bernhard
 1683
 Christoph Bernhard
-1696 Christoph Berndt
+1696
+Christoph Berndt
 1681
 Georg Bernhard
 1695
@@ -48,12 +49,14 @@ Christian Böhm
 Georg Böhm
 1681
 Hans Böhm
-1667 Hans Böhm
+1667
+Hans Böhm
 1721
 Hans Böhm
 1726
 Hans Georg Böhm
-1676 Michael Böhm
+1676
+Michael Böhm
 1704
 Michael Böhm
 1727
@@ -1430,7 +1433,8 @@ Georg Schmalfuß
 Gottfried Schmalfuß
 1687
 Hans Schmalfuß
-1696 Johann Schmalfuß
+1696
+Johann Schmalfuß
 1712
 Johann Heinrich Schmalfuß
 1690

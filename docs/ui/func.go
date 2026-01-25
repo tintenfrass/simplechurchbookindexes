@@ -1,6 +1,8 @@
 package ui
 
-import "strings"
+import (
+	"strings"
+)
 
 func replace(input string) (output string) {
 	output = input
@@ -56,21 +58,6 @@ func getColor(distant int) (color string) {
 		color = "red"
 	}
 
-	return
-}
-
-func getPos(tab int, key string) (posi, posj int) {
-	posi = -1
-	posj = -1
-	for i := 0; i < cols; i++ {
-		for j := 0; j < rows; j++ {
-			if grid[tab][i][j] == key {
-				posi = i
-				posj = j
-				break
-			}
-		}
-	}
 	return
 }
 

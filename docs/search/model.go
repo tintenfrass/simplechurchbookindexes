@@ -1,8 +1,9 @@
 package search
 
 import (
-	"onlinefuzzysearch/config"
 	"strconv"
+
+	"onlinefuzzysearch/config"
 )
 
 type fullData struct {

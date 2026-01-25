@@ -103,7 +103,7 @@ func (h *searchComp) search(ctx app.Context, e app.Event) {
 func (h *searchComp) plusminus(value bool, k string) {
 	posi, posj := getPos(h.activeTab, k)
 
-	for r := 0; r < 42; r++ {
+	for r := 0; r < plusminusrange; r++ {
 		next := true
 		for i := 0; i < cols+r; i++ {
 			if i >= posi-r && i <= posi+r {
@@ -127,35 +127,19 @@ func (h *searchComp) plusminus(value bool, k string) {
 	}
 }
 
-func isValid(tab int, prefix string) bool {
-	switch {
-	case strings.HasPrefix(prefix, "auerbach/"):
-		if tab == 0 {
-			return true
-		}
-	case strings.HasPrefix(prefix, "torgau-delitzsch/"):
-		fallthrough
-	case strings.HasPrefix(prefix, "bad-liebenwerda/"):
-		if tab == 1 {
-			return true
-		}
-	case strings.HasPrefix(prefix, "dresden/"):
-		fallthrough
-	case strings.HasPrefix(prefix, "meissen/"):
-		fallthrough
-	case strings.HasPrefix(prefix, "freiberg/"):
-		fallthrough
-	case strings.HasPrefix(prefix, "dippoldiswalde/"):
-		if tab == 2 {
-			return true
-		}
-	case strings.HasPrefix(prefix, "bautzen/"):
-		if tab == 3 {
-			return true
+func getPos(tab int, key string) (posi, posj int) {
+	posi = -1
+	posj = -1
+	for i := 0; i < cols; i++ {
+		for j := 0; j < rows; j++ {
+			if grid[tab][i][j] == key {
+				posi = i
+				posj = j
+				break
+			}
 		}
 	}
-
-	return false
+	return
 }
 
 // Button show all
@@ -178,22 +162,6 @@ func (h *searchComp) nothing(ctx app.Context, e app.Event) {
 	}
 }
 
-func (h *searchComp) tab0(ctx app.Context, e app.Event) {
-	h.showTab(0)
-}
-
-func (h *searchComp) tab1(ctx app.Context, e app.Event) {
-	h.showTab(1)
-}
-
-func (h *searchComp) tab2(ctx app.Context, e app.Event) {
-	h.showTab(2)
-}
-
-func (h *searchComp) tab3(ctx app.Context, e app.Event) {
-	h.showTab(3)
-}
-
 // show tab
 func (h *searchComp) showTab(nr int) {
 	for key, _ := range h.displayTab {
@@ -204,4 +172,22 @@ func (h *searchComp) showTab(nr int) {
 		}
 	}
 	h.activeTab = nr
+}
+
+// determines if location is valid for a given tab
+func isValid(tab int, value string) bool {
+	r, ok := grid[tab]
+	if !ok {
+		return false
+	}
+
+	for _, c := range r {
+		for _, name := range c {
+			if name == value {
+				return true
+			}
+		}
+	}
+
+	return false
 }
