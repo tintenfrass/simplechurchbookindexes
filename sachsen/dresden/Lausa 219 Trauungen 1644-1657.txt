@@ -15,29 +15,27 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 ---------------- x80
 1644
-Hans Cleinberg?
+Hans Grünberg
 Hans Meißner
 Martin Tzschiederich
 ----------------
 Christoph Mentzel
-Martin Thermann?
+Martin Thieme
 Martin Fleischer
 Martin Schmidt
 1645
 Mattheus Careß
-Christoph Lepdold?
+Christoph Leydold
 Hans Schütze
 Martin Schütze
 ----------------
 1646
 Martin Dronicke
 Hans Thamme
-x
 Martin Kästner
 Georg Görner
 ----------------
 Johann Schütze
-x
 1647
 Johann Schütze
 Christoph Dreßler
@@ -47,24 +45,24 @@ Martin Beutler
 Martin Johne
 1648
 Christoph Meißner
-Georg Kitzschlich?
+Georg Kutzschlich
 Caspar Mildner
 Hans Pfützner
 Christoph Günther
-Christoph Thürmig
+Christoph Thüring
 ----------------
-Georg Dietze?
-Mattheus? Leßig
+Georg Dile
+Martin Leßig
 Christian Kästner
-1749
+1649
 Hans Hörnig
-Martin Beutler?
+Martin Beutler
 Martin Wagner
-Georg Löckeritz?
+Georg Göckeritz
 ----------------
-Hans Miblsche?
-Martin Grege?
-Andreas H?
+Hans Schile
+Martin Göckeritz
+Andreas Hirdt
 Georg Hummel
 1650
 Michael Meißner
@@ -72,7 +70,7 @@ Andreas Görner
 ----------------
 Michael Kühne
 1651
-Elias Wenzel?
+Elias Untenzu
 Georg Schütze
 Gregor Lesche
 1652
@@ -90,7 +88,7 @@ Andreas Wagner
 Martin Richter
 1654
 Georg Leßig
-Georg K?
+Georg Riemer
 Christoph Dreßler
 Wenzel Rochner
 Paul Meschke
@@ -98,17 +96,18 @@ Paul Meschke
 Christoph Leßig
 1655
 Georg Hantzsche
-Johann Löher?
-Peter Ringel?
+Johann Lohe
+Peter Ringel
 Michael Bergman
-Hans Mentzsch
+Hans Mentzel
 ----------------
-Georg Kirschten?
+Georg Kirscht
 1656
-Michael Schincke
+Michael Schindler
 Martin Klotzsche
-Georg Burckhart
-Christoph Arlde?
+Georg Burckhard
+Christoph Arldt
 ----------------
 Georg Schütze
-Georg Hemmel?
+Friedrich Schuster
+Georg Hummel
