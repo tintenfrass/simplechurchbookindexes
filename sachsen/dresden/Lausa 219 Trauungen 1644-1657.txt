@@ -15,99 +15,100 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 ---------------- x80
 1644
-Hans Grünberg
-Hans Meißner
-Martin Tzschiederich
+Hans Grünberg | Barbara Kutzschlich
+Hans Meißner | Katharina Grafen
+Christoph Tzschiederich | Maria Hillbrandt
 ----------------
-Christoph Mentzel
-Martin Thieme
-Martin Fleischer
-Martin Schmidt
+Christoph Mentzel | Barbara Pretzschen
+Merten Thieme | Maria Mentzels
+Martin Fleischer | Maria Schütz
+Merten Schmid | Martha Johnen
 1645
-Mattheus Careß
-Christoph Leydold
-Hans Schütze
-Martin Schütze
+Matthes Careß | Maria Thammen
+Christoph Leydold | Maria Creutzen
+Hans Schütze | Anna Dronicken
+Martin Schütze | Martha ?
 ----------------
 1646
-Martin Dronicke
-Hans Thamme
-Martin Kästner
-Georg Görner
+Martin Dronicke | Margareta Kottens
+Hans Thamme | Martha Clarin
+Martin Kästner | Sophia Köhler
+Georgius Görner | Anna Maria Mätzner
 ----------------
-Johann Schütze
+Johann Schütze | Martha Claren
 1647
-Johann Schütze
-Christoph Dreßler
-Martin Meißner
-Martin Beutler
+Johann Schütze | Katharina Gebler
+Christoph Dreßler | Barbara Grütze
+Merten Meißner | Barbara Fleischer
+Merten Beutler | Barbara Johnen
 ----------------
-Martin Johne
+Martin Johne | Anna Thammen
 1648
-Christoph Meißner
-Georg Kutzschlich
-Caspar Mildner
-Hans Pfützner
-Christoph Günther
-Christoph Thüring
+Christoph Meißner | Martha ?
+Georg Kutzschlich | Maria Schröder
+Caspar Mildner | Anna Maria Thamme
+Hans Pfützner | Anna Rudolphs
+Caspar Günther | Barbara Fleischer
+Christoph Thüring | Maria Leschen
+Martin Thamme | Anna Clare
 ----------------
-Georg Dile
-Martin Leßig
-Christian Kästner
+Georg Dile | Anna Tzschiederich
+Martin Leßig | Martha Riemer
+Christian Kästner | Martha Schütz
 1649
-Hans Hörnig
-Martin Beutler
-Martin Wagner
-Georg Göckeritz
+Hans Hörnig | Anna Pietzsche
+Merten Beutler | Maria Grütze
+Merten Wagner | Katharina Eger
+Georg Göckeritz | Martha Grafe
 ----------------
-Hans Schile
-Martin Göckeritz
-Andreas Hirdt
-Georg Hummel
+Hans Schile  Maria | Wagner
+Martin Göckeritz | Gertraude Keulings
+Andreas Hirdt | Maria Hauffen
+Georg Hummel | Margaretha Philips
 1650
-Michael Meißner
-Andreas Görner
+Michael Meißner | Anna Keßler
+Andreas Görner | Sara Schönfeldt
 ----------------
-Michael Kühne
+Michael Kühne | Maria Meege
 1651
-Elias Untenzu
-Georg Schütze
-Gregor Lesche
+Elias Untenzu | Dorothea Burghardt
+Georg Schütze | Martha Riemer
+Gregor Lesche | Anna Fleischer
 1652
-Tobias Richter
-Christoph Schütze
+Tobias Richter | Maria Mentzel
+Christoph Schütze | Maria Schütze
 ----------------
-Christoph Habedanck
-Peter Dreßler
-Hans Thalheim
-Christoph Großmann
+Christoph Habedanck | Margaretha Schütze
+Peter Dreßler | Anna Mentzel
+Hans Thalheim | Gertraude Schütze
+Christoph Großmann | Anna Hirschen
 1653
-Martin Petzold
-Andreas Wagner
+Martin Petzoldt | Anna Schütze
+Andreas Wagner | Anna Petri Schütze
 ----------------
-Martin Richter
+Martin Richter | Martha Pfützner
 1654
-Georg Leßig
-Georg Riemer
-Christoph Dreßler
-Wenzel Rochner
-Paul Meschke
+Georg Leßig | Martha Grützen
+Georg Riemer | Maria Burckhardt
+Christoph Dreßler | Martha Schmid
+Wenzel Rochner | Anna Zaschlin
+Paul Meschke | Maria Magdalena Pelech
 ----------------
-Christoph Leßig
+Christoph Leßig | Anna Leydold
 1655
-Georg Hantzsche
-Johann Lohe
-Peter Ringel
-Michael Bergman
-Hans Mentzel
+Georg Hantzsche | Magdalena Rudolph
+Johann Lohe | Martha Heyden
+Peter Ringel | Maria Biener
+Michael Bergman | Maria Grünberg
+Hans Mentzel | Anna Mentzel
 ----------------
-Georg Kirscht
+Georg Kirscht | Anna Riemer
 1656
-Michael Schindler
-Martin Klotzsche
-Georg Burckhard
-Christoph Arldt
+Michael Schindler | Maria Türcke
+Martin Klotzsche | Christina Großmann
+Georg Burckhard | Gertraude Keuling
+Christoph Arldt | Anna Mentzel
 ----------------
-Georg Schütze
-Friedrich Schuster
-Georg Hummel
+Georg Schütze | Ortha Gebauer
+Friedrich Schuster | Martha Schütz
+Georg Hummel | Anna Kotte
