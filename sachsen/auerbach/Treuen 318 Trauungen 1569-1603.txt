@@ -58,6 +58,8 @@ Adam Döltz
 1602
 Simon Döler
 ----------------
+1576
+Gottfried Dresel
 1574
 Christoph Eisenreich
 1575
@@ -866,6 +868,8 @@ Lorenz Schmidt
 ----------------
 ----------------
 ----------------
+1582
+Merten Schaller
 1569
 Caspar Taudt
 1570
@@ -975,6 +979,8 @@ Paul Wolf
 Jacob Winkelmann
 ----------------
 ----------------
+1578
+Hans Wolff
 1570
 Hans Zenker
 1573
