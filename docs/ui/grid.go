@@ -17,10 +17,27 @@ func initGrid() {
 	}
 
 	//Tab 0
+	grid[0][2][5] = "auerbach/Irfersgrün"
+
+	grid[0][1][6] = "auerbach/Waldkirchen"
+
+	grid[0][1][7] = "auerbach/Lengenfeld"
+	grid[0][2][7] = "auerbach/Plohn"
+
+	grid[0][0][8] = "auerbach/Treuen"
+	grid[0][2][8] = "auerbach/Rodewisch"
+	grid[0][3][8] = "auerbach/Rothenkirchen"
+
 	grid[0][2][9] = "auerbach/Auerbach"
 
 	grid[0][0][10] = "auerbach/Bergen"
 	grid[0][1][10] = "auerbach/Falkenstein"
+	grid[0][3][10] = "auerbach/Rautenkranz"
+
+	grid[0][0][11] = "auerbach/Werda"
+
+	grid[0][2][12] = "auerbach/Zwota"
+	grid[0][3][12] = "auerbach/Klingenthal"
 
 	//Tab 1
 	grid[1][2][8] = "torgau-delitzsch/Dommitzsch"

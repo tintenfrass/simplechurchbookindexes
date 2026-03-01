@@ -16,7 +16,7 @@
     <link rel="icon" href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.svg">
     <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png">
     <link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
-    <link href="/simplechurchbookindexes/app.css" type="text/css" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="/simplechurchbookindexes/app.css">
     <script defer src="/simplechurchbookindexes/wasm_exec.js"></script>
     <script defer src="/simplechurchbookindexes/app.js"></script>
     <!-- Google tag (gtag.js) -->
@@ -35,13 +35,12 @@
         <tr>
           <td>
             <div>
-              <h2>Onlinesuche im Trauindex</h2>
-              <h3>Dresden-Meißen-Freiberg-Dippoldiswalde</h3>
-              <label>(+Teile von Auerbach, Torgau und Bautzen)</label>
+              <h2>Onlinesuche im Trauindex Sachsen</h2>
+              <label>Bisher erfasst: Dresden Meißen Freiberg Dippoldiswalde Auerbach (+Teile von Torgau und Bautzen)</label>
               <br>
               <br>
               <label>Jahr Min </label>
-              <input type="range" min="1541" max="1875" value="0" style="width: 600px">
+              <input min="1541" max="1875" value="0" style="width: 600px" type="range">
               <label>0</label>
               <br>
               <label>Jahr Max </label>
@@ -77,7 +76,7 @@
                  ----&gt; einfacher und schneller als OSA
               </div>
               <div title="Der einzige Algorithmus ohne Ähnlichkeitssuche sondern klassisch nach einer festen Buchstabenkombination.">
-                <input type="radio" checked="false" name="algo">
+                <input checked="false" name="algo" type="radio">
                 Klassisch
                  ----&gt; sucht buchstabengenau nach dem Suchtext innerhalb des Namens.
               </div>
@@ -96,7 +95,7 @@
           <button disabled title="Dresden-Meißen-Freiberg-Dippoldiswalde">DD-MEI-FG-DW</button>
         </td>
         <td>
-          <button title="Bautzen" disabled="false">BZ</button>
+          <button disabled="false" title="Bautzen">BZ</button>
         </td>
         <table>
           <div style="border:1px solid #D3D3D3;display:none">
@@ -1186,7 +1185,7 @@
        =&gt; Sucht nach der Vornamenskombination Max Moritz mit beliebigem Nachnamen
       <br>
       <b>* Schönberg</b>
-       =&gt; Sucht nach Nachname Schönberg mit beliebigen Vornamen. (Adelige Nachnamen z.B. &#39;von Schönberg&#39; sind im Index ebenfalls als &#39;Schönberg&#39; geführt und können (außer in Torgau) nicht von der nicht-adeligen Variante unterschieden werden)
+       =&gt; Sucht nach Nachname Schönberg mit beliebigen Vornamen. (Adelige Nachnamen z.B. &#39;von Schönberg&#39; sind im Index ebenfalls als &#39;Schönberg&#39; geführt und können (außer in Torgau und Auerbach) nicht von der nicht-adeligen Variante unterschieden werden)
       <br>
       <b>* VitzthumEckstädt</b>
        =&gt; als Bps. für den Nachnamen &#39;Vitzthum von Eckstädt&#39; mit beliebigen Vornamen. (Mehrteilige Nachnamen wurden im Index (außer in Torgau) verkürzt und bestehen immer nur aus einem Wort)
@@ -1245,10 +1244,8 @@
       <a href="https://github.com/tintenfrass/simplechurchbookindexes">https://github.com/tintenfrass/simplechurchbookindexes</a>
       <br>
       <br>
-      <h3> v1.12 (Januar 2026) latest updates:</h3>
-      <label>Einige Trauungen aus dem Gebiet Torgau hinzugefügt</label>
-      <br>
-      <label>Trauungen aus Auerbach(Stadt), Bergen und Falkenstein hinzugefügt</label>
+      <h3> v1.12 (März 2026) latest updates:</h3>
+      <label>Trauungen aus dem Gebiet Auerbach hinzugefügt</label>
       <br>
       <label>kleine Fehlerkorrekturen</label>
     </div>

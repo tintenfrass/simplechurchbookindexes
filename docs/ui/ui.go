@@ -67,9 +67,8 @@ func (h *searchComp) Render() app.UI {
 			app.Tr().Body(
 				app.Td().Body(
 					app.Div().Body(
-						app.H2().Body(app.Text("Onlinesuche im Trauindex")),
-						app.H3().Body(app.Text("Dresden-Meißen-Freiberg-Dippoldiswalde")),
-						app.Label().Text("(+Teile von Auerbach, Torgau und Bautzen)"),
+						app.H2().Body(app.Text("Onlinesuche im Trauindex Sachsen")),
+						app.Label().Text("Bisher erfasst: Dresden Meißen Freiberg Dippoldiswalde Auerbach (+Teile von Torgau und Bautzen)"),
 						app.Br(),
 						app.Br(),
 						app.Label().Text("Jahr Min "),
@@ -155,7 +154,7 @@ func (h *searchComp) Render() app.UI {
 		app.Text(" => Sucht nach der Vornamenskombination Max Moritz mit beliebigem Nachnamen"),
 		app.Br(),
 		app.B().Text("* Schönberg"),
-		app.Text(" => Sucht nach Nachname Schönberg mit beliebigen Vornamen. (Adelige Nachnamen z.B. 'von Schönberg' sind im Index ebenfalls als 'Schönberg' geführt und können (außer in Torgau) nicht von der nicht-adeligen Variante unterschieden werden)"),
+		app.Text(" => Sucht nach Nachname Schönberg mit beliebigen Vornamen. (Adelige Nachnamen z.B. 'von Schönberg' sind im Index ebenfalls als 'Schönberg' geführt und können (außer in Torgau und Auerbach) nicht von der nicht-adeligen Variante unterschieden werden)"),
 		app.Br(),
 		app.B().Text("* VitzthumEckstädt"),
 		app.Text(" => als Bps. für den Nachnamen 'Vitzthum von Eckstädt' mit beliebigen Vornamen. (Mehrteilige Nachnamen wurden im Index (außer in Torgau) verkürzt und bestehen immer nur aus einem Wort)"),
@@ -212,10 +211,8 @@ func (h *searchComp) Render() app.UI {
 		app.A().Href("https://github.com/tintenfrass/simplechurchbookindexes").Text("https://github.com/tintenfrass/simplechurchbookindexes"),
 		app.Br(),
 		app.Br(),
-		app.H3().Body().Text(" v1.12 (Januar 2026) latest updates:"),
-		app.Label().Text("Einige Trauungen aus dem Gebiet Torgau hinzugefügt"),
-		app.Br(),
-		app.Label().Text("Trauungen aus Auerbach(Stadt), Bergen und Falkenstein hinzugefügt"),
+		app.H3().Body().Text(" v1.12 (März 2026) latest updates:"),
+		app.Label().Text("Trauungen aus dem Gebiet Auerbach hinzugefügt"),
 		app.Br(),
 		app.Label().Text("kleine Fehlerkorrekturen"),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
