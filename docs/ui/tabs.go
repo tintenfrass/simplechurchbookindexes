@@ -5,18 +5,19 @@ import (
 )
 
 const (
-	tabs       = 4
-	defaultTab = 2
+	tabs       = 5
+	defaultTab = 3
 )
 
 var tabConfig = []struct {
 	Short string
 	Title string
 }{
-	{Short: "AU", Title: "Auerbach"},
-	{Short: "TO", Title: "Torgau"},
-	{Short: "DD-MEI-FG-DW", Title: "Dresden-Meißen-Freiberg-Dippoldiswalde"},
-	{Short: "BZ", Title: "Bautzen"},
+	{Short: "Auerbach", Title: "Auerbach"},
+	{Short: "̶D̶̶e̶̶l̶̶i̶̶t̶̶z̶̶s̶̶c̶̶h̶ Eilenburg", Title: "Delitzsch fehlt noch..."},
+	{Short: "Torgau", Title: "Torgau"},
+	{Short: "Dresden Meißen Freiberg Dippoldiswalde", Title: "Dresden Meißen Freiberg Dippoldiswalde"},
+	{Short: "Bautzen", Title: "Bautzen (Stadt)"},
 }
 
 func intTabs(h *searchComp) {

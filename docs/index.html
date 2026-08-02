@@ -6,16 +6,16 @@
     <meta name="description" content="Onlinesuche zum Trauindex">
     <meta name="theme-color" content="#2d2c2c">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-    <meta name="mobile-web-app-capable" content="yes">
+    <meta content="yes" name="mobile-web-app-capable">
     <meta property="og:url" content="https:///simplechurchbookindexes">
     <meta property="og:title" content="Trauindex Sachsen">
     <meta property="og:description" content="Onlinesuche zum Trauindex">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="https://">
+    <meta content="https://" property="og:image">
     <title>Trauindex Sachsen</title>
     <link rel="icon" href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.svg">
-    <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png">
-    <link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
+    <link href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png" rel="apple-touch-icon">
+    <link href="/simplechurchbookindexes/manifest.webmanifest" rel="manifest">
     <link type="text/css" rel="stylesheet" href="/simplechurchbookindexes/app.css">
     <script defer src="/simplechurchbookindexes/wasm_exec.js"></script>
     <script defer src="/simplechurchbookindexes/app.js"></script>
@@ -36,15 +36,15 @@
           <td>
             <div>
               <h2>Onlinesuche im Trauindex Sachsen</h2>
-              <label>Bisher erfasst: Dresden Meißen Freiberg Dippoldiswalde Auerbach (+Teile von Torgau und Bautzen)</label>
+              <label>Bisher erfasst: Dresden Meißen Freiberg Dippoldiswalde Auerbach Torgau (+Teile von Eilenburg und Bautzen)</label>
               <br>
               <br>
               <label>Jahr Min </label>
-              <input min="1541" max="1875" value="0" style="width: 600px" type="range">
+              <input type="range" min="1541" max="1875" value="0" style="width: 600px">
               <label>0</label>
               <br>
               <label>Jahr Max </label>
-              <input max="1875" value="0" style="width: 600px" type="range" min="1541">
+              <input style="width: 600px" type="range" min="1541" max="1875" value="0">
               <label>0</label>
               <br>
               <br>
@@ -61,22 +61,22 @@
                  ----&gt; best Kombination aus Geschwindigkeit und Komplexität
               </div>
               <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.3 werden danach mit Soundex umgewandelt und diese dann mit DamerauLevenshtein berechnet. Das ist sehr langsam aber findet viel mehr Treffer. Große Suchen brechen manchmal ab.">
-                <input type="radio" checked="false" name="algo">
+                <input checked="false" name="algo" type="radio">
                 Jaro + Soundex + DamerauLevenshtein
                  ----&gt; mehr Treffer, sehr langsam, nicht für große Suchen geeignet
               </div>
               <div title="Die OSA-Variante von DamerauLevenshtein, ohne Vorfilterung">
-                <input type="radio" checked="false" name="algo">
+                <input name="algo" type="radio" checked="false">
                 OSA
                  ----&gt; einfacher und schneller als DamerauLevenshtein
               </div>
               <div title="einfachere Version von DamerauLevenshtein, ohne Vorfilterung">
-                <input type="radio" checked="false" name="algo">
+                <input checked="false" name="algo" type="radio">
                 Levenshtein
                  ----&gt; einfacher und schneller als OSA
               </div>
               <div title="Der einzige Algorithmus ohne Ähnlichkeitssuche sondern klassisch nach einer festen Buchstabenkombination.">
-                <input checked="false" name="algo" type="radio">
+                <input type="radio" checked="false" name="algo">
                 Klassisch
                  ----&gt; sucht buchstabengenau nach dem Suchtext innerhalb des Namens.
               </div>
@@ -86,18 +86,283 @@
       </table>
       <div>
         <td>
-          <button disabled="false" title="Auerbach">AU</button>
+          <button disabled="false" title="Auerbach">Auerbach</button>
         </td>
         <td>
-          <button disabled="false" title="Torgau">TO</button>
+          <button disabled="false" title="Delitzsch fehlt noch...">̶D̶̶e̶̶l̶̶i̶̶t̶̶z̶̶s̶̶c̶̶h̶ Eilenburg</button>
         </td>
         <td>
-          <button disabled title="Dresden-Meißen-Freiberg-Dippoldiswalde">DD-MEI-FG-DW</button>
+          <button disabled="false" title="Torgau">Torgau</button>
         </td>
         <td>
-          <button disabled="false" title="Bautzen">BZ</button>
+          <button disabled title="Dresden Meißen Freiberg Dippoldiswalde">Dresden Meißen Freiberg Dippoldiswalde</button>
+        </td>
+        <td>
+          <button title="Bautzen (Stadt)" disabled="false">Bautzen</button>
         </td>
         <table>
+          <div style="border:1px solid #D3D3D3;display:none">
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>
+                <button style="width: 70px">Alles</button>
+              </td>
+              <td>
+                <button style="width: 70px">Nichts</button>
+              </td>
+            </tr>
+          </div>
           <div style="border:1px solid #D3D3D3;display:none">
             <tr>
               <td></td>
@@ -1185,13 +1450,13 @@
        =&gt; Sucht nach der Vornamenskombination Max Moritz mit beliebigem Nachnamen
       <br>
       <b>* Schönberg</b>
-       =&gt; Sucht nach Nachname Schönberg mit beliebigen Vornamen. (Adelige Nachnamen z.B. &#39;von Schönberg&#39; sind im Index ebenfalls als &#39;Schönberg&#39; geführt und können (außer in Torgau und Auerbach) nicht von der nicht-adeligen Variante unterschieden werden)
+       =&gt; Sucht nach Nachname Schönberg mit beliebigen Vornamen. (Adelige Nachnamen z.B. &#39;von Schönberg&#39; sind im Index ebenfalls als &#39;Schönberg&#39; geführt und können (außer in Torgau, Delitzsch und Auerbach) nicht von der nicht-adeligen Variante unterschieden werden)
       <br>
       <b>* VitzthumEckstädt</b>
        =&gt; als Bps. für den Nachnamen &#39;Vitzthum von Eckstädt&#39; mit beliebigen Vornamen. (Mehrteilige Nachnamen wurden im Index (außer in Torgau) verkürzt und bestehen immer nur aus einem Wort)
       <br>
       <b>* vonSchönberg</b>
-       =&gt; Nur im Gebiet Torgau sind adelige Nachnamen genauer erfasst, müssen aber ohne Leerzeichen geschrieben werden, damit die Suche damit funktioniert.
+       =&gt; Nur im Gebiet Torgau, Torgau und Auerbach sind adelige Nachnamen genauer erfasst, müssen aber ohne Leerzeichen geschrieben werden, damit die Suche damit funktioniert.
       <br>
       <br>
       Für spezielle Suchen kann rechts oben der Suchalgorithmus ausgewählt werden.
@@ -1244,14 +1509,14 @@
       <a href="https://github.com/tintenfrass/simplechurchbookindexes">https://github.com/tintenfrass/simplechurchbookindexes</a>
       <br>
       <br>
-      <h3> v1.12 (März 2026) latest updates:</h3>
-      <label>Trauungen aus dem Gebiet Auerbach hinzugefügt</label>
+      <h3> v1.13 (August 2026) latest updates:</h3>
+      <label>Trauungen aus dem Gebiet Torgau/Eilenburg hinzugefügt</label>
       <br>
       <label>kleine Fehlerkorrekturen</label>
     </div>
     <aside id="app-wasm-loader" class="goapp-app-info">
       <img id="app-wasm-loader-icon" class="goapp-logo goapp-spin" alt="wasm loader icon" src="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png">
-      <p id="app-wasm-loader-label" class="goapp-label">0%</p>
+      <p class="goapp-label" id="app-wasm-loader-label">0%</p>
     </aside>
   </body>
 </html>

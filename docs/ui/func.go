@@ -22,6 +22,7 @@ func replace(input string) (output string) {
 	output = strings.Replace(output, "Freiberg ", "FG ", 1)
 	output = strings.Replace(output, "Friedrichstadt St. Michael", "Friedrichstadt", 1)
 	output = strings.Replace(output, "Garnisonsgemeinde", "Garnison", 1)
+	output = strings.Replace(output, "Schmerzhafte ", "Schm.", 1)
 	output = strings.Replace(output, " bei Neiden", "", 1)
 	return
 }
@@ -33,7 +34,7 @@ func replaceKK(input string) (output string) {
 	output = strings.Replace(output, "freiberg", "FG", 1)
 	output = strings.Replace(output, "dippoldiswalde", "DW", 1)
 	output = strings.Replace(output, "auerbach", "AU", 1)
-	output = strings.Replace(output, "torgau-delitzsch", "TO", 1)
+	output = strings.Replace(output, "torgau-delitzsch", "TD", 1)
 	output = strings.Replace(output, "bautzen", "BZ", 1)
 	output = strings.Replace(output, "bad-liebenwerda", "BL", 1)
 
