@@ -450,7 +450,7 @@ Christoph Braungart
 Andreas Pähle
 Balthasar Heinrich
 Zacharias Meusel
-Georg  Kreßener
+Georg Kreßener
 Peter Begwitz
 Gregor Bawer
 Caspar Volgnad
@@ -934,7 +934,7 @@ Veit Renniger
 Martin Lehmann
 Gabriel Brosch
 Christoph Krichner
-Joachim  Peters
+Joachim Peters
 Ambrosius Rihle
 Clemens Schmoch
 Daniel Simon
