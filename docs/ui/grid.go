@@ -55,6 +55,8 @@ func initGrid() {
 
 	grid[1][9][7] = "torgau-delitzsch/Eilenburg St. Marien"
 
+	grid[1][9][8] = "torgau-delitzsch/Eilenburg St. Franziskus Xaver"
+
 	//Tab 2
 	grid[2][2][6] = "torgau-delitzsch/Greudnitz"
 
