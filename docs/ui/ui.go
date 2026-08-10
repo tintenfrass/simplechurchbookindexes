@@ -214,6 +214,8 @@ func (h *searchComp) Render() app.UI {
 		app.H3().Body().Text(" v1.13 (August 2026) latest updates:"),
 		app.Label().Text("Trauungen aus dem Gebiet Torgau/Eilenburg hinzugefügt"),
 		app.Br(),
+		app.Label().Text("Performanceoptimierungen"),
+		app.Br(),
 		app.Label().Text("kleine Fehlerkorrekturen"),
 	).Attr("style", "font-family:verdana,sans-serif;font-size:8pt")
 }

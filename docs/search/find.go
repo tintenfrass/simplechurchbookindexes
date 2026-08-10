@@ -67,6 +67,8 @@ func FindMarriage(search string, min, max int, churches map[string]bool, algo in
 
 		sm := sourceMarriages //Prevent Bug
 		for _, entry := range sm.Data {
+			nameV, _ := Data.Names[entry.V]
+			nameN, _ := Data.Names[entry.N]
 			//Prüfen, ob wir in dieser Zeit suchen wollen
 			if (entry.Y < min || entry.Y > max) && entry.Y != 0 {
 				continue
@@ -77,32 +79,32 @@ func FindMarriage(search string, min, max int, churches map[string]bool, algo in
 				searchName := search
 				//Jaro Vorfilterung, nur bei Algo = 0
 				if algo == 0 {
-					if matchr.Jaro(search, entry.V+" "+entry.N) < jaroTreshold {
+					if matchr.Jaro(search, nameV+" "+nameN) < jaroTreshold {
 						continue
 					}
 				}
 				//Soundex bei Algo = 1
 				if algo == 1 {
 					searchName = gophonetics.NewPhoneticCode(search)
-					entry.V = gophonetics.NewPhoneticCode(entry.V)
-					entry.N = gophonetics.NewPhoneticCode(entry.N)
+					nameV = gophonetics.NewPhoneticCode(nameV)
+					nameN = gophonetics.NewPhoneticCode(nameN)
 				}
 
 				//Simple Search
-				distance = searcher.search(searchName, entry.V+" "+entry.N)
+				distance = searcher.search(searchName, nameV+" "+nameN)
 			} else {
 				if algo < 2 {
 					//Jaro Vorfilterung, nur bei Algo = 0 oder 1
 					jaroGroom := 1.0
 					jaroGroomFn := 1.0
 					if searchParts[0] != "?" {
-						jaroGroom = matchr.Jaro(searchParts[0], entry.V)
+						jaroGroom = matchr.Jaro(searchParts[0], nameV)
 						if jaroGroom < jaroTreshold {
 							continue
 						}
 					}
 					if searchParts[1] != "?" {
-						jaroGroomFn = matchr.Jaro(searchParts[1], entry.N)
+						jaroGroomFn = matchr.Jaro(searchParts[1], nameN)
 						if jaroGroomFn < jaroTreshold {
 							continue
 						}
@@ -123,18 +125,18 @@ func FindMarriage(search string, min, max int, churches map[string]bool, algo in
 				if algo == 1 {
 					s0 = gophonetics.NewPhoneticCode(searchParts[0])
 					s1 = gophonetics.NewPhoneticCode(searchParts[1])
-					entry.V = gophonetics.NewPhoneticCode(entry.V)
-					entry.N = gophonetics.NewPhoneticCode(entry.N)
+					nameV = gophonetics.NewPhoneticCode(nameV)
+					nameN = gophonetics.NewPhoneticCode(nameN)
 				}
 
 				//? matched auf alles
 				if searchParts[0] != "?" {
-					distanceGroom = searcher.search(s0, entry.V)
+					distanceGroom = searcher.search(s0, nameV)
 				}
 				if searchParts[1] != "?" {
-					distanceGroomFn = searcher.search(s1, entry.N)
+					distanceGroomFn = searcher.search(s1, nameN)
 					//Bonuspunkt wenn der erste Buchstabe passt
-					if len(entry.N) > 0 && searchParts[1][0:1] == entry.N[0:1] {
+					if len(nameN) > 0 && searchParts[1][0:1] == nameN[0:1] {
 						distanceGroomFn--
 					}
 				}
@@ -184,7 +186,7 @@ func FindMarriage(search string, min, max int, churches map[string]bool, algo in
 			}
 			line := match.L
 			if len(line) == 0 {
-				line = match.V + " " + match.N
+				line = Data.Names[match.V] + " " + Data.Names[match.N]
 			}
 			resultList = append(resultList, Result{
 				Year:   match.Y,

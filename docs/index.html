@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="author">
     <meta name="description" content="Onlinesuche zum Trauindex">
-    <meta content="#2d2c2c" name="theme-color">
+    <meta name="theme-color" content="#2d2c2c">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <meta name="mobile-web-app-capable" content="yes">
     <meta property="og:url" content="https:///simplechurchbookindexes">
@@ -40,11 +40,11 @@
               <br>
               <br>
               <label>Jahr Min </label>
-              <input type="range" min="1541" max="1875" value="0" style="width: 600px">
+              <input value="0" style="width: 600px" type="range" min="1541" max="1875">
               <label>0</label>
               <br>
               <label>Jahr Max </label>
-              <input max="1875" value="0" style="width: 600px" type="range" min="1541">
+              <input type="range" min="1541" max="1875" value="0" style="width: 600px">
               <label>0</label>
               <br>
               <br>
@@ -66,7 +66,7 @@
                  ----&gt; mehr Treffer, sehr langsam, nicht für große Suchen geeignet
               </div>
               <div title="Die OSA-Variante von DamerauLevenshtein, ohne Vorfilterung">
-                <input type="radio" checked="false" name="algo">
+                <input checked="false" name="algo" type="radio">
                 OSA
                  ----&gt; einfacher und schneller als DamerauLevenshtein
               </div>
@@ -86,7 +86,7 @@
       </table>
       <div>
         <td>
-          <button disabled="false" title="Auerbach">Auerbach</button>
+          <button title="Auerbach" disabled="false">Auerbach</button>
         </td>
         <td>
           <button disabled="false" title="Delitzsch fehlt noch...">̶D̶̶e̶̶l̶̶i̶̶t̶̶z̶̶s̶̶c̶̶h̶ Eilenburg</button>
@@ -1414,7 +1414,7 @@
         </table>
       </div>
       <p>
-        <input type="text" placeholder="Vorname Nachname" autofocus style="width: 250px">
+        <input autofocus style="width: 250px" type="text" placeholder="Vorname Nachname">
          
         <button style="width: 100px">Search</button>
          
@@ -1512,11 +1512,13 @@
       <h3> v1.13 (August 2026) latest updates:</h3>
       <label>Trauungen aus dem Gebiet Torgau/Eilenburg hinzugefügt</label>
       <br>
+      <label>Performanceoptimierungen</label>
+      <br>
       <label>kleine Fehlerkorrekturen</label>
     </div>
     <aside id="app-wasm-loader" class="goapp-app-info">
-      <img class="goapp-logo goapp-spin" alt="wasm loader icon" src="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png" id="app-wasm-loader-icon">
-      <p id="app-wasm-loader-label" class="goapp-label">0%</p>
+      <img id="app-wasm-loader-icon" class="goapp-logo goapp-spin" alt="wasm loader icon" src="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png">
+      <p class="goapp-label" id="app-wasm-loader-label">0%</p>
     </aside>
   </body>
 </html>
