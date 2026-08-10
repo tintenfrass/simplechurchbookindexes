@@ -98,7 +98,7 @@ Christian Kummer
 Daniel Fährmann
 David Holfert
 Daniel Hünichen
-680
+1680
 Peter Frost
 Michael Zimmermann
 Jonas Müller
