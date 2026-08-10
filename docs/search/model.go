@@ -11,7 +11,8 @@ type fullData struct {
 	Sources   map[int]string
 	Links     map[int]string
 	Offset    map[int]uint32
-	Names     map[int]string
+	NamesV    map[int]string
+	NamesN    map[int]string
 }
 
 type churchEntry struct {

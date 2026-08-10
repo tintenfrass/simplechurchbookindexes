@@ -2,7 +2,6 @@ package search
 
 import (
 	"fmt"
-	"math"
 	"strconv"
 	"strings"
 
@@ -22,13 +21,83 @@ type Result struct {
 const MaxDistance = 7
 const MaxResultsDis = 1000
 
-func FindMarriage(search string, min, max int, churches map[string]bool, algo int) (resultList []Result, debug string) {
+func FindMarriage(input string, min, max int, churches map[string]bool, algo int) ([]Result, string) {
+	var debug string
 	defer func() {
 		if r := recover(); r != nil {
 			debug = fmt.Sprintf(" Es ist ein Fehler aufgetreten. Seite muss neu geladen werden! (F5)")
 		}
 	}()
+	searchParts := cleanInput(input)
 
+	soundex := algo == 1
+	searcher := getSearcher(algo)
+
+	// neue Variante für Double Search
+	if len(searchParts) == 2 {
+		return findDouble(searchParts, min, max, churches, searcher, soundex)
+	}
+
+	// Fallback to Single Search the old way
+	results := make(map[int][]marriageEntry)
+	jaro := algo < 2
+
+	//Algo
+	jaroTreshold := JaroTreshold
+	if soundex {
+		//für Soundex brauchen wir einen geringen Grenzwert
+		jaroTreshold = JaroTresholdSoundex
+	}
+
+	// Full Data
+	for church, sourceMarriages := range Data.Marriages {
+		//Prüfen, ob wir in dieser Quelle suchen wollen
+		_, exists := churches[church]
+		if !exists || !churches[church] {
+			continue
+		}
+
+		sm := sourceMarriages //Prevent Bug
+		for _, entry := range sm.Data {
+			nameV, _ := Data.NamesV[entry.V]
+			nameN, _ := Data.NamesN[entry.N]
+			//Prüfen, ob wir in dieser Zeit suchen wollen
+			if (entry.Y < min || entry.Y > max) && entry.Y != 0 {
+				continue
+			}
+
+			distance := 0
+			// Vorname und Nachname als kombinierter Input
+			searchName := searchParts[0]
+			//Jaro Vorfilterung
+			if jaro {
+				if matchr.Jaro(searchName, nameV+" "+nameN) < jaroTreshold {
+					continue
+				}
+			}
+			if soundex {
+				searchName = gophonetics.NewPhoneticCode(searchName)
+				nameV = gophonetics.NewPhoneticCode(nameV)
+				nameN = gophonetics.NewPhoneticCode(nameN)
+			}
+
+			//Simple Search
+			distance = searcher.search(searchName, nameV+" "+nameN)
+
+			if distance > MaxDistance {
+				continue
+			}
+
+			if len(results[distance]) <= MaxResultsDis {
+				results[distance] = append(results[distance], entry)
+			}
+		}
+	}
+
+	return mapResults(results), debug
+}
+
+func cleanInput(search string) []string {
 	search = strings.TrimSpace(search)
 	//Alle bis auf das letzte Leerzeichen ersetzen, damit Vornamen zusammengehangen werden
 	for {
@@ -48,116 +117,11 @@ func FindMarriage(search string, min, max int, churches map[string]bool, algo in
 		searchParts[1] = strings.Replace(searchParts[1], "-", " ", -1)
 	}
 
-	results := make(map[int][]marriageEntry)
+	return searchParts
+}
 
-	//Algo
-	searcher := getSearcher(algo)
-	jaroTreshold := JaroTreshold
-	if algo == 1 {
-		//für Soundex brauchen wir einen geringen Grenzwert
-		jaroTreshold = JaroTresholdSoundex
-	}
-
-	for church, sourceMarriages := range Data.Marriages {
-		//Prüfen, ob wir in dieser Quelle suchen wollen
-		_, exists := churches[church]
-		if !exists || !churches[church] {
-			continue
-		}
-
-		sm := sourceMarriages //Prevent Bug
-		for _, entry := range sm.Data {
-			nameV, _ := Data.Names[entry.V]
-			nameN, _ := Data.Names[entry.N]
-			//Prüfen, ob wir in dieser Zeit suchen wollen
-			if (entry.Y < min || entry.Y > max) && entry.Y != 0 {
-				continue
-			}
-
-			distance := 0
-			if len(searchParts) == 1 {
-				searchName := search
-				//Jaro Vorfilterung, nur bei Algo = 0
-				if algo == 0 {
-					if matchr.Jaro(search, nameV+" "+nameN) < jaroTreshold {
-						continue
-					}
-				}
-				//Soundex bei Algo = 1
-				if algo == 1 {
-					searchName = gophonetics.NewPhoneticCode(search)
-					nameV = gophonetics.NewPhoneticCode(nameV)
-					nameN = gophonetics.NewPhoneticCode(nameN)
-				}
-
-				//Simple Search
-				distance = searcher.search(searchName, nameV+" "+nameN)
-			} else {
-				if algo < 2 {
-					//Jaro Vorfilterung, nur bei Algo = 0 oder 1
-					jaroGroom := 1.0
-					jaroGroomFn := 1.0
-					if searchParts[0] != "?" {
-						jaroGroom = matchr.Jaro(searchParts[0], nameV)
-						if jaroGroom < jaroTreshold {
-							continue
-						}
-					}
-					if searchParts[1] != "?" {
-						jaroGroomFn = matchr.Jaro(searchParts[1], nameN)
-						if jaroGroomFn < jaroTreshold {
-							continue
-						}
-					}
-					//Die Kombination aus Vor- und Nachname muss ca. 50% übereinstimmen, um überhaupt in die nähere Betrachtung zu gelangen
-					if jaroGroom+jaroGroomFn < 1 {
-						continue
-					}
-				}
-
-				//Double Search
-				distanceGroom := 0
-				distanceGroomFn := 0
-
-				s0 := searchParts[0]
-				s1 := searchParts[1]
-				//Soundex
-				if algo == 1 {
-					s0 = gophonetics.NewPhoneticCode(searchParts[0])
-					s1 = gophonetics.NewPhoneticCode(searchParts[1])
-					nameV = gophonetics.NewPhoneticCode(nameV)
-					nameN = gophonetics.NewPhoneticCode(nameN)
-				}
-
-				//? matched auf alles
-				if searchParts[0] != "?" {
-					distanceGroom = searcher.search(s0, nameV)
-				}
-				if searchParts[1] != "?" {
-					distanceGroomFn = searcher.search(s1, nameN)
-					//Bonuspunkt wenn der erste Buchstabe passt
-					if len(nameN) > 0 && searchParts[1][0:1] == nameN[0:1] {
-						distanceGroomFn--
-					}
-				}
-
-				//1/3 der Differenz abziehen => damit werden Matches leicht bevorteilt, wo ein Part sehr gut matched
-				distance = distanceGroom + distanceGroomFn - int(math.Round(0.3*math.Abs(float64(distanceGroom)-float64(distanceGroomFn))))
-				if distance < 0 {
-					distance = 0
-				}
-			}
-
-			if distance > MaxDistance {
-				continue
-			}
-
-			if len(results[distance]) <= MaxResultsDis {
-				results[distance] = append(results[distance], entry)
-			}
-		}
-	}
-
+func mapResults(searchResults map[int][]marriageEntry) []Result {
+	var mappedResults []Result
 	count := 0
 	for i := 0; i < MaxDistance+1; i++ {
 		if count > 50 {
@@ -165,8 +129,8 @@ func FindMarriage(search string, min, max int, churches map[string]bool, algo in
 		}
 
 		//too much
-		if len(results[i]) > MaxResultsDis {
-			resultList = append(resultList, Result{
+		if len(searchResults[i]) > MaxResultsDis {
+			mappedResults = append(mappedResults, Result{
 				Year:   0,
 				Line:   "Zu viele Ergebnisse zum Anzeigen (>" + strconv.Itoa(MaxResultsDis) + ")",
 				Source: "",
@@ -174,10 +138,10 @@ func FindMarriage(search string, min, max int, churches map[string]bool, algo in
 				Link:   "",
 				Page:   0,
 			})
-			return
+			return mappedResults
 		}
 
-		for _, match := range results[i] {
+		for _, match := range searchResults[i] {
 			pageId := 0
 			if Data.Offset[match.S] > 0 {
 				pageId = int(Data.Offset[match.S] + uint32(match.P))
@@ -186,9 +150,9 @@ func FindMarriage(search string, min, max int, churches map[string]bool, algo in
 			}
 			line := match.L
 			if len(line) == 0 {
-				line = Data.Names[match.V] + " " + Data.Names[match.N]
+				line = Data.NamesV[match.V] + " " + Data.NamesN[match.N]
 			}
-			resultList = append(resultList, Result{
+			mappedResults = append(mappedResults, Result{
 				Year:   match.Y,
 				Line:   line,
 				Source: Data.Sources[match.S],
@@ -200,5 +164,5 @@ func FindMarriage(search string, min, max int, churches map[string]bool, algo in
 		}
 	}
 
-	return
+	return mappedResults
 }

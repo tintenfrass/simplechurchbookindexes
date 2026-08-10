@@ -5,11 +5,11 @@
     <meta name="author">
     <meta name="description" content="Onlinesuche zum Trauindex">
     <meta name="theme-color" content="#2d2c2c">
-    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta content="width=device-width, initial-scale=1, viewport-fit=cover" name="viewport">
     <meta name="mobile-web-app-capable" content="yes">
     <meta property="og:url" content="https:///simplechurchbookindexes">
     <meta property="og:title" content="Trauindex Sachsen">
-    <meta property="og:description" content="Onlinesuche zum Trauindex">
+    <meta content="Onlinesuche zum Trauindex" property="og:description">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://">
     <title>Trauindex Sachsen</title>
@@ -36,15 +36,13 @@
           <td>
             <div>
               <h2>Onlinesuche im Trauindex Sachsen</h2>
-              <label>Bisher erfasst: Dresden Meißen Freiberg Dippoldiswalde Auerbach Torgau (+Teile von Eilenburg und Bautzen)</label>
-              <br>
               <br>
               <label>Jahr Min </label>
               <input value="0" style="width: 600px" type="range" min="1541" max="1875">
               <label>0</label>
               <br>
               <label>Jahr Max </label>
-              <input type="range" min="1541" max="1875" value="0" style="width: 600px">
+              <input max="1875" value="0" style="width: 600px" type="range" min="1541">
               <label>0</label>
               <br>
               <br>
@@ -55,30 +53,20 @@
             <div style="margin-left:60px">
               <div style="font-weight:bold" title="Bestimmt wie schnell und genau die Ähnlichkeitssuche funktioniert, je nach Algorithmus können die Ergebnisse abweichen.">Suchalgorithmus:</div>
               <br>
-              <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.4 werden danach mit DamerauLevenshtein genau berechnet. Dieses zweistufe Vorgehen macht die Suche schnell und trotzdem genau.">
+              <div title="Optimierte Version von Damerau-Levenshtein.">
                 <input type="radio" checked name="algo">
-                Jaro + DamerauLevenshtein
-                 ----&gt; best Kombination aus Geschwindigkeit und Komplexität
+                Damerau-Levenshtein
+                 ----&gt; beste Variante für normale Suchen
               </div>
-              <div title="Ergebnisse werden mit Jaro vorgefiltern und nur die Ergebnisse mit einem Wert größer als 0.3 werden danach mit Soundex umgewandelt und diese dann mit DamerauLevenshtein berechnet. Das ist sehr langsam aber findet viel mehr Treffer. Große Suchen brechen manchmal ab.">
-                <input checked="false" name="algo" type="radio">
-                Jaro + Soundex + DamerauLevenshtein
-                 ----&gt; mehr Treffer, sehr langsam, nicht für große Suchen geeignet
-              </div>
-              <div title="Die OSA-Variante von DamerauLevenshtein, ohne Vorfilterung">
-                <input checked="false" name="algo" type="radio">
-                OSA
-                 ----&gt; einfacher und schneller als DamerauLevenshtein
-              </div>
-              <div title="einfachere Version von DamerauLevenshtein, ohne Vorfilterung">
-                <input type="radio" checked="false" name="algo">
-                Levenshtein
-                 ----&gt; einfacher und schneller als OSA
+              <div title="Ergebnisse werden mit Soundex umgewandelt und diese dann mit Damerau-Levenshtein berechnet. Suchen mit nur einem Wort sind sehr langsam und brechen manchmal ab.">
+                <input name="algo" type="radio" checked="false">
+                Soundex + Damerau-Levenshtein
+                 ----&gt; mehr Treffer etwas langsamer. Extrem langsam bei Suchen mit nur einem Wort!
               </div>
               <div title="Der einzige Algorithmus ohne Ähnlichkeitssuche sondern klassisch nach einer festen Buchstabenkombination.">
                 <input type="radio" checked="false" name="algo">
                 Klassisch
-                 ----&gt; sucht buchstabengenau nach dem Suchtext innerhalb des Namens.
+                 ----&gt; sucht buchstabengenau nach dem Suchtext innerhalb des Namens. Extrem schnell.
               </div>
             </div>
           </td>
@@ -1414,7 +1402,7 @@
         </table>
       </div>
       <p>
-        <input autofocus style="width: 250px" type="text" placeholder="Vorname Nachname">
+        <input type="text" placeholder="Vorname Nachname" autofocus style="width: 250px">
          
         <button style="width: 100px">Search</button>
          
@@ -1430,9 +1418,9 @@
       <br>
       Es wird Groß- und kleinschreibung unterschieden.
       <br>
-      Komplexe Suchen (kurze Suchtexte im großen Suchgebiet) können die Suche manchmal abstürzen lassen (Seite bleibt hängen, Button reagiert nicht mehr) =&gt; in diesem Fall muss die Seite im Browser neu geladen werden.
+      Manche Suchen (Soundex mit nur einem Wort) können die Suche manchmal abstürzen lassen (Seite bleibt hängen, Button reagiert nicht mehr) =&gt; in diesem Fall muss die Seite im Browser neu geladen werden.
       <br>
-      Über die Reiter kann das Suchgebiet ausgewählt werden, damit kann z.B: in das Gebiet Bautzen (BZ) gewechselt werden
+      Über die Reiter kann das Suchgebiet ausgewählt werden.
       <br>
       <br>
       Bsp: für die Suche:
@@ -1450,13 +1438,13 @@
        =&gt; Sucht nach der Vornamenskombination Max Moritz mit beliebigem Nachnamen
       <br>
       <b>* Schönberg</b>
-       =&gt; Sucht nach Nachname Schönberg mit beliebigen Vornamen. (Adelige Nachnamen z.B. &#39;von Schönberg&#39; sind im Index ebenfalls als &#39;Schönberg&#39; geführt und können (außer in Torgau, Delitzsch und Auerbach) nicht von der nicht-adeligen Variante unterschieden werden)
+       =&gt; Sucht nach Nachname Schönberg mit beliebigen Vornamen. (Adelige Nachnamen z.B. &#39;von Schönberg&#39; sind im Index ebenfalls oft als &#39;Schönberg&#39; geführt und können (außer in Torgau-Delitzsch und Auerbach) nicht von der nicht-adeligen Variante unterschieden werden)
       <br>
       <b>* VitzthumEckstädt</b>
-       =&gt; als Bps. für den Nachnamen &#39;Vitzthum von Eckstädt&#39; mit beliebigen Vornamen. (Mehrteilige Nachnamen wurden im Index (außer in Torgau) verkürzt und bestehen immer nur aus einem Wort)
+       =&gt; als Bps. für den Nachnamen &#39;Vitzthum von Eckstädt&#39; mit beliebigen Vornamen. (Mehrteilige Nachnamen wurden im Index (außer in Auerbach und Torgau-Delitzsch) verkürzt und bestehen immer nur aus einem Wort)
       <br>
       <b>* vonSchönberg</b>
-       =&gt; Nur im Gebiet Torgau, Torgau und Auerbach sind adelige Nachnamen genauer erfasst, müssen aber ohne Leerzeichen geschrieben werden, damit die Suche damit funktioniert.
+       =&gt; Nur im Gebiet Torgau-Delitzsch und Auerbach sind adelige Nachnamen genauer erfasst, müssen aber ohne Leerzeichen geschrieben werden, damit die Suche damit funktioniert.
       <br>
       <br>
       Für spezielle Suchen kann rechts oben der Suchalgorithmus ausgewählt werden.
@@ -1496,7 +1484,7 @@
       Es gibt auch immer mal wieder Fehler in den Daten, falsch erfasste Namen oder manchmal ist das Jahr um 1 verrutscht, etc.
       <br>
       <br>
-      Der zweie Link führt direkt zum Kirchenbuch, meistens auch auf den richtigen Scan, das kann durch Fehler aber evtl. auch etwas abweichen.
+      Der zweite Link führt direkt zum Kirchenbuch, meistens auch auf den richtigen Scan, das kann durch Fehler aber evtl. auch etwas abweichen.
       <br>
       Die Archion-Links bringen nur was, wenn man bei Archion einen Pass hat.
       <br>
@@ -1512,13 +1500,15 @@
       <h3> v1.13 (August 2026) latest updates:</h3>
       <label>Trauungen aus dem Gebiet Torgau/Eilenburg hinzugefügt</label>
       <br>
-      <label>Performanceoptimierungen</label>
+      <label>Ladezeiten etwas reduziert</label>
+      <br>
+      <label>Suchalgorithmen überarbeitet und beschleunigt</label>
       <br>
       <label>kleine Fehlerkorrekturen</label>
     </div>
     <aside id="app-wasm-loader" class="goapp-app-info">
       <img id="app-wasm-loader-icon" class="goapp-logo goapp-spin" alt="wasm loader icon" src="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png">
-      <p class="goapp-label" id="app-wasm-loader-label">0%</p>
+      <p id="app-wasm-loader-label" class="goapp-label">0%</p>
     </aside>
   </body>
 </html>
