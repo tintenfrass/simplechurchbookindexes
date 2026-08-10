@@ -195,7 +195,7 @@ Christoph Böhme
 Christoph Böhme
 1694
 Georg Böhme
-696
+1696
 Andreas Böhme
 1704
 Christian Böhme

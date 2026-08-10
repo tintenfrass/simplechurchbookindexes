@@ -400,7 +400,7 @@ Christoph Pietzsch
 Georg Hörnig
 ----------------
 Christoph Roch
-690
+1690
 Hans Stelzer
 Hans Trebte
 Georg Dreßler
