@@ -202,8 +202,6 @@ func (h *searchComp) Render() app.UI {
 		app.H3().Body().Text(" v1.13 (August 2026) latest updates:"),
 		app.Label().Text("Trauungen aus dem Gebiet Torgau/Eilenburg hinzugefügt"),
 		app.Br(),
-		app.Label().Text("Ladezeiten etwas reduziert"),
-		app.Br(),
 		app.Label().Text("Suchalgorithmen überarbeitet und beschleunigt"),
 		app.Br(),
 		app.Label().Text("kleine Fehlerkorrekturen"),
@@ -214,7 +212,6 @@ func (h *searchComp) Render() app.UI {
 func (h *searchComp) OnMount(ctx app.Context) {
 	start := time.Now()
 	search.LoadData()
-	dur := time.Since(start)
 
 	//set defaults, slider and checkboxes
 	h.slideValueMin = config.YearMin
@@ -236,5 +233,6 @@ func (h *searchComp) OnMount(ctx app.Context) {
 		}
 	}
 
+	dur := time.Since(start)
 	h.debug = fmt.Sprintf("%d Datensätze geladen in %s", count, dur.Round(time.Millisecond).String())
 }

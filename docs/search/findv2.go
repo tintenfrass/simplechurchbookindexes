@@ -6,7 +6,7 @@ import (
 	gophonetics "gopkg.in/Regis24GmbH/go-phonetics.v3"
 )
 
-func findDouble(searchParts []string, min, max int, churches map[string]bool, searcher Searcher, soundex bool) ([]Result, string) {
+func findDouble(searchParts []string, min, max int, places map[string]bool, searcher Searcher, soundex bool) ([]Result, string) {
 	var debug string
 
 	if soundex {
@@ -14,8 +14,45 @@ func findDouble(searchParts []string, min, max int, churches map[string]bool, se
 		searchParts[1] = gophonetics.NewPhoneticCode(searchParts[1])
 	}
 
+	// create search index
+	namesPlaceV := make(map[int]struct{})
+	namesPlaceN := make(map[int]struct{})
+	for place, _ := range Data.Marriages {
+		_, exists := places[place]
+		if !exists || !places[place] {
+			continue
+		}
+		for nameIdV, _ := range Data.PlaceV[place] {
+			if _, ok := namesPlaceV[nameIdV]; !ok {
+				namesPlaceV[nameIdV] = struct{}{}
+			}
+		}
+		for nameIdN, _ := range Data.PlaceN[place] {
+			if _, ok := namesPlaceN[nameIdN]; !ok {
+				namesPlaceN[nameIdN] = struct{}{}
+			}
+		}
+	}
+
+	namesDecadeV := make(map[int]struct{})
+	namesDecadeN := make(map[int]struct{})
+	for decade := min / 10; decade <= max/10; decade++ {
+		for nameIdV := range Data.DecadeV[decade] {
+			namesDecadeV[nameIdV] = struct{}{}
+		}
+		for nameIdN := range Data.DecadeN[decade] {
+			namesDecadeN[nameIdN] = struct{}{}
+		}
+	}
+
 	searchTargetsV := make(map[int]int)
 	for nameIndexV, val := range Data.NamesV {
+		if _, ok := namesPlaceV[nameIndexV]; !ok {
+			continue
+		}
+		if _, ok := namesDecadeV[nameIndexV]; !ok {
+			continue
+		}
 		if soundex {
 			val = gophonetics.NewPhoneticCode(val)
 		}
@@ -28,6 +65,12 @@ func findDouble(searchParts []string, min, max int, churches map[string]bool, se
 
 	searchTargetsN := make(map[int]int)
 	for nameIndexN, val := range Data.NamesN {
+		if _, ok := namesPlaceN[nameIndexN]; !ok {
+			continue
+		}
+		if _, ok := namesDecadeN[nameIndexN]; !ok {
+			continue
+		}
 		if soundex {
 			val = gophonetics.NewPhoneticCode(val)
 		}
@@ -43,8 +86,8 @@ func findDouble(searchParts []string, min, max int, churches map[string]bool, se
 	// Full Data
 	for church, sourceMarriages := range Data.Marriages {
 		//Prüfen, ob wir in dieser Quelle suchen wollen
-		_, exists := churches[church]
-		if !exists || !churches[church] {
+		_, exists := places[church]
+		if !exists || !places[church] {
 			continue
 		}
 

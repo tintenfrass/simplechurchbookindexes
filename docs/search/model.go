@@ -13,6 +13,10 @@ type fullData struct {
 	Offset    map[int]uint32
 	NamesV    map[int]string
 	NamesN    map[int]string
+	PlaceV    map[string]map[int]struct{}
+	PlaceN    map[string]map[int]struct{}
+	DecadeV   map[int]map[int]struct{}
+	DecadeN   map[int]map[int]struct{}
 }
 
 type churchEntry struct {
