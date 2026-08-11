@@ -6,7 +6,14 @@ import (
 	gophonetics "gopkg.in/Regis24GmbH/go-phonetics.v3"
 )
 
-func findDouble(searchParts []string, min, max int, places map[string]bool, searcher Searcher, soundex bool) ([]Result, string) {
+func findDouble(
+	searchParts []string,
+	min, max int,
+	places map[string]struct{},
+	exact bool,
+	searcher Searcher,
+	soundex bool,
+) ([]Result, string) {
 	var debug string
 
 	if soundex {
@@ -18,8 +25,7 @@ func findDouble(searchParts []string, min, max int, places map[string]bool, sear
 	namesPlaceV := make(map[int]struct{})
 	namesPlaceN := make(map[int]struct{})
 	for place, _ := range Data.Marriages {
-		_, exists := places[place]
-		if !exists || !places[place] {
+		if !isPlaceValid(places, exact, place) {
 			continue
 		}
 		for nameIdV, _ := range Data.PlaceV[place] {
@@ -84,10 +90,8 @@ func findDouble(searchParts []string, min, max int, places map[string]bool, sear
 	searchResults := make(map[int][]marriageEntry)
 
 	// Full Data
-	for church, sourceMarriages := range Data.Marriages {
-		//Prüfen, ob wir in dieser Quelle suchen wollen
-		_, exists := places[church]
-		if !exists || !places[church] {
+	for place, sourceMarriages := range Data.Marriages {
+		if !isPlaceValid(places, exact, place) {
 			continue
 		}
 

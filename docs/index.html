@@ -38,7 +38,7 @@
               <h2>Onlinesuche im Trauindex Sachsen</h2>
               <br>
               <label>Jahr Min </label>
-              <input type="range" min="1541" max="1875" value="0" style="width: 600px">
+              <input min="1541" max="1875" value="0" style="width: 600px" type="range">
               <label>0</label>
               <br>
               <label>Jahr Max </label>
@@ -53,15 +53,15 @@
             <div style="margin-left:60px">
               <div style="font-weight:bold" title="Bestimmt wie schnell und genau die Ähnlichkeitssuche funktioniert, je nach Algorithmus können die Ergebnisse abweichen.">Suchalgorithmus:</div>
               <br>
-              <div title="Optimierte Version von Damerau-Levenshtein.">
+              <div title="Langsam bei Suchen nach nur einem Wort.">
                 <input type="radio" checked name="algo">
                 Damerau-Levenshtein
-                 ----&gt; beste Variante für normale Suchen
+                 ----&gt; Ähnlichkeitssuche, beste Variante für normale Suchen
               </div>
               <div title="Ergebnisse werden mit Soundex umgewandelt und diese dann mit Damerau-Levenshtein berechnet. Suchen mit nur einem Wort sind sehr langsam und brechen manchmal ab.">
                 <input type="radio" checked="false" name="algo">
                 Soundex + Damerau-Levenshtein
-                 ----&gt; mehr Treffer etwas langsamer. Extrem langsam bei Suchen mit nur einem Wort!
+                 ----&gt; mehr Treffer, etwas langsamer. Extrem langsam bei Suchen mit nur einem Wort!
               </div>
               <div title="Der einzige Algorithmus ohne Ähnlichkeitssuche sondern klassisch nach einer festen Buchstabenkombination.">
                 <input type="radio" checked="false" name="algo">
@@ -74,10 +74,13 @@
       </table>
       <div>
         <td>
+          <button disabled="false" title="Suche über ganze Kirchenkreise">Sachsen</button>
+        </td>
+        <td>
           <button disabled="false" title="Auerbach">Auerbach</button>
         </td>
         <td>
-          <button disabled="false" title="Delitzsch fehlt noch...">̶D̶̶e̶̶l̶̶i̶̶t̶̶z̶̶s̶̶c̶̶h̶ Eilenburg</button>
+          <button title="Delitzsch fehlt noch..." disabled="false">̶D̶̶e̶̶l̶̶i̶̶t̶̶z̶̶s̶̶c̶̶h̶ Eilenburg</button>
         </td>
         <td>
           <button disabled="false" title="Torgau">Torgau</button>
@@ -86,9 +89,375 @@
           <button disabled title="Dresden Meißen Freiberg Dippoldiswalde">Dresden Meißen Freiberg Dippoldiswalde</button>
         </td>
         <td>
-          <button title="Bautzen (Stadt)" disabled="false">Bautzen</button>
+          <button disabled="false" title="Bautzen (Stadt)">Bautzen</button>
         </td>
         <table>
+          <div style="border:1px solid #D3D3D3;display:none">
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>
+                <div>
+                  <div style="float:left">
+                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern">
+                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg" style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner">
+                  </div>
+                  <input type="checkbox" checked="false" style="float:left;">
+                  <div style="float:left">
+                    <label>Torgau-Delitzsch</label>
+                    <br>
+                    <label style="color:dimgrey;font-size:7pt"></label>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <div>
+                  <div style="float:left">
+                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern">
+                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg" style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner">
+                  </div>
+                  <input checked="false" style="float:left;" type="checkbox">
+                  <div style="float:left">
+                    <label>Bad Liebenwerda</label>
+                    <br>
+                    <label style="color:dimgrey;font-size:7pt"></label>
+                  </div>
+                </div>
+              </td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td>
+                <div>
+                  <div style="float:left">
+                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern">
+                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg" style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner">
+                  </div>
+                  <input type="checkbox" checked="false" style="float:left;">
+                  <div style="float:left">
+                    <label>Meißen</label>
+                    <br>
+                    <label style="color:dimgrey;font-size:7pt"></label>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <div>
+                  <div style="float:left">
+                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern">
+                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg" style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner">
+                  </div>
+                  <input type="checkbox" checked="false" style="float:left;">
+                  <div style="float:left">
+                    <label>Dresden</label>
+                    <br>
+                    <label style="color:dimgrey;font-size:7pt"></label>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <div>
+                  <div style="float:left">
+                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern">
+                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg" style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner">
+                  </div>
+                  <input checked="false" style="float:left;" type="checkbox">
+                  <div style="float:left">
+                    <label>Bautzen</label>
+                    <br>
+                    <label style="color:dimgrey;font-size:7pt"></label>
+                  </div>
+                </div>
+              </td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td>
+                <div>
+                  <div style="float:left">
+                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern">
+                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg" style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner">
+                  </div>
+                  <input checked="false" style="float:left;" type="checkbox">
+                  <div style="float:left">
+                    <label>Freiberg</label>
+                    <br>
+                    <label style="color:dimgrey;font-size:7pt"></label>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <div>
+                  <div style="float:left">
+                    <img title="mehrfach Klicken um dieses Suchgebiet zu vergrößern" src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px">
+                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg" style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner">
+                  </div>
+                  <input type="checkbox" checked="false" style="float:left;">
+                  <div style="float:left">
+                    <label>Dippoldiswalde</label>
+                    <br>
+                    <label style="color:dimgrey;font-size:7pt"></label>
+                  </div>
+                </div>
+              </td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>
+                <div>
+                  <div style="float:left">
+                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern">
+                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg" style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner">
+                  </div>
+                  <input type="checkbox" checked="false" style="float:left;">
+                  <div style="float:left">
+                    <label>Auerbach</label>
+                    <br>
+                    <label style="color:dimgrey;font-size:7pt"></label>
+                  </div>
+                </div>
+              </td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>
+                <button style="width: 70px">Alles</button>
+              </td>
+              <td>
+                <button style="width: 70px">Nichts</button>
+              </td>
+            </tr>
+          </div>
           <div style="border:1px solid #D3D3D3;display:none">
             <tr>
               <td></td>
@@ -1500,12 +1869,14 @@
       <h3> v1.13 (August 2026) latest updates:</h3>
       <label>Trauungen aus dem Gebiet Torgau/Eilenburg hinzugefügt</label>
       <br>
+      <label>Meta-Suchen über alle Daten hinzugefügt</label>
+      <br>
       <label>Suchalgorithmen überarbeitet und beschleunigt</label>
       <br>
       <label>kleine Fehlerkorrekturen</label>
     </div>
     <aside id="app-wasm-loader" class="goapp-app-info">
-      <img src="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png" id="app-wasm-loader-icon" class="goapp-logo goapp-spin" alt="wasm loader icon">
+      <img class="goapp-logo goapp-spin" alt="wasm loader icon" src="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png" id="app-wasm-loader-icon">
       <p id="app-wasm-loader-label" class="goapp-label">0%</p>
     </aside>
   </body>

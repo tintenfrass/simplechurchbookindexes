@@ -1,12 +1,12 @@
 // -----------------------------------------------------------------------------
 // PWA
 // -----------------------------------------------------------------------------
-const cacheName = "app-" + "e5f9886694026c5cb5c1b2d0032f0ee74475646a";
+const cacheName = "app-" + "0ad4b908f551a758142725a075186ec5012f2040";
 const resourcesToCache = ["https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png","/simplechurchbookindexes/web/app.wasm","/simplechurchbookindexes/wasm_exec.js","/simplechurchbookindexes/manifest.webmanifest","/simplechurchbookindexes/app.js","/simplechurchbookindexes/app.css","/simplechurchbookindexes"];
 
 self.addEventListener("install", async (event) => {
   try {
-    console.log("installing app worker e5f9886694026c5cb5c1b2d0032f0ee74475646a");
+    console.log("installing app worker 0ad4b908f551a758142725a075186ec5012f2040");
     await installWorker();
     await self.skipWaiting();
   } catch (error) {
@@ -23,7 +23,7 @@ self.addEventListener("activate", async (event) => {
   try {
     await deletePreviousCaches(); // Await cache cleanup
     await self.clients.claim(); // Ensure the service worker takes control of the clients
-    console.log("app worker e5f9886694026c5cb5c1b2d0032f0ee74475646a is activated");
+    console.log("app worker 0ad4b908f551a758142725a075186ec5012f2040 is activated");
   } catch (error) {
     console.error("error during activation:", error);
   }

@@ -5,14 +5,15 @@ import (
 )
 
 const (
-	tabs       = 5
-	defaultTab = 3
+	tabs       = 6
+	defaultTab = 4
 )
 
 var tabConfig = []struct {
 	Short string
 	Title string
 }{
+	{Short: "Sachsen", Title: "Suche über ganze Kirchenkreise"},
 	{Short: "Auerbach", Title: "Auerbach"},
 	{Short: "̶D̶̶e̶̶l̶̶i̶̶t̶̶z̶̶s̶̶c̶̶h̶ Eilenburg", Title: "Delitzsch fehlt noch..."},
 	{Short: "Torgau", Title: "Torgau"},

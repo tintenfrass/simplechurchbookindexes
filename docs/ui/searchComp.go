@@ -38,7 +38,24 @@ func (h *searchComp) search(ctx app.Context, e app.Event) {
 		boxes[i] = []app.UI{}
 	}
 
-	resultList, debug := search.FindMarriage(h.searchValue, h.slideValueMin, h.slideValueMax, h.checked[h.activeTab], h.algo)
+	places := make(map[string]struct{})
+	exact := h.activeTab != 0
+
+	// Filter places
+	for place, val := range h.checked[h.activeTab] {
+		if !val {
+			continue
+		}
+		if exact && strings.Contains(place, "*") {
+			continue
+		}
+		if !exact && !strings.Contains(place, "*") {
+			continue
+		}
+		places[place] = struct{}{}
+	}
+
+	resultList, debug := search.FindMarriage(h.searchValue, h.slideValueMin, h.slideValueMax, places, h.algo, exact)
 	for _, res := range resultList {
 		if res.Dis > search.MaxDistance {
 			break
@@ -144,21 +161,21 @@ func getPos(tab int, key string) (posi, posj int) {
 
 // Button show all
 func (h *searchComp) all(ctx app.Context, e app.Event) {
-	for key, _ := range search.Data.Marriages {
-		if !isValid(h.activeTab, key) {
+	for _, place := range getPlacesList() {
+		if !isValid(h.activeTab, place) {
 			continue
 		}
-		h.checked[h.activeTab][key] = true
+		h.checked[h.activeTab][place] = true
 	}
 }
 
 // Button show nothing
 func (h *searchComp) nothing(ctx app.Context, e app.Event) {
-	for key, _ := range search.Data.Marriages {
-		if !isValid(h.activeTab, key) {
+	for _, place := range getPlacesList() {
+		if !isValid(h.activeTab, place) {
 			continue
 		}
-		h.checked[h.activeTab][key] = false
+		h.checked[h.activeTab][place] = false
 	}
 }
 
@@ -175,19 +192,42 @@ func (h *searchComp) showTab(nr int) {
 }
 
 // determines if location is valid for a given tab
-func isValid(tab int, value string) bool {
-	r, ok := grid[tab]
+func isValid(tab int, place string) bool {
+	row, ok := grid[tab]
 	if !ok {
 		return false
 	}
 
-	for _, c := range r {
-		for _, name := range c {
-			if name == value {
+	for _, col := range row {
+		for _, name := range col {
+			if name == place {
 				return true
+			}
+			if tab == 0 {
+				prefixGrid, ast := strings.CutSuffix(name, "/*")
+				if ast && strings.HasPrefix(place, prefixGrid) {
+					return true
+				}
 			}
 		}
 	}
 
 	return false
+}
+
+func getPlacesList() []string {
+	var placesList []string
+	for place, _ := range search.Data.Marriages {
+		placesList = append(placesList, place)
+	}
+	placesList = append(placesList, "auerbach/*")
+	placesList = append(placesList, "bad-liebenwerda/*")
+	placesList = append(placesList, "bautzen/*")
+	placesList = append(placesList, "dippoldiswalde/*")
+	placesList = append(placesList, "dresden/*")
+	placesList = append(placesList, "freiberg/*")
+	placesList = append(placesList, "meissen/*")
+	placesList = append(placesList, "torgau-delitzsch/*")
+
+	return placesList
 }

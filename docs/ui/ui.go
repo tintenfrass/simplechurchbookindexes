@@ -22,32 +22,34 @@ func (h *searchComp) Render() app.UI {
 	cbs := make(map[int]map[string]app.HTMLDiv)
 	for tab := 0; tab < tabs; tab++ {
 		cbs[tab] = make(map[string]app.HTMLDiv)
-		for key, _ := range search.Data.Marriages {
-			if !isValid(tab, key) {
+		for _, place := range getPlacesList() {
+			if !isValid(tab, place) {
 				continue
 			}
 
-			k := key //prevent Bug
+			pl := place //prevent Bug
+
+			// Change checkbox state function
 			changeValue := func(ctx app.Context, e app.Event) {
-				h.checked[h.activeTab][k] = !h.checked[h.activeTab][k]
+				h.checked[h.activeTab][pl] = !h.checked[h.activeTab][pl]
 			}
 
 			//Plus
 			plus := func(ctx app.Context, e app.Event) {
-				h.plusminus(true, k)
+				h.plusminus(true, pl)
 			}
 			//Minus
 			minus := func(ctx app.Context, e app.Event) {
-				h.plusminus(false, k)
+				h.plusminus(false, pl)
 			}
 
-			cb := app.Input().Type("checkbox").Checked(h.checked[tab][k]).OnChange(changeValue).Attr("style", "float:left;")
-			text := replace(k)
-			if _, exists := catholic[k]; exists {
-				cb = app.Input().Type("checkbox").Checked(h.checked[tab][k]).OnChange(changeValue).Attr("style", "float:left;accent-color:darkred")
+			cb := app.Input().Type("checkbox").Checked(h.checked[tab][pl]).OnChange(changeValue).Attr("style", "float:left;")
+			text := replace(pl)
+			if _, exists := catholic[pl]; exists {
+				cb = app.Input().Type("checkbox").Checked(h.checked[tab][pl]).OnChange(changeValue).Attr("style", "float:left;accent-color:darkred")
 				text += " (kath)"
 			}
-			cbs[tab][k] = app.Div().Body(
+			cbs[tab][pl] = app.Div().Body(
 				app.Div().Style("float", "left").Body(
 					app.Img().Src(raw+"plus.jpg").Style("display", "flex").Style("margin-top", "1px").OnClick(plus).Title("mehrfach Klicken um dieses Suchgebiet zu vergrößern"),
 					app.Img().Src(raw+"minus.jpg").Style("display", "flex").Style("margin-top", "0px").OnClick(minus).Title("mehrfach Klicken um dieses Suchgebiet zu verkleiner"),
@@ -56,7 +58,7 @@ func (h *searchComp) Render() app.UI {
 				app.Div().Style("float", "left").Body(
 					app.Label().Text(text).OnClick(changeValue),
 					app.Br(),
-					app.Label().Text(search.GetMinMax(k)).OnClick(changeValue).Attr("style", "color:dimgrey;font-size:7pt"),
+					app.Label().Text(search.GetMinMax(pl)).OnClick(changeValue).Attr("style", "color:dimgrey;font-size:7pt"),
 				),
 			)
 		}
@@ -85,15 +87,15 @@ func (h *searchComp) Render() app.UI {
 					app.Div().Style("margin-left", "60px").Body(
 						app.Div().Style("font-weight", "bold").Body(app.Text("Suchalgorithmus:")).Title("Bestimmt wie schnell und genau die Ähnlichkeitssuche funktioniert, je nach Algorithmus können die Ergebnisse abweichen."),
 						app.Br(),
-						app.Div().Title("Optimierte Version von Damerau-Levenshtein.").Body(
+						app.Div().Title("Langsam bei Suchen nach nur einem Wort.").Body(
 							app.Input().Type("radio").Checked(true).OnChange(func(ctx app.Context, e app.Event) { h.algo = search.DamerauLevenshtein }).Name("algo"),
 							app.Text("Damerau-Levenshtein"),
-							app.Text(" ----> beste Variante für normale Suchen"),
+							app.Text(" ----> Ähnlichkeitssuche, beste Variante für normale Suchen"),
 						),
 						app.Div().Title("Ergebnisse werden mit Soundex umgewandelt und diese dann mit Damerau-Levenshtein berechnet. Suchen mit nur einem Wort sind sehr langsam und brechen manchmal ab.").Body(
 							app.Input().Type("radio").Checked(false).OnChange(func(ctx app.Context, e app.Event) { h.algo = search.SoundexDamerauLevenshtein }).Name("algo"),
 							app.Text("Soundex + Damerau-Levenshtein"),
-							app.Text(" ----> mehr Treffer etwas langsamer. Extrem langsam bei Suchen mit nur einem Wort!"),
+							app.Text(" ----> mehr Treffer, etwas langsamer. Extrem langsam bei Suchen mit nur einem Wort!"),
 						),
 						app.Div().Title("Der einzige Algorithmus ohne Ähnlichkeitssuche sondern klassisch nach einer festen Buchstabenkombination.").Body(
 							app.Input().Type("radio").Checked(false).OnChange(func(ctx app.Context, e app.Event) { h.algo = search.Exact }).Name("algo"),
@@ -202,6 +204,8 @@ func (h *searchComp) Render() app.UI {
 		app.H3().Body().Text(" v1.13 (August 2026) latest updates:"),
 		app.Label().Text("Trauungen aus dem Gebiet Torgau/Eilenburg hinzugefügt"),
 		app.Br(),
+		app.Label().Text("Meta-Suchen über alle Daten hinzugefügt"),
+		app.Br(),
 		app.Label().Text("Suchalgorithmen überarbeitet und beschleunigt"),
 		app.Br(),
 		app.Label().Text("kleine Fehlerkorrekturen"),
@@ -218,19 +222,21 @@ func (h *searchComp) OnMount(ctx app.Context) {
 	h.slideValueMax = config.YearMax
 	h.activeTab = defaultTab
 
-	count := 0
+	// activate all checkboxes
 	h.checked = make(map[int]map[string]bool)
 	for tab := 0; tab < tabs; tab++ {
 		h.checked[tab] = make(map[string]bool)
-		for key, val := range search.Data.Marriages {
-			if tab == 0 {
-				count += len(val.Data) //count only once
-			}
-			if !isValid(tab, key) {
+		for _, place := range getPlacesList() {
+			if !isValid(tab, place) {
 				continue
 			}
-			h.checked[tab][key] = true
+			h.checked[tab][place] = true
 		}
+	}
+
+	count := 0
+	for _, value := range search.Data.Marriages {
+		count += len(value.Data)
 	}
 
 	dur := time.Since(start)

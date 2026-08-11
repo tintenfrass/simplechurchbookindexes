@@ -6,6 +6,15 @@ import (
 
 func replace(input string) (output string) {
 	output = input
+	output = strings.Replace(output, "auerbach/*", "Auerbach", 1)
+	output = strings.Replace(output, "bad-liebenwerda/*", "Bad Liebenwerda", 1)
+	output = strings.Replace(output, "bautzen/*", "Bautzen", 1)
+	output = strings.Replace(output, "dippoldiswalde/*", "Dippoldiswalde", 1)
+	output = strings.Replace(output, "dresden/*", "Dresden", 1)
+	output = strings.Replace(output, "freiberg/*", "Freiberg", 1)
+	output = strings.Replace(output, "meissen/*", "Meißen", 1)
+	output = strings.Replace(output, "torgau-delitzsch/*", "Torgau-Delitzsch", 1)
+
 	output = strings.Replace(output, "dresden/", "", 1)
 	output = strings.Replace(output, "meissen/", "", 1)
 	output = strings.Replace(output, "freiberg/", "", 1)
@@ -15,7 +24,7 @@ func replace(input string) (output string) {
 	output = strings.Replace(output, "bautzen/", "", 1)
 	output = strings.Replace(output, "bad-liebenwerda/", "", 1)
 
-	output = strings.Replace(output, "Dresden", "DD", 1)
+	output = strings.Replace(output, "Dresden ", "DD ", 1)
 	output = strings.Replace(output, "Böhmische", "Böhm.", 1)
 	output = strings.Replace(output, "Exulantengemeinde", "Exulanten", 1)
 	output = strings.Replace(output, "Meißen ", "MEI ", 1)

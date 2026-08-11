@@ -21,7 +21,7 @@ type Result struct {
 const MaxDistance = 7
 const MaxResultsDis = 1000
 
-func FindMarriage(input string, min, max int, churches map[string]bool, algo int) ([]Result, string) {
+func FindMarriage(input string, min, max int, places map[string]struct{}, algo int, exact bool) ([]Result, string) {
 	var debug string
 	defer func() {
 		if r := recover(); r != nil {
@@ -35,7 +35,7 @@ func FindMarriage(input string, min, max int, churches map[string]bool, algo int
 
 	// neue Variante für Double Search
 	if len(searchParts) == 2 {
-		return findDouble(searchParts, min, max, churches, searcher, soundex)
+		return findDouble(searchParts, min, max, places, exact, searcher, soundex)
 	}
 
 	// Fallback to Single Search the old way
@@ -49,11 +49,14 @@ func FindMarriage(input string, min, max int, churches map[string]bool, algo int
 		jaroTreshold = JaroTresholdSoundex
 	}
 
+	searchName := searchParts[0]
+	if soundex {
+		searchName = gophonetics.NewPhoneticCode(searchName)
+	}
+
 	// Full Data
-	for church, sourceMarriages := range Data.Marriages {
-		//Prüfen, ob wir in dieser Quelle suchen wollen
-		_, exists := churches[church]
-		if !exists || !churches[church] {
+	for place, sourceMarriages := range Data.Marriages {
+		if !isPlaceValid(places, exact, place) {
 			continue
 		}
 
@@ -68,15 +71,14 @@ func FindMarriage(input string, min, max int, churches map[string]bool, algo int
 
 			distance := 0
 			// Vorname und Nachname als kombinierter Input
-			searchName := searchParts[0]
-			//Jaro Vorfilterung
+
+			//Jaro Vorfilterung (original name)
 			if jaro {
-				if matchr.Jaro(searchName, nameV+" "+nameN) < jaroTreshold {
+				if matchr.Jaro(searchParts[0], nameV+" "+nameN) < jaroTreshold {
 					continue
 				}
 			}
 			if soundex {
-				searchName = gophonetics.NewPhoneticCode(searchName)
 				nameV = gophonetics.NewPhoneticCode(nameV)
 				nameN = gophonetics.NewPhoneticCode(nameN)
 			}
@@ -165,4 +167,21 @@ func mapResults(searchResults map[int][]marriageEntry) []Result {
 	}
 
 	return mappedResults
+}
+
+func isPlaceValid(places map[string]struct{}, exact bool, place string) bool {
+	//Prüfen, ob wir in dieser Quelle suchen wollen
+	if exact {
+		if _, exists := places[place]; !exists {
+			return false
+		}
+		return true
+	}
+
+	for pl, _ := range places {
+		if strings.HasPrefix(place, strings.Replace(pl, "*", "", 1)) {
+			return true
+		}
+	}
+	return false
 }
