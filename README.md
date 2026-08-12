@@ -37,9 +37,9 @@ Wenn man das Projekt unterstützen oder verbessern möchte, wäre denkbar z.B:
 - Datenerfassen: Es werden sehr gerne weitere Daten von bisher nicht erfasste Trauungen entgegengenommen. Dabei ist es egal ob diese als excel, csv, text, ... vorliegen, das kann konvertiert werden. Bei Interesse gerne Kontakt aufnehmen.
 - Korrekturlesen: Die bisher erfassten Trauungen wurden bis auf wenige Ausnahmen nicht korrekturgelesen und beeinhalten entsprechend genug Fehler.
 - Fehler melden: Egal ob kleine Datenfehler, falsche Verlinkung oder sonstige Probleme gerne jeden Fehler melden. (Githubnutzer können das auch als Pull Request tun)
-- Technische Verbesserung: Softwareenwickler können gerne Verbesserung des Codes für die Sucheseite vorschlagen (aber bitte keinen KI-Code)
+- Technische Verbesserung: Softwareenwickler können Verbesserung des Codes für die Suchseite vorschlagen (aber bitte keinen KI-Code)
 - Finanzielle Unterstützung / Spenden: Dafür gerne Kontakt aufnehmen. (Für Archion-Gutscheine mich auch gerne direkt auf Archion kontaktieren)
-- Propaganda: Das Projekt bekannter machen, auch außerhalb Sachsen.
+- Propaganda: Das Projekt bekannter machen, auch außerhalb von Sachsen.
 
 Vielen Dank an alle bisherigen Unterstützer.
 
@@ -51,7 +51,7 @@ tintenfrass@gmx.de
 ### Lizenz beachten (Creative Commons Attribution-NonCommercial (CC BY-NC) 3.0)
 Die Daten sind für die Forschung gedacht, es ist keine kommerzielle Nutzung erlaubt.
 
-### Weitere Indexierungsprojekte
+### Andere Indexierungsprojekte
 
 #### Poznan-Project
 https://poznan-project.psnc.pl/
