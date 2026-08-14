@@ -1,6 +1,7 @@
 package search
 
 import (
+	"fmt"
 	"math"
 
 	gophonetics "gopkg.in/Regis24GmbH/go-phonetics.v3"
@@ -15,6 +16,11 @@ func findDouble(
 	soundex bool,
 ) ([]Result, string) {
 	var debug string
+	defer func() {
+		if r := recover(); r != nil {
+			debug = fmt.Sprintf(" Es ist ein Fehler aufgetreten. Seite muss neu geladen werden! (F5)")
+		}
+	}()
 
 	if soundex {
 		searchParts[0] = gophonetics.NewPhoneticCode(searchParts[0])
@@ -129,18 +135,16 @@ func findDouble(
 }
 
 func getDistanceV(input, target string, searcher Searcher) int {
-	distance := 0
-	if input == "?" {
-		return distance
+	if len(input) == 0 {
+		return 0
 	}
 
 	return searcher.search(input, target)
 }
 
 func getDistanceN(input, target string, searcher Searcher) int {
-	distance := 0
-	if input == "?" {
-		return distance
+	if len(input) == 0 {
+		return 0
 	}
 
 	dis := searcher.search(input, target)

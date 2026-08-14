@@ -1,12 +1,8 @@
 package search
 
 import (
-	"fmt"
 	"strconv"
 	"strings"
-
-	"github.com/antzucaro/matchr"
-	gophonetics "gopkg.in/Regis24GmbH/go-phonetics.v3"
 )
 
 type Result struct {
@@ -21,105 +17,28 @@ type Result struct {
 const MaxDistance = 7
 const MaxResultsDis = 1000
 
-func FindMarriage(input string, min, max int, places map[string]struct{}, algo int, exact bool) ([]Result, string) {
-	var debug string
-	defer func() {
-		if r := recover(); r != nil {
-			debug = fmt.Sprintf(" Es ist ein Fehler aufgetreten. Seite muss neu geladen werden! (F5)")
-		}
-	}()
-	searchParts := cleanInput(input)
+func FindMarriage(inputV, inputN string, min, max int, places map[string]struct{}, algo int, exact bool) ([]Result, string) {
+	searchParts := cleanInput(inputV, inputN)
 
 	soundex := algo == 1
 	searcher := getSearcher(algo)
 
-	// neue Variante für Double Search
-	if len(searchParts) == 2 {
-		return findDouble(searchParts, min, max, places, exact, searcher, soundex)
-	}
-
-	// Fallback to Single Search the old way
-	results := make(map[int][]marriageEntry)
-	jaro := algo < 2
-
-	//Algo
-	jaroTreshold := JaroTreshold
-	if soundex {
-		//für Soundex brauchen wir einen geringen Grenzwert
-		jaroTreshold = JaroTresholdSoundex
-	}
-
-	searchName := searchParts[0]
-	if soundex {
-		searchName = gophonetics.NewPhoneticCode(searchName)
-	}
-
-	// Full Data
-	for place, sourceMarriages := range Data.Marriages {
-		if !isPlaceValid(places, exact, place) {
-			continue
-		}
-
-		sm := sourceMarriages //Prevent Bug
-		for _, entry := range sm.Data {
-			nameV, _ := Data.NamesV[entry.V]
-			nameN, _ := Data.NamesN[entry.N]
-			//Prüfen, ob wir in dieser Zeit suchen wollen
-			if (entry.Y < min || entry.Y > max) && entry.Y != 0 {
-				continue
-			}
-
-			distance := 0
-			// Vorname und Nachname als kombinierter Input
-
-			//Jaro Vorfilterung (original name)
-			if jaro {
-				if matchr.Jaro(searchParts[0], nameV+" "+nameN) < jaroTreshold {
-					continue
-				}
-			}
-			if soundex {
-				nameV = gophonetics.NewPhoneticCode(nameV)
-				nameN = gophonetics.NewPhoneticCode(nameN)
-			}
-
-			//Simple Search
-			distance = searcher.search(searchName, nameV+" "+nameN)
-
-			if distance > MaxDistance {
-				continue
-			}
-
-			if len(results[distance]) <= MaxResultsDis {
-				results[distance] = append(results[distance], entry)
-			}
-		}
-	}
-
-	return mapResults(results), debug
+	return findDouble(searchParts, min, max, places, exact, searcher, soundex)
 }
 
-func cleanInput(search string) []string {
-	search = strings.TrimSpace(search)
-	//Alle bis auf das letzte Leerzeichen ersetzen, damit Vornamen zusammengehangen werden
-	for {
-		if strings.Count(search, " ") < 2 {
-			break
-		}
-		search = strings.Replace(search, " ", "-", 1)
-	}
+func cleanInput(inputV, inputN string) []string {
+	inputV = strings.Replace(inputV, "*", "", -1)
+	inputV = strings.Replace(inputV, "?", "", -1)
+	inputV = strings.Replace(inputV, "-", "", -1)
+	inputV = strings.Replace(inputV, "_", "", -1)
+	inputV = strings.TrimSpace(inputV)
 
-	//* oder ? als Platzhalter
-	search = strings.Replace(search, "*", "?", -1)
+	inputN = strings.Replace(inputN, "*", "", -1)
+	inputN = strings.Replace(inputN, "?", "", -1)
+	inputN = strings.Replace(inputN, "_", "", -1)
+	inputN = strings.TrimSpace(inputN)
 
-	//Nachname abspalten
-	searchParts := strings.Split(search, " ")
-	searchParts[0] = strings.Replace(searchParts[0], "-", " ", -1)
-	if len(searchParts) > 1 {
-		searchParts[1] = strings.Replace(searchParts[1], "-", " ", -1)
-	}
-
-	return searchParts
+	return []string{inputV, inputN}
 }
 
 func mapResults(searchResults map[int][]marriageEntry) []Result {

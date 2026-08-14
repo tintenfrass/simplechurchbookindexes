@@ -14,11 +14,11 @@
     <meta property="og:image" content="https://">
     <title>Trauindex Sachsen</title>
     <link rel="icon" href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.svg">
-    <link href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png" rel="apple-touch-icon">
+    <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png">
     <link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
     <link href="/simplechurchbookindexes/app.css" type="text/css" rel="stylesheet">
     <script defer src="/simplechurchbookindexes/wasm_exec.js"></script>
-    <script defer src="/simplechurchbookindexes/app.js"></script>
+    <script src="/simplechurchbookindexes/app.js" defer></script>
     <!-- Google tag (gtag.js) -->
 			<script async src="https://www.googletagmanager.com/gtag/js?id=G-S2D2V6SHXE"></script>
 			<script>
@@ -38,7 +38,7 @@
               <h2>Onlinesuche im Trauindex Sachsen</h2>
               <br>
               <label>Jahr Min </label>
-              <input min="1541" max="1875" value="0" style="width: 600px" type="range">
+              <input max="1875" value="0" style="width: 600px" type="range" min="1541">
               <label>0</label>
               <br>
               <label>Jahr Max </label>
@@ -51,22 +51,22 @@
           </td>
           <td>
             <div style="margin-left:60px">
-              <div style="font-weight:bold" title="Bestimmt wie schnell und genau die Ähnlichkeitssuche funktioniert, je nach Algorithmus können die Ergebnisse abweichen.">Suchalgorithmus:</div>
+              <div style="font-weight:bold" title="Bestimmt wie genau die Suche ausgeführt wird, je nach Algorithmus können die Ergebnisse abweichen.">Suchalgorithmus:</div>
               <br>
-              <div title="Langsam bei Suchen nach nur einem Wort.">
+              <div>
                 <input type="radio" checked name="algo">
                 Damerau-Levenshtein
-                 ----&gt; Ähnlichkeitssuche, beste Variante für normale Suchen
+                 ----&gt; Ähnlichkeitssuche über kompletten Namen
               </div>
-              <div title="Ergebnisse werden mit Soundex umgewandelt und diese dann mit Damerau-Levenshtein berechnet. Suchen mit nur einem Wort sind sehr langsam und brechen manchmal ab.">
+              <div title="Ergebnisse werden mit Soundex umgewandelt und diese dann mit Damerau-Levenshtein berechnet.">
                 <input type="radio" checked="false" name="algo">
                 Soundex + Damerau-Levenshtein
-                 ----&gt; mehr Treffer, etwas langsamer. Extrem langsam bei Suchen mit nur einem Wort!
+                 ----&gt; Phonetsche Ähnlichkeitssuche, mehr Treffer, etwas langsamer
               </div>
               <div title="Der einzige Algorithmus ohne Ähnlichkeitssuche sondern klassisch nach einer festen Buchstabenkombination.">
-                <input type="radio" checked="false" name="algo">
+                <input checked="false" name="algo" type="radio">
                 Klassisch
-                 ----&gt; sucht buchstabengenau nach dem Suchtext innerhalb des Namens. Extrem schnell.
+                 ----&gt; Buchstabengenau über Namensteile
               </div>
             </div>
           </td>
@@ -80,7 +80,7 @@
           <button disabled="false" title="Auerbach">Auerbach</button>
         </td>
         <td>
-          <button title="Delitzsch fehlt noch..." disabled="false">̶D̶̶e̶̶l̶̶i̶̶t̶̶z̶̶s̶̶c̶̶h̶ Eilenburg</button>
+          <button disabled="false" title="Delitzsch fehlt noch...">̶D̶̶e̶̶l̶̶i̶̶t̶̶z̶̶s̶̶c̶̶h̶ Eilenburg</button>
         </td>
         <td>
           <button disabled="false" title="Torgau">Torgau</button>
@@ -125,7 +125,7 @@
                     <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern">
                     <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg" style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner">
                   </div>
-                  <input type="checkbox" checked="false" style="float:left;">
+                  <input checked="false" style="float:left;" type="checkbox">
                   <div style="float:left">
                     <label>Torgau-Delitzsch</label>
                     <br>
@@ -139,7 +139,7 @@
                     <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern">
                     <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg" style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner">
                   </div>
-                  <input checked="false" style="float:left;" type="checkbox">
+                  <input type="checkbox" checked="false" style="float:left;">
                   <div style="float:left">
                     <label>Bad Liebenwerda</label>
                     <br>
@@ -188,7 +188,7 @@
               <td>
                 <div>
                   <div style="float:left">
-                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern">
+                    <img title="mehrfach Klicken um dieses Suchgebiet zu vergrößern" src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px">
                     <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg" style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner">
                   </div>
                   <input type="checkbox" checked="false" style="float:left;">
@@ -202,10 +202,10 @@
               <td>
                 <div>
                   <div style="float:left">
-                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern">
+                    <img style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern" src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg">
                     <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg" style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner">
                   </div>
-                  <input checked="false" style="float:left;" type="checkbox">
+                  <input type="checkbox" checked="false" style="float:left;">
                   <div style="float:left">
                     <label>Bautzen</label>
                     <br>
@@ -228,7 +228,7 @@
                     <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern">
                     <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg" style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner">
                   </div>
-                  <input checked="false" style="float:left;" type="checkbox">
+                  <input style="float:left;" type="checkbox" checked="false">
                   <div style="float:left">
                     <label>Freiberg</label>
                     <br>
@@ -239,10 +239,10 @@
               <td>
                 <div>
                   <div style="float:left">
-                    <img title="mehrfach Klicken um dieses Suchgebiet zu vergrößern" src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px">
+                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern">
                     <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg" style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner">
                   </div>
-                  <input type="checkbox" checked="false" style="float:left;">
+                  <input checked="false" style="float:left;" type="checkbox">
                   <div style="float:left">
                     <label>Dippoldiswalde</label>
                     <br>
@@ -1771,7 +1771,8 @@
         </table>
       </div>
       <p>
-        <input type="text" placeholder="Vorname Nachname" autofocus style="width: 250px">
+        <input type="text" placeholder="Vorname" autofocus style="width: 200px">
+        <input type="text" placeholder="Nachname" autofocus="false" style="width: 150px">
          
         <button style="width: 100px">Search</button>
          
@@ -1779,7 +1780,9 @@
       </p>
       <div></div>
       <h3>Hinweise:</h3>
-      Die Suche erfolgt über alle Vornamen, den Nachnamen oder den kompletten Namen des Bräutigams. Eine Suche über Namensteile ist im Suchmodus Klassisch möglich. (siehe Beispiele)
+      Die Suche erfolgt über den kompletten Vornamen und Nachnamen des Bräutigams. Eine Suche über Namensteile (z.B: einzelne Vornamen) ist im Suchmodus Klassisch möglich. (siehe Beispiele)
+      <br>
+      Die Eingabefelder können auch leere gelassen werden, um damit nur nach Vor- oder nach Nachnamen zu suchen.
       <br>
       Dabei wird eine Ähnlichkeitssuche benutzt und die Ergebnisse nach Treffergenauigkeit aufgelistet. (Ausnahme Suchmodus Klassisch)
       <br>
@@ -1787,52 +1790,27 @@
       <br>
       Es wird Groß- und kleinschreibung unterschieden.
       <br>
-      Manche Suchen (Soundex mit nur einem Wort) können die Suche manchmal abstürzen lassen (Seite bleibt hängen, Button reagiert nicht mehr) =&gt; in diesem Fall muss die Seite im Browser neu geladen werden.
-      <br>
       Über die Reiter kann das Suchgebiet ausgewählt werden.
       <br>
       <br>
       Bsp: für die Suche:
       <br>
-      <b>Max Mustermann</b>
-       =&gt; Sucht nach Vor- und Nachnamen in dieser Kombination
+      <b>Max Moritz | Mustermann</b>
+       =&gt; bei mehreren Vornahmen ist die Reihenfolge wichtig. Hat diese Person im Index aber noch weitere Vornamen oder in anderer Reihenfolge, dann wird sie in den top Ergebnissen wahrscheinlich nicht gefunden.
       <br>
-      <b>Max Moritz Mustermann</b>
-       =&gt; bei mehreren Vornahmen, dabei ist die Reihenfolge wichtig. Hat diese Person im Index aber noch weitere Vornamen oder diese in anderer Reihenfolge, dann wird sie so wahrscheinlich nicht gefunden.
-      <br>
-      <b>Max *</b>
-       =&gt; Sucht nach Vornamen Max mit beliebigem Nachnamen
-      <br>
-      <b>Max Moritz *</b>
-       =&gt; Sucht nach der Vornamenskombination Max Moritz mit beliebigem Nachnamen
-      <br>
-      <b>* Schönberg</b>
+      <b>(leer) | Schönberg</b>
        =&gt; Sucht nach Nachname Schönberg mit beliebigen Vornamen. (Adelige Nachnamen z.B. &#39;von Schönberg&#39; sind im Index ebenfalls oft als &#39;Schönberg&#39; geführt und können (außer in Torgau-Delitzsch und Auerbach) nicht von der nicht-adeligen Variante unterschieden werden)
       <br>
-      <b>* VitzthumEckstädt</b>
-       =&gt; als Bps. für den Nachnamen &#39;Vitzthum von Eckstädt&#39; mit beliebigen Vornamen. (Mehrteilige Nachnamen wurden im Index (außer in Auerbach und Torgau-Delitzsch) verkürzt und bestehen immer nur aus einem Wort)
-      <br>
-      <b>* vonSchönberg</b>
-       =&gt; Nur im Gebiet Torgau-Delitzsch und Auerbach sind adelige Nachnamen genauer erfasst, müssen aber ohne Leerzeichen geschrieben werden, damit die Suche damit funktioniert.
-      <br>
-      <br>
-      Für spezielle Suchen kann rechts oben der Suchalgorithmus ausgewählt werden.
       <br>
       Im Suchmodus 
       <b>Klassisch</b>
-       wird buchstabengenau gesucht, nur damit kann gezielt nach Namensbestandteilen gesucht werden, z.B:
+       wird buchstabengenau gesucht, nur damit kann gezielt nach Namensbestandteilen gesucht werden. Dabei muss aber beachtet werden, dass viele Namen mehrere Schreibweisen haben. Bsp:
       <br>
-      <b>Napoleon *</b>
-       =&gt; Liefert Ergebnisse mit beliebigen Nachnamen, wo in den Vornamen das Wort &#39;Napoleon&#39; enthalten ist, egal ob es weitere Vornamen davor oder danach gibt.
+      <b>Napoleon | (leer)</b>
+       =&gt; Liefert Ergebnisse wo in den Vornamen das Wort &#39;Napoleon&#39; enthalten ist, egal ob es weitere Vornamen davor oder danach gibt.
       <br>
-      <b>* dorf</b>
-       =&gt; Liefert Ergebnisse mit beliebigen Vornamen, wo im Nachnamen &#39;dorf&#39; enthalten ist
-      <br>
-      <b>lieb Qu</b>
+      <b>lieb | Qu</b>
        =&gt; Liefert Ergebnisse, wo im Vornamen &#39;lieb&#39; und im Nachnamen &#39;Qu&#39; enthalten ist
-      <br>
-      <b>Thoma</b>
-       =&gt; Liefert Ergebnisse, wo &#39;Thoma&#39; im Vor- oder Nachnamen enthalten ist
       <br>
       <br>
       Weitere Informationen zu den Suchalgorithmen:
@@ -1873,11 +1851,13 @@
       <br>
       <label>Suchalgorithmen überarbeitet und beschleunigt</label>
       <br>
+      <label>Eingabefelder für Vor- und Nachnamen getrennt</label>
+      <br>
       <label>kleine Fehlerkorrekturen</label>
     </div>
     <aside id="app-wasm-loader" class="goapp-app-info">
-      <img class="goapp-logo goapp-spin" alt="wasm loader icon" src="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png" id="app-wasm-loader-icon">
-      <p id="app-wasm-loader-label" class="goapp-label">0%</p>
+      <img id="app-wasm-loader-icon" class="goapp-logo goapp-spin" alt="wasm loader icon" src="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png">
+      <p class="goapp-label" id="app-wasm-loader-label">0%</p>
     </aside>
   </body>
 </html>

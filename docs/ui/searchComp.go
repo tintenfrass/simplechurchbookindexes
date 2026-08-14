@@ -14,7 +14,8 @@ import (
 
 type searchComp struct {
 	app.Compo
-	searchValue   string
+	searchValueV  string
+	searchValueN  string
 	slideValueMin int
 	slideValueMax int
 	results       []app.UI
@@ -55,7 +56,7 @@ func (h *searchComp) search(ctx app.Context, e app.Event) {
 		places[place] = struct{}{}
 	}
 
-	resultList, debug := search.FindMarriage(h.searchValue, h.slideValueMin, h.slideValueMax, places, h.algo, exact)
+	resultList, debug := search.FindMarriage(h.searchValueV, h.searchValueN, h.slideValueMin, h.slideValueMax, places, h.algo, exact)
 	for _, res := range resultList {
 		if res.Dis > search.MaxDistance {
 			break
