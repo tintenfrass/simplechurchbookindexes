@@ -117,7 +117,7 @@ func (h *searchComp) Render() app.UI {
 		),
 		app.Div().Body(h.results...),
 		app.H3().Body().Text("Hinweise:"),
-		app.Text("Die Suche erfolgt über den kompletten Vornamen und Nachnamen des Bräutigams. Eine Suche über Namensteile (z.B: einzelne Vornamen) ist im Suchmodus Klassisch möglich. (siehe Beispiele)"),
+		app.Text("Die Suche erfolgt über den kompletten Vornamen und/oder Nachnamen des Bräutigams. Eine Suche über Namensteile (z.B: einzelne Vornamen) ist im Suchmodus Klassisch möglich, siehe Beispiele"),
 		app.Br(),
 		app.Text("Die Eingabefelder können auch leere gelassen werden, um damit nur nach Vor- oder nach Nachnamen zu suchen."),
 		app.Br(),
