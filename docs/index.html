@@ -6,18 +6,18 @@
     <meta name="description" content="Onlinesuche zum Trauindex">
     <meta name="theme-color" content="#2d2c2c">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-    <meta content="yes" name="mobile-web-app-capable">
+    <meta name="mobile-web-app-capable" content="yes">
     <meta property="og:url" content="https:///simplechurchbookindexes">
-    <meta property="og:title" content="Trauindex Sachsen">
+    <meta content="Trauindex Sachsen" property="og:title">
     <meta property="og:description" content="Onlinesuche zum Trauindex">
     <meta content="website" property="og:type">
     <meta property="og:image" content="https://">
     <title>Trauindex Sachsen</title>
-    <link rel="icon" href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.svg">
+    <link href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.svg" rel="icon">
     <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/maxence-charriere/go-app/master/docs/web/icon.png">
     <link rel="manifest" href="/simplechurchbookindexes/manifest.webmanifest">
-    <link rel="stylesheet" href="/simplechurchbookindexes/app.css" type="text/css">
-    <script src="/simplechurchbookindexes/wasm_exec.js" defer></script>
+    <link href="/simplechurchbookindexes/app.css" type="text/css" rel="stylesheet">
+    <script defer src="/simplechurchbookindexes/wasm_exec.js"></script>
     <script defer src="/simplechurchbookindexes/app.js"></script>
     <!-- Google tag (gtag.js) -->
 			<script async src="https://www.googletagmanager.com/gtag/js?id=G-S2D2V6SHXE"></script>
@@ -38,11 +38,11 @@
               <h2>Onlinesuche im Trauindex Sachsen</h2>
               <br>
               <label>Jahr Min </label>
-              <input value="0" style="width: 600px" type="range" min="1541" max="1875">
+              <input min="1541" max="1875" value="0" style="width: 600px" type="range">
               <label>0</label>
               <br>
               <label>Jahr Max </label>
-              <input max="1875" value="0" style="width: 600px" type="range" min="1541">
+              <input style="width: 600px" type="range" min="1541" max="1875" value="0">
               <label>0</label>
               <br>
               <br>
@@ -64,7 +64,7 @@
                  ----&gt; Phonetsche Ähnlichkeitssuche, mehr Treffer, etwas langsamer
               </div>
               <div title="Der einzige Algorithmus ohne Ähnlichkeitssuche sondern klassisch nach einer festen Buchstabenkombination.">
-                <input checked="false" name="algo" type="radio">
+                <input type="radio" checked="false" name="algo">
                 Klassisch
                  ----&gt; Buchstabengenau über Namensteile
               </div>
@@ -80,10 +80,10 @@
           <button disabled="false" title="Auerbach">Auerbach</button>
         </td>
         <td>
-          <button disabled="false" title="Delitzsch fehlt noch...">̶D̶̶e̶̶l̶̶i̶̶t̶̶z̶̶s̶̶c̶̶h̶ Eilenburg</button>
+          <button title="Delitzsch fehlt noch..." disabled="false">̶D̶̶e̶̶l̶̶i̶̶t̶̶z̶̶s̶̶c̶̶h̶ Eilenburg</button>
         </td>
         <td>
-          <button disabled="false" title="Torgau">Torgau</button>
+          <button title="Torgau" disabled="false">Torgau</button>
         </td>
         <td>
           <button disabled title="Dresden Meißen Freiberg Dippoldiswalde">Dresden Meißen Freiberg Dippoldiswalde</button>
@@ -122,8 +122,8 @@
               <td>
                 <div>
                   <div style="float:left">
-                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern">
-                    <img style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner" src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg">
+                    <img style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern" src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg">
+                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg" style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner">
                   </div>
                   <input type="checkbox" checked="false" style="float:left;">
                   <div style="float:left">
@@ -174,8 +174,8 @@
               <td>
                 <div>
                   <div style="float:left">
-                    <img style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern" src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg">
-                    <img style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner" src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg">
+                    <img title="mehrfach Klicken um dieses Suchgebiet zu vergrößern" src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px">
+                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg" style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner">
                   </div>
                   <input type="checkbox" checked="false" style="float:left;">
                   <div style="float:left">
@@ -191,7 +191,7 @@
                     <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern">
                     <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg" style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner">
                   </div>
-                  <input type="checkbox" checked="false" style="float:left;">
+                  <input style="float:left;" type="checkbox" checked="false">
                   <div style="float:left">
                     <label>Dresden</label>
                     <br>
@@ -205,7 +205,7 @@
                     <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern">
                     <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg" style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner">
                   </div>
-                  <input style="float:left;" type="checkbox" checked="false">
+                  <input type="checkbox" checked="false" style="float:left;">
                   <div style="float:left">
                     <label>Bautzen</label>
                     <br>
@@ -225,10 +225,10 @@
               <td>
                 <div>
                   <div style="float:left">
-                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern">
-                    <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg" style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner">
+                    <img style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern" src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg">
+                    <img style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner" src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg">
                   </div>
-                  <input style="float:left;" type="checkbox" checked="false">
+                  <input type="checkbox" checked="false" style="float:left;">
                   <div style="float:left">
                     <label>Freiberg</label>
                     <br>
@@ -242,7 +242,7 @@
                     <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/plus.jpg" style="display:flex;margin-top:1px" title="mehrfach Klicken um dieses Suchgebiet zu vergrößern">
                     <img src="https://raw.githubusercontent.com/tintenfrass/simplechurchbookindexes/main/docs/minus.jpg" style="display:flex;margin-top:0px" title="mehrfach Klicken um dieses Suchgebiet zu verkleiner">
                   </div>
-                  <input style="float:left;" type="checkbox" checked="false">
+                  <input type="checkbox" checked="false" style="float:left;">
                   <div style="float:left">
                     <label>Dippoldiswalde</label>
                     <br>
@@ -1771,7 +1771,7 @@
         </table>
       </div>
       <p>
-        <input type="text" placeholder="Vorname" autofocus style="width: 200px">
+        <input autofocus style="width: 200px" type="text" placeholder="Vorname">
         <input placeholder="Nachname" autofocus="false" style="width: 150px" type="text">
          
         <button style="width: 100px">Search</button>

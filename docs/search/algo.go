@@ -10,9 +10,6 @@ const (
 	DamerauLevenshtein        = 0
 	SoundexDamerauLevenshtein = 1
 	Exact                     = 2
-
-	JaroTreshold        = 0.4
-	JaroTresholdSoundex = 0.3
 )
 
 type Searcher interface {

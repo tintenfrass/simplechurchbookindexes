@@ -22,7 +22,7 @@ type fullData struct {
 type churchEntry struct {
 	Min  int
 	Max  int
-	Data []marriageEntry //TODO Sortiert nach Y und dann D&C => bringt nix, weil die Schleife über alles nur wenige ms benötigt
+	Data []marriageEntry
 }
 
 type marriageEntry struct {

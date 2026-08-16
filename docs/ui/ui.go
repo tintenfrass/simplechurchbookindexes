@@ -1,10 +1,11 @@
 package ui
 
 import (
-	"fmt"
 	"time"
 
 	"github.com/maxence-charriere/go-app/v10/pkg/app"
+	"golang.org/x/text/language"
+	"golang.org/x/text/message"
 
 	"onlinefuzzysearch/config"
 	"onlinefuzzysearch/search"
@@ -219,6 +220,8 @@ func (h *searchComp) OnMount(ctx app.Context) {
 		count += len(value.Data)
 	}
 
-	dur := time.Since(start)
-	h.debug = fmt.Sprintf("%d Datensätze geladen in %s", count, dur.Round(time.Millisecond).String())
+	_ = time.Since(start) //debug only
+
+	p := message.NewPrinter(language.German)
+	h.debug = p.Sprintf("%d Datensätze geladen", count)
 }

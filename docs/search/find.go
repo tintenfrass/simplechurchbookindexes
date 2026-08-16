@@ -23,7 +23,7 @@ func FindMarriage(inputV, inputN string, min, max int, places map[string]struct{
 	soundex := algo == 1
 	searcher := getSearcher(algo)
 
-	return findDouble(searchParts, min, max, places, exact, searcher, soundex)
+	return search(searchParts, min, max, places, exact, searcher, soundex)
 }
 
 func cleanInput(inputV, inputN string) []string {
