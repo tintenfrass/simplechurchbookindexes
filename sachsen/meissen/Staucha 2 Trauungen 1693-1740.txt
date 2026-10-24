@@ -206,7 +206,8 @@ Christian Kühne
 Andreas Hauptmann
 Martin Richter
 Andreas Richter
-Christian Beckerm Henßel
+Christian Becker
+Michael Henßel
 ----------------
 Hans Öhmigen
 Adam Rothe

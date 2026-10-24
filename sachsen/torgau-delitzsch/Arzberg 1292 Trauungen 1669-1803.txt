@@ -8,7 +8,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
----------------- x267
+---------------- x269
 1669
 Hans Klahman
 Michael : am Ende
@@ -74,6 +74,7 @@ Andreas Müller
 Johann Lochmann
 Johann Günther
 Hans Valand
+----------------
 1681
 Hans Andreas
 Jacob Schäffer
