@@ -10,7 +10,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
----------------- x7
+---------------- x3
 1854
 Friedrich Ernst Stein
 Friedrich Eduard Lehmann
@@ -40,7 +40,7 @@ Friedrich Alexander Bachmann
 Friedrich August Rüdiger
 ----------------
 1855
-Friedrich Alexander Bachmann
+Friedrich Alexander Tiebel
 Friedrich August Rüdiger
 Carl Benjamin Knauthe
 Friedrich August Wilhelm Lohse
@@ -256,7 +256,6 @@ Heinrich Hermann Behr
 Christian Emil Bienert
 Carl August Beckert
 Carl Emil Gössel
-----------------
 ? //nicht digitalisiert
 ? //nicht digitalisiert
 ? //nicht digitalisiert
@@ -748,7 +747,7 @@ Carl Friedrich Reinhold Heyne
 Eduard Bernhard Sommerschuh
 Friedrich Hermann Schelle
 Carl Reinhold Tittel
-Heinrich Hubrecht Zirnstein
+Heinrich Haberecht Zirnstein
 Carl August Pietzsch
 Carl Albert Hammer
 ----------------

@@ -204,7 +204,7 @@ Georg Kyseling
 Hans Kunerth
 Wenzel Klotz
 Georg Koell
-Isare? Eycheler
+Isaac Eycheler
 Martin Sella
 Moritz Köler
 Clemens Jeger
@@ -2007,6 +2007,6 @@ Benedig Brochlitz?
 Martin Hermann
 Georg Schlegel
 Paul Schmidt
-Mendelin Hartz
+Wendelin Hartz
 Blasius Schmidt
 Paul Keßeler

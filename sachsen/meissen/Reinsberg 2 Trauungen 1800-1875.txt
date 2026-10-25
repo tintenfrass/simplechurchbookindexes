@@ -75,7 +75,7 @@ Johann Gottlieb Schmidt
 Carl Heinrich Franke
 Johann Gottlieb Schlicke
 ----------------
-Carl Gottlob Erfurth?
+Carl Gottlob Erfurth
 Johann Gottlieb Rudolf
 Johann Gottlieb Iltsche
 Johann Gottlob Zochesper?
@@ -360,7 +360,6 @@ Carl Friedrich Wilhelm Rysel?
 Johann Michael Limbach
 Friedrich Wilhelm Graetschel
 Carl Gottlob Schumann
-----------------
 1830
 Christian Cornelius Jordan
 Johann Carl Gottfried Berger
