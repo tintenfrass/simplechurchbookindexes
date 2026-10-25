@@ -1128,7 +1128,7 @@ Hans Klotzsch
 Martin Hillig
 Peter Voigt
 Johannes Clauß
-Daniet Scüttig
+Daniel Schüttig
 Nicolaus Schirmer
 Georg Schuman
 ----------------
@@ -1141,15 +1141,15 @@ Georg Kleber
 Georg Clauß
 ----------------
 Paul Ditze
-Philipp Wehrdigk?
+Philipp Wehrdigk
 Peter Ranfft
-Peter Pidener?
+Peter Pirckner?
 Georg Fuhrman
 Johannes Vogel
 Jacob Winckler
 Gregor Petzsch
 ----------------
-Johann Christian Ecklerßberg?
+Johann Christian Eckerßberg
 Georg Borisch
 Georg Patzsch
 Antonius Wußlig?

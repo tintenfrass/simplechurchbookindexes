@@ -8,7 +8,7 @@ https://github.com/tintenfrass/simplechurchbookindexes
 
 
 
----------------- x2
+---------------- x3
 1729
 Johann Christoph Lenzer
 Johann Christoph Seewaldt
@@ -1104,7 +1104,7 @@ Johann Friedrich Ruhe
 Gottlieb Benjamin Noffe
 Johann Georg Schreyer
 Waldemar Nicol Pierming
-Christian Ersmann Dehner
+Christian Erdmann Dehner
 1755
 Johann Gottfried Hanizsch
 Johann Christoph Kirschbaum

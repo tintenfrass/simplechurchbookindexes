@@ -690,7 +690,7 @@ Martin Leuderitz
 Jacob Reiche
 1607
 Blasius Nauman
-Elisa Steinbrecher
+Elias Steinbrecher
 Georg Hanitsch
 Martin Pitzsch
 Georg Kummer
@@ -1371,7 +1371,7 @@ Barthel Kareß
 Friedrich Legeler
 Christoph Wolf
 Georg Hantsch
-Elisa Zimmerman
+Elias Zimmerman
 Merten Lohse
 1634 [Teil 1]
 Nickel Helwig

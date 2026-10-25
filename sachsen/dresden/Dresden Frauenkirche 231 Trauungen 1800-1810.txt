@@ -232,6 +232,7 @@ Joachim Christoph Hennigs
 Johann Friedrich August Vognitz
 Johann Gottlieb August Kniße
 Johann Christian Haubenreißer
+----------------
 Johann Gottfried Fritzsche
 Samuel Peter
 ----------------
@@ -980,7 +981,7 @@ Johann Traugott Grofert
 Johann Gottlieb Lohrmann
 ----------------
 Johann Gottlieb Saupe
-Eibert? Heinrich Gottlieb Böhrer
+Eibert Heinrich Gottlieb Böhrer
 Johann August Huhle
 Christian Gottlieb Gallus
 Wilhelm Heinrich Fasold
